@@ -1,7 +1,7 @@
 """Contrôle des liens thématiques vers la bibliographie scientifique française MYTHOS.
 
-Contrôle les 50 ancres scientifiques et les renvois thématiques ; aucun manuscrit canonique
-ni aux anciennes références.
+Contrôle les 50 ancres scientifiques et les renvois thématiques sans modifier
+les manuscrits canoniques ni les références antérieures.
 """
 from pathlib import Path
 from urllib.parse import urlsplit

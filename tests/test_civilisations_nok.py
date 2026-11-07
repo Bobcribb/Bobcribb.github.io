@@ -1,4 +1,5 @@
 """Tests de publication et de classement pour le dossier historique Nok."""
+from html.parser import HTMLParser
 from pathlib import Path
 import sys
 import unittest
@@ -13,6 +14,24 @@ NOK_URL = "/bibliotheque-mythologies-du-monde/civilisations-nok-nigeria/"
 NOK_PATH = ROOT / "bibliotheque-mythologies-du-monde" / "civilisations-nok-nigeria" / "index.html"
 
 
+class NokStudyHTMLParser(HTMLParser):
+    """Contrôle les attributs HTML sans dépendre de leur ordre de sérialisation."""
+
+    def __init__(self):
+        super().__init__()
+        self.canonical = None
+        self.numbered_sections = 0
+
+    def handle_starttag(self, tag, attrs):
+        data = dict(attrs)
+        if tag == "link" and data.get("rel") == "canonical":
+            self.canonical = data.get("href")
+        if (tag == "section"
+                and "mythos-study-section" in data.get("class", "").split()
+                and data.get("aria-labelledby", "").startswith("nok-")):
+            self.numbered_sections += 1
+
+
 class NokCivilisationsTests(unittest.TestCase):
     def test_nok_is_classified_under_africa(self):
         item = {"url": NOK_URL, "title": "Culture Nok, Nigeria"}
@@ -23,8 +42,10 @@ class NokCivilisationsTests(unittest.TestCase):
 
     def test_nok_study_is_complete_and_crosslinked(self):
         article = NOK_PATH.read_text(encoding="utf-8")
-        self.assertIn('rel="canonical" href="https://bobmythos.fr' + NOK_URL + '"', article)
-        self.assertEqual(article.count('class="mythos-study-section" aria-labelledby="nok-'), 12)
+        parsed = NokStudyHTMLParser()
+        parsed.feed(article)
+        self.assertEqual(parsed.canonical, "https://bobmythos.fr" + NOK_URL)
+        self.assertEqual(parsed.numbered_sections, 12)
         self.assertIn('id="nok-sources"', article)
         self.assertIn("/civilisations/afrique/", article)
         self.assertIn("/chapitres/origines-du-sacre/736-nok-nigeria-", article)

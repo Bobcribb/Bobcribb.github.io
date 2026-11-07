@@ -1,0 +1,551 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 492
+
+## Les Harpyes, du vent ravisseur à la nourriture interdite : Thaumas, Pandaréos, Phinée, les Boréades et les Strophades
+
+*Monographie critique originale, 7 novembre 2026. Philologie, cosmogonie, poésie homérique, Argonautiques, réception virgilienne, cultes, archéologie, iconographie, historiographie et philosophie. Le nombre 492 est une variable de publication, sans attribution anticipée.*
+
+### Résumé et thèse
+
+Les Harpyes constituent une catégorie mythologique beaucoup moins homogène que leur portrait courant de femmes-oiseaux repoussantes ne le laisse croire. Hésiode, Théogonie 265–269, donne à Aellô et Ocypété une belle chevelure et une vitesse comparable à celle des vents. Homère met en scène Podargé, mère des chevaux immortels d'Achille, puis attribue aux Harpyes des enlèvements humains. Apollonios de Rhodes, Argonautiques II, 178–300, raconte la souffrance du devin Phinée, le secours des fils de Borée et l'interdiction divine de tuer ses persécutrices. Le pseudo-Apollodore, Bibliothèque I, 9, 21, connaît une autre fin de cette poursuite. Virgile, Énéide III, 209–269, fait de Céléno une interprète du destin des Troyens. Le nom se maintient, mais sa fonction se transforme.
+
+Ce dossier reconstitue cette pluralité sans inventer une légende unique : qui sont les Harpyes dans chaque source ? Comment les faire apparaître dans une histoire des vents, des frontières et de la nourriture ? Pourquoi le supplice d'un devin devient-il l'étape nécessaire à un voyage maritime ? Que prouvent réellement les scènes de vases et le célèbre « Monument des Harpyes » de Xanthos, dont l'identification reste disputée ? Quels cultes leur furent effectivement rendus — et dans quelles limites convient-il de parler de culte ? La méthode refuse la confusion entre récit mythique, représentation matérielle et hypothèse moderne.
+
+Dans la suite, [A] désigne une attestation ancienne explicite, [V] une variante conservée, [M] une donnée matérielle documentée, [H] une hypothèse philologique ou historique et [I] une interprétation contemporaine. Une attestation littéraire prouve qu'un récit était connu, et non l'existence physique de la créature ; une photographie archéologique documente un objet, mais ne transforme pas son titre moderne en identification certaine.
+
+---
+
+## I. Définir une catégorie mythique instable
+
+### 1. Une image moderne trop étroite
+
+L'iconographie contemporaine représente couramment une Harpye avec une tête de femme, un corps d'oiseau et des serres. Cette silhouette résume certains témoignages tardifs et certaines représentations anciennes, mais elle n'est pas la définition d'Hésiode. Le poète archaïque ne raconte ni corps putréfié ni repas souillé lorsqu'il donne les deux noms d'Aellô et d'Ocypété. Commencer par les textes plutôt que par le dessin permet de comprendre comment le groupe a pu recevoir des valeurs contrastées.
+
+Les Harpyes ne sont pas un « peuple » qu'une fouille archéologique pourrait localiser comme une culture matérielle autonome. Elles sont des êtres de récit, de généalogie et parfois d'image. Les catalogues savants peuvent comparer ces emplois sans les fusionner. Il est tout aussi problématique d'affirmer qu'elles sont « seulement des vents » que de les décrire partout comme des prédatrices à plumes : l'une et l'autre opération effacent des témoignages irréductibles.
+
+### 2. La différence entre nom et fonction
+
+La généalogie hésiodique les associe à Iris et aux phénomènes de mouvement ; le récit homérique des jeunes filles de Pandaréos souligne le passage irréversible d'une existence à une autre ; le cycle de Phinée fait d'elles des exécutrices de la contrainte divine ; l'épopée latine leur donne une voix d'accusation contre les voyageurs. Le nom a une continuité mais n'implique pas la permanence d'une seule mission. La variété doit être expliquée par la situation historique des auteurs, les genres littéraires et la liberté de remaniement des poètes.
+
+### 3. Une chronologie des témoins, non des faits racontés
+
+Homère et Hésiode sont les premiers grands témoins conservés ; la peinture de vases attiques donne des images datables à l'époque archaïque tardive et classique ; Apollonios compose dans le monde hellénistique ; Virgile réélabore le matériau dans une épopée romaine ; Pausanias rapporte au IIe siècle de notre ère des traditions et des œuvres plus anciennes. La date du témoin est vérifiable de manière approximative, celle de la naissance d'un récit oral l'est beaucoup moins. Aucun vase du Ve siècle ne « prouve » qu'un événement des Argonautes eut lieu à l'époque où le mythe le situe.
+
+### 4. Préserver les différents niveaux d'enquête
+
+Le texte de Hésiode fournit une généalogie ; l'hydrie du Getty montre une scène ; la notice d'un musée fournit une datation, une provenance parfois connue et une attribution stylistique ; une interprétation philosophique propose un sens. Ces quatre niveaux doivent rester distincts. L'encyclopédie n'a pas à choisir une « véritable Harpye » derrière les textes. Elle doit montrer les manières dont les Grecs et les Romains ont employé cette figure pour produire des effets intellectuels et religieux différents.
+
+---
+
+## II. Philologie des noms et des qualités
+
+### 5. ἅρπυια : ravir et transporter
+
+Le mot grec ἅρπυια, au pluriel ἅρπυιαι, est communément rapproché du champ de ἁρπάζω, saisir et emporter. Le rapprochement est sémantiquement éclairant : le récit homérique des disparus et celui des filles de Pandaréos parlent précisément de ravissement. Une relation étymologique ancienne reste toutefois un objet d'analyse linguistique, pas une preuve que tous les emplois du mot signifiaient exactement « enlèvement violent ». Il faut distinguer une étymologie explicative probable de la description morphologique de la créature.
+
+### 6. Aellô et Ocypété
+
+Hésiode nomme Ἀελλώ, Aellô, dont le nom évoque ἄελλα, la rafale ou bourrasque, et Ὠκυπέτη, Ocypété, qui met en valeur la vitesse de déplacement aérien. Les deux noms sont cohérents avec le portrait de créatures qui accompagnent le vent et les oiseaux. Ils ne contiennent ni une définition de la laideur ni une indication de culte. On ne peut pas en déduire la date d'un rite d'apaisement des tempêtes.
+
+### 7. Podargé : courir au bord du monde
+
+Dans l'Iliade XVI, 148–154, la Harpye Podargé, « aux pieds rapides », se trouve au voisinage du flot d'Océan et s'unit au vent Zéphyr. Elle est mère de Xanthos et Balios. Cette attestation n'impose pas de l'ajouter comme une troisième sœur aux deux filles nommées par Hésiode, puisque le passage ne fournit pas cette ascendance. La qualité du nom participe à la généalogie des chevaux extraordinaires plus qu'à un « bestiaire » uniforme.
+
+### 8. Les variantes du pseudo-Apollodore
+
+Le pseudo-Apollodore I, 9, 21 signale les formes Nicothoé, Aellopos, Ocypété, Ocythoé et Ocypodé suivant les versions qu'il rapporte. La matière est instable jusque dans la transmission des noms. Réunir toutes les formes dans une seule série de personnes numériquement distinctes donnerait une précision illusoire. Les études philologiques doivent indiquer quel nom est porté par quel texte et renoncer à reconstituer un acte de naissance mythique unique.
+
+### 9. Céléno, le nom qui porte une voix
+
+Virgile nomme Celaeno, en français Céléno, une Harpye des Strophades. Son nom rappelle le sombre, mais sa fonction principale dans l'Énéide III est d'énoncer un oracle terrifiant. Ce nom ne figure pas dans la paire hésiodique. Une analyse de la réception le traite comme un réemploi latin spécifique, et non comme une information rétroactive sur la liste du poème archaïque.
+
+---
+
+## III. Hésiode : naissance des Harpyes et ordre cosmique
+
+### 10. La Théogonie 265–269
+
+[A] Thaumas épouse Électre, une fille d'Océanos ; elle lui donne Iris et les Harpyes Aellô et Ocypété. Les Harpyes ont une belle chevelure et rivalisent avec les vents et les oiseaux par le déplacement de leurs ailes. Les vers exposent une proximité à la fois généalogique et fonctionnelle entre mouvement, manifestation aérienne et communication. Il faut maintenir la qualification favorable de leur apparence, souvent omise par les dictionnaires modernes.
+
+### 11. Thaumas, Pontos et Océanos
+
+Thaumas appartient à la descendance de Pontos dans la Théogonie 233–239. La mère des Harpyes, Électre, vient du monde des Océanides. Le rapprochement d'une lignée marine et d'une rapidité aérienne met en place un imaginaire des passages entre éléments. [I] On peut y voir une façon d'organiser des puissances naturelles, mais non une description scientifique des mouvements de l'atmosphère. Hésiode compose un récit généalogique, pas un traité de météorologie.
+
+### 12. Les deux sœurs et Iris
+
+La proximité d'Iris permet d'éclairer, sans confusion, le rôle ultérieur de cette dernière dans le sauvetage de Phinée : la messagère et les Harpyes peuvent être pensées dans un même horizon de vitesse et de déplacement. Pourtant, la Théogonie 265–269 ne décrit aucune intervention d'Iris devant les Boréades. Cette scène est à établir à partir d'Apollonios, et non à inventer dans le texte hésiodique.
+
+### 13. Harpyes et autres êtres des confins
+
+La Théogonie passe ensuite aux Grées et aux Gorgones, issues de Phorcys et Céto. L'enchaînement favorise un classement comparatif des êtres extraordinaires, mais il ne signifie pas que les Harpyes sont elles aussi filles de Phorcys et Céto chez Hésiode. Le glissement d'un voisinage poétique à une filiation fictive est l'une des erreurs les plus fréquentes dans les arbres généalogiques modernisés.
+
+### 14. Les monstres peuvent être beaux
+
+La belle chevelure et la vitesse de ces personnages invitent à nuancer la catégorie de « monstre ». L'antiquité ne possède pas un canon permanent selon lequel la morphologie étrange serait toujours repoussante et synonyme de malveillance. [I] La beauté d'une puissance n'implique pas son innocence morale ; sa dangerosité n'implique pas son absence de beauté. C'est la situation narrative qui fixe son rôle.
+
+---
+
+## IV. Iliade : Podargé et la vitesse guerrière
+
+### 15. Le contexte du chant XVI
+
+[A] Dans l'Iliade XVI, 148–154, le récit de l'attelage préparé pour Patrocle indique que les chevaux Xanthos et Balios furent engendrés par Podargé et le vent Zéphyr. Les chevaux sont rapides comme les vents ; la généalogie leur donne une origine extraordinaire. Il ne faut pas transformer cette Harpye en voleur de nourriture uniquement parce que le nom évoque ailleurs la prédation.
+
+### 16. Les chevaux et le transfert des qualités
+
+La vitesse du vent se transmet aux animaux du char d'Achille par une origine mythique. [I] Cette procédure de généalogie qualitative permet de comprendre pourquoi l'épopée mobilise des parentés impossibles pour la zoologie : elles produisent une valeur narrative, ici la rapidité et l'excellence guerrière. Une comparaison avec les autres chevaux divins reste possible, à condition de ne pas les attribuer tous à Podargé.
+
+### 17. La rencontre des limites humaines
+
+Le char héroïque utilise des chevaux d'origine divine mais son conducteur reste mortel. Ce contraste est décisif dans un chant où Patrocle s'expose à la mort. [I] La généalogie merveilleuse ne garantit pas au combattant une invulnérabilité. Ce résultat rapproche le motif de la réflexion générale de l'Iliade sur les dons divins et les limites de l'action humaine sans déplacer le dossier vers une biographie complète d'Achille.
+
+---
+
+## V. Odyssée : disparitions et douleur des proches
+
+### 18. Télémachos et l'inconnu
+
+[A] Dans l'Odyssée I, 241, la disparition d'Ulysse peut être attribuée, dans la parole de ceux qui ignorent son sort, à des puissances ravisseuses comme les Harpyes. Cette hypothèse énoncée par un personnage n'est pas un événement du récit attestant qu'Ulysse fut réellement capturé par elles. L'enlèvement fournit un langage pour nommer une absence irrésolue.
+
+### 19. L'absence de tombe
+
+[I] Lorsque le corps est absent et le destin inconnu, la famille reste privée de la clarté de la mort et de sa localisation. L'image de l'enlèvement aérien transforme cette incertitude en puissance mythique. On peut comprendre l'importance de la disparition au regard des valeurs funéraires grecques, mais il serait abusif de déduire de ces lignes l'existence d'un rituel général destiné aux Harpyes pour retrouver les disparus.
+
+### 20. L'expression et le fait
+
+La méthode doit sans cesse distinguer la formule du dialogue et le monde de l'histoire racontée. Une formule comme « les Harpyes ont dû l'emporter » peut exprimer la douleur ou l'impossibilité de savoir ; elle ne renseigne pas sur une croyance homogène de tous les auditeurs ni sur la présence d'une bête aperçue par un témoin. L'épopée produit un sens avec l'indécision.
+
+---
+
+## VI. Les filles de Pandaréos et les Érinyes
+
+### 21. L'Odyssée XX, 61–78
+
+[A] Dans la parole de Pénélope, les filles de Pandaréos sont des orphelines élevées et favorisées par les déesses. Aphrodite les nourrit et prépare un avenir matrimonial ; Héra, Artémis et Athéna leur donnent qualités et compétences. En l'absence d'Aphrodite, les Harpyes les arrachent à cette promesse et les livrent aux Érinyes. Le texte n'expose pas une chasse aux filles de Pandaréos par Phinée ni un épisode des Argonautes : ces actions appartiennent à des cycles distincts.
+
+### 22. Une existence interrompue
+
+Le récit insiste sur la possibilité d'un avenir social qui ne s'accomplit pas. [I] Le ravissement est la figure d'une biographie suspendue, et son effet est plus tragique que ne le serait une simple arrivée de créatures monstrueuses. Les cadeaux des déesses dessinent une vie qui devait être possible. L'enlèvement ne se contente pas d'éloigner les jeunes filles : il annule le programme qui semblait leur être réservé.
+
+### 23. Harpyes et Érinyes ne sont pas identiques
+
+Le verbe d'action est important : les Harpyes livrent leurs victimes aux Érinyes. Les premières assurent le transfert, les secondes reçoivent les jeunes filles. Rien n'autorise à faire des Harpyes un autre nom des Érinyes. Les comparaisons de la tragédie peuvent rapprocher des figures effrayantes sans fusionner leurs généalogies, leurs pouvoirs et leurs apparences.
+
+### 24. Pausanias et Polygnote
+
+[A] Pausanias, Description de la Grèce X, 30, 1–2, décrit dans la Lesché des Cnidiens de Delphes une représentation des filles de Pandaréos attribuée à Polygnote. Il les voit comme des jeunes filles couronnées de fleurs, jouant aux osselets, et donne les noms Camiro et Clytié. Cette peinture antique est perdue. La description de Pausanias atteste ce qu'il a vu ou la tradition qui lui a été transmise, mais ne permet pas de fabriquer une image très détaillée de tous les motifs perdus.
+
+### 25. Une iconographie du temps précédant le désastre
+
+Selon Pausanias, Polygnote ne montre pas nécessairement les Harpyes au moment du rapt : la représentation des jeunes filles fait sentir le contraste entre leurs jeux et leur destinée. [I] L'absence de l'acte violent dans une image peut devenir un procédé puissant pour évoquer le destin. Le peintre rend visible une humanité dont le texte annonce qu'elle fut menacée ; il ne se contente pas d'illustrer littéralement chaque vers homérique.
+
+---
+
+## VII. Phinée : un devin privé de son besoin premier
+
+### 26. La géographie de la rencontre
+
+[A] Dans les Argonautiques II, Phinée vit près du parcours menant les Argonautes vers le Pont-Euxin. Le devin est associé au littoral thrace et au contexte des passages difficiles. Les versions anciennes ne donnent pas toutes la même généalogie ni une explication unique de sa cécité. La continuité du nom ne suffit pas à harmoniser ces récits en une carrière historique d'un seul homme.
+
+### 27. La faute de la parole prophétique
+
+[A] Apollonios II, 178–239 explique la punition de Phinée par une divulgation excessive des desseins divins. Ce cas est remarquable : la compétence de prédire ou d'interpréter n'est pas condamnée en elle-même, puisque le devin donnera bientôt des conseils essentiels ; c'est le droit d'exposer la volonté de Zeus qui se trouve limité. [I] Le récit met en scène la différence entre savoir, autorisation de parler et conséquences d'une parole.
+
+### 28. Le supplice par la nourriture
+
+Les Harpyes saisissent le repas dès qu'il est dressé et laissent une odeur insupportable dans les restes. La répétition rend la sanction constante sans imposer de chaînes. Celui qui dispose de la clairvoyance la plus précieuse ne peut satisfaire son besoin corporel le plus simple. Cette contradiction intéresse l'anthropologie de la puissance : une compétence extraordinaire ne vaut pas indépendance à l'égard des besoins ordinaires.
+
+### 29. Privation et contamination
+
+Le récit distingue deux actes : emporter les aliments et rendre impropres à la consommation ceux qui subsistent. Il ne faut donc pas réduire la scène à une « gloutonnerie » des Harpyes. L'odeur est le signe perceptible d'une privation de toute issue. Le supplice n'est pas réglé par l'abondance des provisions ; leur présence rend même la sanction plus visible.
+
+### 30. Le banquet n'est pas un rite documenté
+
+Aucun passage du cycle ne permet d'affirmer qu'une cité organisait annuellement un repas sacrificiel pour les Harpyes ou pour Phinée. Nous possédons une scène narrative, non une inscription donnant un calendrier de fête. Une étude scientifique peut parler d'une valeur religieuse du repas sans inventer autel, officiant, procession ou théologie cultuelle indépendante.
+
+---
+
+## VIII. Les fils de Borée : la possibilité d'une délivrance
+
+### 31. Zétès et Calaïs
+
+[A] Les Boréades Zétès et Calaïs ont une aptitude au vol qui permet d'affronter les Harpyes sur leur terrain. Cette capacité est liée à leur filiation avec Borée, le vent du Nord, mais elle ne les fait pas appartenir au même groupe que les filles de Thaumas. L'épopée superpose des puissances du mouvement tout en les opposant moralement dans une situation déterminée.
+
+### 32. L'hésitation avant l'action
+
+[A] Apollonios II, 240–262 montre les Boréades demander à Phinée si leur intervention ne suscitera pas la colère des dieux. Phinée jure qu'ils peuvent le sauver. La question précède les épées : la délivrance ne dépend pas seulement du courage ou de la force, mais d'un examen de l'autorisation divine. Les abrégés qui suppriment ce serment préliminaire détruisent une partie de la structure éthique du récit.
+
+### 33. Une coopération des Argonautes
+
+Le repas est organisé pour attirer de nouveau les créatures. Les compagnons secourent le devin par un dispositif collectif ; deux d'entre eux possèdent seuls la compétence physique de poursuivre dans l'air. L'expédition devient une communauté de capacités complémentaires, et non l'histoire d'un Jason tout-puissant. [I] Cette distribution des fonctions est une des grandes innovations narratives du poème hellénistique.
+
+### 34. La poursuite aérienne
+
+[A] Apollonios II, 263–286 fait suivre le rapt d'une course violente au-dessus de la mer. Les Harpyes semblent presque rejointes par leurs poursuivants, dont les armes pourraient les tuer. La narration inverse les rôles : les créatures prédatrices deviennent des proies. Pourtant, l'inversion de la force ne détermine pas encore ce qu'il est légitime de faire aux vaincues.
+
+### 35. Iris fait cesser la violence
+
+[A] Apollonios II, 286–300 : Iris interrompt les Boréades avant la mise à mort. Elle désigne les Harpyes comme les « chiens » du grand Zeus et affirme l'interdiction de les frapper. Par un serment sur le Styx, elle garantit qu'elles ne poursuivront plus Phinée. La fin d'Apollonios n'est donc pas l'extermination des êtres malfaisants, mais leur éloignement et la restauration d'une limite acceptable.
+
+### 36. Les « chiens de Zeus » ne sont pas des chiens physiques
+
+L'expression évoque le service d'une puissance supérieure. Elle ne donne pas aux Harpyes une tête ou une anatomie de chien. [I] L'image des agents divins met en crise la morale simplificatrice selon laquelle toute créature nuisible serait extérieure à l'ordre de Zeus. Le héros doit s'opposer à une action sans prétendre abolir par ses armes la puissance dont elle dépend.
+
+### 37. La force du serment
+
+Le Styx représente la sanction des engagements divins ; la parole d'Iris remplace ici la poursuite armée. [I] La scène peut être comprise comme une réflexion sur la nécessité d'une **parole qui limite la vengeance**. Il ne s'agit pas d'un code de procédure judiciaire grec, mais d'une construction mythique où l'ordre du monde interdit d'aller jusqu'au meurtre.
+
+---
+
+## IX. Les Strophades et les itinéraires mythiques
+
+### 38. Le retournement comme toponyme
+
+Le nom des Strophades est rapproché du retournement ou de l'arrêt au cours de la poursuite. Le récit explique par une action mémorable un lieu maritime nommé. [A] Apollonios connaît aussi l'appellation ancienne des îles Flottantes. Le rapprochement entre un lieu réel et une explication mythique ne prouve pas que l'archipel flottait physiquement ni qu'une poursuite aérienne y ait été constatée.
+
+### 39. La fin alternative du pseudo-Apollodore
+
+[V] Dans Bibliothèque I, 9, 21, une Harpye tombe dans le fleuve Tigrès du Péloponnèse, dit ensuite Harpys ; l'autre atteint les îles Échinades puis les Strophades et y tombe d'épuisement ou s'immobilise. Le mythographe rapporte plusieurs noms et rappelle explicitement une autre issue chez Apollonios, où les créatures restent indemnes. L'historien doit préserver ce contraste sans fabriquer une fin qui réunirait les deux.
+
+### 40. La double condition de destin
+
+Le même texte rapporte un destin conditionnel concernant les Harpyes et les Boréades : la possibilité de mourir ou d'échouer dans la poursuite rend la scène plus complexe qu'un duel prévisible. [I] Le danger frappe les poursuivants aussi bien que les êtres poursuivis. La supériorité d'une action héroïque ne se mesure donc pas seulement à sa puissance destructrice.
+
+### 41. La géographie des variantes
+
+Une carte devra distinguer les îles Strophades en mer Ionienne, le refuge crétois indiqué par Apollonios, les chemins marins du Pont et les lieux de la variante pseudo-apollodorienne. Les parcours littéraires n'attestent pas des itinéraires réels de migration. [H] Les divergences géographiques relèvent de l'histoire des traditions et de la composition des poèmes, non d'une cartographie archéologique de créatures inexistantes dans le registre matériel.
+
+---
+
+## X. Après Phinée : le savoir qui ouvre un passage
+
+### 42. Les Roches Cyanées
+
+[A] Apollonios II, 311–340 et pseudo-Apollodore I, 9, 22 font de Phinée un guide : il explique aux Argonautes comment franchir les Roches Cyanées, dont le mouvement menace les navires. L'épreuve d'une colombe donne aux navigateurs une information avant leur propre tentative. Le secours accordé au devin rend ainsi possible un secours intellectuel en retour.
+
+### 43. Deux compétences en échange
+
+La coopération des Boréades et la connaissance de Phinée se répondent : les uns possèdent la vitesse capable d'éloigner les Harpyes ; l'autre connaît des conditions de passage que les marins ignorent. [I] Le mythe ne réduit pas le savoir à une marchandise : il montre un échange de services entre êtres vulnérables et êtres habiles, chacun n'ayant qu'une partie de ce qui est nécessaire.
+
+### 44. La colombe n'est pas une Harpye
+
+La présence d'oiseaux et d'êtres ailés dans un même itinéraire ne les rend pas équivalents. La colombe est un instrument de connaissance du passage ; les Harpyes ont été les agents d'une punition. Le classement par l'apparence « ailée » est insuffisant. Cette distinction illustre pourquoi une encyclopédie scientifique doit relier la morphologie aux actions et aux contextes.
+
+---
+
+## XI. Virgile : une voix sombre accuse les voyageurs
+
+### 45. Énéide III, 209–244
+
+[A] Énée et les Troyens abordent les Strophades, où ils préparent un repas à partir d'animaux présents sur l'île. Les Harpyes surgissent et rendent la nourriture inutilisable. Le motif rappelle celui de Phinée, mais sa fonction change : les voyageurs ne se rendent pas dans un lieu pour guérir un devin, ils rencontrent une résistance sur leur propre route. La scène devient un prélude à une prophétie concernant l'Italie.
+
+### 46. La plainte des êtres décrits comme monstres
+
+Céléno accuse les Troyens d'avoir abattu du bétail et de vouloir chasser les Harpyes de leur royaume ancestral. Son discours appelle même les Harpyes « innocentes » selon son propre point de vue. Le lecteur n'a pas à adopter entièrement cette revendication, mais ne peut la supprimer : Virgile donne une capacité d'accusation à celles que les voyageurs nommaient d'abord comme nuisances.
+
+### 47. L'oracle des tables
+
+[A] Énéide III, 245–258 : Céléno annonce que la faim conduira les Troyens à dévorer leurs tables avant qu'ils ne puissent fonder leur ville. L'oracle est inquiétant parce que manger le support du repas semble signifier la disparition de toute ressource. Il met en rapport le plus élémentaire des besoins et le temps long de la fondation politique.
+
+### 48. La solution dans le livre VII
+
+[A] Énéide VII, 107–129 donne à l'oracle un accomplissement interprétable : les Troyens mangent les supports alimentaires de leur repas et reconnaissent le signe de leur destination. [I] La menace se retourne en confirmation ; la parole de Céléno participe paradoxalement à l'intelligibilité du destin troyen. Une étude qui s'arrêterait aux seules Strophades manquerait cette réévaluation.
+
+### 49. Un portrait latin, pas une description hésiodique
+
+Virgile insiste sur les traits repoussants des créatures et leur pouvoir d'impureté. Ce portrait peut appartenir à une tradition iconographique et poétique tardive, mais ne doit pas être projeté sur Aellô et Ocypété telles que les présente Hésiode. La différence ne mesure pas nécessairement une « dégradation » continue des croyances ; elle marque des choix de composition dans des épopées distinctes.
+
+---
+
+## XII. Eschyle, les êtres ailés et le théâtre
+
+### 50. Euménides 46–54
+
+[A] Au début des Euménides, la Pythie compare les Érinyes qu'elle voit à des Gorgones, puis à des Harpyes telles qu'elles peuvent apparaître dans la peinture, avant de souligner les différences. Cette comparaison renseigne sur la reconnaissance d'un type figuré par le public d'Eschyle ; elle ne signifie pas que les personnages dramatiques soient réellement des Harpyes. Une comparaison visuelle n'est pas une identification généalogique.
+
+### 51. Les tragédies perdues de Phinée
+
+Les titres et les fragments de tragédies sur Phinée indiquent l'intérêt du mythe pour la scène. La recherche moderne distingue des fragments textuellement attestés et des reconstructions narratives. Le dossier présent n'attribue aucun discours inventé à Sophocle ou à un autre tragique. Il complète les volumes de théâtre du site sans reproduire leurs notices de fragments ni leurs scénarios hypothétiques.
+
+### 52. La valeur d'une absence scénique
+
+Une image de Phinée secouru peut ne pas montrer les Harpyes au moment où elle raconte leur défaite. Une tragédie peut, de même, faire sentir une menace par des paroles ou des récits. [I] L'histoire du spectacle ne se limite pas à la présence visible des personnages. Cette idée empêche de conclure qu'une Harpye « n'existait pas dans le mythe » parce qu'elle est absente d'une représentation précise.
+
+---
+
+## XIII. Trois dossiers archéologiques
+
+### 53. Hydrie Getty, 85.AE.316
+
+[M] Une hydrie attique à figures rouges attribuée au Peintre de Cléophradès, datée vers 480 av. J.-C. et conservée au J. Paul Getty Museum sous le numéro 85.AE.316, montre le devin Phinée et des figures ailées s'emparant de sa nourriture. La notice Perseus Art and Archaeology en donne une description et des dimensions. La relation entre Phinée, la table et les êtres ailés étaye l'identification narrative mieux que ne le ferait la morphologie des figures prise isolément.
+
+La documentation iconographique peut être citée et reliée, mais aucune photographie de l'objet ne doit être intégrée sans vérifier la licence de son fichier particulier. L'ancienneté du vase ne suffit pas à établir le statut juridique de la photographie.
+
+### 54. Cratère du Louvre, G 364
+
+[M] Un cratère attique à figures rouges attribué au Peintre de Léningrad, vers 460 av. J.-C., conservé au Louvre sous l'inventaire G 364, représente Phinée avec les Boréades. La photographie publiée sous le titre Phineus Boreads Louvre G364.jpg sur Wikimedia Commons est déclarée dans le **domaine public** par son auteur, avec une notice de provenance du fichier. Elle peut documenter la mise en scène des sauveteurs ailés dans la céramique classique.
+
+Le fait que les Harpyes ne soient pas toujours présentes dans le cadrage conservé ne doit pas conduire à une attribution négative : les images peuvent sélectionner un instant du récit, puis laisser au spectateur la connaissance des autres étapes.
+
+### 55. Le monument dit des Harpyes de Xanthos
+
+[M] Le monument funéraire de Xanthos en Lycie, vers 480 av. J.-C., comporte des figures de femmes ailées transportant de petits êtres. Le nom traditionnel « Harpy Tomb » n'est pas une identification indiscutable : des lectures comme **Sirènes** ou figures funéraires locales ont été proposées. Le catalogue Perseus le décrit comme une tombe à reliefs de Sirènes et de femmes ; l'Université d'Oxford rappelle les débats d'identification. Les reliefs originaux sont conservés au British Museum, tandis que des copies se trouvent sur le site.
+
+La sculpture appartient à l'histoire de la Lycie ancienne dans un contexte de contacts gréco-anatoliens et achéménides. On ne saurait déduire de l'appellation moderne l'existence d'un « sanctuaire des Harpyes » à Xanthos. La comparaison iconographique est précieuse précisément parce qu'elle montre les difficultés de nommer les êtres ailés à partir des seuls traits visibles.
+
+### 56. La morphologie ne constitue pas une attribution suffisante
+
+Les ailes, serres et visages féminins peuvent figurer Sirènes, Harpyes ou d'autres puissances. L'identification exige une composition, un contexte, une inscription éventuelle et des parallèles. [H] Une scène de table ravagée possède une valeur d'identification supérieure à une figure isolée, mais les attributions restent toujours proportionnelles aux preuves disponibles. Une reconstitution 3D photoréaliste ne résout pas par elle-même ce problème : elle peut rendre un support matériel, pas transformer une hypothèse en certitude.
+
+---
+
+## XIV. Cultes, rites, inscriptions : les limites positives du dossier
+
+### 57. Pas de sanctuaire autonome démontré
+
+Le corpus ici contrôlé n'établit aucun sanctuaire indépendant des Harpyes avec dédicace, prêtres, calendrier sacrificiel et topographie identifiable. L'absence de preuve positive ne permet pas d'affirmer qu'aucune invocation locale n'a jamais existé ; elle interdit en revanche de rédiger comme des faits des pratiques rituelles imaginées pour compléter une notice. Une rubrique cultuelle universitaire peut légitimement être négative et expliquer les conditions de la preuve.
+
+### 58. Le serment du Styx n'est pas un culte des Harpyes
+
+Iris jure sur le Styx dans le récit d'Apollonios. Cela prouve la place religieuse de la garantie du serment dans l'économie du poème, non l'existence d'un autel des Harpyes sur les Strophades. Le même principe vaut pour les divinités mentionnées dans un oracle : la présence d'un nom sacré dans un récit ne suffit pas à documenter un culte local.
+
+### 59. La table de Phinée et la prudence rituelle
+
+Aucun texte primaire retenu ne décrit une cérémonie annuelle nommée « fête du repas de Phinée », avec répétition civique, calendrier et participants. L'épreuve alimentaire n'est pas équivalente à un sacrifice public attesté. La comparaison anthropologique des repas est utile, mais elle ne doit pas changer une scène épique en dossier archéologique de rite.
+
+### 60. Les morts et les images funéraires
+
+L'enlèvement des filles de Pandaréos et le monument de Xanthos ont conduit à lire les Harpyes comme des puissances liées au passage vers la mort. Cette réflexion est défendable comme question comparative. Il serait pourtant infondé d'attribuer à toutes les communautés grecques une croyance codifiée selon laquelle les Harpyes transportaient toutes les âmes. Les textes et les objets ne donnent pas cette universalité.
+
+### 61. Quelles sources seraient décisives ?
+
+Un dossier cultuel substantiel exigerait une dédicace nommant les Harpyes, un règlement cultuel, un témoignage de sacrifices localisés ou une inscription sûre sur une installation rituelle. Un toponyme ou une image ailée n'est pas l'équivalent de cette preuve. Le constat négatif constitue donc un véritable résultat de critique religieuse, et non une lacune que l'imagination pourrait combler.
+
+---
+
+## XV. Anthropologie de la nourriture et de l'absence
+
+### 62. Avoir de la nourriture et pouvoir manger
+
+Dans le cycle de Phinée, un homme peut recevoir une nourriture abondante sans pouvoir en bénéficier. Les Harpyes emportent une partie des aliments et rendent le reste répugnant. [I] Le récit dissocie la possession d'un bien et la capacité d'en user ; il révèle une dépendance à des conditions sociales, corporelles et cosmiques. La faim devient l'épreuve répétée d'une puissance qui ne se manifeste pas par une prison visible.
+
+### 63. Le repas comme lien collectif
+
+Les Argonautes dressent la table pour soutenir un homme souffrant. Le banquet narratif est un lieu de collaboration et de preuve : chacun peut constater l'intervention des Harpyes et comprendre la tâche des Boréades. [I] La solidarité ne donne pas une supériorité automatique sur le droit des dieux ; elle engage les voyageurs dans une délibération sur le secours à apporter.
+
+### 64. L'odeur comme force d'exclusion
+
+L'odeur insupportable du reste du repas rend visible, ou plutôt perceptible, l'inutilisabilité des aliments. Ce détail dépasse la simple voracité. Une nourriture peut être matériellement présente et socialement ou corporellement impossible à consommer. La représentation met en scène la frontière entre le monde habitable du repas et une force qui dénature son usage.
+
+### 65. Pénélope, l'absence et le deuil
+
+Le rapt des filles de Pandaréos se présente dans une parole marquée par les soucis de Pénélope. La comparaison des jeunes femmes privées d'avenir et de la personne absente dont le destin est inconnu éclaire le rôle du mythe dans la construction de la souffrance. [I] Le récit donne une forme à l'incertitude, sans nous autoriser à inférer une doctrine funéraire appliquée aux disparus de toutes les cités grecques.
+
+---
+
+## XVI. Philosophie et historiographie
+
+### 66. La connaissance et l'interdit de révéler
+
+[I] Dans le récit de Phinée, une connaissance réelle peut être dangereuse parce que sa divulgation n'est pas libre. Les Maîtres de vérité dans la Grèce archaïque de Marcel Detienne (1967) fournit un instrument de questionnement sur les formes de la parole autorisée. Il ne prouve pas qu'Apollonios reproduit sans changement une institution archaïque ; l'œuvre hellénistique met en scène un passé par les moyens de sa propre poésie.
+
+### 67. Une comparaison platonicienne circonscrite
+
+[I] Le Protagoras de Platon 320c–322d distingue les savoir-faire nécessaires à la vie et les compétences qui rendent possible l'association politique. Cette distinction peut aider à lire le paradoxe du devin : détenir un savoir ne suffit pas à disposer d'une nourriture, ni à s'assurer une vie humaine protégée. L'analogie n'est pas une influence textuelle démontrée et ne doit pas remplacer l'analyse des vers d'Apollonios.
+
+### 68. La parole qui limite la force
+
+[I] L'intervention d'Iris oblige les Boréades à renoncer à tuer les Harpyes. Cette scène permet une comparaison prudente avec les réflexions sur les règles de la violence : le succès du secours n'est pas identique à l'anéantissement d'un adversaire. La présence du serment donne un rôle de clôture à la parole divine. L'analyse ne fait pas de ce récit un code de justice criminelle grecque, mais rend visible une limite interne à l'héroïsme.
+
+### 69. Hegel : l'autre peut prendre la parole
+
+[I] Dans l'Énéide, Céléno décrit les Troyens comme agresseurs et les Harpyes comme habitantes d'un territoire. Une réflexion à partir de la reconnaissance chez Hegel peut interroger ce renversement des perspectives, sans attribuer à Virgile une doctrine hégélienne. La puissance traitée de monstre formule un jugement adverse, que le récit ne supprime pas. L'analyse de la différence des voix empêche de transformer le regard des héros en verdict incontestable.
+
+### 70. Nietzsche : d'où vient le jugement « monstrueux » ?
+
+[I] Une lecture généalogique des évaluations, inspirée de Nietzsche, peut demander qui qualifie une puissance de nuisible, à quel moment, avec quels intérêts narratifs. La réponse varie entre Hésiode, Apollonios et Virgile. Mais l'exercice ne conduit pas à idéaliser les Harpyes : il replace le jugement dans des situations de récit et empêche le passage automatique d'un adjectif à un fait anthropologique ou biologique.
+
+### 71. Jean-Pierre Vernant : la figure de l'autre
+
+La mort dans les yeux. Figures de l'autre en Grèce ancienne, de Jean-Pierre Vernant (1985), étudie notamment la Gorgone. Il fournit un modèle de prudence pour analyser comment une image peut rendre sensible un passage de frontière. Il ne doit pas être cité comme une source directement consacrée aux Harpyes : la comparaison est proposée et signalée comme telle. L'objet de Vernant ne se substitue pas aux documents précis de l'hydrie ou du monument lycien.
+
+### 72. Pauline Schmitt Pantel et les repas grecs
+
+La cité au banquet. Histoire des repas publics dans les cités grecques (1992), de Pauline Schmitt Pantel, documente des pratiques sociales que la littérature peut faire résonner. Le repas de Phinée est toutefois fictif, et aucune célébration civique correspondante n'est attestée. La comparaison aide à mesurer l'importance du partage et de l'accès à la nourriture sans effacer la différence entre fait historique et structure narrative.
+
+### 73. Une philosophie de la disparition
+
+[I] Les Harpyes sont redoutables moins par une puissance destructrice constamment décrite que par leur pouvoir d'ôter : elles enlèvent la nourriture, des jeunes filles, ou servent de nom à une disparition inexpliquée. Le manque peut exister sans mort attestée. Cette tension donne au mythe une capacité de représenter la perte sans la réduire au décès, et rend intelligible son emploi dans les plaintes de l'Odyssée.
+
+### 74. Un piège historiographique : la « dégradation » linéaire
+
+Il serait séduisant de raconter que les Harpyes auraient été des esprits beaux et bénéfiques avant de devenir progressivement des démons laids. Les textes ne soutiennent pas une telle histoire uniforme : l'enlèvement funeste est déjà connu de l'épopée archaïque, tandis que l'iconographie peut adopter des types contrastés. Il vaut mieux parler de réemplois, de transformations et de traditions parallèles que d'une évolution mécanique de la croyance.
+
+---
+
+## XVII. Comparaisons contrôlées
+
+### 75. Harpyes et Sirènes
+
+Les corps d'oiseaux et les visages féminins rapprochent parfois les deux catégories dans l'histoire de l'art. Dans l'Odyssée, les Sirènes attirent par leur chant ; les Harpyes interviennent en relation avec l'enlèvement. Les fonctions ne sont pas interchangeables. Le monument de Xanthos est instructif précisément parce que l'identification de ses êtres ailés comme Sirènes ou Harpyes demeure débattue.
+
+### 76. Harpyes et Érinyes
+
+Les filles de Pandaréos sont livrées aux Érinyes par les Harpyes. Le texte distingue les deux ensembles. Le rapprochement d'Eschyle entre images de Harpyes et Érinyes est une comparaison destinée à évoquer l'apparence redoutable des personnages scéniques. Ni Homère ni Eschyle ne fournissent dans ces passages une preuve de culte autonome commun.
+
+### 77. Harpyes et Gorgones
+
+Les Gorgones sont construites dans la Théogonie avec une généalogie propre et des fonctions distinctes. Le rapprochement morphologique ou émotionnel ne doit pas altérer la filiation de Thaumas et Électre. Une autre erreur serait de déclarer les figures ailées de Xanthos « gorgones » par principe de ressemblance. L'identification matérielle réclame des détails contextuels et des comparaisons soigneusement datées.
+
+### 78. Harpyes, vents et Boréades
+
+La parenté avec Iris et la liaison de Podargé avec Zéphyr inscrivent les Harpyes dans les phénomènes de mobilité. Les Boréades, fils de Borée, leur opposent une vitesse comparable. Pourtant, aucun texte cité ne confond les Boréades avec les ravisseuses. La comparaison des puissances aériennes explique le déroulement d'une poursuite ; elle n'établit pas un « panthéon des vents » rigoureusement unifié.
+
+### 79. La faim de Phinée et les autres supplices
+
+Le supplice peut être comparé à celui de Tantale ou à d'autres récits de faim excessive, en séparant les mécanismes : aliment inaccessible, nourriture rendue répugnante, appétit impossible à satisfaire. Les comparaisons thématiques n'autorisent pas à postuler un rite originel unique ou une diffusion géographique certaine.
+
+### 80. Pas de généalogie interculturelle gratuite
+
+Des figures ailées ou ravisseuses existent dans d'autres traditions méditerranéennes et proches-orientales. Sans textes parallèles datés, sans voie de circulation vérifiable et sans description précise des divergences, il serait infondé d'affirmer que les Harpyes dérivent directement d'un être égyptien, perse ou mésopotamien. La ressemblance générale ne constitue pas une preuve d'emprunt.
+
+---
+
+## XVIII. Catalogue critique des sources anciennes
+
+### 81. Textes grecs archaïques
+
+- **Hésiode, Théogonie 233–239 ; 265–269** : Thaumas, Électre, Iris, Aellô, Ocypété ; contexte généalogique.
+- **Homère, Iliade XVI, 148–154** : Podargé, Zéphyr, Xanthos et Balios.
+- **Homère, Odyssée I, 241 ; XIV, 371** : langage du rapt et de la disparition ; distinguer l'hypothèse formulée de l'événement narré.
+- **Homère, Odyssée XX, 61–78** : les filles de Pandaréos ravies par les Harpyes et livrées aux Érinyes.
+
+### 82. Textes hellénistiques et mythographiques
+
+- **Apollonios de Rhodes, Argonautiques II, 178–239** : malheur de Phinée, devin et supplice.
+- **Apollonios, II, 240–262** : débat sur la légitimité du secours et serment de Phinée.
+- **Apollonios, II, 263–300** : attaque des Harpyes, poursuite des Boréades, arrêt imposé par Iris et serment sur le Styx.
+- **Apollonios, II, 311–340** : conseil des Roches Cyanées et colombe.
+- **Pseudo-Apollodore, Bibliothèque I, 2, 6 ; I, 9, 21–22** : généalogie, variantes de noms et de fin, conseil de navigation.
+
+### 83. Tragédie, poésie latine et réception antique
+
+- **Eschyle, Euménides 46–54** : comparaison de l'apparence des Érinyes à des figures de Gorgones et de Harpyes.
+- **Virgile, Énéide III, 209–269** : les Strophades, Céléno et l'oracle des tables.
+- **Virgile, Énéide VII, 107–129** : reconnaissance de l'oracle.
+- **Pausanias, Description de la Grèce X, 30, 1–2** : peinture de Polygnote et histoire des filles de Pandaréos.
+
+Les références donnent les passages pertinents sans attribuer à un témoin un détail qui appartient à un autre. Les traductions anciennes sont des outils de repérage ; toute citation grecque détaillée doit être contrôlée sur l'édition de référence, notamment lorsqu'il existe des variantes de nom.
+
+---
+
+## XIX. Bibliographie universitaire vérifiable
+
+### 84. Éditions, grec et latin
+
+1. **West, M. L.** (1966), Hesiod: Theogony, Oxford, Clarendon Press. Édition commentée déterminante pour les généalogies et la philologie.
+2. **Apollonios de Rhodes**, Argonautiques, tome I : chants I–II, texte établi et commenté par **Francis Vian**, traduction d'**Émile Delage**, Paris, Les Belles Lettres, 1974. Notice de l'éditeur : https://www.lesbelleslettres.com/livre/9782251000220/argonautiques-tome-i-chants-i-ii ; notice BnF : https://catalogue.bnf.fr/ark:/12148/cb34571109v.
+3. **Pseudo-Apollodore**, Bibliothèque, éd. et trad. J. G. Frazer, Loeb Classical Library, 1921, tome I ; attribution traditionnelle distincte de l'identité d'Apollodore d'Athènes.
+4. **Eschyle**, Euménides, texte et traduction d'une édition critique moderne ; la référence précise au passage 46–54 est indispensable pour ne pas prendre les Érinyes de la scène pour des Harpyes.
+5. **Virgile**, Énéide III et VII, édition latine critique ; les mots de Céléno doivent être lus dans le livre III et leur réalisation dans le livre VII.
+6. **Pausanias**, Description de la Grèce X, 30, 1–2 ; description antique d'une peinture aujourd'hui perdue.
+
+### 85. Études de l'épopée et de la religion
+
+7. **Hunter, Richard** (1993), The Argonautica of Apollonius: Literary Studies, Cambridge University Press. DOI : https://doi.org/10.1017/CBO9780511552502. Analyse de la poétique hellénistique et des dialogues avec Homère.
+8. **Vernant, Jean-Pierre** (1985), La mort dans les yeux. Figures de l'autre en Grèce ancienne, Paris, Hachette. Comparaison méthodologique sur les figures de l'altérité, particulièrement la Gorgone.
+9. **Detienne, Marcel** (1967), Les Maîtres de vérité dans la Grèce archaïque, Paris, Maspero. Cadre d'analyse de la parole efficace et des enjeux d'autorité du savoir.
+10. **Schmitt Pantel, Pauline** (1992), La cité au banquet. Histoire des repas publics dans les cités grecques, Rome, École française de Rome. Comparaison des formes de partage ; pas de preuve d'un rite pour Phinée.
+11. **Sourvinou-Inwood, Christiane** (1995), 'Reading' Greek Death: To the End of the Classical Period, Oxford, Clarendon Press. Méthode comparative pour les pratiques funéraires, non identification automatique des figures ailées.
+12. **Johnston, Sarah Iles** (1999), Restless Dead: Encounters Between the Living and the Dead in Ancient Greece, Berkeley, University of California Press. Comparaison sur les rapports aux morts et la prudence des identifications.
+13. **Calame, Claude** (1996), Mythe et histoire dans l'Antiquité grecque. La création symbolique d'une colonie, Lausanne, Payot. Méthode sur la fabrication des lieux par le récit ; usage comparatif.
+14. **Castoriadis, Cornelius** (1975), L'institution imaginaire de la société, Paris, Seuil. Outil philosophique moderne pour l'analyse des significations collectives.
+15. **Barringer, Judith M.** (2001), The Hunt in Ancient Greece, Baltimore, Johns Hopkins University Press. Comparant méthodologique sur les images de poursuite ; ne démontre pas l'identité d'une figure isolée.
+16. **Draycott, Catherine** (2008), « Bird-women in the Harpy Monument from Xanthos », étude signalée dans le Cabinet d'Oxford, p. 145–153 ; vérifier les détails bibliographiques sur l'édition avant une citation développée : https://www.cabinet.ox.ac.uk/harpy-tomb-c-480-bc.
+
+### 86. Ressources institutionnelles et textes en ligne
+
+- Harvard Center for Hellenic Studies, Hésiode : https://chs.harvard.edu/primary-source/hesiod-theogony-sb/.
+- Apollonios II, 178–300, traduction anglaise du domaine public R. C. Seaton : https://www.greekmythology.com/sources/apollonius-rhodius/argonautica/book-2-178-300.
+- Pseudo-Apollodore I : https://www.theoi.com/Text/Apollodorus1.html.
+- Virgile, Énéide III : https://www.theoi.com/Text/VirgilAeneid3.html.
+- Pausanias X : https://www.theoi.com/Text/Pausanias10B.html.
+- Perseus Art and Archaeology, hydrie Getty 85.AE.316 : https://perseus-aa.github.io/items/aa_5136.html.
+- Perseus Art and Archaeology, monument lycien de Xanthos : https://perseus-aa.github.io/items/aa_2169.html.
+- Cabinet d'Oxford, étude du monument et des alternatives d'identification : https://www.cabinet.ox.ac.uk/harpy-tomb-c-480-bc.
+- Wikimedia Commons, vase du Louvre G 364 : https://commons.wikimedia.org/wiki/File:Phineus_Boreads_Louvre_G364.jpg.
+
+---
+
+## XX. Programme iconographique et droits de réutilisation
+
+### 87. Une photographie exploitable du Louvre
+
+**Ressource A :** cratère attique à figures rouges, vers 460 av. J.-C., musée du Louvre G 364, scène de Phinée et des Boréades, photographie Jastrow / Marie-Lan Nguyen sur Wikimedia Commons, fichier Phineus Boreads Louvre G364.jpg. L'auteur a publié ce fichier dans le **domaine public**. Le crédit documentaire, la date de consultation et le lien vers sa page de licence doivent être conservés. Le domaine public de cette photographie ne s'étend pas automatiquement à toutes les reproductions commerciales du même vase.
+
+### 88. Une hydrie dont les droits restent à vérifier
+
+**Ressource B :** Getty Museum 85.AE.316, vers 480 av. J.-C. La scène de Phinée et des Harpyes constitue un objet idéal pour la galerie scientifique. Néanmoins, la source consultée n'a pas permis de confirmer pour la photographie précise une licence réutilisable sans condition ; aucune copie ne sera déposée tant que la notice d'image et ses droits ne sont pas contrôlés directement auprès du musée ou de son système Open Content.
+
+### 89. Le monument lycien avec une légende qui signale le débat
+
+**Ressource C :** vues du monument dit des Harpyes à Xanthos. Il faudra contrôler la licence du fichier retenu et écrire dans la légende : « Xanthos, vers 480 av. J.-C. ; figures féminines ailées, identifiées selon les études comme Harpyes, Sirènes ou puissances funéraires locales ; identification débattue ». La notice ne doit pas prétendre montrer un portrait des filles de Thaumas dont l'attribution serait unanimement admise.
+
+### 90. Figures produites par MYTHOS
+
+**Ressource D :** un arbre généalogique documentaire en deux dimensions, en trois blocs séparés : Hésiode, Thaumas et Électre → Iris, Aellô, Ocypété ; Iliade, Podargé et Zéphyr → Xanthos et Balios ; Énéide, Céléno sans ascendance inventée. Chaque lien devra mentionner son texte d'origine.
+
+**Ressource E :** chronologie des témoins et carte des lieux (littoral thrace, Roches Cyanées, Strophades, Xanthos). Employer une légende distincte pour les espaces réels et pour les trajectoires racontées. Les localisations de la variante pseudo-apollodorienne devront être indiquées comme textuelles et non archéologiquement démontrées.
+
+**Ressource F :** une restitution 3D photoréaliste d'un atelier céramique attique ou d'un espace de présentation d'un vase, seulement sur la base d'un contexte matériel daté et publié. Ne pas produire de « reconstitution scientifique d'une Harpye vivante » comme si sa physiologie était attestée. Aucune image 2,5D, aucun menu ni texte incrusté, aucune image générique hors sujet.
+
+Aucun média n'est intégré par cette demande éditoriale. Les droits de chaque photographie doivent être vérifiés sur le fichier effectivement retenu ; le statut juridique de l'objet ancien et celui d'une reproduction photographique sont distincts.
+
+---
+
+## XXI. Renvois internes et articulation avec MYTHOS
+
+### 91. Borée et Orithyie
+
+Le dépôt comporte des chapitres anciens sur le couple **Orithyie–Borée**, notamment des dossiers aux chemins historiques des chapitres 307 et 333. Ils doivent être rapprochés lors d'un audit de doublons avant qu'un seul soit annoncé comme référence canonique. Le présent chapitre ne répète pas l'enlèvement d'Orithyie par Borée : il utilise la parenté des Boréades seulement pour expliquer le secours aérien à Phinée.
+
+### 92. Éos et la généalogie des vents
+
+Le dossier **Éos et Tithonos**, attribué au chapitre 486, examine aussi les liens d'Astraios et des vents. La comparaison sert à séparer deux ensembles de récits cosmiques plutôt qu'à les fondre :
+https://bobmythos.fr/chapitres/encyclopedie/chapitre-486-eos-tithonos-aurore-immortalite-vieillesse-sappho-memnon-iconographie/.
+Ce chemin provient d'une attribution vérifiée dans le registre du dépôt ; la disponibilité HTTPS doit être contrôlée distinctement.
+
+### 93. Hylas et les étapes des Argonautes
+
+Le dossier **Hylas et les Nymphes de Mysie**, chapitre 491, offre un rapprochement structurel : un rapt interrompt le parcours des voyageurs et modifie le destin de leurs compagnons. Les Harpyes de Phinée et les Nymphes d'Hylas ne sont pourtant pas une même catégorie :
+https://bobmythos.fr/chapitres/encyclopedie/chapitre-491-hylas-nymphes-mysie-heracles-argonautes-kios-echo-cultes-poetique/.
+La proximité des thèmes ne doit pas devenir un doublon de sujet.
+
+### 94. Protée, Nymphes et puissances secondes
+
+Le chapitre 484 sur **Protée** et le chapitre 480 sur **les Nymphes de Vari** permettent une comparaison de méthode : une puissance divine ne se réduit pas à la version la plus populaire de son mythe, et l'existence d'un culte doit être établie indépendamment du récit. Les Nymphes de Vari possèdent un dossier épigraphique spécifique ; aucune preuve analogue n'est actuellement établie pour les Harpyes dans la présente enquête.
+
+### 95. Théâtre et études séparées
+
+MYTHOS conserve des volumes de tragédies perdus autour de Phinée, des Boréades et des figures d'Iris. Les fragments conservés et les reconstitutions modernes doivent rester soigneusement distingués. Le présent dossier n'attribue aucune réplique imaginaire aux dramaturges anciens et ne modifie aucun volume théâtral.
+
+### 96. Les huit familles de navigation
+
+Le dossier doit être relié aux familles existantes des puissances anciennes, des généalogies, des cycles héroïques, des mythes locaux, des sanctuaires et des interprétations. Le classement final reste confié au constructeur existant des huit familles de la rubrique grecque. Aucune entrée « Grande Encyclopédie » n'est réintroduite, et le point d'accès public demeure /mythologie-grecque/.
+
+---
+
+## XXII. Conclusion générale
+
+### 97. Une même puissance sous plusieurs fonctions
+
+Aellô et Ocypété, dans la Théogonie, relèvent de la vitesse et du voisinage d'Iris ; Podargé engendre les chevaux immortels d'Achille ; les Harpyes emportent les filles de Pandaréos et figurent l'angoisse des disparitions ; elles interdisent à Phinée le simple fait de manger ; Céléno annonce la faim comme condition de reconnaissance d'une terre promise. La permanence d'un nom ne supprime pas cette pluralité. C'est elle qui doit organiser la notice scientifique.
+
+### 98. La nécessité d'une contrainte de preuve
+
+Nous ne pouvons présenter comme certains ni une morphologie unique des Harpyes, ni un culte autonome public bien documenté, ni l'identification de toutes les femmes-oiseaux de Xanthos au groupe de Thaumas. Nous pouvons en revanche établir des généalogies textuelles, comparer des variantes, décrire des vases datables, localiser les étapes du récit et analyser le rôle de la nourriture, de la parole et du rapt dans différents genres.
+
+### 99. Au-delà du bestiaire
+
+Le dossier révèle un problème plus profond que l'inventaire de créatures imaginaires : qui peut disposer d'une nourriture, qui a le droit de révéler la vérité, qui peut poursuivre un agent de Zeus, et à quel moment un être méprisé obtient-il le droit de prendre la parole ? L'étude philosophique peut poser ces questions sans substituer ses concepts aux sources antiques. Elle conduit ainsi de la généalogie au statut de l'altérité dans la poésie grecque et romaine.
+
+**Fin de la monographie intégrale. Statut initial : soumission transactionnelle dans la collection encyclopedie. Aucun nouveau numéro n'est réservé par ce texte ; la variable 492 doit être remplacée uniquement par GitHub Actions. Aucun chapitre, reçu, registre, média, URL, thème graphique ou horaire existant n'est modifié par cette demande.**

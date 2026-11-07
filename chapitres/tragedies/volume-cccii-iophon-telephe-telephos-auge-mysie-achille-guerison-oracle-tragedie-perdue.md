@@ -1,0 +1,589 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCCII (302)
+
+# Iophon, *Télèphe* (Τήλεφος) — La blessure, l'ennemi guérisseur et les frontières de la communauté
+
+**Monographie universitaire intégrale. Philologie des témoignages, critique des fragments, histoire du mythe, dramaturgie conjecturale contrôlée, philosophies du tragique, histoire de l'art et bibliographie.** État du dossier : 7 novembre 2026.
+
+**Auteur antique :** Iophon (Ἰοφῶν), fils de Sophocle, poète tragique athénien de la seconde moitié du Ve siècle avant notre ère.  
+**Œuvre :** *Télèphe*, titre grec **Τήλεφος**, à distinguer rigoureusement des pièces homonymes attribuées à Eschyle, Sophocle, Euripide et Agathon.  
+**Témoin direct du titre :** *Souda*, entrée **ι 451** (éd. Adler).  
+**Concordance critique :** **FragTrag.1, Iophon, entrée 7, Τήλεφος (title)** = **TrGF I, Iophon, titre 2c, Τήλεφος (title)**. Les références **7** et **2c** désignent ici des **positions de titres**, non des fragments textuels.  
+**État de conservation :** aucun vers ni fragment de discours assigné sûrement à ce titre dans la concordance consultée. **FragTrag, Iophon, « report 1 » = TrGF, fr. 3**, est classé parmi les **drames non identifiés**, et **ne constitue pas un fragment de *Télèphe***.  
+**Sujet mythique de comparaison :** Télèphe, fils d'Héraclès et d'Augé, associé à l'Arcadie, à la Mysie, à une guerre involontaire avec les Achéens, à une blessure reçue d'Achille, à une quête de guérison et à la connaissance de la route de Troie. Ce résumé de tradition **n'est pas l'argument connu de la pièce d'Iophon**.  
+**Statut scientifique :** titre attesté ; action, chœur, personnages secondaires, scènes, paroles, mètres et date de représentation inconnus.
+
+---
+
+## I. Un titre antique est une preuve, non un synopsis
+
+Le nom *Télèphe* a le pouvoir de susciter immédiatement une histoire complète. Le héros appartient à une généalogie héracléenne ; enfant exposé, il grandit loin de sa mère Augé ; devenu souverain en Mysie, il défend son territoire contre des Grecs qui croient atteindre Troie ; blessé par Achille, il traverse les frontières pour demander une guérison à son adversaire. La tradition ajoute un oracle, un remède lié à la lance et, dans certaines adaptations, une prise d'otage spectaculaire. Ce réseau de motifs est ancien, complexe et suffisamment riche pour avoir inspiré plusieurs dramaturges grecs.
+
+La pièce d'Iophon, pourtant, **n'est conservée que par son titre**. L'historien ne peut y identifier ni la blessure ni l'otage ni le remède comme autant de scènes certaines. Il ne possède aucune phrase prononcée par ce Télèphe dramatique. L'hypothèse séduisante d'une tragédie de la réconciliation ne peut être transformée en découverte philologique : nous ne connaissons pas le dénouement que le poète proposait, pas même le moment de la vie du héros qu'il choisissait.
+
+La monographie suit donc un ordre de démonstration strict. Elle examine d'abord le témoignage qui permet d'attribuer le titre, puis les problèmes de catalogue et de transmission. Elle établit ensuite les versions mythiques documentées, en conservant leurs écarts. Elle présente les formes tragiques de la même histoire dont certains éléments ont effectivement survécu, notamment chez Euripide, sans les importer dans Iophon. Enfin elle examine des tensions politiques et philosophiques que la matière mythique peut porter. À chaque fois, **la source est nommée avant l'interprétation**.
+
+Le résultat n'est pas une pièce de substitution, mais un dossier scientifique sur une œuvre perdue et sur le problème, essentiel pour les études classiques, de la coexistence entre la richesse d'une tradition et la pauvreté d'un témoignage particulier.
+
+## II. Conventions de preuve et de prudence
+
+Quatre catégories régissent les affirmations de cette étude. **[A — attesté pour Iophon]** qualifie la présence du titre dans la *Souda*, son classement critique ou un témoignage biographique spécifiquement consacré au poète. **[B — attesté pour d'autres sources antiques]** qualifie ce que racontent, par exemple, le Pseudo-Apollodore, Pausanias ou Aristophane. **[C — conjecture sur Iophon]** signale une possibilité dramatique qui ne peut être confirmée par un fragment de l'œuvre. **[D — lecture philosophique ou historiographique]** indique des questions susceptibles d'être posées aujourd'hui sans prétendre restituer la pensée de l'auteur perdu.
+
+La règle qui en découle est simple : un récit bien attesté dans la mythographie demeure une information de type **B**, non une information de type **A**. Une scène d'Euripide connue par la comédie n'appartient pas à Iophon parce que les deux dramaturges auraient écrit *Télèphe*. Une image hellénistique de Télèphe est un document sur la mémoire du héros, pas un relevé scénique du Ve siècle.
+
+Il faut aussi distinguer certitude du **titre** et certitude de la **date** : une carrière connue autour de 435 et 428 av. J.-C. n'autorise pas à dater ce drame de 435, de 428 ou de 438. L'année 438 est particulièrement dangereuse parce qu'elle correspond à la tétralogie d'Euripide dans laquelle figurait un autre *Télèphe*.
+
+Les mots grecs présents ici sont des titres, des termes d'analyse ou des noms de personnages documentés. **Aucun vers grec inédit d'Iophon n'est fabriqué**. Les passages étrangers à son texte ne sont ni traduits sous son nom ni signalés comme fragments du drame. Une restitution créative pourrait être écrite comme œuvre moderne, mais elle ne relèverait pas de cette collection philologique.
+
+## III. La source initiale : la *Souda*, ι 451
+
+La *Souda*, lexique byzantin compilant de nombreux matériaux plus anciens, présente Iophon comme poète tragique athénien et fils de Sophocle et de Nicostrata. La notice lui attribue cinquante drames et transmet un ensemble de titres dont *Achille*, *Télèphe*, *Actéon*, *La Prise d'Ilion*, *Dexaménos*, *Bacchantes* et *Penthée*. Cette liste constitue la base textuelle antique d'une bonne partie de notre connaissance des œuvres attribuées à Iophon.
+
+Le témoin est indirect : nous ne lisons pas un programme de Dionysies du Ve siècle, mais une synthèse lexicographique bien postérieure. Sa valeur n'est pas nulle, car elle conserve une tradition bibliographique précise ; elle n'est pas illimitée non plus, puisque des titres homonymes, des corruptions d'attribution ou des confusions entre noms de poètes peuvent affecter les catalogues. Pour *Télèphe*, la lecture est claire en tant qu'entrée du dossier d'Iophon ; l'origine exacte de la liste et les circonstances de représentation ne peuvent être reconstruites à partir de cette seule attestation.
+
+Le chiffre des cinquante œuvres, s'il indique la réputation d'une production étendue, ne signifie pas que les cinquante titres soient tous vérifiables individuellement. La notice ne fournit pas une liste exhaustive, et elle ne donne aucun extrait d'*Iophon's Télèphe*. L'absence d'extrait interdit d'en déduire le style, les positions morales ou les innovations du poète.
+
+**Référence de contrôle :** *Suda On Line*, **iota 451**, https://www.cs.uky.edu/~raphael/sol/sol-entries/iota/451. L'édition de base est celle d'Ada Adler ; les traductions modernes doivent être distinguées du lexique ancien.
+
+## IV. La concordance FragTrag.1 : septième titre, aucun fragment verbal
+
+Le projet **Greek Fragmentary Tragedians Online — FragTrag.1**, développé à l'Université de Patras, propose une concordance entre ses propres entrées et les éditions classiques des *Tragicorum Graecorum Fragmenta*. Dans la rubrique d'Iophon, les titres sont présentés comme suit : 1. *Actéon* ; 2. *Satyres chanteurs à l'aulos*, suivi du fragment 1 ; 3. *Achille* ; 4. *Bacchantes*, suivi du fragment 2 ; 5. *Dexaménos* ; 6. *La Prise d'Ilion* ; 7. ***Télèphe*** ; 8. *Dram(e) non identifié*, suivi d'un rapport numéroté 1.
+
+La ligne critique porte précisément : **« Iophon : 7. Τήλεφος (title) | Iophon : 2c Τήλεφος (title) »**. La colonne de droite ne livre donc pas un « fragment 2c » ; le terme anglais **title** désigne explicitement une rubrique de titre. Le résultat philologique est négatif mais déterminant : **pas de texte conservé propre à la pièce**. Ni la position 7 ni 2c ne donnent une longueur de scène, un nombre de vers ou un événement dramatique.
+
+Le « report 1 » qui suit relève des pièces non identifiées et correspond au fragment 3 dans l'autre système. Le rapprocher de *Télèphe* au seul motif de l'ordre matériel des lignes serait une erreur de lecture du catalogue. De même, le fragment 2 appartient à la rubrique *Bacchantes*, non au titre suivant.
+
+Cette nomenclature doit accompagner le futur volume pour prévenir des confusions persistantes dans les travaux de vulgarisation. Une numérotation critique de titres, une numérotation des fragments, une numérotation des témoignages et le numéro éditorial MYTHOS relèvent de **quatre catégories différentes**.
+
+**Concordance contrôlée :** https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html, rubrique Iophon, 7 novembre 2026.
+
+## V. Le problème Cléophon : une attribution ne devient pas exclusive par simple répétition
+
+La *Souda* transmet aussi un répertoire attribué à un tragique nommé **Cléophon**, notamment sous l'entrée **κ 1730**. Plusieurs titres de cette liste recoupent les titres assignés à Iophon, parmi lesquels *Télèphe*. La critique a depuis longtemps remarqué le risque de confusion, qu'elle provienne des sources anciennes, d'une proximité de noms ou de traditions cataloguées séparément.
+
+Il ne serait pas méthodologiquement acceptable de résoudre cette difficulté en déclarant, sans apparat, que tous les titres de Cléophon sont ceux d'Iophon ou qu'il n'existe qu'un seul auteur. La *Poétique* d'Aristote connaît un poète nommé Cléophon, pris pour exemple dans une discussion du niveau stylistique des personnages : son existence dans l'histoire de la critique ne peut être simplement effacée pour simplifier le catalogue.
+
+**[A]** Iophon est associé au titre *Télèphe* dans la tradition et dans la concordance. **[B]** Un titre identique circule ailleurs. **[C]** L'hypothèse d'une contamination des listes doit être conservée comme problème d'attribution, non comme réfutation automatique de l'une des notices.
+
+La coexistence de plusieurs *Télèphe* est également normale dans le théâtre grec : les dramaturges travaillaient sur des récits hérités et pouvaient reprendre les mêmes noms sans composer la même action. L'homonymie ne prouve ni plagiat, ni collaboration, ni identité d'intrigue.
+
+## VI. Biographie d'Iophon : une carrière attestée, une généalogie littéraire discutée
+
+Iophon est généralement placé dans la seconde moitié du Ve siècle av. J.-C. Des témoignages de concours lui attribuent une victoire en 435 et un deuxième prix en **428**, derrière Euripide et devant Ion de Chios. Dans les *Grenouilles* d'Aristophane, représentées en **405**, sa réputation est assez familière pour faire l'objet de plaisanteries au sujet de l'aide de Sophocle.
+
+Ces données soutiennent l'existence d'un dramaturge actif et connu. Elles ne révèlent pas le calendrier de *Télèphe*. Elles n'établissent pas non plus que le poète se serait inspiré d'une pièce homonyme d'Euripide dont la représentation est située en **438**. Cette possibilité est un problème littéraire intéressant, mais la chronologie d'une représentation ne livre pas une influence précise sans comparaisons textuelles.
+
+La tradition familiale inclut l'anecdote d'un litige entre Iophon et son père âgé, où Sophocle aurait défendu ses facultés en citant *Œdipe à Colone*. Cicéron, *De senectute* 22, rapporte une version devenue classique. Les spécialistes soulignent la coloration biographique et exemplaire du récit, trop utile à une morale sur la vieillesse pour être traité sans réserve comme compte rendu judiciaire.
+
+L'histoire de la famille d'un auteur ne doit pas servir à compléter le texte perdu de son œuvre. Le fait que Sophocle ait pu traiter la matière de Télèphe ne nous permet pas de créditer Iophon de son style, ni de lui retirer sa capacité de création.
+
+## VII. Les concours dionysiaques : le contexte institutionnel sans fausse datation
+
+La tragédie athénienne dépend d'institutions publiques : compétitions, chœurs, chorégies, représentations devant une communauté de spectateurs et jugements comparatifs. Lorsqu'un mythe était repris, la nouveauté pouvait porter sur la sélection des événements, la caractérisation, la forme de la persuasion, l'organisation de l'espace scénique ou l'interprétation de normes partagées.
+
+Le mythe de Télèphe offrait un terrain singulier à cette compétition. Le héros porte une identité grecque par son père, mais gouverne des populations de Mysie. Sa lutte contre des guerriers achéens qui font fausse route dérange l'opposition habituelle entre « Grecs » et « Troyens ». Le drame pouvait traiter le même événement comme une faute géographique, un problème d'identité ou un conflit de souveraineté.
+
+**[C]** Il est toutefois impossible de dire qu'Iophon mit en scène le concours de deux discours, un chœur mysien ou une condamnation des invasions grecques. Ce sont des problèmes que la matière permet d'imaginer, non des données sur la pièce. On ignore si son *Télèphe* occupait une place dans une tétralogie, son éventuel drame satyrique d'accompagnement, et son résultat dans une compétition.
+
+Même l'identification du héros éponyme au protagoniste constamment présent reste un pari raisonnable plutôt qu'une preuve : une tragédie peut organiser la parole autour d'une figure absente ou attendue.
+
+## VIII. Les origines de Télèphe : Héraclès, Augé et la question de la filiation
+
+Les traditions anciennes font de Télèphe un fils d'**Héraclès** et d'**Augé**, fille d'Aléos, roi de Tégée en Arcadie. Les détails de la rencontre, de la conception, de la découverte de la grossesse et de l'éloignement de la mère varient. Ces variations importent : il ne s'agit pas seulement de modifications romanesques, mais d'explications concurrentes de la généalogie, des cultes et de la présence d'un héros grec en Anatolie.
+
+Dans certains récits, la naissance est liée à un sanctuaire et à une violation des règles qui régissent sa pureté. Le père d'Augé cherche alors à empêcher les conséquences d'un oracle ou à rétablir un ordre familial. L'enfant subit l'exposition ; la mère est envoyée vers une destination étrangère. Les causes et les formes de la séparation ne sont pas identiques dans tous les témoins.
+
+**[B]** Le Pseudo-Apollodore, *Bibliothèque* 3.9.1, propose sa propre version, et Pausanias rapporte ailleurs des traditions arcadiennes qui ne coïncident pas entièrement avec elle. Ces textes ne sont pas le résumé d'une même pièce ancienne : ils constituent une série de variantes souvent postérieures à Iophon.
+
+**[C]** Un auteur tragique pouvait choisir la crise d'Augé et de son père plutôt que le combat en Mysie. Dans une telle hypothèse, le titre *Télèphe* pourrait désigner l'enfant dont l'avenir organise le drame. Rien ne permet de vérifier qu'Iophon choisissait effectivement ce point de départ.
+
+## IX. Augé : violence, sanctuaire et position de la mère
+
+Une analyse critique ne doit pas effacer l'expérience d'Augé au profit d'une seule histoire d'héroïsme masculin. La filiation prestigieuse par Héraclès résulte, dans plusieurs versions, d'un rapport sexuel subi ou placé sous la menace de la puissance du héros. Les récits peuvent ensuite montrer une sanction dirigée contre la jeune femme plutôt que contre le père de l'enfant.
+
+Le contexte du sanctuaire d'Athéna Aléa à Tégée n'est pas un simple décor pittoresque. Il pose la question de l'appartenance d'une femme à une maison royale, de sa fonction religieuse, et de la transformation d'une grossesse en crise publique. Les agents de cette crise ne sont pas identiques chez les différents mythographes.
+
+Pausanias, au livre VIII, conserve deux renseignements particulièrement précieux. Au paragraphe **8.4.9**, il attribue à **Hécatée** un récit où Aléos fait enfermer Augé et son enfant dans un coffre confié à la mer ; au paragraphe **8.48.7**, il distingue des récits tégéates selon lesquels Augé enfante au cours de son transport ou l'enfant est exposé sur le mont Parthénios. Ces variantes sont des témoignages sur la mémoire du mythe, **pas sur les décors d'Iophon**.
+
+L'historien doit également éviter de ramener toutes les formes du récit à une notion moderne unique de consentement. Il peut constater les actes de contrainte que les sources décrivent et interroger leur légitimation, mais il doit traduire avec prudence les catégories sociales anciennes.
+
+## X. Pausanias 8.4.9 : le récit attribué à Hécatée
+
+Pausanias écrit que, selon Hécatée, Augé a eu une relation avec Héraclès lorsque celui-ci se rendit à Tégée ; la découverte de l'enfant conduit Aléos à mettre la mère et le nouveau-né dans un coffre rejeté à la mer. Le récit aboutit chez **Teuthras**, souverain du pays du Caïque, qui épouse Augé. Pausanias mentionne en outre un monument funéraire d'Augé à Pergame.
+
+Cette version présente un **transport conjoint** de la mère et de l'enfant. Il ne faut pas la fusionner silencieusement avec la version où l'enfant est exposé dans les montagnes d'Arcadie tandis qu'Augé est éloignée par une autre route. De même, la présence d'un tombeau mentionné par un voyageur antique témoigne d'une tradition de mémoire locale ; elle ne prouve pas l'historicité des événements mythiques.
+
+Le nom d'Hécatée est précieux : Pausanias paraît avoir connaissance d'une tradition historiographique archaïque ou classique antérieure à lui. Mais nous ne posséddons pas, pour cet épisode, une copie complète du récit original d'Hécatée qui permettrait de mesurer toutes les modifications possibles de la transmission.
+
+**[C]** Un poète d'Athènes aurait pu entendre une variante rapprochant Arcadie et Mysie, et la transformer en action tragique. On ne peut pas affirmer que le *Télèphe* d'Iophon utilisait la version d'Hécatée. La présence du même héros ne constitue pas une filiation textuelle démontrée.
+
+## XI. Pausanias 8.48.7 et 8.54.6 : naissance et culte du Parthénios
+
+Au livre **8.48.7**, Pausanias évoque à Tégée un sanctuaire d'Eileithyia, déesse liée à l'accouchement. Une tradition explique ce culte en racontant qu'Augé, confiée à Nauplios pour être noyée, s'agenouilla et donna naissance à son fils. Pausanias précise qu'une autre version veut que l'enfant soit exposé sur le mont Parthénios et **allaité par une biche**.
+
+Au livre **8.54.6**, le voyageur signale sur le mont Parthénios un lieu sacré de Télèphe, associé précisément à cette exposition et à cet allaitement par une biche. Ce témoignage ne relève pas seulement de la littérature : il montre comment un mythe pouvait organiser le paysage sacré, rattacher un sanctuaire à un lieu et susciter des pratiques locales.
+
+La documentation iconographique pergaménienne introduit une différence importante : un relief conservé à Berlin montre, selon la notice du musée, un enfant **allaité par une lionne**, découvert par Héraclès. Il serait donc faux de dire que la biche est l'animal nourricier universel de Télèphe dans toutes les époques.
+
+Cette variation est un test exemplaire de la méthode philologique. La diversité n'est pas une erreur que la monographie devrait corriger en faveur d'une vérité unique ; c'est une propriété historique du mythe dans ses milieux de réception.
+
+## XII. Le Pseudo-Apollodore, *Bibliothèque* 3.9.1 : une autre chaîne narrative
+
+Dans la *Bibliothèque*, **3.9.1**, le récit de Télèphe est intégré aux généalogies arcadiennes. La maternité d'Augé, la réaction d'Aléos, l'exposition de l'enfant et son devenir en Mysie prennent une forme partiellement différente de la tradition citée par Pausanias d'après Hécatée. La version où un enfant est abandonné et recueilli permet de relier l'identité héracléenne à une enfance extérieure à la cité.
+
+Le texte doit être lu dans l'édition de James George Frazer, *The Library*, ou dans une édition grecque récente : les notes de Frazer signalent précisément les divergences entre auteurs anciens. Les notes érudites sont utiles, mais ne remplacent pas les passages de l'œuvre antique auxquels elles renvoient. Il faut éviter de placer dans la bouche du mythographe un commentaire ou une hypothèse de l'éditeur.
+
+Pour l'encyclopédie, il convient donc de conserver au moins **deux chaînes de transmission** : une chaîne qui associe mère et enfant dans l'éloignement maritime, et une chaîne où ils sont séparés, parfois jusqu'à une reconnaissance tardive. Le conflit de versions affecte la place possible d'Augé dans une tragédie.
+
+**[C]** Rien ne permet de dire si Iophon adopta l'une de ces versions, les combina ou choisit un autre épisode. Toute reconstruction dramaturgique fondée sur la seule *Bibliothèque* devrait annoncer sa dépendance tardive et l'absence de preuve propre à la pièce.
+
+## XIII. Mysie : souveraineté, mémoire et erreur de destination
+
+La Mysie est une région du nord-ouest de l'Anatolie où les traditions font régner Télèphe. La généalogie le rattache à Héraclès, mais son autorité s'exerce hors du monde des cités grecques du continent. Le héros devient ainsi une figure particulièrement intéressante pour interroger la mobilité des mythes et leur capacité à justifier des appartenances multiples.
+
+Le voyage des Achéens vers Troie a une issue paradoxale : une première expédition aborde en Mysie, croyant être parvenue au pays ennemi. Les Grecs ravagent donc un territoire qui n'est pas Troie et se heurtent à un souverain qui défend son domaine. La guerre repose sur une **erreur d'identification** avant même que les intérêts militaires soient pleinement confrontés.
+
+Dans une lecture politique moderne, cette scène pourrait servir d'exemple de violence fondée sur une connaissance défectueuse du terrain. Mais la tradition antique n'est pas une chronique de campagne historique vérifiable : elle est une construction mythique expliquant des itinéraires, des blessures et un délai dans l'expédition achéenne.
+
+**[B]** L'épisode du débarquement est solidement attesté par le Pseudo-Apollodore, *Épitomé* **3.17–20**. **[C]** Le situer sur la scène d'Iophon reste hypothétique. Le poète pouvait choisir la Mysie comme décor, faire rapporter la bataille, ou ne pas la traiter du tout.
+
+## XIV. Pseudo-Apollodore, *Épitomé* 3.17 : le conflit par erreur
+
+L'**Épitomé 3.17** raconte que les Achéens arrivent en Mysie en pensant atteindre Troie et dévastent le pays. Télèphe, fils d'Héraclès et roi des Mysiens, rassemble ses forces, repousse les envahisseurs vers leurs navires et provoque des pertes. Le récit mentionne la mort de **Thersandre**, fils de Polynice, qui résiste aux défenseurs. Télèphe affronte ensuite Achille dans les circonstances d'une retraite.
+
+La particularité du passage est que l'épopée troyenne connue par son grand affrontement entre Grecs et Troyens commence ici par une **agression mal dirigée**. La condition de « héros grec » n'autorise pas mécaniquement la violence qu'exerce l'armée achéenne. Télèphe devient un adversaire digne d'attention parce qu'il peut être à la fois proche généalogiquement des Grecs et légitime défenseur d'une terre étrangère.
+
+Il ne faut pas confondre le personnage mythologique Thersandre, fils de Polynice, et l'autre figure troyenne **Thersite**. Leurs noms sont proches en français et peuvent produire des erreurs de classement.
+
+L'information sur la dévastation appartient au Pseudo-Apollodore. Iophon n'a pas laissé de récit de messager en décrivant cette bataille. Il serait impossible de déduire son traitement de l'événement de la simple existence du titre *Télèphe*.
+
+## XV. La vigne et la blessure : le corps empêché
+
+Dans l'**Épitomé 3.17**, Télèphe est poursuivi par Achille ; son mouvement est entravé par un **sarment de vigne**, puis il est blessé **à la cuisse** par une lance. Le détail a souvent retenu l'attention : le héros dont la capacité de combattre a suffi à repousser les envahisseurs tombe à cause d'une entrave végétale. La violence guerrière dépend soudain d'un accident apparemment dérisoire.
+
+Il serait tentant d'interpréter la vigne comme une intervention de Dionysos. Or les versions et leurs commentaires ne donnent pas toutes le même statut à cet obstacle. Dans l'analyse du passage précis du Pseudo-Apollodore, il faut d'abord constater une entrave au mouvement et une blessure, avant d'en déduire une punition divine.
+
+Le choix d'une blessure à la cuisse n'est pas insignifiant : il compromet la mobilité, la capacité de combattre et l'autonomie du roi. Mais cette caractéristique appartient au récit du mythographe, non à une description médicale historique. On ignore la durée de la maladie, sa nature anatomique exacte et les effets cliniques du traitement décrit plus tard dans le mythe.
+
+**[C]** Une tragédie pourrait transformer le sarment en signe de la fragilité humaine. Elle pourrait aussi faire de la blessure un événement antérieur à l'ouverture de l'action. Aucun fragment d'Iophon ne décide entre ces possibilités.
+
+## XVI. Le temps entre les deux expéditions : une maladie qui organise l'attente
+
+Le Pseudo-Apollodore, **Épitomé 3.18–19**, raconte que les Grecs, dispersés par une tempête après leur échec en Mysie, rentrent dans différentes régions. Une longue interruption sépare cette première navigation de la nouvelle concentration des forces à Aulis. La guerre de Troie, loin d'apparaître comme une entreprise continue, s'inscrit dans une série de faux départs.
+
+La blessure de Télèphe, qui ne guérit pas, appartient à cet intervalle. Elle transforme une défaite ou une victoire locale en une crise durable. Le héros n'est plus seulement un combattant atteint ; il devient un homme dont le corps reste marqué par l'affrontement alors même que les armées ont quitté son pays.
+
+Cette temporalité pourrait faire l'objet d'une réflexion sur les suites de la guerre. Un conflit cesse localement, mais la violence reste présente dans les corps et dans les besoins de réparation. La blessure retardée est une trace, non un simple épisode anecdotique.
+
+**[C]** Une scène d'Iophon aurait pu commencer longtemps après la bataille, montrer un personnage usé par l'attente et déplacer le centre dramatique vers la guérison. Mais rien ne certifie ce choix temporel. La tradition du faux départ achéen fournit un contexte narratif possible, pas la chronologie interne de la pièce.
+
+## XVII. L'oracle : connaissance vraie, formulation à interpréter
+
+L'**Épitomé 3.20** fait intervenir un oracle d'**Apollon** : Télèphe apprendra que sa blessure sera guérie lorsque celui qui l'a faite se comportera en médecin. La révélation divine transforme une relation d'inimitié en relation de dépendance. Le blessé doit rechercher son adversaire et accepter une procédure dont le succès dépend de la coopération du combattant qui l'a atteint.
+
+La valeur du récit ne tient pas seulement à la promesse de guérison. La structure de l'oracle possède une ambiguïté : qui ou quoi doit guérir ? La personne, l'arme, ou les deux ? Dans certaines traditions, le remède se compose des matières prélevées sur la lance ; dans d'autres, la formule oraculaire met surtout en avant le paradoxal rôle de l'agresseur devenu soignant.
+
+Le rapprochement d'une guérison avec son agent destructeur peut susciter une interprétation philosophique sur la réparation, mais l'oracle n'est pas une leçon morale universelle. Dans la narration, il répond à une impasse concrète et prépare une négociation. Son autorité ne dispense pas les personnages d'agir.
+
+**[C]** Nous ne savons si l'*Télèphe* d'Iophon comportait un oracle, comment il aurait été dit ou comment le héros l'aurait compris. Toute **citation grecque** prétendument issue de cet oracle dans la tragédie perdue serait une invention.
+
+## XVIII. *Épitomé* 3.20 : le roi en haillons devant l'ennemi
+
+Le même paragraphe raconte que Télèphe se rend chez les Achéens, **habillé de haillons**, et implore l'aide d'Achille en promettant de montrer la route vers Troie. Le déguisement ou la tenue misérable renverse les signes habituels de sa dignité royale. Celui qui régnait en Mysie se présente sous l'apparence de l'homme démuni.
+
+La tenue en haillons est souvent associée au *Télèphe* d'Euripide parce qu'Aristophane parodie explicitement les vêtements de ce personnage. Il faut ici préserver une distinction : le Pseudo-Apollodore transmet une version mythographique avec un homme en haillons ; la comédie conserve la réception d'une **mise en scène euripidéenne** de cette pauvreté ; aucun témoin ne décrit le costume du *Télèphe* d'Iophon.
+
+La situation soulève le problème de l'égalité des interlocuteurs. Pour obtenir justice ou assistance, le roi doit renoncer temporairement aux signes de sa souveraineté et se soumettre à la décision du pouvoir militaire qui l'a blessé. Le récit présente une dépendance réciproque, car les Grecs ont besoin de son savoir géographique.
+
+**[D]** Cette économie de l'aide intéressée autorise une réflexion sur la négociation et l'humiliation ; elle ne prouve pas l'existence d'un agôn de parole chez Iophon.
+
+## XIX. La lance : blesser, guérir, signifier
+
+Toujours dans l'**Épitomé 3.20**, Achille obtient la guérison en utilisant des **raclements de sa lance du Pélion**. Il s'agit d'un remède **mythique** : le texte ne fonde pas une prescription médicale scientifique sur l'application de rouille ou de débris métalliques à une plaie réelle. La tradition met en scène la continuité matérielle entre l'objet qui cause le mal et l'objet qui permet de le supprimer.
+
+Cette inversion peut être lue comme une métaphore de la réparation. Une relation dégradée entre deux hommes n'est pas effacée par une simple promesse de paix : elle doit être transformée par un geste positif du responsable de la blessure. Pourtant la causalité de la guérison reste surnaturelle ou mythographique. Elle ne correspond pas à un protocole clinique explicable avec nos connaissances.
+
+Une édition prudente doit également séparer les versions où le rôle décisif revient à l'**arme**, à son **possesseur** ou à un **intermédiaire compétent**. Les auteurs qui commentent le proverbe de la lance guérisseuse n'en conservent pas nécessairement toutes les mêmes conditions.
+
+**[C]** On ne peut affirmer qu'Iophon montrait la lance sur scène, ni inventer un échange où Achille annoncerait la guérison. La tradition peut être analysée philosophiquement sans être restituée dramaturgiquement.
+
+## XX. La route de Troie : savoir géographique et dépendance politique
+
+En contrepartie de sa guérison, Télèphe révèle aux Grecs la route de Troie. Le savoir du souverain mysien corrige l'erreur initiale des Achéens. La coalition militaire la plus prestigieuse de l'épopée dépend donc d'un homme qu'elle a attaqué parce qu'elle ne connaissait pas sa destination.
+
+Ce motif rend le mythe original dans la matière troyenne. La force guerrière se révèle insuffisante sans connaissance des lieux ; la possession de navires et d'armes ne garantit pas l'orientation. Le récit subordonne ainsi l'efficacité de l'expédition à la médiation d'un adversaire devenu allié circonstanciel.
+
+Cette dépendance peut nourrir une discussion sur les savoirs locaux et l'erreur impériale, mais elle ne doit pas être simplifiée en une parabole politique moderne. Les traditions antiques n'ont pas toutes formulé une critique morale des Achéens ; le même héros peut être loué pour sa puissance et contraint par les besoins d'un récit de conquête.
+
+**[C]** Une tragédie pourrait organiser un débat autour de l'échange « guérison contre orientation ». Nous n'avons aucune preuve qu'Iophon le mit au centre de son action. La dynamique de réciprocité est attestée chez le Pseudo-Apollodore, non chez notre dramaturge.
+
+## XXI. Le savoir de Calchas : double vérification du trajet
+
+Le Pseudo-Apollodore précise que **Calchas** confirme la justesse des indications données par Télèphe au moyen de la divination. La route est donc établie par une combinaison de connaissance humaine du terrain et de compétence mantique. L'oracle qui guérit et le devin qui vérifie n'ont pas exactement les mêmes fonctions.
+
+Cette double validation introduit un problème épistémologique : comment une collectivité décide-t-elle de croire un ancien adversaire ? Son information peut être utile, mais le soupçon demeure. Le devin permet de reconnaître comme praticable un savoir extérieur au groupe. L'acceptation n'est pas fondée seulement sur la confiance personnelle, mais sur une procédure de confirmation à l'intérieur des normes religieuses de l'armée.
+
+**[D]** Le contraste entre observation, témoignage et validation religieuse invite à comparer les formes anciennes de preuve, sans confondre les mantéies antiques avec les méthodes expérimentales contemporaines.
+
+**[C]** Aucune mention de Calchas n'est attestée pour *Télèphe* d'Iophon. L'idée d'un dialogue triangulaire entre le blessé, Achille et le devin constitue au mieux une proposition de scène moderne, que la monographie ne prétend pas écrire.
+
+## XXII. Télèphe chez Sophocle : le problème du silence
+
+Des pièces perdues de Sophocle portant sur la Mysie et Télèphe figurent dans les dossiers des tragiques fragmentaires. La *Poétique* d'Aristote, **1460a**, évoque un personnage silencieux qui se déplace d'un lieu à un autre — l'exemple de Télèphe du côté de Sophocle est discuté par les commentateurs — et les textes comiques anciens font parfois allusion à un « Télèphe muet ».
+
+Les conditions de transmission imposent ici une grande discipline : une allusion à un silence chez **Sophocle** ne peut être transférée à son fils Iophon. Un procédé scénique du père ne devient pas automatiquement un élément du répertoire du fils. Le même mythe et même le même titre peuvent avoir des fonctions très différentes d'une pièce à l'autre.
+
+L'étude de ces références est importante parce qu'elle montre qu'un poète tragique pouvait traiter une période d'exil, de purification ou de silence plutôt que la prise d'otage et la guérison. Le silence d'un héros ne signifie pas nécessairement qu'il est sans action : il peut porter sur le refus de communiquer, le poids d'une faute ou l'attente d'une reconnaissance.
+
+**[C]** Mais il est impossible d'assigner un rôle muet à Télèphe chez Iophon. La filiation des auteurs n'autorise aucun emprunt de fragment ou de dispositif sans témoin supplémentaire.
+
+## XXIII. Le *Télèphe* d'Euripide en 438 : une œuvre distincte
+
+Le *Télèphe* d'Euripide appartient à une tétralogie représentée en **438 av. J.-C.**, aux côtés des *Crétoises*, d'*Alcméon à Psophis* et de l'*Alceste* conservée. L'identification du groupe repose sur la tradition didascalique transmise. Cette œuvre euripidéenne est fragmentaire, mais elle bénéficie de témoignages textuels, de parodies comiques et d'études papyrologiques sans équivalent pour Iophon.
+
+Le récit de la guérison a probablement constitué l'un de ses axes ; le déguisement en pauvre, la défense par la parole et la prise d'otage sont des éléments essentiels des discussions modernes. La chronologie des attestations et l'interprétation des fragments restent cependant débattues. On évitera donc de présenter un synopsis complet comme une copie du texte original.
+
+**[B]** Dans le cas d'Euripide, nous pouvons confronter des fragments et des témoins anciens qui nomment le poète ou la pièce. **[A]** Dans le cas d'Iophon, nous ne disposons que du titre. La comparaison existe donc, mais elle est profondément **asymétrique**.
+
+La présence d'un autre *Télèphe* dans la collection MYTHOS ne constitue ni un doublon d'auteur ni un motif pour renoncer à Iophon ; elle exige des identifiants explicites et des renvois croisées dont chacun conserve le corpus propre.
+
+## XXIV. Aristophane, *Les Acharniens* 393–488 : les haillons d'Euripide
+
+Dans les *Acharniens*, joués en **425**, Dicéopolis rend visite à Euripide pour obtenir le costume misérable de l'un de ses héros. Le dialogue évoque explicitement **Télèphe le Mysien** et ses **haillons**, avant de multiplier les objets et accessoires du pauvre : bonnet, bâton et autres marques d'apparence. La comédie suggère que le public reconnaissait ce costume et la posture rhétorique qu'il rendait possible.
+
+Le passage est capital pour l'histoire du théâtre d'Euripide, non pour celle d'Iophon. Aristophane ne nous dit pas que tous les poètes qui écrivirent *Télèphe* faisaient entrer un roi en haillons. La satire peut emprunter, concentrer et déformer les traits d'un spectacle antérieur pour créer son propre effet comique.
+
+Le costume met en tension visibilité et identité : le roi, en apparence indigent, doit persuader un public de le juger autrement que selon ses signes extérieurs. Le dispositif est politiquement efficace dans la comédie de Dicéopolis, où prendre la parole pour l'ennemi suppose de risquer la colère collective.
+
+**[C]** Attribuer ce dispositif à Iophon sans fragment serait un transfert illicite. Il est possible que le *Télèphe* d'Iophon ait utilisé un déguisement ; il est également possible qu'il ait traité tout autre chose.
+
+## XXV. Aristophane, *Les Thesmophories* 689–784 : la prise d'otage parodique
+
+Les *Thesmophories* d'Aristophane, représentées en **411**, contiennent une parodie célèbre de la scène d'otage associée au *Télèphe* d'Euripide. Un personnage cherche à se protéger en saisissant ce qu'il croit être un nourrisson ; la comédie retourne le pathétique tragique en farce en révélant un **outre de vin** sous les linges.
+
+Cette transformation suppose que les spectateurs connaissent assez bien le motif théâtral pour comprendre à la fois la menace, le retournement et l'incongruité du substitut. L'exemple montre la survie d'une pièce perdue dans la mémoire des arts de la scène, mais cette mémoire est filtrée par l'exagération comique.
+
+L'enfant menacé est souvent identifié à **Oreste** dans les reconstructions modernes du *Télèphe* d'Euripide ; les vases postérieurs offrent des parallèles matériels. Toutefois la comédie ne nous livre pas une transcription de l'ensemble du drame, et la reconstruction précise de la séquence demeure un travail philologique.
+
+**[B]** La prise d'otage est donc un élément essentiel de la réception **euripidéenne**. **[C]** Aucun témoin n'autorise à dire qu'Iophon faisait saisir Oreste, qu'il disposait un autel sur scène ou qu'il achevait sa tragédie par une négociation sous la menace d'une mort d'enfant.
+
+## XXVI. La recherche moderne sur Euripide et la limite du parallèle
+
+**Eric W. Handley et John Rea**, *The Telephus of Euripides* (**1957**), ont renouvelé l'étude de cette œuvre en s'appuyant sur des restes papyrologiques. Un compte rendu d'**André Bataille** dans la *Revue des Études Grecques* (1959) décrit les fragments d'un rouleau d'Oxyrhynchos et souligne la prudence des éditeurs concernant leur attribution. Certaines identifications reposent sur des rapprochements ponctuels avec une citation transmise par Stobée.
+
+**Malcolm Heath**, « Euripides' Telephus », *Classical Quarterly* **37** (1987), **272–280**, discute notamment la question de savoir si Télèphe prenait la défense des Troyens, de lui-même, ou des deux dans des discours différents. L'article assume une part de conjecture dans la reconstruction.
+
+Ces études montrent comment la philologie travaille **avec** un texte fragmentaire : établissement des lettres, comparaison des citations, datation d'écriture, contrôle de l'attribution, analyse des répliques comiques. Le travail sur Iophon est plus limité encore, car il ne possède aucun fragment de ce genre.
+
+Il serait trompeur d'importer les lettres papyrologiques d'Euripide dans un dossier intitulé Iophon sous prétexte qu'un fragment pourrait théoriquement avoir été attribué autrement. Un changement d'auteur exige des arguments explicites de transmission et d'édition, non la seule ressemblance du nom du personnage.
+
+## XXVII. Agathon et les autres Télèphe : cartographie sans fusion
+
+Le répertoire tragique comprend des *Télèphe* d'autres dramaturges, notamment **Agathon**, et les dossiers de **Sophocle**, **Eschyle** et **Euripide** utilisent différents épisodes du cycle. L'existence de plusieurs œuvres montre qu'un mythe n'était pas la propriété exclusive de son premier interprète connu.
+
+Le dossier d'Agathon comporte un fragment dont la transmission est discutée dans son propre registre ; la comparaison ne saurait faire d'une phrase d'Agathon une citation d'Iophon. Une étude d'Eschyle relative à Télèphe constitue également un dossier autonome, distinct des *Myrmidons* ou des pièces troyennes.
+
+Les contraintes éditoriales de MYTHOS demandent une **séparation canonique par auteur et par œuvre**. La coexistence de plusieurs volumes homonymes n'est pas une collision sémantique si le couple auteur-titre est identifié. À l'inverse, deux volumes intégralement consacrés au même *Télèphe* d'Iophon seraient un doublon à contrôler.
+
+Les textes conservés ailleurs dans la collection doivent servir à créer des renvois intellectuels, non à réécrire un auteur sous le nom d'un autre. L'histoire du répertoire perdrait son intérêt si la continuité était obtenue en réduisant artificiellement tous les *Télèphe* à une seule pièce modèle.
+
+## XXVIII. Les versions d'Augé : du sujet familial au sujet militaire
+
+La matière de Télèphe se prête à au moins deux grandes zones dramatiques : d'une part, l'histoire familiale de sa conception, de sa séparation et de sa reconnaissance ; d'autre part, la guerre en Mysie suivie de sa blessure et de sa guérison. Les deux ensembles relèvent d'une même biographie mythique, mais n'imposent pas une unité d'action.
+
+Une tragédie consacrée à l'enfance de Télèphe pourrait privilégier la violence subie par Augé et l'autorité d'Aléos. Une œuvre portant sur sa vie adulte pourrait, au contraire, s'attacher à la défense de la Mysie et à la relation avec les Achéens. Il existe également des versions intermédiaires où la découverte de la filiation et la succession de Teuthras occupent le centre du récit.
+
+**[C]** Pour Iophon, aucune hiérarchie de probabilité n'est démontrable entre ces familles d'épisodes. La célébrité de la scène des haillons dans *Euripides* ne suffit pas à fixer l'action d'*Iophon*. Le choix d'un des ensembles est une hypothèse, jamais une restitution.
+
+La prudence exige aussi de séparer les rôles féminins possibles : Augé, les femmes de Mysie, et les figures de la maison d'Agamemnon n'appartiennent pas nécessairement au même drame. Rien ne permet d'inventer un chœur de mères ou d'épouses comme si la distribution était récupérée.
+
+## XXIX. Trois possibilités de dramaturgie, explicitement non attestées
+
+**[C1 — Naissance et exil.]** L'action pourrait être située à Tégée autour d'Augé, d'Aléos et de la naissance d'un enfant dont la destinée menace l'ordre royal. Cette hypothèse s'appuie sur Pausanias et le Pseudo-Apollodore pour le **mythe**, non sur un témoignage de théâtre d'Iophon.
+
+**[C2 — Défense de la Mysie.]** L'action pourrait porter sur l'arrivée erronée des Achéens, le combat de Télèphe et la catastrophe de sa blessure. Les questions centrales seraient la méconnaissance du territoire, l'inégalité militaire et la légitimité de défendre un pays. La source narrative principale est l'*Épitomé* 3.17, non le texte perdu.
+
+**[C3 — Guérison et négociation.]** Le poète aurait pu choisir le retour de Télèphe parmi les Achéens pour obtenir le remède que détient Achille. La mise en tension de l'ennemi et du guérisseur ouvrirait un champ de parole tragique ; le déguisement pourrait y être utile, mais il est connu surtout par la réception d'Euripide.
+
+Il serait artificiel d'ajouter une scène de prologue, un parodos, plusieurs épisodes, une stasimon et un exodos pour donner à ces hypothèses l'apparence d'une édition critique. Aucune structure en parties ne peut être établie. Le catalogue des possibilités doit demeurer un **outil d'orientation**, non une traduction fictive d'un texte introuvable.
+
+## XXX. Le sens politique de l'erreur militaire
+
+Le débarquement des Grecs en Mysie révèle que la puissance militaire peut précéder la connaissance de son objectif. La force rencontre une résistance qu'elle n'avait pas prévu de rencontrer ; le souverain local, parent de héros grecs, n'en devient pas pour autant allié des envahisseurs. Le mythe ne recouvre donc pas exactement la partition simple entre un « nous » grec et un « eux » troyen.
+
+Cette ambiguïté permet de réfléchir aux conditions dans lesquelles une collectivité représente l'étranger. Les combattants peuvent attribuer à un territoire une identité qu'il n'a pas ; l'erreur géographique devient une faute pratique, même si elle n'est pas une intention de frapper les habitants de Mysie pour eux-mêmes.
+
+**[D]** Une lecture politique du récit peut y voir une critique des guerres menées sous des représentations inexactes. Mais ce jugement est une interprétation de la source mythographique, pas un manifeste d'Iophon. La tradition de Télèphe n'établit pas que le dramaturge partageait une doctrine pacifiste, anti-impériale ou défensive particulière.
+
+Le problème de l'ennemi mal identifié n'en est pas moins philosophiquement fécond. Il montre que le jugement préalable à l'action peut être aussi décisif que la qualité morale affichée par les acteurs.
+
+## XXXI. De l'adversaire au médecin : la réciprocité forcée
+
+Le moteur le plus singulier du récit de Télèphe est l'obligation de demander secours à l'homme qui a infligé la blessure. L'hostilité n'est pas annulée ; elle est reconvertie en relation pratique. Le guérisseur détient une ressource, le blessé détient une information. L'échange devient possible parce qu'aucun des deux camps n'est autosuffisant.
+
+Cette économie du manque s'oppose aux images simples de domination. Achille a la puissance de blesser, mais ne sait pas atteindre Troie. Télèphe sait où se trouve Troie, mais ne peut guérir seul. La possession exclusive d'une capacité ne suffit plus à garantir l'indépendance.
+
+**[D]** On peut y voir une structure générale de médiation : une relation de puissance se transforme en relation de besoin mutuel. Il serait cependant trompeur d'appeler cette transformation « réconciliation » sans préciser ses limites. La guérison et le renseignement géographique n'abolissent pas l'histoire du conflit ni les morts qui l'ont accompagné.
+
+**[C]** Rien ne prouve que cette médiation constituait l'action centrale de l'œuvre d'Iophon. La monographie peut en analyser les enjeux parce qu'ils sont contenus dans les récits comparatifs ; elle ne peut en faire une thèse du drame perdu.
+
+## XXXII. Le corps blessé comme lieu de la mémoire
+
+Télèphe est un personnage dont le corps conserve la trace d'une erreur de guerre. Là où les armées quittent la Mysie, la blessure demeure. Le rapport du héros à la durée change : l'homme qui défendait activement sa cité vit désormais dans la dépendance d'une réparation qu'il ne peut produire lui-même.
+
+Le récit peut être mis en relation avec d'autres héros grecs souffrant d'une blessure prolongée, particulièrement **Philoctète**, chez Sophocle. Dans le *Philoctète* conservé, la souffrance physique est inséparable de l'isolement, de l'utilité militaire que les compagnons redécouvrent et de la difficulté de convaincre le héros de coopérer.
+
+**[B]** Les deux mythes partagent des thèmes, non des séquences interchangeables : le lieu de l'action, l'origine de la plaie et le mécanisme de guérison divergent. On ne peut substituer la flèche d'Héraclès dans *Philoctète* à la lance d'Achille dans *Télèphe*, ni attribuer à Iophon des paroles de Sophocle sur la douleur.
+
+**[D]** Le rapprochement permet de réfléchir à la façon dont un corps souffrant détient simultanément la marque d'une exclusion et une ressource nécessaire au collectif. Mais aucune scène de plainte d'Iophon n'a été conservée pour vérifier cette lecture sur sa dramaturgie propre.
+
+## XXXIII. La médecine comme paradoxe mythique, non comme protocole
+
+Le remède par le métal prélevé sur une lance demande une clarification scientifique. La croyance poétique selon laquelle ce qui a blessé peut guérir appartient à un ensemble de représentations symboliques de l'action et de la puissance des objets. Elle ne doit pas être interprétée comme une recommandation d'appliquer des matériaux oxydés sur une plaie.
+
+Les textes grecs et latins ont parfois repris la formule du mal réparé par son instrument, mais leur usage rhétorique varie selon le contexte. La critique des sources doit conserver les écarts de vocabulaire et de causalité. Chez le Pseudo-Apollodore, Achille gratte sa lance pour obtenir la matière du remède ; chez d'autres témoins, l'expression proverbiale peut se détacher de l'épisode complet.
+
+**[D]** Une analyse philosophique distinguera trois plans : une causalité narrative ou divine à l'intérieur du mythe ; un symbole de réparation par l'auteur d'un tort ; et une question générale de thérapeutique, extérieure à la preuve littéraire. Les confondre conduirait à transformer une scène mythique en information médicale erronée.
+
+**[C]** L'absence d'un texte d'Iophon interdit de lui attribuer des arguments médicaux, des termes techniques de pharmacologie ou une interprétation rationalisante du prodige.
+
+## XXXIV. Platon : les apparences du malheur et l'éducation du jugement
+
+Dans la *République*, Platon examine la représentation des héros, les effets éducatifs des récits et la puissance des images poétiques. Les livres **II–III** interrogent la manière dont des personnages divins ou héroïques doivent être représentés à ceux qui apprennent la vertu. Le livre **X** revient sur le statut de l'imitation et sur les effets de la poésie sur l'âme.
+
+**[D]** Appliquées à la matière de Télèphe, ces questions portent sur une difficulté : l'apparence misérable du roi blessé doit-elle faire suspecter sa valeur, ou révèle-t-elle l'insuffisance du jugement fondé sur le costume ? Si l'ennemi est contraint d'écouter un homme en haillons, le théâtre peut mettre en crise les hiérarchies visuelles qui ordonnent la communauté.
+
+La lecture reste théorique. Platon **ne commente pas l'*Télèphe* d'Iophon** ; le costume célèbre est connu par Euripide et Aristophane. La réflexion platonicienne éclaire l'importance culturelle de la représentation, mais ne révèle pas la mise en scène d'une pièce perdue.
+
+Il serait aussi excessif de faire de Platon un simple adversaire de toute dimension philosophique de la poésie. La *République* utilise elle-même des mythes et une mise en forme dialogique ; les questions de mimesis, d'éducation et de vérité demandent une analyse nuancée.
+
+## XXXV. Platon, *Gorgias* et la persuasion comme pouvoir ambigu
+
+Le *Gorgias* interroge la rhétorique, la différence entre persuasion et savoir, et les formes de la justice. Dans le mythe de Télèphe, la négociation suppose de convaincre l'homme qui détient le moyen de guérir, voire un groupe hostile qui contrôle l'accès à ce dernier. La parole peut devenir l'arme nécessaire du personnage privé de puissance.
+
+**[D]** La comparaison rend visible un risque : un discours efficace n'est pas automatiquement juste. Télèphe peut obtenir un secours par l'invocation de sa souffrance, la promesse d'une information ou, dans certaines versions dramatiques comparables, une menace sur un otage. Les trois voies ne sont pas moralement équivalentes.
+
+Aucune de ces stratégies ne doit être déclarée certaine pour Iophon. Platon propose des critères philosophiques d'évaluation de la parole, non une annotation de l'œuvre perdue. Il faut distinguer le logos des philosophes des répliques dramatiques réellement attestées, lesquelles font défaut ici.
+
+L'intérêt méthodologique de la comparaison est donc de ne pas réduire la guérison à une fin heureuse : le moyen utilisé pour y parvenir peut être un problème éthique en lui-même.
+
+## XXXVI. Aristote : le nom de Télèphe ne donne pas l'action
+
+La *Poétique* d'Aristote, notamment **1450a** et **1451a**, distingue l'organisation de l'action dramatique de la simple présence d'un personnage célèbre. Une tragédie ne se définit pas seulement par le fait de nommer un héros : les événements doivent former un ensemble intelligible avec des relations de causalité, de nécessité ou de vraisemblance.
+
+L'exemple de *Télèphe* permet de mesurer ce qui manque à l'historien des œuvres perdues : il possède une identité héroïque, plusieurs récits et une tradition bibliographique, mais **ne possède pas l'organisation propre des événements chez Iophon**. Or c'est précisément cette organisation qui permettrait d'analyser l'efficacité tragique de l'œuvre au sens aristotélicien.
+
+On pourrait faire de la blessure un début de catastrophe, de l'oracle une révélation, de la quête d'Achille une péripétie et du retour en Mysie un dénouement. Mais la structure ainsi obtenue serait une composition du critique moderne, non une reconstruction prouvée.
+
+Le recours à Aristote conduit ici à un résultat de modestie : **un titre n'est pas un mythos**. Il n'autorise pas à écrire, sous couvert de science, la succession des scènes, le nombre de personnages, la place du chœur ou la nature de l'exodos.
+
+## XXXVII. Aristote et l'action vraisemblable : ce qu'une reconstruction devrait prouver
+
+Aristote distingue, dans la *Poétique*, le rapport entre ce qui est arrivé, ce qui pourrait arriver et les effets d'une action correctement construite. Appliquée à un mythe, cette distinction ne donne pas le droit d'inventer arbitrairement des épisodes ; elle demande de montrer pourquoi une structure dramatique fonctionnerait.
+
+Pour le *Télèphe* d'Iophon, une reconstruction défendable devrait reposer sur au moins l'un des éléments suivants : un extrait explicitement attribué, un argument ancien, un témoignage de réception nominatif, une scholie discutant son intrigue, ou un papyrus dont le titre et l'auteur sont contrôlés. À défaut, l'analyste peut seulement proposer des **modèles narratifs**.
+
+Cette limitation est particulièrement importante quand les autres œuvres du même sujet ont laissé des traces. Le fragment d'Euripide que l'on croit reconnaître dans une parodie ne devient pas une donnée sur Iophon ; l'existence du mythe chez le Pseudo-Apollodore ne comble pas la perte du manuscrit tragique.
+
+La discipline de reconstruction exige donc de faire apparaître au premier plan la **distance entre source comparée et objet étudié**. Une note indiquant « hypothèse » ne suffit pas si le corps du récit décrit ensuite les scènes comme certaines.
+
+## XXXVIII. Hegel : l'opposition de deux légitimités
+
+Les *Leçons sur l'esthétique* de **Hegel** proposent une réflexion sur le conflit tragique comme opposition entre des forces ou des normes qui peuvent chacune posséder une justification. Le modèle le plus célèbre concerne les devoirs familiaux et civiques dans l'*Antigone* de Sophocle, non le *Télèphe* d'Iophon.
+
+**[D]** La matière mysienne pourrait s'interpréter selon une tension de ce genre : l'expédition achéenne revendique son objectif héroïque et guerrier, tandis que Télèphe exerce un droit de défendre son royaume contre une invasion non provoquée. Le conflit oppose alors l'entreprise collective à l'autonomie d'un territoire qui n'était pas la cible véritable. La puissance du mythe vient du fait qu'aucun nom héroïque prestigieux ne résout immédiatement la question de la justice.
+
+Toutefois l'erreur des Achéens complique la symétrie : un débarquement fondé sur une méprise ne fait pas nécessairement des deux prétentions des droits égaux. Une interprétation hégélienne sérieuse doit pouvoir constater l'asymétrie des faits au lieu d'invoquer mécaniquement le « conflit de deux droits ».
+
+Hegel n'offre aucun témoignage sur la pièce d'Iophon. La comparaison est une réflexion sur une matière mythique attestée **ailleurs** ; aucun vers d'Iophon ne permet de vérifier qu'il la traitait de cette manière.
+
+## XXXIX. Hegel : dépendance, reconnaissance et réparation
+
+La relation entre Télèphe et Achille prend une autre dimension si l'on réfléchit à la dépendance réciproque. L'un détient une solution au mal du corps, l'autre une connaissance géographique indispensable. L'ancien vainqueur ne possède pas la totalité du pouvoir ; l'ancien blessé n'est pas réduit à une impuissance absolue.
+
+**[D]** On peut rapprocher cette structure de certaines interrogations hégéliennes sur la reconnaissance et les rapports d'indépendance, tout en évitant de plaquer directement la dialectique du maître et de l'esclave sur un mythe auquel elle n'est pas consacrée. Les rapports ne sont pas identiques : ici, la relation n'est pas un système social stable, mais une négociation issue d'une guerre et orientée vers une guérison.
+
+La réparation ne suppose pas nécessairement la reconnaissance morale de la faute initiale. Les Achéens peuvent chercher le renseignement nécessaire à la guerre sans reconnaître les torts infligés aux Mysiens. Télèphe peut accepter une guérison sans pardonner l'agression. La transaction n'est donc pas identique à une réconciliation politique complète.
+
+Cette nuance protège la lecture philosophique contre un récit de progrès trop facile. Le mythe décrit un échange rendu nécessaire, pas une démonstration que la violence transforme toujours les ennemis en amis.
+
+## XL. Nietzsche : le héros blessé et la critique de la puissance
+
+Chez **Nietzsche**, la tragédie grecque ne se réduit pas à une leçon morale. *La Naissance de la tragédie* (**1872**) interroge l'articulation de la forme, de l'apparence, de l'effroi et de l'expérience dionysiaque. Les écrits sur l'agôn grec rappellent que la compétition, la cruauté et la puissance de destruction appartiennent aussi à la culture héroïque.
+
+**[D]** Télèphe offre un objet particulièrement intéressant à une lecture de la force : le combattant capable de résister à l'invasion se découvre vulnérable ; Achille, incarnation de la puissance guerrière, ne saurait accomplir l'expédition sans dépendre du savoir de celui qu'il a blessé. La supériorité n'est pas supprimée, mais relativisée par les conditions concrètes de l'action.
+
+Il serait pourtant contraire à la méthode de conclure qu'Iophon voulait « déconstruire » l'héroïsme ou qu'il annonçait une théorie nietzschéenne de la volonté de puissance. Nous n'avons pas ses paroles, son rythme, sa structure scénique ni sa représentation des dieux.
+
+Nietzsche peut aider à décrire une tension entre éclat héroïque et souffrance corporelle, ainsi qu'entre spectacle de la puissance et exposition de la faiblesse. Il n'est pas un témoin antique de la pièce et ne fournit pas sa signification définitive.
+
+## XLI. La différence entre résignation et consentement à la réparation
+
+Pour recevoir la guérison, Télèphe doit solliciter l'homme qui l'a blessé. Cette action n'est ni une capitulation militaire nécessaire ni une soumission morale totale. Les récits de l'*Épitomé* montrent une négociation portant sur des besoins réciproques. L'individu blessé n'a pas cessé de savoir quelque chose dont les autres ont besoin.
+
+Une éthique de la réparation doit distinguer demander secours, reconnaître une dépendance, approuver les actes antérieurs et pardonner. Ces actes ne sont pas synonymes. Le mythe ne contraint pas Télèphe à trouver juste l'expédition achéenne ; il lui impose d'agir dans une situation où la guérison dépend d'un adversaire.
+
+**[D]** Cette distinction peut être rapprochée des discussions modernes sur la relation entre victime et auteur d'un dommage. Mais le texte ancien n'est pas un traité contemporain sur la justice réparatrice : l'objet de l'échange est la possibilité pratique de vivre et de poursuivre un voyage.
+
+**[C]** Aucun discours de Télèphe dans l'œuvre d'Iophon n'atteste un pardon, une condamnation ou une philosophie de la réconciliation. La monographie doit conserver cette absence comme une limite fondamentale de l'interprétation.
+
+## XLII. Comparaison avec *Philoctète* : le blessé dont on a besoin
+
+Le *Philoctète* de Sophocle, conservé et représenté en **409 av. J.-C.**, montre un homme isolé et souffrant dont l'arc devient nécessaire au succès de l'expédition contre Troie. La communauté qui l'a abandonné découvre que sa stratégie dépend de lui. Le drame met au premier plan les problèmes de confiance, de persuasion, de ruse et de loyauté.
+
+Le rapprochement avec Télèphe est structurel, non textuel. Dans les deux mythes, la blessure et la puissance de l'individu deviennent indissociables des besoins du groupe. Mais Philoctète n'est pas soigné par l'homme qui l'a blessé, et Télèphe n'est pas abandonné sur Lemnos pour les mêmes raisons. Les sources font apparaître des situations différentes.
+
+**[D]** Cette comparaison aide à poser une question : une communauté peut-elle traiter comme simple outil celui dont elle réclame le secours ? Dans *Philoctète*, Sophocle donne des scènes et des paroles permettant de l'étudier directement. Dans *Télèphe* d'Iophon, l'absence de texte limite l'analyse au matériau mythique commun.
+
+L'analogie est utile si elle éclaire les différences, non si elle les efface.
+
+## XLIII. Comparaison avec *Œdipe roi* : reconnaissance et ignorance
+
+Le mythe de Télèphe comporte plusieurs formes d'ignorance : l'enfant peut ne pas connaître son origine ; les Achéens se trompent sur le pays où ils débarquent ; les groupes opposés découvrent progressivement leur dépendance mutuelle. Ces formes d'ignorance ne sont pas équivalentes, mais elles montrent que la connaissance est un moteur récurrent du récit.
+
+Une comparaison avec *Œdipe roi* de Sophocle peut porter sur la façon dont une enquête révèle une vérité inattendue et transforme l'identité sociale d'un personnage. Toutefois nous ne savons pas si le *Télèphe* d'Iophon comportait une reconnaissance familiale, un oracle mal interprété ou une enquête sur la filiation.
+
+**[D]** Le rapport entre connaissance et action fournit un outil conceptuel ; il ne prouve pas la présence de mécanismes dramatiques identiques. Chez Œdipe, le texte survivant permet d'analyser les répliques, l'ironie tragique et la structure des révélations. Chez Iophon, le titre seul ne suffit pas à construire un parcours de reconnaissance.
+
+Il serait méthodologiquement problématique d'imaginer que le fils de Sophocle devait reproduire les mêmes innovations dramatiques que son père. Le corpus perdu mérite une lecture autonome, même lorsque les comparaisons familiales paraissent naturelles.
+
+## XLIV. Les enjeux de parenté : de Tégée à Pergame
+
+La biographie mythique de Télèphe relie plusieurs espaces : Tégée et les montagnes d'Arcadie, le sanctuaire d'Augé, les chemins vers la mer, le pays de Teuthras, la Mysie et, dans la réception hellénistique, Pergame. Cette géographie dispersée offre une explication culturelle à la double appartenance du héros : grec par son père, souverain d'une région anatolienne par adoption ou succession.
+
+Dans les représentations hellénistiques, la généalogie sert à affirmer une continuité entre des ancêtres prestigieux et des pouvoirs politiques plus récents. Le **Grand Autel de Pergame** met en récit la vie de Télèphe ; il fait de ce héros une figure de mémoire dynastique. Cette transformation ne signifie pas que le récit ait été inventé de toutes pièces à Pergame : elle montre qu'il pouvait être réinterprété pour légitimer le pouvoir.
+
+**[D]** La comparaison entre mythologie grecque et construction dynastique hellénistique rappelle qu'un même personnage peut avoir plusieurs fonctions : protagoniste tragique, héros de tradition locale, ancêtre revendiqué par une maison royale, sujet iconographique.
+
+**[C]** On ne saurait rétroprojeter sur Iophon la signification politique d'un monument construit plusieurs siècles après sa vie.
+
+## XLV. Iconographie I : le relief de Télèphe allaité par une lionne
+
+Les **Staatliche Museen zu Berlin**, Antikensammlung, conservent une dalle du **frise de Télèphe** du Grand Autel de Pergame, enregistrée **T.I. 17**, objet **817216**. La notice officielle décrit **Héraclès découvrant son fils Télèphe allaité par une lionne** sur le mont Parthénios. Le relief en marbre appartient au deuxième quart du IIe siècle av. J.-C. ; les dimensions indiquées sont d'environ **109,5 × 75 cm**.
+
+Cette image mérite une étude particulière parce qu'elle entre en tension avec Pausanias **8.48.7** et **8.54.6**, qui associe l'enfant exposé à une **biche**. La comparaison ne doit pas forcer l'unification. Les deux animaux appartiennent à des transmissions différentes ; la variation peut être liée à des versions locales, aux choix iconographiques ou aux programmes de représentation de différentes époques.
+
+Le spectateur de la frise voit une enfance héroïque inscrite dans un récit public de fondation. Le public du théâtre d'Iophon, lui, n'est pas documenté. **La dalle ne représente pas une scène attestée de sa tragédie.**
+
+**Référence muséale officielle :** Staatliche Museen zu Berlin, *Telephosfries – Herakles findet im Partheniongebirge seinen Sohn Telephos, der von einer Löwin gesäugt wird*, inv. **T.I. 17**, https://search.smb.museum/object/obj-817216, permalien https://id.smb.museum/object/817216. Reproduction éventuelle sous réserve des droits photographiques du musée.
+
+## XLVI. Iconographie II : le retour du héros en Mysie
+
+Une autre dalle du cycle pergaménien montre, d'après la notice des **Staatliche Museen zu Berlin**, l'arrivée de Télèphe en Mysie et le moment où **Augé lui remet des armes**. Il s'agit de l'objet **T.I. 32**, numéro **847138**, marbre du deuxième quart du IIe siècle av. J.-C. ; ses dimensions sont d'environ **130,5 × 95 cm**.
+
+L'image illustre une version où la relation mère-fils, l'identité héroïque et l'entrée dans la fonction guerrière occupent une place essentielle. Elle est particulièrement utile pour comparer une biographie d'exil avec une biographie de souverain. Le motif des armes peut signifier reconnaissance, transmission ou préparation au combat ; l'interprétation exacte requiert l'analyse de l'ensemble du programme du monument.
+
+Le musée explique que la petite frise du Grand Autel parcourait les murs de la cour intérieure et racontait par épisodes la vie de Télèphe, tenu pour ancêtre de la dynastie pergaménienne. Cette composition n'est pas une représentation de scène théâtrale : la continuité narrative du relief et les conventions du théâtre tragique relèvent de médias distincts.
+
+**Référence officielle :** Antikensammlung Berlin, *Telephosfries – Ankunft in Mysien: Telephos nimmt von Auge die Waffen entgegen*, **T.I. 32**, https://search.smb.museum/object/obj-847138, permalien https://id.smb.museum/object/847138.
+
+## XLVII. Iconographie III : l'enfant Oreste et le problème des images de théâtre
+
+Le **Metropolitan Museum of Art** conserve un **lécythe attique** daté de la **fin du IVe siècle av. J.-C.**, numéro d'inventaire **28.57.9**. La notice identifie la scène comme **Télèphe, Oreste et Clytemnestre** ; elle évoque la menace contre l'enfant dans le cadre d'une demande de guérison et relie l'image à la tradition du *Télèphe* d'Euripide, joué en 438.
+
+Il s'agit d'un objet en terre cuite dont le décor est exécuté en relief appliqué, avec une hauteur d'environ **13,7 cm**. La scène rend visible la charge émotionnelle de la prise d'otage : une mère qui supplie, un enfant vulnérable et un héros étranger qui tente d'obtenir secours.
+
+**La notice du Met concerne le rapport iconographique avec la tradition euripidéenne, non avec Iophon.** La date du vase est sensiblement postérieure à la vie des deux dramaturges ; son décor ne permet pas de reconstruire automatiquement des gestes, des positions scéniques et un nombre d'acteurs du théâtre athénien classique.
+
+**Référence officielle :** Metropolitan Museum of Art, *Terracotta lekythos (oil flask)*, inv. **28.57.9**, https://www.metmuseum.org/art/collection/search/252961. Cette œuvre est un parallèle du mythe et de la réception dramatique **d'Euripide**, pas une illustration attestée du *Télèphe* d'Iophon.
+
+## XLVIII. Iconographie : limites de la restitution 3D
+
+Un projet patrimonial pourrait produire une image photoréaliste de la Mysie, du sanctuaire d'Athéna Aléa à Tégée, ou d'un relief du Grand Autel de Pergame. Il faudrait alors séparer trois opérations : **reconstituer un espace archéologique à partir de vestiges**, **visualiser une tradition mythique** et **reconstituer un spectacle disparu**. Ces démarches ne possèdent pas les mêmes preuves.
+
+Pour la tragédie d'Iophon, nous ne connaissons ni le lieu scénique, ni les costumes, ni les accessoires, ni le plan dramatique. Une vue intitulée « Télèphe d'Iophon au théâtre » serait donc trompeuse si elle ne signalait pas sa nature **entièrement conjecturale**. Le fait qu'Aristophane évoque les haillons du Télèphe d'Euripide ne rend pas légitime une copie visuelle de ce costume pour Iophon.
+
+Les images des musées de Berlin et de New York peuvent être accompagnées de cartels universitaires : titre muséal, date, matière, inventaire, provenance, version du mythe et degré de relation avec le théâtre. Le projet MYTHOS doit en outre respecter les autorisations de reproduction et ne pas remplacer les images documentaires par des graphismes 2,5D présentés comme vestiges.
+
+La meilleure iconographie scientifique est parfois une **notice négative explicite** : « aucun lien établi avec la pièce perdue d'Iophon ».
+
+## XLIX. Le mythe comparé : la blessure et son remède dans d'autres traditions
+
+La relation entre une blessure et son agent réparateur n'appartient pas exclusivement au monde grec. Les littératures anciennes transmettent plusieurs formes de remèdes paradoxaux, de guérisons rituelles et de transferts de puissance. Mais une comparaison mythologique correcte doit distinguer une **analogie de structure** d'une **dépendance historique attestée**.
+
+On peut rapprocher, sur un plan très général, l'idée que l'objet ou la personne liée au mal puisse aussi participer à sa résolution. Cette structure apparaît dans des récits de réconciliation, de purification et de médecine symbolique. Elle ne permet pas de déclarer qu'Iophon emprunta un motif à un récit mésopotamien, égyptien ou perse : aucune preuve textuelle ne relie sa pièce perdue à une source étrangère déterminée.
+
+Une comparaison plus ferme peut être menée **à l'intérieur du corpus grec**, avec Asclépios pour le domaine de la guérison divine, avec Philoctète pour la souffrance persistante et avec les récits de purification d'un meurtrier pour la relation entre faute et réintégration. Même dans ces cas, le mécanisme spécifique de la lance d'Achille ne doit pas être assimilé à une théorie médicale générale.
+
+La prudence comparative n'appauvrit pas l'étude : elle empêche que de vagues ressemblances deviennent des généalogies culturelles fabriquées.
+
+## L. Cartographie critique des sources et des fonctions
+
+| Source / objet | Ce qui est attesté | Ce qui **ne** l'est pas |
+|---|---|---|
+| *Souda* ι 451 | Titre *Télèphe* dans la tradition d'Iophon | Action, vers, mise en scène, date |
+| FragTrag.1, Iophon 7 = TrGF titre 2c | Identification critique comme **titre** | Un fragment « 2c » du dialogue |
+| FragTrag.1, Iophon « report 1 » = TrGF fr. 3 | Rapport rattaché à un **drame inconnu** | Attribution à *Télèphe* |
+| *Souda* κ 1730 | Autres titres attribués à Cléophon, dont *Télèphe* | Identité automatique des auteurs |
+| Pseudo-Apollodore, *Bibliothèque* 3.9.1 | Généalogie et enfance d'Augé / Télèphe | Argument du drame d'Iophon |
+| Pausanias 8.4.9 | Variante transmise d'après Hécatée | Compte rendu de la scène d'Iophon |
+| Pausanias 8.48.7 ; 8.54.6 | Récits tégéates, biche et lieu sacré | Chœur, décor ou scénario attesté |
+| Pseudo-Apollodore, *Épitomé* 3.17–20 | Débarquement en Mysie, blessure, oracle, remède, route | Transcription du théâtre d'Iophon |
+| Aristophane, *Acharniens* 393–488 | Haillons du Télèphe **d'Euripide** | Costume d'Iophon |
+| Aristophane, *Thesmophories* 689–784 | Parodie de la prise d'otage **euripidéenne** | Présence d'Oreste chez Iophon |
+| Euripide, *Télèphe*, fragments et papyrus | Pièce distincte jouée en 438 ; débat critique | Vers transférables à Iophon |
+| Berlin T.I. 17 ; T.I. 32 | Iconographie pergaménienne hellénistique | Illustration directe du théâtre d'Iophon |
+| Met 28.57.9 | Vase sur Télèphe, Oreste, Clytemnestre | Témoignage d'une scène d'Iophon |
+
+Cette cartographie devrait servir de référentiel durable à l'encyclopédie. Elle empêche d'intégrer au répertoire d'Iophon les données d'Euripide, d'un catalogue homonyme ou d'une tradition postérieure au simple motif qu'elles concernent le même héros.
+
+## LI. Bibliographie critique : témoignages, éditions et études vérifiables
+
+**1. Souda, s.v. Iophon, ι 451.** Édition Ada Adler ; *Suda On Line*, https://www.cs.uky.edu/~raphael/sol/sol-entries/iota/451. Source primordiale pour le titre. **Souda κ 1730** pour la question distincte de Cléophon.
+
+**2. Greek Fragmentary Tragedians Online, FragTrag.1**, Université de Patras, *Concordance*, rubrique Iophon, entrée **7. Τήλεφος**, correspondant à **TrGF I, Iophon, titre 2c** : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html. La ligne est explicitement marquée **title** ; le rapport suivant relève de la rubrique des drames non identifiés.
+
+**3. Bruno Snell et collaborateurs**, *Tragicorum Graecorum Fragmenta*, **vol. I : Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum**, Göttingen, Vandenhoeck & Ruprecht. Référence critique des petits tragiques ; ne pas confondre chiffre de titre et numéro de fragment.
+
+**4. August Nauck**, *Tragicorum Graecorum Fragmenta*, deuxième édition, Leipzig, Teubner, **1889** ; corpus historique des fragments. Ses rubriques ne suffisent pas à remplir le silence sur l'action d'Iophon.
+
+**5. Aristophane**, *Grenouilles*, **73–79** et autres passages de l'agôn, pour la réception d'Iophon et de Sophocle. Les personnages comiques ne constituent pas des témoins impartiaux.
+
+**6. Andrew Brown**, « Iophon », *Oxford Classical Dictionary*, Oxford University Press, DOI **10.1093/acrefore/9780199381135.013.3321**, pour les repères biographiques et les limites des anecdotes familiales.
+
+**7. Pseudo-Apollodore**, *Bibliothèque* **3.9.1**, et *Épitomé* **3.17–20** ; traduction et notes de **James George Frazer**, *The Library*, Loeb Classical Library, et consultation https://www.theoi.com/Text/Apollodorus3.html et https://www.theoi.com/Text/ApollodorusE.html. Sources du mythe, pas d'Iophon.
+
+**8. Pausanias**, *Description de la Grèce*, **8.4.9**, **8.48.7**, **8.54.6**, pour Hécatée, Augé, les traditions de Tégée, la biche et le sanctuaire du Parthénios : https://www.theoi.com/Text/Pausanias8A.html et https://www.theoi.com/Text/Pausanias8C.html.
+
+**9. Euripide**, *Télèphe*, fragments, dans **Christopher Collard et Martin Cropp** (éd. et trad.), *Euripides: Fragments*, **vol. VIII, Oedipus–Chrysippus; Other Fragments**, Loeb Classical Library **506**, Harvard University Press, **2008**. Ce volume comprend *Telephus* ; **ne pas confondre avec le volume VII** de la même série. Notice de catalogue : https://library.usi.edu/record/320542.
+
+**10. Eric W. Handley et John Rea**, *The Telephus of Euripides*, *Bulletin of the Institute of Classical Studies*, Supplement **5**, **1957** ; compte rendu vérifiable par **André Bataille**, *Revue des Études Grecques* **72** (1959), p. **420–421**, https://www.persee.fr/doc/reg_0035-2039_1959_num_72_339_3589_t2_0420_0000_2.
+
+**11. Malcolm Heath**, « Euripides' Telephus », *Classical Quarterly* **37** (1987), p. **272–280**, dépôt académique de l'Université de Leeds : https://eprints.whiterose.ac.uk/id/eprint/521/. Hypothèses reconstruites concernant les discours d'Euripide, non preuves sur Iophon.
+
+**12. Maria Teresa Ditifeci**, « Note al Telefo di Euripide », *Prometheus* **10**, 3 (1984), DOI **10.14601/prometheus-19059**, https://oaj.fupress.net/index.php/prometheus/article/view/246. L'affichage numérique indique une date de mise en ligne postérieure à la date bibliographique du fascicule ; ne pas les confondre.
+
+**13. Aristophane**, *Acharniens* **393–488** et *Thesmophories* **689–784**, pour la réécriture comique de la tradition **euripidéenne**. Version bilingue partielle des *Acharniens* : https://classics.andrewgadsden.com/library/aristophanes/acharnians/5. Se référer à une édition critique complète pour une collation mot à mot.
+
+**14. Aristote**, *Poétique*, **1450a–1451a**, **1460a**, pour la définition de l'action, les limites d'une reconstruction et les témoignages littéraires concernant d'autres dramaturges du même mythe.
+
+**15. Platon**, *République* **II–III**, **X**, et *Gorgias*, pour les questions d'imitation, d'éducation, de parole et de justice. Ces œuvres ne citent pas la tragédie perdue d'Iophon.
+
+**16. G. W. F. Hegel**, *Leçons sur l'esthétique*, discussions de l'action et des conflits tragiques ; une grille conceptuelle postérieure, non un témoignage antique.
+
+**17. Friedrich Nietzsche**, *La Naissance de la tragédie* (**1872**) et « *Homers Wettkampf* » (« La joute chez Homère »), pour l'expérience tragique, l'agon et l'ambivalence des valeurs héroïques.
+
+**18. Jean-Pierre Vernant et Pierre Vidal-Naquet**, *Mythe et tragédie en Grèce ancienne*, Paris, Maspero, **1972**, et études complémentaires, pour une anthropologie historique du passage du matériau mythique à la scène.
+
+**19. Oliver Taplin**, *Pots & Plays: Interactions between Tragedy and Greek Vase-Painting of the Fourth Century B.C.*, Los Angeles, J. Paul Getty Museum, **2007**, pour la nécessité de justifier les rapports entre images mythologiques et représentations théâtrales déterminées.
+
+**20. Staatliche Museen zu Berlin**, Antikensammlung, **T.I. 17** (inv. **817216**) et **T.I. 32** (inv. **847138**), deux dalles de la frise de Télèphe, deuxième quart du IIe siècle av. J.-C. : https://search.smb.museum/object/obj-817216 et https://search.smb.museum/object/obj-847138.
+
+**21. Staatliche Museen zu Berlin**, *Der Große Altar von Pergamon*, inventaire **Pe. 1**, datation autour de **170–160 av. J.-C.**, https://search.smb.museum/object/obj-829881. Complément sur le programme architectural et politique de la frise.
+
+**22. Metropolitan Museum of Art**, *Terracotta lekythos (oil flask)*, **28.57.9**, fin du IVe siècle av. J.-C., « Telephos, Orestes, and Clytemnestra », https://www.metmuseum.org/art/collection/search/252961. Parallèle iconographique de la tradition tragique **euripidéenne**.
+
+**23. Deutsches Archäologisches Institut, Arachne**, *Telephosfries des Pergamonaltars*, fiche de monument collectif **18509**, https://arachne.dainst.org/entity/18509. Outil de contrôle de la provenance, du classement et de la datation.
+
+**24. *Der Pergamonaltar*,** documentation de la collection Antikensammlung et de Fraunhofer IGD, modèle du monument, https://3d.smb.museum/pergamonaltar/. Le support numérique concerne les vestiges du monument hellénistique et non une scène antique de la tragédie d'Iophon.
+
+## LII. Conclusion : conserver la lacune et rendre le mythe intelligible
+
+Le *Télèphe* d'Iophon est **une œuvre attestée par titre**, non une pièce dont nous pouvons lire l'intrigue. Sa place dans FragTrag.1, **septième titre du dossier d'Iophon**, et la correspondance avec **TrGF I, titre 2c**, doivent être conservées sans transformer les chiffres critiques en faux fragments. Le rapport rattaché aux drames indéterminés ne peut être absorbé par cette œuvre sans preuve.
+
+La tradition de Télèphe, en revanche, se prête à une enquête riche et vérifiable. Le Pseudo-Apollodore donne le récit d'une erreur de guerre, d'une blessure persistante, d'un oracle et d'une guérison par l'arme de l'adversaire. Pausanias conserve plusieurs versions de la naissance et de l'exposition du héros. Aristophane témoigne de la popularité scénique du *Télèphe* **d'Euripide**. Les musées de Berlin et de New York permettent d'observer des représentations anciennes qui se distinguent par la chronologie, le support et les épisodes retenus.
+
+Les analyses philosophiques tirent de ces matériaux plusieurs questions : comment une puissance guerrière devient-elle dépendante du savoir d'un ennemi ? En quoi la réparation d'un corps diffère-t-elle d'un pardon ? Un roi en haillons peut-il obtenir justice par sa parole ? L'erreur de destination excuse-t-elle la violence d'une armée ? La tradition du remède qui provient de l'arme blessante appartient-elle au domaine de l'éthique, du symbole ou de l'action divine ? Platon, Aristote, Hegel et Nietzsche offrent des instruments pour poser ces questions, jamais une transcription de l'œuvre perdue.
+
+La reconstitution demeure donc volontairement **ouverte et négative**. Aucun chœur n'est nommé, aucune réplique n'est imaginée, aucun personnage n'est proclamé présent, aucun dénouement n'est présenté comme certain. Cette retenue n'appauvrit pas le volume : elle préserve les traces authentiques du théâtre grec et rend mesurable la distance entre un mythe célèbre et sa variation dramatique disparue.
+
+**Fin de la monographie universitaire intégrale.** Les mentions CCCII et 302 sont exclusivement celles de la nouvelle attribution transactionnelle MYTHOS ; le manuscrit public demeure sans numéro définitif tant que le registre GitHub n'en fournit pas le reçu. Aucun ancien volume, aucune archive WordPress, aucun registre historique et aucune planification ne doivent être modifiés pour publier cette étude.
