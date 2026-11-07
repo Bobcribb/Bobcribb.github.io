@@ -1179,6 +1179,18 @@
           "path": "chapitres/origines-du-sacre/768-songo-mnara-mosquees-cimetieres-mafingo-monnaies-territoires-rituels.md",
           "request_sha256": "6f5a111ded2f0bb757d12e776bcd69fb901f91d5f11e4cb4f0e4a64e06a9211d",
           "initial_source_sha256": "895f2b5849d49d144bb9ba80d8ca8fabbbfd9713eef0c475e67bd49f7e009725"
+        },
+        "76529bcb-8740-43c9-8cc0-7b0c452cbf9a": {
+          "number": 769,
+          "path": "chapitres/origines-du-sacre/769-bwembweni-kaole-tiw-premier-age-du-fer-ceramiques-rituel-absence-preuve.md",
+          "request_sha256": "6aa076b05743bee0e099e050459c29b045d9242a3e0afe36d2ab922c7bed36a9",
+          "initial_source_sha256": "65813de1141d70a5e42fc8567e97dc5f85ab8a9920321a3ede806b34b66961bf"
+        },
+        "a5e91b20-0fb7-4a8d-a196-b0bf00bc1177": {
+          "number": 770,
+          "path": "chapitres/origines-du-sacre/770-kaole-bagamoyo-mosquees-tombes-piliers-inscriptions-rivage-memoire.md",
+          "request_sha256": "81fdc177265af692d92ce3245489a801a8f5b5153462761dcc940fe14ae2296f",
+          "initial_source_sha256": "6d84c385f88f5a69674b1b5efd990e067056f0c6f16e050575b57a70b547c825"
         }
       }
     },

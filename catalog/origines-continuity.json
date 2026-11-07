@@ -318,7 +318,9 @@
     "765": "/chapitres/origines-du-sacre/765-unguja-ukuu-zanzibar-port-ancien-mosquee-probable-verre-paysage/",
     "766": "/chapitres/origines-du-sacre/766-kizimkazi-dimbani-mosquee-inscription-coufique-500h-conservation/",
     "767": "/chapitres/origines-du-sacre/767-fukuchani-zanzibar-premiers-habitats-depot-metatarses-perles-limites-rituel/",
-    "768": "/chapitres/origines-du-sacre/768-songo-mnara-mosquees-cimetieres-mafingo-monnaies-territoires-rituels/"
+    "768": "/chapitres/origines-du-sacre/768-songo-mnara-mosquees-cimetieres-mafingo-monnaies-territoires-rituels/",
+    "769": "/chapitres/origines-du-sacre/769-bwembweni-kaole-tiw-premier-age-du-fer-ceramiques-rituel-absence-preuve/",
+    "770": "/chapitres/origines-du-sacre/770-kaole-bagamoyo-mosquees-tombes-piliers-inscriptions-rivage-memoire/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -372,7 +374,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 768,
+  "last_numbered_chapter": 770,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
