@@ -372,6 +372,19 @@ def add_reading(doc, url, entry):
     article.insert(0,fragment(toc));article.insert(0,fragment(toolbar))
     foot='<nav class="reader-bottom" data-reading-owned="true" aria-label="Poursuivre la lecture"><a href="#'+escape(headings[0]['id'],quote=True)+'">Revenir au début de l’étude</a> · <a href="/parcours/">Choisir un parcours</a> · <a href="/catalogue-integral/">Catalogue intégral</a></nav>'
     article.append(fragment(foot))
+    if gallery_toc:
+        # Le HTML de la galerie peut recevoir une notice avant sa mise à jour
+        # statique. La passe de lecture régénère alors son sommaire depuis
+        # les vrais H2, puis vérifie toutes les cibles avant publication.
+        section_ids = [h.get('id') for h in headings]
+        links = [a.get('href') for a in
+                 article.select('details.mythos-gallery-toc ol > li > a')]
+        expected = ['#' + anchor for anchor in section_ids if anchor]
+        if (not all(section_ids) or len(set(section_ids)) != len(section_ids)
+                or links != expected
+                or any(doc.find(id=anchor) is None for anchor in section_ids)):
+            raise RuntimeError(
+                'Sommaire 3D reconstruit incomplet, sans cible ou dupliqué : ' + url)
 
 
 def epic_links(doc, url):
