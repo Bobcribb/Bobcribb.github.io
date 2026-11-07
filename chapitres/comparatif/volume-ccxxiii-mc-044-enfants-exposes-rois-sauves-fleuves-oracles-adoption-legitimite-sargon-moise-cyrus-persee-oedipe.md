@@ -451,3 +451,8 @@ Ces histoires décrivent un paradoxe : la puissance future vient d'une vie sur l
 
 
 **FIN — MC-044.** Document prêt pour la file éditoriale GitHub. Aucun nouveau MC-045 n'est réservé ici. Les autres séries MYTHOS, leurs horaires, leurs archives et leur numérotation ne sont pas modifiés. Toute annonce de publication sur bobmythos.fr dépendra d'un contrôle indépendant du registre, des workflows et de l'URL HTTPS finale.
+
+### Note de revue scientifique — 7 novembre 2026 — Sargon, Cyrus et datation des témoins
+**Inventaire :** CDLI [P365306](https://cdli.earth/artifacts/365306), fragments **K.3401 + Sm.2118**, British Museum, Ninive ; édition **CT 13, pl. 42**. Ce témoin néo-assyrien de la légende de naissance de Sargon est très postérieur au roi historique du IIIe millénaire ; une autobiographie fictive n'est pas un acte de naissance.
+**Comparaison textuelle :** Hérodote, *Histoires*, **I, 107–130**, [I,107](https://lexundria.com/hdt/1.107/mcly) et [I,130](https://lexundria.com/hdt/1.130/mcly), récit grec de Mandane, Astyage et Cyrus, distinct des archives royales achéménides. Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Fayard, 1996, [éditeur](https://www.fayard.fr/livre/histoire-de-lempire-perse-9782213596679/) : contexte critique français identifié, aucune page non lue ne lui est imputée.
+**Limite :** l'analogie enfant exposé/fleuve/adoption peut guider la comparaison ; elle ne prouve pas une filiation directe Sargon–Moïse ni la véracité biographique des récits. Maintenir les sources et les réserves existantes.
