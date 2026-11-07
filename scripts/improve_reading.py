@@ -367,7 +367,8 @@ def add_reading(doc, url, entry):
 
     gallery_toc = any(h.find_parent('article', class_='r3d-card') is not None for h in headings)
     toc_class = 'mythos-reading-toc mythos-gallery-toc' if gallery_toc else 'mythos-reading-toc'
-    toc='<details class="'+toc_class+'" data-reading-owned="true"><summary>Sommaire de lecture · '+str(len(headings))+' sections</summary><ol>'+''.join('<li><a href="#'+escape(h['id'],quote=True)+'">'+escape(toc_label(h))+'</a></li>' for h in headings)+'</ol></details>'
+    toc_anchor = ' id="sommaire-reconstitutions"' if gallery_toc else ''
+    toc='<details class="'+toc_class+'"'+toc_anchor+' data-reading-owned="true"><summary>Sommaire de lecture · '+str(len(headings))+' sections</summary><ol>'+''.join('<li><a href="#'+escape(h['id'],quote=True)+'">'+escape(toc_label(h))+'</a></li>' for h in headings)+'</ol></details>'
     toolbar='''<div class="mythos-reader" data-reading-owned="true"><p>Lecture : environ '''+str(entry['minutes'])+''' min · <a href="/methode-editoriale/">Sources et méthode</a></p><div class="reader-buttons" hidden><button type="button" data-reader="smaller" aria-label="Réduire la taille du texte">A−</button><button type="button" data-reader="larger" aria-label="Agrandir la taille du texte">A+</button><button type="button" data-reader="focus" aria-pressed="false">Lecture épurée</button><button type="button" data-reader="previous">Section précédente</button><button type="button" data-reader="next">Section suivante</button><button type="button" data-reader="print">Imprimer / PDF</button></div><progress class="reader-progress" max="100" value="0" aria-label="Progression dans l’étude" hidden></progress></div>'''
     article.insert(0,fragment(toc));article.insert(0,fragment(toolbar))
     foot='<nav class="reader-bottom" data-reading-owned="true" aria-label="Poursuivre la lecture"><a href="#'+escape(headings[0]['id'],quote=True)+'">Revenir au début de l’étude</a> · <a href="/parcours/">Choisir un parcours</a> · <a href="/catalogue-integral/">Catalogue intégral</a></nav>'
@@ -385,6 +386,17 @@ def add_reading(doc, url, entry):
                 or any(doc.find(id=anchor) is None for anchor in section_ids)):
             raise RuntimeError(
                 'Sommaire 3D reconstruit incomplet, sans cible ou dupliqué : ' + url)
+
+        # Le retour au sommaire appartient au lecteur généré, jamais aux
+        # notices scientifiques. Une seconde passe retire ces liens avant
+        # de les recréer : une seule cible par notice, aucune réécriture.
+        for card in article.select('article.r3d-card'):
+            if card.select_one('.r3d-science h2') is None:
+                continue
+            card.append(fragment(
+                '<p class="mythos-gallery-backtoc" data-reading-owned="true">'
+                '<a href="#sommaire-reconstitutions">'
+                'Revenir au sommaire des reconstitutions</a></p>'))
 
 
 def epic_links(doc, url):
