@@ -261,3 +261,13 @@ Cyrus et Darius ont laissé des monuments dont les formes matérielles divergent
 - Vernant, Jean-Pierre, et Marcel Detienne (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
 
 **Clôture critique.** Ce texte traite des tombeaux royaux en tant que monuments, textes et dispositifs de pouvoir ; il ne reproduit pas la monographie sur les rites de manipulation des cadavres du *Vidēvdād*. L'attribution éditoriale dépend exclusivement des variables 689 et DCLXXXIX lors de l'opération atomique de la file GitHub.
+
+---
+
+### Note éditoriale scientifique — Pierre Lecoq, inscriptions DNa et DNb (7 novembre 2026)
+
+**Philologie française.** Pierre Lecoq (traduction, présentation et annotation), *Les Inscriptions de la Perse achéménide*, Paris, **Gallimard, 1997**, collection « L'Aube des peuples », ISBN 9782070730902 : [notice de l'éditeur](https://www.cercle-enseignement.com/Ouvrages/Gallimard/L-aube-des-peuples/Les-Inscriptions-de-la-Perse-achemenide), [catalogue de la Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb35863815n). L'ouvrage réunit en français des textes achéménides en vieux-perse, élamite, babylonien et araméen ; il constitue un instrument d'accès aux inscriptions royales et à leurs différences de transmission.
+
+**Identification du témoignage matériel.** Le dossier de la tombe de Darius Ier à Naqš-e Rostam doit localiser séparément les inscriptions **DNa** (programme de la souveraineté, peuples de l'empire et légitimation divine) et **DNb** (portrait des qualités du roi). La [notice archéologique *Naqš-e Rostam* de l'*Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/naqs-e-rostam/) décrit leur emplacement sur la façade du tombeau et leurs versions linguistiques. L'[UNESCO présente Pasargades](https://whc.unesco.org/en/list/1106), dont le mausolée attribué à Cyrus, comme un autre ensemble architectural de l'époque achéménide.
+
+**Limites.** Une inscription royale témoigne des catégories et des prétentions du pouvoir qui l'a fait graver : elle ne décrit pas automatiquement les pratiques funéraires dans la chambre intérieure. Le mausolée de Cyrus, décrit par les sources grecques tardives, ne porte pas le même dossier inscrit que la tombe de Darius. Ne pas fusionner les textes **DNa, DNb**, les récits d'Arrien et les vestiges des deux sites. Toute citation philologique devra être contrôlée sur le passage et la langue précise ; la seule consultation de la notice éditoriale ne permet pas de certifier une traduction de ligne. La référence à Lecoq n'implique pas une expertise de MYTHOS par le chercheur ou l'éditeur.
