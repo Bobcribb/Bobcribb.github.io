@@ -1,0 +1,215 @@
+# MYTHOS — Les Origines du sacré — Chapitre 769
+
+# Bwembweni, avant les mosquées de Kaole : céramiques triangulaires incisées, communautés de l’âge du Fer et archéologie des croyances invisibles
+
+**Monographie scientifique et critique — littoral de Bagamoyo, Tanzanie, principalement VIe–VIIe siècles de notre ère.** Archéologie stratigraphique ; typo-chronologie céramique ; histoire des premières communautés agricoles et artisanales ; histoire des échanges ; anthropologie du religieux sans texte ; critique des modèles de conversion ; comparatisme interrégional.
+
+**Limite fondamentale du dossier :** aucune preuve sûre d'un sanctuaire, d'une mosquée, d'un culte identifiable ou d'une doctrine particulière ne doit être attribuée à Bwembweni sur le seul fondement de ses céramiques. La publication scientifique principale de Christowaja Ntandu porte sur les poteries dites *Early Triangular Incised Ware* et les relations avec les traditions *Early Iron Working*. Le mot « sacré » est ici une question d'enquête, non une donnée présupposée.
+
+## Résumé
+
+Bwembweni, au sud des ruines médiévales de Kaole et de la ville actuelle de Bagamoyo, a livré un ensemble de céramiques rapportées par Christowaja Ntandu aux traditions des VIe–VIIe siècles de notre ère. Des traits les relient à la céramique triangulaire incisée (*Triangular Incised Ware*, TIW), d'autres à des traditions plus anciennes de l'âge du Fer. Cette association est décisive pour la chronologie de la côte tanzanienne : elle inscrit les communautés locales dans une histoire d'occupation, de poterie et de techniques bien antérieure à la monumentalisation islamique de Kaole. Cependant, la tentation de projeter la religion des bâtiments tardifs vers les occupations antérieures serait une erreur méthodologique. La présente étude reconstruit les modalités de lecture de cette documentation, ses conséquences pour l'histoire africaine et les frontières de l'archéologie des religions en l'absence d'inscriptions ou d'édifices cultuels identifiables. La comparaison avec Kaole, Nunge, Unguja Ukuu, Shanga et d'autres ensembles est menée pour expliquer les variations des preuves, non pour proposer une séquence mécanique du « non-sacré » vers l'islam.
+
+## 1. Défaire une chronologie rétrospective
+
+Il est facile de commencer par les mosquées de Kaole et de rechercher dans Bwembweni leurs « origines » comme si le résultat final était déjà contenu dans chaque tesson. L'enquête historique doit procéder à l'inverse. Les habitants des VIe–VIIe siècles possédaient leurs propres techniques, besoins, réseaux et formes de sociabilité, qui ne se réduisent pas à leur position d'ancêtres possibles de communautés musulmanes médiévales. Il est possible qu'ils aient pratiqué des rites ; cette possibilité anthropologique ne permet d'en identifier aucun. La tâche consiste à établir d'abord ce qui existe effectivement dans le dossier archéologique, puis ce que ce dossier permet de proposer sans anachronisme.
+
+## 2. L'emplacement et les échelles spatiales
+
+Dans la publication de Christowaja Ntandu, Bwembweni se trouve environ deux kilomètres au sud des ruines de Kaole, dans la région de Bagamoyo. Le site occupé au premier millénaire ne correspond pas à la nécropole monumentale visible aujourd'hui à Kaole. Les milieux côtiers associent terres cultivables, zones humides et ressources marines ; ils favorisent plusieurs modalités d'habitation, de pêche et de circulation. Cette localisation ne suffit pas à établir les itinéraires exacts suivis par les habitants anciens. Les cartes modernes, les cours d'eau, les changements du rivage et les prospections doivent être combinés pour éviter de confondre voisinage avec continuité familiale.
+
+## 3. Les recherches de Ntandu et leur contexte
+
+L'article « Excavation at Bwembweni: An Early Triangular Incised Ware Site of Kaole, Bagamoyo », de Christowaja Ntandu, publié dans *Studies in the African Past* (volume 6, mise en ligne par l'Université de Dar es Salaam), constitue le cœur documentaire. Le résumé signale des céramiques réunissant des caractères TIW et des éléments de traditions plus anciennes de l'âge du Fer. La fouille répondait à une question antérieure : Felix A. Chami avait reconnu des fragments attribuables à la TIW au cours d'une prospection au sud de Kaole. Une hypothèse typologique fut donc soumise à une investigation de terrain. Ce passage de la reconnaissance de surface à la fouille est capital : une forme observée dans un champ ne bénéficie pas immédiatement de la fiabilité d'un contexte stratifié.
+
+## 4. Les dates : VIe et VIIe siècles, pas un événement ponctuel
+
+La publication situe la tradition céramique principale de Bwembweni dans les VIe–VIIe siècles, et les synthèses ultérieures, notamment Kessy (2019), retiennent approximativement 600–700 pour certaines séquences régionales. Ces fourchettes ne sont pas des dates de naissance et d'abandon exactes du village. Elles reposent sur la comparaison de traditions matérielles et sur la chronologie archéologique disponible. Chaque niveau de fouille devrait être rapporté à ses propres indicateurs, y compris datations absolues lorsqu'elles existent. Il ne faut pas remplacer cette prudence par l'affirmation selon laquelle une communauté unique aurait occupé chaque maison de l'an 600 à l'an 700 sans interruption.
+
+## 5. La poterie comme archive : force et limite
+
+Un tesson conserve parfois sa pâte, des inclusions minérales, sa cuisson, une courbure de bord ou une décoration. Ces indices contribuent à identifier des chaînes opératoires et des parentés de traditions. Ils ne disent pas par eux-mêmes le nom du potier, sa langue maternelle ou son dieu. La poterie est un document particulièrement utile parce qu'elle survit souvent mieux que le bois, les fibres et la terre non cuite. Cette robustesse produit néanmoins un biais : un inventaire de tessons donne l'impression que la vie communautaire était dominée par les pots. L'archéologue doit reconstituer le cadre plus vaste des activités de production et d'usage.
+
+## 6. Que signifie « Triangular Incised Ware » ?
+
+L'expression anglaise *Triangular Incised Ware* (« céramique à incisions triangulaires ») désigne un ensemble typologique, pas un peuple défini par son nom politique. Les motifs incisés, les profils de récipients et les proportions des formes permettent de reconnaître une tradition régionale du premier millénaire. Le terme peut coexister dans la littérature avec *Early Tana Tradition*. Fleisher et Wynne-Jones (2011) ont insisté sur la nécessité d'harmoniser les critères d'analyse pour comparer les collections sans enfermer des sites distincts dans une identité trop générale. Les classifications servent à décrire des ressemblances matérielles ; elles ne prouvent pas une religion partagée de l'ensemble des producteurs.
+
+## 7. Les incisions triangulaires : décor, geste ou symbole ?
+
+Un triangle tracé sur une jarre n'a pas automatiquement une signification cosmologique. Il peut résulter d'une habitude décorative, d'un choix familial, d'une technique de finition, d'une tradition d'atelier ou d'un système de signes plus complexe. Sans contexte ethnographique contrôlé ni corpus textuel, la fonction rituelle reste indémontrable. L'analyse doit examiner l'emplacement du motif, sa répétition, les types de vases qui le portent et les contextes où ceux-ci sont abandonnés. Une récurrence peut révéler une tradition technique même lorsque son interprétation symbolique demeure inconnue. Confondre reconnaissance d'un motif et traduction d'une croyance créerait une documentation fictive.
+
+## 8. Les éléments de l'âge du Fer ancien
+
+Ntandu signale des traits associés à la TIW et à des ensembles *Early Iron Working*. Cette combinaison appelle une étude des transitions de production et de goût, non une représentation d'une « population primitive » remplacée par une « population civilisée ». Les communautés agricoles et métallurgistes de l'Afrique orientale possèdent des trajectoires régionales anciennes. Une nouveauté décorative peut être adoptée sans migration massive ; inversement, des mobilités humaines peuvent ne pas modifier immédiatement la céramique. Le dossier invite à distinguer les continuités techniques, la circulation des objets et l'appartenance des individus, qui exigent des arguments différents.
+
+## 9. L'atelier et les choix techniques
+
+Les opérations de façonnage comprennent la sélection d'argiles, la préparation de la pâte, la mise en forme, l'ajout éventuel d'éléments non plastiques, le séchage, la décoration et la cuisson. La présence de motifs similaires ne garantit pas que tous les récipients furent produits au même atelier. Des études pétrographiques et des analyses de composition pourraient aider à identifier des provenances distinctes. Le terme « tradition » désigne un partage de pratiques, qui peut se maintenir sans centralisation politique. Pour comprendre Bwembweni, il faut se demander quelles décisions étaient routinières, quelles innovations étaient collectives et comment les objets circulaient entre ménages.
+
+## 10. Types de récipients et activités domestiques
+
+Les jarres et bols des traditions TIW sont souvent décrits à travers leurs cols, lèvres, profils et motifs. Les fonctions possibles comprennent la conservation, la préparation et le service de denrées, mais seule une analyse adaptée des dimensions, des traces d'usage et des résidus permettrait de préciser les emplois à Bwembweni. Une jarre n'est pas un vase d'offrande du seul fait de sa beauté. Une série de récipients abandonnés dans une fosse n'indique pas nécessairement un dépôt religieux : le rejet domestique, l'effondrement d'une maison ou la réutilisation d'un contenant sont des explications concurrentes. L'inférence doit être contextualisée.
+
+## 11. Les habitants sans architecture monumentale
+
+Les communautés du premier millénaire occupaient souvent des habitats dont les structures de bois, de terre et de végétaux se conservent mal. La disparition d'un poteau n'est pas celle de la société qui l'avait placé. Il faut rechercher des trous de poteau, des foyers, des sols, des traces de combustion, des fosses et des répartitions de tessons. La comparaison avec les « stone towns » tardives, dominées par la survie des édifices coralliens, montre les limites d'un récit construit à partir de la seule monumentalité. L'absence de mosquée en pierre à Bwembweni ne suffit pas à caractériser positivement une religion ancienne.
+
+## 12. Agriculture et pêche : une pluralité économique plausible
+
+La position littorale de Bwembweni et les synthèses sur les communautés anciennes de la côte permettent de discuter la complémentarité possible des cultures vivrières et des ressources marines. Mais la présence d'un village de pêche moderne à proximité ne prouve pas que les habitants du VIe siècle pratiquaient les mêmes techniques, au même endroit, dans les mêmes proportions. Les indices fauniques, botaniques et instrumentaux seraient requis. Pour chaque pratique proposée, il faut indiquer si elle est attestée localement, connue ailleurs à la même époque ou simplement vraisemblable en fonction de l'environnement.
+
+## 13. La question du fer : technologie, production et valeur
+
+L'archéologie de l'âge du Fer doit articuler les objets, les scories, les foyers, les tuyères et les contextes de production. Le nom d'une tradition « Iron Working » n'atteste pas la présence de tous ces éléments dans chaque habitation. En Afrique, des travaux anthropologiques ont montré que la métallurgie peut être entourée de règles symboliques ; leur existence dans d'autres sociétés ne permet pas de projeter un « culte de la forge » sur Bwembweni. Une analyse de la technologie doit d'abord distinguer matière première, chaîne opératoire et produits finis. L'hypothèse rituelle doit recevoir un argument spécifique, et non l'autorité d'un cliché sur les forgerons.
+
+## 14. Le territoire ne se réduit pas au rivage
+
+La mer est proche, mais les communautés littorales entretiennent des rapports avec les terres intérieures, les cultures, les réseaux de parenté et les itinéraires de redistribution. Une céramique dont les formes se retrouvent dans l'arrière-pays témoigne éventuellement d'interactions ou de traditions partagées. Elle ne suffit pas à établir une route unique. Le développement swahili n'a jamais été uniquement une relation binaire entre « Arabes de mer » et « Africains de terre » : les recherches sur les traditions céramiques régionales soulignent la participation active de populations africaines aux réseaux anciens.
+
+## 15. Le schéma ancien « pré-swahili / swahili » : utile ou trompeur ?
+
+Le mot « pré-swahili » a parfois servi à classer des occupations sans grandes mosquées de pierre avant la croissance des villes médiévales. Il est acceptable comme repère chronologique soigneusement défini ; il devient trompeur s'il implique que ces habitants étaient culturellement incomplets ou n'avaient pas d'histoire avant de rejoindre une identité urbaine. Les recherches récentes ont mis l'accent sur les continuités africaines, les changements économiques et les pratiques d'échange. Bwembweni est un lieu réel de cette histoire ; il ne doit pas être transformé en simple première scène d'un récit dont la fin serait Kaole.
+
+## 16. Les enquêtes de Chami : la portée d'une réorientation africaine
+
+Felix Chami, dans *The Tanzanian Coast in the First Millennium AD* (Uppsala, 1994) et dans ses études sur les séquences de la côte orientale, a contribué à établir l'ancienneté des communautés agricoles et métallurgistes littorales. Sa méthode remet en question les récits dans lesquels l'urbanité ne serait née que de l'arrivée d'étrangers. Il faut toutefois discuter ses classifications à l'aide des données postérieures plutôt que traiter ses conclusions comme des dogmes. Un argument fondé sur les distributions de céramiques peut être renforcé ou modifié par une nouvelle fouille, sans que l'importance du programme initial soit effacée.
+
+## 17. Relecture comparative de la céramique TIW
+
+Fleisher et Wynne-Jones, « Ceramics and the Early Swahili: Deconstructing the Early Tana Tradition » (2011), proposent de revisiter des collections issues de plusieurs sites avec des critères communs. La perspective est essentielle à Bwembweni : des objets semblables ne doivent être comparés qu'à partir de variables décrites de façon compatible. Il faut documenter les formes, traitements de surface, pâtes, décorations et contextes plutôt que retenir seulement la présence ou l'absence d'une « poterie triangulaire ». Une tradition régionale est une distribution de traits présentant des variations ; elle n'est pas une série de copies identiques.
+
+## 18. L'ancienneté des communautés : ce que les datations permettent d'affirmer
+
+Les résultats de Ntandu confirment que le secteur de Bagamoyo possède des vestiges datables du VIe siècle, bien avant les mosquées visibles de Kaole. Cela ne signifie pas que « la ville de Bagamoyo » aurait existé comme institution urbaine moderne au VIe siècle. Le nom désigne aujourd'hui une région dont les communautés anciennes occupaient d'autres secteurs et pouvaient connaître d'autres formes de territorialité. La précision historique impose de dire « occupation dans la région de Bagamoyo » plutôt que « fondation de Bagamoyo ». Une telle différence de formulation évite une illusion de continuité politique.
+
+## 19. Les déplacements entre Bwembweni et Kaole Hill
+
+Dans le résumé historique de Kessy (2019), la première occupation associée à la TIW de Bwembweni est suivie d'occupations différentes vers Kaole Hill, puis de l'établissement médiéval monumental. Cette succession ne constitue pas nécessairement une migration unique et datable d'une population stable. Des familles peuvent se déplacer par étapes, revenir, occuper plusieurs lieux en parallèle ou transformer leurs pratiques agricoles. Les rythmes du littoral doivent être étudiés par prospection, datation et paléoenvironnement. Une synthèse régionale utile ne dispense pas de distinguer les traces matérielles spécifiques à chaque lieu.
+
+## 20. Nunge comme contre-exemple au modèle de progression unique
+
+Le dossier de Nunge, publié par Emanuel T. Kessy en 2019, démontre que d'autres centres actifs existaient dans la zone avant le développement médiéval bien connu de Kaole. L'identification d'une production de sel destinée à l'échange modifie la chronologie de l'urbanisation. Plutôt qu'une histoire allant d'un seul village à une seule ville, il convient de penser un ensemble de lieux spécialisés dont les interactions changent. Bwembweni peut participer à une dynamique régionale plus large sans être « le » centre invariable d'où serait sortie toute organisation. Le comparatisme intra-régional vient avant les grands parallèles mondiaux.
+
+## 21. La production de sel à Nunge et ce qu'elle ne dit pas de Bwembweni
+
+Kessy (2022), dans *Azania* 57/1, p. 59–89, analyse les céramiques de la phase *Plain Ware* à Nunge et le rôle possible de la production salicole dans le développement social et politique du littoral. L'étude renseigne un autre site et une autre période principale, du Xe au XIIIe siècle. Il serait donc anachronique de transférer la totalité de ces résultats à Bwembweni, dont la chronologie dominante est antérieure. L'intérêt du rapprochement est de montrer que des technologies céramiques peuvent correspondre à plusieurs usages et que leur fonction se démontre par une chaîne de preuves contextuelles.
+
+## 22. Unguja Ukuu et l'ouverture aux échanges
+
+Unguja Ukuu, sur Zanzibar, constitue l'un des grands ensembles anciens de la côte swahilie. Les synthèses de Fleisher et ses collaborateurs (2015) le replacent dans les échanges du premier millénaire et dans une occupation majeure caractérisée par des maisons de terre et de végétaux. Les comparaisons de poteries contribuent à relier les milieux insulaires et continentaux, mais n'autorisent pas à faire de Bwembweni un « quartier » d'Unguja Ukuu ou une dépendance de son éventuelle autorité politique. Une aire de traditions céramiques peut rassembler des sites dont les institutions et les langues ne sont pas identiques.
+
+## 23. Tumbe et la densité des relations insulaires
+
+Les fouilles de Tumbe sur Pemba ont renouvelé la connaissance des établissements anciens : elles documentent un centre africain actif, intégré à des échanges étendus avant l'essor des villes coralliennes ultérieures. La comparaison permet de poser des questions sur les rythmes de consommation des biens importés, les activités de subsistance et l'organisation de l'espace. Elle n'autorise pas à assigner à Bwembweni les objets découverts à Tumbe. Le principe est simple : l'analogie sert à identifier les variables qu'il faudrait rechercher dans une fouille locale, jamais à combler silencieusement un inventaire manquant.
+
+## 24. Le problème de l'islamisation : une histoire plurielle
+
+Les premiers indices d'islam sur la côte orientale africaine appartiennent à un processus spatialement et chronologiquement différencié. Adria LaViolette (2008) a montré comment urbanisation, goût pour certains objets et pratiques islamiques participèrent à la constitution d'identités swahilies cosmopolites. Aucun de ces éléments ne garantit toutefois que tous les villages du VIe siècle partageaient déjà la même religion. Pour Bwembweni, la chronologie céramique ne peut être traduite en date de conversion. L'historien doit chercher des inscriptions, des orientations architecturales et des usages funéraires significatifs lorsqu'ils sont présents, et reconnaître explicitement leur absence lorsqu'ils ne le sont pas.
+
+## 25. Un rituel matériellement invisible est-il historiquement inexistant ?
+
+Toute société peut produire des gestes non monumentaux qui laissent peu de traces : parole, chant, gestes de protection, transmission de récits ou restrictions alimentaires. L'archéologue ne doit pas conclure à leur inexistence parce qu'aucun temple ne subsiste. Il doit néanmoins refuser d'en proposer un contenu spécifique sans source. Cette distinction est déterminante : l'absence de preuve archéologique de religion n'est pas une preuve d'absence de toute expérience religieuse ; elle n'est pas non plus une autorisation de publier un catalogue inventé de dieux et de cérémonies. La sobriété documentaire est une position scientifique positive.
+
+## 26. Une fosse ou un dépôt : comment reconnaître l'intention rituelle ?
+
+Des accumulations d'objets peuvent résulter d'un repas, d'un incendie, d'un rejet, d'une réorganisation domestique ou d'une action cérémonielle. Pour proposer une lecture rituelle, il faut documenter le caractère exceptionnel de l'assemblage, sa répétition, ses relations stratigraphiques et l'absence d'explications fonctionnelles plus solides. Même alors, « rituel » ne signifie pas automatiquement « religieux », et « religieux » ne désigne pas nécessairement une doctrine organisée. À Bwembweni, le dossier disponible ne justifie pas de présenter des tessons triangulaires comme offrandes ou talismans. La nature du contexte prime sur la forme séduisante d'un décor.
+
+## 27. La typologie n'est pas une ethnographie
+
+La forme d'une jarre peut se transmettre entre producteurs de langues différentes, et un groupe peut abandonner une technique sans changer de croyances. C'est pourquoi il serait faux d'assigner une identité ethnique précise aux « porteurs de la TIW ». La notion de tradition céramique est analytique ; elle regroupe des ressemblances étudiées par les chercheurs. Les catégories historiques de peuple, langue, clan, religion et culture matérielle ne se superposent jamais parfaitement. L'archéologie gagne à mesurer les variations plutôt qu'à faire d'une taxinomie d'objets un recensement de communautés humaines.
+
+## 28. Chronologie et datations absolues : programme de vérification
+
+Pour solidifier les interprétations, les datations au radiocarbone obtenues sur des matériaux à relation stratigraphique claire seraient particulièrement précieuses. Il convient de distinguer une couche intacte d'une terre remaniée, un charbon issu du foyer étudié d'un fragment plus ancien réutilisé, et une date de production d'un vase de son dépôt final. Les courbes de calibration doivent être explicitées. Une monographie scientifique qui ne dispose pas des tableaux détaillés doit s'abstenir d'inventer des mesures, des intervalles de confiance ou des numéros de laboratoire. Le présent dossier donne des fourchettes issues de publications, non de prétendus résultats inédits.
+
+## 29. Les normes coraniques : pourquoi les citer sans les projeter
+
+Les versets coraniques 2:144 (orientation vers La Mecque), 5:6 (ablutions) et 62:9 (assemblée du vendredi) sont des sources primaires utiles pour l'histoire islamique des lieux de culte. Ils ne constituent aucune source directe sur Bwembweni au VIe siècle. Leur pertinence comparative tient à la différence qu'ils révèlent entre l'archéologie d'un habitat ancien non spécifiquement religieux et celle de mosquées médiévales clairement identifiées à Kaole. Citer ces passages sans préciser cette distance reviendrait à créer une fausse continuité. Les conserver comme termes de comparaison exige la même rigueur que pour les monuments.
+
+## 30. La religion sans écriture : une question d'épistémologie
+
+Le rapport entre faits archéologiques et expérience vécue est toujours asymétrique. Les objets conservés peuvent indiquer des comportements ; les doctrines exprimées en paroles disparaissent souvent. Le danger serait de traiter l'écriture comme condition de l'existence d'une pensée religieuse, puis de présenter les habitants non lettrés comme dénués de cosmologie. Le danger inverse serait d'attribuer à ces habitants des mythes universels inventés. Une histoire véritablement comparative accepte les zones silencieuses ; elle cherche les pratiques contextualisées et explique pourquoi certains problèmes ne peuvent être tranchés.
+
+## 31. Durkheim : des formes sociales dont les objets ne donnent qu'un fragment
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Durkheim souligne les dimensions collectives du rite. Pour Bwembweni, ses concepts permettent de demander comment des rassemblements, des interdits et des représentations auraient pu structurer des groupes. Aucun résultat de fouille présenté ici n'en donne cependant la description positive. La théorie sert à ordonner des hypothèses et à refuser une conception purement individuelle du religieux ; elle ne permet pas de déduire les cérémonies d'une céramique décorée. L'archéologie doit pouvoir répondre que les données actuellement connues ne suffisent pas.
+
+## 32. Eliade : la « manifestation du sacré » n'est pas un motif de poterie
+
+Eliade propose des analyses de l'espace sacré et de la hiérophanie. Ces modèles peuvent encourager à examiner les seuils, les zones délimitées ou les objets spécialement traités. Mais Bwembweni ne livre pas un système symbolique directement translatable : un triangle incisé ne peut être proclamé signe d'une montagne cosmique, d'un axe du monde ou d'un cycle de renaissance. La comparaison phénoménologique devient utile seulement lorsqu'elle s'accompagne d'une démonstration de contexte. Sans cette discipline, elle transforme une catégorie conceptuelle en machine à produire du folklore inventé.
+
+## 33. Vernant et Detienne : comparer les conditions de preuve
+
+Vernant et Detienne analysent des systèmes religieux grecs pour lesquels existent des textes, des images, des objets de culte et des institutions. Bwembweni ne présente pas cette même distribution documentaire. La comparaison doit porter d'abord sur l'asymétrie des sources : nous pouvons décrire certains rites grecs par des inscriptions et des descriptions littéraires ; nous ne possédons pas leurs équivalents pour cet habitat. La différence ne signifie ni infériorité culturelle ni moindre complexité sociale. Elle définit les moyens possibles de l'enquête. L'exigence comparatiste est de ne jamais substituer la richesse d'un corpus à l'absence d'un autre.
+
+## 34. Dumézil : pourquoi la tripartition ne s'applique pas
+
+La comparaison indo-européenne de Dumézil étudie des structures de traditions particulières. Ni la céramique TIW ni l'appartenance à l'âge du Fer ne permettent de postuler une répartition idéologique de Bwembweni entre souveraineté religieuse, fonctions guerrières et production. Les modèles deviennent pseudo-universels lorsqu'ils sont décontextualisés. L'histoire des sociétés africaines doit être écrite à partir de leurs vestiges et des traditions attestées lorsqu'elles existent. Les ressemblances de vocabulaire entre théories européennes et fonctions sociales modernes n'ont aucune valeur probante pour le VIe siècle tanzanien.
+
+## 35. Hegel et Nietzsche : critiquer le scénario de civilisation
+
+L'absence de monuments à Bwembweni et leur présence ultérieure à Kaole peuvent inciter à raconter un progrès religieux de la « simplicité » vers la « civilisation ». Une lecture critique de Hegel aide à identifier les risques des grands schémas évolutionnistes ; Nietzsche rappelle que les valeurs attachées aux catégories de progrès, de monumentalité et de pureté exigent examen. Le choix des matériaux dépend aussi de ressources, de techniques et d'institutions, non d'une grandeur métaphysique mesurable. Une communauté du VIe siècle ne doit pas être jugée sur la hauteur des murs d'une ville postérieure.
+
+## 36. Girard : aucun mécanisme sacrificiel déductible
+
+L'étude de René Girard sur la violence fondatrice peut susciter des questions générales sur les conflits et les rites. Il n'existe cependant aucune base pour reconstruire à Bwembweni un sacrifice humain, un bouc émissaire ou un meurtre rituel. Des tessons cassés ne sont pas les preuves d'une victime. Le mot « sacrifice » doit être réservé aux cas où les dépôts, marques sur ossements, contextes d'offrande, inscriptions ou témoignages le justifient. Employer les objets comme illustrations d'une théorie choisie d'avance inverserait le rapport entre hypothèse et preuve.
+
+## 37. Comparaison mésopotamienne et égyptienne : prudence devant l'écriture
+
+Les mondes mésopotamien et égyptien offrent, à certaines périodes, des sources écrites abondantes sur des institutions religieuses et des rituels. Cette abondance crée une illusion dangereuse : croire que les cultures sans archives écrites de même nature ne possédaient pas de systèmes religieux élaborés. La comparaison utile concerne les conditions de connaissance, non la traduction de chaque motif céramique africain en nom de divinité proche-orientale. Bwembweni fournit des techniques et des contextes ; l'Égypte et la Mésopotamie fournissent d'autres types de documents. Chaque dossier doit conserver son autonomie.
+
+## 38. Inde, Iran et Chine : circulation de biens versus circulation de croyances
+
+Les échanges à longue distance dans l'océan Indien ont impliqué des populations africaines, arabiques, iraniennes, indiennes et parfois des produits venus de Chine. La présence d'un objet de provenance distante à un site donné ne prouve pas l'installation d'une communauté entière venue de sa région de fabrication. Encore moins prouve-t-elle une adoption de sa religion. L'archéologie des circulations doit analyser les réseaux et les intermédiaires. À Bwembweni, les indices de connexion à longue distance ne peuvent être automatiquement extrapolés à partir d'Unguja Ukuu ou d'un port médiéval plus récent.
+
+## 39. Amériques et universalismes décoratifs : les faux parallèles
+
+Les motifs géométriques apparaissent sur des poteries de nombreuses régions du monde. Il serait facile de rapprocher les triangles de Bwembweni de céramiques de l'Amérique ancienne et d'y lire une « symbolique universelle » du sacré. Une telle démarche confond la banalité géométrique d'un motif avec une identité culturelle documentée. Pour qu'une comparaison soit historique, il faut un contexte, une chronologie et éventuellement une circulation démontrable ; pour qu'elle soit anthropologique, il faut préciser quels usages sont comparés. La simple ressemblance visuelle n'est ni une preuve de diffusion ni une théologie.
+
+## 40. La fragilité du récit d'une « naissance » de l'islam swahili
+
+Le passage de Bwembweni à Kaole peut être raconté comme une naissance de la communauté musulmane à partir d'un « terreau indigène ». Cette métaphore est trop simple : elle postule un sujet collectif inchangé et occulte les changements de lieux, de populations, d'économie et de contacts sur plusieurs siècles. Les processus d'islamisation des côtes africaines doivent être étudiés localement, selon des indications matérielles et documentaires propres aux édifices et aux sépultures. Bwembweni documente une ancienneté d'occupation. Il ne certifie pas la confession des habitants du XIIIe siècle et ne contient pas nécessairement l'histoire de tous leurs ancêtres.
+
+## 41. Ce qui est certain
+
+**Attesté :** le site de Bwembweni se trouve dans le secteur de Kaole et Bagamoyo ; Ntandu y a étudié des céramiques appartenant à des traditions du premier millénaire, notamment des traits TIW et de l'âge du Fer ancien ; les travaux de Chami et les analyses régionales de Kessy rendent manifeste l'ancienneté des communautés africaines de la zone ; la monumentalisation religieuse médiévale visible à Kaole appartient à une période postérieure. **Interprétations raisonnables :** existence de relations techniques et de déplacements ou réorganisations régionales au fil des siècles ; coexistence de modes de vie adaptés au littoral. La nature et la chronologie précise de chaque relation exigent un contrôle des contextes.
+
+## 42. Ce qui n'est pas démontré
+
+**Non attesté dans le dossier disponible :** sanctuaire identifiable de Bwembweni, mosquée du VIe siècle, nom d'une divinité locale, cérémonie spécifique décrite par une source contemporaine, signification religieuse certaine des incisions triangulaires, appartenance ethnique uniformément déduite d'une tradition céramique, continuité familiale directe avec les personnes enterrées à Kaole, conversion collective datée à partir d'un tesson. Le fait d'énoncer ces limites ne réduit pas l'importance du site. Il permet au contraire de préserver un programme de recherche qui pourra accueillir de nouvelles preuves sans réécrire des fictions présentées comme des résultats.
+
+## 43. Un programme de recherche concret
+
+De nouvelles fouilles devraient publier des plans détaillés, stratigraphies, quantifications par catégorie et datations calibrées, puis confronter les fragments de Bwembweni à des collections harmonisées de la TIW. Les analyses pétrographiques ou géochimiques pourraient éclairer la provenance des pâtes. Des études archéobotaniques et archéozoologiques renseigneraient les subsistances et les échanges. Une prospection régionale établirait les relations entre Bwembweni, Kaole Hill et Nunge, sans anticiper le résultat. Les hypothèses religieuses ne devraient être formulées positivement qu'en présence de contextes distinctifs et reproductibles.
+
+## 44. Patrimoine scientifique : conserver aussi les sites modestes
+
+Les ruines de mosquées attirent davantage l'attention publique que les concentrations de tessons agricoles. Pourtant, les sites peu spectaculaires sont souvent indispensables pour comprendre les siècles antérieurs aux villes monumentales. La conservation de Bwembweni devrait associer le suivi des destructions agricoles et des aménagements, la localisation des fouilles et la transmission des résultats à la communauté. Une restitution muséographique éviterait les maquettes de temples imaginaires ; elle montrerait les types de poteries, les processus de fouille, les cartes et les incertitudes des interprétations. La sobriété pourrait devenir un atout pédagogique.
+
+## 45. Conclusion : faire l'histoire du sacré sans fabriquer une religion
+
+Bwembweni ne livre pas une théologie oubliée prête à être traduite. Il livre des témoignages de populations africaines actives au premier millénaire et engagées dans des traditions céramiques reconnaissables. Sa valeur pour l'histoire du sacré est précisément de fixer une limite chronologique et méthodologique : les mosquées de Kaole ne doivent pas être projetées cinq ou six siècles en arrière, et l'absence d'édifice cultuel connu à Bwembweni ne démontre pas une absence de toute vie religieuse. Une histoire universitaire des origines du sacré doit pouvoir conclure à l'indécidable lorsque les preuves manquent. C'est en préservant cette distinction qu'elle reste disponible pour les découvertes futures.
+
+## Sources primaires, données de terrain et niveau de preuve
+
+1. **Poteries et contextes excavés de Bwembweni**, étudiés dans Ntandu, « Excavation at Bwembweni: An Early Triangular Incised Ware Site of Kaole, Bagamoyo ». Les objets excavés sont les données primaires ; leur interprétation est développée dans la publication. Notice : https://journals.udsm.ac.tz/index.php/sap/article/view/2697.
+2. **Prospections de Felix A. Chami au sud des ruines de Kaole**, antérieures à l'investigation de Ntandu ; elles sont mentionnées dans la présentation méthodologique de cette dernière.
+3. **Comparaisons céramiques des collections TIW/ETT**, analysées dans Fleisher et Wynne-Jones (2011). Les critères de ressemblance matérielle ne livrent aucune confession religieuse par eux-mêmes.
+4. **Coran, versets 2:144, 5:6 et 62:9** : textes primaires des traditions islamiques, mentionnés uniquement pour définir la spécificité des témoignages matériels plus tardifs à Kaole ; ils ne décrivent pas les habitants de Bwembweni au VIe siècle.
+5. **Données de Nunge**, fouilles et analyses de céramique publiées par Kessy (2019 et 2022), utilisées comme comparaisons régionales et non comme inventaire direct de Bwembweni.
+
+## Bibliographie scientifique vérifiée
+
+- **Ntandu, Christowaja**, « Excavation at Bwembweni: An Early Triangular Incised Ware Site of Kaole, Bagamoyo », *Studies in the African Past*, vol. 6 ; notice Université de Dar es Salaam, mise en ligne 2019 : https://journals.udsm.ac.tz/index.php/sap/article/view/2697.
+- **Chami, Felix A.** (1994), *The Tanzanian Coast in the First Millennium AD: An Archaeology of the Iron-Working, Farming Communities*, *Studies in African Archaeology*, 7, Uppsala : Societas Archaeologica Upsaliensis ; notice : https://kansalliskirjasto.finna.fi/Record/fikka.661763.
+- **Chami, Felix A.** (1994/1995), « The First Millennium AD on the East Coast: A New Look at the Cultural Sequence and Interactions », *Azania*, 29–30, p. 227–237 ; DOI https://doi.org/10.1080/00672709409511678.
+- **Fleisher, Jeffrey B. et Stephanie Wynne-Jones** (2011), « Ceramics and the Early Swahili: Deconstructing the Early Tana Tradition », *African Archaeological Review* ; notice de l'université d'York : https://pure.york.ac.uk/portal/en/publications/ceramics-and-the-early-swahili-deconstructing-the-early-tana-trad/.
+- **Kessy, Emanuel T.** (2019), « The Archaeology of Nunge Site: An Ancient Salt Making Settlement and Trading Centre in Bagamoyo, Tanzania », *Utafiti*, 14(1), p. 23–52 ; DOI https://doi.org/10.1163/26836408-14010002.
+- **Kessy, Emanuel T.** (2022), « Salt Production during the Plain Ware Phase along the Swahili Coast of Tanzania », *Azania*, 57(1), p. 59–89 ; DOI https://doi.org/10.1080/0067270X.2022.2047535.
+- **LaViolette, Adria** (2008), « Swahili Cosmopolitanism in Africa and the Indian Ocean World, A.D. 600–1500 », *Archaeologies*, 4, p. 24–49 ; DOI https://doi.org/10.1007/s11759-008-9064-x.
+- **Fleisher, Jeffrey B. et al.** (2015), « When Did the Swahili Become Maritime? », *American Anthropologist*, 117(1), p. 100–115 ; DOI https://doi.org/10.1111/aman.12171.
+- **LaViolette, Adria et Jeffrey B. Fleisher** (2018), « Developments in Rural Life on the Eastern African Coast, A.D. 700–1500 », *Journal of Field Archaeology*, 43(5), p. 380–398 ; DOI https://doi.org/10.1080/00934690.2018.1489661.
+- **Pollard, Edward** (2009), « Settlement Adaptation to a Changing Coastline: Archaeological Evidence from Tanzania, during the First and Second Millennia AD », *Journal of Island and Coastal Archaeology*, 4(1), p. 82–107 ; DOI https://doi.org/10.1080/15564890902779677.
+- **Durkheim, Émile** (1912), *Les Formes élémentaires de la vie religieuse* ; **Eliade, Mircea** (1957), *Le Sacré et le Profane* ; **Vernant, Jean-Pierre**, travaux sur les religions de la cité grecque ; **Detienne, Marcel**, travaux comparatifs sur la pratique sacrificielle ; **Dumézil, Georges**, études indo-européennes ; **Nietzsche, Friedrich** (1872), *La Naissance de la tragédie* ; **Hegel, G. W. F.**, leçons sur la philosophie de l'histoire ; **Girard, René** (1972), *La Violence et le sacré*. Références de méthode, non sources archéologiques.
+
+**Note finale.** Ce chapitre n'est pas une réécriture du dossier sur Kaole : il examine exclusivement les enjeux du premier millénaire, de la céramique, des datations et des limites d'inférence religieuse. Il conserve les références aux siècles anciens comme des données historiques littérales ; seul le numéro éditorial de la nouvelle étude est laissé à la file.

@@ -1,0 +1,558 @@
+# MYTHOS — Cycle universitaire de mythologie comparée — Volume CCCXV (315)
+
+## MC-107 — Garder les limites : bornes sacrées, pierres de frontière, droits territoriaux et divinités des seuils, de Babylone à Akhetaton, d’Athènes à Rome, d’Israël à l’Inde
+
+**Monographie universitaire originale en français — 6 novembre 2026.**  
+**Collection :** MYTHOS — Mythologie comparée.  
+**Identifiant historique : MC-107**, indépendant du numéro canonique de volume. Les seules variables éditoriales de nouvelle numérotation sont CCCXV et 315, à substituer par le circuit transactionnel GitHub.  
+**Domaines :** assyriologie, égyptologie, épigraphie et archéologie grecques, religion et droit romains, hébreu biblique, droit sanskrit ancien, géographie historique, anthropologie du territoire, philosophie politique, histoire de la mesure.  
+**Statut documentaire :** manuscrit soumis au circuit public de publication MYTHOS sous editorial/inbox. L'existence de ce fichier ne prouve ni attribution canonique, ni génération HTML, ni déploiement sur bobmythos.fr. Les illustrations décrites dans ce dossier sont des propositions et non des fichiers affirmés publiés.
+
+### Contrôle de continuité et indépendance du sujet
+
+Au contrôle de la branche principale du dépôt Bobcribb/Bobcribb.github.io, le registre éditorial conserve des études comparatives jusqu'à **MC-105 — Les sandales du sacré**, volume CCCX (310), et **MC-104 — Les trônes du divin**, volume CCCXI (311). Une nouvelle soumission **MC-106 — Les bâtons du divin : wꜣs, Šamaš, Hermès, Moïse, lituus, daṇḍa et barəsman**, UUID c9a76d31-2b4e-41cc-9a08-202611061106, a été introduite avant cette livraison : elle demeure distincte et n'est pas reproduite. Les recherches du repère MC-107 dans le registre, les fichiers, les retenues et les commits n'avaient révélé aucune demande au contrôle préalable. Toute arrivée concurrente est à contrôler à la création, sans écraser un manuscrit.
+
+**Délimitation scientifique :** MC-080 répartissait les domaines des dieux à l'échelle cosmogonique ; MC-093 étudiait les sceaux, MC-094 les clés, MC-101 les nœuds, MC-104 les trônes, MC-105 les sandales et MC-106 les sceptres. **MC-107 ne traite pas de ces objets comme insignes de pouvoir : son unité documentaire est la fabrication, la reconnaissance, la sanctification, la contestation et la protection de limites territoriales concrètes.** Ce sont des frontières de champs, de villes, de places publiques, de zones cultuelles et de compétence religieuse. Les renvois restent historiques ; aucun texte antérieur n'est réécrit.
+
+### Résumé scientifique
+
+Un *kudurru* babylonien enregistre et protège une donation foncière en associant texte juridique et signes des dieux, mais il serait erroné d'imaginer que toutes ces stèles étaient physiquement fichées dans la limite du champ concerné : beaucoup appartenaient à la mémoire du temple. Les stèles rupestres d'Akhetaton, datées des années 5, 6 et 8 d'Akhenaton, dessinent en revanche un territoire de fondation religieuse directement inscrit sur les falaises de l'Égypte moyenne. À Athènes, une borne conservée **in situ**, Agora **I 5510**, annonce à la première personne : « Je suis la borne de l'Agora. » Les hermès, placés notamment aux portes, appartiennent à une autre tradition, mise en crise par leur mutilation en 415 avant notre ère.
+
+À Rome, le dieu **Terminus** reçoit des offrandes lors des **Terminalia** du 23 février : deux voisins honorent ensemble une pierre ou une souche qui indique leur séparation. Le récit de Tite-Live selon lequel Terminus refuse de quitter le Capitole pose une limite symbolique à la possibilité d'enlever toute frontière. Mais le *pomerium*, défini par les augures comme limite d'auspices urbains, ne se confond pas avec chaque borne de champ. Deutéronome 19,14 et 27,17 protège juridiquement la limite ancestrale, sans postuler le culte d'une divinité-pierre spécifique. La *Manusmṛti* VIII,245–255 prescrit pour les différends de villages des repères visibles et cachés, arbres, buttes, pierres et témoins ; la consultation du droit ne transforme pas toutes ces marques en dieux.
+
+**Thèse [I].** La sacralisation des limites ne consiste pas partout à diviniser une pierre. Elle peut prendre la forme d'une **protection par serment, malédiction, texte, monument, dieu, contrôle public ou preuve technique**. Une frontière est maintenue dans le temps moins parce que la matière est immuable que parce que plusieurs institutions peuvent en reconnaître le tracé. **Hypothèse limitée [H].** Les ressemblances entre borne, stèle et interdit ne prouvent ni une origine commune mondiale ni une diffusion directe de chaque rite.
+
+### Protocole de preuve
+
+**[A] Attestation :** objet identifié, texte primaire localisé, constat archéologique documenté. Un récit attesté ne rend pas son miracle objectivement vérifié.  
+**[É] Philologie et critique :** graphies, traductions, variantes, provenance, datation, déplacement, restauration, droit antique et histoire moderne de l'objet.  
+**[I] Inférence historique :** synthèse argumentée qui dépasse la formulation primaire.  
+**[H] Hypothèse :** reconstruction, diffusion, intention non démontrée ou identification incertaine.  
+**[P] Philosophie :** lecture conceptuelle actuelle, non imputable aux auteurs anciens sans citation.
+
+Quatre questions sont adressées à chaque pièce : **qu'est-ce qui est délimité ? par quel geste et quel support ? qui garantit la limite ? qui peut légalement la modifier ?** Une pierre de musée ne doit pas être replacée arbitrairement sur une carte ancienne. Un monument trouvé en butin de guerre n'était pas nécessairement planté là où il fut découvert.
+
+# I. Définir la limite : pierre, parole et compétence
+
+### 1. La frontière n'est pas toujours une ligne [É]
+
+Une limite peut être un couloir de passage, une route, un cours d'eau, une falaise, une parcelle, une enceinte ou un ensemble de points connus de plusieurs communautés. Le mot moderne « frontière » suggère parfois une ligne continue et un État détenant une souveraineté territoriale totale ; cette idée ne convient pas à toutes les institutions anciennes. Certaines bornes marquaient une propriété, d'autres l'entrée d'une place publique, d'autres les abords d'un espace de culte. La comparabilité doit être construite à partir de l'acte documenté, non d'une carte moderne imposée.
+
+### 2. Borne juridique, pierre sacrée et image de dieu [É]
+
+La borne foncière peut relever d'une opération de mesure, être protégée par une formule religieuse et demeurer une chose matériellement ordinaire. Une image divine peut garder un seuil sans se trouver exactement sur une limite cadastrale. Enfin une stèle commémorant un acte de donation peut être déposée dans un temple plutôt que sur le terrain. **« Sacré » ne veut donc pas dire « divinité autonome de la borne ».** Cette distinction sera centrale pour les *kudurrus* et pour les pierres de l'Agora.
+
+### 3. Quatre mécanismes de garantie [I]
+
+La limite peut être garantie par **l'autorité d'un roi**, par une **instance divine** qui menace le transgresseur, par une **communauté de voisins** qui renouvelle une reconnaissance, ou par une **procédure de preuve** faite de témoins, mesures et signes matériels. Un même dossier peut combiner ces mécanismes. La séparation de principe ne suppose pas que les Anciens distinguaient juridiquement les pouvoirs selon des institutions modernes. Elle sert à comprendre que chaque source rend visible un niveau différent de protection.
+
+### 4. Le danger de la pierre déplacée [É]
+
+Une borne retirée, brisée, remployée dans une construction ou transportée comme trophée ne donne plus d'emblée sa position initiale. Il faut reconstruire la provenance, les réemplois et la chaîne d'acquisition. Les *kudurrus* babyloniens retrouvés à Suse ont souvent été apportés d'autres régions ; leur lieu de découverte renseigne sur l'histoire du déplacement ancien, non sur l'emplacement de la parcelle dont ils consignent la donation. Un lieu actuel de conservation, Paris ou Londres, n'est jamais un point du territoire antique à restituer.
+
+### 5. La limite invisible existe aussi [I]
+
+Des textes légaux envisagent des marques cachées sous le sol, d'autres un espace délimité par le rite augural, d'autres une frontière rappelée par des noms et des témoignages. Ces situations montrent que l'efficacité d'une limite ne dépend pas toujours de la vision continue d'une pierre. L'invisible peut être plus précisément garanti par une procédure de mémoire ou de preuve. Cette dimension contredit la réduction de toutes les frontières antiques à de grands monuments dressés devant un public.
+
+### 6. Une distinction des temps [É]
+
+La date à laquelle un acte foncier est consigné, celle de l'érection d'une stèle, celle d'un déplacement guerrier et celle de sa découverte par l'archéologue ne sont pas nécessairement identiques. De même, la prescription religieuse d'Ovide reflète un poème d'époque augustéenne et n'enregistre pas automatiquement les usages exacts des premiers rois de Rome. Le matériau de l'histoire des frontières est **stratifié**. Une étude savante doit maintenir les temporalités plutôt que les recouvrir d'un récit des origines.
+
+# II. Babylone : le *kudurru* est-il vraiment une pierre de borne ?
+
+### 7. Le problème d'un nom savant [É]
+
+L'akkadien *kudurru* appartient au vocabulaire de la limite, de la frontière ou de la délimitation. Mais l'appellation moderne « pierre de bornage » a longtemps conduit à imaginer que tous les monuments ainsi nommés se trouvaient à l'origine sur le bord même d'un terrain. Kathryn E. Slanski a montré que cette classification pouvait fausser l'interprétation des objets, dont la fonction monumentale et mémorielle dépasse la seule indication topographique. Le nom d'un type d'objet ne saurait constituer une preuve complète de son emplacement.
+
+### 8. La proposition de Slanski [É]
+
+Dans « Classification, Historiography and Monumental Authority: The Babylonian Entitlement *narûs* (*kudurrus*) », *Journal of Cuneiform Studies* **52 (2000), 95–114**, Slanski appelle à traiter ces pierres comme des **monuments de reconnaissance de droits** ; la place au temple et la force du texte importent autant que la description des limites agricoles. Le terme *narû*, « stèle, monument », joue un rôle dans la description des pratiques. Sa thèse ne signifie pas qu'aucune borne physique n'existait dans la Babylonie ancienne, mais que ces objets de prestige ne sont pas tous des bornes plantées dans les champs.
+
+**Référence :** [Slanski, *JCS* 52, DOI 10.2307/1359688](https://www.journals.uchicago.edu/doi/10.2307/1359688).
+
+### 9. Le Louvre SB 22, un cas vérifiable [A]
+
+Le **Musée du Louvre**, inv. **SB 22 / AS 6068**, conserve un *kudurru* en calcaire du roi kassite **Meli-Shipak II**, daté de **1186–1172 av. n. è.**. La stèle de **65 × 30 × 19 cm** consigne un **don de terres à son fils Marduk-apla-iddin**. Sur la pierre apparaissent des symboles de plusieurs dieux : étoile d'Ištar, croissant de Sîn, disque de Šamaš, chien de Gula, arme de Marduk et d'autres emblèmes. Le texte et l'iconographie permettent d'identifier ensemble les droits humains et les garanties divines.
+
+**Catalogue :** [Louvre, *Kudurru de Meli-Shipak*, SB 22](https://collections.louvre.fr/ark:/53355/cl010174452).
+
+### 10. Pourquoi SB 22 ne fixe pas une borne à Suse [A/É]
+
+L'objet fut découvert en **1898 sur l'acropole de Suse** ; le Louvre précise qu'il avait été **emporté de Babylonie en butin de guerre au XIIe siècle avant notre ère**. La découverte à Suse ne permet donc pas de situer le domaine donné au fils de Meli-Shipak à proximité de cette ville. C'est un exemple presque expérimental d'un problème archéologique de la frontière : l'objet contient un texte de territoire, mais sa propre trajectoire matérielle est celle d'un déplacement politique.
+
+### 11. L'écriture garantit ce qu'une pierre ne saurait surveiller [I]
+
+Un monument peut contenir la description du terrain et rappeler que certaines prétentions ont reçu reconnaissance royale. Sa durée de conservation est supposée protéger le titre dans les conflits futurs. Mais la pierre ne surveille pas physiquement toutes les lignes et canaux d'un domaine ; son autorité réside aussi dans la possibilité d'être lue, invoquée, conservée et entourée de sanctions. L'interprétation de la stèle comme archive mémorielle est donc plus convaincante qu'une vision dans laquelle une masse unique de calcaire ferait seule le tour d'un champ.
+
+### 12. Le second dossier de Meli-Shipak : SB 23 [A]
+
+Un autre monument du Louvre, **SB 23**, rapporte un don de terres à **Hunnubat-Nannaya**, fille du roi, dans une histoire documentaire qui mentionne des ressources et éléments fonciers. La présence de ce dossier distinct empêche de fusionner toutes les pierres de Meli-Shipak sous l'image devenue célèbre de SB 22. Les identifications de bénéficiaires sont importantes : un fils et une fille ne sont pas une même personne, et le contexte des donations peut varier.
+
+**Source :** [Louvre SB 23](https://collections.louvre.fr/ark:/53355/cl010174453).
+
+### 13. Les dieux sur la pierre ne sont pas des arpenteurs [I]
+
+La tiare divine, les emblèmes astrals et les animaux sacrés expriment une pluralité de puissances dont le concours est présenté comme garantissant l'acte. Il serait faux d'en déduire que chaque dieu aurait personnellement mesuré une portion précise du champ. Les signes appartiennent à un langage iconographique et à un dispositif de malédictions. Leur rôle est de **rendre grave la violation**, pas de produire un plan de cadastre exact à la manière d'un géomètre contemporain.
+
+### 14. La malédiction comme contrepartie de l'archive [A/I]
+
+Les *kudurrus* peuvent invoquer la colère ou les sanctions de divinités contre celui qui détruirait la stèle, falsifierait le titre ou s'emparerait illégitimement d'un domaine. L'inscription lie les actes humains à des conséquences religieuses. Mais toutes les pierres ne présentent pas la même liste, le même ordre ni les mêmes formules. On doit lire le texte de chaque objet, et non attribuer uniformément à toutes les stèles un passage de malédiction emprunté à une autre.
+
+### 15. Le temple comme lieu de conservation [A/É]
+
+L'étude des monuments de donation souligne leur dépôt fréquent dans un temple, où le document pouvait recevoir un statut exceptionnel. Le **Walters Art Museum**, pour sa stèle d'inventaire **21.10**, explique que le monument fut conservé dans le contexte de l'**Esagila**, tandis qu'une copie pouvait concerner la terre. Cela renverse l'idée que le mot « boundary stone » garantit la localisation matérielle dans la parcelle. La preuve doit venir du contexte archéologique et de l'inscription, non du seul titre muséal.
+
+**Catalogue :** [Walters Art Museum, Babylonian Boundary Stone, 21.10](https://art.thewalters.org/object/21.10/).
+
+### 16. Archives, mesure et autorités : une chaîne [I]
+
+Les sources relatives aux concessions foncières impliquent des opérations de reconnaissance, de calcul de surface, de témoignage et d'inscription. Les hypothèses modernes sur les modèles administratifs utilisés pour fabriquer les textes de *kudurru* soulignent la possibilité de dossiers plus anciens sur tablettes ou supports d'écriture. L'historien doit reconstituer la **chaîne de validation** au lieu de faire surgir la pierre dans le champ comme premier et unique document du droit.
+
+### 17. La taille n'est pas la force du droit [P]
+
+L'objet monumental est coûteux et durable, mais la légitimité ne se mesure pas en centimètres de pierre. Une communauté pourrait reconnaître une autre preuve, écrite ou orale ; une stèle imposante peut aussi servir un pouvoir inégal. Le spectacle d'une matière solide contribue à l'autorité ressentie, mais ne suffit pas à rendre la donation juste. Cette lecture philosophique [P] évite de confondre **monumentalisation** et **justification morale**.
+
+### 18. Le rôle possible des sceaux [É]
+
+Un acte de propriété peut être validé par des sceaux, des noms et des attestations, avant ou indépendamment d'une stèle de prestige. Le dossier MC-093 étudiait spécifiquement les sceaux divins ; ici il faut seulement rappeler que les monuments de bornage s'inscrivent dans une administration plus large. L'analyse d'un sceau et celle d'une limite territoriale ne sont pas des opérations identiques, même lorsqu'elles protègent le même acte foncier.
+
+### 19. De Babylone à Suse : le butin comme rupture de contexte [É]
+
+Le déplacement de stèles royales vers Suse montre qu'un objet peut changer de puissance politique et d'espace de réception. Un conquérant peut emporter la mémoire de droits qu'il ne reconnaît pas nécessairement comme siens. Le sort de la pierre ne permet pas de conclure à la disparition effective de toutes les frontières du terrain originel. **Objet**, **texte** et **institutions foncières** possèdent des histoires partiellement indépendantes.
+
+### 20. La limite historiographique du comparatisme [H]
+
+La présence de malédictions divines dans un *kudurru* babylonien et dans des textes israélites contre le déplacement de bornes peut résulter de contacts, d'usages juridiques analogues ou de développements indépendants. Sans document bilingue, trajet de diffusion daté ou formule suffisamment spécifique, on ne peut faire de Deutéronome 27 un simple emprunt à SB 22. La convergence est pertinente comme problème, insuffisante comme preuve de filiation directe.
+
+# III. Akhetaton : le roi délimite une fondation pour Aton
+
+### 21. Une ville au périmètre inscrit dans les falaises [A]
+
+Le **Amarna Project** documente les stèles de limite d'**Akhetaton** réparties autour de la vallée du Nil, sur les falaises orientales et la bordure désertique occidentale. L'ensemble trace un domaine de l'ordre de **20–25 km d'est en ouest et 13 km du nord au sud**, selon l'estimation du projet. Les stèles sont creusées dans la roche et ne doivent pas être imaginées comme de petites pierres mobiles semblables aux *kudurrus*. Leur échelle paysagère rend la fondation royale directement visible.
+
+**Source institutionnelle :** [Barry Kemp, Amarna Project, *Boundary Stelae*](https://www.amarnaproject.com/amarna-the-place/boundary-stelae/).
+
+### 22. Les lettres sont une classification moderne [É]
+
+Les stèles sont connues par des lettres assignées par les premiers chercheurs : **A, B, F** à l'ouest ; **J, K, L, M, N, P, Q, R, S, U, V, X, H** à l'est. La liste, sa chronologie de découvertes et l'état des monuments doivent être vérifiés dans le dossier du Amarna Project. Une désignation « stèle U » n'est pas une expression du texte hiéroglyphique antique ; c'est un identifiant scientifique. Certaines surfaces sont très endommagées ou leur enduit original a disparu.
+
+### 23. La première proclamation, année 5 [A]
+
+Les stèles **K, M et X** portent la proclamation initiale, datée de **l'an 5, quatrième mois de la saison d'hiver, jour 13** d'Akhenaton selon la présentation de Barry Kemp. Le roi affirme que c'est Aton qui l'a conseillé pour choisir le site. La formule signifie une **revendication royale de révélation**, non une observation empirique de l'intervention du dieu. La construction de la ville est formulée comme acte de dévotion et décision souveraine.
+
+### 24. « Ce lieu n'appartenait à personne » : l'énoncé politique [A/É]
+
+Le texte royal assure qu'avant sa fondation le site n'appartenait ni à un dieu, ni à une déesse, ni à un roi, ni à une reine, ni à une personne susceptible d'en revendiquer le droit. Cette négation est un **énoncé idéologique de la proclamation**, pas une enquête cadastrale indépendante sur l'ensemble des usages antérieurs du paysage. Il faut distinguer la réalité des villages, des pistes et des terres agricoles et la prétention du roi à fonder un domaine nouveau par un acte divinement conseillé.
+
+### 25. Deuxième proclamation, année 6, et serment renouvelé [A]
+
+La deuxième proclamation apparaît sur les stèles **A, B, F, J, N, P, Q, R, S, U et V**, datée de **l'an 6** ; une réaffirmation est ajoutée en **l'an 8**. Les inscriptions définissent plus fortement les limites du domaine consacré et la volonté d'y construire temples, maisons et lieux de culte. Les différences entre les deux proclamations doivent être conservées ; on ne peut mélanger librement un passage d'année 5 avec un ajout d'année 8 en prétendant recopier une seule inscription antique.
+
+### 26. Une limite de ville n'est pas une prison du souverain [É]
+
+Une lecture ancienne des proclamations a parfois laissé entendre qu'Akhenaton se serait personnellement interdit de quitter la ville. Le Amarna Project précise que le propos concerne plutôt la **fixation des limites de la fondation et des constructions**. Il ne faut pas fabriquer une interdiction personnelle absolue à partir d'un serment territorial. La nuance est essentielle : un engagement de localisation cultuelle ne signifie pas l'immobilisation physique de celui qui l'énonce.
+
+### 27. La stèle U, un objet mesurable [A]
+
+La **stèle U** atteint environ **7,6 m de hauteur**. Elle est taillée dans la falaise et accompagnée de restes de groupes sculptés de la famille royale. Sa taille donne une dimension spectaculaire à la délimitation, mais la hauteur n'exprime pas une unité de distance légale. Le monument participe au paysage et à la visibilité du choix royal. Tout plan qui la représente doit reprendre la topographie du site et l'état des vestiges plutôt qu'une composition romantique non documentaire.
+
+### 28. Le relief supérieur : Aton, roi et famille [A]
+
+Les stèles portent en leur sommet une représentation de **la famille royale sous les rayons d'Aton**, tandis que les colonnes de texte enregistrent la proclamation. Des statues d'Akhenaton, de Néfertiti et de leurs filles accompagnaient plusieurs monuments. La limite n'est pas seulement décrite : elle est **rendue visible sous la présence figurée du destinataire divin**. L'interprétation politique reste une inférence [I] sur le dispositif de fondation, non une traduction intégrale de l'image en droit territorial moderne.
+
+### 29. Un réseau de monuments, pas une simple pierre centrale [I]
+
+La ville est délimitée par une pluralité de stèles réparties dans le paysage. La reconnaissance de son domaine exige donc un **parcours et une mémoire des points**. Cette structure contraste avec le *kudurru* dont le texte commémoratif peut être conservé en temple. Dans un cas, la mise en place de plusieurs inscriptions matérialise la limite sur le relief ; dans l'autre, une stèle peut préserver des droits à distance. Le comparable est l'autorité de l'inscription, pas l'emplacement nécessairement identique.
+
+### 30. Le problème des surfaces endommagées [É]
+
+Les stèles ont subi érosion, pillages, accidents et pertes d'enduit. Le Amarna Project documente notamment les détériorations de la **stèle S**. Une restitution éditoriale doit citer les copies de **Norman de Garis Davies (1908)**, les photographies anciennes et l'édition de **Murnane et van Siclen (1993)** en précisant ce qui est conservé ou conjectural. L'absence actuelle d'un signe ne prouve pas toujours son absence lors de la gravure originale.
+
+### 31. Le parallèle limité avec MC-024 [É]
+
+L'étude historique MC-024 sur Amon, Rê et Aton examine la transformation religieuse et royale de la période amarnienne. Le présent dossier ne recommence pas cette monographie. Il apporte une question documentaire distincte : **comment le roi tente de donner une existence durable et vérifiable au périmètre d'une fondation pour Aton ?** La frontière sacralisée appartient à une politique de localisation ; elle ne suffit pas à démontrer une théologie universelle des limites.
+
+### 32. Le serment, la roche et le temps [P]
+
+La proclamation prétend assurer une fondation au-delà de la vie du roi. Graver dans la falaise est une manière de matérialiser une durée désirée. Mais l'histoire ultérieure d'Amarna montre que la permanence voulue par un monument ne garantit pas la continuité des institutions : le site perdit rapidement sa centralité après le règne d'Akhenaton. L'écart entre **durabilité de la matière** et **durabilité du pouvoir** offre une réflexion philosophique sur la fragilité de toute fondation politique.
+
+# IV. Athènes : l'inscription « je suis la borne de l'Agora »
+
+### 33. Agora I 5510, un monument trouvé en place [A]
+
+La **American School of Classical Studies at Athens** catalogue la borne **Agora I 5510**, en marbre blanc à veines bleutées, de **1,20 m de hauteur, 0,31 m de largeur et 0,19 m d'épaisseur**. Elle fut retrouvée **en place** en 1938, près de la bifurcation d'une voie antique, à l'est de la Tholos. La datation épigraphique situe l'inscription **vers 500 avant notre ère**. C'est un document matériel particulièrement fort : le rapport entre l'objet et le lieu qu'il indique est directement soutenu par le contexte de découverte.
+
+**Catalogue de fouille :** [Agora I 5510, Agathe / ASCSA](https://www.agathe.gr/id/agora/object/i%205510).
+
+### 34. Le texte parle à la première personne [A]
+
+La formule est transcrite conventionnellement **hΟΡΟΣ ΕΙΜΙ ΤΕΣ ΑΓΟΡΑΣ**, soit **ὅρος εἰμὶ τῆς ἀγορᾶς** dans une normalisation attique, « Je suis la borne de l'Agora ». Le locuteur grammatical est **l'objet inscrit**, non une divinité. La voix de pierre permet au passant de reconnaître le changement d'espace. La formule n'atteste pas en elle-même un sacrifice à un dieu de la borne ; elle indique une **autorité civique exprimée par l'inscription**.
+
+### 35. Philologie : *hóros* et limite [É]
+
+Le grec **ὅρος** peut désigner une borne, une limite ou une définition selon les périodes et les contextes ; ce champ ne se laisse pas confondre avec **Ἑρμῆς**, nom d'Hermès. Les graphies archaïques de la pierre doivent être conservées dans une planche épigraphique avant de proposer une transcription normalisée. La première personne **εἰμί** donne un effet de présence au monument, mais ne transforme pas celui-ci en dieu anthropomorphe. L'énoncé est performatif au sens interprétatif [P], non un rituel d'animation attesté.
+
+### 36. Pourquoi l'Agora devait être délimitée [I]
+
+Le marquage des accès pouvait protéger l'espace public contre des empiétements privés et rendre repérables des règles d'accès. Les guides archéologiques rappellent que certaines catégories de personnes frappées d'exclusion ne pouvaient pas entrer dans l'Agora. Cependant l'inscription seule ne donne pas la liste des règles applicables à tous les siècles : celles-ci se reconstruisent avec les documents juridiques et politiques. La pierre participe d'une **organisation civique de l'espace**, distincte d'une borne de champ.
+
+### 37. Une deuxième borne et l'importance du contexte [A]
+
+Une seconde borne avec formule équivalente fut retrouvée **en place** en 1967, près d'une voie dans le secteur de la Stoa moyenne, avec une inscription rétrograde. La découverte de plusieurs monuments permet de comprendre les entrées de l'Agora plutôt que d'imaginer un seul point isolé. Les différences d'orientation des lettres sont documentaires : elles ne nécessitent pas une théorie magique de l'écriture inversée. La chaîne de fouille doit rester attachée à chaque inventaire.
+
+### 38. La borne de l'Agora n'est pas nécessairement un *temenos* [É]
+
+Le terrain de l'Agora accueillait des fonctions civiques, commerciales et religieuses ; la pierre I 5510 ne doit pourtant pas être traduite « borne du sanctuaire d'Athéna ». Elle délimite **l'Agora**. Un *temenos* grec est un espace consacré ou réservé dont les bornes peuvent être marquées autrement. La limite publique peut être chargée de normes et de sanctions sans que son titulaire soit un dieu individuel. Cette distinction fonde le caractère non uniforme de notre comparatisme.
+
+### 39. L'inscription d'une limite peut être un acte politique [P]
+
+La phrase « je suis la borne » semble simple. Pourtant elle permet d'exclure certains usages d'un espace et de rendre visibles des droits collectifs. Une limite inscrite est aussi une **déclaration de compétence** : elle indique où commence une autre règle d'accès. La philosophie contemporaine peut y lire un acte d'institution de l'espace commun, mais il ne faut pas y projeter les catégories des États modernes ou les réglementations urbaines contemporaines.
+
+# V. Hermès : les pierres des portes et la crise de 415
+
+### 40. Le *herm* est un autre objet [É]
+
+Les **hermès** grecs sont souvent des piliers quadrangulaires portant une tête et, sur de nombreux exemplaires, des organes masculins figurés. Ils peuvent se trouver aux portes, sur des voies et dans des espaces sacrés. Leur rapport aux passages ne les rend pas identiques aux **horoi** inscrits de l'Agora. Un pilier figuré comme Hermès n'est pas simplement une pierre portant « je suis la borne » ; il appartient à une histoire iconographique et cultuelle propre.
+
+### 41. Thucydide VI,27,1 : le témoin primaire [A]
+
+Dans **Thucydide, *Guerre du Péloponnèse* VI,27,1–3**, peu avant le départ de l'expédition de Sicile de **415 av. n. è.**, des hermès de pierre, nombreux devant les maisons privées et dans les sanctuaires d'Athènes, sont mutilés pendant une nuit. L'historien mentionne le traitement des **visages** et l'alarme de la cité. L'épisode ne prouve pas que chaque monument était une borne cadastrale, mais démontre le caractère collectif et religieux attaché à ces marqueurs.
+
+**Texte grec et traduction :** [Thucydide VI,27, édition parallèle](https://philologia.co.uk/w/urn%3Acts%3AgreekLit%3Atlg0003.tlg001.perseus-grc2?b=6).
+
+### 42. Une atteinte religieuse devient soupçon politique [A/I]
+
+Thucydide rapporte que la mutilation fut interprétée comme mauvais présage pour la flotte et possiblement comme signe de conspiration contre la démocratie. La réaction civique fut intense. L'enquête doit distinguer **le fait de la mutilation rapporté par Thucydide**, **les interprétations politiques de ses contemporains**, et **l'identité des auteurs, alors inconnue**. Une image d'Hermès pouvait donc contribuer à la sécurité ressentie d'un passage et à la mémoire d'un ordre civique, sans produire elle-même un règlement de frontière.
+
+### 43. L'iconographie ne fixe pas la même limite partout [É]
+
+Un hermès placé à une porte privée et un hermès dans un sanctuaire n'occupent pas la même position. Le motif peut être gardien d'accès, marqueur de fréquentation ou dédicace, sans signifier dans tous les cas « cette pierre sépare deux propriétés ». La comparaison avec Terminus demande donc une restriction : le dieu romain peut être associé explicitement à une borne de champ, tandis que l'Hermès d'Athènes participe aussi d'une **géographie des entrées et des usages sociaux**.
+
+### 44. La crise ne démontre pas une théorie unique du sacrilège [I]
+
+La force de la réaction en 415 tient à un contexte exceptionnel, marqué par la préparation d'une expédition militaire et les tensions politiques. Elle ne signifie pas que toute image d'Hermès dégradée à toute époque aurait entraîné le même effet. La recherche de Josephine Crawley Quinn situe l'épisode dans une **anatomie politique de l'espace athénien**, où les images font partie de la ville et non d'une collection décorative indifférente aux institutions.
+
+**Étude :** [Quinn, « Herms, Kouroi and the Political Anatomy of Athens », *Greece & Rome* 54/1 (2007), 82–105](https://doi.org/10.1017/S0017383507000058).
+
+### 45. Un pied dans l'espace commun, un regard à la porte [P]
+
+Le passant ne lit pas tous les objets d'entrée de la même manière. La borne porte une inscription à la première personne ; l'hermès le confronte à une représentation divine. Les deux peuvent structurer le mouvement dans la cité, mais par des mécanismes différents : **qualification juridique** et **reconnaissance cultuelle**. Cette distinction montre qu'un espace commun peut posséder plusieurs couches de limites, non superposables point pour point.
+
+# VI. Rome : Terminus et les rites des voisins
+
+### 46. Ovide, *Fastes* II,639–684 : la borne divinisée [A]
+
+Dans **Ovide, *Fastes* II,639–684**, la fête des **Terminalia**, célébrée le **23 février**, rend honneur à **Terminus**, divinité de la limite des champs. Le poète évoque la pierre ou la souche plantée en terre et honorée comme une puissance. Les voisins de part et d'autre la décorent, apportent deux guirlandes et deux gâteaux et participent aux offrandes. Le récit est détaillé mais appartient à un **poème d'époque augustéenne**, non à un journal de cérémonie observée en tous lieux.
+
+**Texte :** [Ovide, *Fastes* II,639–684](https://www.theoi.com/Text/OvidFasti2.html).
+
+### 47. Le geste est partagé par deux propriétaires [A/I]
+
+L'une des particularités des *Terminalia* est la participation **des deux voisins**. La borne qui sépare suppose ainsi une coopération rituelle ; elle ne peut être honorée pleinement par un seul détenteur dans le récit d'Ovide. Le poème fait du marquage un acte de relation entre propriétés. **Inférence [I] :** la limite demeure stable parce que des personnes placées de part et d'autre s'accordent publiquement sur sa reconnaissance, même quand leurs intérêts sont différents.
+
+### 48. Feu, miel, fruits, vin et offrande [A]
+
+Le poème décrit divers gestes : installation d'un feu, dépôts de grain, miel, vin et produits des récoltes, invocation et repas cérémoniel. Les détails matériels doivent être lus selon les vers exacts. Tous les voisins de l'Italie romaine n'ont pas nécessairement apporté les mêmes produits chaque année. L'intérêt du texte est de montrer une **limite investie de gestes d'entretien**, qui dépassent le simple fait de reconnaître sa position sur le terrain.
+
+### 49. Terminus n'est pas chaque pierre de l'Empire [É]
+
+La présence d'une pierre séparant deux terrains dans une province de l'Empire ne suffit pas à prouver un rite à Terminus devant elle. Le nom et le culte possèdent un contexte romain particulier. Les pratiques locales de propriété peuvent fonctionner sans référence explicite à cette divinité. Il faut donc éviter une traduction universelle « dieu-borne » pour tous les peuples soumis à Rome. La romanisation et les usages de terrain demandent une analyse régionale.
+
+### 50. Le refus de partir du Capitole [A]
+
+**Tite-Live I,55,2–6** rapporte qu'au moment de préparer le sanctuaire de **Jupiter Capitolin**, les autres divinités acceptent par signes divinatoires le déplacement de leurs anciens lieux de culte, mais **Terminus refuse d'être déplacé**. Cette résistance est considérée comme présage de la stabilité des frontières et du pouvoir romain. Le récit est une **mémoire religieuse des origines** transmise par un historien postérieur, non une observation contemporaine des premiers rois.
+
+**Texte :** [Tite-Live, *Ab urbe condita* I,55](https://cts.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/1.55.1-1.55.9).
+
+### 51. La limite qu'on ne peut enlever [I/P]
+
+La figure de Terminus qui résiste à Jupiter offre une tension philosophique : la puissance qui garde les bornes devrait-elle être soumise à la volonté d'un roi ou d'un dieu suprême ? Dans le récit, son immobilité devient une promesse de permanence politique. Mais la pierre ne garantit pas empiriquement que les limites de Rome ne changeront jamais : l'histoire de l'expansion romaine contredit toute lecture littérale d'une frontière politique absolument fixe.
+
+### 52. Pourquoi le Capitole est un autre lieu que le champ [É]
+
+Le récit de Tite-Live concerne un espace de temple et une réorganisation du Capitole, alors que les *Terminalia* d'Ovide décrivent aussi des propriétés rurales. Les deux textes participent du même nom divin mais de **contextes spatiaux distincts**. Une lecture qui ferait d'un champ italien la copie réduite de la topographie capitoline manquerait cette différence. La continuité religieuse du nom n'implique pas une identité d'usage et de destination.
+
+### 53. Philologie : *terminus*, *fines*, *limes* [É]
+
+Le latin **terminus** désigne une borne ou une limite et nomme la divinité Terminus ; **finis**, au pluriel **fines**, renvoie à une frontière ou à un territoire selon contexte ; **limes** peut désigner un chemin de division et prendre plus tard des sens militaires ou territoriaux variés. Ces mots ne sont pas des synonymes absolus. Surtout, le *limes* d'époque impériale ne correspond pas mécaniquement au dieu d'une borne rurale dans le poème d'Ovide.
+
+### 54. L'institution du voisinage [I]
+
+La borne sépare deux intérêts sans pouvoir éliminer le fait qu'ils sont contigus. L'offrande commune produit une reconnaissance mutuelle. Cette lecture ne prouve pas la paix permanente entre voisins : les conflits fonciers existaient et les sources juridiques les documentent. Elle montre une solution rituelle destinée à stabiliser, par la répétition, une limite susceptible d'être contestée ou déplacée. La solennité n'efface pas les rapports de force.
+
+# VII. Le *pomerium* : un autre type de frontière romaine
+
+### 55. Aulu-Gelle XIII,14,1 : la définition des augures [A]
+
+**Aulu-Gelle**, *Nuits attiques* **XIII,14,1**, reproduit une définition ancienne attribuée aux livres des augures : le **pomerium** est un espace déterminé autour de la ville, délimité par des frontières fixées, servant de limite aux **auspices urbains**. La définition est capitale, car elle parle d'une frontière **religieuse et institutionnelle**, non d'un champ situé entre deux voisins. Elle ne prouve pas que chaque pierre de l'enceinte était honorée comme Terminus.
+
+**Texte latin :** [Aulu-Gelle XIII,14, Packhum](https://latin.packhum.org/loc/1254/1/281) ; [traduction et commentaire historique](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Gellius/13%2A.html).
+
+### 56. La limite peut être modifiée légalement [A/É]
+
+Le même chapitre explique que le *pomerium* fut étendu dans l'histoire romaine, sous certains titulaires de pouvoirs et selon des traditions juridiques. Il ne s'agit donc pas d'une séparation que nul acte humain ne pourrait jamais reconfigurer. Le contraste avec Terminus, célébré comme stable, mérite d'être gardé : **un rite peut valoriser la permanence alors qu'une institution connaît des procédures de révision**. Cette discordance est une donnée historique, non une incohérence à supprimer.
+
+### 57. Mur, ville et auspices ne coïncident pas toujours [É]
+
+La limite militaire ou défensive, la ville habitée et la zone de validité des auspices ne sont pas nécessairement la même ligne. Un *pomerium* doit être analysé à partir de sa définition juridique et augurale, non à partir du seul tracé des murailles visibles. L'idée moderne d'un périmètre administratif unique serait trop simple pour plusieurs états de la Rome ancienne. La comparaison rappelle que les limites peuvent être **superposées mais différentes**.
+
+### 58. Ce que l'historien ne peut pas conclure [É]
+
+Le passage d'Aulu-Gelle n'autorise ni à localiser chaque pierre du *pomerium* de Romulus, ni à calculer exactement la zone consacrée au VIIIe siècle avant notre ère. L'auteur écrit bien plus tard et discute des traditions institutionnelles. Les textes, l'archéologie et les découvertes épigraphiques doivent être confrontés indépendamment. La précision de la définition antique n'est pas une preuve de précision géographique pour chaque phase chronologique.
+
+# VIII. Israël et Juda : la borne sous sanction, sans dieu-borne
+
+### 59. Deutéronome 19,14 : ne pas déplacer la limite du voisin [A]
+
+**Deutéronome 19,14** interdit de déplacer la borne du prochain, dans le territoire que les ancêtres ont fixé et qui est assigné comme héritage. Le texte associe **propriété, mémoire ancestrale et obligation devant YHWH**. Il ne décrit pas l'adoration d'une pierre personnifiée ; la sanction relève de la norme religieuse et sociale qui protège la relation entre voisins.
+
+**Source :** [Deutéronome 19,14, texte hébreu](https://www.sefaria.org/Deuteronomy.19.14).
+
+### 60. Deutéronome 27,17 : la malédiction collective [A]
+
+**Deutéronome 27,17** formule une malédiction contre celui qui déplace la borne de son prochain, à laquelle le peuple est appelé à répondre. L'intérêt du passage est son **mode de proclamation publique** : la norme est présentée comme obligation devant la communauté, non comme un avis privé de propriétaire. La similitude avec les malédictions des *kudurrus* concerne le recours à une sanction religieuse contre une transgression foncière, sans démontrer une copie textuelle directe.
+
+**Source :** [Deutéronome 27,17](https://www.sefaria.org/Deuteronomy.27.17).
+
+### 61. Proverbes 22,28 et Job 24,2 [A]
+
+**Proverbes 22,28** exhorte à ne pas déplacer la borne ancienne établie par les pères ; **Job 24,2** dénonce les personnes qui déplacent des bornes et s'emparent de troupeaux. Dans le premier cas, la sagesse normative invoque la continuité de l'ordre ; dans le second, l'accusation d'injustice montre que la transgression est suffisamment pensable pour devenir un motif de dénonciation. Les genres diffèrent, mais tous deux supposent que la limite n'est pas physiquement inviolable.
+
+### 62. Philologie : *gĕbûl* [É]
+
+Le mot hébreu **גְּבוּל** (*gĕbûl*) peut désigner une frontière, un territoire délimité ou sa borne selon l'usage. Un lecteur doit examiner le syntagme complet et la forme verbale du déplacement. La traduction « pierre-frontière » peut être appropriée dans un contexte sans désigner toujours le même type d'objet. Il serait erroné d'introduire dans le verset un nom de dieu « Limite » absent du texte.
+
+### 63. La limite protège aussi des personnes [I]
+
+Les textes ne défendent pas seulement un morceau de terrain ; ils mettent en jeu des héritages, des ressources agricoles, des moyens de vivre et des rapports de voisinage. Déplacer une borne peut spolier un autre détenteur et modifier la sécurité de sa famille. L'inférence sociale est contrôlable : l'importance de la frontière dépend de ce qu'elle protège. Mais la Bible normative ne permet pas à elle seule de mesurer la fréquence effective des fraudes foncières dans une province donnée.
+
+### 64. Le proche et la communauté [P]
+
+La norme contre le déplacement d'une borne demande de reconnaître le droit d'autrui là où commence le sien. La philosophie contemporaine peut y lire la nécessité d'un **partage durable des ressources**, mais cela ne signifie pas que les textes bibliques proclament une égalité économique générale de tous les habitants. Le cadre est celui d'une société avec héritages, hiérarchies et dispositions juridiques propres, dont la diversité ne se réduit pas à un idéal moderne.
+
+### 65. La malédiction n'est pas la preuve d'un dieu-pierre [É]
+
+La sanction religieuse exprime la gravité de la fraude sans conférer à la borne la personnalité d'une puissance indépendante. Comparer Deutéronome et Ovide Terminalia sous le titre « culte des bornes » serait donc abusif. Le comparable est plus limité : **la limite reçoit une protection qui dépasse l'intérêt immédiat de chaque propriétaire**. Les mécanismes sont textuels, rituels et théologiques de manière différente.
+
+# IX. Inde : arbitrer les limites entre villages
+
+### 66. *Manusmṛti* VIII,245 : une procédure réglée [A]
+
+La **Manusmṛti**, **VIII,245**, prévoit qu'en cas de dispute entre deux villages au sujet de la limite, le roi ou l'autorité compétente la détermine au mois de **Jyeṣṭha**, lorsque les repères sont faciles à distinguer. Le texte traite donc l'espace comme un objet **de constatation et de décision**, non uniquement comme la propriété magique d'un dieu. Il appartient à la littérature normative sanskrite, dont l'histoire de rédaction et de réception est distincte des poèmes védiques plus anciens.
+
+**Texte sanskrit et commentaire :** [Manusmṛti VIII,245, avec Medhātithi](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201177.html).
+
+### 67. Philologie : *sīmā* [É]
+
+Le sanskrit **सीमा** (*sīmā*) désigne ici une limite territoriale ; l'expression **sīmāṃ prati samutpanne vivāde** vise un différend apparu à propos de la frontière. La grammaire sert à déterminer l'objet précis du litige. Le lexème ne doit pas être converti en un nom de dieu comparable à Terminus ; il ne porte pas automatiquement la fonction d'un culte de pierre. La catégorie *sīmā* peut être juridique avant d'être prise dans des développements rituels locaux.
+
+### 68. Les arbres et les buttes, VIII,246–248 [A]
+
+Les vers **246–248** énumèrent des arbres, plantations, roseaux, haies, buttes, puits et points d'eau comme repères. Le texte prévoit même la présence de **sanctuaires** dans certains dispositifs. Il juxtapose donc des signes naturels, aménagés et cultuels ; ils ne sont pas des équivalents fonctionnels parfaits. Un arbre vivant exige entretien et mémoire, un puits sert aussi des usages économiques, un sanctuaire possède ses fonctions propres. L'intérêt du corpus tient à cette pluralité pratique.
+
+### 69. Les marques cachées, VIII,249–251 [A]
+
+Les vers **249–251** recommandent de déposer des signes **enfouis** que le temps ne détruirait pas aisément : pierres, tessons, charbon, os, cendre et autres matériaux. Ce dispositif complète les repères visibles. Il exprime une réflexion sophistiquée sur la possibilité de retrouver une ligne contestée lorsque les arbres ont disparu ou que des personnes ont déplacé un marqueur. La protection ne dépend donc pas toujours d'une monumentalité sacrée exposée au regard.
+
+### 70. La terre « mange » les marques [É]
+
+Le commentaire de **Medhātithi** explique que certaines substances doivent résister au temps et à la corrosion ; le texte emploie une image où la terre « mange » ce qui s'efface. Ce choix de vocabulaire ne doit pas être converti en croyance selon laquelle une déesse Terre avalerait rituellement les bornes. La métaphore sert à désigner la **durabilité des indices matériels**. Le commentaire appartient à une strate postérieure et doit être distingué du vers normatif qu'il explique.
+
+### 71. Témoins, possession et cours d'eau, VIII,252–255 [A]
+
+La suite du passage fait intervenir des **témoins**, la durée de la possession et les cours d'eau, lorsque les signes ne suffisent pas à résoudre le litige. L'autorité peut arbitrer après examen des preuves. Le système décrit ne fonctionne donc pas comme un ordalie obligatoire dans laquelle une borne se mettrait à parler. L'histoire du droit met en évidence une combinaison de preuve matérielle, de mémoire et de procédure. L'application réelle de ces règles à toutes les régions de l'Inde ancienne ne saurait être présumée.
+
+### 72. Le temps saisonnier de la preuve [I]
+
+Le choix du mois de Jyeṣṭha est justifié par la meilleure visibilité de certains repères, lorsque la croissance végétale ne les masque pas. La procédure reconnaît ainsi que la preuve dépend des **conditions écologiques d'observation**. Ce trait mérite une comparaison avec les stèles rupestres d'Akhetaton, dont la position élevée favorise la visibilité, mais les motifs et cadres institutionnels diffèrent. Le principe n'est pas une règle mondiale tirée d'un seul ancêtre mythique.
+
+### 73. Le sanctuaire comme un repère parmi d'autres [É]
+
+Le texte peut envisager l'installation d'un lieu cultuel parmi les marques de frontière. Pourtant il n'exige pas, pour toutes les limites, la divinisation de l'objet. La présence d'un temple n'efface ni la preuve par le cours d'eau ni celle par les témoins. Le comparatisme doit éviter deux excès : exclure toute fonction religieuse du système indien ou prétendre que les arbres et os enfouis étaient tous des dieux territoriaux.
+
+### 74. Le droit sanskrit n'est pas un document védique intemporel [É]
+
+La *Manusmṛti* et le commentaire de Medhātithi appartiennent à des horizons de composition et d'interprétation différents des plus anciens hymnes du *Ṛgveda*. Ils documentent une tradition normative et ses débats, non une pratique historique immuable de tout le sous-continent depuis le IIe millénaire. Les catégories de caste et de statut du code doivent être examinées avec la même rigueur que ses procédures territoriales ; la compétence du roi y est présentée dans un ordre social hiérarchisé.
+
+### 75. Le contraste avec Terminus [I]
+
+Ovide décrit deux propriétaires honorant une borne devenue dieu ; la *Manusmṛti* fournit une procédure avec végétaux, pierres cachées, témoins et arbitrage. Les deux corpus cherchent à stabiliser des limites, mais l'un met au premier plan la **répétition rituelle du voisinage**, l'autre **l'administration de la preuve**. Aucun rapport de transmission directe n'est établi. Le texte indien offre surtout un contre-exemple à l'idée que toute limite juridiquement protégée aurait besoin d'une divinité de pierre.
+
+# X. Matrice des objets et institutions
+
+| Témoin | Date / contexte | Limite en jeu | Mécanisme de garantie | Ce qui n'est pas démontré |
+|---|---|---|---|---|
+| Louvre SB 22 | Babylonie kassite, 1186–1172 av. n. è. | Domaine attribué au fils du roi | Texte, emblèmes divins, mémoire de donation | Que la stèle fût plantée sur la borne du champ |
+| Louvre SB 23 | Babylonie kassite | Domaine attribué à Hunnubat-Nannaya | Acte royal, monument et signes | Identité avec la donation au fils de SB 22 |
+| Amarna K/M/X | Akhenaton an 5 | Territoire de fondation d'Akhetaton | Proclamation dans la falaise | Confirmation indépendante de l'origine divine du choix |
+| Amarna U et autres | Années 6 et 8 | Périmètre consacré à Aton | Serment, relief, réseau de stèles | Interdiction absolue au roi de quitter la ville |
+| Agora I 5510 | Athènes, ca 500 av. n. è. | Place publique | Borne in situ avec inscription à la première personne | Culte automatique d'Hermès à cette borne |
+| Hermès, Thucydide VI,27 | Athènes, 415 av. n. è. | Portes et espaces religieux | Images gardiennes, interprétation civique | Que tous les hermès fussent bornes foncières |
+| Ovide II,639–684 | Rome, époque augustéenne | Champs voisins | Offrandes communes à Terminus | Uniformité rituelle dans tout l'Empire |
+| Tite-Live I,55 | Mémoire de Rome archaïque | Sanctuaire capitolin | Refus divin de déplacement raconté | Témoignage direct des travaux de Tarquin |
+| Aulu-Gelle XIII,14 | Antiquité romaine tardive | Zone des auspices urbains | Définition augurale du pomerium | Équivalence avec chaque borne rurale |
+| Deutéronome 19,14 ; 27,17 | Textes bibliques | Héritage et voisinage | Interdit et malédiction collective | Culte d'un dieu nommé Terminus |
+| Manusmṛti VIII,245–255 | Tradition juridique sanskrite | Frontière de villages | Repères, témoignages, arbitration | Application universelle de la règle à toute l'Inde |
+
+# XI. Historiographie : les pièges de la comparaison
+
+### 76. Un nom de musée ne suffit pas [É]
+
+« Boundary stone » est une catégorie pratique de catalogue, mais le *kudurru* babylonien peut être une copie monumentale d'acte foncier conservée à distance. Slanski a démontré l'importance de critiquer l'histoire des noms savants. À l'inverse, les bornes de l'Agora fournissent un cas où la position **in situ** renforce directement l'interprétation spatiale. Une étude comparative doit pouvoir maintenir ces deux conclusions contradictoires en apparence, au lieu d'imposer une définition unique du monument de frontière.
+
+### 77. Le piège de la religion primitive des pierres [H]
+
+L'idée que l'ensemble des sociétés anciennes auraient primitivement adoré chaque pierre de limite relève d'un évolutionnisme général insuffisamment documenté. La Rome des *Terminalia* possède un dieu explicitement nommé ; le Deutéronome protège une propriété sans diviniser la pierre ; la *Manusmṛti* propose des marks cachées ; le roi d'Amarna consacre un périmètre à Aton. Ces traditions documentent des **modalités différentes de sacralisation et de protection**, non les survivances d'une même religion « lithique ».
+
+### 78. Les textes normatifs et la pratique [É]
+
+Un code de prescriptions interdit une fraude ; il ne prouve pas que cette fraude fut absente, ni que tous les juges appliquaient le texte. Les *kudurrus* monumentalisent des donations ; ils ne donnent pas la totalité du marché foncier. Ovide décrit une cérémonie qui peut être poétisée ; l'archéologie montre un échantillon de monuments conservés, non tous ceux qui existaient. La rigueur exige de confronter des documents de nature différente sans hiérarchiser arbitrairement leurs degrés de « croyance ».
+
+### 79. L'identité des dieux ne se transmet pas avec la pierre [H]
+
+La présence d'emblèmes de Šamaš, Sîn, Ištar ou Marduk sur une donation babylonienne ne permet pas de les identifier au dieu Terminus de Rome ou à Aton. Les symboles peuvent protéger un titre, représenter une autorité de justice ou accompagner la mémoire d'un don. Une hypothèse diffusionniste devrait établir des routes, des dates, des formules rares et des transformations traçables. Une simple borne religieusement protégée est trop générale pour démontrer une telle filiation.
+
+### 80. Le temple et la frontière ne sont pas le même lieu [I]
+
+Une stèle liée à une parcelle peut être installée dans un temple ; une statue liée à une divinité peut garder l'entrée d'une maison ; un sanctuaire peut se trouver sur un point de limite ; un palais peut être entouré d'un périmètre proclamé sacré. Ces combinaisons interdisent d'affirmer qu'il existe partout une coïncidence parfaite entre **territoire juridique**, **espace rituel** et **monument visible**. Les sites doivent être reconstruits chacun selon leurs propres plans et dossiers épigraphiques.
+
+### 81. Le paradoxe des frontières impériales [P]
+
+Un empire peut honorer une limite locale et déplacer par la conquête des bornes ou des stèles d'autres territoires. Les *kudurrus* transportés à Suse le montrent matériellement ; le récit romain de Terminus célèbre l'immobilité d'une divinité tout en accompagnant la mémoire d'un pouvoir expansionniste. La philosophie peut interroger cette tension entre **stabilité proclamée** et **mobilité politique réelle**, sans transformer les monuments en preuves directes d'une pensée critique des empires chez leurs commanditaires.
+
+# XII. Philosophie politique des limites
+
+### 82. Une limite sépare-t-elle ou relie-t-elle ? [P]
+
+Deux voisins ne sont voisins qu'en raison d'une limite partagée. Chez Ovide, les propriétaires offrent ensemble des dons à Terminus ; chez Manu, les villages peuvent se retrouver devant un arbitre commun ; dans le Deutéronome, le droit de l'autre suppose le respect d'une ligne. La limite ne produit donc pas uniquement une exclusion : elle rend possible **une relation réglée entre des parties distinctes**. Cette lecture n'implique pas que les sociétés antiques aient connu la même théorie de l'égalité des propriétés.
+
+### 83. La pierre est-elle une autorité ? [P]
+
+La pierre ne juge pas les litiges par une volonté propre, mais peut être tenue pour garantie d'un acte. Elle réunit la durée matérielle d'une inscription et l'autorité de ceux qui l'ont posée, lue ou protégée. On pourrait parler d'**autorité déléguée à un support**. Toutefois, dans le dossier de Terminus, la borne est investie comme dieu ; chez Slanski, elle est monument juridique ; à Athènes, elle parle au nom de la place civique. Il n'existe pas un mécanisme théologique unique derrière toutes ces formes.
+
+### 84. L'immobilité peut-elle fonder la justice ? [P]
+
+La stabilité d'une limite empêche qu'un puissant empiète indéfiniment sur le terrain de son voisin. Mais une frontière injustement fixée peut aussi stabiliser une spoliation. La philosophie doit donc distinguer **durabilité**, **légitimité de l'établissement initial** et **possibilité de révision**. La *Manusmṛti* envisage l'arbitrage des contestations ; le *pomerium* pouvait être étendu ; le mythe de Terminus valorise la résistance au déplacement. Ces trois situations montrent une tension, non une réponse universelle.
+
+### 85. L'inscription peut-elle donner une voix à la matière ? [P]
+
+« Je suis la borne de l'Agora » transforme un bloc de marbre en locuteur grammatical. La formule ne prouve pas que les Athéniens le pensaient conscient ; elle permet à l'objet de **porter une déclaration au nom d'un ordre collectif**. L'analyse peut recourir à une philosophie des actes de langage, mais non en faire un rituel d'animation. La pierre dit où commence une règle ; c'est le lecteur et l'institution qui donnent force à cette parole.
+
+### 86. Pourquoi la limite a besoin de mémoire [P]
+
+L'érosion, les déplacements, les morts de témoins et les changements de souverain montrent qu'une ligne peut se perdre. Les matériaux cachés de la *Manusmṛti*, les textes gravés des *kudurrus* et la répétition des *Terminalia* sont trois moyens de **transmettre une reconnaissance dans le temps**. Chacun répond à une difficulté différente : preuve technique, archive monumentale et réaffirmation rituelle. La mémoire territoriale est ainsi matérielle et sociale, jamais seulement géométrique.
+
+### 87. Le voisinage est une obligation envers l'autre [P]
+
+Interdire de déplacer la borne du voisin dans les textes bibliques revient à reconnaître qu'un droit n'est pas constitué par la force du seul détenteur. La limite est une forme de retenue. Cette lecture peut faire dialoguer les sources anciennes avec des philosophies modernes de la justice et de la responsabilité, mais il serait anachronique de leur attribuer le droit foncier universel actuel. L'héritage, les hiérarchies et les statuts y suivent des règles particulières.
+
+### 88. La visibilité d'une frontière garantit-elle sa réalité ? [P]
+
+Une stèle haute de plusieurs mètres peut rendre une ville visible, mais sa promesse politique peut être abandonnée après quelques générations. Une marque cachée peut au contraire devenir décisive lors d'un procès. La puissance de la limite ne se déduit donc pas de sa seule visibilité. Elle tient à la relation entre **preuve**, **pratique** et **reconnaissance**. Cet écart explique pourquoi la grande stèle royale et le fragment enfoui peuvent appartenir à une même histoire comparée sans être des objets équivalents.
+
+### 89. Éthique de la preuve et patrimoine déplacé [P]
+
+Les stèles de Suse, les pièces de l'Agora, les reliefs d'Amarna et leurs copies photographiques possèdent des biographies modernes. Les musées peuvent préserver, mais l'exposition décontextualise aussi. Une étude responsable décrit le déplacement antique d'une pierre sans confondre ce fait avec les conditions contemporaines d'acquisition. Elle donne des inventaires et des sources photographiques, sans produire une image inventée dont l'authenticité serait trompeusement suggérée.
+
+### 90. Conclusion philosophique : la limite ne vit pas seule [P]
+
+La frontière n'est pas une propriété mystérieuse du minéral. Elle est le résultat d'un acte qui **délimite, déclare, justifie, transmet et protège**. Le dieu peut garantir une sanction, la cité peut lui donner une voix, un roi peut consacrer un paysage, un tribunal peut rechercher des pierres cachées. Aucun de ces mécanismes ne dispense de la participation des humains : quelqu'un pose, déplace, garde, lit, détruit, croit ou conteste. Une limite sacrée n'est pas hors de l'histoire ; elle est une tentative de donner à une relation fragile la forme d'une durée.
+
+# XIII. Corpus primaire : textes et objets
+
+1. **Louvre SB 22 / AS 6068**, *Kudurru de Meli-Shipak II*, donation à Marduk-apla-iddin, calcaire, 1186–1172 av. n. è., découvert à Suse. [Notice du Louvre](https://collections.louvre.fr/ark:/53355/cl010174452).
+2. **Louvre SB 23**, *Kudurru de Meli-Shipak*, donation à Hunnubat-Nannaya ; [notice](https://collections.louvre.fr/ark:/53355/cl010174453).
+3. **Louvre-Lens, stèle-kudurru SB 32** ; distinguer de SB 22 et SB 23. [Louvre-Lens](https://www.louvrelens.fr/work/stele-kudurru/).
+4. **Walters Art Museum 21.10**, *Babylonian Boundary Stone*, traditions de dépôt dans le temple d'Esagila. [Notice Walters](https://art.thewalters.org/object/21.10/).
+5. **Stèles de frontière d'Akhetaton**, K/M/X (année 5), A/B/F/J/N/P/Q/R/S/U/V (année 6, serment renouvelé an 8) ; [Amarna Project](https://www.amarnaproject.com/amarna-the-place/boundary-stelae/).
+6. **Athenian Agora I 5510**, borne inscrite en marbre, ca 500 av. n. è., découverte in situ à l'est de la Tholos ; [Agathe / ASCSA](https://www.agathe.gr/id/agora/object/i%205510).
+7. **IG I³ 1087**, transcription épigraphique de la première borne de l'Agora. [Dossier Dickinson](https://dcc.dickinson.edu/images/inscribed-ancient-agora-boundary-stone).
+8. **Thucydide**, *Guerre du Péloponnèse* VI,27–29, hermès mutilés en 415 av. n. è. ; [édition grecque bilingue](https://philologia.co.uk/w/urn%3Acts%3AgreekLit%3Atlg0003.tlg001.perseus-grc2?b=6).
+9. **Ovide**, *Fastes* II,639–684, Terminalia du 23 février et offrande commune ; [texte](https://www.theoi.com/Text/OvidFasti2.html).
+10. **Tite-Live**, *Ab urbe condita* I,55,2–6, Terminus qui refuse le déplacement lors des travaux capitolins ; [texte](https://cts.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/1.55.1-1.55.9).
+11. **Aulu-Gelle**, *Nuits attiques* XIII,14,1–7, définition et changements du pomerium ; [texte latin](https://latin.packhum.org/loc/1254/1/281).
+12. **Deutéronome** 19,14 et 27,17, limite du voisin et malédiction collective ; [19,14](https://www.sefaria.org/Deuteronomy.19.14) ; [27,17](https://www.sefaria.org/Deuteronomy.27.17).
+13. **Proverbes** 22,28 et **Job** 24,2, bornes anciennes et fraude ; [Proverbes](https://www.sefaria.org/Proverbs.22.28) ; [Job](https://www.sefaria.org/Job.24.2).
+14. **Manusmṛti**, VIII,245–255, disputes entre villages, arbres, fossés, pierres enfouies, témoignages. [Sanskrit et traduction](https://www.swaveda.com/texts/manusmriti/8/).
+15. **Medhātithi**, commentaire sur Manu VIII,245 et 249–251, interprétation des marques cachées. [Wisdomlib / édition commentée](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201177.html).
+16. **Athenian Agora I 7039**, seconde borne d'Agora retrouvée en 1967 avec texte rétrograde ; contrôler l'inventaire et les images à l'ASCSA avant toute légende.
+17. **Hérodote et les traditions des limites grecques**, rapprochements secondaires à limiter aux passages identifiés ; le présent dossier ne prétend pas que les horoi de l'Agora aient été ordonnés par un auteur littéraire particulier.
+18. **Murnane et van Siclen**, édition des inscriptions de frontière d'Akhenaton ; références exactes en bibliographie.
+
+# XIV. Bibliographie critique et historiographique
+
+1. **Slanski, Kathryn E.**, « Classification, Historiography and Monumental Authority: The Babylonian Entitlement narûs (kudurrus) », *Journal of Cuneiform Studies* 52 (2000), 95–114. [DOI](https://doi.org/10.2307/1359688).
+2. **Charpin, Dominique**, « La commémoration d'actes juridiques : à propos des kudurrus babyloniens », *Revue d'assyriologie* 96 (2002), 169–191.
+3. **Brinkman, J. A.**, « Babylonian Royal Land Grants, Memorials of Financial Interest, and Invocation of the Divine », *Journal of the Economic and Social History of the Orient* 49 (2006), 1–47.
+4. **King, L. W.**, *Babylonian Boundary Stones and Memorial Tablets in the British Museum*, Londres, 1912. Publication historique, dont les catégories doivent être réexaminées à la lumière de Slanski.
+5. **Ministère de la Culture**, « Un exemple de kudurru », documentation institutionnelle sur la forme, le texte et le contexte du monument. [Dossier](https://archeologie.culture.gouv.fr/orient-cuneiforme/en/example-kudurru).
+6. **Murnane, William J. et Charles C. van Siclen III**, *The Boundary Stelae of Akhenaten*, Londres, Kegan Paul, 1993. Édition épigraphique et photographique des proclamations.
+7. **Murnane, William J.**, *Texts from the Amarna Period in Egypt*, Atlanta, Scholars Press, 1995, notamment textes des stèles de frontière.
+8. **Davies, Norman de Garis**, *The Rock Tombs of El Amarna*, vol. V, Londres, 1908. Dessins et relevés historiques à confronter aux surfaces actuelles.
+9. **Kemp, Barry**, *The City of Akhenaten and Nefertiti: Amarna and Its People*, Thames & Hudson, 2012. Topographie et fondation.
+10. **Amarna Project / Barry Kemp**, *Boundary Stelae*, photographie, cartographie et critique des deux proclamations. [Dossier](https://www.amarnaproject.com/amarna-the-place/boundary-stelae/).
+11. **Seth Estrin**, *Horos: Ancient Boundaries and the Ecology of Stone*, travaux sur les bornes athéniennes et la relation entre forme, texte et lieu. À distinguer des seules données de fouille.
+12. **American School of Classical Studies at Athens**, *Athenian Agora Excavations*, inv. I 5510, contexte et relevés. [Catalogue Agathe](https://www.agathe.gr/id/agora/object/i%205510).
+13. **Camp, John McK.**, *The Athenian Agora: Excavations in the Heart of Classical Athens*, Thames & Hudson, 1986. Contexte de la place publique et des horoi.
+14. **Agora XIX**, *Inscriptions: Horoi, Poletai Records, Leases of Public Lands*, American School of Classical Studies at Athens. Éditions de bornes, dossiers fonciers.
+15. **Quinn, Josephine Crawley**, « Herms, Kouroi and the Political Anatomy of Athens », *Greece & Rome* 54/1 (2007), 82–105. [DOI](https://doi.org/10.1017/S0017383507000058).
+16. **Mikalson, Jon D.**, notice « Herms », *Oxford Classical Dictionary*. Emplacement et fonctions des piliers d'Hermès.
+17. **Ovide**, *Fastes* II, édition latine critique ; le passage sur Terminus doit être lu comme poésie étiologique augustéenne.
+18. **Beard, Mary ; North, John ; Price, Simon**, *Religions of Rome*, deux volumes, Cambridge University Press, 1998. *Terminus*, auspices et institutions.
+19. **Scheid, John**, *La Religion des Romains*, Armand Colin, 1998 (rééditions). Sources et limite d'une lecture des rites comme folklore inchangé.
+20. **Rüpke, Jörg**, *Religion of the Romans*, Polity Press, 2007. Religion et institution civique.
+21. **Aulu-Gelle**, *Noctes Atticae* XIII,14 et tradition des augures, édition latine critique pour le vocabulaire du *pomerium*.
+22. **Tov, Emanuel**, *Textual Criticism of the Hebrew Bible*, 3e éd., Fortress Press, 2012. Méthode de distinction des leçons bibliques.
+23. **Tigay, Jeffrey H.**, *Deuteronomy*, JPS Torah Commentary, Philadelphia, 1996. Contexte de la propriété et des prescriptions.
+24. **Levinson, Bernard M.**, *Deuteronomy and the Hermeneutics of Legal Innovation*, Oxford University Press, 1997. Loi, réécriture et idéologie.
+25. **Olivelle, Patrick**, *Manu's Code of Law: A Critical Edition and Translation of the Mānava-Dharmaśāstra*, Oxford University Press, 2005. Le droit des frontières et l'histoire du texte.
+26. **Olivelle, Patrick**, *King, Governance, and Law in Ancient India: Kauṭilya's Arthaśāstra*, Oxford University Press, 2013. Distinction entre administration pratique et normes textuelles.
+27. **Kane, P. V.**, *History of Dharmaśāstra*, plusieurs volumes, Bhandarkar Oriental Research Institute, 1930–1962. Étude des traditions de droit, à utiliser critiquement.
+28. **Derrett, J. Duncan M.**, *Religion, Law and the State in India*, Londres, Faber & Faber, 1968. Institutions, droit et religion dans la durée, contre les généralisations.
+29. **Detienne, Marcel**, *Comparer l'incomparable*, Paris, Seuil, 2000. Construction rigoureuse des comparables.
+30. **Gell, Alfred**, *Art and Agency: An Anthropological Theory*, Oxford University Press, 1998. Médiation des objets, employée comme outil théorique moderne.
+31. **Hegel, G. W. F.**, *Principes de la philosophie du droit*, 1821. Propriété, institutions et reconnaissance, lecture philosophique rétrospective.
+32. **Aristote**, *Éthique à Nicomaque* V, justice et rapports de partage, contrepoint conceptuel [P] et non source des actes fonciers babyloniens.
+33. **Paul Ricœur**, *La Mémoire, l'histoire, l'oubli*, Paris, Seuil, 2000. Trace, preuve, mémoire et transmission, outil [P].
+34. **Michel Foucault**, *Sécurité, territoire, population*, cours au Collège de France, 1977–1978, édition 2004. Réflexion moderne sur territoire et gouvernement, non catégorie antique directement applicable.
+
+# XV. Dix propositions iconographiques sourcées
+
+**Le présent plan n'atteste aucune insertion d'image dans le site.** Toute photographie doit comporter numéro d'inventaire, datation, source institutionnelle, crédit, licence de reproduction et texte alternatif descriptif. N'utiliser aucune reconstitution 2,5D ou faux fac-similé. Les schémas originaux seront plats, clairement désignés comme modèles éditoriaux non archéologiques.
+
+1. **Louvre SB 22, kudurru de Meli-Shipak II**, calcaire, 1186–1172 av. n. è., découvert à Suse, donation au fils Marduk-apla-iddin. [Notice Louvre](https://collections.louvre.fr/ark:/53355/cl010174452). Légende : « Monument juridique babylonien déplacé à Suse comme butin ; ne pas le présenter comme borne trouvée sur son terrain ».
+2. **Louvre SB 23**, autre kudurru de Meli-Shipak, donation à Hunnubat-Nannaya. [Louvre](https://collections.louvre.fr/ark:/53355/cl010174453). Légende : « Donation distincte à la fille du roi ; éviter toute confusion d'inventaire avec SB 22 ».
+3. **Stèle U d'Akhetaton**, roche inscrite de 7,6 m environ, avec vestiges de statues, Amarna. [Amarna Project](https://www.amarnaproject.com/amarna-the-place/boundary-stelae/). Légende : « Proclamation de limite territoriale, état de conservation à préciser, année 6 et rappel de l'an 8 selon le texte ».
+4. **Carte documentaire originale des stèles d'Amarna**, d'après Barry Kemp ; stèles K/M/X distinguées des autres groupes, légende : « Carte analytique d'emplacements, pas reconstitution métrique indépendante du site ».
+5. **Borne de l'Agora I 5510**, marbre env. 500 av. n. è., retrouvée in situ en 1938. [Agathe / ASCSA](https://www.agathe.gr/id/agora/object/i%205510). Légende : « Je suis la borne de l'Agora ; inscription en première personne, pas figure d'un dieu ».
+6. **Borne de l'Agora I 7039**, image de la borne à inscription rétrograde, avec droit de la photo et date de la prise de vue indiqués. [Document photographique Wikimedia sur la photographie de 1991](https://commons.wikimedia.org/wiki/File:Athens_Agora_horos_I_7039_in_situ.jpg). Préciser que le cliché ancien et l'emplacement muséal contemporain ne se confondent pas.
+7. **Tête d'hermès grec, Met 59.11.24**, époque classique, comme document de forme du pilier et non comme illustration directe de l'agression de 415. [Metropolitan Museum](https://www.metmuseum.org/art/collection/search/255016). Légende : « Fragment de pilier figuré, à distinguer des horoi inscrits ».
+8. **Tableau original Terminalia / pomerium**, Ovide *Fastes* II,639–684 et Aulu-Gelle XIII,14, avec colonnes « propriétaires », « type de limite », « type de garantie ». Schéma documentaire, pas objet ancien.
+9. **Planche trilingue du droit de bornage**, Deutéronome 19,14 et 27,17 en hébreu, Ovide en latin et Manu VIII,245 en sanskrit, avec traduction analytique et mise en garde sur la non-équivalence des mots.
+10. **Matrice des preuves du territoire**, quatre cas « in situ / déplacé / déclaré / caché » : Agora I 5510, Louvre SB 22, stèles d'Amarna et repères de la *Manusmṛti*. Aucune image d'un marqueur indien excavé non identifié ne devra être fabriquée.
+
+# XVI. Vérifications finales et synthèse
+
+### 91. Checklist d'épigraphie [É]
+
+Contrôler le nom d'inventaire **SB 22** et la donation à Marduk-apla-iddin ; ne pas fusionner SB 23 et SB 32. Établir les versions des proclamations d'Amarna avec les planches de Davies et Murnane/van Siclen, en marquant les lacunes. Vérifier la transcription exacte de **IG I³ 1087**, la lecture rétrograde de la seconde borne, les vers d'Ovide et les formes hébraïques de Deutéronome. La numérotation des vers de Manu doit être collationnée à l'édition d'Olivelle avant les citations littérales.
+
+### 92. Checklist des objets et de leurs lieux [É]
+
+Distinguer **lieu de découverte**, **emplacement de première installation** et **musée actuel**. Les pierres de Suse sont des objets déplacés, les stèles d'Amarna appartiennent au rocher, l'Agora I 5510 est une borne in situ, les passages de Manu autorisent des marques enfouies dont aucun objet précis n'est identifié par ce texte. Ces classes de preuves ne doivent jamais être dessinées sur une carte commune comme si elles avaient toutes été découvertes sur leur limite d'origine.
+
+### 93. Les faits attestés [A]
+
+Sont attestés : une donation royale kassite munie d'emblèmes divins sur le kudurru SB 22 ; des proclamations de fondation datées sur les falaises d'Amarna ; une pierre athénienne indiquant en première personne la limite de l'Agora ; des hermès mutilés dans le récit de Thucydide ; un rituel en l'honneur de Terminus décrit par Ovide ; un récit romain d'une borne divine inamovible ; une définition augurale du *pomerium* ; des prescriptions bibliques contre le déplacement des bornes ; et une tradition juridique sanskrite associant repères visibles, cachés et témoignages.
+
+### 94. Hypothèses à suspendre [H]
+
+Ne sont pas démontrés : l'installation de tous les kudurrus dans le champ ; une précision cadastrale moderne des limites d'Amarna ; la divinisation des horoi civiques athéniens ; une origine mondiale unique du culte des bornes ; une identité de *Terminus*, des dieux des kudurrus et de YHWH ; la présence matérielle des marques prescrites dans toutes les régions de l'Inde ; une transmission textuelle directe de Deutéronome vers Manu ou d'Ovide vers la Babylonie. L'histoire comparée exige des intermédiaires et des chronologies.
+
+### 95. Conclusion scientifique et philosophique [I/P]
+
+Les sociétés anciennes ont conçu les limites au moyen de pratiques très différentes : **le monument juridique conservé**, **la proclamation royale gravée dans la falaise**, **l'inscription civique trouvée en place**, **l'image qui garde une entrée**, **la borne divine honorée collectivement**, **l'interdit protégé par malédiction**, **le repère caché retrouvé en justice**. Ces dispositifs ne forment pas une « religion des frontières » homogène. Ils proposent plusieurs solutions à une difficulté commune : faire durer, au-delà de la présence de ceux qui ont établi une ligne, la possibilité d'identifier ce qui appartient à chacun et ce qui est partagé.
+
+**Lecture philosophique [P] :** une limite ne vaut pas seulement parce qu'elle arrête un mouvement. Elle crée aussi le voisinage, la responsabilité, la possibilité d'un passage réglé et la mémoire d'un accord ou d'un conflit. La pierre peut être sacrée, juridique ou publique ; elle reste dépendante des institutions capables de la lire et de la reconnaître. **Le sacré n'abolit pas les conflits de frontière : il donne à leur règlement certaines de ses formes historiques.**
+
+**FIN — MYTHOS MC-107.** Cette soumission ne modifie ni les registres d'attribution, ni les manuscrits protégés, ni les autres séries éditoriales, ni la charte visuelle noir et or, ni les planifications MYTHOS.

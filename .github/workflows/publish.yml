@@ -131,6 +131,7 @@ jobs:
       - name: Vérifier les menus et les dossiers sur le domaine public aux trois formats
         env:
           NODE_PATH: /tmp/mythos-browser/node_modules
+          MYTHOS_ENFORCE_TOUCH_TARGETS: '1'
         run: node scripts/verify_greek_navigation.cjs
       - name: Conserver le rapport et les captures des trois formats
         if: always()

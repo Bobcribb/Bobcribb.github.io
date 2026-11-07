@@ -1,0 +1,457 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXXIX (329)
+
+## Avant la cité des oiseaux : corneille, choucas, Philocratès et faillite des signes dans le prologue des *Oiseaux* d’Aristophane (vers 1–74, 414 av. n. è.)
+
+*Monographie universitaire autonome, approuvée pour publication publique — 6 novembre 2026. Philologie attique ; histoire de la démocratie ; sémiotique des animaux ; commerce des compétences ; théâtre et représentation ; comparaison critique avec Homère, Hegel, Nietzsche, Jean-Pierre Vernant et Marcel Détienne.*
+
+### Résumé scientifique
+
+Avant les discours sur la souveraineté des oiseaux, avant la création de Coucouville-les-Nuées, avant les oracles que la ville nouvelle saura contredire et avant la négociation finale avec les dieux, Aristophane fait entrer deux hommes **déjà incapables de suivre une direction**. L’un obéit à une corneille (*korônê*), l’autre à un choucas (*koloios*) ; les deux oiseaux ont été achetés à un marchand, Philocratès, qui prétendait leur faire découvrir Térée, l’ancien homme devenu huppe. Les guides mordent, leurs cris changent ou demeurent illisibles, les sentiers disparaissent. Cette scène, circonscrite ici aux vers 1–74 des *Oiseaux*, constitue une expérience comique de la délégation du jugement : que vaut une décision lorsque celui qui la prend a acheté son orientation sans pouvoir contrôler la compétence de son indicateur ?
+
+Notre thèse est que le prologue transforme **l’échec d’un dispositif de connaissance** en condition d’entrée dans une fiction politique. Il ne fournit ni une démonstration contre la divination, ni une satire documentée d’un vendeur historique, ni un programme d’émigration athénienne. Il expose, en revanche, plusieurs opérations rigoureusement observables : la confusion entre un bruit animal et un renseignement ; l’attribution d’un sens changeant au cri ; l’opposition des mots de la route et de l’absence de route ; le décalage entre liberté civique reconnue et désir d’échapper aux procès ; la nécessité de fabriquer une relation verbale et domestique avec des êtres présentés comme étrangers à la société humaine. L’objet décisif est moins « l’oiseau » comme symbole que la chaîne **vendeur — acheteur — signal — interprète — décision — épreuve matérielle**.
+
+Cette étude complète, sans les répéter, les monographies MYTHOS déjà présentes sur la fondation de la cité et l’expulsion des experts (*Oiseaux* : volume CCLXIII), sur Térée et les métamorphoses (*Oiseaux* : volume CCXCVI), sur la cosmogonie, Prométhée et les frontières aériennes. La scène des vers 1–74, les deux animaux achetés et les mécanismes précis d’une information défaillante n’avaient pas encore constitué un dossier comparatif indépendant dans le catalogue contrôlé.
+
+### Protocole et catégories de preuve
+
+**[A] Attestation :** paroles et faits de scène explicitement transmis par le texte ancien, ou circonstances attestées par des sources historiques identifiables. **[É] Établissement philologique :** forme, syntaxe et champ de sens vérifiés sur la transcription grecque ; la traduction en français est une paraphrase de travail originale, jamais une citation attribuée à un traducteur. **[I] Interprétation :** inférence argumentée qui n’appartient pas littéralement à la source. **[H] Hypothèse de représentation ou d’histoire :** plausible mais non démontrée par le texte. **[L] Limite :** information manquante ou lien causal qu’il faut s’abstenir d’affirmer. **[P] Comparaison philosophique :** lecture méthodologique rétrospective, non influence d’un auteur moderne sur Aristophane.
+
+Le texte de base est Aristophane, *Ornithes* (*Les Oiseaux*) 1–74, confronté aux versions grecques disponibles en ligne et à la traduction de travail de la Gadsden Classics Library ; les passages cités en grec ci-dessous ont été contrôlés dans ce corpus. Deux sources secondaires dont le contenu accessible a été contrôlé sont David Konstan, *Greek Comedy and Ideology* (1995), chapitre « Birds », et A. M. Bowie, *Aristophanes: Myth, Ritual and Comedy* (1993), chapitre « Birds » (voir bibliographie). L’accès public aux seules présentations éditoriales de ces chapitres **ne permet pas** de leur attribuer des arguments détaillés non visibles.
+
+---
+
+## I. Athènes, 414 : la chronologie refuse l’allégorie rétrospective
+
+### 1. Ce que l’année permet de dire [A]
+
+*Les Oiseaux* ont été représentés aux Grandes Dionysies de **414 av. n. è.** L’expédition athénienne en Sicile avait commencé en 415 et les opérations militaires s’y poursuivaient ; la destruction finale du corps expéditionnaire, racontée par Thucydide au livre VII, appartient à **413**, donc à un horizon postérieur à la représentation. Il serait incorrect de lire l’ouverture de la comédie comme la réplique consciente à une catastrophe qui n’avait pas encore eu lieu. La scène peut cependant appartenir à un climat d’inquiétude, de mobilité guerrière et de discussions sur la politique impériale sans que chaque réplique doive correspondre à un événement précis.
+
+Thucydide, *Guerre du Péloponnèse*, VI, 8–32 et VI, 94–105 ; VII, 1–18, permet de situer la décision d'expédition et la campagne en cours. VII, 85–87 décrit le désastre ultérieur. Ces références ne sont pas des annotations cachées du poète ; elles servent seulement à dresser les limites d’une chronologie historiquement possible.
+
+### 2. Une comédie créée devant des spectateurs, non un dossier de procès [A/I]
+
+Le premier public assiste à une représentation agonistique, au sein des fêtes civiques de Dionysos. Les deux voyageurs se tournent expressément vers les personnes présentes dans l’espace du spectacle, *ôndres hoi parontes en logôi* (v. 30). L’expression instaure une proximité de parole. Elle ne transforme pourtant pas la foule des spectateurs en Assemblée souveraine, ni le théâtre en tribunal ayant compétence réelle pour prononcer un verdict politique.
+
+La situation est néanmoins politiquement incisive. L’institution théâtrale offre une scène autorisée où des citoyens fictifs déclarent fuir les pratiques judiciaires de leur propre cité. Leur plainte est entendue collectivement, alors même qu’ils prétendent vouloir échapper aux lieux où les Athéniens parlent, accusent et répondent. On voit se dessiner un paradoxe : **utiliser une pratique civique publique pour ridiculiser l’excès de pratiques civiques publiques**.
+
+### 3. Ni pacifisme pur, ni défense certaine de l’empire [L]
+
+Le texte ne donne pas, dans ces premiers vers, une résolution sur la guerre, la colonisation ou le régime institutionnel. Il n’est pas recevable de conclure à un anti-impérialisme personnel d’Aristophane à partir du seul désir d’un *topos apragmôn* ; la lecture inverse, qui identifierait les futurs projets de Pisthetairos à un éloge univoque de l’empire, est pareillement prématurée. David Konstan insiste, dans la présentation publiée de son chapitre, sur le point de départ **anti-procédurier** des deux exilés ; A. M. Bowie propose de lire la pièce comme interrogation politique sur l’impossibilité d’un lieu véritablement exempt d’affaires. Ces orientations attestées sont des problèmes de recherche, non des conclusions obligatoires.
+
+## II. Ouverture sans orientation : un spectateur voit ce que les personnages ignorent
+
+### 4. Les premiers mots sont une question de direction [A/É]
+
+*Ornithes* 1 s’ouvre par une question adressée non pas à un citoyen mais à un animal : *orthên keleueis, hêi to dendron phainetai ?* (« tu indiques d’aller tout droit, vers l’endroit où l’arbre se montre ? », paraphrase). Le verbe *keleuein* signifie commander, inviter, indiquer de faire ; l’adverbe ou adjectif adverbialisé *orthên* donne une direction supposée correcte. Le mot du commencement est ainsi un ordre dont la justification demeure absente.
+
+Il ne s’agit pas d’une scène neutre d’orientation. Le public perçoit immédiatement que les voyageurs pensent interpréter des signes animaux comme des instructions humaines. La première information reçue a déjà été convertie en impératif ; la question demande confirmation **après** que l’indice a été traité comme un conseil. La distinction entre perception, interprétation et action a disparu.
+
+### 5. Le cri de la corneille ne corrige rien [A/É]
+
+Au vers 2, Pisthetairos répond que sa corneille *krôzei palin*, « croasse encore ». Ce cri n’est pas un énoncé de direction attesté : le personnage le reconstruit comme une invitation à revenir sur ses pas. Le public n’a aucun accès indépendant à une proposition émise par la corneille. Même si l’acteur devait rendre le croassement audible, ce que l’on ne peut déterminer dans son exécution exacte, le spectateur partagerait au mieux un son, non un code de traduction.
+
+Le nom *korônê* renvoie ici à un corvidé généralement identifié comme une corneille. Il n’est pas nécessaire de fixer une espèce zoologique moderne au-delà des usages lexicaux grecs pour rendre intelligible la scène. La traduction « corbeau » ou « corneille » varie selon les choix terminologiques ; le raisonnement ne repose pas sur une classification biologique contestable.
+
+### 6. *Anô katô* : la politique d’un mouvement sans progrès [A/É/I]
+
+Aux vers 3–4, Euelpides demande pourquoi ils errent *anô katô*, « en haut et en bas », et se fatiguent à poursuivre une route sans avancer réellement. La répétition du mouvement ne constitue pas une progression. On a ici un motif de comique physique, mais aussi la miniature d’un problème philosophique : la dépense d’énergie est-elle un critère de rationalité ? Non, si l’on n’a pas distingué mouvement et destination.
+
+Ce n’est pas le mouvement qui est dénoncé, mais l’impossibilité de le corriger à partir de ses résultats. L’animal indique, l’homme obéit, les difficultés se répètent, et l’obéissance demeure d’abord intacte. Interpréter la séquence comme une théorie antique formalisée de l’apprentissage serait anachronique ; elle autorise cependant une comparaison avec les problèmes modernes de décision et de rétroaction.
+
+### 7. Mille stades : l’hyperbole comme prix du faux savoir [A/I]
+
+Pisthetairos se plaint, aux vers 5–6, d’avoir parcouru plus de mille stades en suivant sa corneille. Le nombre appartient à une hyperbole scénique. Il ne permet aucune conversion sérieuse en distance réellement franchie par deux personnages, ni localisation géographique précise. Le chiffre rend sensible l’écart entre la promesse de savoir et son résultat corporel : plus la confiance est grande, plus le déplacement se révèle absurde.
+
+L’exagération fonctionne avec deux corps comiques. Le spectateur voit des hommes qui dépensent leurs forces pour une information qui ne les guide pas. La nature animale n’est pas en cause à elle seule : la chaîne de délégation, dans laquelle l’homme croit détenir une raison par la simple possession d’un guide, est mise en procès.
+
+### 8. Les ongles usés : le corps devient un instrument de vérification [A/I]
+
+Au vers 7–8, Euelpides explique que suivre le *koloios* a usé ses doigts de pied jusqu’aux ongles. Le *koloios* est souvent rendu par « choucas » ; certaines traductions utilisent « geai ». Le mot grec doit être gardé en note pour ne pas faire dépendre l’analyse d’une équivalence ornithologique parfaite.
+
+À la différence des prétendues paroles des oiseaux, la douleur du voyageur est immédiatement intelligible. Elle fournit une sorte d’épreuve négative : les indices promis comme utiles aboutissent à une situation pénible. Le corps confirme l’échec sans expliquer exactement sa cause. Cette dissociation est essentielle : **savoir que l’on s’est trompé n’indique pas encore comment obtenir une orientation vraie**.
+
+## III. La patrie introuvable : de la géographie à la citoyenneté
+
+### 9. Le renversement de la question d’accueil [A]
+
+Au vers 9, Pisthetairos ne sait même plus *hopou gês esmen*, sur quelle terre ils se trouvent. Puis Euelpides demande s’il pourrait retrouver sa patrie de cet endroit (v. 10). Les deux propositions opposent un présent sans coordonnées à un passé sans chemin de retour. L’exil est double : on ne sait plus où aller ; on ne sait plus exactement d’où l’on pourrait revenir.
+
+L’action n’énonce pas une perte effective de la citoyenneté. Les protagonistes sont ensuite explicitement déclarés citoyens athéniens (v. 33–35). L’éloignement géographique a donc une fonction critique : il dissocie l’identité civile d’un espace vécu comme habitable.
+
+### 10. Exékestidès : une plaisanterie qui ne vaut pas état civil [A/L]
+
+Pisthetairos convoque Exékestidès (v. 11) dans une pointe sur l’impossibilité de retrouver sa patrie. La présence du nom dans le vers est certaine. En revanche, on ne peut déduire du seul sarcasme toute la généalogie réelle, la nationalité juridique ou le dossier administratif d’un individu historique. Les komôidoumenoi, personnes que la comédie livre au rire nominal, sont des objets de satire et ne peuvent servir sans confrontation comme registres civiques.
+
+Cette précaution vaut aussi pour le personnage de Sakas aux vers 30–32. La voix dramatique décrit une personne exclue ou voulant entrer de force dans une citoyenneté ; elle ne fournit pas un acte judiciaire permettant de confirmer chaque détail biographique. Le texte intéresse avant tout la manière dont une communauté se représente ses frontières.
+
+### 11. La patrie ne suffit plus comme lieu de retour [I]
+
+Le trait le plus original de la situation n’est pas qu’Athènes serait nécessairement détestée. C’est que deux hommes se retirent d’une cité dont ils continuent à reconnaître, un peu plus tard, la grandeur et la prospérité. L’expression d’un désir de départ n’équivaut donc pas à une condamnation totale. Le rapport à la cité se compose de bénéfices admis, de frustrations spécifiques et d’un imaginaire d’issue.
+
+Le prologue rend visible une possibilité que la plupart des discours patriotiques effacent : rester attaché à une institution tout en jugeant insupportable une de ses pratiques. L’humour tient au fait que les personnages n’ont pas trouvé de remède sérieux : ils ont échangé les procès contre une confiance grotesque dans deux animaux achetés.
+
+## IV. Philocratès : un savoir vendu, une compétence non garantie
+
+### 12. Un vendeur nommé, non un dossier commercial reconstituable [A/L]
+
+Aux vers 13–19, Euelpides accuse Philocratès de leur avoir vendu les deux oiseaux. Le texte grec dit *ho pinakopôlês Philokratês*. Le composé *pinako-pôlês*, lié à *pinax* (planche, tablette, plateau, image selon les contextes) et à *pôlein* (vendre), ne correspond pas lexicalement à un simple *ornithopôlês* « marchand d’oiseaux ». La scène établit qu’il a vendu ces oiseaux ; certaines traductions développent l’expression en vendeur utilisant des plateaux. Il convient de ne pas transformer une traduction descriptive en équivalence lexicale exacte.
+
+Aucune archive de ce commerce, aucun contrat et aucune biographie indépendante de Philocratès ne sont fournis par la pièce. L’étude ne lui attribue ni profession réglementée ni monopole réel du savoir ornithologique athénien. Sa fonction est dramatique : il **prétend** que des animaux vendus peuvent retrouver Térée.
+
+### 13. *Ephaske* et *phrasein* : promettre de montrer n’est pas savoir [A/É]
+
+Le vers 15 oppose *ephaske*, « il soutenait, il assurait », à *phrasein*, le verbe de l’indication ou de l’explication. Le marchand est rapporté par les acheteurs : nous n’entendons pas son argument original. La tournure donne pourtant toute la mécanique du dispositif : une parole de garantie est transmise, puis confrontée à l’expérience du déplacement.
+
+On peut faire ici une comparaison prudente avec l’économie du prestige dans la cité : quelqu’un est reconnu capable d’orienter avant que le résultat soit observable. L’achat peut faire croire que la compétence a été transférée. Or posséder un instrument n’est pas posséder le savoir nécessaire à son interprétation. Le comique ne suppose pas une doctrine économique explicite d’Aristophane ; il rend palpable l’écart entre **prix payé** et **service obtenu**.
+
+### 14. L’asymétrie d’un obole et de trois oboles [A/I]
+
+Le vers 18 mentionne un *koloios* payé une obole et l’autre oiseau trois oboles, autrement dit un prix triple. La précision numéraire donne une matérialité à la transaction. Les prix ne prouvent pas la valeur marchande moyenne des corvidés à Athènes, pas plus qu’ils n’autorisent à calculer un revenu de marchand.
+
+L’écart de prix peut nourrir une inférence comique : le supplément versé semble n’avoir acheté aucun meilleur résultat. Mais il faut distinguer la valeur d’échange proclamée et la valeur d’usage réellement éprouvée. Aucun vers ne dit que l’oiseau le plus cher aurait été vendu sous garantie de meilleures performances ; c’est l’échec partagé qui donne au contraste une portée critique.
+
+### 15. Le nom de Tharréleidès et le rire de l’allusion [A/L]
+
+Le *koloios* est associé à Tharréleidès au vers 17. Le texte recourt ici à un nom propre et à un jeu de filiation comique. Faute de témoignages suffisants, la présentation ne transforme pas cette mention en preuve d’une lignée zoologique, d’une transaction familiale ou d’une personnalité historiquement identifiée. L’allusion pouvait avoir pour des spectateurs contemporains une résonance que les sources conservées ne permettent plus de reconstruire entièrement.
+
+L’éditeur ne doit pas compenser ce manque par une certitude fabriquée. La philologie positive consiste parfois à **conserver une obscurité** au lieu de créer un référent séduisant mais invérifiable.
+
+### 16. Ce que les oiseaux savent faire : mordre [A/I]
+
+Le vers 19 limite leur compétence apparente à l’action de mordre. Cette preuve de vitalité animale a une efficacité théâtrale certaine : leur corps est actif, mais l’activité n’a pas la fonction attendue. Les oiseaux ne sont ni nécessairement stupides ni « faux » au sens propre ; ce sont les hommes qui leur ont attribué un rôle instrumentalisé.
+
+Le motif inverse l’image d’un monde animal naturellement proche d’un savoir divin. Un animal qui mord n’est pas pour cela privé de toute capacité sensible ; il contredit seulement la fonction que des acheteurs désiraient lui confier. La différence entre échec de la mission et échec de toute intelligence est déjà un enjeu de rigueur interprétative.
+
+## V. Dire « route » dans un endroit sans passage
+
+### 17. *Hodos* et *atrapos* : le refus du terrain [A/É]
+
+Aux vers 20–22, les voyageurs n’aperçoivent ni *hodos*, une route praticable, ni *atrapos*, un sentier. L’opposition de deux mots proches ne doit pas être réduite à une décoration verbale : elle ferme deux degrés de possibilité, depuis la voie reconnue jusqu’à la moindre trace de passage.
+
+L’expérience du monde extérieur résiste ainsi aux interprétations. Même si le cri de l’oiseau avait été correctement entendu, il faudrait encore que le terrain fournisse quelque chose que l’on puisse suivre. Aristophane place un obstacle empirique devant une confiance sémiotique. Le spectateur ne sait pas si une route existe hors scène ; il sait que **les personnages ne l’identifient pas là où ils cherchent**.
+
+### 18. Une corneille qui ne dit plus la même chose [A/É]
+
+Au vers 24, Pisthetairos remarque que l’oiseau ne *krôzei* pas les mêmes choses maintenant qu’auparavant : *ou tauta krôzei ... nyn te kai tote*. C’est une des formulations les plus fécondes du prologue. Elle présuppose qu’une variation acoustique ou comportementale aurait une signification stable et comparable dans le temps. Pourtant aucun code n’a été établi.
+
+Pour les interprètes humains, la différence entre deux cris devient une différence entre deux contenus de connaissance. Il y a là un saut logique. Aristophane n’explique pas de technique d’ornithomancie ; il montre des hommes qui projettent sur l’animal la continuité d’une conversation. Ce modèle est d’autant plus comique que le spectateur n’a pas de traduction indépendante pour arbitrer entre leurs lectures.
+
+### 19. *Legein peri tês hodou* : la fiction d’un discours animal [A/É/I]
+
+Euelpides demande ce que dit la corneille « au sujet de la route » (v. 23–25). La syntaxe attribue à l’animal une compétence thématique : il pourrait parler de l’objet pratique « route ». Mais la réponse se replie vers une douleur immédiate : la corneille voudrait, semble-t-il, manger les doigts de Pisthetairos (v. 26). Le prétendu discours d’orientation se résout en prédation triviale.
+
+Cette conversion rétablit la distance entre l’animal vivant et le langage projeté sur lui. L’interprète peut toujours élaborer un sens ; rien ne garantit que ce sens soit commun à l’émetteur. Les modernes parleraient de surinterprétation. Employer ce mot est une **analogie philosophique**, non la découverte d’une discipline grecque de la sémiotique avant la lettre.
+
+### 20. La formule *es korakas* et le retour de l’insulte [A/I]
+
+Au vers 28, Euelpides joue sur le désir d’aller vers les corbeaux ou oiseaux et l’expression grecque familière *es korakas*, qui peut signifier envoyer quelqu’un au diable, vers les corbeaux. Le double sens rend l’objet de la quête suspect : l’ailleurs espéré ressemble à l’endroit où l’on expédie ce que l’on veut voir disparaître.
+
+La polysémie ne confirme pas que les voyageurs seraient officiellement bannis. Au contraire, le passage civique à venir insiste sur leur départ volontaire. Elle explique que l’émigration soit mise en scène comme la literalisation d’une formule d’exaspération. Le désir de vivre ailleurs naît d’une parole de colère transformée en itinéraire absurde.
+
+### 21. Trois contrôles négatifs [L]
+
+Le prologue ne prouve pas que les oiseaux étaient considérés incapables d’orientation dans les savoirs grecs. Il ne prouve pas non plus qu’il existait un marché important d’« oiseaux-guides » pour voyageurs, ni que la scène vise une corporation identifiée de devins. La stratégie comique peut tirer parti de croyances, d’analogies et de conventions sans les documenter comme pratiques ordinaires.
+
+Il faut surtout éviter une équation rapide : présence d’un oiseau = présage ; présage = religion ; religion = erreur. Les oiseaux de cette scène sont des **guides achetés dans une fiction**, non des messagers divins explicitement reconnus dans une procédure rituelle. La comparaison avec les présages homériques interviendra donc sous réserve.
+
+## VI. *Astoï met’ astôn* : des citoyens partent sans être chassés
+
+### 22. Une adresse à la communauté présente [A/É]
+
+Au vers 30, Euelpides quitte provisoirement le dialogue pratique pour s’adresser aux assistants : *ôndres hoi parontes en logôi*. L’énonciation change de registre. Le personnage explique aux spectateurs pourquoi la quête d’un tel lieu semble justifiée. Les interlocuteurs animaux, silencieux ou bruyants, sont remplacés par un public auquel on prête la compréhension des raisons.
+
+L’effet est structurel. L’ouverture échouait par déficit de signes interprétables ; la suite cherche un accord par **explication adressée**. Celui qui ne sait pas lire son corvidé doit désormais convaincre des humains. Il y a contraste entre l’incertitude de l’indice et la précision de la justification civique, sans que celle-ci soit garantie vraie par sa seule éloquence.
+
+### 23. La métaphore de la maladie civique [A/É]
+
+Les deux citoyens se disent atteints d’une *nosos*, une maladie, inverse de celle attribuée à Sakas (v. 30–32). Ce langage médical est une opération de comparaison et de blâme, non le diagnostic d’une pathologie réelle. Son enjeu n’est pas d’établir les antécédents de Sakas mais d’opposer un homme qui désire entrer dans la communauté à des hommes qui veulent en sortir.
+
+La rhétorique de l’opposition radicalise l’étrangeté du désir. L’exclusion ordinaire est subie ; ici, une appartenance reconnue semble devenir un poids. L’expression « maladie inverse » ne signifie pas qu’Aristophane tient la citoyenneté pour malade ; elle donne une voix grotesque à un malaise dans l’usage concret des institutions.
+
+### 24. *Phylê*, *genos*, *astos* : trois niveaux à ne pas confondre [A/É]
+
+Aux vers 33–35, les personnages revendiquent des appartenances : *phylê* (tribu civique), *genos* (lignée, origine ou groupe de descendance selon l’emploi), et *astos* (membre de la communauté civique, citoyen dans ce contexte). Ils se définissent comme *astoi met’ astôn*, des citoyens parmi les citoyens. La phrase n’est pas un exposé technique complet du droit athénien : elle articule un privilège reconnu à l’acte paradoxal de s’en éloigner.
+
+Un historien doit s’interdire d’affirmer à partir de cette seule formule que tout citoyen athénien devait appartenir à un *genos* au sens institutionnel restrictif du terme. Le vocabulaire du personnage joue sur des marqueurs d’honorabilité. La scène juxtapose précisément ce capital statutaire et une volonté d’échapper au lieu qui lui donne sens.
+
+### 25. Deux pieds deviennent des ailes [A/É/I]
+
+L’expression *aneptomesth’ ek tês patridos amphoin podoin* (v. 35) associe un départ hors de la patrie au geste de s’envoler « avec nos deux pieds ». Le paradoxe linguistique donne la priorité à l’image aviaire avant la métamorphose politique. Les hommes ne possèdent pas encore d’ailes, mais ils vivent leur séparation comme un envol.
+
+L’ironie est nette : ils marchent au prix d’ongles abîmés ; ils déclarent s’envoler. Le langage anticipe un monde dont les corps révèlent immédiatement le caractère problématique. La comédie produit ici non seulement des métaphores sur les oiseaux, mais des **écarts entre les métaphores et les pratiques**.
+
+### 26. Une cité que l’on loue pour mieux la quitter [A/I]
+
+Les vers 36–38 excluent la haine pure d’Athènes : la cité est assez grande, naturellement florissante, ouverte à tous pour y déposer leur argent — mot qui bascule dans la satire des paiements liés aux affaires. La syntaxe de l’éloge se retourne vers une plainte fiscale et judiciaire. Les personnages n’abandonnent pas toute valeur à la patrie ; ils en dénoncent un usage de l’argent et de la parole.
+
+La formule « ouverte à tous » n’implique pas que l’égalité politique y était universelle. Le vers joue sur la possibilité de faire entrer de l’argent dans des circuits liés au procès ; il n’abolit ni les exclusions statutaires ni les frontières du corps civique. La scène fabrique une contradiction persuasive : richesse et grandeur ne suffisent pas à garantir une vie jugée bonne.
+
+### 27. Les cigales et les plaideurs : une comparaison sonore [A/É]
+
+Aux vers 39–41, les *tettiges* (cigales) chantent sur les branches durant un ou deux mois, alors que les Athéniens « chantent » au sujet des procès toute leur vie. La durée du chant animal est limitée ; celle de la querelle civique semble illimitée. Le lexique de la voix met en rapport deux formes de bruit, l’une naturelle et saisonnière, l’autre institutionnelle et répétitive.
+
+Cette image ne représente pas une enquête quantitative sur la durée effective des litiges. Elle n’autorise pas à compter les affaires intentées par chaque citoyen. Le génie comique consiste à convertir l’activité de justice, qui se définit officiellement comme règlement des conflits, en **production permanente d’un bruit sans résolution**. On retrouve une interrogation sur l’orientation : le langage progresse-t-il vers une décision, ou se reproduit-il comme un cri ?
+
+## VII. Panier, marmite, myrte : s’installer n’est pas s’émanciper de la société
+
+### 28. Un petit inventaire qui contredit le rêve d’apesanteur [A]
+
+Aux vers 42–45, les voyageurs présentent leurs objets : *kanoun* (panier), *chytra* (marmite), *myrrinas* (branches de myrte). Ce ne sont pas de simples signes arbitraires. Leur présence rappelle que l’installation exige des usages matériels, alimentaires, domestiques et possiblement rituels. Ils veulent un endroit « sans affaires » mais portent déjà des instruments d’une vie organisée.
+
+Le panier et le myrte peuvent, dans d’autres contextes grecs, participer à des usages cérémoniels ; la marmite appartient aux équipements ordinaires de préparation. Cependant, le prologue ne formule pas explicitement que ces trois objets servent ici un sacrifice déjà planifié. Toute restitution d’une cérémonie initiale doit donc être distinguée d’un texte qui montre d’abord des choses transportées.
+
+### 29. *Topos apragmôn* : la politique de l’absence d’affaires [A/É]
+
+Le vers 44 formule l’objet de la recherche : *topon apragmona*, un lieu sans agitation ni démarches, sans affaires envahissantes. L’adjectif est construit sur le thème de *pragma*, affaire, action, préoccupation. Le traduire par « apolitique » serait trop déterminé ; par « tranquille » seulement, parfois trop faible. Les deux citoyens recherchent moins un paysage naturel qu’un cadre où les activités imposées par la cité ne viendraient plus gouverner leur existence.
+
+La construction du mot est essentielle. *A-pragmôn* ne nie pas toute action humaine. Pour vivre quelque part, il faut manger, transporter, rencontrer et régler des différends. Le rêve d’un espace délivré de *pragmata* devient potentiellement contradictoire dès l’arrivée. A. M. Bowie, dans le résumé publié de son chapitre sur les *Oiseaux*, relève précisément que le lieu sans ennuis annoncé au début est soumis par l’œuvre à une déconstruction profonde.
+
+### 30. *Kathidrythente* : l’installation est un acte [A/É/I]
+
+Le verbe du vers 45, *kathidrythente*, introduit la perspective de s’installer ou de s’établir. Il fait entrer dans la recherche une dimension active et durable. Chercher à quitter la vie procédurière n’équivaut pas à disparaître dans l’indétermination. Il faut prendre place, construire un foyer, se maintenir.
+
+La contradiction ne prouve pas qu’aucun mode de vie hors de la polis soit imaginable chez les Grecs. Elle fait apparaître, à l’intérieur de la scène, que l’autonomie désirée doit passer par des médiations que le rêve voudrait minimiser : outils, ressources, voisinage, reconnaissance d’un espace et relations aux autres.
+
+### 31. Une économie de la fuite, non la fondation annoncée d’une colonie [L]
+
+Les voyageurs ne proclament pas, aux vers 1–74, un projet colonial soumis à décision de l’Assemblée, un partage de terres ou l’établissement de lois d’une nouvelle polis. Le développement ultérieur conduira à une fondation spectaculaire ; mais lire cette dernière comme déjà décidée dans le prologue effacerait la surprise de l’intrigue. Au début, l’objectif est de **trouver** un lieu convenable ; le moyen est de consulter un informateur supposé mieux connaître les terres.
+
+Cette distinction protège la continuité de MYTHOS : la fondation de la cité, les experts expulsés et l’institutionnalisation des frontières ont déjà leurs études. Le présent volume examine l’étape antérieure et autonome de la recherche de renseignements.
+
+## VIII. Du commerce de signes à la recherche d’un témoin compétent
+
+### 32. Pourquoi chercher Térée ? [A]
+
+Aux vers 46–48, les voyageurs expliquent vouloir rencontrer Térée, devenu huppe, afin de lui demander s’il a déjà vu, lors de ses vols, une ville de la sorte. L’argument invoque son expérience : un être ayant connu la vie humaine et parcouru le monde comme oiseau pourrait comparer des sites que les Athéniens ne connaissent pas. L’information espérée n’est plus une direction mécanique, mais une **évaluation de plusieurs mondes habitables**.
+
+La double expérience attribuée à Térée est décisive. Les deux animaux achetés devaient conduire vers lui ; ils ne sont pas présentés comme les auteurs de cette comparaison politique. La cible de la quête n’est donc pas n’importe quel oiseau, mais un être dont la trajectoire supposée relie des univers.
+
+### 33. Deux statuts de savoir animal [I]
+
+La pièce distingue au moins deux modèles. Le premier consiste à faire d’un corvidé une sorte de boussole vivante, sans savoir comment vérifier ses instructions. Le second consiste à chercher un témoin qui aurait vu divers lieux et pourrait répondre à des questions. La seconde solution ne garantit pas davantage une vérité certaine ; elle introduit pourtant la possibilité d’un interrogatoire et d’une explication contradictoire.
+
+L’originalité politique de l’enchaînement se trouve dans cette évolution : **on passe du signe à lire à l’interlocuteur à questionner**. Aucune réflexion longue sur la souveraineté n’est encore formulée. Mais les conditions minimales d’une enquête commencent à se dessiner : chercher une personne compétente, demander l’objet de son savoir, interpréter sa réponse et en vérifier l’utilité.
+
+### 34. *Pynthesthai* : vouloir s’informer [A/É]
+
+Le syntagme du vers 47 comporte *pythesthai*, s’informer ou apprendre auprès de quelqu’un, avec l’expression de la demande adressée à Térée. Le choix verbal est significatif par rapport à la confiance initiale dans des cris. Les voyageurs envisagent un rapport question-réponse et non la simple mise en mouvement automatique par un animal.
+
+L’historien doit toutefois résister à une lecture trop rationaliste : Térée est une figure issue d’un récit mythique, non un géographe attesté. La recherche d’une conversation fondée sur l’expérience prend place dans une fable de métamorphose. Le texte fait donc coexister une critique pratique des mauvais signes et une confiance fictionnelle dans un expert impossible.
+
+### 35. Le paradoxe de la compétence hybride [I]
+
+Pourquoi un ex-humain devenu oiseau serait-il mieux renseigné que les oiseaux vendus ? Parce que l’homme se représente le vol comme une capacité d’observer le territoire à grande échelle, tandis que l’expérience humaine permettrait de savoir ce qu’est une ville acceptable. Cette justification appartient à la logique interne du personnage, non à une théorie zoologique ancienne prouvée.
+
+L’hybridation de la compétence est susceptible de produire des solutions séduisantes mais trompeuses. La ville cherchée n’est pas seulement un endroit visible de haut : elle suppose une organisation des relations. Même le regard surplombant peut manquer les conflits qu’il ne connaît pas de l’intérieur. Ce point deviendra important pour lire, sans les répéter, les volumes sur la fondation et la souveraineté aérienne.
+
+## IX. Un signe devient utile lorsqu’il conduit à une épreuve
+
+### 36. Le retour de *phrazein* aux vers 49–52 [A/É]
+
+Vers 49–50, Pisthetairos observe que sa corneille semble maintenant indiquer quelque chose vers le haut : *anô ti phrazei*. Le même champ verbal qui avait soutenu la promesse de Philocratès revient sur scène. Pourtant la situation n’est pas identique. Les deux oiseaux donnent apparemment une orientation convergente vers une hauteur rocheuse, et les voyageurs associent cette direction à la présence possible d’autres oiseaux.
+
+L’indication n’est plus suivie sans examen. Euelpides propose de produire un bruit afin de savoir si des oiseaux se trouvent réellement là. Il ne suffit pas de croire l’interprétation : une réaction audible du lieu recherché pourrait la soutenir ou l’infirmer. La transition est modeste, mais méthodologiquement fondamentale.
+
+### 37. *Eisometha* : une promesse de constat [A/É]
+
+Au vers 52–53, le texte emploie *eisometha*, « nous le saurons », en liant la connaissance à un geste qui produira du bruit. On passe de la présomption d’une signification à une procédure d’essai. La scène n’érige pas une théorie expérimentale systématique ; elle met sous les yeux des spectateurs une manière plus contrôlable de répondre à l’incertitude.
+
+La portée philosophique de ce minuscule changement dépasse son apparence. Lorsque des signes sont ambigus, la seule accumulation de commentaires peut prolonger indéfiniment le doute. Produire un événement testable, même grossier, modifie la situation. La comédie renverse l’échelle : le savoir peut commencer par frapper une pierre plutôt que par croire une parole prestigieuse.
+
+### 38. Le coup de pied, la tête et la pierre [A/I]
+
+Pisthetairos suggère de frapper la roche du pied ; Euelpides riposte qu’il serait plus bruyant de la frapper avec la tête de son camarade ; enfin ils optent pour une pierre (v. 53–57). L’invention technique reste soumise au comique des corps. Un geste conçu pour obtenir un renseignement devient une occasion de tourner en ridicule celui qui l’exécute.
+
+Il ne faut pas déduire des vers une didactique triomphante de la raison. Les protagonistes demeurent maladroits et agressifs. Mais l’idée de susciter une réponse du lieu est qualitativement différente de la supposition initiale que le cri des corvidés livrait déjà le trajet. L’épreuve peut réussir même lorsque ceux qui l’inventent sont ridicules.
+
+### 39. Faire répondre un lieu [I]
+
+La scène emploie l’espace théâtral comme un partenaire de dialogue. La roche, l’ouverture et les sons rendent possible la venue d’un occupant. Les personnages ne demandent plus à un signe isolé de porter tout le poids de la décision : ils cherchent à déclencher une confrontation avec un être qui pourra parler. L’espace supposé vide devient relationnel.
+
+Cette opération a une portée civique indirecte : chercher un lieu où s’établir n’est pas seulement décider selon son désir. Il faut découvrir qui l’occupe et comment lui parler. Dans le prologue, cette nécessité se manifeste avant les discours sur l’intérêt collectif et avant l’organisation d’une autorité politique.
+
+## X. *Paï*, *epopoi* : la langue humaine face à l’appel des oiseaux
+
+### 40. Le réflexe domestique [A/É]
+
+Euelpides frappe et appelle *paï, paï* (v. 57–58), terme qui peut signifier « garçon » et qui sert aussi à appeler un domestique dans diverses scènes grecques. Il s’adresse au monde aviaire à travers une convention domestique humaine. Le verbe *kalein* et la réplique de Pisthetairos déplacent immédiatement l’enjeu : quel est le nom d’appel convenable pour un être qui n’est plus simplement humain ?
+
+Le texte ne prouve pas que les serviteurs de toutes les maisons athéniennes étaient appelés par un rituel identique. Il utilise un usage immédiatement reconnaissable pour faire apparaître un décalage culturel.
+
+### 41. *Epopoi* : le vocatif devient un bruit d’oiseau [A/É]
+
+Pisthetairos corrige son compagnon : au lieu de *paï*, il faudrait dire *epopoi* (v. 58–60), appel qui fait jouer le nom de la huppe, *epops*, et une sonorité d’onomatopée. Le langage humain n’est pas abandonné ; il se déforme pour essayer de convenir à un interlocuteur métamorphosé. L’acteur peut donc transformer l’appel domestique en jeu sonore partagé avec le public.
+
+L’effet ne relève pas d’un dictionnaire du « langage de la huppe » que l’on pourrait reconstruire. C’est une convention performée ; elle rappelle que les langues et les sons prennent sens par une scène d’adresse. Les deux hommes ont commencé en croyant recevoir des messages d’oiseaux ; ils doivent désormais produire un appel que d’autres pourront reconnaître.
+
+### 42. Qui a le droit de nommer ? [I]
+
+Dans la première partie, les animaux étaient conçus comme des instruments achetés. Dans la seconde, les hommes découvrent qu’ils devront aussi se présenter et se faire reconnaître. La différence est politique : la reconnaissance ne se réduit pas à la possession d’un objet, pas même vivant. On ne commande pas impunément à un monde étranger de devenir le simple prolongement de ses préférences.
+
+Une lecture attentive de la scène évite pourtant de faire des personnages les représentants exemplaires d’une éthique moderne du respect animal. Le texte contient des menaces, des insultes et des jeux de domination. Ce qu’il montre, au plus près, est une rencontre où **les appellations antérieures ne fonctionnent plus sans ajustement**.
+
+### 43. L’oiseau-serviteur entre en scène [A]
+
+Vers 60, un être qui se présente comme le serviteur de la huppe répond à l’appel. Il redoute d’abord des chasseurs d’oiseaux et menace les visiteurs. Le soupçon inverse la perspective initiale : deux humains qui pensaient utiliser des oiseaux pour s’orienter sont à présent interprétés par un oiseau comme une possible menace pour les siens.
+
+Dans les vers qui suivent, les visiteurs tentent de déjouer cette qualification en plaisantant sur leur propre nature d’oiseaux. Ils cherchent à obtenir une identité recevable dans le nouveau monde, sans posséder effectivement cette identité. La scène ne propose pas encore une citoyenneté des oiseaux ; elle soumet les entrants à une question primitive : **qui êtes-vous, et pourquoi venez-vous ?**
+
+### 44. Une dépendance humaine subsiste dans le monde non humain [A/I]
+
+Le serviteur indique ensuite qu’il est devenu oiseau pour accompagner son maître métamorphosé. L’ancienne relation domestique se retrouve sous une forme fabuleuse. La promesse d’un ailleurs où les affaires humaines disparaîtraient rencontre donc immédiatement une survivance de hiérarchie et de service.
+
+Il serait excessif d’en faire la preuve d’une constitution esclavagiste de la cité aviaire. Le dialogue atteste une relation de maître et serviteur dans la maisonnée de Térée, non l’ordre social futur de tous les oiseaux. Mais cette simple survivance suffit à compliquer le rêve de retrouver une nature pure où les obligations humaines seraient abolies.
+
+## XI. Comparaison contrôlée : les oiseaux qui indiquent chez Homère et chez Aristophane
+
+### 45. *Oiônos* dans l’*Iliade* : le signe est discuté [A]
+
+Au chant XII de l’*Iliade*, vers 200–243, les Troyens voient un aigle portant un serpent qui le mord ; Polydamas interprète l’événement comme un avertissement contre une entreprise militaire, tandis qu’Hector refuse de fonder son choix tactique sur le présage et affirme, au vers 243, la primauté de défendre la patrie. Il existe ici un signe observé, une interprétation explicite, une contre-interprétation pratique et une décision.
+
+La différence avec *Les Oiseaux* est nette. Chez Homère, le présage apparaît dans un contexte de guerre et de relation à Zeus ; chez Aristophane, deux corvidés ont été achetés pour conduire vers un individu mythique. Aucun officiant identifié ne proclame un message divin dans le prologue comique. L’analogie est donc **épistémique**, non rituelle : le comportement d’un oiseau ne fournit jamais, sans un interprète, la décision qu’on prétend en tirer.
+
+### 46. La direction droite et gauche : deux contextes [A/I]
+
+Dans le discours d’Hector (*Iliade* XII, 237–240), la direction droite ou gauche du vol est explicitement mentionnée avant le refus du signe. Dans le premier vers des *Oiseaux*, Euelpides demande s’il faut aller tout droit vers un arbre. Rapprocher ces détails permet d’interroger les fonctions politiques de l’orientation, mais ne démontre pas qu’Aristophane cite le passage homérique.
+
+La méthode comparative impose de distinguer un **répertoire culturel partagé** — animaux, directions, signes, décisions — d’une intertextualité formellement établie. Sans signal verbal distinctif, le rapprochement reste analytique. Le motif de la droite et de la gauche n’a pas la même position textuelle, et les protagonistes ne portent pas le même enjeu narratif.
+
+### 47. Un présage, un instrument, un témoin : trois régimes [I]
+
+On peut distinguer : (a) le présage soumis à une lecture religieuse ; (b) l’instrument auquel on demande de guider un déplacement ; (c) le témoin compétent auquel on demande de rapporter les expériences qu’il a faites. Polydamas se situe principalement dans le premier régime, les corvidés achetés dans le second, Térée dans le troisième. Ce tableau n’est pas une classification antique attestée, mais une construction d’analyse.
+
+Elle aide à comprendre pourquoi le titre général *Les Oiseaux* recouvre plusieurs systèmes de savoir. Le même animal peut être un signe pour la divination, une proie, un compagnon, un objet d’échange, un personnage de théâtre, un habitant potentiel d’une cité ou un souverain mythique. Le risque méthodologique serait de fondre tous ces rôles dans une unique « symbolique de l’oiseau ».
+
+## XII. Hegel, Nietzsche, Vernant, Détienne : quatre lectures non anachroniques
+
+### 48. Hegel : le savoir de soi n’abolit pas la médiation [P]
+
+On peut confronter la scène à la pensée hégélienne de la médiation et de la reconnaissance, notamment dans la *Phénoménologie de l’esprit*, sans prétendre qu’Hegel a commenté précisément ces vers. Les voyageurs disposent d’une certitude subjective : ils croient savoir où leurs oiseaux les mènent. Le terrain et les réactions de leur entourage résistent à cette certitude. Leur expérience fait apparaître le besoin d’une médiation vérifiable entre désir, perception et savoir.
+
+L’analogie ne transforme pas Aristophane en précurseur direct de la dialectique hégélienne. Le comique refuse plutôt de donner immédiatement au sujet un triomphe de la connaissance. La vérité de l’échec reste visible dans des ongles abîmés, des cris incohérents et des pierres frappées ; l’idée ne se substitue pas à ces détails.
+
+### 49. Hegel : une comédie de l’autonomie ambiguë [P]
+
+La réflexion hégélienne sur la comédie, dans sa philosophie de l’art et de la religion, peut servir de comparaison à la liberté prise par des individus vis-à-vis des autorités substantielles. Mais les personnages ne gagnent pas une souveraineté en se détachant d’Athènes : ils cherchent aussitôt de nouvelles autorités, du vendeur Philocratès à Térée. Leur désir d’indépendance fabrique de nouvelles dépendances.
+
+La leçon n’est pas que toute autonomie serait illusoire ; elle est que l’autonomie ne consiste pas en une exemption magique de toute institution ou de tout savoir transmis. C’est une problématique philosophique ajoutée au texte, non une doctrine explicitement proclamée par le chœur d’Aristophane.
+
+### 50. Nietzsche : soupçonner les valeurs de la fuite [P]
+
+Une lecture inspirée par Nietzsche peut interroger la valeur du souhait « ne plus avoir d’affaires ». La fuite des procès naît-elle d’une affirmation vigoureuse d’une meilleure vie ou d’une fatigue qui voudrait que les conflits disparaissent sans devoir être réglés ? Le texte laisse ouvertes ces deux directions. Les deux hommes se plaignent de la cité mais admirent encore sa grandeur et sa prospérité ; ils ne cessent pas de vouloir agir.
+
+La comparaison doit rester libre de l’anachronisme qui ferait d’eux des personnages « nietzschéens ». Nietzsche ne fournit pas une clef philologique des vers grecs. Ses interrogations sur la valeur des jugements, la santé des formes de vie et la critique des morales permettent simplement de poser des questions qui ne réduisent pas la scène à une demande de confort privé.
+
+### 51. Nietzsche : le rire qui empêche la posture du sage [P]
+
+Ce qui distingue le théâtre d’un traité est que le sujet philosophique reçoit immédiatement une forme ridicule. Celui qui devrait décider n’arrive pas à choisir une route ; celui qui se vanterait d’indépendance paie pour deux guides incapables. Le rire empêche d’idéaliser l’émigré comme héros authentiquement supérieur à sa société.
+
+La comparaison avec les réflexions nietzschéennes sur le rire et la généalogie des valeurs ne sert pas à attribuer à Aristophane un scepticisme universel. Dans la pièce, l’humour n’empêche pas un projet politique puissant de se constituer plus tard ; il ouvre seulement ce projet sur une scène dont les capacités cognitives sont fragiles.
+
+### 52. Vernant : rendre publique une querelle de savoir [P]
+
+Jean-Pierre Vernant, notamment dans *Les Origines de la pensée grecque* et *Mythe et pensée chez les Grecs*, a lié l’histoire des formes intellectuelles grecques à leurs conditions sociales et à la publicité des débats, sans confondre cette perspective générale avec l’explication de chaque vers comique. La scène d’Aristophane déploie dans une institution publique des conflits sur ce qui vaut information, conseil ou preuve.
+
+Les personnages se détournent des procédures judiciaires, mais le théâtre rétablit un public capable de voir leurs erreurs. La publicité est ici une condition de l’ironie : une assurance que les protagonistes ne parviennent pas à mettre à l’épreuve apparaît insuffisante aux yeux des spectateurs. Cette observation n’oblige pas à déclarer que le public athénien disposait d’une vérité commune sur les oiseaux ou sur les procès.
+
+### 53. Détienne et Vernant : *mêtis* contre confiance automatique [P]
+
+Dans *Les Ruses de l’intelligence. La mètis des Grecs* (1974), Marcel Détienne et Jean-Pierre Vernant étudient différentes formes d’intelligence souple, située, capable d’anticiper et de se transformer. Ce cadre peut éclairer le contraste entre obéissance mécanique aux animaux et invention de tests pratiques par les voyageurs. Le passage du cri au bruit volontairement produit peut se lire comme une petite adaptation rusée.
+
+Il serait pourtant incorrect d'affirmer que le mot *mêtis* figure dans cette portion du prologue ou qu’elle en expose la doctrine. Les références modernes fournissent un instrument conceptuel ; la source première demeure le mouvement matériel de la scène. Une ruse réussie peut naître chez des personnages ridicules sans leur conférer le titre de sages.
+
+### 54. Détienne : l’autorité de celui qui dit vrai [P]
+
+La question des régimes de parole étudiée par Détienne dans *Les Maîtres de vérité dans la Grèce archaïque* offre un autre contrôle : qui a qualité pour affirmer que l’animal indique quelque chose ? Le vendeur prétend ; l’acheteur interprète ; l’espace résiste ; le témoin à venir devra être interrogé. Il ne s’agit pas d’assimiler les marchands à des devins ou à des poètes inspirés, mais d’identifier des **positions concurrentes d’autorité**.
+
+Cette lecture évite le dualisme trop confortable selon lequel la comédie mettrait d’un côté une croyance irrationnelle et de l’autre une raison scientifique déjà accomplie. Elle montre plutôt une circulation d’énoncés dont la validité varie selon leurs conditions de production, leur usage et l’épreuve rencontrée.
+
+## XIII. Les limites du commentaire : cinq hypothèses à suspendre
+
+### 55. Philocratès était-il une personne historiquement identifiable ? [L]
+
+Le nom est transmis ; l’équivalent d’une biographie professionnelle indépendante ne l’est pas dans le corpus ici contrôlé. La présence d’un vendeur dans un texte comique atteste sa fonction dans la fiction, non le détail d’un métier ou d’une carrière commerciale. Même s’il existait des homonymes connus ailleurs, aucune identification ne serait recevable sans des sources supplémentaires spécifiques.
+
+### 56. Les corvidés étaient-ils des accessoires vivants ? [H/L]
+
+Les paroles indiquent la présence de deux oiseaux sur scène, mais ne permettent pas de déterminer sûrement si la représentation originale utilisait des animaux vivants, des objets manipulés ou une autre convention matérielle. Les différentes mises en scène modernes peuvent choisir une réponse ; ce choix ne fournit pas rétroactivement une attestation pour 414.
+
+Les jeux de coups de bec et les réactions rendent certains effets visuels probables, sans en fixer la technique. Un audit d’iconographie doit donc les désigner comme reconstitution interprétative et non comme photographie impossible du spectacle antique.
+
+### 57. Une parodie de la divination institutionnelle ? [H/L]
+
+La scène peut évoquer à un spectateur grec une culture plus vaste d’interprétation des oiseaux. Rien dans les vers 1–74 ne présente cependant ces deux animaux comme un oracle envoyé par Zeus, ni Philocratès comme un spécialiste officiel d’ornithomancie. Faire de l’épisode une « réfutation du sacré » serait une reconstruction injustifiée. La comparaison homérique souligne précisément ce que les deux situations ont de différent.
+
+### 58. Un éloge caché du droit de quitter la cité ? [H/L]
+
+L’émigration volontaire des protagonistes interroge les limites de l’attachement civique. Elle n’établit pourtant pas qu’Aristophane défendait publiquement un droit universel à l’exil ou recommandait à ses concitoyens de partir. Les restrictions de citoyenneté et les sanctions anciennes ne se déduisent pas d’un échange comique isolé. Il faut garder la différence entre la liberté fictionnelle de deux personnages et l’histoire juridique des migrations.
+
+### 59. L’utopie est-elle réfutée dès le premier vers ? [I/L]
+
+Le début est assurément mal orienté ; il n’est pas une démonstration que toute construction d’une vie différente serait vaine. Le prologue révèle le défaut de certaines médiations, pas l’impossibilité logique de toute médiation. Le développement ultérieur montre les conséquences de la fondation aviaire et appelle d’autres évaluations. L’ironie initiale peut accompagner une créativité politique véritable tout en faisant craindre ses dérives.
+
+## XIV. Continuité scientifique MYTHOS et résultats
+
+### 60. Ce que cette étude ajoute au corpus déjà publié
+
+**Volume CCLXIII** : l’acte de fonder une cité et le sort des experts, depuis le rite de fondation jusqu’aux interventions des spécialistes. **Volume CCXCVI** : Térée, Procné, Philomèle, l’intermédiaire de la huppe et les problèmes de métamorphose. **Volumes CCXIV, CCLXXXVII et CCXCI** : respectivement frontières aériennes, cosmogonie et diplomatie clandestine de Prométhée. Aucun de ces dossiers ne doit être réécrit pour donner une fausse impression de nouveauté.
+
+La contribution présente est circonscrite aux **outils de la première orientation** : les corvidés achetés, leur prix, les mots qui prétendent leur faire dire le chemin, l’incompatibilité entre le signal et la route, le passage de la crédulité à l’essai, puis l’adresse à un interlocuteur. L’étude fournit une analyse suivie du prologue avant l’exposition du projet de ville. La continuité du cycle tient dans ce déplacement de focale.
+
+### 61. Premier résultat : la décision précède souvent son fondement [I]
+
+La première question de la pièce suppose déjà qu’un animal donne un ordre de direction. En vingt vers, le spectateur découvre comment ce présupposé s’est construit : un achat et une promesse commerciale. La décision de suivre a été prise sans validation du code. C’est un schème de fragilité politique : la légitimité supposée d’un conseiller peut être confondue avec la preuve de sa compétence.
+
+### 62. Deuxième résultat : la contradiction est matérielle [I]
+
+Une absence de sentier, des pieds abîmés et des doigts menacés fournissent les contre-épreuves que le langage de la promesse refusait d’enregistrer. Aristophane ne fait pas triompher un philosophe ; il oppose au discours assuré des conséquences palpables. Le théâtre peut produire cette contradiction avec une économie minimale d’objets et de gestes.
+
+### 63. Troisième résultat : l’ailleurs n’existe pas sans relation [I]
+
+La ville tranquille, définie par le rejet des procès, suppose malgré tout panier, marmite, myrte, informateur, lieu occupé et interlocuteur. L’exil imaginé comme rupture absolue rencontre la nécessité de nouvelles médiations. Le mouvement fondamental du prologue va du refus d’une certaine société au besoin de parler avec une autre. C’est là, plutôt que dans un programme politique simplifié, que réside la force comparative de l’ouverture.
+
+### 64. Conclusion générale : l’intelligence ne s’achète pas avec le guide
+
+La comédie débute par une confusion entre **avoir un signe** et **savoir s’en servir**. Elle met en scène la conversion absurde d’animaux en instruments de décision, puis la correction partielle de cette erreur lorsqu’un bruit volontaire cherche à provoquer une réponse. Le passage d’un cri opaque à un interlocuteur ne supprime ni la violence ni l’imagination ; il modifie les conditions de l’information.
+
+En parlant au public de deux citoyens qui souhaitent échapper à une cité trop occupée à juger, Aristophane construit un paradoxe durable : ceux qui fuient la parole commune ne peuvent trouver leur ailleurs qu’en réapprenant à interroger, à écouter et à négocier avec ceux qui l’habitent. L’ordre politique nouveau se prépare moins par un grand discours que par l’aveu grotesque d’une ignorance de l’itinéraire. Les premiers oiseaux sont mauvais conseillers ; ils ont pourtant rendu visible la difficulté propre à tout conseil.
+
+---
+
+## XV. Appareil critique : sources primaires et bibliographie
+
+### A. Corpus grec et historique contrôlé
+
+1. **Aristophane, *Ornithes* (*Les Oiseaux*)**, v. **1–74** (texte grec, scène d’ouverture, contrôle vers par vers). Transcription bilingue de travail : [Gadsden Classics, *Birds*, Prologue](https://classics.andrewgadsden.com/library/aristophanes/birds/1). Pour la numérotation des vers et les leçons élémentaires : [Hellas, Aristophanes *Birds* 1](https://hellas.bab2min.pe.kr/text/Aristoph/Birds/01/0/1). Les traductions françaises données dans ce dossier sont des paraphrases de l’auteur de l’étude.
+2. **Aristophane, *Ornithes***, v. 92–150 et séquences ultérieures de la fondation : contrôle de continuité seulement, non second objet analytique. Le prologue ne doit pas être relu comme s’il contenait déjà toutes les décisions du récit postérieur.
+3. **Homère, *Iliade* XII, 200–243**, particulièrement les interprétations du vol et du serpent, puis la réponse d’Hector. Texte grec et traductions de consultation : [HomericGreek, *Iliad* XII](https://www.homericgreek.com/iliad/12). Comparaison fonctionnelle, non citation démontrée par Aristophane.
+4. **Thucydide, *Guerre du Péloponnèse*** VI, 8–32 ; VI, 94–105 ; VII, 1–18 ; VII, 85–87. Les livres VI et VII distinguent la campagne engagée au moment de la représentation et le désastre postérieur. Repères : [Cambridge, livre VI 94–105 et VII 1–18](https://www.cambridge.org/core/books/abs/thucydides/eighteenth-year-of-the-war-41413-vi-94105-vii-118/95A8E12535F41DE1D699146EF9405F42) et [Livius, Thucydide VII 85–87](https://www.livius.org/sources/content/thucydides-historian/destruction-of-the-athenian-army/).
+
+### B. Études universitaires ; accès réellement contrôlé
+
+5. **Konstan, David**, *Greek Comedy and Ideology*, Oxford, Oxford University Press, 1995, chapitre 2, « Birds », p. 29–44, DOI **10.1093/oso/9780195092943.003.0003** ; [notice et résumé accessibles](https://academic.oup.com/book/47030/chapter-abstract/422658251). Le résumé établit la date de 414, la recherche d’un endroit moins procédurier et la consultation de Térée. Le texte intégral du chapitre n’a pas été présumé consulté.
+6. **Bowie, A. M.**, *Aristophanes: Myth, Ritual and Comedy*, Cambridge, Cambridge University Press, 1993, chapitre 7, « Birds », p. 151–177, DOI **10.1017/CBO9780511518362.008** ; [résumé éditorial consulté](https://www.cambridge.org/core/books/abs/aristophanes/birds/826AA6F117262BFCAF097F93B460A284). Le résumé présente le motif du lieu sans troubles et la déconstruction d’une vision purement dépolitisée de l’œuvre ; on ne lui attribue pas sans lecture intégrale une exégèse précise des corvidés.
+7. **Demont, Paul**, compte rendu de Bowie, *Revue des Études Grecques* 107, 1994, p. 292 ; [Persée](https://www.persee.fr/doc/reg_0035-2039_1994_num_107_509_2619_t1_0292_0000_1). Contrôle bibliographique secondaire, non substitut à la lecture de Bowie.
+8. **O’Neill, Eugene, Jr.**, trad., Aristophanes, *Birds*, 1938, texte numérique dans [Perseus/Scaife](https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0019.tlg006.perseus-eng1%3A1/). Traduction de comparaison uniquement ; l’édition numérique peut contenir des choix lexicaux divergents et ne remplace pas l’inspection de l’original grec.
+9. **Hall, Edith**, travaux sur la politique et la comédie aristophanesque, à consulter pour prolonger les distinctions entre forme théâtrale et comportement des personnages. Aucune thèse ponctuelle n’est attribuée ici à une publication non étudiée intégralement.
+
+### C. Comparaisons philosophiques et anthropologiques
+
+10. **Hegel, G. W. F.**, *Phénoménologie de l’esprit* (1807), sections sur l’esprit et la religion de l’art ; *Cours d’esthétique* (leçons publiées après sa mort). Références théoriques aux relations entre sujet, médiation et comédie, sans prétention d’explication historique d’Aristophane.
+11. **Nietzsche, Friedrich**, *Le Gai Savoir* (1882, livre V ajouté en 1887) et *Par-delà bien et mal* (1886). Références méthodologiques pour interroger les valeurs de la fuite et les postures de savoir ; non sources sur Athènes en 414.
+12. **Vernant, Jean-Pierre**, *Les Origines de la pensée grecque*, Paris, PUF, 1962 ; *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965. Cadre général des liens entre formes de pensée et institutions civiques.
+13. **Détienne, Marcel**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, Maspero, 1967. Comparaison sur l’autorité des discours et les conditions de leur crédibilité.
+14. **Détienne, Marcel, et Vernant, Jean-Pierre**, *Les Ruses de l’intelligence. La mètis des Grecs*, Paris, Flammarion, 1974. Cadre conceptuel pour les compétences pratiques et l’adaptation, sans imposer le mot *mêtis* au prologue.
+
+### D. Dossier de falsification : ce que les sources ne permettent pas de soutenir
+
+- Il n’existe dans le corpus contrôlé **aucune preuve** que Philocratès détenait une charge de devin ou une profession administrative.
+- Le prix des corvidés est transmis dans la comédie, mais **aucune série de prix historiques** n’a été établie.
+- On ignore **le support matériel exact** des oiseaux de la représentation de 414.
+- Le vers 44 n’atteste **ni une colonie fondée**, ni une doctrine politique exhaustive d’Aristophane.
+- Les traits comiques sur Exékestidès et Sakas ne sont **pas des dossiers civils fiables** à eux seuls.
+- La comparaison avec le présage de l’*Iliade* n’implique **ni emprunt direct démontré, ni identité rituelle**.
+- Les textes de Nietzsche, Hegel, Vernant et Détienne éclairent une interprétation présente ; **ils ne témoignent pas des intentions originales** de l’auteur de 414.
+- Les deux grands ouvrages contemporains de Konstan et Bowie sont identifiés précisément, mais seuls leurs **résumés publics et métadonnées** ont été vérifiés ici : toute attribution de citations ou d’arguments de détail excéderait le contrôle accompli.
+
+*Fin de la monographie. Le titre reçoit les seuls marqueurs de numérotation CCCXXIX et 329 ; leur remplacement est réservé au circuit d’attribution transactionnelle de GitHub. Aucune publication sur bobmythos.fr ni attribution préalable n’est déclarée par ce fichier.*

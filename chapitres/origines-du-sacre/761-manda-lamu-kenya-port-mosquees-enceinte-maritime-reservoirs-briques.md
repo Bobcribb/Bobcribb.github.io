@@ -1,0 +1,328 @@
+# MYTHOS — Les Origines du sacré — Chapitre 761
+# Manda (archipel de Lamu, Kenya) : naissance d'un port swahili, mosquées tardives, enceintes maritimes et économie des eaux
+
+*Monographie universitaire originale — archéologie des ports médiévaux, stratigraphie, histoire des techniques, philologie swahilie et arabe, anthropologie religieuse et philosophie comparative. IXe–XIVe siècles pour les principales phases discutées ; transformations ultérieures. La numérotation canonique est réservée exclusivement au mécanisme de publication concurrente.*
+
+## Résumé scientifique
+
+À la pointe nord de l'île de Manda, près de Lamu et de Pate, des fouilles dirigées par H. Neville Chittick ont révélé une ville précoce de la côte kenyane, occupée dès le IXe ou le Xe siècle. Les couches anciennes contiennent des céramiques sassanido-islamiques du golfe Persique, des grès céramiques chinois, des constructions en calcaire corallien et des briques cuites ; un système de protection ou de conquête de terrain sur la mer et une « maison aux réservoirs » illustrent l'organisation de l'espace portuaire. Les mosquées en ruine visibles au moment des fouilles appartiennent, dans la première périodisation publiée, à des phases plus tardives. Il serait donc erroné de faire de chaque maçonnerie du IXe siècle une mosquée primitive. Ce dossier examine, à partir de Chittick (1974 et 1984), Horton (1986), Fleisher et al. (2015), la manière dont un milieu africain connecté à l'océan Indien élabore des institutions, des architectures et des formes de mémoire musulmanes. La distinction entre commerce, islam et monumentalisation reste méthodologiquement déterminante.
+
+## I. Définir l'objet : une cité portuaire n'est pas seulement une mosquée
+
+L'histoire du sacré n'est pas l'inventaire des seuls édifices religieux. Pour comprendre une mosquée, il faut étudier le quartier, les chemins d'accès, la disponibilité de l'eau et les conditions sociales permettant l'entretien d'un lieu de prière. Manda constitue à ce titre une excellente étude de cas, car ses fouilles révèlent des systèmes de construction et de gestion du rivage dont le rapport direct à la religion est parfois indécidable.
+
+Une ville ne se réduit ni à son commerce ni à son culte. Les habitants construisent, réparent, échangent, pêchent et distribuent des ressources avant que l'archéologue puisse attribuer une fonction à chaque espace. L'enquête sur les origines du sacré doit donc éviter la projection rétrospective : la présence de mosquées tardives ne démontre pas l'existence du même édifice, avec la même fonction, dans les niveaux les plus anciens du site. Elle permet néanmoins de suivre une communauté dont les transformations religieuses s'inscrivent dans une longue durée matérielle.
+
+## II. Manda dans l'archipel de Lamu
+
+Manda est l'une des îles basses situées sur le littoral septentrional du Kenya, à proximité de Lamu et de Pate. Chittick décrit au nord un promontoire sableux, des chenaux et des rivages dont la configuration a changé au cours des siècles. Cette géographie est essentielle : elle commande l'accès aux embarcations, les endroits propices à la construction et les secteurs exposés aux marées.
+
+Les frontières de terre et de mer ne sont pas immuables. Un mur qui semble aujourd'hui éloigné de l'eau peut avoir été dressé sur un ancien chenal ; inversement une ruine sur la plage peut avoir perdu des couches de protection. L'archéologie côtière exige de confronter le paysage contemporain aux niveaux sableux anciens et aux relations entre murs et plages fossiles. Les hypothèses topographiques de Chittick méritent d'être testées par des approches paléoenvironnementales modernes, non acceptées comme géométrie définitive.
+
+## III. Pourquoi ne pas confondre Manda et Takwa ?
+
+L'île de Manda possède plusieurs lieux d'occupation et de mémoire. Chittick distingue son site ancien de la partie septentrionale des ruines de Takwa, au sud, qu'il rattache à une occupation beaucoup plus tardive. Confondre ces deux ensembles reviendrait à appliquer les chronologies de l'un aux édifices de l'autre et à transformer une succession de paysages religieux en une ville unique sans rupture.
+
+La vigilance toponymique vaut également pour Lamu et Pate, îles voisines, et pour Shanga, qui relève d'un autre contexte archéologique malgré ses liens régionaux. Une encyclopédie devrait identifier les lieux à l'échelle du site fouillé, pas seulement par la proximité géographique. Les ressemblances d'architecture autorisent des comparaisons ; elles ne constituent pas des preuves d'identité de bâtiment ou de communauté.
+
+## IV. Chittick : des observations indispensables, un cadre historiographique à critiquer
+
+H. Neville Chittick effectua une première exploration en 1966, puis des fouilles plus étendues en 1970. Son étude préliminaire, « Manda: An Early Islamic Site on the Northern Kenya Coast », expose une stratigraphie complexe et un nombre remarquable de constructions. La monographie *Manda: Excavations at an Island Port on the Kenya Coast* (British Institute in Eastern Africa, mémoire 9, 1984) reste un document de référence, avec plans, figures, relevés et commentaires techniques.
+
+Cette littérature appartient également à une histoire de la discipline marquée par la recherche d'influences extérieures. Elle doit être lue sur deux plans : d'un côté les murs, céramiques et relations stratigraphiques relevés sur le terrain ; de l'autre les explications qui attribuent ces vestiges à des populations venues d'Asie. Le premier niveau peut être vérifié par les données publiées. Le second doit être confronté aux travaux postérieurs sur les trajectoires africaines du monde swahili.
+
+## V. Le texte de fouille comme source primaire médiatisée
+
+Le rapport de Chittick est une source de première main pour les observations de sa campagne. Il ne constitue pas un témoignage contemporain des habitants du Xe siècle. Cette distinction évite deux confusions fréquentes : traiter chaque phrase du fouilleur comme un fait antique, ou, à l'inverse, rejeter les plans parce que certaines interprétations anciennes ont vieilli.
+
+Un plan de mur, une coupe et une position stratigraphique offrent des informations pouvant être réexaminées. Une datation fondée sur une typologie de céramique peut être révisée si les chronologies de production changent. L'identification d'une salle comme lieu rituel demande davantage que sa beauté architecturale. L'appareil critique d'une monographie devrait donc préciser, pour chaque assertion, si elle procède d'une observation, d'une analogie typologique ou d'une hypothèse interprétative.
+
+## VI. Épaisseur des couches et profondeur de l'histoire
+
+Chittick décrit une épaisseur de dépôts de l'ordre de trois à quatre mètres jusqu'aux niveaux de sable stérile ou de plage. Cette donnée suffit à montrer que Manda ne peut être comprise à partir de ses seules ruines visibles. L'accumulation de couches associe des activités de construction, de remblai, d'habitation, d'abandon et de réutilisation.
+
+La profondeur archéologique ne se traduit pas automatiquement en durée exacte. Une couche épaisse peut se former rapidement par remblayage ; une phase d'occupation longue peut laisser peu de matériel. La chronologie doit être élaborée avec les objets datables et les relations entre structures. Il en découle une règle de prudence religieuse : le caractère « islamique » global du site ne date pas de manière automatique tous les niveaux de fondation à la même confession.
+
+## VII. Première période : un port des IXe–Xe siècles
+
+Dans l'étude préliminaire, la période I est associée à des poteries importées sassanido-islamiques, notamment des récipients à glaçure bleue reliés au golfe Persique, ainsi qu'à des productions non glaçurées comparées à celles de la région de Siraf. Des céramiques chinoises de type Yue et d'autres productions asiatiques contribuent à l'établissement du cadre chronologique, généralement placé aux IXe–Xe siècles, parfois prolongé selon les datations céramiques.
+
+Cette association atteste l'intensité précoce des échanges. Elle ne permet pas de compter les migrants venus du golfe ni d'identifier la religion de chaque habitant. Un pot importé peut avoir été transporté par plusieurs intermédiaires, offert, revendu et réutilisé. L'origine géographique de la poterie est une donnée matérielle ; l'origine ethnique de son possesseur est une question différente. Cette distinction protège l'analyse des récits de « colonisation » déduits automatiquement de la provenance des marchandises.
+
+## VIII. Les tessons sassanido-islamiques et leurs limites probatoires
+
+Le terme « sassanido-islamique » désigne une tradition céramique située dans les transformations techniques et commerciales intervenues à la fin de l'Antiquité et durant les premiers siècles islamiques. Il ne signifie pas que le pot aurait été consacré à la religion zoroastrienne ou à l'islam, et ne prouve pas la présence d'un prêtre sassanide à Manda. C'est une catégorie historico-archéologique relative à des formes et à des ateliers.
+
+Un usage religieux peut être documenté lorsqu'un objet apparaît dans un contexte de prière, de purification, de tombe ou de dépôt intentionnel. La même forme trouvée dans un dépotoir domestique reçoit une interprétation différente. Les céramiques importées de Manda témoignent avant tout de la connectivité du port ; leur relation aux croyances et aux rituels doit être examinée à l'échelle du contexte, pas de l'étiquette commerciale.
+
+## IX. Les céramiques chinoises : la preuve d'un réseau, non d'une communauté chinoise
+
+Les fragments de grès Yue et d'autres céramiques chinoises cités dans les niveaux anciens permettent d'étudier les liaisons maritimes à longue distance. Leur présence est remarquable, mais une poterie peut traverser plusieurs ports sans que son premier propriétaire ait voyagé jusqu'au Kenya. Les routes des objets et celles des personnes ne se superposent pas nécessairement.
+
+La comparaison avec les pratiques religieuses chinoises n'est pertinente que si le contexte local manifeste un usage religieux identifiable. En l'absence d'une telle preuve, l'objet demeure un indicateur de commerce, de consommation ou de prestige. Cette réserve ne réduit pas sa valeur historique : elle montre au contraire la capacité des communautés swahilies à intégrer dans leurs pratiques quotidiennes des biens produits très loin de la côte africaine.
+
+## X. La pierre corallienne dès la première période
+
+L'étude de Chittick mentionne des constructions de qualité en pierre corallienne et mortier de chaux dès les niveaux anciens. On ne saurait donc imaginer un premier Manda entièrement bâti en huttes, auquel la pierre aurait été apportée seulement au XIIIe siècle. La maçonnerie corallienne fait partie des choix techniques possibles de l'établissement précoce, même si les habitations plus périssables sont sous-représentées dans les restes visibles.
+
+La comparaison entre la pierre et les autres matériaux doit tenir compte de leur conservation. Un édifice en terre et bois peut avoir disparu alors qu'un mur en corail demeure. La pierre visible est une archive privilégiée, non l'ensemble de la ville. Cet effet de conservation a souvent pesé sur la représentation historique des « villes de pierre », conduisant à invisibiliser les autres logements et les activités ordinaires de leurs habitants.
+
+## XI. La brique cuite : un problème de technique et de transmission
+
+Chittick signale, dans la première période, une construction en brique cuite, avec des éléments dispersés dès les strates profondes. Il jugeait ce témoignage remarquable dans l'archéologie est-africaine alors connue. Une telle observation invite à étudier la chaîne opératoire : extraction de l'argile, moulage, cuisson, transport, emploi du mortier et relation avec les maçonneries coralliennes.
+
+Mais une technique partagée ne démontre pas immédiatement une population d'artisans étrangère. Une innovation peut être transmise, adaptée ou reproduite dans différents contextes. Des influences du golfe et de la mer Rouge ont été proposées ; elles doivent être évaluées avec des comparaisons matérielles précises. L'histoire des techniques n'autorise ni une pureté autochtone abstraite ni la thèse qu'aucune communauté africaine n'aurait pu maîtriser la brique sans domination étrangère.
+
+## XII. Les bâtiments de terre et de bois invisibles
+
+Dans le rapport préliminaire, Chittick note n'avoir pas rencontré de structures complètes de torchis et de clayonnage, tout en signalant des fragments brûlés compatibles avec leur usage. Ces traces sont importantes. Le raisonnement archéologique doit distinguer l'absence de mur conservé de l'absence ancienne de bâtiment. Les maisons périssables exigent des méthodes de détection différentes de celles des grands murs en pierre.
+
+L'interprétation sociale se transforme avec cette réserve. Une ville ne se compose pas uniquement de marchands aisés habitant des bâtiments de corail. Des domestiques, des artisans, des pêcheurs et des familles moins visibles dans la maçonnerie peuvent y participer. Les stratégies d'habitat ne révèlent pas les croyances personnelles, mais elles invitent à ne pas attribuer le caractère musulman de la société aux seules élites monumentales.
+
+## XIII. Seconde période : sgraffiato et réorganisation des échanges
+
+La période II de Chittick est caractérisée par une forte présence de céramiques dites *sgraffiato*, associées à une chronologie approximativement comprise entre le XIe et le XIIIe siècle. La périodisation distingue des sous-phases autour de 1200 et évoque une transformation des échanges commerciaux. Certaines catégories plus anciennes de poteries importées deviennent rares ou disparaissent.
+
+Ces changements ne doivent pas être réduits à un effondrement brutal de la société. Une modification de routes, de goûts, de centres d'approvisionnement ou de systèmes de datation typologique peut modifier l'assemblage. De même, la qualité de la maçonnerie ou la proportion de produits importés ne constitue pas un indice direct de l'intensité religieuse. Les rites ne suivent pas nécessairement les courbes de prospérité commerciale, et un changement de vaisselle ne prouve pas une conversion.
+
+## XIV. Une troisième vie du site : matériaux tardifs et mosquées visibles
+
+Dans les couches supérieures, Chittick rapporte des matériaux postérieurs aux deux grands ensembles stratigraphiques, dont des traces de travail du fer au XIVe siècle. Les deux mosquées en ruine visibles sur le terrain sont attribuées, dans ce rapport, à des phases plus tardives que la première occupation majeure. Cela impose de distinguer l'histoire de la ville précoce de celle de ses monuments conservés.
+
+C'est l'une des leçons documentaires du site. L'intitulé « early Islamic site » ne permet pas de déclarer que toutes les mosquées visibles furent construites au IXe siècle. La chronologie de l'islamisation, celle du bâti monumental et celle de la présence d'objets venus du monde musulman ne se confondent pas. Les fouilles de Shanga, autre site de l'archipel de Lamu, offrent des données sur des mosquées plus anciennes, mais leurs séquences ne doivent pas être artificiellement importées à Manda.
+
+## XV. Le débarcadère ancien : une plage devenue chantier
+
+L'un des secteurs fouillés par Chittick correspond à un ancien bras de mer ou inlet ; des couches de plage se trouvent sous les constructions. Le passage d'une zone littorale ouverte à un espace bâti modifie les possibilités d'accès et d'habitation. Les céramiques de la première période, présentes dans les dépôts proches du rivage, renseignent l'intensité des activités portuaires.
+
+Les reconstructions de l'ancien trait de côte restent prudentes. Une plage archéologique peut se trouver aujourd'hui à une altitude différente du niveau de marée visible pour de nombreuses raisons, dont les remaniements sédimentaires. Le rapport ancien formule des hypothèses sur la configuration des chenaux, dont certaines demeurent incertaines. Une analyse contemporaine devrait comparer les anciens plans, le microrelief actuel et les données géomorphologiques sans déduire trop vite un mouvement marin unique.
+
+## XVI. Un mur de protection et de conquête sur la mer
+
+Dans le secteur du débarcadère, les fouilles mettent en évidence un mur massif interprété comme dispositif de protection ou de remblaiement de terrain gagné sur une ancienne zone d'eau. Chittick décrit ensuite un ouvrage parallèle créant, avec son remplissage, une structure large de plusieurs mètres. Les chiffres publiés demandent une vérification sur les plans pour toute restitution tridimensionnelle ; la fonction de remblaiement et de défense demeure une hypothèse élaborée à partir des fondations.
+
+Il s'agit d'un travail collectif complexe. Choisir les blocs, les déplacer et construire dans un secteur marin suppose une connaissance des matériaux et des marées. Cette réalisation peut soutenir un commerce prospère, protéger des maisons ou fixer un front d'habitat. Elle ne devient pas un mur sacré par sa seule monumentalité. Toutefois, elle contribue aux conditions matérielles de la communauté dans laquelle des pratiques religieuses seront ensuite attestées.
+
+## XVII. Le double usage supposé des murs maritimes
+
+Chittick envisage pour certains murs des fonctions de protection contre la mer et de défense, tout en doutant qu'ils aient pu tous servir de quais. Cette hésitation exemplifie le bon usage des hypothèses archéologiques : des formes comparables peuvent répondre à des besoins différents, et les changements de niveau d'eau compliquent la restitution de leur fonction originale.
+
+L'archéologue des religions doit se garder d'attribuer aux murs une « frontière entre sacré et profane » à partir de cette seule disposition. Le fait qu'une construction délimite l'espace ne suffit pas à en faire un *temenos*. La comparaison avec les enceintes de sanctuaires antiques est utile pour clarifier les catégories, mais ne remplace pas la preuve de gestes de consécration, d'interdits d'accès ou de textes réglementaires.
+
+## XVIII. La « maison aux réservoirs » et la maîtrise de l'eau
+
+Chittick décrit un vaste bâtiment d'environ 16 × 12 mètres, associé à deux bassins enduits de plâtre épais, disposés dans un ensemble architectural dont plusieurs parties supérieures ont disparu. Il les interprète comme des réservoirs d'eau. La restitution de leur couverture et de l'organisation des pièces constitue une hypothèse fondée sur les relations entre murs et sols, et non une photographie du bâtiment ancien.
+
+La maîtrise de l'eau douce est une dimension centrale de la vie portuaire. Les besoins des habitants, des équipages et des ateliers se superposent. Une cité maritime prospère doit gérer une ressource difficilement remplaçable par l'eau salée. Le rapport entre réservoir et ablution musulmane peut être proposé seulement si le contexte, les accès ou une association architecturale avec un lieu de prière le justifient. À Manda, il serait infondé de transformer ces bassins en installations rituelles certaines.
+
+## XIX. Ablutions et norme islamique : distinguer le possible de l'attesté
+
+La sourate 5:6 du Coran évoque la purification rituelle précédant la prière. Ce texte fournit un contexte normatif essentiel pour comprendre pourquoi l'eau peut être importante autour d'une mosquée. Mais il ne constitue pas un document décrivant l'usage des deux réservoirs de Manda. Les archéologues doivent examiner l'emplacement de l'installation et la chronologie des édifices avant d'émettre une conclusion liturgique.
+
+L'intérêt de la comparaison n'est pas d'imposer le rituel à toutes les réserves d'eau ; il est de rendre visibles les différentes finalités possibles d'une infrastructure. Une même ville peut employer des jarres pour cuisiner, commercer, se purifier ou accueillir des étrangers. Les matériaux et les formes peuvent circuler entre ces usages. Seule une analyse contextualisée permet de décider lorsqu'une fonction religieuse est réellement attestée.
+
+## XX. Bâtir sur le littoral et maintenir des routes
+
+La transformation de l'ancien bord de mer indique une volonté d'organiser le contact entre terre et eau. Elle ne révèle cependant ni une administration portuaire formelle ni des tarifs douaniers écrits. Les marchandises importées montrent des relations de navigation, mais pas le système juridique complet qui les encadrait. Une histoire attentive à la matérialité doit se contenter de démontrer les conditions de possibilité de l'échange.
+
+La construction et le drainage peuvent faciliter des pratiques sociales et religieuses : accueillir des visiteurs, organiser des assemblées ou maintenir des bâtiments collectifs. Ce sont néanmoins des conséquences possibles, non des intentions attestées. La ville est une infrastructure de sociabilité ; c'est cette relation que le dossier analyse, sans sacraliser les murs ni ignorer leurs effets sur la communauté.
+
+## XXI. Une ville africaine dans les réseaux de l'océan Indien
+
+Les premiers modèles d'histoire de la côte swahilie insistaient souvent sur le caractère exogène des villes de pierre. Or la présence de céramiques asiatiques à Manda n'efface pas les communautés africaines qui construisent, consomment et réutilisent ces objets. LaViolette, Fleisher et Wynne-Jones ont insisté, dans des contextes régionaux, sur la capacité des sociétés swahilies à développer leurs propres trajectoires urbaines.
+
+Manda invite donc à distinguer trois faits : les échanges de marchandises, les mobilités de personnes et les transformations de pratiques religieuses. Ils peuvent être liés, mais ne sont pas équivalents. Un pot venu du golfe Persique peut être utilisé par une famille africaine ; un artisan venu d'ailleurs peut travailler avec des voisins locaux ; l'islam peut se diffuser sans remplacement de la population. Ces propositions doivent toujours être vérifiées au cas par cas.
+
+## XXII. Chittick et Horton : le débat sur la « colonisation asiatique »
+
+Mark Horton consacre un article, « Asiatic colonization of the East African coast: the Manda evidence » (1986), à une interprétation historiographique controversée du site. Il rappelle les modèles de colonisation venus d'Asie, mais les interroge en confrontant l'archéologie aux catégories héritées du XIXe siècle. Une lecture actuelle doit éviter de figer une étude des années 1980 dans le même cadre que les résultats de recherches beaucoup plus récentes.
+
+L'important n'est pas de supprimer les apports asiatiques, qui sont directement visibles dans les céramiques et les techniques, mais de refuser la déduction selon laquelle des importations implique nécessairement une substitution ethnique. La possibilité de migrations, de mariages et d'apprentissages reste ouverte. Elle exige des observations indépendantes de la seule provenance de la vaisselle.
+
+## XXIII. Islamisation : un processus et non une date instantanée
+
+La présence de communautés musulmanes sur le littoral est attestée à partir d'un faisceau de sources : premiers édifices de prière sur certains sites, inscriptions, traditions textuelles et pratiques funéraires. Mais Manda ne fournit pas, dans les éléments contrôlés ici, une date incontestable de conversion de chaque habitant. La construction tardive de certaines mosquées ne signifie pas que l'islam était absent auparavant, pas plus que les importations anciennes ne prouvent une conversion massive.
+
+Une histoire des pratiques doit rechercher les espaces de réunion, les réseaux d'enseignement, les usages du temps et les circulations de personnes. Les communautés africaines peuvent adopter ou transformer des normes à des rythmes divers. Le terme « islamisation » est utile pour décrire un processus historique ; il devient trompeur s'il donne l'illusion d'un acte unique dont l'archéologue pourrait retrouver l'instant précis dans une couche de sable.
+
+## XXIV. La mosquée en pierre : formes, seuils et orientation
+
+Une mosquée se reconnaît souvent à un plan et à une orientation liturgique, ainsi qu'à des dispositifs comme le *miḥrāb*. Les vestiges de Manda exigent l'étude détaillée de leur date, de leurs accès et de leurs murs. Deux ruines de mosquées observées tardivement dans le paysage ne permettent pas d'inférer à elles seules les pratiques exactes des habitants du IXe siècle.
+
+Le passage de lieux de prière modestes à des bâtiments monumentaux, documenté de manière différente à Shanga, Chwaka ou Kilwa, peut modifier l'échelle du rassemblement. Mais il n'existe pas une loi universelle de progression religieuse qui conduirait inévitablement du bois au corail. Les matériaux répondent à des ressources, à des technologies et à des choix politiques changeants. Une salle plus grande ne mesure pas la profondeur intérieure de la foi.
+
+## XXV. Qibla, mihrab et lexique arabe
+
+Le mot arabe *qibla* désigne la direction rituelle ; *miḥrāb* renvoie dans l'architecture des mosquées à la niche qui la signale. Le Coran 2:144 contribue à comprendre la centralité de l'orientation vers la Mosquée sacrée. Le mot swahili *msikiti* est lié à l'arabe *masjid*, terme associé à la racine s-j-d, « se prosterner ». Ces données philologiques ne suffisent pas à restituer les formules exactes entendues à Manda.
+
+Les textes arabes du Coran et la langue parlée des habitants africains appartiennent à des séries différentes. Une inscription arabe sur une mosquée, si elle était attestée et datable, ne prouverait pas que toutes les familles parlaient l'arabe au quotidien. L'étude historique du swahili doit considérer les transformations linguistiques propres aux langues bantoues et les échanges, plutôt que de déduire une origine ethnique complète d'une étymologie.
+
+## XXVI. Le temps de la prière et l'espace public
+
+Les sources normatives islamiques, notamment le Coran 62:9, accordent une place importante au rassemblement du vendredi. Dans les villes swahilies, une mosquée de congrégation peut constituer un point de rencontre entre quartiers, familles et visiteurs. Mais Manda ne conserve pas une liste continue d'imams, de sermons ou de fidèles permettant de reconstruire toutes les scènes religieuses.
+
+L'histoire sociale se fonde alors sur les conditions matérielles de la réunion plutôt que sur un récit fictif. Une salle, des seuils, des cheminements et un approvisionnement en eau peuvent favoriser une assemblée. Les participants ne sont pas pour autant nécessairement égaux en prestige ou en droits. Le religieux contribue à organiser un espace public tout en reflétant des différences de genre, de statut et de proximité résidentielle qu'il faut rechercher sans les présupposer.
+
+## XXVII. Les sépultures et le risque du raccourci funéraire
+
+Le premier rapport de Chittick mentionne que certains bâtiments furent endommagés par des creusements de tombes. Une intervention funéraire plus tardive peut donc perturber les murs et les couches antérieures. Ce phénomène est important pour la datation : un objet déplacé par une fosse ne témoigne pas nécessairement de la phase de construction du bâtiment où il est retrouvé.
+
+La tombe est également une forme de mémoire inscrite dans un espace qui change de fonction. Cependant, la présence de sépultures n'atteste pas automatiquement le culte des ancêtres, l'intercession des saints ou une cérémonie de consécration du lieu. Les pratiques funéraires islamiques possèdent des normes et des variations ; elles demandent une analyse propre, notamment lorsque l'on compare Manda avec les tombes à pilier d'autres sites swahilis.
+
+## XXVIII. Les morts dans la stratigraphie des vivants
+
+Les tombes peuvent être postérieures à des maisons, recouper des sols et modifier des circulations. Leur association aux ruines révèle une histoire de réaffectation des lieux, sans documenter forcément les motifs spirituels des familles. La stratigraphie doit d'abord enregistrer les séquences : construction, destruction partielle, creusement, remblai, fréquentation ultérieure.
+
+Une interprétation trop générale ferait de chaque cimetière une preuve d'une « religion des ancêtres ». Une autre, excessivement juridique, effacerait les mémoires locales parce qu'elles ne sont pas explicitement décrites par un texte canonique. Entre ces extrêmes, l'archéologie des tombes décrit les gestes, les matériaux et la topographie, puis confronte ses résultats à des traditions historiquement situées.
+
+## XXIX. Les maisons, le prestige et la différence sociale
+
+L'existence de constructions de pierre et d'autres formes d'habitat pose la question des inégalités de ressources. Une grande maison capable d'entretenir deux bassins et des sols soignés ne représente pas nécessairement la résidence moyenne de la ville. La présence d'importations peut indiquer le niveau de richesse de certains ménages, sans donner une estimation globale du revenu de tous les habitants.
+
+Le religieux et le prestige social peuvent se rencontrer dans le mécénat d'une mosquée ou dans un investissement funéraire, mais la documentation de Manda ne permet pas de nommer tous les patrons de ces bâtiments. Les catégories de marchand, chef et savant doivent être démontrées par des indices et non présumées. Les écarts de conservation entre murs de pierre et habitats périssables peuvent eux-mêmes amplifier artificiellement les différences sociales apparentes.
+
+## XXX. Commerce, hospitalité et confiance
+
+Une ville de passage accueille des personnes qui ne partagent pas nécessairement les mêmes langues et appartenances. La confiance commerciale peut se développer grâce à des conventions de poids, de paiement, de parenté ou de reconnaissance religieuse. Mais les poteries de Manda ne prouvent pas l'existence d'un tribunal marchand islamique ou d'un contrat particulier. Les institutions doivent être documentées par d'autres sources si l'on veut passer de l'hypothèse à la démonstration.
+
+L'intérêt anthropologique est de ne pas séparer l'échange de la sociabilité : transactions, repas, négociations et réceptions d'hôtes transforment les relations entre le port et l'intérieur. Les mosquées peuvent faciliter l'intégration de visiteurs musulmans, mais aucune liste de fidèles étrangers n'est conservée. L'hypothèse doit donc rester circonscrite à la fonction possible des espaces collectifs.
+
+## XXXI. L'usage du sable et des matériaux du rivage
+
+Le sable, le corail, la chaux et le bois proviennent de milieux naturels et de réseaux de collecte. Leur transformation en murs, sols et couvertures mobilise des savoir-faire écologiques. Manda illustre cette relation à travers les anciens dépôts de plage et les dispositifs de maçonnerie. Un même matériau peut servir à réparer une maison, à protéger le port ou à construire un lieu de prière.
+
+Cette circulation des matières n'est pas, en elle-même, une cosmologie. L'historien peut néanmoins demander comment les gestes techniques contribuent à rendre un site durable, accessible et socialement reconnu. La matérialité du sacré ne consiste pas à attribuer une volonté spirituelle au sable ; elle consiste à comprendre comment une communauté utilise ses ressources pour instituer des lieux et les maintenir dans le temps.
+
+## XXXII. Les eaux et la distinction entre pratique et symbole
+
+L'eau porte des fonctions biologiques, économiques et rituelles. Un bassin enduit peut conserver un liquide nécessaire à la vie quotidienne ; il peut aussi faciliter une pratique de purification si sa position et son usage le démontrent. Il serait fautif de décider qu'un aménagement hydraulique est « sacré » parce qu'il se trouve sur un site qualifié d'islamique.
+
+La comparaison avec les bassins d'ablution des mosquées postérieures peut formuler des hypothèses, mais elle doit prendre en compte les différentes dates. Une ville qui dispose d'eau douce peut accueillir plus facilement des visiteurs et des assemblées. La proximité de l'eau et du religieux est un problème historique fécond précisément parce que les usages se superposent sans être identiques.
+
+## XXXIII. Comparaison avec Shanga : la preuve stratigraphique des mosquées
+
+À Shanga, les fouilles publiées par Mark Horton ont permis de suivre une séquence ancienne de lieux de prière, dont des phases en matériaux périssables. Ce corpus constitue un point de comparaison indispensable, mais ne doit pas servir à combler automatiquement les lacunes de Manda. La date d'une mosquée excavée à Shanga ne devient pas, par analogie régionale, la date d'une mosquée non démontrée à Manda.
+
+La comparaison peut porter sur les techniques, l'orientation, les phases de reconstruction, les céramiques associées et les rapports entre habitat et lieu de culte. Elle révèle la diversité des trajectoires insulaires plutôt qu'un modèle unique. L'intérêt spécifique de Manda réside dans l'organisation précoce du port, la construction en brique, les réservoirs et les niveaux d'importation, tandis que Shanga offre une documentation religieuse stratigraphiquement plus développée.
+
+## XXXIV. Comparaison avec Mtambwe : monnaie et monumentalité
+
+Le trésor monétaire de Mtambwe Mkuu, à Pemba, atteste des émissions locales d'argent du XIe siècle et des circuits d'or islamique. Il décrit une autre dimension de l'histoire des communautés swahilies : les conventions d'autorité et de valeur. Manda, de son côté, présente des infrastructures portuaires et des importations matérielles. Les deux sites révèlent des réseaux connectés sans qu'on puisse reconstituer une administration commune.
+
+Une monnaie retrouvée à Pemba ne date pas un mur de Manda ; un vase importé à Manda ne prouve pas le paiement en pièces de Mtambwe. Les objets peuvent circuler à des rythmes différents. L'intérêt de les rapprocher est de proposer un cadre régional des connexions et des pratiques, non de remplacer les données propres à chaque site par un récit unifié de prospérité islamique.
+
+## XXXV. Comparaison avec Chwaka et Ras Mkumbuu : la ville change de place
+
+Chwaka documente la succession de plusieurs mosquées et la transformation de la visibilité religieuse ; Ras Mkumbuu permet d'étudier le déplacement possible d'un centre cultuel vers le rivage. À Manda, les réorganisations de l'interface maritime, les murs de protection et la longue stratigraphie imposent de penser une urbanité changeante. Le changement d'emplacement n'a cependant pas nécessairement la même cause sur chaque site.
+
+Une comparaison rigoureuse doit distinguer les phénomènes observés — construction d'un mur, implantation d'un édifice, dépôt funéraire — des motifs supposés. Ni l'économie ni la religion n'expliquent seules toutes les modifications du territoire. La ville se transforme sous l'action de techniques, de ressources, de familles, de relations politiques et de contraintes écologiques.
+
+## XXXVI. Vernant, Detienne et le seuil de comparaison grec
+
+Les recherches de Jean-Pierre Vernant et de Marcel Detienne sur la cité grecque rappellent l'imbrication des gestes religieux, des institutions et des espaces collectifs. Pour Manda, on peut se demander comment un bâtiment rassemble les personnes et comment la ville délimite ses usages. La comparaison doit néanmoins s'arrêter avant la confusion des rites : le sacrifice grec et la prière musulmane appartiennent à des systèmes différents.
+
+La notion grecque de *temenos* indique un espace délimité et consacré ; elle ne s'applique pas automatiquement à un mur de remblaiement maritime. Le *synoikismos* grec peut éclairer des modèles de regroupement urbain, mais il ne prouve aucune filiation avec les villes de l'archipel de Lamu. La précision conceptuelle est une condition pour que le comparatisme produise du savoir et non une simple collection d'analogies.
+
+## XXXVII. Hegel et Nietzsche : critique des récits de « progrès » religieux
+
+Une lecture téléologique pourrait décrire la construction en pierre comme un passage nécessaire vers une civilisation plus accomplie que les maisons de bois. Le développement de Manda contredit cette facilité : la maçonnerie apparaît tôt, les matériaux périssables subsistent, et la prospérité matérielle connaît des variations qui ne correspondent pas automatiquement à une progression religieuse.
+
+La philosophie de l'histoire de Hegel et les réflexions généalogiques de Nietzsche peuvent servir à interroger les catégories de progrès, de valeur et de domination. Mais elles ne documentent ni les habitants ni les constructeurs de Manda. La méthode historique requiert d'abord des séquences de fouille, puis un débat conceptuel sur les récits qui les interprètent. Elle ne doit pas convertir des changements architecturaux en preuves de développement moral.
+
+## XXXVIII. Durkheim et les conditions de la communauté
+
+Durkheim souligne le rôle des pratiques collectives dans la constitution des représentations religieuses. Une ville portuaire fournit des espaces de rencontre et de reconnaissance, et ses lieux de culte peuvent contribuer à l'organisation communautaire. Le modèle est suggestif, mais la présence d'une mosquée ne permet pas de calculer l'unanimité, les émotions ou la fréquence réelle des rites.
+
+Les relations de confiance et les asymétries sociales sont ici déterminantes. Une communauté de port peut rassembler des groupes dont les intérêts diffèrent. La construction d'un édifice suppose une forme de coopération ; elle ne garantit pas que tous les habitants participent de manière égale aux décisions. Une anthropologie historique exige donc d'articuler la dimension collective et les conflits possibles sans en inventer le détail.
+
+## XXXIX. Eliade et Girard : ce que les murs ne démontrent pas
+
+La réflexion de Mircea Eliade sur l'espace orienté peut aider à penser la spécificité des lieux de prière ; elle ne permet pas d'identifier un centre sacré dans n'importe quelle pièce de Manda. La théorie de la violence sacrificielle de René Girard n'autorise pas davantage à interpréter les creusements funéraires ou les abandons de bâtiments comme des crises de bouc émissaire.
+
+La différence entre cadre philosophique et preuve archéologique est fondamentale. Les théories peuvent produire des questions, pas les réponses qu'elles désirent. À Manda, ce qui est immédiatement observable relève de la maçonnerie, des couches de céramique, des bassins et des remaniements. L'hypothèse religieuse doit s'appuyer sur l'identification des espaces de culte et sur les normes des traditions concernées, en gardant visible l'incertitude.
+
+## XL. Comparaison mésopotamienne et égyptienne : eau, port et institution
+
+Les mondes mésopotamien et égyptien ont construit des systèmes complexes d'approvisionnement en eau, de navigation et d'espaces cultuels. Une comparaison technique peut éclairer la manière dont une institution exige des infrastructures durables. Mais l'existence de bassins à Manda n'établit aucun lien avec un temple d'Enki ou avec des rites nilotiques. La géographie de l'eau ne transmet pas automatiquement la théologie.
+
+La comparaison productive porte sur les questions : qui entretient un ouvrage, comment un espace est-il délimité, dans quelles circonstances un dispositif utilitaire reçoit-il une fonction rituelle ? Chaque tradition fournit des réponses différentes, documentées par des corpus distincts. Refuser la filiation imaginaire n'empêche pas l'étude des relations entre technique et pouvoir dans des civilisations très éloignées.
+
+## XLI. Monde iranien et indien : techniques et céramiques en circulation
+
+Les céramiques reliées au golfe Persique et les ressemblances de certaines techniques architecturales rendent le monde iranien et l'Inde pertinents pour l'histoire connectée de Manda. Mais la preuve d'un contact matériel ne permet pas de déduire une pratique zoroastrienne, hindoue ou bouddhique spécifique au sein de la ville ancienne. Les marchands, les objets et les traditions circulent selon des temporalités distinctes.
+
+La vigilance s'applique aussi aux termes techniques. Un tesson de tradition sassanido-islamique n'implique pas une date de fabrication sassanide antérieure à l'islam ; la catégorie traverse précisément une période de changements. L'enquête doit préciser la production, la datation typologique et l'usage local. L'importation n'est jamais un substitut à la fouille du contexte de consommation.
+
+## XLII. Chine : l'histoire des objets ne suffit pas à une histoire des croyances
+
+Les productions chinoises présentes dans les couches de Manda montrent l'ampleur des réseaux de l'océan Indien. Elles invitent à l'étude des ports, des intermédiaires et des circuits de distribution. Elles ne prouvent ni la présence d'une communauté chinoise résidente ni le transfert de croyances chinoises particulières. Une porcelaine peut devenir un objet de prestige dans une société qui ne partage pas les traditions de son lieu de fabrication.
+
+Le comparatisme doit donc porter sur les changements de fonction au cours d'une chaîne de circulation. Le sens religieux d'un objet, s'il est attesté, peut naître au terme de son voyage plutôt qu'au lieu de production. À Manda, les premières céramiques importées documentent une économie connectée ; aucune interprétation de rite chinois ne doit leur être imposée sans contexte spécialisé.
+
+## XLIII. Traditions africaines et américaines : comparaison structurale prudente
+
+Dans diverses sociétés africaines et américaines, des constructions collectives, des lieux funéraires et des places publiques articulent mémoire et pouvoir. Une comparaison fonctionnelle avec les espaces de Manda peut porter sur la coopération, l'accès aux ressources et la transmission des techniques. Elle ne justifie pas l'idée que toutes les communautés posséderaient la même religion sous des noms différents.
+
+Des études de cas précises et datées seraient nécessaires pour aller au-delà des questions générales. Les différences de matériaux, de normes d'inhumation, de liturgie et de politique doivent rester premières. La méthode proposée par MYTHOS est un comparatisme à plusieurs niveaux : faits locaux, catégories descriptives, analogies contrôlées et hypothèses de contact historique seulement lorsqu'elles sont documentables.
+
+## XLIV. Dumézil et la limite des grands schémas fonctionnels
+
+Les travaux de Georges Dumézil concernant les traditions indo-européennes proposent des analyses de configurations idéologiques historiquement situées. Les projeter sur la ville de Manda reviendrait à supposer une tripartition du pouvoir sans source locale. Le fait qu'un port possède des artisans, des marchands et des spécialistes religieux ne démontre pas l'existence d'une structure idéologique héritée d'un système indo-européen.
+
+Cette réserve n'est pas un refus du comparatisme ; elle en marque les conditions scientifiques. Les ressemblances générales sont abondantes entre sociétés humaines, mais elles ne prouvent pas les filiations. Les catégories doivent être confrontées aux inscriptions, récits et institutions propres à Manda. Ici, la documentation matérielle permet de discuter les fonctions des espaces sans imposer un modèle de religion universelle.
+
+## XLV. La « maritimité » comme objet d'histoire
+
+Fleisher et ses collègues (2015) posent la question de la transformation des sociétés swahilies en communautés de plus en plus orientées vers la mer. Manda constitue un cas important : ses premières périodes sont déjà fortement connectées au commerce lointain, mais cette orientation n'empêche pas l'utilisation de ressources terrestres ou les transformations ultérieures de l'architecture. La « maritimité » n'est pas une identité fixe donnée une fois pour toutes.
+
+La notion permet d'étudier les ports, la construction corallienne, le bois de mangrove, les réseaux d'échange et les changements d'organisation urbaine. Elle ne doit pas effacer les agriculteurs, les communautés continentales ou les marchés de proximité. Les mosquées du littoral peuvent ensuite s'inscrire dans cette histoire, parfois comme signes visibles pour les navigateurs ; mais leur fonction précise demeure liée à une chronologie propre.
+
+## XLVI. Patrimoine : conserver les sites et la complexité de leurs récits
+
+Les vestiges portuaires subissent les effets du temps, de l'érosion, de la végétation et des aménagements modernes. Une politique de conservation devrait enregistrer les plans anciens, localiser les dépôts les plus vulnérables, documenter les matériaux de construction et rendre les archives accessibles aux chercheurs comme aux communautés concernées. La médiation doit éviter les scènes artificielles qui prêtent des certitudes à des architectures partiellement détruites.
+
+Les reconstitutions visuelles de Manda devraient distinguer les murs conservés, les couvertures déduites des techniques régionales et les hypothèses non vérifiées. Un rendu photoréaliste peut être utile au public, mais il n'augmente pas en soi le degré de preuve. La conservation concerne également le droit de nommer les lieux et de transmettre la pluralité des interprétations, au-delà d'un récit touristique simplifié d'une « ville venue d'Asie ».
+
+## XLVII. Tableau des faits, controverses et hypothèses
+
+**Faits attestés dans la documentation de fouille :** occupation ancienne au nord de Manda ; dépôts de plusieurs mètres d'épaisseur ; céramiques sassanido-islamiques et chinoises dans les phases précoces ; constructions en pierre corallienne et briques ; murs du secteur littoral ; bâtiment doté de deux aménagements interprétés comme réservoirs ; vestiges de mosquées appartenant, dans le rapport préliminaire, à des phases tardives.
+
+**Interprétations défendables mais à discuter :** fonctions précises des dispositifs maritimes comme remblaiement et défense ; datation affinée des phases à partir des poteries ; relation entre certaines techniques et des contacts de l'Asie occidentale ; statut social des propriétaires des bâtiments les plus importants ; nature de l'espace antérieur au remaniement du rivage.
+
+**Hypothèses non démontrées :** identité ethnique de tous les constructeurs ; mosquée monumentale assurément datée du IXe siècle sur la seule base des importations de cette période ; conversion simultanée de l'ensemble de la population ; utilisation certaine des bassins de la « maison aux réservoirs » pour les ablutions ; lien direct avec un événement rituel grec, indien ou chinois.
+
+## XLVIII. Programme de recherche interdisciplinaire
+
+Une réévaluation de Manda devrait associer la géoréférence des plans de 1966 et de 1970, une analyse des dépôts de plage, des relevés photogrammétriques, l'examen non destructif des matériaux, la comparaison des séries céramiques et des études des restes animaux et botaniques. Les chronologies doivent faire apparaître les marges d'incertitude et les données de contexte. L'identification des mosquées exige une confrontation des plans, des orientations et des phases de construction.
+
+L'anthropologie peut compléter la recherche en étudiant les mémoires locales et l'utilisation contemporaine des sites, sans présumer une continuité immuable depuis le Xe siècle. La philologie doit vérifier les légendes, les toponymes et les références textuelles à partir de sources primaires. Enfin, toute restitution numérique doit distinguer ce qui provient d'une fouille et ce qui relève d'une hypothèse, afin de préserver la révisabilité des connaissances.
+
+## XLIX. Conclusion générale : le port comme condition et non preuve immédiate du sacré
+
+L'histoire de Manda montre comment une communauté swahilie ancienne transforme un paysage littoral en ville connectée : murs, sols, briques, mortier de chaux, céramiques importées et gestion de l'eau en composent le dossier matériel. Les mosquées visibles appartiennent à une histoire qui ne coïncide pas entièrement avec celle des premiers dépôts. Cette différence est une leçon de méthode : la présence d'une ville reliée au monde islamique ne suffit pas à identifier chaque bâtiment précoce comme sanctuaire.
+
+Le sacré apparaît alors comme une dimension historiquement construite au sein de pratiques multiples. La navigation apporte des objets et des personnes ; les maisons et les réservoirs organisent le quotidien ; les lieux de prière transforment l'espace social lorsque leur existence est attestée. Le rôle des chercheurs n'est ni de réduire tous ces phénomènes au commerce, ni de supposer qu'ils furent toujours religieux, mais d'établir les relations spécifiques entre eux.
+
+## Sources primaires et documentation de terrain
+
+1. **Chittick, H. Neville, « Manda: An Early Islamic Site on the Northern Kenya Coast »** : rapport de fouille de première main, avec description des périodes I et II, des céramiques, des murs maritimes et de la « House of the Tanks ». Fac-similé accessible : https://www.panafprehistory.org/images/uploads/MANDA_AN_EARLY_ISLAMIC_SITE_ON_THE_NORTHERN_KENYA_COAST_H_Neville_Chittick.pdf. La page reproduite porte le numéro 213 ; les chiffres et fonctions mentionnés dans le texte sont rapportés à ce document, qui ne représente pas une source médiévale.
+2. **Chittick, *Manda: Excavations at an Island Port on the Kenya Coast***, 1984 : publication monographique des fouilles, plans et objets. Source de terrain éditée postérieurement aux excavations.
+3. **Coran**, 2:144 (direction de la prière), 5:6 (purification), 62:9 (assemblée du vendredi), références par sourate et verset. Sources primaires normatives islamiques, pas actes notariés ni compte rendus des habitants de Manda. https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/62/9.
+4. **Céramiques et ouvrages hydrauliques de Manda** : sources matérielles publiées par Chittick ; leurs contextes stratigraphiques fondent l'analyse, non une datation des croyances des usagers.
+
+## Bibliographie universitaire contrôlée
+
+- Chittick, H. Neville, *Manda: Excavations at an Island Port on the Kenya Coast*, British Institute in Eastern Africa, Memoir 9, 1984, xvi + 258 p. Notice institutionnelle : https://www.si.edu/object/siris_sil_227663.
+- Chittick, H. Neville, « Manda: An Early Islamic Site on the Northern Kenya Coast », rapport de fouilles reproduit par PanAfrican Association for Prehistory and Related Studies ; texte : https://www.panafprehistory.org/images/uploads/MANDA_AN_EARLY_ISLAMIC_SITE_ON_THE_NORTHERN_KENYA_COAST_H_Neville_Chittick.pdf. L'année de la publication originale n'est pas imposée ici sans vérification bibliographique complémentaire.
+- Horton, Mark C., « Asiatic colonization of the East African coast: the Manda evidence », *Journal of the Royal Asiatic Society*, 118/2, 1986, p. 201–213. https://doi.org/10.1017/S0035869X00139899.
+- Horton, Mark C., « Early Muslim Trading Settlements on the East African Coast: New Evidence from Shanga », *The Antiquaries Journal*, 67/2, 1987, p. 290–323. https://doi.org/10.1017/S0003581500025427.
+- Fleisher, Jeffrey B., et al., « When Did the Swahili Become Maritime? », *American Anthropologist*, 117/1, 2015, p. 100–115. https://doi.org/10.1111/aman.12171.
+- Horton, Mark C., « Islam, Archaeology, and Swahili Identity », dans Donald Whitcomb (dir.), *Changing Social Identity with the Spread of Islam: Archaeological Perspectives*, Oriental Institute Seminars 1, University of Chicago, 2004, p. 67–88. https://oi-idb-static.uchicago.edu/multimedia/1025/OIS1.pdf.
+- LaViolette, Adria et Jeffrey B. Fleisher, « The Urban History of a Rural Place: Swahili Archaeology on Pemba Island, Tanzania, 700–1500 AD », *International Journal of African Historical Studies*, 42/3, 2009, p. 433–455. https://www.jstor.org/stable/40646777.
+- Wynne-Jones, Stephanie et Adria LaViolette (dir.), *The Swahili World*, Routledge, 2018 ; ouvrage collectif de comparaison et de révision historiographique.
+- UNESCO, *Ruins of Kilwa Kisiwani and Ruins of Songo Mnara*, notice patrimoniale : https://whc.unesco.org/en/list/144/. Utilisée seulement pour la comparaison régionale, pas comme source de fouille de Manda.
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse* (1912) ; Nietzsche, Friedrich, *Zur Genealogie der Moral* (1887) ; Detienne, Marcel et Jean-Pierre Vernant (dir.), *La Cuisine du sacrifice en pays grec* (1979) ; Eliade, Mircea, *Le Sacré et le Profane* (1957) ; Girard, René, *La Violence et le sacré* (1972) ; Hegel, G. W. F., leçons sur la philosophie de l'histoire. Références de comparaison critique, non preuves factuelles de l'archéologie kenyane.
+
+## Note éditoriale
+
+La présente monographie est distincte des études sur Shanga, Chwaka, Ras Mkumbuu et Mtambwe Mkuu : elle examine spécifiquement le dispositif portuaire de Manda, les fouilles de Chittick, la première chronologie de l'architecture, les réservoirs, la brique cuite et les limites de l'identification du sacré. Elle ne prétend attribuer ni un numéro définitif ni un reçu éditorial. Ces opérations relèvent de GitHub Actions après vérification de l'état réel de \`main\`.

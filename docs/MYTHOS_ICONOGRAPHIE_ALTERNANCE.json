@@ -5,95 +5,95 @@
   "branch": "main",
   "latest_session": {
     "date": "2026-11-06",
-    "session_number": 72,
+    "session_number": 74,
     "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
     "previous_kind": "AUDIT ET CORRECTION",
     "next_kind": "AUDIT ET CORRECTION",
-    "scope": "Séance universitaire de trois objets patrimoniaux déjà archivés : Arès de la frise est du Parthénon pour Iliade V, Héraclès et le lion de Némée pour l'Odyssée XXI, Déméter-Perséphone et Triptolème pour la Théogonie 912–914. Distinguer image postérieure et source poétique ; pas de doublon ni de nouveau binaire.",
-    "source_main_at_review": "fbb45bd1291cf69ca9e522e4d0da5d84e8e5983f",
-    "figures": [
+    "previous_session": 73,
+    "scope": "Trois schémas éditoriaux originaux en 2D, complémentaires aux objets anciens et aux figures déjà présentes dans les monographies Iliade, Odyssée et Théogonie : Atê/Litaí (Iliade IX), cicatrice d'Ulysse (Odyssée XIX), profondeur du Tartare (Théogonie 713–819).",
+    "source_main_at_review": "41d7445bc1a54837e51cd02adb8a2f61c6f9ecb5",
+    "added_html_figures": 3,
+    "added_svg_assets": 3,
+    "modified_pages": [
+      "philosophie-iliade.html",
+      "philosophie-odyssee.html",
+      "philosophie-theogonie.html"
+    ],
+    "new_assets": [
+      "assets/philosophie/iliade-litai-ate-s74-20261106.svg",
+      "assets/philosophie/odyssee-eurycleia-cicatrice-s74-20261106.svg",
+      "assets/philosophie/theogonie-tartare-seuils-s74-20261106.svg"
+    ],
+    "figure_ids": [
+      "icono-iliade-litai-ate-s74-20261106",
+      "icono-odyssee-eurycleia-cicatrice-s74-20261106",
+      "icono-theogonie-tartare-seuils-s74-20261106"
+    ],
+    "page_checks_before": [
       {
         "page": "philosophie-iliade.html",
-        "id": "icono-iliade-ares-parthenon-frise-s72-20261106",
-        "asset": "/media/2026/10/mythos-ares-frise-orientale-parthenon-bloc-iv-twospoonfuls.jpg",
-        "source": "parthenonfrieze.gr",
-        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
-        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        "ids": 128,
+        "anchors": 111,
+        "images": 42,
+        "figures": 42,
+        "words_approx": 57675
       },
       {
         "page": "philosophie-odyssee.html",
-        "id": "icono-odyssee-heracles-lion-nemee-met-s72-20261106",
-        "asset": "/media/2026/10/mythos-heracles-lion-nemee-oinochoe-met-06-1021-66.jpg",
-        "source": "metmuseum.org/art/collection/search/247235",
-        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
-        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        "ids": 127,
+        "anchors": 111,
+        "images": 41,
+        "figures": 41,
+        "words_approx": 55486
       },
       {
         "page": "philosophie-theogonie.html",
-        "id": "icono-theogonie-demeter-triptoleme-met-s72-20261106",
-        "asset": "/media/2026/10/demeter-triptolemos-peintre-niobides-met-41-162-98.jpg",
-        "source": "metmuseum.org/art/collection/search/254270",
-        "statut": "objet antique authentique ; photo non générée par IA ; ne représente pas directement le passage poétique",
-        "credit": "crédit, droits, datation, contexte de fabrication et critique du témoignage dans figcaption"
+        "ids": 129,
+        "anchors": 113,
+        "images": 41,
+        "figures": 41,
+        "words_approx": 56090
       }
     ],
-    "precommit_checks": {
-      "three_pages_checked": 3,
-      "figures_added": 3,
-      "duplicate_figure_ids": 0,
-      "missing_manifest_media": 0,
-      "missing_alt": 0,
-      "broken_same_page_anchors": 0,
-      "page_summaries": [
-        {
-          "page": "philosophie-iliade.html",
-          "old_images": 41,
-          "new_images": 42,
-          "old_figures": 41,
-          "new_figures": 42,
-          "ids": 128,
-          "hashlinks": 111,
-          "broken": 0,
-          "missing_alt": 0,
-          "oldLength": 438849,
-          "newLength": 440722,
-          "sourceSha": "bf6a1ba68a1d202e73629bced6e94f5af2364059"
-        },
-        {
-          "page": "philosophie-odyssee.html",
-          "old_images": 40,
-          "new_images": 41,
-          "old_figures": 40,
-          "new_figures": 41,
-          "ids": 127,
-          "hashlinks": 111,
-          "broken": 0,
-          "missing_alt": 0,
-          "oldLength": 420524,
-          "newLength": 422304,
-          "sourceSha": "25c768fe97f620b4d2e89d425736add4707be957"
-        },
-        {
-          "page": "philosophie-theogonie.html",
-          "old_images": 40,
-          "new_images": 41,
-          "old_figures": 40,
-          "new_figures": 41,
-          "ids": 129,
-          "hashlinks": 113,
-          "broken": 0,
-          "missing_alt": 0,
-          "oldLength": 424827,
-          "newLength": 426656,
-          "sourceSha": "565571dd210ae8f1ef549c4c9ccc9f0772e38b1b"
-        }
-      ],
-      "all_existing_text_preserved": "Insertion HTML uniquement, suppression du bloc ajouté restitue exactement le texte HTML source"
-    },
-    "preservation": "Aucun manuscrit universitaire, numéro canonique, UUID, registre, page de navigation, CSS, JavaScript, automatisation, image ou archive supprimé ou réécrit. Pas de 2,5D ni de menu incrusté.",
-    "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
-    "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
-    "next_session": "Séance 73 — AUDIT ET CORRECTION"
+    "page_checks_after": [
+      {
+        "page": "philosophie-iliade.html",
+        "ids": 129,
+        "anchors": 111,
+        "images": 43,
+        "figures": 43,
+        "words_approx": 57770
+      },
+      {
+        "page": "philosophie-odyssee.html",
+        "ids": 128,
+        "anchors": 111,
+        "images": 42,
+        "figures": 42,
+        "words_approx": 55589
+      },
+      {
+        "page": "philosophie-theogonie.html",
+        "ids": 130,
+        "anchors": 113,
+        "images": 42,
+        "figures": 42,
+        "words_approx": 56198
+      }
+    ],
+    "references": [
+      "Homère, Iliade IX, 502–514 : https://www.theoi.com/Text/HomerIliad9.html",
+      "Homère, Odyssée XIX, 386–507 : https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0012.tlg002.bryant1873-eng2/book%3A19/",
+      "Hésiode, Théogonie 713–735, 736–819 : https://www.theoi.com/Text/HesiodTheogony.html"
+    ],
+    "checks": "Trois HTML ciblés lus sur main ; titres/ancres et doublons contrôlés ; chaque insertion est un ajout isolé après le premier paragraphe du développement ciblé ; aucun texte antérieur modifié ; 3 nouveaux alt explicites, légendes, dates, sources et mention IA ; CSS responsive mythos-iconographie.css référencé et présent ; chaque image SVG dispose de title, desc, metadata et vue 1200×690.",
+    "minimum_length": "Les trois études comportent environ 55 000–58 000 mots de texte HTML brut chacune, largement plus que dix pages en estimation textuelle. Pagination effective PDF A4 non remesurée.",
+    "publication_status": "Commit GitHub prévu ; accessibilité HTTPS et déploiement public de cette séance non confirmés. Le web direct a échoué et le navigateur de secours n'a pas pu être utilisé (quota).",
+    "preservation": "Aucun manuscrit numéroté, registre, UUID, menu, page d'accueil, workflow, publication concurrente ni automatisation modifié. Pas de 2,5D.",
+    "tests": "Vérifications de structure des 3 HTML avant/après insertion, unicité des IDs, validité des ancres locales, alt, conservation littérale du contenu existant. Suite de tests complète GitHub Actions à contrôler.",
+    "next_session": "Séance 75 — AUDIT ET CORRECTION",
+    "commits": [],
+    "commit_note": "Commit atomique prévu avec sept fichiers (3 HTML, 3 SVG, 1 journal) ; SHA à vérifier dans l'historique."
   },
   "alternation_rule": "Avant chaque séance, consulter ce fichier et le dernier compte rendu; ne jamais répéter latest_session.kind. Après chaque séance, écrire latest_session.kind et next_kind.",
   "history": [
@@ -4552,6 +4552,158 @@
       "publication_status": "PR à valider ; aucun déploiement HTTPS de cette séance annoncé. Dernier manifeste public contrôlé : aaab3583b522dbd945f4014332e3f682325e5947 / run 42204008596.",
       "pages_a4": "Paginations historiques (>10 pages) non recalculées ; aucun texte universitaire retranché.",
       "next_session": "Séance 73 — AUDIT ET CORRECTION"
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 73,
+      "kind": "AUDIT ET CORRECTION",
+      "previous_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "next_kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "scope": "Audit post-iconographique des trois monographies philosophiques Iliade, Odyssée et Théogonie. Rétablissement de la vérification HTTPS des trois figures de la séance 72 (pages, légendes, statut, signatures JPEG et empreintes SHA-256).",
+      "source_main_at_review": "1c74cd307c6a68becc3927a5acb1c3882aac20a9",
+      "previous_session": 72,
+      "inspected_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "checks": {
+        "html_ids": 384,
+        "same_page_hash_links": 335,
+        "image_elements": 124,
+        "duplicate_html_ids": 0,
+        "broken_same_page_anchors": 0,
+        "images_without_alt": 0,
+        "three_figures_found": 3,
+        "distinct_media_found_in_git_tree": 3,
+        "media_sizes_bytes": [
+          6594541,
+          111291,
+          1551070
+        ],
+        "previous_inventory": {
+          "figures": 61,
+          "pages": 13,
+          "unique_media": 44
+        },
+        "revised_inventory": {
+          "figures": 64,
+          "pages": 13,
+          "unique_media": 47
+        }
+      },
+      "verified_error": "Les trois figures de la séance 72 sont présentes dans les pages source et dans les pages publiques, mais absentes de RECENT_FIGURES dans scripts/verify_live_site.py. Les contrôles habituels n'imposaient pas leurs notices HTTPS ni leurs sommes SHA-256 individuelles.",
+      "correction": "Extension de RECENT_FIGURES à trois triplets page / id / JPEG et mise à jour des assertions pour 64 figures sur 13 pages et 47 médias distincts. Nouveau test de non-régression contre une figure publique périmée et contre l'altération d'un JPEG de chacun des trois objets.",
+      "public_verification": {
+        "public_domain": "https://bobmythos.fr",
+        "manifest_source_commit": "3b3d181c640f7f097f16c9e112b0076203cfa3fa",
+        "manifest_github_run_id": "42254292001",
+        "indexed_documents": 1699,
+        "three_figures_https_present": true,
+        "three_figure_captions_and_status_https_present": true,
+        "jpeg_exact_sha256_https_checked": false,
+        "reason": "Les trois figures ont été directement vérifiées par sélecteur figure#id sur HTTPS, mais le contrôle binaire cryptographique se fera dans le vérificateur de publication. Ne pas confondre présence publique des notices et identité des octets."
+      },
+      "publication_status": "Trois notices de la séance 72 vérifiées sur le site public au commit 3b3d181c..., mais le présent correctif du vérificateur n'a pas encore été déployé. CI et Pages doivent être contrôlés après commit.",
+      "scientific_and_editorial_preservation": "Aucun titre, manuscrit, citation, numéro, UUID, reçu, registre, menu, fichier HTML scientifique ou image modifié. Les attributions anciennes, les origines et le statut IA des trois objets restent inchangés. Aucun vecteur 2,5D ajouté.",
+      "tests": "Vérification structurelle préalable des figures, des trois médias locaux, de la présence des légendes, des URL HTTPS et de la non-duplication. Nouveau test de défaillance HTTP simulée ; suite Python complète GitHub Actions à revérifier.",
+      "limits": "Pas de nouveau test visuel smartphone/tablette ni de recalcul PDF A4 ; contrôle exhaustif des liens scientifiques externes non fait ; l'identité des JPEG publics sera vérifiée par la CI de publication.",
+      "scheduling": "Aucun workflow ou paramètre de fréquence horaire modifié.",
+      "next_session": "Séance 74 — ENRICHISSEMENT ICONOGRAPHIQUE",
+      "commits": [],
+      "commit_note": "Commit atomique du vérificateur, des tests et du journal ; SHA à relever et relire après écriture."
+    },
+    {
+      "date": "2026-11-06",
+      "session_number": 74,
+      "kind": "ENRICHISSEMENT ICONOGRAPHIQUE",
+      "previous_kind": "AUDIT ET CORRECTION",
+      "next_kind": "AUDIT ET CORRECTION",
+      "previous_session": 73,
+      "scope": "Trois schémas éditoriaux originaux en 2D, complémentaires aux objets anciens et aux figures déjà présentes dans les monographies Iliade, Odyssée et Théogonie : Atê/Litaí (Iliade IX), cicatrice d'Ulysse (Odyssée XIX), profondeur du Tartare (Théogonie 713–819).",
+      "source_main_at_review": "41d7445bc1a54837e51cd02adb8a2f61c6f9ecb5",
+      "added_html_figures": 3,
+      "added_svg_assets": 3,
+      "modified_pages": [
+        "philosophie-iliade.html",
+        "philosophie-odyssee.html",
+        "philosophie-theogonie.html"
+      ],
+      "new_assets": [
+        "assets/philosophie/iliade-litai-ate-s74-20261106.svg",
+        "assets/philosophie/odyssee-eurycleia-cicatrice-s74-20261106.svg",
+        "assets/philosophie/theogonie-tartare-seuils-s74-20261106.svg"
+      ],
+      "figure_ids": [
+        "icono-iliade-litai-ate-s74-20261106",
+        "icono-odyssee-eurycleia-cicatrice-s74-20261106",
+        "icono-theogonie-tartare-seuils-s74-20261106"
+      ],
+      "page_checks_before": [
+        {
+          "page": "philosophie-iliade.html",
+          "ids": 128,
+          "anchors": 111,
+          "images": 42,
+          "figures": 42,
+          "words_approx": 57675
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "ids": 127,
+          "anchors": 111,
+          "images": 41,
+          "figures": 41,
+          "words_approx": 55486
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "ids": 129,
+          "anchors": 113,
+          "images": 41,
+          "figures": 41,
+          "words_approx": 56090
+        }
+      ],
+      "page_checks_after": [
+        {
+          "page": "philosophie-iliade.html",
+          "ids": 129,
+          "anchors": 111,
+          "images": 43,
+          "figures": 43,
+          "words_approx": 57770
+        },
+        {
+          "page": "philosophie-odyssee.html",
+          "ids": 128,
+          "anchors": 111,
+          "images": 42,
+          "figures": 42,
+          "words_approx": 55589
+        },
+        {
+          "page": "philosophie-theogonie.html",
+          "ids": 130,
+          "anchors": 113,
+          "images": 42,
+          "figures": 42,
+          "words_approx": 56198
+        }
+      ],
+      "references": [
+        "Homère, Iliade IX, 502–514 : https://www.theoi.com/Text/HomerIliad9.html",
+        "Homère, Odyssée XIX, 386–507 : https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0012.tlg002.bryant1873-eng2/book%3A19/",
+        "Hésiode, Théogonie 713–735, 736–819 : https://www.theoi.com/Text/HesiodTheogony.html"
+      ],
+      "checks": "Trois HTML ciblés lus sur main ; titres/ancres et doublons contrôlés ; chaque insertion est un ajout isolé après le premier paragraphe du développement ciblé ; aucun texte antérieur modifié ; 3 nouveaux alt explicites, légendes, dates, sources et mention IA ; CSS responsive mythos-iconographie.css référencé et présent ; chaque image SVG dispose de title, desc, metadata et vue 1200×690.",
+      "minimum_length": "Les trois études comportent environ 55 000–58 000 mots de texte HTML brut chacune, largement plus que dix pages en estimation textuelle. Pagination effective PDF A4 non remesurée.",
+      "publication_status": "Commit GitHub prévu ; accessibilité HTTPS et déploiement public de cette séance non confirmés. Le web direct a échoué et le navigateur de secours n'a pas pu être utilisé (quota).",
+      "preservation": "Aucun manuscrit numéroté, registre, UUID, menu, page d'accueil, workflow, publication concurrente ni automatisation modifié. Pas de 2,5D.",
+      "tests": "Vérifications de structure des 3 HTML avant/après insertion, unicité des IDs, validité des ancres locales, alt, conservation littérale du contenu existant. Suite de tests complète GitHub Actions à contrôler.",
+      "next_session": "Séance 75 — AUDIT ET CORRECTION",
+      "commits": [],
+      "commit_note": "Commit atomique prévu avec sept fichiers (3 HTML, 3 SVG, 1 journal) ; SHA à vérifier dans l'historique."
     }
   ]
 }

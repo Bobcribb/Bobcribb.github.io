@@ -1,15 +1,27 @@
-/* Native details remains usable without JavaScript. */
+/* Native <details> remains usable without JavaScript. Keep its label
+   synchronized with the actual disclosure state for assistive technology. */
 (() => {
   const menu = document.querySelector('.mythos-menu');
-  if (!menu) return;
+  const summary = menu?.querySelector('summary');
+  if (!menu || !summary) return;
+  const syncLabel = () => summary.setAttribute(
+    'aria-label', menu.open ? 'Fermer le menu' : 'Ouvrir le menu'
+  );
+  syncLabel();
+  menu.addEventListener('toggle', syncLabel);
   document.addEventListener('keydown', event => {
     if (event.key === 'Escape' && menu.open) {
       menu.open = false;
-      menu.querySelector('summary').focus();
+      syncLabel();
+      summary.focus();
+      event.preventDefault();
     }
   });
   document.addEventListener('click', event => {
-    if (menu.open && !menu.contains(event.target)) menu.open = false;
+    if (menu.open && !menu.contains(event.target)) {
+      menu.open = false;
+      syncLabel();
+    }
   });
 })();
 

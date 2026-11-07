@@ -564,6 +564,20 @@ def primary_folder_urls(links):
             and url != LINDIA_NOTICE}
 
 
+def verify_canonical_links(reference, links, page):
+    """All canonical links must survive; secondary access links may be added.
+
+    Extra links are still checked for valid targets by verify().  Rejecting
+    every extra link blocks the entire deployment after independent reading
+    enhancements add an otherwise valid access to a legacy portal.
+    """
+    missing = reference - links
+    assert not missing, (
+        f'Ancienne entrée restée incomplète : {page} — '
+        f'liens canoniques manquants : {sorted(missing)}'
+    )
+
+
 def verify(out, root):
     """Refuse un sommaire incomplet ou des liens de section introuvables."""
     from urllib.parse import urlsplit, unquote
@@ -602,7 +616,7 @@ def verify(out, root):
         assert "'+escape(" not in catalog.get_text(), 'Interpolation non résolue'
         if reference is None:
             reference = links
-        assert links == reference, f'Ancienne entrée restée incomplète : {page}'
+        verify_canonical_links(reference, links, page)
         for link in links:
             parsed = urlsplit(link)
             if parsed.scheme or parsed.netloc:

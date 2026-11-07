@@ -1,0 +1,44 @@
+{
+  "id": "DLS-LIO-001",
+  "slug": "delos-terrasse-lions-naxiens-vers-600-av-jc",
+  "title": "Délos — terrasse des Lions naxiens et lac Sacré, vers 600 av. J.-C.",
+  "period": "Époque archaïque, fin du VIIe ou début du VIe siècle av. J.-C. ; vue d’évocation vers 600 av. J.-C.",
+  "caption": "Panorama photoréaliste interprétatif de l’alignement des lions votifs naxiens à Délos, près du lac Sacré, vers 600 av. J.-C. ; nombre de statues, cheminement, paysage et bâtiments voisins partiellement hypothétiques.",
+  "commentary": "La terrasse des Lions (Άνδηρο των Λεόντων) est un des monuments votifs les plus caractéristiques de Délos. Les sculptures de lions en marbre, associées aux ateliers naxiens et dédiées à Apollon, jalonnaient le chemin reliant le sanctuaire à la zone du lac Sacré. L’Éphorie des Antiquités des Cyclades date leur érection de la fin du VIIe ou du début du VIe siècle av. J.-C., alors que l’île constituait déjà un lieu de mémoire et de pèlerinage autour d’Apollon et d’Artémis. Les fauves, représentés dressés sur leurs pattes antérieures, gueule ouverte et corps stylisé, s’alignaient comme des gardiens du parcours sacré : leur expression formelle manifeste l’activité des ateliers cycladiques de sculpture archaïque. Leur présence marque le paysage votif, mais ne livre pas à elle seule une scénographie rituelle précise. Le nombre initial des lions est incertain : plusieurs restitutions et publications proposent approximativement neuf à douze animaux, tandis que certaines présentations patrimoniales en évoquent jusqu’à seize. Le nombre figuré dans l’image constitue donc une option de mise en scène, sans valeur de décompte archéologique. Une partie seulement des statues anciennes est conservée et plusieurs sont fragmentaires. Les originaux subsistants ont été abrités dans le Musée archéologique de Délos autour de l’an 2000, leur exposition aux vents et aux embruns menaçant leur conservation ; les sculptures visibles aujourd’hui sur le site sont des copies. Il faut distinguer cet état muséographique contemporain de la situation évoquée vers 600 av. J.-C. Le lac Sacré, près duquel la terrasse avait été aménagée, appartenait à l’espace religieux de l’île ; son tracé exact à l’époque archaïque ne peut être tiré mécaniquement du terrain actuel. L’image donne une évocation d’un plan d’eau et d’un paysage cycladique, non une reconstruction géoréférencée de l’hydrologie ancienne. Le petit temple figuré à gauche, le pavage continu, les hauteurs des socles, leur espacement, la couleur apparente du marbre, les vêtements, les buissons et les reliefs lointains ne sauraient être attribués avec certitude à un même état historique vers 600 av. J.-C. L’édicule est particulièrement conjectural et ne doit être identifié à aucun sanctuaire précis. Cette vue numérique originale à apparence 3D, générée pour une médiation patrimoniale, n’est pas un relevé métrique ni une reconstruction validée par l’Éphorie, l’UNESCO, le musée ou les établissements documentaires cités. Les caractères, menus et cartouches éditoriaux sont volontairement absents des pixels ; les légendes et sources restent dans la notice.",
+  "certainty": "Élevé — localisation de la terrasse sur Délos ; dédicace naxienne à Apollon ; datation générale fin VIIe–début VIe siècle av. J.-C. ; sculptures archaïques de marbre représentant des lions en série ; voisinage du lac Sacré et de la voie du sanctuaire ; originaux conservés au musée et copies visibles sur place. Moyen — restitution approximative de l’alignement des statues sur leurs bases et de leur espacement, profil des corps et disposition d’ensemble à la date choisie, nombre initial approximatif. Faible — neuf/dix/plusieurs statues simultanément intactes, dimensions des socles, lac et sa connexion apparente à l’horizon marin, édicule voisin, murs, végétation, revêtement de la voie, densité de pèlerins, vêtements, éclairage, couleurs et position de caméra.",
+  "source_url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/",
+  "secondary_sources": [
+    "https://whc.unesco.org/en/list/530",
+    "https://www.hh.gr/en/destinations/delos/",
+    "https://marble.nd.edu/item/3dad8b47-5be8-495e-b6b9-eb4faa9b73cf"
+  ],
+  "src": "/assets/reconstitutions-3d/delos-terrasse-lions-naxiens-vers-600-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/delos-terrasse-lions-naxiens-vers-600-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-06",
+  "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Image originale numérique générée pour MYTHOS ; non mesurable et sans validation par les institutions citées. Aucun texte/menu intégré aux pixels.",
+  "sha256": "5a21ebda762623971e9b21f8673febbf0e1468d5bc13431f222bdf6ef64a66a9",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/delos-terrasse-lions-naxiens-vers-600-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Éphorie des Antiquités des Cyclades — site et musée archéologique de Délos, Lions naxiens et chronologie",
+      "url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/"
+    },
+    {
+      "label": "Centre du patrimoine mondial de l’UNESCO — Délos, authenticité et déplacement conservatoire des lions",
+      "url": "https://whc.unesco.org/en/list/530"
+    },
+    {
+      "label": "Hellenic Heritage — Délos, avenue des Lions, atelier naxien et copies",
+      "url": "https://www.hh.gr/en/destinations/delos/"
+    },
+    {
+      "label": "University of Notre Dame / Marble — photographie ancienne et étude de l’alignement naxien, vers 1910",
+      "url": "https://marble.nd.edu/item/3dad8b47-5be8-495e-b6b9-eb4faa9b73cf"
+    }
+  ],
+  "primary_texts": [],
+  "methodology": "Distinction explicite entre vestiges archéologiques, datations approximatives et scénographie interprétative ; pas de modèle 3D métrique ni de garantie sur le nombre des statues ou le lac ancien."
+}

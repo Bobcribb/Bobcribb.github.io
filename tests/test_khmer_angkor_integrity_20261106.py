@@ -25,7 +25,15 @@ def original_html():
     if not match:
         raise AssertionError("Bornes du contenu source manquantes")
     marked = match.group(1)
-    return re.sub(r'(<h[23]) id="khmer-lecture-\d+"', r"\1", marked)
+    # Les illustrations documentaires additionnelles sont insérées dans le
+    # lecteur, mais restent hors du blob source universitaire protégé.
+    marked = re.sub(
+        r'<figure class="mythos-editorial-inline"[^>]*>.*?</figure>',
+        "", marked, flags=re.S,
+    )
+    # Les identifiants de lecture sont ajoutés après les classes h2/h3.
+    # Les retirer uniquement pour vérifier le SHA du manuscrit conservé.
+    return re.sub(r'\s+id="khmer-lecture-\d+"', "", marked)
 
 class KhmerHistoricalVolumeTests(unittest.TestCase):
     def test_original_html_entire_and_sha(self):

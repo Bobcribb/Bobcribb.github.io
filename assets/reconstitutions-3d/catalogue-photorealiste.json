@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 74,
+  "count": 88,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2108,6 +2108,707 @@
         "Verdiani, Giorgio et Andrea Rosone, 'On Stage in Antiquity, On Screen in the Digital Age', Archeomatica, étude de documentation photogrammétrique du théâtre de Priène, DOI 10.48258/ARC.2025.I3.2165."
       ],
       "methodology": "Restitution visuelle photographique synthétique non métrique ; le compte exact des rangs, sièges et éléments construits ne doit pas être mesuré sur l’illustration."
+    },
+    {
+      "id": "PEL-DIO-001",
+      "slug": "pella-maison-dionysos-peristyles-vers-300-av-jc",
+      "title": "Pella (Macédoine) — maison de Dionysos, deux cours à péristyle, vers 300 av. J.-C.",
+      "period": "Fin du IVe siècle av. J.-C., environ 325–300 av. J.-C. ; évocation interprétative de la première phase de la maison à l’époque hellénistique.",
+      "caption": "Reconstitution photoréaliste numérique de la maison dite de Dionysos, à Pella, avec une cour à colonnes doriques, un passage monumental vers la seconde cour ionique et un andrôn de réception. Illustration hypothétique non métrique, sans éléments d’interface dans les pixels.",
+      "commentary": "La maison dite de Dionysos est une grande résidence urbaine de l’ancienne Pella, capitale du royaume macédonien, implantée au sud de l’agora. L’Éphorie des antiquités de Pella décrit pour cette maison une superficie approximative de 3 160 m² et des sols de mosaïques de galets de la fin du IVe siècle avant notre ère, notamment les scènes de Dionysos chevauchant une panthère, d’une chasse au lion, de centaures et d’un griffon. L’expression « maison de Dionysos » est une dénomination archéologique moderne tirée du décor figuré, non une identification antique de ses propriétaires. La Fondation du Monde Hellénique situe la phase la plus ancienne à la fin du IVe siècle et y identifie deux cours distinctes, l’une entourée de colonnes doriques et l’autre ionique, séparées par une aile comportant un passage monumental. Une aile méridionale pouvait comporter un étage. Des andrones, pièces de réception réservées aux banquets, participaient à l’organisation sociale et matérielle des maisons aisées de Pella : décors d’enduits colorés, mobilier et pavements de galets. L’image se place dans la cour dorique et suggère l’accès à la seconde cour ionique, tout en montrant l’andrôn au moment d’une réunion. Le pavage géométrique visible est inspiré de la technique des mosaïques macédoniennes, mais ne reproduit pas à l’identique ni à l’échelle les pavements conservés au musée archéologique de Pella. Les toitures en tuiles, le mobilier, les lits de banquet, le bassin et les plantations du patio, la forme des garde-corps de l’étage, les tonalités exactes des enduits et les personnages sont des propositions artistiques non attestées dans leur disposition précise. La perspective ne constitue ni un relevé photogrammétrique ni un modèle 3D architectural validé : la hauteur des pièces, les dimensions et le tracé des sols ne doivent pas être mesurés sur l’image. Les sources scientifiques et institutionnelles documentent le site et ses vestiges mais n’approuvent pas la présente restitution.",
+      "certainty": "Élevé : localisation à Pella ; grande résidence de la fin du IVe siècle av. J.-C. ; existence de deux cours à portiques de types dorique et ionique ; salles de réception et mosaïques de galets. Moyen : organisation et passage entre les deux cours ; superficies publiées ; interprétation d’un étage dans l’aile méridionale ; décor mural coloré et mobilier de banquet de type macédonien. Faible : disposition exacte des toits et des ouvertures ; scène de banquet et choix des personnages ; emplacement du bassin, des plantes et des amphores ; dessin précis du pavage visible, peinture décorative, textures, paysage et lumière.",
+      "source_url": "https://culturalegnatia.culture.gov.gr/en/route-stops/pella/",
+      "secondary_sources": [
+        "https://pella.ime.gr/en.html",
+        "https://www.palaceofpella.gr/ancient-pella-the-areas-and-the-monuments/?lang=en",
+        "https://historica.unibo.it/entities/publication/2c4a41d0-efc7-4cf5-96d7-e7e17891b279"
+      ],
+      "src": "/assets/reconstitutions-3d/pella-maison-dionysos-peristyles-vers-300-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution photoréaliste numérique à apparence 3D, non métrique et non photogrammétrique",
+      "provenance": "Image originale créée pour MYTHOS par génération numérique ; sans menus, titres, schémas 2,5D ni texte dans les pixels. Les institutions citées n’ont pas validé cette illustration.",
+      "sha256": "67e010d2923766e10c693e1de19ed6ed1dde61a8bc81acf73538afc54091987a",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/pella-maison-dionysos-peristyles-vers-300-av-jc.json"
+    },
+    {
+      "id": "AKR-ZEU-001",
+      "slug": "akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc",
+      "title": "Akragas (Agrigente) — Olympiéion de Zeus, télamons et chantier inachevé, vers 420 av. J.-C.",
+      "period": "Fin du Ve siècle av. J.-C. ; évocation conjecturale vers 420 av. J.-C., avant la prise d’Akragas en 406 av. J.-C.",
+      "caption": "Vue photoréaliste interprétative de l’Olympiéion d’Akragas en chantier : demi-colonnes doriques, télamons colossaux et couronnement encore inachevé, sans couverture définitive.",
+      "commentary": "L’Olympiéion d’Akragas, la cité grecque devenue Agrigente, occupait le secteur occidental de la colline des temples en Sicile. Sa construction est traditionnellement rattachée aux années qui suivirent la victoire d’Himère en 480 av. J.-C. contre les Carthaginois, dans le contexte du pouvoir de Théron et des entreprises monumentales civiques. L’édifice est distinct du temple dit de la Concorde, plus à l’est sur la même crête. Les fondations conservées et les enquêtes archéologiques attestent un projet exceptionnel, d’environ 112–113 m de longueur sur 56 m de largeur selon le référentiel de mesure, sur un crépidome de cinq degrés. Il ne s’agissait pas d’un péristyle ordinaire à colonnes libres mais d’un mur continu rythmé de demi-colonnes doriques engagées, généralement restituées à raison de sept sur les petits côtés et quatorze sur les longs. Les parties tournées vers l’intérieur avaient la forme de puissants pilastres, autour d’une grande salle. Des figures colossales d’hommes, dites télamons, de l’ordre de 7,6–8 m de haut, occupaient les travées entre les demi-colonnes dans les restitutions modernes. Leur placement vertical, leurs niveaux d’appui, le nombre exact de figures et leur rôle structurel précis restent discutés. Les fragments authentiques sont notamment étudiés et présentés au Musée archéologique Pietro Griffo ; les remontages contemporains et les copies sur le terrain ne doivent pas être confondus avec l’état antique. Diodore de Sicile (Bibliothèque historique, XIII, 82) décrit l’ordre colossal et l’inachèvement de la toiture au moment de la crise militaire de 406 av. J.-C. ; Polybe (Histoires, IX, 27) loue à son tour la grandeur de l’édifice inachevé. La date vers 420 av. J.-C. est choisie pour une évocation de chantier avant la prise d’Akragas et ne correspond pas à un état architectural documenté pierre par pierre. L’image met en scène un ensemble monumental élevé mais sans couverture complète, avec ouvriers, échafaudages, blocs préparés, rampe et foyer d’autel. La représentation est délibérément explicative mais non métrique : elle simplifie les rapports réels entre demi-colonnes et paroi fermée, qui peuvent évoquer visuellement un péristyle ouvert à tort. Les télamons ne doivent pas être pris ici comme une restitution d’anastylose géométrique, et l’on ne sait pas s’ils étaient tous installés au moment fictif choisi. Le sommet des murs, les gradins, le dessin des soubassements, les superstructures, les accès, les couleurs, la végétation, les costumes, le chantier et l’horizon sont artistiquement interprétés. Les sources littéraires postérieures et les vestiges n’autorisent pas à traiter l’image comme une photographie antique ou un modèle archéologique validé. Aucun organisme cité n’a conçu ni approuvé ce rendu.",
+      "certainty": "Élevé : site d’Akragas, culte de Zeus Olympien, grandes dimensions approximatives, principe du mur continu à demi-colonnes doriques, vestiges de télamons monumentaux, chantier antique inachevé. Moyen : datation contextualisée du lancement après 480 av. J.-C., typologie de sept demi-colonnes sur les fronts et quatorze sur les flancs, séquence de construction, emplacement vertical restitué des télamons et volumes généraux. Faible : état exact en 420 av. J.-C., position individuelle et nombre de télamons représentés, entablement et angles, détails de chantier, restitution de l’autel, outils, ouvriers, costumes, polychromie, environnement et éclairage.",
+      "source_url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/blog/2023/01/12/il-telamone-dellolympeion-nella-valle-dei-templi-di-agrigento/",
+      "secondary_sources": [
+        "https://www.regione.sicilia.it/la-regione-informa/agrigento-svelato-telamone-tempio-zeus-schifani-ora-si-punti-migliorare-servizi",
+        "https://museogriffo.it/en/explore-the-museum/collections/room-6",
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/13D%2A.html",
+        "https://publications.dainst.org/journals/efb/article/view/1599",
+        "https://whc.unesco.org/document/154396"
+      ],
+      "src": "/assets/reconstitutions-3d/akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale produite par génération assistée par IA pour MYTHOS ; aucune interface, menu, texte, logo, schéma 2,5D ou filigrane dans les pixels. Les institutions citées ne cautionnent pas cette image.",
+      "sha256": "1ecf1e961b026d36c63a75be48ec8ab1bb89ff9b3b593433e841d9029d58d18e",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/akragas-olympieion-zeus-telamons-chantier-vers-420-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parc archéologique de la Vallée des Temples — Le télamon de l’Olympiéion (2023)",
+          "url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/blog/2023/01/12/il-telamone-dellolympeion-nella-valle-dei-templi-di-agrigento/"
+        },
+        {
+          "label": "Regione Siciliana — fiche technique sur le temple de Zeus et la restitution du télamon (2024)",
+          "url": "https://www.regione.sicilia.it/la-regione-informa/agrigento-svelato-telamone-tempio-zeus-schifani-ora-si-punti-migliorare-servizi"
+        },
+        {
+          "label": "Museo Archeologico Pietro Griffo — salle 6 : histoire du temple et des télamons",
+          "url": "https://museogriffo.it/en/explore-the-museum/collections/room-6"
+        },
+        {
+          "label": "Diodore de Sicile, Bibliothèque historique XIII, 82.1–5 (traduction de consultation)",
+          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/13D%2A.html"
+        },
+        {
+          "label": "Deutsches Archäologisches Institut — H.-J. Beste, Agrigent, Italien: Das Olympieion (2023)",
+          "url": "https://publications.dainst.org/journals/efb/article/view/1599"
+        },
+        {
+          "label": "UNESCO — Agrigente, présentation patrimoniale des vestiges",
+          "url": "https://whc.unesco.org/document/154396"
+        }
+      ],
+      "primary_texts": [
+        "Diodore de Sicile, Bibliothèque historique, XIII, 82.1–5 : murs et colonnes engagées, grandeur, inachèvement.",
+        "Polybe, Histoires, IX, 27 : monument grandiose mais inachevé (témoignage tardif)."
+      ],
+      "methodology": "Vue artistique non métrique et non photogrammétrique ; différencier vestiges, témoignages antiques et hypothèses de restitution, notamment la place des télamons.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "DOD-OAK-001",
+      "slug": "dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc",
+      "title": "Dodone (Épire) — chêne oraculaire, Hiera Oikia et portiques de Pyrrhus, vers 280 av. J.-C.",
+      "period": "Début du IIIe siècle av. J.-C. ; évocation du programme monumental de Pyrrhus vers 280 av. J.-C., avant le sac étolien de 219.",
+      "caption": "Reconstitution numérique photoréaliste de la cour cultuelle de Dodone vers 280 av. J.-C. : grand chêne oraculaire, petite Maison sacrée (Hiera Oikia), portiques ioniques et offrandes votives ; architecture et rituel partiellement hypothétiques.",
+      "commentary": "Le sanctuaire de Dodone (Dōdṓnē, Δωδώνη) se situe en Épire, sous le massif du Tomaros, dans une région différente de celle des oracles d’Apollon. Le cœur du culte était un chêne sacré (phēgós, φηγός), associé à Zeus Naios et à Dione ; l’oracle mobilisait le bruissement du feuillage, les oiseaux et, selon des traditions antiques, le son d’objets de bronze. La procédure exacte a varié selon les époques et reste débattue : les plus de 4 000 lamelles de plomb découvertes attestent surtout des questions inscrites, parfois personnelles ou économiques, sans permettre de rejouer une consultation unique. Le site fut longtemps de plein air ; le premier petit édifice rectangulaire, souvent appelé Hiera Oikia (ἱερὰ οἰκία, « Maison sacrée »), fut élevé au commencement du IVe siècle av. J.-C. près du chêne. La monumentalisation sous les Molosses fit apparaître une enceinte autour du temple et de l’arbre à la fin du IVe siècle. Au début du IIIe siècle, sous Pyrrhus (règne 297–272 av. J.-C.), une enceinte plus ample, bordée de portiques ioniques sur les côtés nord, ouest et sud, remplaça la précédente ; le côté oriental, voisin du chêne oraculaire, resta ouvert. Le vaste théâtre et les bâtiments politiques appartiennent au même grand programme monumental, mais ne sont pas visibles dans cette composition centrée sur la cour cultuelle. La phase évoquée ici vers 280 av. J.-C. est antérieure à la destruction étolienne de 219 et à la reconstruction ultérieure de la Hiera Oikia avec quatre colonnes ioniques de façade. Il serait donc anachronique de représenter dans cette scène le grand nouveau temple postérieur de la fin du IIIe siècle. L’image montre un chêne ancien dominant une cour dallée, un petit temple maçonné, des portiques ioniques, des objets votifs en bronze et quelques personnes, à une échelle volontairement humaine. Le bâtiment central à deux colonnes ioniques, la dimension réelle du chêne, son emplacement précis par rapport au petit édifice, la densité des portiques, le dallage, les dédicaces suspendues aux branches, les bassins à fumée, les offrandes animales, les tenues et les gestes des participants ne sont pas fixés par les vestiges avec cette précision. Les scènes d’une prêtresse tenant une tablette ou de fidèles consultant le chêne constituent des dispositifs de visualisation, et non la restitution d’un rituel observé. Les matériaux, la couleur des couvertures, la hauteur des colonnes, l’environnement végétal et la perspective sont artistiques. L’image est une visualisation numérique photoréaliste à apparence 3D, non un modèle métrique ou géoréférencé. Aucune institution citée n’a participé à sa création ni validé sa géométrie.",
+      "certainty": "Élevé : localisation du sanctuaire de Dodone en Épire, rôle central du chêne dans le culte de Zeus Naios et de Dione, nombreuses lamelles oraculaires de plomb, petite Hiera Oikia du début du IVe siècle, agrandissement sous Pyrrhus au début du IIIe siècle, portiques ioniques au nord, à l’ouest et au sud, ouverture vers l’est ; reconstruction postérieure à la destruction étolienne de 219 av. J.-C. Moyen : restitution du plan général de la cour et de ses portiques vers 280, élévation du petit bâtiment, répartition des objets votifs et son intégration visuelle à la cour. Faible : position exacte, âge et silhouette du chêne, colonnes de la façade du petit édifice, proportions métriques et décor des toitures, dallage, bassins, objets suspendus, scénographie de la consultation, personnages, costume, végétation et atmosphère lumineuse.",
+      "source_url": "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/dodoni/",
+        "https://www.namuseum.gr/en/monthly_artefact/seeking-answers-from-the-gods/",
+        "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/at-a-time-when-the-temple-of-dodonean-zeus-had-no-walls-until-the-first-century-bce/A92E0035082692EB9E0E82169C5CAA15",
+        "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/materialist-insights-the-tablets-of-dodona-as-objects/E1ED7BCD7941E162AFBBEFE2487F3C24"
+      ],
+      "src": "/assets/reconstitutions-3d/dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Création numérique originale assistée par IA pour MYTHOS. Aucun texte, interface ou schéma 2,5D intégré dans les pixels ; aucun organisme cité n’a validé ce rendu.",
+      "sha256": "5dff12619b9d89d23dee0d78002482570c6b10a465a4c3d896165fdb2a625db6",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/dodone-hiera-oikia-chene-oraculaire-vers-280-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Ministère grec de la Culture / Éphorie des antiquités d’Ioannina — Dodone, parcours culturel Egnatia, Hiera Oikia et phases du sanctuaire",
+          "url": "https://culturalegnatia.culture.gov.gr/en/route-stops/dodona/"
+        },
+        {
+          "label": "Hellenic Heritage — Dodoni : sanctuaire oraculaire et construction sous Pyrrhus",
+          "url": "https://www.hh.gr/en/destinations/dodoni/"
+        },
+        {
+          "label": "Musée archéologique national d’Athènes — Seeking answers from the Gods, lamelles oraculaires de Dodone",
+          "url": "https://www.namuseum.gr/en/monthly_artefact/seeking-answers-from-the-gods/"
+        },
+        {
+          "label": "Visiting the Oracle at Dodona (Cambridge University Press, 2026), chapitre 1 : phases architecturales et sources",
+          "url": "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/at-a-time-when-the-temple-of-dodonean-zeus-had-no-walls-until-the-first-century-bce/A92E0035082692EB9E0E82169C5CAA15"
+        },
+        {
+          "label": "Visiting the Oracle at Dodona (Cambridge University Press, 2026), chapitre 4 : objets et lamelles de consultation",
+          "url": "https://www.cambridge.org/core/books/visiting-the-oracle-at-dodona/materialist-insights-the-tablets-of-dodona-as-objects/E1ED7BCD7941E162AFBBEFE2487F3C24"
+        }
+      ],
+      "primary_texts": [
+        "Hérodote, Histoires, II, 54–57 : récit de fondation et chêne oraculaire.",
+        "Homère, Odyssée, XIV, 327–330 ; XIX, 296–299 : consultation de Dodone dans le récit d’Ulysse."
+      ],
+      "methodology": "Restitution artistique non métrique à partir des phases archéologiques documentées : Hiera Oikia du IVe siècle, enceinte à trois portiques ioniques sous Pyrrhus vers 280 av. J.-C. sans temple postérieur à 219 ; élévations, mobilier et rituel hypothétiques.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "KAS-AGO-001",
+      "slug": "kassope-agora-stoas-katagogion-vers-190-av-jc",
+      "title": "Kassopè (Épire) — agora, portiques et Katagôgion, vers 190 av. J.-C.",
+      "period": "Époque hellénistique, évocation vers 190 av. J.-C., avant les destructions romaines de 167 av. J.-C.",
+      "caption": "Vue numérique photoréaliste interprétative de l'agora de Kassopè : place bordée de portiques doriques, édifices civiques, maisons et panorama sur le golfe Ambracique ; volumes conjecturaux.",
+      "commentary": "Kassopè (Κασσώπη, Kassōpē), cité grecque d'Épire et centre des Kassopaioi, fut fondée au IVe siècle av. J.-C. sur un plateau dominant la plaine prévézane, le golfe Ambracique et la mer Ionienne, sur les versants du Zalongo. La ville possédait un parcellaire régulier, un réseau de rues et d'évacuation des eaux, des maisons en îlots, un théâtre et un ensemble monumental organisé autour de l'agora. La topographie du plateau, les murs de grand appareil et les traces d'organisation urbaine sont documentés par les fouilles et les institutions grecques. L'agora occupait un secteur en balcon vers le sud-est, avec un portique dorique sur le bord nord et un autre sur l'ouest, un bâtiment d'assemblée ou petit théâtre vers l'est, et des édifices civiques. La stoa nord possède un stylobate fouillé sur une longueur d'environ 63 m, d'après la chronique archéologique de 1981. Le Katagôgion, édifice monumental à cour et chambres au nord de l'agora, a reçu plusieurs interprétations : hébergement public, espace commercial ou bâtiment civique ; il ne faut pas lui imposer une fonction unique. Le complexe occidental reconnu comme prytanée comprenait une cour péristyle et plusieurs salles, dont la structure et les usages sont discutés dans les rapports de fouilles. Les portiques doriques sont présents dans les synthèses locales, mais leurs chronologies respectives et l'extension des états visibles ne sont pas identiques : la stoa occidentale est souvent placée au IIe siècle av. J.-C. La date vers 190 av. J.-C. correspond donc à une évocation de la ville peu avant la dévastation romaine de l'Épire en 167 ; elle n'est pas une datation précise de chaque bâtiment. La représentation montre le côté sud-est de la place publique, un long portique dorique au nord, un deuxième à l'ouest, les façades de plusieurs bâtiments civiques et un quartier de maisons. Les édifices ainsi que leur placement relatif résultent d'une synthèse perspective et non d'une translation exacte d'un plan de fouilles ; notamment le bâtiment à fronton sur le côté est est une simplification artistique et ne doit pas être identifié à une restitution mesurée du Bouleutérion. Les matériaux supérieurs (briques, enduits, charpentes et tuiles), les détails des chapiteaux, les statues, les étals, les figurants, les couleurs et la distribution des végétaux sont hypothétiques. Le panorama donne un aperçu spatial de la vie civique hellénistique mais ne constitue ni un relevé géoréférencé, ni une photographie historique, ni un modèle 3D archéométrique expertisé. Les sources citées n'ont pas participé à la génération et n'ont pas validé l'image.",
+      "certainty": "Élevé : site de Kassopè dans l'Épire grecque, fondation au IVe siècle, plateau du Zalongo et panorama vers la mer Ionienne, plan urbain régulier, présence d'une agora, de portiques, du Katagôgion, de bâtiments civiques et de maisons. Moyen : organisation générale des deux stoas, emplacement relatif du bâtiment d'assemblée, attribution fonctionnelle du prytanée et du Katagôgion, chronologie des portiques à la transition IIIe–IIe siècles, encombrement et volumétrie générale de l'agora. Faible : élévation et hauteur exactes des façades, frontons, statues et chapiteaux visibles, nombre de travées, tuiles, matériaux peints, présence de boutiques, figures humaines, vêtements, végétation, perspective et état synchronique de chaque construction vers 190 av. J.-C.",
+      "source_url": "https://www.hh.gr/en/destinations/kassopi/",
+      "secondary_sources": [
+        "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5608",
+        "https://discoverpreveza.gr/archeological-site-cassope/?lang=en",
+        "https://chronique.efa.gr/?id=20501&r=report",
+        "https://chronique.efa.gr/?id=20020&r=report",
+        "https://www.persee.fr/doc/bch_0007-4217_1978_num_102_2_18540"
+      ],
+      "src": "/assets/reconstitutions-3d/kassope-agora-stoas-katagogion-vers-190-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/kassope-agora-stoas-katagogion-vers-190-av-jc.webp",
+      "width": 1671,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique et non archéométrique",
+      "provenance": "Création originale assistée par génération d'image pour MYTHOS, sans menu, légende, logo, texte ou schéma 2,5D inscrits dans les pixels ; aucune institution n'a validé la modélisation.",
+      "sha256": "87cd9092856a79a9f9c0ef98e1c9c6c4afc7b27a541415b396910f5005fceb85",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/kassope-agora-stoas-katagogion-vers-190-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Hellenic Heritage — Kassopi : site, habitat, portiques et urbanisme",
+          "url": "https://www.hh.gr/en/destinations/kassopi/"
+        },
+        {
+          "label": "Ministère grec de la Culture — mise en valeur de Kassopè (2026)",
+          "url": "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5608"
+        },
+        {
+          "label": "Municipalité de Prévéza — Archaeological Site of Cassope : agora et édifices",
+          "url": "https://discoverpreveza.gr/archeological-site-cassope/?lang=en"
+        },
+        {
+          "label": "École française d'Athènes — Chronique des fouilles, Kassopè, campagne 1981 : stoa nord de 63 m",
+          "url": "https://chronique.efa.gr/?id=20501&r=report"
+        },
+        {
+          "label": "École française d'Athènes — Chronique des fouilles, Kassopè 1983 : secteur du prytanée",
+          "url": "https://chronique.efa.gr/?id=20020&r=report"
+        },
+        {
+          "label": "Bulletin de correspondance hellénique, rapport 1978 : urbanisme de Kassopè et Katagôgion",
+          "url": "https://www.persee.fr/doc/bch_0007-4217_1978_num_102_2_18540"
+        }
+      ],
+      "primary_texts": [
+        "Documentation principale archéologique et institutionnelle : absence de source ancienne permettant de restituer les façades précises de l'agora vers 190 av. J.-C."
+      ],
+      "methodology": "Restitution interprétative de synthèse sur la base de descriptions archéologiques ; aucun relevé métrique ou alignement de phase stratigraphique des élévations proposées.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "THR-APO-001",
+      "slug": "thermos-apollon-thermios-temple-archaique-vers-620-av-jc",
+      "title": "Thermos (Étolie) — premier temple d’Apollon Thermios en bois et terre cuite, vers 620 av. J.-C.",
+      "period": "Époque archaïque ancienne, vers 620 av. J.-C. ; état interprétatif antérieur aux reconstructions et ajouts hellénistiques.",
+      "caption": "Reconstitution photoréaliste interprétative du premier temple d’Apollon Thermios : long péristyle archaïque en bois, métopes peintes et antéfixes de terre cuite. Vue non métrique, couleurs et figures conjecturales.",
+      "commentary": "Le sanctuaire de Thermos, en Étolie (Grèce occidentale), occupe une position intérieure proche du lac Trichonida et devint le foyer religieux puis politique du Koinon étolien. La nouvelle restitution représente le premier grand temple d’Apollon Thermios, vers 620 av. J.-C., et non son remaniement hellénistique. Selon l’Éphorie des Antiquités d’Étolie-Acarnanie et de Leucade, ce temple, construit à l’emplacement du Mégaron B plus ancien, présente un péristyle particulièrement allongé de cinq colonnes sur les petits côtés et quinze sur les longs côtés, un axe nord-sud inhabituel et une emprise d’environ 38,23 × 12,13 m. Le premier état monumental était caractérisé par une architecture majoritairement en bois — colonnes et éléments de superstructure — sur des fondations et bases de pierre, avec couvertures et revêtements architecturaux de terre cuite. Des métopes peintes de scènes mythologiques, des antéfixes à visages et des têtes de protomés constituent des témoins particulièrement importants de la peinture grecque archaïque. Les fragments conservés au Musée archéologique de Thermos attestent un décor de terre cuite et une polychromie, mais n’imposent pas la distribution imagée, la palette exacte ni les silhouettes inventées dans ce visuel. Un espace cultuel à ciel ouvert existait sur le site pendant les VIIIe et VIIe siècles, après la destruction du Mégaron B à la fin du IXe ou au début du VIIIe siècle : le temple monumental ne doit donc pas être confondu avec cette première phase cultuelle. Au IVe et surtout au IIIe siècle av. J.-C., le sanctuaire devint un grand espace politique doté de stoas, archives, bâtiments publics et fortifications ; ces constructions tardives sont volontairement exclues de la vue datée vers 620. La représentation montre un temple couvert à colonnade extérieure en bois, des appliques décoratives polychromes et un petit autel fumant devant sa façade, dans un paysage méditerranéen intérieur avec relief et eau à l’horizon. La silhouette du fronton et ses motifs figurés, le nombre de colonnes que la perspective laisse voir, l’élévation des piliers, la hauteur du toit, les galbes des chapiteaux, les dispositifs de drainage, les motifs précis des métopes, les cheminements, les figurants et la proximité apparente du lac sont des choix visuels et non des données archéométriques. L’image constitue une évocation documentaire contemporaine, sans modèle 3D mesurable ni restitution certifiée par l’Éphorie, le Musée de Thermos ou les autres institutions citées. Aucune interface, menu ou typographie n’est incrustée dans le fichier.",
+      "certainty": "Élevé — existence du sanctuaire d’Apollon Thermios à Thermos ; site lié à l’ancien Mégaron B ; monument archaïque édifié vers 620 av. J.-C. ; plan allongé, péristasis 5 × 15, orientation nord-sud et dimensions d’environ 38,23 × 12,13 m attestés par l’Éphorie ; construction première en bois avec éléments de terre cuite peints et bases de pierre. Moyen — restitution typologique d’un péristyle et d’une toiture achevés ; couleur générale des revêtements et logique des antéfixes ; localisation relative de l’autel dans le sanctuaire. Faible — sculpture ou peinture figurée précise du fronton, scénographie des métopes, teinte et section des colonnes, profil des chapiteaux, hauteur des éléments, état simultané de toutes les parties du bâtiment, proximité visible du lac, paysage végétal, figurants, costumes, traces de fumée, ombres et point de vue.",
+      "source_url": "https://www.efaaitl.gr/arch_sites/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%83-%CF%87%CF%89%CF%81%CE%BF%CF%83-%CE%B8%CE%B5%CF%81%CE%BC%CE%BF%CF%85/",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/thermos/",
+        "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c16c/archaeological-museum-of-thermos",
+        "https://www.persee.fr/doc/reg_0035-2039_1901_num_14_61_6088"
+      ],
+      "src": "/assets/reconstitutions-3d/thermos-apollon-thermios-temple-archaique-vers-620-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/thermos-apollon-thermios-temple-archaique-vers-620-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale créée avec génération visuelle assistée par IA pour MYTHOS ; aucun relevé métrique, aucune validation archéologique institutionnelle, aucun menu ni texte incrusté.",
+      "sha256": "d3ddd820ad180eb7e5802c4d8a084d034345fbf633e5f31094de0c02c86f50de",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/thermos-apollon-thermios-temple-archaique-vers-620-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités d’Étolie-Acarnanie et de Leucade — Thermos, historique, plan et vestiges (grec)",
+          "url": "https://www.efaaitl.gr/arch_sites/%CE%B1%CF%81%CF%87%CE%B1%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%83-%CF%87%CF%89%CF%81%CE%BF%CF%83-%CE%B8%CE%B5%CF%81%CE%BC%CE%BF%CF%85/"
+        },
+        {
+          "label": "Hellenic Heritage — Thermos, sanctuaire panétolien d’Apollon",
+          "url": "https://www.hh.gr/en/destinations/thermos/"
+        },
+        {
+          "label": "Ministère grec de la Culture — Musée archéologique de Thermos, collections du sanctuaire",
+          "url": "https://archaeologicalmuseums.culture.gov.gr/en/museum/5df34af3deca5e2d79e8c16c/archaeological-museum-of-thermos"
+        },
+        {
+          "label": "Henri Lechat, « Le temple de Thermos », Revue des Études Grecques 14 (1901), p. 409–479 (réception ancienne des fouilles)",
+          "url": "https://www.persee.fr/doc/reg_0035-2039_1901_num_14_61_6088"
+        }
+      ],
+      "primary_texts": [
+        "Documentation archéologique et rapports de fouilles ; pour ce monument, les données architecturales mobilisées proviennent surtout des vestiges et de leur interprétation moderne."
+      ],
+      "methodology": "Synthèse artistique explicitement non métrique ; l’ordonnance 5 × 15 et l’architecture bois/terre cuite documentées ne garantissent pas la fidélité des proportions affichées ni l’iconographie inventée des plaques.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "KEA-KAR-ATH-001",
+      "slug": "kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc",
+      "title": "Karthaia (Kéa, Cyclades) — temple dit « d’Athéna » au-dessus du sanctuaire d’Apollon, vers 490 av. J.-C.",
+      "period": "Vers 490 av. J.-C. — fin de l’époque archaïque et début de l’époque classique ; temple supérieur daté vers 500 av. J.-C.",
+      "caption": "Vue photoréaliste 3D interprétative des deux terrasses sacrées de Karthaia au-dessus de la baie de Poles : temple dorique périptère supérieur dit « d’Athéna » et sanctuaire inférieur d’Apollon. Reconstitution non métrique.",
+      "commentary": "L’ancienne Karthaia (Καρθαία) occupe l’extrémité sud-est de l’île de Kéa, dans les Cyclades, au-dessus de la double baie de Poles. Elle constituait, avec Ioulis, Korésia et Poiessa, l’une des quatre cités antiques de l’île. Son acropole monumentale présente deux terrasses superposées au-dessus du rivage. Le sanctuaire inférieur correspond au grand temple de l’Apollon Pythien, daté des environs de 530 av. J.-C. : un édifice dorique prostyle, hexastyle en parastade, d’environ 16,00 × 31,15 m et de huit mètres de haut selon l’Éphorie des Antiquités des Cyclades. Le sanctuaire de la terrasse supérieure contient un temple dorique périptère de 6 × 11 colonnes, d’environ 12,00 × 23,20 m et de 8,70 m de haut selon la même autorité, daté vers 500 av. J.-C. Il est habituellement désigné comme temple « d’Athéna », mais cette dédicace est une attribution hypothétique, non une identification certaine. Le temple supérieur compte parmi les plus anciens temples doriques périptères des Cyclades. Des fragments de la statuaire de fronton et d’acrotères, notamment liés à une Amazonomachie, sont conservés au musée archéologique de Kéa à Ioulis. L’image propose une restitution visuelle de synthèse placée vers 490 av. J.-C., après l’édification du temple supérieur. Elle montre au premier plan le sanctuaire perché, des murs de soutènement en blocs et, plus bas, un autre temple évoquant l’édifice d’Apollon. Le promontoire, la baie et l’étagement des deux espaces cultuels résument des données topographiques vérifiables, mais l’angle de vue, les proportions apparentes et l’écartement relatif des constructions ne sont pas reconstruits à partir d’une photogrammétrie ou d’un relevé métrique. La sculpture visible dans le fronton du temple supérieur ne reproduit pas une reconstitution contrôlée de l’Amazonomachie. Les toitures de tuiles, la polychromie, les détails de l’entablement, la forme des murs, les entrées des cellae, les vêtements des figures humaines, la végétation et les couleurs du paysage sont conjecturaux. La géométrie des colonnes peinte par un modèle génératif peut ne pas respecter exactement le décompte et les proportions des plans publiés : les chiffres 6 × 11 et 6 colonnes en façade proviennent des sources, et ne doivent pas être déduits en comptant les pixels de l’image. Le propylon monumental qui donnera accès à la terrasse supérieure est daté du milieu du Ve siècle av. J.-C. et ne doit pas être supposé déjà achevé en 490. Le « bâtiment D », vers 300 av. J.-C., et le théâtre de pierre, du IVe siècle av. J.-C., sont également postérieurs à l’état choisi et ne figurent donc pas dans cette synthèse. La cité et ses quartiers contemporains sont volontairement peu détaillés. La création numérique photoréaliste est une illustration à apparence 3D, non un modèle 3D mesurable, une restitution scientifique validée ou une photographie d’un état antique. Les institutions citées n’ont ni commandé ni validé l’image.",
+      "certainty": "ÉLEVÉ — emplacement de Karthaia au-dessus de la baie de Poles ; terrasses cultuelles superposées ; présence du temple inférieur d’Apollon (vers 530 av. J.-C.) et du temple supérieur dorique (vers 500 av. J.-C.) ; plan 6 × 11 de ce dernier et caractère périptère ; dimensions générales publiées par l’Éphorie ; vestiges sculptés du fronton. MOYEN — état de l’ensemble vers 490 av. J.-C., silhouette de l’élévation et rapport topographique général entre les constructions. FAIBLE — dédicace du temple supérieur à Athéna ; sculpture précise du fronton, acrotères, enduits et peintures, détail de toiture, élévation des murs de soutènement, emplacement des figures et offrandes, répartition de la végétation, lumière, relief exact et alignement apparent des monuments dans le panorama.",
+      "source_url": "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/",
+      "secondary_sources": [
+        "https://cyclades.culture.gov.gr/en/location/the-tetrapolis-of-kea/",
+        "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-site-of-karthaia",
+        "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=1410",
+        "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/"
+      ],
+      "src": "/assets/reconstitutions-3d/kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste à apparence 3D, interprétative et non métrique",
+      "provenance": "Image originale générée pour MYTHOS par un modèle de création d’images. Aucune interface, logo, légende, menu, typographie incrustée ou schéma 2,5D. Sources non cautionnantes.",
+      "sha256": "2892bf1e22b9b03645664cda39561e717ed29a045fdb415e91fe4e72b94dccd7",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/kea-karthaia-temple-dit-athena-deux-terrasses-vers-490-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités des Cyclades — Ancient Karthaia of Kea, dossier officiel des deux temples, des dimensions, des fouilles et des phases",
+          "url": "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/",
+          "kind": "institution"
+        },
+        {
+          "label": "Éphorie des Antiquités des Cyclades — The Tetrapolis of Kea, contexte historique et archéologique",
+          "url": "https://cyclades.culture.gov.gr/en/location/the-tetrapolis-of-kea/",
+          "kind": "institution"
+        },
+        {
+          "label": "Visit Greece / Organisation nationale du tourisme — Archaeological Site of Karthaia",
+          "url": "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-site-of-karthaia",
+          "kind": "institution"
+        },
+        {
+          "label": "Ministère grec de la Culture — Conservation et mise en valeur de l’ancienne Karthaia de Kéa",
+          "url": "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=1410",
+          "kind": "institution"
+        },
+        {
+          "label": "Simantoni-Bournia, E., Mendoni, L. G., Panagou, T. M., Καρθαία. Ἐλαχύνωτον στέρνον χθονός, Athènes, 2009 — bibliographie recommandée par l’Éphorie",
+          "url": "https://cyclades.culture.gov.gr/en/location/ancient-karthaia-of-kea/",
+          "kind": "bibliographie"
+        }
+      ],
+      "primary_texts": [
+        "Pindare, Péans, IV (mention de Karthaia selon l’Éphorie des Cyclades ; portée exacte à contrôler dans une édition critique)."
+      ],
+      "methodology": "Visualisation interprétative de synthèse d’après le plan et la topographie publiés ; image 2D photoréaliste à apparence 3D, non géoréférencée, sans validation institutionnelle. Distinguer les données archéologiques des choix artistiques.",
+      "publication_status": "fichier_prepare_non_publie_https_a_verifier"
+    },
+    {
+      "id": "DLS-LIO-001",
+      "slug": "delos-terrasse-lions-naxiens-vers-600-av-jc",
+      "title": "Délos — terrasse des Lions naxiens et lac Sacré, vers 600 av. J.-C.",
+      "period": "Époque archaïque, fin du VIIe ou début du VIe siècle av. J.-C. ; vue d’évocation vers 600 av. J.-C.",
+      "caption": "Panorama photoréaliste interprétatif de l’alignement des lions votifs naxiens à Délos, près du lac Sacré, vers 600 av. J.-C. ; nombre de statues, cheminement, paysage et bâtiments voisins partiellement hypothétiques.",
+      "commentary": "La terrasse des Lions (Άνδηρο των Λεόντων) est un des monuments votifs les plus caractéristiques de Délos. Les sculptures de lions en marbre, associées aux ateliers naxiens et dédiées à Apollon, jalonnaient le chemin reliant le sanctuaire à la zone du lac Sacré. L’Éphorie des Antiquités des Cyclades date leur érection de la fin du VIIe ou du début du VIe siècle av. J.-C., alors que l’île constituait déjà un lieu de mémoire et de pèlerinage autour d’Apollon et d’Artémis. Les fauves, représentés dressés sur leurs pattes antérieures, gueule ouverte et corps stylisé, s’alignaient comme des gardiens du parcours sacré : leur expression formelle manifeste l’activité des ateliers cycladiques de sculpture archaïque. Leur présence marque le paysage votif, mais ne livre pas à elle seule une scénographie rituelle précise. Le nombre initial des lions est incertain : plusieurs restitutions et publications proposent approximativement neuf à douze animaux, tandis que certaines présentations patrimoniales en évoquent jusqu’à seize. Le nombre figuré dans l’image constitue donc une option de mise en scène, sans valeur de décompte archéologique. Une partie seulement des statues anciennes est conservée et plusieurs sont fragmentaires. Les originaux subsistants ont été abrités dans le Musée archéologique de Délos autour de l’an 2000, leur exposition aux vents et aux embruns menaçant leur conservation ; les sculptures visibles aujourd’hui sur le site sont des copies. Il faut distinguer cet état muséographique contemporain de la situation évoquée vers 600 av. J.-C. Le lac Sacré, près duquel la terrasse avait été aménagée, appartenait à l’espace religieux de l’île ; son tracé exact à l’époque archaïque ne peut être tiré mécaniquement du terrain actuel. L’image donne une évocation d’un plan d’eau et d’un paysage cycladique, non une reconstruction géoréférencée de l’hydrologie ancienne. Le petit temple figuré à gauche, le pavage continu, les hauteurs des socles, leur espacement, la couleur apparente du marbre, les vêtements, les buissons et les reliefs lointains ne sauraient être attribués avec certitude à un même état historique vers 600 av. J.-C. L’édicule est particulièrement conjectural et ne doit être identifié à aucun sanctuaire précis. Cette vue numérique originale à apparence 3D, générée pour une médiation patrimoniale, n’est pas un relevé métrique ni une reconstruction validée par l’Éphorie, l’UNESCO, le musée ou les établissements documentaires cités. Les caractères, menus et cartouches éditoriaux sont volontairement absents des pixels ; les légendes et sources restent dans la notice.",
+      "certainty": "Élevé — localisation de la terrasse sur Délos ; dédicace naxienne à Apollon ; datation générale fin VIIe–début VIe siècle av. J.-C. ; sculptures archaïques de marbre représentant des lions en série ; voisinage du lac Sacré et de la voie du sanctuaire ; originaux conservés au musée et copies visibles sur place. Moyen — restitution approximative de l’alignement des statues sur leurs bases et de leur espacement, profil des corps et disposition d’ensemble à la date choisie, nombre initial approximatif. Faible — neuf/dix/plusieurs statues simultanément intactes, dimensions des socles, lac et sa connexion apparente à l’horizon marin, édicule voisin, murs, végétation, revêtement de la voie, densité de pèlerins, vêtements, éclairage, couleurs et position de caméra.",
+      "source_url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/",
+      "secondary_sources": [
+        "https://whc.unesco.org/en/list/530",
+        "https://www.hh.gr/en/destinations/delos/",
+        "https://marble.nd.edu/item/3dad8b47-5be8-495e-b6b9-eb4faa9b73cf"
+      ],
+      "src": "/assets/reconstitutions-3d/delos-terrasse-lions-naxiens-vers-600-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/delos-terrasse-lions-naxiens-vers-600-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale numérique générée pour MYTHOS ; non mesurable et sans validation par les institutions citées. Aucun texte/menu intégré aux pixels.",
+      "sha256": "5a21ebda762623971e9b21f8673febbf0e1468d5bc13431f222bdf6ef64a66a9",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/delos-terrasse-lions-naxiens-vers-600-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités des Cyclades — site et musée archéologique de Délos, Lions naxiens et chronologie",
+          "url": "https://cyclades.culture.gov.gr/en/location/the-archaeological-site-and-museum-of-delos/"
+        },
+        {
+          "label": "Centre du patrimoine mondial de l’UNESCO — Délos, authenticité et déplacement conservatoire des lions",
+          "url": "https://whc.unesco.org/en/list/530"
+        },
+        {
+          "label": "Hellenic Heritage — Délos, avenue des Lions, atelier naxien et copies",
+          "url": "https://www.hh.gr/en/destinations/delos/"
+        },
+        {
+          "label": "University of Notre Dame / Marble — photographie ancienne et étude de l’alignement naxien, vers 1910",
+          "url": "https://marble.nd.edu/item/3dad8b47-5be8-495e-b6b9-eb4faa9b73cf"
+        }
+      ],
+      "primary_texts": [],
+      "methodology": "Distinction explicite entre vestiges archéologiques, datations approximatives et scénographie interprétative ; pas de modèle 3D métrique ni de garantie sur le nombre des statues ou le lac ancien."
+    },
+    {
+      "id": "MES-ARC-001",
+      "slug": "messene-porte-arcadienne-vers-320-av-jc",
+      "title": "Messène — porte d’Arcadie et remparts monumentaux, vers 320 av. J.-C.",
+      "period": "Époque classique tardive, IVe siècle av. J.-C. ; évocation vers 320 av. J.-C. (phases architecturales discutées).",
+      "caption": "Reconstitution photoréaliste interprétative de la porte d’Arcadie, ses deux tours quadrangulaires et sa vaste cour circulaire. Crénelages, volumes bâtis et personnages conjecturaux.",
+      "commentary": "La cité de Messène, refondée en 369 av. J.-C. après la libération de la Messénie de la domination spartiate, s’inscrit au pied du mont Ithôme. Les murs de la cité appartiennent au programme de fortification du IVe siècle av. J.-C., même si la chronologie architecturale détaillée des portes et de leurs transformations demeure discutée. Le rempart suivait un périmètre d’environ 9,5 km ; l’Éphorie des Antiquités de Messénie et l’équipe scientifique d’Ancient Messene décrivent des maçonneries de grands blocs calcaires extraits sur les massifs locaux d’Ithôme et d’Éva, des tours généralement carrées, des cheminements et des ouvrages adaptés au relief. La porte d’Arcadie, entrée occidentale vers Mégalopolis, associe un portail externe surveillé par deux tours quadrangulaires, une cour intérieure circulaire d’environ 21 mètres de diamètre et un second passage ouvrant vers la ville. Cette composition monumentale crée un espace de contrôle des circulations entre route, enceinte et agglomération. Pausanias, qui visitait Messène à l’époque impériale, admirait la puissance des fortifications (Description de la Grèce IV, 31, 4–5) et rapporte la présence de colonnes hermaïques près de la porte (IV, 33, 3) ; son témoignage tardif ne documente pas automatiquement chaque détail de la porte au IVe siècle avant notre ère. La vue numérique présente, depuis l’extérieur en légère hauteur, une enceinte en pierres de taille calcaires, deux tours d’encadrement, une cour circulaire et un passage secondaire dans le mur intérieur. La lecture du plan général et l’existence des deux tours sont solidement documentées ; les élévations complètes des parapets, leurs crénelages réguliers, les niveaux de circulation, les huisseries, les volumes des maisons à l’arrière, leur couverture de tuiles, les costumes et le nombre de visiteurs relèvent d’hypothèses de médiation. Les pierres figurées sont plus uniformément intactes qu’aujourd’hui, sans permettre de déduire la texture exacte de parement à la date représentée. L’image ne constitue ni un relevé métrique, ni une photogrammétrie, ni un modèle 3D validé par l’Éphorie. La restitution choisit par convention un horizon vers 320 av. J.-C. dans le dernier tiers du IVe siècle ; elle ne prétend pas résoudre les débats d’attribution de phase du monument, ni identifier les constructions secondaires de l’arrière-plan. Les notices et les sources sont hors des pixels, sans menu ni schéma de type 2,5D.",
+      "certainty": "Élevé — fondation de la Messène classique en 369 av. J.-C. ; implantation sous le mont Ithôme ; fortifications monumentales calcaires du IVe siècle ; enceinte d’environ 9,5 km ; porte occidentale d’Arcadie avec deux entrées, cour intérieure circulaire et deux tours carrées ; proximité des massifs d’Ithôme et d’Éva. Moyen — lecture des volumes défensifs, séparation des deux portes, texture de taille et restitution générale du cheminement routier ; choix d’une restitution vers 320 av. J.-C. malgré les discussions sur les phases de la porte. Faible — hauteur des élévations, crénelage exact, proportions apparentes des tours vues en perspective, présence et aspect des portes en bois, revêtement de la route, tissus et vêtements, maisons visibles depuis le portail, tuiles, végétation, teintes et éclairage.",
+      "source_url": "https://www.efamess.gr/en/pois/teichi-archaias-messinis-kai-arkadiki-pyli/",
+      "secondary_sources": [
+        "https://www.ancientmessene.gr/en/fortifications/",
+        "https://www.odap.gr/wp-content/uploads/demo_products/131_ARXAIA_MESSHNH_ENG.pdf",
+        "https://europeanheritageawards-archive.eu/laureates-1978-2022/detail/arcadian-gate-and-city-wall-messene",
+        "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/ancient-messene"
+      ],
+      "src": "/assets/reconstitutions-3d/messene-porte-arcadienne-vers-320-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/messene-porte-arcadienne-vers-320-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique 3D photoréaliste interprétative, non métrique",
+      "provenance": "Image originale générée pour MYTHOS avec assistance visuelle IA ; aucun relevé métrique ni validation institutionnelle ; aucun texte ni menu incrusté.",
+      "sha256": "13c1b52f6302b8cfc19cdb6105c8b35d9278193302142c1545b60c4668d9ac1c",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/messene-porte-arcadienne-vers-320-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités de Messénie — remparts et porte d’Arcadie (Ministère grec de la Culture)",
+          "url": "https://www.efamess.gr/en/pois/teichi-archaias-messinis-kai-arkadiki-pyli/"
+        },
+        {
+          "label": "Ancient Messene — fortifications, porte circulaire et deux tours",
+          "url": "https://www.ancientmessene.gr/en/fortifications/"
+        },
+        {
+          "label": "Organisation grecque des ressources archéologiques (ODAP) — guide de Messène",
+          "url": "https://www.odap.gr/wp-content/uploads/demo_products/131_ARXAIA_MESSHNH_ENG.pdf"
+        },
+        {
+          "label": "European Heritage Awards Archive — restauration des remparts et de la porte",
+          "url": "https://europeanheritageawards-archive.eu/laureates-1978-2022/detail/arcadian-gate-and-city-wall-messene"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce, IV, 31, 4–5 (fortifications) et IV, 33, 3 (porte et hermai) : témoignage de l’époque romaine à ne pas lire comme état contemporain de 320 av. J.-C."
+      ],
+      "methodology": "Rendu artistique interprétatif fondé sur plan, vestiges et notices institutionnelles. La date de visualisation et les crénelages sont une hypothèse ; aucune prétention à une élévation scientifique exacte."
+    },
+    {
+      "id": "ATH-PNY-001",
+      "slug": "athenes-pnyx-ekklesia-bema-vers-335-av-jc",
+      "title": "Athènes — Pnyx, tribune des orateurs et assemblée civique, vers 335 av. J.-C.",
+      "period": "Troisième phase monumentale de la Pnyx, IVe siècle av. J.-C. ; évocation conventionnelle vers 335 av. J.-C., achèvement discuté.",
+      "caption": "Reconstitution photoréaliste interprétative de l'espace d'assemblée sur la Pnyx à l'époque de la troisième phase architecturale ; orateur et foule anonymes, aménagements et gradins non métriques.",
+      "commentary": "Le rassemblement de citoyens athéniens sur la Pnyx constitue une évocation historiographique, non la reconstitution d'une assemblée précisément attestée en 335 av. J.-C. La colline située à l'ouest de l'Acropole fut aménagée à plusieurs reprises pour l'ἐκκλησία (assemblée des citoyens), mais ses vestiges correspondent à des états architecturaux différents qu'il serait fautif de fusionner. Les recherches archéologiques distinguent un premier espace de réunion à la fin de l'époque archaïque ou au début du Ve siècle, une deuxième phase liée aux remaniements de la fin du Ve ou du début du IVe siècle, puis une troisième réorganisation monumentale généralement rapportée à la seconde moitié du IVe siècle, dans les années 340–330. La dernière phase inverse l'orientation antérieure de l'auditoire : la tribune des orateurs (βῆμα), taillée dans le rocher du côté méridional ou sud-occidental, fait face à une vaste aire assembléaire soutenue, sur son côté opposé, par un grand mur de soutènement incurvé. L'excavation du bêma et les maçonneries du mur sont documentées ; leur mise en oeuvre complète, leur achèvement, l'organisation des accès et la fréquence effective de réunions dans ce troisième état demeurent débattus. Deux stoas avaient été projetées sur la hauteur : il n'est pas certain qu'elles aient été achevées ; elles sont volontairement absentes de l'image. Le paysage rocheux, l'emplacement du bêma, l'espace à ciel ouvert, le contexte athénien et la distinction entre rocher taillé et murs de soutènement constituent les données archéologiques mobilisées. L'image représente de façon interprétative un orateur anonyme s'adressant à une assemblée composée de citoyens masculins, avec de nombreux assistants debout ou assis directement sur le sol. Elle ne représente pas Périclès : son activité politique précède de plusieurs générations le grand bêma du troisième état. Le nombre de participants, leur disposition en groupes, leurs costumes, la densité de l'assistance, l'orateur et son discours, la couleur et la hauteur apparente des murs, le profil exact du rocher, les végétaux, la lumière et la silhouette des maisons au loin sont des éléments artistiques conjecturaux. L'Acropole en arrière-plan sert de repère topographique général, mais les perspectives et distances apparentes ne proviennent d'aucun relevé métrique. La scène ne doit pas suggérer l'existence de gradins monumentaux continus ou d'un théâtre construit en pierre : l'espace de réunion est essentiellement un auditorium de plein air aménagé dans le relief. Les sources textuelles relatives aux institutions athéniennes et à la Pnyx éclairent les pratiques civiques, mais elles ne garantissent pas le détail de l'équipement visible à la date choisie. Des historiens de l'architecture et de la démocratie ont souligné que le programme de Pnyx III pourrait n'avoir jamais été totalement achevé ; vers la fin du IVe siècle, l'assemblée se réunit également au théâtre de Dionysos. La date graphique « vers 335 av. J.-C. » désigne donc une convention de restitution, non une date certaine pour cette réunion. Le rendu est une image numérique originale, photoréaliste et non métrique ; ni le Ministère grec, ni les équipes de recherche, ni les institutions documentaires citées n'ont validé cette création. Aucun menu, slogan, chiffre, schéma 2,5D ou élément d'interface n'est incrusté dans l'image.",
+      "certainty": "Élevé — Pnyx comme lieu d'assemblée de la cité ; existence de phases successives ; bêma taillé dans le rocher et grand mur de soutènement incurvé associés au troisième état, dans le courant du IVe siècle av. J.-C. ; situation topographique à l'ouest de l'Acropole. Moyen — restitutions de la pente de l'auditoire, des accès, de l'orientation et du contexte bâti ; datation globale de la dernière phase dans les années 340–330 ; usage effectif d'un espace assembléaire à cette époque. Faible — scène d'assemblée en 335 ; nombre et disposition des participants ; costume précis, identité de l'orateur, hauteur et couronnement des murs, teintes des matériaux, architecture d'arrière-plan, végétation, parallaxes et luminosité.",
+      "source_url": "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/pnyx.html",
+      "secondary_sources": [
+        "https://athenswesternhills.org/en/2018/12/05/late-4th-c-bc/",
+        "https://www.thisisathens.org/antiquities/pnyx",
+        "https://www.fhw.gr/projects/bouleuterion/gr/katopsis/athens_pnyx.html",
+        "https://www.ascsa.edu.gr/uploads/media/hesperia/146476.pdf"
+      ],
+      "src": "/assets/reconstitutions-3d/athenes-pnyx-ekklesia-bema-vers-335-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/athenes-pnyx-ekklesia-bema-vers-335-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale générée par IA pour MYTHOS, sans relevé photogrammétrique, sans validation institutionnelle ni texte incrusté.",
+      "sha256": "8029683207ce5801250527b494d50d7e1646486fa3540e6a357bc596e9d845bd",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-pnyx-ekklesia-bema-vers-335-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Fondation nationale hellénique de la recherche — Archéologie de la cité d'Athènes : Pnyx, phases et bêma",
+          "url": "https://archaeologia.eie.gr/archaeologia/gr/02_deltia/pnyx.html"
+        },
+        {
+          "label": "Athens Western Hills — évolution du site à la fin du IVe siècle et deux stoas non achevées",
+          "url": "https://athenswesternhills.org/en/2018/12/05/late-4th-c-bc/"
+        },
+        {
+          "label": "Guide officiel de la ville d'Athènes — Pnyx, histoire et trois phases",
+          "url": "https://www.thisisathens.org/antiquities/pnyx"
+        },
+        {
+          "label": "Fondation du monde hellénique — Pnyx, histoire du lieu de réunion (grec)",
+          "url": "https://www.fhw.gr/projects/bouleuterion/gr/katopsis/athens_pnyx.html"
+        },
+        {
+          "label": "Kourouniotes et H. A. Thompson, « The Pnyx in Athens », Hesperia 1 (1932), p. 90–217",
+          "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/146476.pdf"
+        }
+      ],
+      "primary_texts": [
+        "Aristote, Constitution d'Athènes, sections consacrées à l'ἐκκλησία et aux institutions (témoignage historique, pas plan du monument).",
+        "Aristophane, L'Assemblée des femmes, évocations de la réunion des citoyens sur la Pnyx (comédie et fiction)."
+      ],
+      "methodology": "Restitution visuelle originale non métrique ; datation relative du troisième état, existence du bêma et du mur attestées ; réalisation complète, scène d'assemblée et décors non démontrés par les fouilles."
+    },
+    {
+      "id": "LAT-AGO-001",
+      "slug": "crete-lato-agora-prytanee-escalier-vers-250-av-jc",
+      "title": "Lato (Crète orientale) — agora, grand escalier et prytanée, vers 250 av. J.-C.",
+      "period": "Milieu du IIIe siècle av. J.-C. (évocation interprétative vers 250 av. J.-C.), dans le cadre des phases des IVe–IIIe siècles.",
+      "caption": "Reconstitution numérique photoréaliste de l’agora de Lato entre deux hauteurs, de l’escalier civique et du prytanée, avec les maisons en terrasses et la baie du Mirabello en arrière-plan ; élévations et aménagements incertains.",
+      "commentary": "Lato (Λατώ), cité dorienne de Crète orientale proche du village actuel de Kritsa, est implantée dans un col naturel entre deux hauteurs rocheuses, à l'intérieur des terres mais dominant la baie du Mirabello. Les vestiges monumentaux aujourd'hui les plus lisibles appartiennent principalement aux IVe et IIIe siècles avant notre ère, même si le site a livré des indices d'occupation beaucoup plus anciens. La ville comporte des remparts, un accès principal, une rue montante desservant d'anciens ateliers et des maisons établies sur des terrasses, puis l'agora située entre les acropoles nord et sud. Selon le guide officiel publié par l'Organisme grec de gestion des ressources archéologiques (ODAP), cette agora était un espace irrégulier en forme de trapèze, avec un portique dorique à l'ouest et une plateforme ouverte au sud. Un sanctuaire de petite dimension, probablement en plein air, occupait une zone centrale, non loin d'une grande citerne souterraine considérée comme publique. La grande volée de gradins située au nord servait simultanément de cheminement vers le prytanée et d'espace de rassemblement. DIAZOMA décrit une largeur d'environ 8,40 mètres, neuf degrés à l'ouest et dix à l'est et trois ensembles de gradins séparés par des escaliers étroits. Cet escalier ne doit pas être confondu avec le petit espace théâtral différent, aménagé au-dessous du temple sur la pente méridionale. Le prytanée comprenait une cour à péristyle à l'est et, à l'ouest, une salle rectangulaire avec foyer central, interprétée comme salle de banquet (estiatorion), utilisée par les magistrats locaux, les kosmoi, et leurs invités. Son ensemble architectural est daté de la seconde moitié du IVe ou du IIIe siècle av. J.-C. Sur la pente de l'acropole sud, le grand temple construit à la fin du IVe ou au début du IIIe siècle comprenait un pronaos rectangulaire et une cella approximativement carrée. L'inscription associée à la base de la statue de culte étant illisible, l'identité de la divinité principale ne peut pas être affirmée. Le nom de la ville ne prouve pas que ce temple ait été dédié à Léto. La présente image est une interprétation artistique datée vers 250 av. J.-C. Elle situe une agora pavée entre deux promontoires, un escalier de rassemblement au nord, un ensemble de bâtiments civiques derrière celui-ci, un sanctuaire discret, des rues en pente et des habitats à toitures de terre cuite. Il ne s'agit pas d'une projection de relevés métriques. L'escalier principal, les volumes reconstitués, l'ordonnance du bâtiment en haut des gradins, les petites colonnades, le dallage uniforme de la place, l'aménagement du sanctuaire et les toitures sont des simplifications. Les structures visibles sur l'image, en particulier les défenses sommitale et les élévations de l'acropole, ne doivent pas être attribuées telles quelles au site antique. Les vêtements, personnages, détails des activités, végétation, éclairage et vue sur la baie sont conçus pour donner une échelle humaine et atmosphérique, sans garantie d'exactitude au milieu du IIIe siècle. Aucun organisme cité n'a commandé, certifié ni validé ce rendu numérique.",
+      "certainty": "Élevé : identité du site, position entre deux collines près de Kritsa, période florissante des IVe–IIIe siècles av. J.-C., présence de l'agora trapézoïdale, du portique occidental, d'une citerne, d'un escalier monumental et du prytanée, distinction entre escalier civique et espace théâtral méridional. Moyen : séquence de construction des éléments du IIIe siècle, implantation relative de certaines maisons et volumes généraux des bâtiments publics, usage des gradins comme espace d'assemblée, restitution de la salle à foyer central. Faible : aspect exact des étages et toitures, architecture des façades à colonnes, revêtement intégral de la place, détails du sanctuaire central, couronnements des murs de défense, figurants, circulation, végétation, couleurs et cadrage.",
+      "source_url": "https://www.odap.gr/wp-content/uploads/demo_products/147_LATO_KRHTH.pdf",
+      "secondary_sources": [
+        "https://www.hh.gr/en/destinations/lato/",
+        "https://diazoma.gr/en/theaters/theater-space-ancient-lato/",
+        "https://allofgreeceone.culture.gov.gr/en/venues/archaeological-site-in-lato-lasithi/",
+        "https://diazoma.gr/en/theaters/theater-space-ancient-lato/"
+      ],
+      "src": "/assets/reconstitutions-3d/crete-lato-agora-prytanee-escalier-vers-250-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/crete-lato-agora-prytanee-escalier-vers-250-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste à apparence 3D, non métrique, non archéométrique",
+      "provenance": "Image originale créée par génération assistée par IA pour MYTHOS ; aucune interface, menu, étiquette, logo, texte, filigrane ni diagramme 2,5D incrusté. Documents de référence non cautionnants.",
+      "sha256": "f196879ebf72a6ba63724b2d09eeb3f7c3ffdba924f3e100493d2bb2da98e246",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/crete-lato-agora-prytanee-escalier-vers-250-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Organisme grec de gestion des ressources archéologiques (ODAP) — Lato, Crète, notice de Vily Apostolakou (2019), plan et monuments",
+          "url": "https://www.odap.gr/wp-content/uploads/demo_products/147_LATO_KRHTH.pdf"
+        },
+        {
+          "label": "Hellenic Heritage — Lato, site archéologique officiel, éphorie du Lassithi",
+          "url": "https://www.hh.gr/en/destinations/lato/"
+        },
+        {
+          "label": "DIAZOMA — Théâtre et grand escalier de Lato, description et bibliographie de fouilles",
+          "url": "https://diazoma.gr/en/theaters/theater-space-ancient-lato/"
+        },
+        {
+          "label": "Ministère grec de la Culture — Site archéologique de Lato, campagnes de fouilles",
+          "url": "https://allofgreeceone.culture.gov.gr/en/venues/archaeological-site-in-lato-lasithi/"
+        },
+        {
+          "label": "Pierre Ducrey et Olivier Picard, Recherches à Latô, V : le prytanée, BCH 96 (1972), p. 567–592 (référence bibliographique relayée par DIAZOMA)",
+          "url": "https://diazoma.gr/en/theaters/theater-space-ancient-lato/"
+        }
+      ],
+      "primary_texts": [
+        "Aucune description antique suffisamment détaillée ne permet de restituer avec certitude les élévations des édifices de l’agora au milieu du IIIe siècle av. J.-C."
+      ],
+      "methodology": "Reconstruction visuelle artistique d’après les descriptions du plan conservé et des fouilles, sans modèle géoréférencé validé. Élévations et détails figurés hypothétiques.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "EPI-THO-001",
+      "slug": "epidaure-tholos-thymele-asclepios-vers-340-av-jc",
+      "title": "Épidaure (Argolide) — Tholos ou Thymélè de l’Asclépiéion, vers 340 av. J.-C.",
+      "period": "IVe siècle av. J.-C., état achevé figuré vers 340 av. J.-C. ; datation architecturale généralement comprise vers 360–330 av. J.-C., discutée.",
+      "caption": "Reconstitution numérique photoréaliste interprétative de la Thymélè d’Épidaure : péristyle circulaire dorique, toiture hypothétique et cour du sanctuaire d’Asclépios. Vue extérieure non métrique.",
+      "commentary": "La Tholos (Θόλος), également appelée Thymélè (Θυμέλη) dans les inscriptions du sanctuaire d’Asclépios à Épidaure, est un édifice circulaire situé au cœur de l’Asclépiéion d’Argolide, au voisinage du temple du dieu guérisseur. Elle appartient à la grande campagne de monumentalisation du sanctuaire au IVe siècle av. J.-C. Les propositions de chronologie ne sont pas unanimes : les synthèses pédagogiques placent volontiers la construction vers 360–330 av. J.-C., tandis que certaines études proposent une datation un peu plus haute. La présente image retient conventionnellement un état achevé vers 340 av. J.-C., qui n’est pas une datation archéométrique de chaque bloc. La tradition attribue l’édifice à Polyclète le Jeune ; cette attribution n’équivaut pas à une signature conservée sur le monument. Le bâtiment, dont le diamètre était d’environ 20 à 22 mètres selon les méthodes de mesure, comportait un péristyle externe de vingt-six colonnes doriques, puis, à l’intérieur de la cella, une couronne de quatorze colonnes corinthiennes. Ce jeu de deux ordres architecturaux est particulièrement important pour l’histoire de l’architecture du IVe siècle. Des fondations annulaires complexes, formant des couloirs concentriques sous le bâtiment, ont été fouillées ; leur relation avec les rites, le monde souterrain et les serpents sacrés reste discutée. Il faut distinguer cette observation matérielle des explications religieuses hypothétiques parfois proposées. La fonction exacte de la Thymélè, en particulier les aspects chthoniens du culte d’Asclépios, n’est pas assurée. Pausanias, Description de la Grèce II, 27.3, évoque les peintures de Pausias et le caractère remarquable de l’édifice, mais écrit plusieurs siècles après la construction. Les fouilles récentes de l’Éphorie des Antiquités d’Argolide et de l’université d’Athènes ont documenté des vestiges archaïques près de la Tholos, rappelant que l’occupation du sanctuaire ne commence pas avec le programme classique. Le visuel propose une vue extérieure oblique : peristasis circulaire dorique, crépis à degrés, murs de cella, entrée monumentale, toit de tuiles et environnement de portiques. Le diamètre et la cadence de la colonnade sont évocateurs, non métriques : il serait incorrect de déduire du nombre de colonnes visibles dans les pixels une mesure du monument. Les quatorze colonnes corinthiennes, situées à l’intérieur et invisibles dans cette vue, ne sont pas représentées comme un plan de coupe. Le détail du toit conique, les tuiles, le fleuron sommital, le dessin des reliefs de frise, les couleurs, les encadrements de porte, les portiques voisins et leur implantation, le dallage, les costumes des visiteurs, la flore et la lumière résultent de choix artistiques. Le modèle visuel est une illustration numérique photoréaliste à apparence 3D, non un relevé photogrammétrique, un modèle tridimensionnel téléchargeable ou une restitution géométrique validée par l’UNESCO et les autres institutions citées. Cette étude iconographique est distincte des panoramas généraux de l’Asclépiéion et de l’étude du théâtre hellénistique d’Épidaure déjà conservées dans MYTHOS.",
+      "certainty": "ÉLEVÉ : existence et localisation de la Tholos dans l’Asclépiéion d’Épidaure ; construction au IVe siècle av. J.-C. ; plan circulaire ; ordre dorique du péristyle externe à vingt-six colonnes ; couronne interne de quatorze colonnes corinthiennes ; présence de fondations souterraines annulaires et importance architecturale de l’ensemble. MOYEN : datation d’un état vers 340 av. J.-C. dans la fourchette généralement retenue ; attribution traditionnelle à Polyclète le Jeune ; volume général, élévation, répartition des accès et des parties hautes. FAIBLE : fonction rituelle précise et hypothèses chthoniennes ; forme exacte et charpente du toit, fleuron, sculpture de frise, peinture architecturale, profil des seuils, position et architecture des portiques voisins, personnes, mobilier cultuel, topographie détaillée, végétation et conditions lumineuses.",
+      "source_url": "https://whc.unesco.org/fr/list/491/",
+      "secondary_sources": [
+        "https://odysseum.eduscol.education.fr/epidaure-le-celebre-sanctuaire-et-le-theatre-grec",
+        "https://digmill.perseids.org/commentary/326",
+        "https://chronique.efa.gr/?id=8577&r=report",
+        "https://whc.unesco.org/en/list/491"
+      ],
+      "src": "/assets/reconstitutions-3d/epidaure-tholos-thymele-asclepios-vers-340-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/epidaure-tholos-thymele-asclepios-vers-340-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Création numérique originale assistée par génération d’image pour MYTHOS, sans texte, logo, plan, schéma 2,5D ni interface dans les pixels. Institutions citées sans validation du rendu.",
+      "sha256": "51250c02c32b18a8e91f9b3d717c405ccfd80f46c1c312fd2cd5202028a22647",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/epidaure-tholos-thymele-asclepios-vers-340-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO — Sanctuaire d’Asclépios en Épidaure, patrimoine mondial n° 491",
+          "url": "https://whc.unesco.org/fr/list/491/"
+        },
+        {
+          "label": "Odysseum / Éduscol — Épidaure : sanctuaire, Thymélè, chronologie et architecture",
+          "url": "https://odysseum.eduscol.education.fr/epidaure-le-celebre-sanctuaire-et-le-theatre-grec"
+        },
+        {
+          "label": "The Digital Milliet Project — Pausanias II, 27.3 et témoignage sur les peintures de Pausias",
+          "url": "https://digmill.perseids.org/commentary/326"
+        },
+        {
+          "label": "École française d’Athènes — Chronique des fouilles : Épidaure 2020, vestiges archaïques sous et près de la Tholos",
+          "url": "https://chronique.efa.gr/?id=8577&r=report"
+        },
+        {
+          "label": "UNESCO World Heritage Centre — Sanctuary of Asklepios at Epidaurus",
+          "url": "https://whc.unesco.org/en/list/491"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce II, 27.3 : Tholos et peintures de Pausias ; témoignage du IIe siècle apr. J.-C."
+      ],
+      "methodology": "Synthèse visuelle interprétative basée sur éléments de plan publiés et contexte cultuel ; aucun modèle 3D métrique ou étude de restitution institutionnellement validée.",
+      "publication_status": "branch_committed_pending_https_verification"
+    },
+    {
+      "id": "DEL-DAU-001",
+      "slug": "delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc",
+      "title": "Délos — maison des Dauphins, péristyle et mosaïque, vers 100 av. J.-C.",
+      "period": "Évocation vers 110–90 av. J.-C. ; maison hellénistique et mosaïque appartenant à la période d’expansion résidentielle de Délos, principalement 130–68 av. J.-C.",
+      "caption": "Restitution visuelle photoréaliste interprétative de la cour à péristyle de la Maison des Dauphins (GD 111), dans le quartier du Théâtre à Délos, autour de 100 av. J.-C. Le pavement comporte une évocation non documentaire des quatre angles ornés d’Érotes chevauchant des dauphins.",
+      "commentary": "La Maison des Dauphins, dite aussi maison Pâris, se situe dans le quartier du Théâtre de Délos (référence topographique GD 111) et fut fouillée par Pierre Paris en 1883. Une cour à péristyle, son réseau de pièces de réception, son pavement à mosaïque et des enduits peints sont documentés par les fouilles et les archives de l’École française d’Athènes. Le nom moderne provient des quatre groupes de dauphins chevauchés par des Érotes, placés dans les angles du pavement de la cour. L’étude de Marcel Bulard documente notamment des revêtements muraux peints dans une salle de la maison ; l’existence de décors peints n’atteste pas les motifs précis de la présente image. Anne-Marie Guimier-Sorbets situe l’essentiel des mosaïques de Délos entre 130 et 68 av. J.-C., période dans laquelle s’inscrit l’évocation proposée, et souligne l’importance de leur conservation in situ. La datation vers 100 av. J.-C. est donc une convention de restitution et non la preuve d’une journée ou d’une phase intérieure unique. La présente vue est construite autour de la cour pavée, des colonnes périphériques et des pièces ouvertes sur le péristyle. Les figurations musives reproduites dans les pixels sont librement stylisées et ne remplacent pas un relevé du pavement antique ; les Érotes représentés n’en sont pas une copie exacte. Le petit bassin central, les colonnes complètes, les hauteurs de murs, les toits, les ouvertures, le mobilier, les plantes, les lampes et la fréquentation sont des propositions artistiques. La composition ne prétend pas reproduire fidèlement une maison de dimensions mesurables ; l’image est un rendu de synthèse photoréaliste à apparence 3D, et non un modèle 3D métrique, une photogrammétrie ou une validation institutionnelle. Les sources décrivent les vestiges et les études d’architecture domestique, sans authentifier ce visuel.",
+      "certainty": "Élevé : localisation de la maison (GD 111) dans le quartier du Théâtre ; existence d’une cour à péristyle et d’un pavement musif ; motifs d’Érotes chevauchant des dauphins dans les angles ; enduits peints et contexte résidentiel hellénistique. Moyen : datation d’évocation proche de 100 av. J.-C. dans l’intervalle 130–68 ; relations spatiales approximatives des salles ; élévation générale plausible de la galerie. Faible : rendu exact de chaque motif de mosaïque, placement et dimensions du bassin central, profils et teintes des colonnes, hauteur des parois, façades, couverture, décors pariétaux, meubles, gestes, personnages, plantes, angle de vue et lumière.",
+      "source_url": "https://editions.efa.gr/?id=1001&r=publication",
+      "secondary_sources": [
+        "https://www.persee.fr/doc/bch_0007-4217_1906_num_30_1_3288",
+        "https://www.persee.fr/doc/rea_0035-2004_1924_num_26_3_2317",
+        "https://archimage.efa.gr/?id=1154255&r=fiche_publique",
+        "https://whc.unesco.org/fr/list/530/"
+      ],
+      "src": "/assets/reconstitutions-3d/delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Image originale produite pour MYTHOS par génération numérique puis encodage WebP, sans menu, titre, texte, logo ni schéma 2,5D incrusté. Les institutions citées documentent l’archéologie mais n’ont pas validé cette image.",
+      "sha256": "4d7a3a4fef4c67c5cb58a77cba9c58183a8b76938c88101b1a6f86cc01ea6f2e",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/delos-maison-dauphins-mosaique-peristyle-vers-100-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "École française d’Athènes — A.-M. Guimier-Sorbets, Les mosaïques de Délos (2022)",
+          "url": "https://editions.efa.gr/?id=1001&r=publication"
+        },
+        {
+          "label": "BCH 1906 — Fouilles de Délos : Maison des Dauphins et quatre Érotes sur dauphins",
+          "url": "https://www.persee.fr/doc/bch_0007-4217_1906_num_30_1_3288"
+        },
+        {
+          "label": "M. Bulard, Revue des Études Anciennes 1924 — peinture murale de la Maison des Dauphins",
+          "url": "https://www.persee.fr/doc/rea_0035-2004_1924_num_26_3_2317"
+        },
+        {
+          "label": "École française d’Athènes, Archimage — archives Maison des Dauphins GD 111",
+          "url": "https://archimage.efa.gr/?id=1154255&r=fiche_publique"
+        },
+        {
+          "label": "UNESCO — Délos, patrimoine mondial",
+          "url": "https://whc.unesco.org/fr/list/530/"
+        }
+      ],
+      "methodology": "Synthèse visuelle interprétative d’architecture domestique antique. Les motifs sont stylisés ; ne pas mesurer les formes, ni attribuer aux musées, à l’EFA ou à l’UNESCO une validation du rendu.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "ERT-MOS-001",
+      "slug": "eretrie-maison-aux-mosaiques-andron-vers-350-av-jc",
+      "title": "Érétrie (Eubée) — Maison aux mosaïques, andrôn et sols de galets, vers 350 av. J.-C.",
+      "period": "Époque classique tardive, IVe siècle av. J.-C. ; évocation conventionnelle vers 350 av. J.-C. ; chronologie des pavements discutée.",
+      "caption": "Vue 3D photoréaliste interprétative depuis une salle de réception de la Maison aux mosaïques vers une cour ; mosaïque de galets stylisée, mobilier et figures fictifs.",
+      "commentary": "La Maison aux mosaïques se trouve dans la cité antique d’Érétrie en Eubée, à proximité du sanctuaire d’Apollon Daphnéphoros. L’École suisse d’archéologie en Grèce (ESAG) l’a mise au jour lors de fouilles conduites entre 1972 et 1980 et en a publié l’étude architecturale dans le volume VIII de la collection Eretria par Pierre Ducrey, Ingrid R. Metzger et Karl Reber (1993). Selon cette publication, il s’agit d’une habitation exceptionnellement riche du IVe siècle av. J.-C., desservie par deux cours et comprenant quinze pièces, dont dix possédaient des pavements de galets ; ces sols, parfois figurés, associaient à la géométrie et aux ornements des thèmes tels que la Gorgone, les Néréides, les Arimaspes affrontant des griffons ou les scènes cynégétiques. Ces compositions appartiennent au répertoire de la mosaïque à galets hellénique, avant la diffusion des grandes mosaïques romaines à tesselles régulières. Les publications archéologiques discutent les phases de construction et de pose des pavements : le premier tiers du IVe siècle a été proposé à partir de niveaux de fondation, alors que d’autres évaluations stylistiques rapprochent certains décors du milieu du siècle. La date « vers 350 av. J.-C. » de l’image est un horizon de visualisation conventionnel et non la date certaine d’une réception ou d’un décor précis. Les grandes pièces de réception de la maison, notamment son andrôn, témoignent de la culture du banquet et de la sociabilité des élites civiques grecques. Le terme ἀνδρών désigne ici la pièce de réunion des convives ; il ne prouve ni un nombre précis d’invités pour une occasion donnée, ni le mobilier encore présent au moment représenté. La vue numérique adopte un point de vue à hauteur d’homme depuis une salle à sol figuré, vers un espace extérieur et un second corps de bâtiment. La représentation conserve volontairement une texture visuelle de petits galets naturels, un seuil de pierre et des revêtements de terre ou d’enduit peints de bandes simples, plutôt qu’un sol romain en opus tessellatum ou un atrium pompéien. Les supports en bois, tuiles, huisseries, textiles et éléments mobiliers sont des hypothèses matérielles et non le résultat d’un relevé de l’élévation disparue. Les deux lits visibles évoquent des klinai de réception sans prétendre restituer le nombre, l’orientation et la typologie du mobilier de cette salle ; les vases et lampes permettent d’évoquer le cadre domestique mais ne correspondent pas à un inventaire stratigraphique exposé dans cette image. Le médaillon central formé dans le rendu est une composition d’artiste inspirée du vocabulaire des mosaïques de galets : il ne doit pas être identifié comme copie fidèle d’un pavement conservé de cette maison, ni confondu avec la mosaïque de satyres découverte ailleurs à Érétrie au XXIe siècle. La baie, les proportions de la cour, les ouvertures successives, la présence d’un arbre, les costumes, les personnes et les ombres sont conjecturaux. Les parois conservées lors des fouilles ne documentent pas une restitution certaine des hauteurs de murs, du décor peint ou de l’intégralité des toitures. La maison fut détruite par un incendie au début du IIIe siècle av. J.-C. d’après l’interprétation du quartier publiée par l’ESAG ; un monument funéraire fut implanté ultérieurement sur les ruines. Ce rendu représente donc un état possible de la maison avant cette destruction et non une stratigraphie de ses différents états mêlés. Il s’agit d’une image originale générée par intelligence artificielle pour la médiation du patrimoine, à apparence 3D photoréaliste ; ce n’est ni une maquette métrique, ni une photogrammétrie, ni une restitution validée par l’ESAG ou les autres institutions citées. Les références, légendes et degrés de certitude sont dans cette notice, hors de l’image ; aucun menu, texte ni graphique 2,5D n’y est incrusté.",
+      "certainty": "Élevé — existence et localisation de la Maison aux mosaïques à Érétrie ; fouilles suisses de 1972–1980 ; habitat de prestige du IVe siècle av. J.-C., organisation à deux cours, quinze pièces et dix pavements de galets ; mosaïques figurées représentant des thèmes mythologiques ; disparition par incendie au début du IIIe siècle selon l’étude publiée. Moyen — restitution générale d’une salle de réception ouverte vers une cour, usage de klinai et d’objets du banquet comparables à ceux de l’architecture domestique grecque ; enduits peints sobres et charpentes en bois ; horizon visuel du milieu du IVe siècle discuté selon les phases des pavements. Faible — correspondance du médaillon de la vue avec un pavement archéologique précis ; profil des cours, portes, colonnes, toitures, teintes et décors muraux ; détail des meubles, personnages, éclairage, végétation et scénario domestique particulier.",
+      "source_url": "https://www.esag.swiss/fr/eretria-series/eretria-viii/",
+      "secondary_sources": [
+        "https://www.esag.swiss/eretria/monuments/",
+        "https://www.esag.swiss/fr/eretria/visit-site/",
+        "https://www.persee.fr/doc/mom_0244-5689_1989_ant_19_1_1231",
+        "https://daysofart.gr/en/news/from-ministry/discovery-of-a-pebbled-mosaic-floor-with-a-representation-of-satyrs-in-eretria/"
+      ],
+      "src": "/assets/reconstitutions-3d/eretrie-maison-aux-mosaiques-andron-vers-350-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/eretrie-maison-aux-mosaiques-andron-vers-350-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image originale générée par IA pour MYTHOS ; aucune copie du décor réel, ni relevé photogrammétrique ou validation institutionnelle ; sans texte dans les pixels.",
+      "sha256": "e8e40c05ecc859c9148adfc15f2201a4f1f682d5d9d04130346aa6b2d9934dc7",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/eretrie-maison-aux-mosaiques-andron-vers-350-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "ESAG, Eretria VIII — Pierre Ducrey, Ingrid R. Metzger, Karl Reber, Le quartier de la Maison aux mosaïques (1993)",
+          "url": "https://www.esag.swiss/fr/eretria-series/eretria-viii/"
+        },
+        {
+          "label": "École suisse d'archéologie en Grèce — principaux monuments d'Érétrie et andrôn de la Maison aux mosaïques",
+          "url": "https://www.esag.swiss/eretria/monuments/"
+        },
+        {
+          "label": "École suisse d'archéologie en Grèce — visiter la Maison aux mosaïques",
+          "url": "https://www.esag.swiss/fr/eretria/visit-site/"
+        },
+        {
+          "label": "Pierre Ducrey, « Architecture et poésie : le cas de la maison aux mosaïques à Érétrie » (1989)",
+          "url": "https://www.persee.fr/doc/mom_0244-5689_1989_ant_19_1_1231"
+        },
+        {
+          "label": "Ministère hellénique de la Culture (repris par Days of Art) — mosaïque de galets découverte à Érétrie, 2024 (comparaison contextuelle)",
+          "url": "https://daysofart.gr/en/news/from-ministry/discovery-of-a-pebbled-mosaic-floor-with-a-representation-of-satyrs-in-eretria/"
+        }
+      ],
+      "primary_texts": [
+        "Xénophon, Économique : sources littéraires générales sur l’espace domestique classique ; aucun lien direct avec cette habitation n’est établi.",
+        "Platon, Banquet : représentation philosophico-littéraire de la sociabilité du symposion, non une description de la Maison aux mosaïques."
+      ],
+      "methodology": "Évocation artistique située d’après le contexte fouillé et une publication savante, sans utilisation du plan coté comme modèle ; distinction explicite entre éléments archéologiquement attestés et mobilier, mosaïque figurée ou élévations conjecturaux."
+    },
+    {
+      "id": "SPA-MEN-001",
+      "slug": "sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc",
+      "title": "Sparte (Thérapné) — Ménélaion d’Hélène et de Ménélas, terrasses et sanctuaire, vers 450 av. J.-C.",
+      "period": "Ve siècle av. J.-C. : évocation d’un état vers 450 av. J.-C. ; origine du culte dès la fin du VIIIe ou le début du VIIe siècle.",
+      "caption": "Vue numérique photoréaliste interprétative du Ménélaion sur les hauteurs de Thérapné : plateformes étagées, rampe d’accès, petit édifice sommital conjectural et vallée de l’Eurotas face au Taygète.",
+      "commentary": "Le Ménélaion (Μενελάειον) occupe une hauteur du secteur de Thérapné, à l’est de l’Eurotas, face à la plaine de Sparte et à la chaîne du Taygète. Ce sanctuaire était associé à Hélène et Ménélas, personnages de l’épopée et de la mémoire locale lacédémonienne. Il ne constitue pas pour autant une preuve archéologique de l’existence historique des personnages homériques ni l’identification certaine de leurs sépultures. La question de leur statut cultuel — puissances divinisées ou héros — demeure débattue dans la recherche. Les campagnes menées par la British School at Athens dès 1909, prolongées au XXe siècle par les fouilles de H. W. Catling et d’autres chercheurs, ont identifié un ensemble de podiums et de terrasses construit en plusieurs phases, sur un paysage également occupé à l’époque mycénienne. L’espace comprenait une plateforme rectangulaire élevée, reposant sur un soubassement et accessible par une rampe ; des terrasses de soutènement furent ajoutées ou remaniées. La nature exacte de la construction portée par le podium est incertaine : les premiers fouilleurs ont envisagé un petit temple, sans disposer d’une preuve concluante permettant de restituer une façade ou une toiture définitive. La pratique cultuelle se développe dès la fin du VIIIe ou le début du VIIe siècle av. J.-C., puis le lieu fait l’objet de monumentalisation à l’époque archaïque et de reprises au début du Ve siècle av. J.-C. L’image figure volontairement un état possible vers 450 av. J.-C., sans prétendre identifier l’année du chantier ; elle ne doit pas être lue comme le relevé d’une stratigraphie précisément datée. Les travaux scientifiques récents, notamment N. Pavlides dans Hesperia (2025), interprètent ce sanctuaire comme un lieu de mémoire du passé régional, dans le contexte de la formation et de la représentation de la communauté spartiate. La vue montre le podium étagé dominant l’Eurotas et son accès en rampe, avec un petit naiskos à toiture de tuiles placé au sommet pour rendre perceptible l’hypothèse d’une superstructure cultuelle. Ce naiskos, ses dimensions, sa position précise, ses matériaux et sa forme rectangulaire ne sont pas attestés avec la précision représentée. Le sanctuaire n’est pas restitué comme un immense temple périptère dorique : son ordonnance exacte demeure inconnue. Le monument votif et l’autel fumant, les couronnes suspendues, la végétation, les vêtements des visiteurs et le dessin du bâti lointain de Sparte sont des choix artistiques. Même lorsque la topographie générale est plausible, l’axe visuel, le relief proche, les proportions des murs, les parements et la hauteur exacte de la rampe ne résultent pas d’un relevé topographique ou photogrammétrique. Les maisons et fortifications de la ville visibles dans le lointain ne prétendent pas reproduire un état urbain établi pour l’année 450. Sous le sanctuaire, les traces de maisons mycéniennes appartiennent à d’autres périodes et ne doivent pas être assimilées au petit bâtiment cultuel proposé en haut des terrasses. La présente image est une restitution visuelle numérique à apparence 3D, non un modèle archéométrique mesurable, une preuve historique ou une reconstitution approuvée par les institutions citées.",
+      "certainty": "ÉLEVÉ : emplacement du Ménélaion à Thérapné, sur la rive orientale de l’Eurotas ; lien cultuel à Hélène et Ménélas ; présence de plateformes en pierre, d’une rampe et de terrasses remaniées ; traces d’occupation mycénienne dans le secteur ; existence de pratiques cultuelles dès la fin du VIIIe ou le début du VIIe siècle av. J.-C. MOYEN : reconstruction du complexe au début du Ve siècle, choix d’un état vers 450 av. J.-C., volumes relatifs du podium et des soutènements, paysage général de l’Eurotas. FAIBLE : fonction et forme exactes du bâtiment sommital ; naiskos et toiture figurés, matériaux et hauteur des élévations, localisation de l’autel, ornements, offrandes, vêtements, habitants, végétation, bâti urbain lointain, lumière et dimensions métriques.",
+      "source_url": "https://digital.bsa.ac.uk/fieldwork.php?project=169",
+      "secondary_sources": [
+        "https://www.bsa.ac.uk/2022/02/24/sparta-begins-1906-1910-bsa-sparta-excavations-in-the-sphs-collection/",
+        "https://ascsa.edu.gr/publications/hesperia/article/94/3/305-341",
+        "https://realsparta.gr/en-us/What-to-do/Archaelogical-Sites-Monuments/Menelaion",
+        "https://academic.oup.com/edited-volume/61673/chapter-abstract/549653472"
+      ],
+      "src": "/assets/reconstitutions-3d/sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-06",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Image originale générée pour MYTHOS : sans menus, logos, textes incrustés ni schéma 2,5D ; les institutions citées n’ont ni conçu ni approuvé le rendu.",
+      "sha256": "2ae074965718cde1beefda014134e13b2b995b4754d7effa56bcb2a37a46e930",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/sparte-therapne-menelaion-terrasses-naiskos-vers-450-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "British School at Athens — Digital Collections, fouilles du Ménélaion de 1909 : podium, rampes, terrasses et incertitude sur la superstructure",
+          "url": "https://digital.bsa.ac.uk/fieldwork.php?project=169",
+          "kind": "archive institutionnelle"
+        },
+        {
+          "label": "British School at Athens — Sparta Begins, bilan des fouilles et chronologie des vestiges",
+          "url": "https://www.bsa.ac.uk/2022/02/24/sparta-begins-1906-1910-bsa-sparta-excavations-in-the-sphs-collection/",
+          "kind": "institution"
+        },
+        {
+          "label": "Nicolette Pavlides, « Memoryscape at the Spartan Menelaion », Hesperia 94.3 (2025), p. 305–341",
+          "url": "https://ascsa.edu.gr/publications/hesperia/article/94/3/305-341",
+          "kind": "article scientifique"
+        },
+        {
+          "label": "Municipalité de Sparte — Menelaion, position et étapes monumentales",
+          "url": "https://realsparta.gr/en-us/What-to-do/Archaelogical-Sites-Monuments/Menelaion",
+          "kind": "patrimoine municipal"
+        },
+        {
+          "label": "Oxford Classical Dictionary — « Menelaion », présentation des vestiges et débats cultuels",
+          "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/549653472",
+          "kind": "encyclopédie universitaire"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce III, 19.9 : récit relatif à Hélène et au site de Thérapné, témoignage tardif.",
+        "Isocrate, Éloge d’Hélène 63 : tradition de cultes héroïques/divinisants ; datation et portée à contrôler en édition critique."
+      ],
+      "methodology": "Évocation archéologique argumentée à partir des plateformes et de la rampe attestées ; aucun relevé métrique ni reconstitution validée ; restitution hypothétique d’un petit édifice sommital.",
+      "publication_status": "branch_committed_pending_https_verification"
     }
   ]
 }

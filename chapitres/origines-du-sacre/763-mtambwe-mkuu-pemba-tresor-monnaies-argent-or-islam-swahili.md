@@ -1,0 +1,290 @@
+# MYTHOS — Les Origines du sacré — Chapitre 763
+# Mtambwe Mkuu (Pemba) : l'argent des princes, les légendes monétaires, l'islam et la construction de l'autorité sur la côte swahilie
+
+*Monographie universitaire originale : numismatique, archéologie, philologie arabe, anthropologie économique et philosophie comparée. Pemba, Tanzanie, principalement XIe siècle de notre ère. État documentaire : études publiées de Horton, Brown et Oddy (1986), Horton (2004), LaViolette et Fleisher (2009), et travaux régionaux sur la côte swahilie. La numérotation appartient exclusivement au mécanisme transactionnel de publication.*
+
+## Résumé scientifique
+
+En décembre 1984 fut signalé sur l'îlot de Mtambwe Mkuu, à Pemba, un ensemble exceptionnel de monnaies d'or et d'argent. La fouille menée en 1985 et l'étude numismatique révélèrent une série locale de pièces d'argent frappées durant le XIe siècle. Une partie des monnaies d'or renvoie aux réseaux du monde islamique méditerranéen, tandis que les émissions d'argent évoquent plusieurs autorités politiques régionales. Le trésor n'est pas seulement un indicateur de commerce : l'inscription d'un nom, la circulation d'un métal accepté et la référence possible à des formules religieuses donnent accès à la construction d'une autorité reconnue par des personnes qui n'ont presque pas laissé de chroniques contemporaines. Mais aucun de ces indices ne transforme automatiquement la monnaie en objet votif. Cette étude confronte les objets numismatiques et leur contexte archéologique, les traditions textuelles postérieures, les travaux sur l'islamisation des communautés africaines du littoral et les limites d'une comparaison avec les frappes grecques, mésopotamiennes, indiennes ou chinoises.
+
+## I. Le problème : comment une monnaie peut-elle parler du sacré ?
+
+Une monnaie est simultanément une matière travaillée, une convention de valeur, un signe d'autorité et parfois un support d'expressions religieuses. Elle n'est pas un traité de théologie miniature. L'historien des religions doit résister à une opération trop rapide : voir des mots religieux sur une pièce, puis conclure que sa circulation était un acte de piété. L'inscription peut être un signe de légitimité, une formule publique d'appartenance, un dispositif de confiance, une tradition de frappe ou plusieurs de ces choses à la fois.
+
+À Mtambwe Mkuu, l'enjeu est particulièrement aigu : les monnaies locales offrent des noms et des formes d'autorité là où les archives historiques conservées sont rares. Elles obligent à poser les questions de l'émetteur, du public, de la métallurgie, du dépôt et des emprunts iconographiques. Elles permettent surtout de ne pas choisir arbitrairement entre « échanges économiques » et « vie religieuse » : la société frappait et utilisait des signes de valeur dans un environnement où l'islam jouait déjà un rôle. Le degré et les modalités de ce rôle doivent être établis, non supposés.
+
+## II. L'îlot de Mtambwe Mkuu et son environnement
+
+Mtambwe Mkuu se situe dans l'espace insulaire de Pemba, au large de la côte orientale africaine, dans ce qui est aujourd'hui la Tanzanie. Les communautés de Pemba se sont développées au contact de champs, de pêcheries, d'anses de navigation et de routes saisonnières de l'océan Indien. Il serait trompeur de concevoir l'îlot comme un simple avant-poste perdu. Les études régionales de LaViolette et Fleisher reconstituent des systèmes d'établissements, des déplacements d'habitants et des relations entre villages et centres plus importants.
+
+La position insulaire permet de comprendre la circulation des monnaies, mais elle ne prouve pas que chacune d'elles vint directement d'un navire étranger. Une pièce peut être remise en paiement, thésaurisée, perdue puis retrouvée longtemps après sa frappe. L'île n'est pas seulement une station de transit ; les réseaux de subsistance et de résidence confèrent aux objets une biographie locale. Une numismatique dépourvue de topographie conduirait à imaginer un commerce abstrait où seules se déplaceraient des pièces sans personnes.
+
+## III. Découverte et enquête : 1984, 1985, 1986
+
+La référence de départ est M. C. Horton, H. M. Brown et W. A. Oddy, « The Mtambwe Hoard », *Azania*, volume 21 (1986), p. 115–123, DOI 10.1080/00672708609511372. Selon sa notice bibliographique, le dépôt fut découvert en décembre 1984 et fouillé entièrement en décembre 1985. Le nettoyage et l'examen des pièces, notamment au musée Ashmolean d'Oxford, mirent en évidence une série d'argent inconnue auparavant pour la région au XIe siècle.
+
+Ces étapes comptent. La découverte fortuite signale un phénomène ; la fouille situe les objets ; leur nettoyage permet une identification ; la publication en établit une première interprétation. Le trésor n'est pas un texte apparu directement entre les mains de l'historien : sa signification passe par une chaîne de conservation et de classement. Les comptes rendus ultérieurs qui résument les nombres doivent être confrontés au catalogue original, car les pièces retrouvées en surface et celles sorties d'un contexte stratigraphique contrôlé n'ont pas exactement la même valeur documentaire.
+
+## IV. Combien de pièces ? Les pièges du comptage
+
+Les publications parlent d'un vaste ensemble de monnaies, avec un total de plus de deux mille pièces d'argent dans la synthèse de Horton, « Islam, Archaeology, and Swahili Identity » (2004), figure 4.10. D'autres synthèses donnent des sous-totaux pour la fouille, la surface et les monnaies d'or. Ces nombres ne doivent pas être additionnés mécaniquement : des inventaires peuvent distinguer pièces complètes, fragments et provenances, ou ne pas correspondre au même état de traitement du trésor.
+
+La précision impose donc une règle : lorsqu'un chiffre est employé dans une analyse comparative, indiquer son niveau documentaire. On peut affirmer sans controverse majeure que Mtambwe a livré un ensemble monétaire d'exception, comportant des émissions d'argent locales et des monnaies d'or liées au monde islamique. En revanche, une phrase annonçant un total exact sans mention de l'inventaire serait faussement assurée. Le doute porte sur les découpages de l'échantillon, non sur l'existence du trésor.
+
+## V. Un terminus post quem, non une date d'enfouissement certifiée
+
+Dans la synthèse de Horton (2004), les dinars associés au trésor conduisent à placer le dépôt après 1066 de notre ère. Cette indication est un *terminus post quem*, c'est-à-dire la date la plus ancienne à partir de laquelle l'enfouissement peut être envisagé si la pièce la plus récente est correctement identifiée et appartient au même lot. Une monnaie datée n'enfouit pas elle-même le trésor l'année de sa frappe : elle peut circuler pendant de nombreuses années.
+
+L'emploi de 1066 comme année absolue du dépôt serait donc méthodologiquement imprudent. De surcroît, les troubles ou dangers susceptibles de provoquer une thésaurisation ne sont pas documentés par une chronique locale qui nommerait un ennemi, un incendie ou un procès. Un trésor peut résulter d'une décision de conservation d'épargne, d'un transfert interrompu ou d'une crise. Le choix entre ces modèles exige des indices indépendants ; on ne doit pas inventer une guerre pour expliquer une cache.
+
+## VI. Métaux et matérialité de l'autorité
+
+L'argent et l'or ne sont pas des substances identiques au point de vue de la circulation, du poids et du prestige. L'existence de monnaies locales d'argent démontre une maîtrise de la frappe ou un accès à des ateliers capables d'en assurer les opérations. La composition des alliages, lorsqu'elle est étudiée, peut contribuer à identifier les sources du métal et les techniques employées. Mais une analogie chimique ne donne pas automatiquement le nom du monnayeur ou celui du minerai d'origine.
+
+La confiance monétaire dépend d'un agencement de pratiques : reconnaître la pièce, accepter son titre réel ou supposé, connaître les personnes qui la garantissent, circuler dans un milieu où elle a cours. La frappe confère au pouvoir une présence portable. Elle peut rendre un nom visible bien au-delà des bâtiments du prince. La notion même de « prince » ou de « souverain » doit ici être maniée avec prudence : une titulature monétaire ne renseigne pas toujours la constitution précise du pouvoir local.
+
+## VII. Les noms des autorités : ce que le métal conserve
+
+Horton (2004) évoque plus de deux mille pièces d'argent frappées localement aux noms de dix dirigeants. Une telle pluralité oblige à envisager des séries, des chronologies et des autorités distinctes. Elle ne suffit pas à reconstruire dix règnes successifs, dix États indépendants ou une dynastie linéaire. La même autorité peut se présenter sous plusieurs graphies ; des noms peuvent se répéter ; une frappe peut continuer après la mort d'un émetteur.
+
+Le catalogue numismatique original doit être le lieu de vérification des légendes et de leur répartition. Dans cette étude, aucun nom de souverain n'est transcrit sur la foi d'une liste secondaire non confrontée à une planche. Cette réserve évite de transformer des hypothèses d'attribution en personnages biographiques imaginaires. Les monnaies attestent un vocabulaire de l'autorité politique ; elles ne livrent pas un registre administratif complet de Pemba.
+
+## VIII. Lire une légende : écriture, fabrication et usure
+
+La philologie de la monnaie diffère de celle d'un manuscrit. Les lettres sont gravées dans un espace restreint, souvent au moyen de matrices, et peuvent être altérées par l'usure, une frappe décentrée, un flan défectueux ou une imitation. Une restitution paléographique doit distinguer les signes visibles, les compléments probables et les lectures conjecturales. La photographie ou le dessin accompagné d'un relevé du poids est plus instructif qu'une traduction isolée.
+
+Cette exigence vaut notamment pour les formules à caractère religieux qui apparaissent sur des monnaies de contextes islamiques. Les expressions arabes connues d'autres monnayages ne doivent pas être automatiquement reportées sur les exemplaires de Mtambwe. L'existence d'une confession islamique dans la région ne suffit pas à reconstituer la disposition d'une légende précise. L'édition critique d'une pièce exige un numéro d'inventaire, un champ épigraphique identifiable et une conservation vérifiable.
+
+## IX. Argent local et dinars du monde fatimide
+
+Le trésor associe une série régionale d'argent à des pièces d'or provenant du monde islamique plus vaste, dont des frappes fatimides. Les Fatimides exercent une autorité impériale en Afrique du Nord et en Égypte à partir du Xe siècle ; leur monnayage représente l'un des principaux supports matériels de la souveraineté. L'arrivée de telles monnaies dans l'océan Indien illustre des relations commerciales longues, dont les étapes intermédiaires restent souvent impossibles à reconstituer.
+
+Il serait réducteur de considérer les dinars comme des preuves d'une domination politique fatimide à Pemba. Une monnaie peut parcourir plusieurs circuits après avoir été frappée, indépendamment de la volonté de son premier émetteur. Elle peut être reçue pour la valeur de son métal même par un public ne reconnaissant pas sa titulature. À l'inverse, la coexistence des émissions locales et impériales permet de poser la question de différents niveaux de confiance monétaire.
+
+## X. Un dinar abbasside : comment interpréter la diversité politique
+
+Les résumés du trésor signalent également une monnaie d'or en rapport avec le califat abbasside. Son association à des dinars fatimides ne démontre pas que leurs institutions politiques se seraient réconciliées dans une idéologie locale. Elle indique que des monnaies issues de systèmes de frappe différents pouvaient se trouver ensemble dans les circuits d'échange.
+
+La distinction est capitale : les monnaies circulent plus librement que les fidélités confessionnelles ou les allégeances. Le métal peut franchir des frontières que les autorités prétendent maintenir. On ne doit donc pas transformer la juxtaposition de pièces fatimides et abbassides en preuve de la croyance intime du possesseur du dépôt. La cache renseigne d'abord des pratiques de conservation et de valeur ; ses implications religieuses demandent une argumentation supplémentaire.
+
+## XI. Les maillons de l'océan Indien
+
+Il ne faut pas imaginer un trajet simple reliant l'Égypte à Pemba par un navire unique. L'or peut changer de détenteur dans le golfe d'Aden, en mer Rouge, sur les côtes arabiques ou dans d'autres villes swahilies. Les vents saisonniers de mousson organisent des fenêtres de navigation, mais leurs rythmes n'imposent aucune route commerciale universelle. Les marchandises échangées changent de composition selon les destinations, la valeur relative des produits et les relations entre acteurs.
+
+L'archéologie documente la présence finale d'un objet, rarement la totalité de son itinéraire. Les provenances numismatiques doivent être distinguées de celles des céramiques importées. Leur rapprochement éclaire néanmoins un système économique où les communautés africaines participent activement à la circulation de l'or, de l'ivoire, du bois, des coquillages, des tissus ou d'autres produits. Le trésor donne un aperçu concentré de ces relations, non leur comptabilité totale.
+
+## XII. Une monnaie religieuse ? Formules et présomptions
+
+Il est tentant de dire que la monnaie portant une légende islamique « sacralise » tous les paiements. Ce serait une généralisation excessive. Dans une société islamique, la mention d'une autorité ou d'une formule de piété peut appartenir à la convention du monnayage sans correspondre à une intention liturgique de chaque usager. La même pièce traverse des mains dont les croyances ne sont pas documentées.
+
+Un examen rigoureux distinguera trois niveaux : la présence matérielle d'une inscription déchiffrable, son contenu linguistique dans la tradition d'émission, et la signification attribuée lors d'un paiement ou d'un dépôt. Seul le premier est directement observable ; les deux autres requièrent des comparaisons historiques. La notion de sacralité monétaire est donc ici une question anthropologique, pas une étiquette plaquée sur le métal.
+
+## XIII. Une religion inscrite dans l'économie sans être réductible à elle
+
+L'islam n'est pas seulement un réseau de marchés : il organise aussi la prière, des obligations de justice, la purification, le don et des formes de sociabilité. Dans une société de marchands, ces prescriptions peuvent influer sur les relations économiques, sans que chaque achat constitue un rite. Les monnaies de Mtambwe révèlent l'une des surfaces où les pouvoirs rencontrent les échanges matériels. Elles ne permettent pas de décrire les mosquées fréquentées par tous leurs possesseurs.
+
+Le rapprochement entre monnaie et religion est cependant heuristique. Des noms et formules publics peuvent contribuer à stabiliser une représentation de la souveraineté légitime. La confiance sociale qui rend la monnaie utilisable a des dimensions juridiques, politiques et parfois religieuses. Leur distinction évite le piège inverse du matérialisme radical : une pièce n'est pas seulement un poids d'argent dépourvu de signes.
+
+## XIV. Coran et pratiques économiques : prescriptions et archives
+
+Plusieurs passages coraniques peuvent éclairer les principes normatifs d'une communauté musulmane : la sourate 83, versets 1–6, condamne la fraude dans les mesures ; la sourate 2, verset 282, évoque l'écriture des dettes ; la sourate 9, verset 60, règle la distribution de l'aumône obligatoire. Il s'agit de sources primaires pour l'histoire des normes et des interprétations islamiques, non de contrats retrouvés à Mtambwe.
+
+Le danger est de lire les pièces à travers un manuel juridique beaucoup plus tardif, puis de conclure que toutes les pratiques locales respectaient uniformément sa doctrine. Aucun archive bancaire de l'îlot n'est disponible pour décrire les prêts, les revenus fiscaux ou les paiements exacts. Les versets permettent de formuler des questions pertinentes — justice, mesure, redistribution — dont on doit ensuite rechercher les indices matériels sans fabriquer les réponses.
+
+## XV. Donner, thésauriser, offrir : trois actions distinctes
+
+Une pièce peut être donnée à un pauvre, reçue pour une marchandise ou déposée dans une cache. Ces opérations ont des finalités différentes. Le don peut revêtir une signification religieuse ; une réserve d'épargne peut être économiquement rationnelle ; un dépôt votif peut être placé dans un sanctuaire. Mais la présence de monnaies enterrées dans un contexte non cultuel ne permet pas de confondre ces catégories.
+
+À Mtambwe, l'explication du trésor comme réserve monétaire doit rester ouverte à plusieurs scénarios. Il n'existe pas, dans les éléments documentaires ici vérifiés, de preuve suffisante pour qualifier son enfouissement de rite sacrificiel, de dépôt funéraire ou d'offrande à une divinité. Le titre « Origines du sacré » ne contraint pas à sacraliser abusivement l'objet : une histoire du sacré doit aussi démontrer où s'arrêtent les sources religieuses.
+
+## XVI. L'autorité politique locale sans chronique contemporaine
+
+Les monnaies d'argent locales contredisent une histoire qui ferait de Pemba un simple espace passif, attendant l'arrivée d'un pouvoir étranger. Elles montrent qu'une autorité pouvait soutenir ou revendiquer la frappe d'une monnaie reconnue dans des échanges régionaux. On ne peut en déduire un État territorial aux frontières fixes ni un système de taxation identique aux institutions califales.
+
+La constitution d'une autorité politique peut dépendre de réseaux de parenté, de clientèles maritimes, de production rurale et d'alliances. La monnaie suggère une visibilité de ce pouvoir ; elle n'en révèle pas la totalité. Les catégories modernes de monarchie, cité-État et principauté doivent demeurer des hypothèses descriptives confrontées aux sources. Il serait notamment prudent de distinguer titre inscrit, traduction moderne du titre et statut politique réellement exercé.
+
+## XVII. La question des « Shirazi »
+
+La côte swahilie possède des traditions de fondation associées à des ancêtres venus de Shiraz ou du monde persan. Les chercheurs ont montré combien ces récits peuvent contribuer à l'expression d'un prestige, d'une ancienneté et de liens transocéaniques. Ils ne sauraient être pris littéralement pour expliquer à eux seuls chaque monnaie de Pemba. Les émissions locales ne sont pas la preuve que la population était majoritairement persane.
+
+Une étude de généalogie historique doit distinguer les traditions recueillies, leur date de rédaction, les intérêts politiques qui s'y attachent et les traces archéologiques indépendantes. Le commerce avec des régions d'Asie occidentale est attesté par des objets, mais la provenance d'une monnaie ne définit pas l'ascendance de son usager. Ainsi, refuser la colonisation comme explication totale ne signifie pas nier les migrations : cela impose de les documenter séparément.
+
+## XVIII. Du nom sur la monnaie à la mémoire du souverain
+
+Une inscription numismatique transmet un nom à des personnes qui ne rencontrent peut-être jamais l'émetteur. Elle élargit une forme de présence politique. Contrairement à un monument immobile, la pièce circule, s'échange et s'use. Elle peut survivre à l'autorité qui l'a émise et continuer de produire un effet de confiance longtemps après la mort de son premier garant.
+
+La théorie de la « mémoire » exige toutefois de distinguer reconnaissance quotidienne et souvenir historique conscient. Un marchand peut accepter une pièce dont il ignore la date et l'identité personnelle du souverain. La diffusion d'un nom dans le métal ne suffit donc pas à reconstituer un culte dynastique. Les émissions de Mtambwe invitent à analyser la visibilité du pouvoir sans imaginer une liturgie funéraire autour de chaque monnayeur.
+
+## XIX. Atelier, matrice et organisation du travail
+
+Une monnaie frappée est le résultat d'une série d'opérations matérielles : approvisionnement en métal, contrôle de son titre, préparation des flans, gravure des coins, frappe et distribution. Même lorsque l'atelier n'a pas été fouillé, les variations de type et de poids peuvent contribuer à reconstituer des séries. Les analyses métallurgiques permettent de tester certaines hypothèses, mais elles n'identifient pas automatiquement la main d'un artisan.
+
+La notion de technologie rituelle serait trop vaste si elle transformait chaque opération en sacrifice. Le chantier monétaire est d'abord technique et institutionnel. Son intérêt pour l'histoire religieuse tient au fait qu'il stabilise des messages publics associés au pouvoir et possiblement à l'islam. Ce n'est pas le métal qui « croit », mais des personnes qui organisent sa fabrication, sa réception et sa valeur.
+
+## XX. Comparer les monnaies locales et celles de Kilwa
+
+Des rapprochements typologiques entre certaines pièces de Pemba et la monnaie de Kilwa ont été proposés dans la littérature. Ils rendent probable l'existence d'une tradition régionale d'émission et de relations politiques. Il faut cependant éviter de raconter une succession linéaire allant d'une « capitale » à une « colonie » sans preuve de domination administrative.
+
+La comparaison numismatique doit porter sur les légendes réellement lues, la composition, les types, la chronologie, les dimensions et les contextes de découverte. Une pièce frappée dans une ville peut circuler dans une autre ; une imitation peut reproduire une formule prestigieuse ; la ressemblance ne suffit pas à décider du sens de la dépendance. La circulation dans la région ne supprime pas la diversité des souverainetés et des marchés.
+
+## XXI. Pemba : une histoire régionale avant les grands ports tardifs
+
+LaViolette et Fleisher (2009) soulignent les densités d'occupation anciennes de Pemba et la formation de centres urbains par transformations locales. Cette image contredit l'idée d'une île qui ne serait devenue historiquement intéressante qu'avec les grandes villes de pierre des XIVe et XVe siècles. Le trésor du XIe siècle prouve qu'une économie monétaire régionale opérait plus tôt que ne le suggèrent certaines images touristiques du passé.
+
+L'histoire religieuse profite de cette révision : elle doit chercher des pratiques islamiques dans les habitats et les réseaux du premier et du début du second millénaire, sans exiger de grande mosquée conservée pour reconnaître l'existence de communautés croyantes. Les architectures périssables, les inscriptions et les objets ordinaires offrent des corpus complémentaires à la grande numismatique.
+
+## XXII. Le trésor et les villes de Shanga, Chwaka et Ras Mkumbuu
+
+Les monographies déjà consacrées par MYTHOS à Shanga, Chwaka et Ras Mkumbuu traitent principalement de mosquées, de leur transformation, de leur position dans la ville et de la mémoire funéraire. Mtambwe aborde une autre archive : la frappe locale et la conservation d'un ensemble monétaire. Le rapprochement n'autorise pas à attribuer mécaniquement un même souverain ou une même école juridique à toutes ces communautés.
+
+La comparaison est productive lorsqu'elle met à l'épreuve une question commune : comment l'islam se matérialise-t-il dans des pratiques africaines différentes ? Une niche de prière, une tombe à pilier et une monnaie sont autant d'objets dont les régimes d'usage diffèrent. Leur coexistence régionale peut signaler l'essor de communautés musulmanes, mais aucun de ces supports ne mesure directement la foi personnelle des habitants.
+
+## XXIII. Les routes et les risques du trafic côtier
+
+Les circuits de transport maritime dépendent des vents, des récifs, des ports d'escale et de relations de confiance. Une économie monétaire abondante ne se substitue pas aux échanges en nature : poisson, bois, grain, sel et divers produits peuvent circuler selon d'autres unités de valeur. L'existence du trésor ne prouve donc pas la « monétarisation complète » de toutes les transactions du XIe siècle.
+
+L'accumulation d'argent peut aussi exprimer une préférence pour un mode de réserve. Une cache prouve que des pièces ont été réunies en un lieu ; elle ne décrit pas la masse monétaire en circulation ni le pouvoir d'achat de toutes les familles. La distinction entre stock thésaurisé et flux économique est capitale pour éviter une prospérité quantitative fictive fondée sur un événement de découverte.
+
+## XXIV. La méthode du *terminus* et la pluralité des chronologies
+
+Les chronologies numismatiques reposent sur plusieurs opérations : lire la légende, identifier l'émetteur, situer sa période d'activité, établir les limites de la circulation et examiner la couche de dépôt. Un dinar daté fournit une borne, pas une date nécessairement égale à celle de la cache. Les monnaies locales peuvent être plus difficiles à ordonner lorsque leurs émetteurs ne figurent pas dans des annales contemporaines sûres.
+
+Un programme de recherche devrait donc publier une table de concordance entre types, légendes, poids, frappes et objets associés, puis discuter les marges d'incertitude. Les chronologies construites à partir des monnaies peuvent être comparées aux séries céramiques et aux architectures de Pemba. Elles ne doivent pas leur être imposées comme une grille parfaite : les divers supports peuvent présenter des durées de circulation et d'usage distinctes.
+
+## XXV. Philologie arabe : lire avant de traduire
+
+Dans les monnaies islamiques, les légendes arabes peuvent associer des noms, des titres et des formules de souveraineté ou de piété. Les graphies dépendent du style, de l'époque et de la technique de gravure. La traduction d'une monnaie doit partir d'une lecture paléographique assurée ; une formule usuelle connue des autres dynasties n'autorise pas à compléter librement une surface abîmée.
+
+En l'absence ici d'un catalogue intégral des faces de chaque pièce, cette étude refuse de reproduire une prétendue phrase sacrée exacte de Mtambwe. Les monnaies originales sont les sources primaires ; les commentaires sur la « présence religieuse » des légendes demeurent des interprétations. La prudence protège aussi la langue arabe contre l'usage décoratif qu'en feraient des synthèses hâtives dépourvues d'analyse des caractères.
+
+## XXVI. Les écritures et l'identité swahilie
+
+Le swahili appartient aux langues bantoues et possède une histoire d'emprunts liés notamment aux contacts avec le monde arabe. L'emploi de mots et de noms arabes dans un milieu musulman ne suffit pas à déterminer la langue domestique des habitants de Pemba. Un nom personnel religieux peut être adopté, transmis ou inscrit sans que son porteur soit originaire de la péninsule Arabique.
+
+La philologie permet une histoire des contacts seulement lorsqu'elle associe attestations, évolution phonétique et datation. La numismatique est ici une forme d'inscription publique ; elle ne constitue pas le dictionnaire du parler populaire. L'identité swahilie ne se laisse donc pas réduire au matériau linguistique visible sur une monnaie, pas plus qu'aux motifs d'une mosquée.
+
+## XXVII. La question du souverain et de la communauté musulmane
+
+L'émetteur d'une monnaie peut revendiquer la légitimité dans un idiome islamique. Le public peut reconnaître cette légitimité, l'ignorer ou l'interpréter différemment. La souveraineté religieuse n'est pas l'équivalent immédiat de la souveraineté politique. Des réseaux de marchands musulmans peuvent accepter une monnaie régionale sans exercer un pouvoir impérial direct sur l'île.
+
+Ce cadre conduit à une formulation modeste : Mtambwe permet de constater l'importance de la frappe et des connexions monétaires ; il aide à poser la question de l'expression islamique de l'autorité, mais ne résout pas la totalité de son système institutionnel. Une étude qui attribuerait à la communauté un credo juridique particulier à partir d'un dinar importé dépasserait nettement les sources.
+
+## XXVIII. Émile Durkheim : la confiance monétaire est-elle une croyance collective ?
+
+Durkheim analyse les représentations collectives et les conditions sociales de l'autorité symbolique. Une monnaie fonctionne lorsque des personnes acceptent une convention : sa valeur ne se déduit pas uniquement de la quantité de métal. Ce rapprochement permet de considérer les attentes, sanctions, usages et institutions qui donnent à l'argent une efficacité sociale. Il n'en découle pas que la monnaie soit sacrée au sens où l'est un objet de culte.
+
+Le risque durkheimien serait de faire disparaître les transactions concrètes sous le mot « société ». Pour Mtambwe, la matérialité demeure décisive : teneur en métal, poids, lisibilité, lieu du dépôt. Une sociologie des symboles doit s'appuyer sur ces opérations mesurables et ne peut prétendre retrouver l'effervescence d'une communauté dont aucun témoignage de cérémonie monétaire n'est conservé.
+
+## XXIX. Nietzsche : dette, généalogie et prudence comparative
+
+La deuxième dissertation de *La Généalogie de la morale* de Nietzsche analyse les rapports entre dette, obligation, mémoire et culpabilité dans une perspective philosophique. Cette grille permet de questionner les récits qui assimilent valeur économique et responsabilité morale. Elle ne fournit aucun témoignage historique sur la frappe d'argent dans la Pemba médiévale.
+
+Une comparaison responsable évite d'affirmer que chaque pièce de Mtambwe matérialise un sentiment de faute ou un « sacrifice ». Les pratiques marchandes produisent des engagements, mais leur caractère spirituel dépend de normes et de contextes locaux. L'intérêt de Nietzsche réside dans l'examen critique des mots « valeur » et « dette » ; il ne réside pas dans une restitution fictive de la psychologie des monnayeurs swahilis.
+
+## XXX. Hegel et la tentation d'une histoire des civilisations hiérarchisée
+
+Les grandes philosophies de l'histoire ont parfois été mobilisées pour classer les sociétés selon leur prétendue avance culturelle. Dans une telle perspective, la monnaie africaine locale serait décrite comme une copie tardive d'une forme plus accomplie conçue ailleurs. Les pièces du XIe siècle rendent cette hiérarchie moins tenable : elles invitent à étudier les choix techniques et politiques propres aux communautés de Pemba.
+
+La philosophie de Hegel peut servir de point de départ à une critique des modèles de reconnaissance et d'institutionnalisation, mais une interprétation historiciste ne doit pas supplanter les objets. La comparaison numismatique n'établit pas une échelle universelle de « progrès ». Elle met en évidence différentes solutions à un problème récurrent : garantir des échanges et rendre l'autorité reconnaissable.
+
+## XXXI. Vernant et Detienne : différence entre circulation monétaire et pratique sacrificielle
+
+Les recherches de Vernant et Detienne sur le monde grec rappellent que le religieux peut structurer des relations sociales et politiques sans être séparé du quotidien. On peut comparer les modes d'expression publique de l'autorité et les formes d'échange entre citoyens ou fidèles. Mais une monnaie de Mtambwe n'est pas une *thysia*, et un dépôt de pièces n'est pas assimilable à une offrande grecque sans indice d'un geste de consécration.
+
+Le danger du comparatisme est de confondre l'analogie analytique avec la généalogie historique. Le monnayage grec peut recourir à l'image d'une divinité ou à un symbole civique ; le monnayage islamique utilise d'autres conventions graphiques et textuelles. Ces différences sont précisément instructives : la relation entre pouvoir et sacré n'a pas une forme unique.
+
+## XXXII. Les monnayages grecs : cité, dieu et symbole public
+
+À Athènes, la chouette et Athéna entretiennent une relation iconographique avec l'identité civique et religieuse ; dans d'autres cités, les images monétaires signalent des choix politiques ou des traditions cultuelles. La comparaison avec les légendes de Mtambwe ne doit pas effacer l'écart entre image animale et inscription religieuse. Les monnaies grecques anciennes disposent aussi d'une histoire propre de poids, d'alliages et de diffusion.
+
+L'étude comparative porte donc sur la fonction de communication : rendre la cité ou l'autorité visible à travers un objet de circulation. Cela ne prouve pas que les usagers attribuaient au métal la puissance de la déesse figurée, ni que les habitants de Pemba vénéraient leurs émetteurs. Des pratiques monétaires différentes montrent comment les sociétés incorporent la légitimité politique dans le quotidien.
+
+## XXXIII. Égypte ancienne, Égypte fatimide : une fausse continuité à éviter
+
+L'origine fatimide de certaines pièces d'or invite à distinguer l'Égypte du XIe siècle, intégrée dans un pouvoir islamique, de l'Égypte pharaonique. La proximité territoriale ne constitue pas une filiation directe entre une économie palatiale ancienne et un dinar médiéval. Les institutions, les langues et les cadres religieux changent considérablement.
+
+Une comparaison diachronique peut toutefois demander comment les gouvernements représentent leurs prérogatives et contrôlent les unités de valeur. Dans le monde pharaonique, les poids et les équivalences de denrées répondent à d'autres systèmes ; dans le monde fatimide, la monnaie inscrite relève d'un autre environnement juridique et politique. L'enjeu consiste à comparer des mécanismes sans postuler la continuité d'une essence religieuse égyptienne.
+
+## XXXIV. Mésopotamie : métaux pesés, contrats et garanties
+
+Les archives cunéiformes de Mésopotamie documentent des systèmes d'équivalence, de pesée de l'argent, de dette et de garantie bien antérieurs à la frappe monétaire régulière. Il serait anachronique de parler de « dinars mésopotamiens » pour les périodes anciennes. L'argent pesé et la pièce frappée sont deux arrangements institutionnels distincts, même si tous deux facilitent les échanges.
+
+Le rapprochement avec Pemba éclaire un problème commun : comment convertir une matière en créance socialement reconnue ? Les temples mésopotamiens peuvent tenir un rôle dans les patrimoines et les transactions ; le trésor de Mtambwe ne permet pas de transférer ce modèle à une mosquée sans preuve. La comparaison exige le respect des archives de chaque système religieux.
+
+## XXXV. Iran et Inde : circulations des techniques, pas simples transferts d'identité
+
+Les monnayages sassanides et islamiques d'Iran, puis ceux de plusieurs formations politiques indiennes, participent à des histoires entremêlées de techniques de frappe et de représentations de l'autorité. Des objets de ces régions peuvent atteindre le littoral africain par plusieurs intermédiaires. Une ressemblance de type monétaire doit être étudiée en tenant compte de la chronologie, des dimensions et des inscriptions.
+
+La comparaison avec Mtambwe ne justifie ni l'attribution d'un atelier perse hypothétique ni une religion « mixte » construite à partir de la provenance de l'or. Les lieux de fabrication et d'usage d'un objet peuvent différer. L'étude du sacré doit chercher les pratiques réelles, et non projeter sur les communautés swahilies une identité correspondant à l'une des régions par lesquelles circulaient leurs marchandises.
+
+## XXXVI. Chine : monnaies, États et circuits non superposables
+
+Les traditions monétaires chinoises offrent un exemple de développement ancien de monnaies métalliques dont les conventions de fabrication, la fiscalité et les usages diffèrent des dinars et des pièces d'argent de Pemba. Il serait erroné de décrire un « stade chinois » comme origine nécessaire de toutes les monétarisations afro-eurasiennes. La diversité des systèmes révèle des réponses multiples au besoin de garantir des échanges.
+
+Les céramiques chinoises découvertes sur des sites swahilis démontrent des circuits lointains ; elles ne prouvent pas que la monnaie chinoise aurait servi partout dans ces mêmes réseaux. Marchandises, monnaies et idées religieuses possèdent des géographies qui peuvent se croiser sans se confondre. C'est un principe essentiel d'une histoire connectée non diffusionniste.
+
+## XXXVII. Afrique occidentale et Amériques : comparer les objets de valeur sans uniformiser
+
+En Afrique occidentale, différentes sociétés ont utilisé des métaux, des cauris, des textiles ou des objets spécialisés dans des systèmes de valeur propres. Dans les Amériques précolombiennes, certains objets de prestige circulent dans des réseaux d'échange et de pouvoir sans être des pièces comparables aux dinars. Le concept moderne d'« argent » doit donc être appliqué avec attention.
+
+La comparaison pose une question commune : comment des conventions sociales produisent-elles de l'obligation, du prestige et parfois une relation au sacré ? Mais les réponses ne sont pas nécessairement équivalentes. Un cauri, un tissu de prestige, un lingot et une pièce portant une légende islamique n'ont pas la même histoire. La méthode consiste à définir les fonctions dans chaque contexte, avant de rechercher les convergences.
+
+## XXXVIII. Eliade et Girard : deux théories à ne pas appliquer automatiquement
+
+La phénoménologie du sacré de Mircea Eliade peut inviter à interroger la signification des objets et des gestes quotidiens, mais aucune hiérophanie ne peut être déduite d'un poids monétaire. De même, la théorie de la violence et du sacrifice chez René Girard ne permet pas de transformer un trésor enfoui en substitut victimaire. Il manque toute preuve d'une action sacrificielle.
+
+Le contrôle des catégories est un résultat substantiel : des pièces islamiques ne sont pas nécessairement des reliques, et une cache n'est pas nécessairement un sanctuaire. L'histoire du sacré possède le devoir de montrer les points où ses concepts ne sont pas confirmés par les données. L'absence de preuve rituelle n'enlève rien à l'importance sociale, historique et religieuse potentielle des légendes.
+
+## XXXIX. La numismatique comme discipline critique
+
+Le traitement d'une pièce exige une chaîne documentaire : photographie des deux faces, masse, diamètre, état de conservation, contexte de découverte, lecture des caractères, identification du type et discussion des comparaisons. Une illustration de synthèse peut faciliter l'enseignement, mais elle ne remplace jamais les originaux. Les catalogues photographiques sont nécessaires pour contrôler les variantes et réduire les erreurs de transcription.
+
+L'édition future de Mtambwe gagnerait à offrir un corpus interrogeable avec plusieurs degrés de certitude pour les lectures, des analyses non destructives lorsque possible et une comparaison transparente des objets déjà publiés. Un relevé sans indication de provenance et de restauration peut produire autant de confusion qu'une absence de relevé. La rigueur dans le traitement des artefacts est une condition préalable de l'interprétation anthropologique.
+
+## XL. Conservations, musées et responsabilité scientifique
+
+La collecte, la fouille et la circulation muséale du trésor imposent de documenter la provenance de chaque pièce et le lien entre l'îlot, les institutions de conservation et les communautés locales. L'étude au musée Ashmolean ne supprime pas l'histoire tanzanienne des objets. Les renseignements scientifiques doivent être publiés de manière à permettre une confrontation des classements et des restitutions possibles.
+
+Une politique patrimoniale responsable distingue l'accès scientifique, la propriété juridique, la conservation matérielle et l'accès des populations aux connaissances. Le nom de Mtambwe ne doit pas devenir une marque vide séparée de son lieu d'origine. Les monnaies ont une vie archéologique après leur enfouissement, et cette vie influe sur la manière dont les sociétés contemporaines se représentent leur passé.
+
+## XLI. Tableau critique des attestations et des inférences
+
+**Attesté directement par la documentation de référence :** découverte d'un grand ensemble de monnaies à Mtambwe Mkuu en 1984 et fouille en 1985 ; monnaies d'or et d'argent ; série locale d'argent datée du XIe siècle ; présence de dinars utiles à la datation relative du dépôt ; importance des contextes swahilis de Pemba ; étude numismatique publiée en 1986.
+
+**Interprétations étayées mais susceptibles de révision :** relation de la frappe à plusieurs autorités locales ; insertion des monnaies dans des réseaux transocéaniques ; rôle des légendes publiques dans la reconnaissance d'un pouvoir ; liens avec les traditions monétaires de Kilwa ; éventuelle thésaurisation en période d'incertitude.
+
+**Non démontré par les seules pièces :** année absolue de l'enfouissement ; identité confessionnelle de tous les usagers ; présence d'un culte monétaire ; localisation de chaque atelier ; religion propre d'un souverain nommé par restitution incertaine ; domination politique des Fatimides sur Pemba ; succession exacte et ininterrompue de tous les émetteurs.
+
+## XLII. Programme d'enquête et d'édition critique
+
+Une nouvelle étude des monnaies devrait publier les photographies et informations métriques des pièces, les légendes sous une transcription diplomatique, les limites d'identification des autorités et les provenances stratigraphiques contrôlées. Une analyse des alliages et des traces de fabrication pourrait préciser les réseaux techniques. Un examen conjoint des céramiques et des édifices contemporains permettrait de situer la réserve monétaire dans la chronologie régionale.
+
+Le travail historiographique doit aussi comparer les inventaires publiés au moment de la découverte avec les synthèses ultérieures. Il s'agit de vérifier si les différences de totals reflètent des subdivisions ou des corrections de catalogue. Les sources médiévales et les traditions de fondation doivent être étudiées comme des textes datés, sans rétrodater leur composition au XIe siècle. Une édition ouverte permettrait aux chercheurs et au public tanzanien de réexaminer les conclusions.
+
+## XLIII. Conclusion : l'argent, le signe et la communauté
+
+Mtambwe Mkuu permet de sortir d'une histoire du sacré exclusivement centrée sur le temple ou le sanctuaire. La monnaie montre comment un nom, parfois une formule d'autorité ou de piété, peut voyager parmi des personnes et devenir un support de confiance. La découverte d'une émission régionale d'argent contribue à rendre leur initiative aux communautés africaines de Pemba dans l'histoire économique et religieuse de l'océan Indien.
+
+La prudence reste le meilleur résultat de la comparaison. Une pièce frappée en milieu islamique ne devient pas automatiquement une offrande ; un dinar fatimide ne prouve pas une administration fatimide locale ; un trésor déposé après 1066 n'a pas nécessairement été enfoui cette année-là. La relation entre argent et sacré mérite une analyse parce qu'elle est complexe : la construction de l'autorité et celle des croyances peuvent se rencontrer dans un objet, sans s'y confondre.
+
+## Sources primaires et niveaux de médiation
+
+1. **Les monnaies de Mtambwe Mkuu**, or et argent : sources matérielles premières du dossier. Leur identification, leur description et les conditions de découverte sont publiées par Horton, Brown et Oddy (1986). Le présent texte ne prétend pas avoir examiné chaque objet original ni chaque légende par photographie.
+2. **Coran**, sourate 83:1–6 (mesures et pesées), sourate 2:282 (écritures de dettes), sourate 9:60 (aumône). Sources primaires des traditions normatives islamiques ; elles ne documentent pas directement les transactions tenues sur l'îlot. Textes accessibles par sourate et verset : https://quran.com/83 ; https://quran.com/2/282 ; https://quran.com/9/60.
+3. **Traditions narratives swahilies**, y compris les récits de fondation de Kilwa : sources textuelles à dater et critiquer dans leurs recensions et non documents primaires de la frappe du XIe siècle.
+4. **Relevés archéologiques régionaux de Pemba** : sources de terrain médiatisées par leurs publications ; elles situent la circulation monétaire dans un cadre d'occupation insulaire sans définir les motivations des thésauriseurs.
+
+## Bibliographie scientifique vérifiée
+
+- Horton, M. C., H. M. Brown et W. A. Oddy, « The Mtambwe Hoard », *Azania: Archaeological Research in Africa*, 21, 1986, p. 115–123. DOI : https://doi.org/10.1080/00672708609511372. Notice de contrôle : https://www.africabib.org/rec.php?RID=119520907.
+- Horton, Mark C., « Islam, Archaeology, and Swahili Identity », dans Donald Whitcomb (dir.), *Changing Social Identity with the Spread of Islam: Archaeological Perspectives*, Oriental Institute Seminars 1, University of Chicago, 2004, p. 67–88, spécialement fig. 4.10 relative aux monnaies de Mtambwe. Livre accessible : https://oi-idb-static.uchicago.edu/multimedia/1025/OIS1.pdf.
+- LaViolette, Adria et Jeffrey B. Fleisher, « The Urban History of a Rural Place: Swahili Archaeology on Pemba Island, Tanzania, 700–1500 AD », *The International Journal of African Historical Studies*, 42/3, 2009, p. 433–455. https://www.jstor.org/stable/40646777.
+- Horton, Mark C., « Early Muslim Trading Settlements on the East African Coast: New Evidence from Shanga », *The Antiquaries Journal*, 67/2, 1987, p. 290–323. DOI : https://doi.org/10.1017/S0003581500025427.
+- Fleisher, Jeffrey B. et al., « When Did the Swahili Become Maritime? », *American Anthropologist*, 117/1, 2015, p. 100–115. DOI : https://doi.org/10.1111/aman.12171.
+- Horton, Mark C., « Asiatic colonization of the East African coast: the Manda evidence », *Journal of the Royal Asiatic Society*, 118/2, 1986, p. 201–213. DOI : https://doi.org/10.1017/S0035869X00139899.
+- Wynne-Jones, Stephanie et Adria LaViolette (dir.), *The Swahili World*, Routledge, 2018. Ouvrage collectif pour les méthodes et les débats, non preuve numismatique directe.
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse* (1912) ; Nietzsche, Friedrich, *Zur Genealogie der Moral* (1887) ; Detienne, Marcel et Jean-Pierre Vernant (dir.), *La Cuisine du sacrifice en pays grec* (1979) ; Eliade, Mircea, *Le Sacré et le Profane* (1957) ; Girard, René, *La Violence et le sacré* (1972). Sources théoriques signalées pour leur fonction interprétative, non pour des faits sur Mtambwe.
+
+## Notice de continuité
+
+Cette étude porte exclusivement sur le trésor et la création d'autorité par la monnaie dans l'espace de Pemba. Les descriptions de mosquées déjà publiées ou en attente pour Shanga, Chwaka et Ras Mkumbuu ne sont pas reproduites. Les numéros littéraux des dates, sourates et ouvrages restent inchangés ; seul le numéro du nouveau chapitre comporte le marqueur de la file.

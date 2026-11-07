@@ -39,6 +39,49 @@ class OriginsAdditionalIndexTests(unittest.TestCase):
                              {r["url"] for r in records.values()})
             self.assertEqual(len(page.select("a[href]")), len(records))
 
+    def test_double_h1_keeps_actual_subject_not_generic_heading(self):
+        # Une soumission peut employer un H1 de couverture puis un H1 d'étude.
+        # Conserver intégralement le manuscrit, son titre et son numéro attribué.
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            url = "/chapitres/origines-du-sacre/756-chwaka-pemba/"
+            source = root / (url.strip("/") + ".md")
+            source.parent.mkdir(parents=True)
+            subject = "Chwaka (Pemba) : quatre mosquées, une cité africaine"
+            original = (
+                "# MYTHOS — Les Origines du sacré — Chapitre 756\n"
+                "# " + subject + "\n\n"
+                "## Résumé scientifique\n\n" + "Étude archéologique. " * 150
+            )
+            source.write_text(original, encoding="utf-8")
+            reader = root / "_site" / url.strip("/") / "index.html"
+            reader.parent.mkdir(parents=True)
+            reader.write_text("<html><body>Texte intégral</body></html>", encoding="utf-8")
+            result = origins_additional_index(
+                {756: {"url": url, "title": "Résumé scientifique"}},
+                root, root / "_site")
+            self.assertIn(subject, result)
+            self.assertNotIn("Résumé scientifique", result)
+            self.assertEqual(source.read_text(encoding="utf-8"), original)
+
+    def test_generic_headings_without_subject_still_refused(self):
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            url = "/chapitres/origines-du-sacre/757-untitled/"
+            source = root / (url.strip("/") + ".md")
+            source.parent.mkdir(parents=True)
+            source.write_text(
+                "# MYTHOS — Origines du sacré — Chapitre 757\n"
+                "## Résumé scientifique\n\n" + "Étude archéologique. " * 150,
+                encoding="utf-8")
+            reader = root / "_site" / url.strip("/") / "index.html"
+            reader.parent.mkdir(parents=True)
+            reader.write_text("<html><body>Texte</body></html>", encoding="utf-8")
+            with self.assertRaisesRegex(RuntimeError, "titre scientifique absent"):
+                origins_additional_index(
+                    {757: {"url": url, "title": "Résumé scientifique"}},
+                    root, root / "_site")
+
     def test_missing_reader_refuses_partial_or_unpublished_content(self):
         with TemporaryDirectory() as tmp:
             root = Path(tmp)

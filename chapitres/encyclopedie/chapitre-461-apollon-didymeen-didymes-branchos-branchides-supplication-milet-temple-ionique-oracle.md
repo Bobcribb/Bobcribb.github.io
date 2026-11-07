@@ -1,0 +1,677 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 461
+
+## Apollon Didyméen à Didymes : Branchos, le devoir d'asile, les oracles de Milet, la voie processionnelle et le temple ionique inachevé
+
+*Monographie universitaire originale en français — mythographie, philologie, histoire religieuse de l'Ionie, archéologie du sanctuaire, épigraphie, philosophie politique de la supplication, sociologie des oracles et histoire des rapports gréco-perses. État de la documentation examiné au 6 novembre 2026. La variable 461 représente exclusivement une future attribution transactionnelle par le registre de MYTHOS ; aucun numéro n'est réservé par la rédaction.*
+
+### Résumé
+
+Le sanctuaire d'Apollon à Didymes occupe une position exceptionnelle dans la religion grecque. Établi dans la péninsule de Milet, à l'écart de l'agglomération principale, il tire sa force d'une relation triangulaire entre le dieu, une autorité de médiation prophétique et la communauté civique qui déplace vers lui processions, dédicaces et ambassadeurs. La tradition donne à Branchos, aimé d'Apollon, la fondation de l'oracle ; le personnel des Branchides constitue ensuite, dans plusieurs récits, une lignée de spécialistes. Pourtant, l'archéologie et les inscriptions révèlent une histoire plus composite : fréquentation archaïque dans un espace anatolien de langues et de populations diverses, temple détruit ou pillé durant les guerres gréco-perses selon des récits de chronologie contradictoire, réorganisation après Alexandre, intervention séleucide, longue construction d'un sanctuaire colossal, puis multiplication des charges civiques et des réponses oraculaires à l'époque impériale.
+
+Cette étude donne une place centrale à une source trop souvent résumée à un exemplum sur « l'oracle qui se trompe » : Hérodote I, 157-160. Les habitants de Cymè demandent s'ils doivent remettre Pactyès, réfugié lydien, aux Perses. L'oracle paraît recommander la remise du suppliant. Aristodicos expose alors une contradiction en expulsant les oiseaux qui nichent auprès du temple : Apollon condamne cet acte comme atteinte à ses propres suppliants. Le dialogue révèle finalement un avertissement divin sur l'impiété qu'entraînerait la décision de Cymè. Le dieu ne livre pas un commandement administratif transparent : le récit met en crise l'interprétation, les rapports avec la puissance perse et les obligations de la communauté envers la personne protégée.
+
+La monumentalité du Didyméion constitue un second problème. Le sanctuaire hellénistique fut conçu à une échelle gigantesque, sans être achevé. Sa cour intérieure à ciel ouvert, sa petite construction sacrée, ses passages, ses escaliers et sa colonnade ne doivent pas être figurés comme une basilique entièrement couverte. La Voie sacrée reliant Milet au secteur de Didymes a connu des états successifs que les travaux de Slawisch et Wilkinson invitent à distinguer. Les nouvelles publications épigraphiques de Wolfgang Günther, commentées en 2024, compliquent les récits de décadence du chantier après 200 av. J.-C. et permettent de reconstruire les relations avec les dirigeants, les personnels féminins et masculins et l'économie de la construction.
+
+La thèse directrice est que **l'oracle didyméen n'est ni une voix pure sans institution ni un monument muet**. Il est une pratique historique d'autorité distribuée entre texte, interprète, cité, voyageur, bâtiment et espace consacré. La monographie distingue la vérité d'une tradition mythique en tant que tradition, l'attestation matérielle de ses cadres, et l'interprétation philosophique de ses contradictions.
+
+### Principes de preuve et d'édition
+
+Le corps du texte signale le statut des données sans confondre leurs régimes. Une **source primaire** atteste d'abord qu'un auteur antique ou une inscription a formulé une proposition. Une **publication archéologique** permet de discuter un objet, une strate ou une reconstitution ; elle ne démontre pas automatiquement le mythe qui lui est associé. Une **hypothèse historique** rapproche des sources de nature et de dates différentes ; sa plausibilité dépend de la convergence de ces séries. Une **lecture philosophique** n'est pas une preuve de pratiques rituelles et ne sera jamais citée comme telle.
+
+Les textes grecs et latins antiques sont cités par auteur, œuvre, livre et section ; les inscriptions par leur corpus, lorsque le numéro est certain. Une attribution discutée est explicitement signalée. La nouvelle édition *Inschriften von Didyma: Supplement* (Günther, 2023) interdit de considérer le dossier épigraphique comme une simple liste figée depuis Rehm (1958). Les renvois à des numéros éditoriaux internes MYTHOS sont limités aux études déjà publiées et vérifiées ; la présente étude ne se proclame pas « chapitre suivant ».
+
+## I. Le nom, le lieu et la pluralité de ses appartenances
+
+### 1. Δίδυμα, Didymes et le problème du « jumeau »
+
+Le grec τὰ Δίδυμα (*tà Dídyma*) désigne le site ; l'adjectif Διδυμαῖος (*Didymaîos*) forme une épiclèse d'Apollon. Le rapprochement spontané avec δίδυμος (*dídymos*, « jumeau ») peut paraître séduisant parce qu'Apollon et Artémis sont frère et sœur. Pourtant, l'origine du toponyme demeure débattue : une origine carienne ou pré-grecque a été avancée, et la formation exacte ne se déduit pas du nom moderne du dieu. La notice de Rüdiger Schmitt dans l'*Encyclopaedia Iranica* souligne cette incertitude.
+
+Il faut distinguer une éventuelle étymologie historique du nom de lieu d'une interprétation religieuse tardive faisant valoir les « deux » divinités. Rien ne permet de transformer cette dernière en fondation archéologiquement certaine. Pour les titres et métadonnées de MYTHOS, « Apollon Didyméen » désigne avant tout **Apollon du sanctuaire de Didymes**.
+
+### 2. Βραγχίδαι et le nom du sanctuaire
+
+Les auteurs anciens, en particulier Hérodote, emploient fréquemment « Branchides » (*Branchídai*) pour désigner la destination oraculaire. Le nom s'applique à la lignée sacerdotale mythiquement issue de Branchos et, par extension, au lieu où elle exerce son autorité. Cette métonymie est importante : elle rend un groupe humain presque inséparable d'une institution religieuse.
+
+L'épigraphie et l'histoire des charges ultérieures montrent cependant que la direction du sanctuaire n'a pas conservé de façon immuable la structure supposée de cette lignée. Une mention de « Branchides » chez Hérodote ne peut être exportée sans examen vers un décret de Milet du IIe siècle avant notre ère ou une inscription impériale.
+
+### 3. Milet, Panormos et le sanctuaire extra-urbain
+
+Le sanctuaire se trouve dans la péninsule milésienne, au sud de Milet, à proximité du secteur portuaire de Panormos. Les distances varient selon qu'on mesure une ligne directe, un tronçon du parcours terrestre ou un trajet maritime. Les synthèses donnent environ seize à vingt kilomètres entre la cité et Didymes. L'historien doit donc préciser la nature de la mesure au lieu de corriger artificiellement toutes les sources vers un nombre unique.
+
+La différence entre cité et sanctuaire est institutionnelle autant que géographique. La communauté milésienne organise des fêtes, des magistratures, des dépenses, des processions et des dédicaces au dieu ; l'existence d'un oracle réputé au loin n'implique pas que Didymes soit une cité politiquement indépendante de Milet.
+
+### 4. Les paysages changeants du golfe et de la côte
+
+La péninsule et les abords de Panormos ont connu des transformations géomorphologiques. Le tracé d'une voie, les changements de rivage et les possibilités de franchissement de cours d'eau ne peuvent être déduits des seuls aménagements actuels. Le paysage sacré n'est pas une carte statique sur laquelle les mêmes processions auraient été posées pendant mille ans.
+
+L'étude d'Anja Slawisch et Toby Christopher Wilkinson (2018), fondée sur les inscriptions, les observations archéologiques et la modélisation topographique, montre que la Voie sacrée fut probablement réinventée et reconstruite à plusieurs époques. C'est une correction décisive contre les restitutions automatiques d'un itinéraire archaïque continu sous tous les états de la route.
+
+### 5. Le sanctuaire et les populations anatoliennes
+
+Pausanias VII, 2, 6 écrit que le sanctuaire et l'oracle d'Apollon précèdent l'arrivée des Ioniens. Une telle proposition atteste une **revendication de haute antiquité** dans la tradition littéraire de l'époque impériale. Elle ne fournit pas, à elle seule, une date de fondation antérieure aux premières attestations archéologiques.
+
+D. B. Merkyn (2026) rappelle que les preuves matérielles disponibles ne permettent pas de dater assurément la fondation du sanctuaire avant le VIIIe siècle avant notre ère. Son étude des dédicaces indique des participants grecs et cariens dans le sanctuaire archaïque, selon une identification linguistique et épigraphique qui doit être discutée pièce par pièce. La pluralité culturelle est une hypothèse étayée ; la continuité avec une divinité préhistorique déterminée ne l'est pas.
+
+### 6. « Prégrec » n'est pas une explication suffisante
+
+Le mot « prégrec » désigne une relation chronologique ou linguistique, non un contenu religieux précis. Il ne dit pas si les officiants parlaient carien, si les rites avaient une parenté anatolienne ou quel nom portait la puissance honorée dans une période non documentée. Il ne faut donc pas faire de « prégrec » un substitut de la démonstration.
+
+La bonne méthode consiste à examiner dans une même région les traces architecturales, les inscriptions, les systèmes d'offrandes et les transformations des formes iconographiques. À Didymes, le nom de lieu et certains aspects du culte invitent à poser la question des contacts, mais ils ne permettent pas de reconstruire un panthéon caché dont les sources ne livrent aucune désignation vérifiable.
+
+## II. Branchos : naissance, amour d'Apollon et autorité du fondateur
+
+### 7. Le personnage de Branchos dans la mémoire du culte
+
+La tradition grecque met à l'origine de l'oracle un jeune homme nommé Branchos (Βράγχος, *Bránchos*). Strabon XIV, 1, 5 mentionne les récits concernant Branchos et l'amour d'Apollon. La présence du thème amoureux dans le sanctuaire importe : la révélation divine naît ici, dans le récit, d'une relation personnelle et non d'une investiture administrative.
+
+L'historien ne peut en tirer une biographie de Branchos comme personnage identifiable et datable. La généalogie explique pourquoi un groupe sacerdotal peut prétendre hériter d'un don exceptionnel. Un récit de fondation transforme ainsi un événement de grâce en une compétence transmissible.
+
+### 8. Conon, *Narrations* 33, transmis par Photios
+
+La trente-troisième *Narration* de Conon, connue par le résumé conservé dans la *Bibliothèque* de Photios (codex 186), développe l'histoire de Smikros, père de Branchos, et d'une série de présages antérieurs à sa naissance. Smikros, enfant abandonné pendant un déplacement, trouve accueil dans une autre maison ; l'histoire donne ensuite une origine merveilleuse à Branchos.
+
+Il faut citer Conon **par le témoin qui le transmet**, et non comme un manuscrit intégral directement conservé. Le texte disponible dépend d'un résumé byzantin, avec ses compressions narratives. L'épisode constitue une source sur l'imagination généalogique grecque, non un registre natal du fondateur de Didymes.
+
+### 9. Le cygne, la femme et la promesse de protection
+
+Dans le récit de Conon, des jeunes gardiens capturent un cygne qui se révèle une femme ; elle demande que Smikros soit traité avec affection. La métamorphose n'est pas une donnée zoologique, mais un signe narratif de faveur. Le cygne, oiseau fréquemment associé à des figures apolliniennes dans la littérature et les arts, sert ici de médiateur à la reconnaissance d'un enfant vulnérable.
+
+La scène place l'hospitalité avant l'apparition du futur devin. Elle suggère une affinité entre l'accueil d'un étranger et le destin cultuel de sa descendance. Il serait pourtant abusif d'en faire une règle codifiée du droit d'asile à Didymes ; le motif et les institutions ne sont pas contemporains.
+
+### 10. Une conception solaire et l'étymologie narrative du nom
+
+Un rêve ou présage de la mère de Branchos fait intervenir des rayons de soleil qui traversent son corps. Le récit associe ainsi un futur prophète d'Apollon à la lumière, au corps maternel et au passage d'un souffle ou d'une force. Les commentateurs anciens ont rapproché le nom Branchos d'images de gorge ou de bronches. Cette étiologie n'est pas une preuve certaine de l'étymologie linguistique du nom.
+
+L'élément solaire ne légitime pas non plus une identification automatique d'Apollon avec Hélios dans chaque période. Les Grecs connaissent des rapprochements variables entre les deux puissances ; ils ne justifient pas de réécrire les traditions d'Apollon en biographie du dieu-soleil.
+
+### 11. Le désir divin : Apollon et le jeune berger
+
+Branchos est présenté comme beau jeune homme gardant des troupeaux, aimé d'Apollon, qui lui accorde la capacité de prophétiser. Le motif du désir divin peut être rapproché de récits où des relations entre dieux et mortels fondent des honneurs, des savoirs ou des lignages. Cette comparaison n'établit pas une pratique sociale particulière au sein du personnel sacerdotal de Didymes.
+
+Le texte raconte un don imprévisible : la connaissance mantique n'est pas d'abord acquise par l'apprentissage d'un métier. La tradition administrative ultérieure pourra cependant organiser la transmission des charges, montrant la différence entre le mythe de la grâce et la vie réelle d'une institution.
+
+### 12. Branchos comme ancêtre et comme fonction de mémoire
+
+Les Branchides se définissent à travers un nom collectif relié à Branchos. Une telle filiation peut servir à légitimer le monopole ou la prééminence d'un groupe. La tradition d'ascendance ne suffit pas à démontrer que chaque occupant d'une charge était biologiquement descendant du fondateur, ni que la succession s'est déroulée sans interruption jusqu'aux guerres perses.
+
+Il faut distinguer la parenté racontée, les individus historiques identifiables et les offices attestés par documents. Cette méthode empêche de déplacer les institutions de l'âge impérial vers l'époque de Branchos.
+
+### 13. Comparaison avec Manto et Mopsos de Claros
+
+La tradition clarienne attribue à Manto et Mopsos un rôle fondateur et prophétique. Les deux sanctuaires se situent dans le monde ionien et lient le pouvoir d'Apollon à des parcours humains. Le parallèle est suggestif ; il s'arrête où les sources deviennent locales. Branchos ne doit être assimilé ni à Mopsos ni à un prédécesseur historique attesté de la famille des devins de Claros.
+
+L'étude autonome de Claros dans MYTHOS, chapitre 459, traite déjà la compétition Calchas-Mopsos et la crypte clarienne. La présente monographie n'en reprend pas le développement : sa question est proprement didyméenne, centrée sur la transmission branchide, la cité de Milet et les contradictions d'un oracle en situation politique.
+
+## III. Hérodote : l'oracle comme instance publique du jugement
+
+### 14. Crésus et les cadeaux à Didymes : *Histoires* I, 92, 2
+
+Hérodote rapporte que Crésus, roi de Lydie, a offert au sanctuaire des Branchides des objets dont le poids et la valeur sont comparables à ceux de ses dédicaces delphiques. Le texte fournit un indice solide de la renommée archaïque de l'oracle et de son insertion dans la diplomatie des souverains. Il ne conserve pas un inventaire archéologique complet des objets, dont les trajectoires ultérieures doivent être reconstruites séparément.
+
+Le rapport entre Crésus et Didymes n'est pas identique au récit, plus fameux, des essais de consultation entrepris à différents oracles. Une offrande peut reconnaître un sanctuaire sans que nous connaissions la formulation de chaque question qui y fut posée.
+
+### 15. Les cités ioniennes et éoliennes : I, 157, 3
+
+Hérodote situe le sanctuaire des Branchides sur le territoire de Milet, au-dessus du port de Panormos, et affirme qu'Ioniens et Éoliens le consultaient couramment. Cette précision donne une échelle régionale à la réputation de l'oracle. Elle montre qu'un sanctuaire d'une cité pouvait recevoir des requêtes de communautés distinctes, parfois étrangères aux intérêts immédiats de Milet.
+
+La liste des peuples ne doit pas être convertie en statistiques de fréquentation. Hérodote écrit un tableau général de l'influence du lieu ; il ne fournit ni dénombrement annuel de consultants ni registre des réponses émises.
+
+### 16. Pactyès, réfugié lydien, et la demande des Perses
+
+Après la conquête de la Lydie, Pactyès cherche refuge à Cymè. Les autorités perses demandent sa remise. La cité se trouve entre la protection traditionnelle due au suppliant et la menace d'un pouvoir impérial. Dans *Histoires* I, 157-160, la décision est portée devant Apollon Didyméen. La question a un contenu politique : que doit faire une cité lorsqu'une exigence extérieure entre en conflit avec une obligation d'accueil ?
+
+Le recours à l'oracle n'abolit pas la responsabilité des décideurs. Au contraire, il ajoute au débat civique un nouveau lieu d'autorité dont la réponse doit être interprétée et acceptée. La religion intervient ici au centre de la politique, non comme phénomène privé.
+
+### 17. La première réponse : une approbation apparente de la remise
+
+Les émissaires reviennent avec une réponse favorable à la livraison de Pactyès. Les habitants de Cymè envisagent de l'exécuter. Aristodicos, fils d'Héraclide, doute cependant de la transmission et exige une nouvelle consultation. Son objection peut viser la sincérité des messagers autant que le sens de la volonté divine.
+
+Hérodote construit une situation où **la parole du dieu n'est pas automatiquement transparente**, même quand un oracle a été consulté. L'institution ne supprime pas les problèmes de témoignage, d'interprétation et de délibération collective.
+
+### 18. Aristodicos recommence la question : I, 159, 1-2
+
+Devant l'oracle, Aristodicos expose clairement que Pactyès est un suppliant menacé de mort par les Perses. Il précise la crainte de la puissance perse et demande quelle conduite sera conforme au jugement divin. La réponse reste la remise de Pactyès. L'affirmation demeure choquante au regard des devoirs envers les suppliants ; le personnage prépare alors une épreuve.
+
+Le détail est essentiel : Aristodicos ne réclame pas un oracle sur l'avenir militaire ou une date favorable. Il teste la cohérence d'un principe moral avec la conduite prescrite. L'histoire didyméenne permet ainsi une lecture de l'argumentation pratique.
+
+### 19. Les oiseaux du temple : une expérience de contradiction
+
+Aristodicos fait le tour du sanctuaire et retire des nids les oisillons et les oiseaux établis dans l'enceinte. Une voix issue de l'adyton lui reproche de dépouiller les suppliants d'Apollon. L'homme répond : pourquoi le dieu protège-t-il ses propres suppliants, tout en ordonnant aux Cyméens de livrer le leur ? La scène correspond à I, 159, 3-4.
+
+Ce n'est ni une « expérience scientifique » moderne ni une simple plaisanterie. Aristodicos construit une analogie déstabilisante à partir de deux situations d'hospitalité. Le sanctuaire lui-même devient le lieu où l'incohérence d'une interprétation est mise en évidence.
+
+### 20. La dernière réponse et sa dureté
+
+Dans le récit, Apollon répond qu'il a ordonné la remise pour entraîner plus vite la perte des Cyméens, punis d'avoir seulement envisagé l'abandon d'un suppliant. La dernière parole ne signifie donc pas que le dieu adhère moralement à la remise de Pactyès : elle prend la forme d'un avertissement punitif contre la consultation devenue le prétexte d'une impiété.
+
+Une lecture superficielle ferait du récit la preuve que les oracles étaient nécessairement mensongers ou arbitraires. Une lecture plus exacte note que le texte distingue le contenu immédiat de la réponse, sa finalité punitive et son interprétation dans une crise.
+
+### 21. Le destin de Pactyès après l'oracle
+
+Hérodote I, 160 poursuit l'histoire : les Cyméens cherchent à éviter à la fois la faute religieuse et le siège perse ; ils font passer Pactyès à Mytilène. Le problème n'est pas résolu par un syllogisme moral abstrait. La cité prend une décision de transfert, qui déplace le conflit sans l'effacer. Le parcours du suppliant montre la vulnérabilité d'une personne prise entre plusieurs puissances.
+
+Ce détail interdit de conclure que l'oracle aurait simplement « sauvé » Pactyès. L'enjeu de l'asile demeure politique, et les décisions successives peuvent encore mettre en péril sa vie.
+
+### 22. Ἱκέτης : philologie de la supplication
+
+Le grec ἱκέτης (*hikétēs*) désigne une personne qui vient solliciter protection, accueil ou intervention dans une relation asymétrique. Le verbe ἱκνέομαι, « arriver, atteindre », appartient au même horizon étymologique selon l'analyse usuelle. L'acte de supplication engage des gestes, parfois le contact avec un autel, des branches ou les genoux d'un protecteur. Ces pratiques varient selon les récits et les époques.
+
+Dans le passage d'Hérodote, le mot n'est pas une simple désignation compassionnelle. Il définit une **condition relationnelle** qui impose une question d'obligation à la communauté. La présence des oiseaux permet d'étendre l'analogie à des êtres dépourvus de pouvoir politique.
+
+### 23. Ἀσέβεια et ἀνοσιότης : le vocabulaire des limites
+
+L'histoire emploie un langage d'impiété et de violation de ce qui est permis par le divin. L'adjectif ἀνοσιώτατος (*anosiṓtatos*) s'applique à Aristodicos au moment où il dérange les oiseaux ; le verbe ἀσεβέω (*asebéō*) désigne la faute grave que pourraient commettre les Cyméens. Leur fonctionnement n'est pas identique à celui d'infractions modernes codifiées dans un seul droit positif.
+
+L'épisode expose un conflit de normes : crainte d'une autorité extérieure, obligation envers le suppliant, paroles reçues comme divines. Le texte raconte la manière dont une communauté peut devoir interpréter un message au regard de principes qu'elle attribue elle-même au dieu.
+
+### 24. La logique de l'oracle : ce que le passage ne permet pas de prouver
+
+Le récit ne fournit ni un compte rendu sténographique des deux consultations ni l'identité du personnel rituel qui posa les questions. L'historien peut décrire la scène racontée par Hérodote et son raisonnement. Il ne peut certifier qu'une voix acoustiquement indépendante des officiants a parlé, ni réinventer le procédé technique qui aurait produit le dialogue.
+
+En termes d'histoire culturelle, le passage atteste la réputation d'une institution capable d'émettre des recommandations politiquement redoutables et l'existence, dans la narration grecque, d'une critique interne de ces recommandations.
+
+## IV. La catastrophe perse et l'histoire d'une mémoire conflictuelle
+
+### 25. Hérodote VI, 19 : la chute de Milet en 494
+
+Après la répression de la révolte ionienne, Milet est prise par les forces perses. Hérodote VI, 19 raconte que le sanctuaire de Didymes, l'édifice sacré et l'espace oraculaire sont pillés et brûlés. Il rattache la catastrophe à un oracle prononcé auparavant à Delphes et comprenant l'idée que d'autres desserviront désormais Didymes.
+
+Le passage indique clairement la destruction au moment de la catastrophe milésienne en 494 av. J.-C. Il ne dit pas que toutes les formes de fréquentation cessèrent définitivement. Il faut différencier l'arrêt éventuel d'une grande institution, la destruction de certains bâtiments et la survie possible de pratiques plus modestes.
+
+### 26. Strabon XIV, 1, 5 : une autre attribution de la destruction
+
+Strabon dit que Xerxès incendia le sanctuaire et que les Branchides livrèrent les trésors du dieu aux Perses avant de les accompagner dans leur retraite, pour éviter d'être punis de sacrilège et de trahison. Ce récit diffère de la chronologie donnée par Hérodote, qui situe le pillage en 494, sous Darius. Il faut préserver la contradiction au lieu de fusionner les récits comme s'ils décrivaient nécessairement deux incendies attestés.
+
+Le texte de Strabon s'inscrit dans une tradition de culpabilité sacerdotale et de mémoire perse. Son existence ne permet pas d'affirmer que les Branchides réels furent tous complices ou que l'accusation était historiquement fondée.
+
+### 27. Le dossier des Branchides déplacés vers l'Orient
+
+Des auteurs postérieurs, notamment Quinte-Curce dans le récit de la campagne d'Alexandre, situent une communauté dite des Branchides en Sogdiane. La tradition raconte une expédition punitive liée à leur prétendue trahison envers le sanctuaire. Les recherches modernes discutent la crédibilité des identifications, la chronologie et la fonction exemplaire de ce récit.
+
+L'historien évitera de traiter ce dossier comme une « preuve ethnique » irréfutable. On a affaire à des textes littéraires tardifs sur la mémoire d'une trahison et à des événements de conquête rapportés dans un cadre moralement chargé. Un nom collectif peut servir à justifier une violence rétrospectivement, sans établir la culpabilité de tous les descendants attribués.
+
+### 28. La statue de Canachos : pillage et retour
+
+Pausanias VIII, 46, 3 rapporte que Séleucos restitua aux Milésiens l'Apollon de bronze de Canachos, qu'il dit avoir été pris par Xerxès. Les autres traditions font intervenir le pillage au temps de Darius et un transfert de la statue vers l'intérieur de l'Empire perse. La restitution séleucide est un élément important de la mémoire hellénistique, mais les étapes exactes du voyage de l'œuvre restent liées à des traditions divergentes.
+
+On ne peut identifier une statue antique perdue à partir d'une photographie moderne ou d'une statuette de dimensions réduites, même lorsque son type paraît proche. Les supports iconographiques ultérieurs renseignent sur une tradition de représentation, non sur l'état matériel complet de l'original.
+
+### 29. Le bronze votif découvert à Suse
+
+Un astragale monumental en bronze inscrit, découvert par des fouilleurs français à Suse, a été rapproché de Didymes. L'analyse présentée par Noah Kaye (BMCR, 2024) rappelle qu'il porte les noms d'Aristolochos et de Thrason, avec un destinataire nommé Apollon, et qu'il peut provenir du pillage du sanctuaire. Mais l'épiclèse « Didyméen » n'y figure pas ; l'attribution repose sur des critères documentaires et demeure une proposition historiographique argumentée.
+
+L'objet est précieux parce qu'il associe un nom divin, des donateurs et une circulation vers l'Iran ancien. Il ne suffit toutefois pas à démontrer toutes les péripéties que les auteurs attribuent aux trésors de Didymes. Sa provenance de fouille est sûre ; son sanctuaire d'origine ne l'est pas au même degré.
+
+### 30. Destructions, réemplois et interruption du culte
+
+Après 494, le dossier est documentairement lacunaire. La période classique ne doit pas être décrite comme un « désert absolu » simplement parce que le grand oracle n'est pas continuellement attesté. Les recherches sur la statue, les fragments de sculpture et la loi des Molpes laissent ouverte la question de survivances ou de reprises partielles.
+
+L'état de la documentation autorise plutôt à distinguer **interruption d'une institution oraculaire de grande visibilité**, **éventuelles activités cultuelles locales** et **reconstruction hellénistique**. Les trois phénomènes peuvent avoir des histoires différentes.
+
+## V. Alexandre, les Séleucides et la reconstruction d'un sanctuaire
+
+### 31. Le retour de la parole au temps d'Alexandre
+
+Les auteurs anciens présentent une réactivation de l'oracle après l'arrivée d'Alexandre en Asie Mineure. La date exacte et le contenu des premières réponses sont débattus ; les synthèses placent souvent la refondation vers 331 av. J.-C., tandis que les événements politiques commencent auparavant. Il faut distinguer la libération ou recomposition des institutions milésiennes, la reprise de consultations et le début effectif des grands chantiers.
+
+Le récit de la reprise peut servir à construire un temps politique : après la rupture perse, le dieu redevient un interlocuteur prestigieux des nouveaux pouvoirs. Mais la rhétorique de « renaissance » ne suffit pas à établir la disparition totale des gestes religieux intermédiaires.
+
+### 32. Des prophéties favorables aux souverains
+
+Strabon et les traditions relatives à Callisthène évoquent les récits d'oracles favorables à Alexandre, associés à la reconnaissance de sa filiation divine et à ses conquêtes. Une réponse transmise par un historiographe de cour n'est pas une inscription contemporaine datée de la consultation. Les modalités de production et de transmission doivent donc être discutées.
+
+La question essentielle est institutionnelle : une prophétie de renommée internationale peut devenir un langage de légitimation de souveraineté. Le passage d'une question religieuse à une formule politique ne prouve ni fabrication systématique ni absence de croyance ; il requiert une analyse des intérêts et des sources.
+
+### 33. Séleucos Ier et le retour de l'image
+
+Le récit de restitution de l'Apollon de Canachos à Milet sous Séleucos Ier participe de la représentation du souverain comme restaurateur des sanctuaires. Le geste, lorsqu'il est transmis comme tel, réunit hommage au dieu, prestige de la cité et bénéfice politique pour la dynastie. La restitution d'une image n'est pas seulement la remise d'un objet ; elle peut symboliser le retour d'une continuité légitime.
+
+Il ne faut toutefois pas faire de l'image retrouvée une garantie que le sanctuaire hellénistique reproduisait exactement la liturgie archaïque. La reconstruction d'un environnement monumental peut accompagner de nouvelles fonctions, de nouveaux titulaires et un nouveau langage des relations avec les rois.
+
+### 34. L'empire et le temps long du chantier
+
+Les souverains séleucides puis d'autres pouvoirs interviennent dans l'histoire du sanctuaire, tandis que les autorités milésiennes et les ouvriers organisent le chantier. Les inscriptions de construction montrent que l'histoire d'un monument ne se résume pas à l'ordre d'un monarque, même lorsque celui-ci fournit une aide majeure.
+
+Le grand temple prend plusieurs siècles à être construit. Une œuvre aussi longue traverse des changements de dynastie et de souveraineté. Il serait peu exact de la qualifier entièrement de « temple d'Alexandre », de « temple de Séleucos » ou de « temple romain » sans distinguer les parties et les périodes.
+
+### 35. Les relations ptolémaïques et attalides
+
+La recension de 2024 de l'édition épigraphique de Günther souligne des honneurs liés à Naucratis et des traces de présence ptolémaïque dans les années 270-260 av. J.-C. Les documents de construction suggèrent par ailleurs des travaux intenses vers 170 av. J.-C. ; leur financement pourrait impliquer des souverains attalides ou d'autres bienfaiteurs, mais cette identification doit rester hypothétique.
+
+Il faut éviter les récits linéaires selon lesquels la cité passe d'un patron unique à un autre. Les relations diplomatiques sont multiples et les dédicaces n'épuisent pas l'économie du chantier. La valeur des nouvelles inscriptions est précisément de rendre cette multiplicité plus visible.
+
+## VI. Le Didyméion hellénistique : un temple qu'on ne peut regarder d'un seul coup
+
+### 36. Dimensions et projet d'ensemble
+
+Selon l'*Oxford Classical Dictionary*, la plateforme du grand temple mesure environ 118 sur 60 mètres. Un péristyle ionique double comprend 108 colonnes, avec douze autres dans le pronaos selon la présentation de la synthèse. Ces chiffres décrivent un programme architectural et les éléments reconstruits, non un édifice dont toutes les parties auraient été achevées simultanément.
+
+La monumentalité produit un contraste avec le caractère relativement resserré des lieux d'activité oraculaire. Elle ne prouve pas que des milliers de fidèles pénétraient ensemble dans la cour sacrée, ni que toutes les colonnes furent dressées lors d'une même génération.
+
+### 37. Le *dipteros* et l'ordre ionique
+
+Un *dipteros* est un temple entouré de deux files de colonnes, ce qui crée une enveloppe monumentale et des parcours protégés à certaines phases du chantier. Les chapiteaux ioniques et les bases moulurées portent un langage architectural propre à l'Asie Mineure grecque, mais un ordre architectural n'est pas un « rite » à lui seul.
+
+L'ambition du Didyméion se laisse lire dans le gigantisme des tambours, la précision des profils et le soin des traces de construction. Il serait pourtant méthodologiquement trompeur de restituer une toiture complète sur l'ensemble du monument ; le grand espace intérieur demeura à ciel ouvert.
+
+### 38. Le pronaos et la façade
+
+Le pronaos donne au bâtiment une dimension d'accueil solennel. Il comprend une disposition de colonnes et un ensemble de seuils dont l'accessibilité change selon le niveau des sols et l'état de construction. Les reconstructions modernes doivent tenir compte des différences de niveau plutôt que de représenter une entrée de plain-pied parfaitement accessible depuis tous les côtés.
+
+La perception antique dépendait de la progression vers le sanctuaire, pas d'une simple photographie frontale. Une façade colossale peut organiser la distance entre la communauté extérieure et les espaces réservés aux actions cultuelles.
+
+### 39. Les passages et l'entrée dans la cour sacrée
+
+Deux couloirs inclinés encadrent le passage vers le vaste espace intérieur. Cette particularité architecturale contribue à distinguer Didymes de nombreux temples où le déplacement s'effectue vers une cella fermée et couverte. La cour sacrée se présente en contrebas d'une partie des espaces monumentaux.
+
+On ne peut pas, à partir des couloirs seuls, reconstruire l'ordre exact des participants à toutes les fêtes. Une circulation possible ne vaut pas preuve qu'une délégation particulière empruntait toujours cet itinéraire, ni que le prêtre marchait devant les consultants dans un ordre fixé.
+
+### 40. La cour à ciel ouvert : un autre modèle de « cella »
+
+Le grand espace intérieur, fréquemment décrit comme *adyton* ou *sekos*, n'était pas couvert comme une salle ordinaire. Son architecture met le ciel, la lumière et les volumes intérieurs au centre de l'expérience du bâtiment. Le mot « cella » dans certaines synthèses doit être interprété en relation avec les zones réelles : la cour ouverte ne devient pas une salle close parce que le mot apparaît dans une description.
+
+Ce dispositif crée un paradoxe esthétique : la monumentalité de l'extérieur donne accès à une intériorité où l'absence de toit compte autant que les murs. Une reconstruction photoréaliste doit donc résister à l'envie de compléter automatiquement toute l'élévation par une couverture.
+
+### 41. Le *naiskos*, la source et l'image de culte
+
+Un petit édifice sacré, ou *naiskos*, se trouvait à l'intérieur de la grande cour ; il est associé dans la recherche à l'image d'Apollon et à la proximité de la source sacrée. Les états de ce petit monument et les reconstructions de ses fonctions doivent être datés. Il ne faut pas confondre un édifice protecteur d'image avec une salle de consultation entièrement documentée.
+
+La présence de l'eau fait de Didymes un lieu où nature et architecture interagissent fortement. Elle ne démontre pas que la prophétesse buvait systématiquement une substance narcotique, ni que des émanations souterraines produisaient automatiquement l'inspiration. Ces hypothèses nécessiteraient des analyses indépendantes.
+
+### 42. Le *chresmographeion* hypothétique
+
+Certaines restitutions proposent, dans les espaces entre le pronaos et la cour, une pièce liée à la consignation ou à la transmission des réponses, parfois appelée *chresmographeion*. Cette interprétation est plausible mais non unanimement démontrée. Une désignation fonctionnelle moderne doit être distinguée de l'attestation d'une inscription qui nommerait explicitement l'usage exact de la salle.
+
+Le problème est instructif : pour comprendre un oracle, on aimerait pouvoir faire correspondre chaque bureau à une fonction. L'archéologie des murs montre pourtant des volumes ; les fonctions doivent être inférées à partir d'autres sources, avec un degré de probabilité explicitement indiqué.
+
+### 43. Les escaliers, chambres et transformations de l'accès
+
+Le temple présente des passages vers des espaces hauts, avec escaliers et chambres dont les interprétations ont varié dans les publications. Une restitution diachronique devrait montrer les parties conservées, les niveaux hypothétiques et les périodes de construction plutôt que de produire un plan définitif sans légende.
+
+Des accès de dimensions inhabituelles ne prouvent pas nécessairement un « théâtre caché » ou un appareil de mystification. Ils peuvent répondre à des contraintes de circulation, de monumentalité ou d'usage rituel, sans que ces fonctions soient mutuellement exclusives.
+
+### 44. Les traces laissées par les bâtisseurs
+
+Les blocs du Didyméion conservent des marques de taille et des traits de construction qui documentent le travail des artisans. On peut y étudier une géométrie de chantier, des corrections et l'élaboration progressive de l'édifice. Ces marques sont de véritables sources de l'histoire technique, qui ne doivent pas être interprétées comme des inscriptions cultuelles de même statut que les dédicaces.
+
+L'inachèvement du temple favorise paradoxalement la conservation de gestes de construction que des finitions ultérieures auraient pu faire disparaître. Il constitue une ressource pour l'archéologie de l'architecture et non un simple accident à masquer.
+
+### 45. Ne pas transformer les chiffres en certitudes excessives
+
+Les dimensions données par les synthèses varient selon qu'elles mesurent le stylobate, la plateforme, l'espace de la cour ou une restitution de péristyle. Un catalogue scientifique devra citer le plan de référence pour chaque mesure. Si une coupe ne donne pas une hauteur conservée mais la hauteur déduite du module des colonnes, cette distinction doit être visible.
+
+Un modèle 3D qui combine la largeur d'une phase avec la toiture hypothétique d'une autre et un intérieur entièrement achevé serait séduisant mais historiquement trompeur. La rigueur commence dans le choix de la date représentée.
+
+## VII. Les Molpes et la Voie sacrée : de Milet au dieu
+
+### 46. Les Μολποί : un collège cultuel et civique
+
+Le nom Μολποί (*Molpoí*) est associé à μολπή (*molpḗ*), chant et danse dans le contexte rituel. L'association milésienne des Molpes participe à des pratiques religieuses qui concernent Apollon Delphinios et le déplacement vers Didymes. Son histoire institutionnelle ne se réduit pas à un groupe d'artistes ; elle combine cadres civiques et tâches cultuelles.
+
+La documentation épigraphique, notamment *Milet I.3, 133*, conserve des prescriptions sur les rites et la procession. Il faut distinguer le moment de gravure hellénistique de l'ancienneté possible des dispositions qu'elle recueille.
+
+### 47. *Milet I.3, 133* : une loi sacrée et sa stratification
+
+Le règlement dit des Molpes a été gravé probablement au début du IIe siècle av. J.-C. Certaines règles semblent reprendre des traditions plus anciennes, dont la datation doit être argumentée. L'édition et le commentaire de Alexander Herda (2006), ainsi que la synthèse de la base *Ancient Associations*, facilitent l'étude des offices et des gestes.
+
+Une inscription tardivement gravée peut enregistrer une pratique ancienne sans constituer une photographie de toute la période archaïque. Le lieu de découverte, au Delphinion de Milet, doit également être conservé : le texte appartient d'abord à un ensemble institutionnel de la cité qui organise la relation avec l'oracle extérieur.
+
+### 48. Les stations et les sacrifices le long du parcours
+
+Le dossier des Molpes mentionne des étapes rituelles et l'accomplissement de gestes sacrés en route. Les stations marquent le chemin comme espace religieux, mais leur identification topographique exacte reste discutée. Les fragments de tracé, les monuments votifs et les textes ne sont pas tous datés du même siècle.
+
+La géographie n'est pas un décor : le déplacement collectif crée une temporalité distincte, qui associe la cité, les sanctuaires intermédiaires et l'oracle final. Cependant, le seul terme de « Voie sacrée » ne prouve pas que chaque usage de la route était religieux.
+
+### 49. Panormos et l'alternative des routes
+
+Les textes antiques situent le port de Panormos à proximité du sanctuaire. La relation entre arrivées maritimes et progression terrestre est un élément important du paysage religieux. L'étude de Slawisch et Wilkinson invite à considérer des variantes de route tenant compte des déplacements littoraux et des changements de prestige de différents points de passage.
+
+Une reconstitution doit ainsi distinguer les segments attestés, les tronçons probablement empruntés et les modèles topographiques alternatifs. Les chercheurs ne proposent pas un chemin unique immuable que l'on pourrait simplement peindre sur une carte moderne.
+
+### 50. La route et la représentation de l'autorité milésienne
+
+Une procession civique relie physiquement des lieux éloignés. Elle peut rendre visible l'ordre des magistrats, des chanteurs, des victimes offertes et des délégations ; mais seule une prescription précise permet d'en connaître les rangs et les fonctions. L'interprétation politique doit partir des sources, non d'une parade contemporaine imaginée.
+
+La Voie sacrée est donc un objet d'analyse de l'organisation civique autant qu'un itinéraire de pèlerinage. La communauté milésienne construit sa relation à Apollon par un calendrier, des personnes désignées et un parcours régulièrement réinterprété.
+
+## VIII. Épigraphie : le chantier, la cité et les pouvoirs
+
+### 51. Les corpus *I.Didyma* et leur histoire éditoriale
+
+Le corpus épigraphique de Didymes a été publié dans le volume II de *Didyma* par Albert Rehm (1958). Wolfgang Günther a complété cet ensemble avec un *Supplement* paru en 2023, comportant 291 inscriptions supplémentaires selon la recension de Noah Kaye en 2024. Ces ajouts proviennent de découvertes et d'archives de fouilles, dont des estampages de pièces perdues.
+
+Ce nouvel état documentaire impose une discipline : les numéros d'inscription doivent être pris dans le corpus édité et conservés avec la référence de l'édition. Il n'est pas permis d'inventer une cote pour donner l'apparence d'une exactitude savante.
+
+### 52. Les inscriptions de construction, un autre calendrier
+
+Les documents épigraphiques sur le chantier renseignent sur les matériaux, les travaux, les dépenses et parfois le personnel. Leur série permet de corriger une chronologie qui supposait une forte baisse d'activité après 200 av. J.-C. Les nouvelles inscriptions 624-626, rapprochées des inscriptions 31-37 de l'ancien corpus, témoignent d'une construction intense autour de 170 av. J.-C. selon la lecture discutée par Kaye.
+
+Cette correction illustre la puissance heuristique d'une tablette ou d'une pierre : un monument inachevé n'est pas nécessairement le résultat d'un échec initial rapide. Il peut être le produit d'un travail séculaire entretenu par plusieurs générations.
+
+### 53. Carrières, pierre et travail contraint
+
+L'inscription 624 apporte des indications sur des carrières de calcaire et sur l'emploi d'esclaves publics dans le chantier. Cela rappelle que l'architecture religieuse repose sur des relations sociales et économiques concrètes. Le marbre achevé que le visiteur admire aujourd'hui suppose une extraction, un transport, une administration et une hiérarchie de travail qui ne sont pas tous visibles dans le monument final.
+
+Le fait d'identifier des esclaves publics n'autorise pas à calculer sans document la proportion exacte de main-d'œuvre servile, le coût du transport ou le salaire quotidien de chaque tailleur. Il ouvre des questions vérifiables plutôt qu'un tableau social total.
+
+### 54. Les dédicaces et leur fonction
+
+Les dédicaces parlent souvent à la première personne de l'objet ou au nom du donateur. Elles montrent qui offre, à quelle divinité, parfois à l'occasion de quelle charge ou de quelle dépense. Il faut leur donner un statut distinct des règlements de procession ou des réponses oraculaires.
+
+Un bloc portant un nom de magistrat n'est pas automatiquement une commande architecturale de ce magistrat. Le support, le contexte et la formule grecque déterminent l'interprétation. Les études prosopographiques doivent tenir compte des homonymies fréquentes sur plusieurs siècles.
+
+### 55. La présence des rois et des empereurs
+
+Les honneurs et dédicaces des époques hellénistique et impériale révèlent l'intérêt de dynasties et d'empereurs pour le sanctuaire. Les inscriptions ne démontrent pas uniformément une soumission de l'oracle à leurs volontés : elles montrent des négociations de prestige, des dons et des engagements institutionnels.
+
+Le sanctuaire peut servir à recevoir des manifestations de fidélité tout en conservant sa propre tradition apollinienne. Les relations entre donateur et institution doivent être étudiées par cas : cadeau de statue, subvention du chantier, fête, règlement ou acte de consultation ne produisent pas la même forme d'autorité.
+
+### 56. La pierre et la sélection de la mémoire
+
+Un règlement gravé dure plus longtemps qu'une consultation ordinaire. Les inscriptions conservées favorisent donc les opérations qui avaient intérêt à être publiquement mémorisées. Une grande quantité d'écrits rituels non monumentaux a pu disparaître. L'absence de réponse inscrite pour un siècle donné ne permet pas d'en conclure que personne n'a interrogé le dieu.
+
+Une histoire critique de Didymes doit comprendre que l'archive conservée est sélective. Les méthodes de datation, les pertes liées aux incendies modernes des archives de fouille et les choix d'édition influencent l'image que nous avons du sanctuaire.
+
+## IX. Les voix de l'oracle : prophètes, prêtresses et transmission
+
+### 57. Μάντις, προφήτης, χρησμός
+
+Le mot μάντις (*mántis*) qualifie un devin, προφήτης (*prophḗtēs*) un spécialiste de la parole divine ou sa transmission selon les contextes, et χρησμός (*chrēsmós*) une réponse oraculaire. Aucune traduction française unique de « prophète » ou « prédiction » ne couvre l'ensemble des emplois antiques. La fonction d'un office doit être identifiée dans les documents qui le nomment.
+
+À Didymes, l'épigraphie impériale donne accès à des charges dont la répartition peut être familiale ou civique. Il faut distinguer leur nom, leurs conditions d'accès et leurs responsabilités effectives, sans les reproduire à l'identique à l'époque de Branchos.
+
+### 58. Les προφῆται et le pouvoir de formuler
+
+Les *prophētai* sont identifiables dans les inscriptions de Didymes. Leur présence pose une question : qui reçoit l'interrogation, qui prépare ou valide la réponse, qui la diffuse ? Les fonctions peuvent être institutionnellement réparties, mais la documentation ne permet pas de produire un organigramme intemporel qui s'appliquerait à toutes les périodes.
+
+La parole divine, lorsqu'elle entre dans un acte public, passe par des catégories humaines. Cette médiation n'est pas nécessairement ressentie par les fidèles comme une falsification ; elle constitue les conditions sociales dans lesquelles une réponse peut être reçue et reconnue.
+
+### 59. Les ὑδροφόροι : le rôle des jeunes prêtresses d'Artémis
+
+Les inscriptions de Didymes attestent des *hydrophóroi* (« porteuses d'eau »), liées au culte d'Artémis Pythiè. La recension de Günther signale fréquemment des relations entre la charge d'hydrophore et celle de prophète occupée par le père. Cette connexion doit être étudiée dans les dossiers de personnes identifiables et datées.
+
+L'hydrophore n'est pas par défaut la prêtresse qui énonce l'oracle d'Apollon. Confondre ces charges reviendrait à effacer le rôle propre d'Artémis dans le sanctuaire et à plaquer sur Didymes un schéma simplifié de la Pythie de Delphes.
+
+### 60. Artémis Pythiè et le complexe de cultes
+
+Les publications du DAI sur les sanctuaires du site, notamment ceux de la colline de Taxiarchis, montrent que le paysage cultuel didyméen est plus complexe qu'un temple isolé d'Apollon. Les figurines féminines et les dédicaces exigent de distinguer les espaces, les périodes et les déesses évoquées.
+
+Le surnom « sanctuaire d'Apollon » est commode pour la visite ; il ne décrit pas la totalité des puissances honorées, parmi lesquelles Artémis et diverses formes de Zeus. Un catalogue universitaire devra permettre une recherche par destinataire divin, lieu précis de découverte et type d'offrande.
+
+### 61. L'eau, instrument rituel ou langage de la légitimité ?
+
+La proximité d'une source sacrée rend plausible un rôle de l'eau dans le déroulement de la consultation ; l'histoire des *hydrophoroi* invite à la prudence, car des pratiques portant sur l'eau peuvent appartenir à plusieurs cultes et fonctions. Aucune continuité mécanique n'est établie entre toutes ces données.
+
+Dire « l'eau inspirait la prêtresse » comme une vérité simple va au-delà de ce qui peut être tiré du seul nom de la charge. On peut étudier le symbolisme de purification, les nécessités de la cérémonie et les éléments architecturaux, mais une hypothèse de mécanisme physiologique doit être documentée distinctement.
+
+### 62. La mise en vers et la mémoire des réponses
+
+Les oracles grecs peuvent être transmis en prose, en vers ou sous la forme de paraphrases historiques. Les réponses dont nous disposons ne sont pas nécessairement des transcriptions intégrales de l'énoncé prononcé lors de la consultation. Les récits de l'oracle d'Hérodote produisent eux-mêmes des situations narratives spécifiques, où la voix du dieu peut servir de personnage.
+
+Une philologie correcte distingue les mots réellement conservés d'une interprétation moderne. L'efficacité sociale d'un oracle peut dépendre autant de la précision ou de l'ambiguïté de sa formulation que de la décision de ceux qui l'appliquent.
+
+## X. Fêtes, images, concours et sociabilité religieuse
+
+### 63. Les Didymeia et leur calendrier
+
+Les *Didymeia* constituent des fêtes liées au sanctuaire. La documentation hellénistique fait état d'une transformation vers un statut plus largement reconnu, avec des ambitions panhelléniques. La recension du supplément épigraphique situe vers 210 av. J.-C. une initiative de promotion à un cycle pentétérique. Il faut vérifier la datation dans chaque décret et ne pas supposer une fête identique depuis l'époque archaïque.
+
+Une fête peut réunir procession, sacrifices et concours ; les combinaisons et les règlements changent selon les périodes. Une synthèse ne doit pas attribuer à toutes les années de célébration le programme connu dans un état plus tardif.
+
+### 64. Les concours musicaux et dramatiques
+
+La documentation du sanctuaire évoque des compétitions musicales et dramatiques associées aux fêtes didyméennes. Le site ne possède pas pour autant nécessairement un théâtre monumental identifié correspondant au modèle classique athénien. L'absence d'un bâtiment particulier ne prouve pas l'absence de représentations ; des espaces temporaires ou d'autres lieux civiques sont possibles.
+
+Les concours donnent à voir une dimension esthétique du culte : le dieu est honoré à travers des formes réglées de performance. Les noms de vainqueurs, s'ils sont inscrits, constituent une source sur les communautés participantes, non une preuve que chaque concours conservait le même règlement.
+
+### 65. L'Apollon de Canachos : arc et cervidé
+
+Pausanias II, 10, 5 attribue l'Apollon de Didymes à Canachos de Sicyone, le même artiste que celui de l'Apollon Isménios de Thèbes. L'iconographie restituée du type didyméen associe souvent un dieu debout à l'arc et à un jeune cervidé. Des monnaies de Milet à l'époque hellénistique transmettent une image de culte compatible avec ce type.
+
+La monnaie du Heberden Coin Room, Ashmolean Museum, HCR108838 (émission vers 210-200 av. J.-C. selon sa notice), permet d'examiner un témoignage numismatique identifié. Elle n'est ni la statue originale ni une photographie exhaustive de tous ses détails. Les deux objets appartiennent à des contextes matériels distincts.
+
+### 66. Le problème des « copies » de Canachos
+
+Les historiens de la sculpture ont rapproché diverses statuettes en bronze du type d'Apollon Didyméen. Ces rapprochements peuvent aider à reconstruire une pose ou des attributs, mais ils ne prouvent pas que chaque objet fut copié directement sur l'original archaïque. La réduction d'échelle et les conventions de chaque époque modifient le type.
+
+Toute restitution doit donc distinguer ce qui est **attesté par Pausanias**, **documenté par les monnaies**, **proposé à partir d'une comparaison stylistique** et **inconnu**. Les parties manquantes ne doivent pas être restaurées comme faits établis pour satisfaire une recherche d'image spectaculaire.
+
+### 67. La présence des fidèles et la différence des usages
+
+Une grande fête et une consultation oraculaire ne réunissent pas nécessairement les mêmes personnes ni les mêmes gestes. L'association du culte au transport de l'eau, à la procession et aux concours souligne la pluralité des expériences du sanctuaire. Les fidèles pouvaient y venir pour consacrer une offrande, assister à une célébration, participer à une ambassade ou demander une réponse au dieu.
+
+Réduire Didymes à « l'endroit où la Pythie parlait » commettrait une erreur de personne, de procédure et d'échelle. Le sanctuaire est un milieu civique et religieux pluraliste, doté d'une institution oraculaire renommée.
+
+## XI. Les oracles et le pouvoir : l'épreuve politique du sacré
+
+### 68. Crésus, Darius, Alexandre, les Séleucides : quatre usages du sanctuaire
+
+Les récits et les inscriptions relient Didymes à des souverains très différents. Crésus est un donateur ; Darius et Xerxès appartiennent aux récits de destruction divergents ; Alexandre incarne une refondation oraculaire et une nouvelle légitimité de conquête ; Séleucos participe à une mémoire de restitution. Il faut éviter de transformer ces relations en un récit continu où « le sanctuaire choisit toujours le plus puissant ».
+
+Les motivations de chaque pouvoir ne sont pas conservées dans un document unique. Un souverain peut honorer une institution prestigieuse et rechercher son appui ; cela ne signifie pas que toutes les paroles de cette institution étaient écrites à sa demande.
+
+### 69. Le cas de Pactyès : le pouvoir n'épuise pas le droit
+
+Le récit d'Hérodote montre une cité menacée qui cherche à justifier sa conduite par une réponse divine. La parole d'Apollon, comprise d'abord comme favorable aux Perses, se retourne en condamnation de l'abandon du suppliant. Cette tension empêche de décrire l'oracle comme un instrument politique toujours cohérent et utile aux puissants.
+
+Une lecture attentive met au centre la décision civique : les habitants de Cymè doivent choisir une action dont ils porteront les conséquences. La consultation ne délègue pas entièrement la responsabilité morale au dieu.
+
+### 70. Le droit d'asile : limites d'une catégorie moderne
+
+L'asile antique ne correspond pas à la définition moderne du droit d'asile des réfugiés. On peut rapprocher les situations au niveau de la demande de protection contre la violence, mais les institutions, les frontières, le statut juridique et les protections diffèrent profondément. Le terme *hikétēs* d'Hérodote renvoie à une relation de supplication qui engage des devoirs religieux et sociaux.
+
+Cette précision évite à la fois l'anachronisme juridique et une lecture qui réduirait les suppliants antiques à de simples personnages littéraires. Les obligations d'accueil pouvaient avoir des conséquences réelles, mais elles se formulaient dans d'autres cadres.
+
+### 71. Le sanctuaire comme autorité qui peut être contestée
+
+L'action d'Aristodicos prouve, à l'intérieur du récit, que l'autorité oraculaire peut être mise à l'épreuve par un interlocuteur qui en partage les valeurs. Il ne proclame pas « il n'y a pas de dieu ». Il exige que la conduite proposée corresponde à ce qu'Apollon défend dans son propre temple. La critique se déroule de l'intérieur d'un monde religieux.
+
+Ce type d'argument ne doit pas être confondu avec le scepticisme moderne. Il offre toutefois un cas classique d'examen d'un commandement par les principes qui devraient le rendre juste.
+
+## XII. Philosophie : inspiration, raison pratique et vérité publique
+
+### 72. Platon, *Euthyphron* 10a-11b : le dilemme du commandement divin
+
+Dans l'*Euthyphron*, Socrate demande si une action pieuse l'est parce que les dieux l'aiment ou si elle est aimée parce qu'elle est pieuse. Appliquée comme comparaison à Hérodote I, 159, la question permet de demander si l'ordre d'un oracle fait le juste ou si l'ordre doit être interprété à la lumière d'un juste dont le dieu est censé être garant.
+
+Il ne faut pas prétendre que Platon commente Didymes ou que le récit hérodotéen annonce historiquement sa philosophie. Il s'agit d'un rapprochement conceptuel explicite entre une difficulté narrative et un problème de philosophie morale.
+
+### 73. Le paradoxe de l'obéissance
+
+Aristodicos pourrait être décrit comme désobéissant, puisque sa première réaction consiste à refuser la prescription. Pourtant, il le fait pour protéger un devoir qui apparaît plus fondamental : ne pas trahir le suppliant. Le récit demande donc de distinguer l'obéissance littérale à un message et la fidélité à une obligation religieuse plus haute.
+
+Cette tension a une portée politique durable. Les communautés se trouvent parfois face à des ordres qu'elles reconnaissent comme autorisés mais qu'elles jugent contraires à leur propre norme. La scène ne donne pas une procédure universelle de désobéissance ; elle montre comment la contradiction peut être révélée par un geste et un dialogue.
+
+### 74. Platon, *Phèdre* 244a-245a : la *manía* inspirée
+
+Le *Phèdre* attribue une valeur positive à certaines formes de *manía* divine dans le domaine de la prophétie. Cette thèse ne peut être transformée en description clinique des officiants didyméens. Elle fournit en revanche un modèle de réflexion sur une parole dont l'origine revendiquée dépasse la compétence ordinaire du locuteur.
+
+La difficulté consiste à comprendre comment une parole inspirée acquiert une forme publiquement transmissible. Les charges de prophète, les inscriptions et le cadre civique de Didymes donnent au problème une matérialité historique absente de la seule discussion abstraite.
+
+### 75. Aristote : discernement pratique et situation irréductible
+
+La *phronēsis* aristotélicienne, souvent traduite par « prudence » ou « sagesse pratique », invite à distinguer la connaissance de règles générales et la décision juste dans une circonstance singulière (*Éthique à Nicomaque* VI). La situation des Cyméens est précisément une circonstance chargée d'incertitudes : on ne peut décider en oubliant les rapports de force, le statut du suppliant et l'interprétation de la parole reçue.
+
+Cette comparaison n'autorise pas à dire qu'Aristodicos possédait une théorie aristotélicienne avant Aristote. Elle éclaire le caractère non mécanique de la délibération racontée par Hérodote.
+
+### 76. Hegel : institution et extériorité objective
+
+L'architecture, l'inscription et la procession permettent d'interroger, par comparaison, la manière dont une communauté inscrit dans des formes durables une relation à ses valeurs. La philosophie de Hegel et la notion moderne d'institution offrent un langage pour penser ce passage du vécu au visible. Elles ne fournissent toutefois aucune donnée sur le coût d'une colonne ou le calendrier des Molpes.
+
+L'intérêt est d'éviter une histoire du sacré qui ne porterait que sur des croyances privées. Les croyances grecques produisent des bâtiments et des règlements ; inversement, ces formes collectives ne démontrent pas la vérité de chaque récit mythique.
+
+### 77. Nietzsche : l'illusion d'une Grèce parfaitement harmonieuse
+
+L'oracle de Didymes associe la splendeur d'un ordre ionique gigantesque à des récits de supplication en crise, de trahison supposée et de violence impériale. L'histoire du sanctuaire déjoue l'image d'une Grèce uniforme, exclusivement lumineuse et sans contradictions. Nietzsche peut nourrir une critique de cette image idéalisée, mais il ne remplace ni la philologie ni la lecture des pierres.
+
+Il serait également abusif de classer le sanctuaire sous le seul terme « apollinien » de *La Naissance de la tragédie*. L'Apollon dont on étudie ici l'oracle appartient à une histoire de sanctuaire spécifique, différente d'une catégorie esthétique moderne.
+
+### 78. Le savoir prophétique comme savoir médiatisé
+
+Un oracle n'est pas seulement un énoncé sur le futur. À Didymes, la consultation de Pactyès concerne une décision présente ; les paroles relatives à des souverains peuvent légitimer un statut ; les documents inscrits peuvent conserver la mémoire de réponses et de charges. Le « savoir » de l'oracle devient autorité dans une chaîne de procédures.
+
+Cette analyse ne décide pas si Apollon existait ou si une divination déterminée était vraie. Elle décrit les conditions dans lesquelles une société reconnaît certains énoncés comme divins et leur accorde un rôle dans la décision publique. C'est une démarche d'histoire intellectuelle et d'anthropologie des institutions.
+
+### 79. La lecture de Michel Foucault : proposition et limite
+
+Une lecture inspirée des analyses foucaldiennes du rapport entre savoir et pouvoir pourrait examiner les procédures qui autorisent certains locuteurs à parler comme représentants du dieu. Il serait cependant erroné d'imputer à Foucault une enquête directe sur les archives de Didymes qu'il n'aurait pas menée dans ce cadre. Il s'agit d'un instrument critique à manier en relation avec les inscriptions, non de leur explication définitive.
+
+L'usage contrôlé d'une théorie moderne demande de poser la question concrète qu'elle aide à instruire : qui peut parler, qui peut enregistrer la réponse, qui peut la contester et quels monuments permettent à une institution de conserver l'autorité de sa parole ?
+
+## XIII. Didymes dans une comparaison religieuse prudente
+
+### 80. Delphes : même Apollon, autres médiations
+
+Delphes et Didymes sont deux sanctuaires d'Apollon dotés d'une réputation oraculaire étendue. Tous deux entrent dans les relations entre cités, royaumes et individus. Mais les procédures de consultation, les figures sacerdotales, les états architecturaux et les inscriptions ne sont pas interchangeables. On ne peut importer à Didymes le trépied pythique comme élément visuel obligatoire.
+
+La comparaison fructueuse porte sur la reconnaissance des réponses, l'ambiguïté, les dédicaces des rois et le rôle des consultations dans les conflits. Les différences dans la durée de fréquentation et dans les interruptions documentées sont aussi importantes que le nom commun du dieu.
+
+### 81. Claros : le comparant ionien à ne pas reproduire
+
+Claros associe un oracle apollinien, des traditions de Manto et Mopsos, une architecture propre et des témoignages littéraires sur les modalités de réponse. Didymes possède, lui, la lignée branchide, un rapport majeur au Delphinion de Milet, le récit d'Aristodicos et une histoire architecturale extrêmement longue. Le chapitre MYTHOS 459 analyse Claros en détail et conserve son autonomie.
+
+La différence entre une cour ouverte monumentale et une crypte oraculaire ne permet pas de conclure à des expériences identiques sous une enveloppe différente. Les espaces ont des effets possibles sur les gestes, mais seuls les textes et les traces permettent de comprendre ce qu'ils autorisent réellement.
+
+### 82. Les oracles anatoliens et la question des filiations
+
+L'Asie Mineure connaît des traditions religieuses multiples, avec des langues, des communautés et des formes d'interprétation divine diverses. La présence de communautés cariennes autour de Didymes peut orienter une recherche sur les contacts entre populations grecques et anatoliennes. Elle ne démontre pas l'identité d'Apollon avec un dieu carien connu par un nom conjecturé.
+
+Les comparaisons doivent mobiliser inscriptions bilingues, transformations iconographiques et contextes de découverte. Une similitude très générale, comme « dieu associé à une source », est insuffisante pour établir une filiation directe.
+
+### 83. Mésopotamie et Iran ancien : pouvoir impérial et autorités sacrées
+
+Les souverains achéménides, les villes grecques et les sanctuaires entrent dans des rapports complexes de conquête, d'offrandes et de déplacements d'objets. Le rapprochement avec les pratiques de décision impériale en Mésopotamie et en Iran doit être fondé sur des documents comparables, et non sur une théorie vague des « rois orientaux et de leurs oracles ».
+
+Le cas de l'astragale de Suse illustre le problème : un objet grec offert à Apollon apparaît dans un contexte de fouille iranien. Il peut documenter une circulation violente de biens cultuels, sans que cela permette de reconstruire une assimilation théologique entre Apollon et une divinité perse.
+
+### 84. La comparaison égyptienne : ne pas généraliser à partir de l'eau
+
+L'Égypte pharaonique connaît des manifestations oraculaires diverses, y compris le mouvement de barques divines et des réponses attribuées à des dieux. Les pratiques sont historiquement situées et ne doivent pas être superposées au fonctionnement de Didymes simplement parce qu'elles recourent, elles aussi, à un médiateur rituel.
+
+L'eau, la procession et la parole inspirée sont des catégories comparatives trop larges pour prouver une influence directe. Une étude des transferts devrait identifier des intermédiaires datables, des inscriptions ou des objets précis. La comparaison sert d'abord à distinguer des formes d'autorité plutôt qu'à les fusionner.
+
+### 85. Le destin antique des choses déplacées
+
+La statue attribuée à Canachos et l'astragale de Suse font apparaître des modes de déplacement des biens cultuels : prise de guerre, transfert impérial, restitution et circulation des styles. Il faut distinguer les objets documentés et les récits qui cherchent à en faire les emblèmes de la défaite ou de la renaissance d'une communauté.
+
+Cette histoire matérielle montre que le sanctuaire possède un patrimoine vulnérable. Les dieux peuvent être racontés comme invulnérables, alors que leurs statues et leurs dons sont soumis aux événements humains. Une partie de l'autorité de Didymes se recompose dans la mémoire de ces pertes.
+
+## XIV. Contrôles historiographiques et erreurs à éviter
+
+### 86. L'incohérence Darius–Xerxès ne doit pas être effacée
+
+Hérodote VI, 19 place la destruction de Didymes dans la catastrophe de Milet en 494 av. J.-C. ; Strabon XIV, 1, 5 met l'incendie au compte de Xerxès. Les notices modernes peuvent préférer l'un des récits et proposer des reconstructions de l'autre. La monographie conserve les deux attributions en distinguant leurs témoins.
+
+On ne doit ni inventer deux destructions indépendantes uniquement pour les concilier ni annoncer qu'un texte « corrige » l'autre sans démonstration extérieure. Les contradictions sont elles-mêmes des faits de transmission.
+
+### 87. La « refondation d'Alexandre » ne prouve pas l'abandon total précédent
+
+La réduction de l'archive pour l'époque classique ne constitue pas une preuve d'absence de toute pratique religieuse. La reconstruction de l'institution oraculaire et la reconstruction de l'édifice peuvent avoir des calendriers différents. Les règlements des Molpes, les fragments de sculpture et l'épigraphie doivent être étudiés dans ce problème, sans préjuger de sa solution.
+
+La formule « deux siècles de silence » est commode mais impropre lorsqu'elle est comprise comme une certitude sociologique. Elle décrit une lacune de documentation, pas nécessairement un vide rituel.
+
+### 88. Le qualificatif « inachevé » n'est pas synonyme d'échec
+
+La très longue construction du Didyméion ne fut pas une ligne continue allant d'une ambition initiale à l'abandon. Les données épigraphiques évoquent des campagnes significatives et des réorganisations, y compris à des périodes que les anciennes synthèses jugeaient moins actives. L'inachèvement est un état matériel final relatif à un projet immense, non une appréciation morale de ses bâtisseurs.
+
+L'étude doit donc montrer les avancées, les interruptions, les choix de financement et les changements techniques à chaque moment datable.
+
+### 89. Les catégories modernes de la religion doivent rester visibles
+
+« Prophète », « prêtresse », « oracle », « temple », « asile » ou « pèlerinage » sont des mots utiles en français. Ils deviennent trompeurs lorsqu'ils dissimulent la diversité des catégories grecques. *Prophētēs* n'est pas identique à toutes les formes de *mantis* ; un *adyton* peut prendre plusieurs formes ; un *hikétēs* n'est pas simplement un demandeur d'asile au sens des conventions contemporaines.
+
+L'appareil de notes et le glossaire de la monographie doivent rendre ces écarts intelligibles, plutôt que de produire une traduction apparemment transparente des institutions anciennes.
+
+### 90. Contrôles à préserver dans le manuscrit MYTHOS
+
+Les affirmations sur les dimensions seront reliées aux plans d'architecture ; les références épigraphiques seront vérifiées dans Rehm et Günther ; les assertions sur la route indiqueront l'étude de Slawisch et Wilkinson ; les légendes de statues nommeront le témoin iconographique et son inventaire ; les récits de destruction porteront leur référence antique propre. Aucun chapitre existant ne sera renuméroté pour accueillir la présente étude.
+
+Une note de mise à jour pourra, après publication de nouveaux résultats, compléter ces arguments à leur chemin canonique sans créer une étude indépendante portant un nouveau numéro pour le même objet.
+
+## XV. Propositions iconographiques et cartographiques
+
+### 91. Documents photographiques à sélectionner
+
+1. **Vue générale du Didyméion**, montrant les deux colonnes encore debout et le volume de la plateforme ; date du cliché, crédit et droits de reproduction vérifiés.
+2. **Plan archéologique diachronique du grand temple**, comprenant un encart des états archaïques, les couloirs d'accès et la cour ouverte ; distinguer vestiges et restitutions.
+3. **Coupes longitudinales et transversales**, avec niveaux de sol, pentes et reconstitution des hauteurs non conservées clairement signalées.
+4. **Photographie du *naiskos* et de la zone de source**, si les publications et la conservation du site autorisent la reproduction ; toute interprétation des fonctions sera formulée prudemment.
+5. **Détails des marques de chantier**, pour montrer les traces de taille et leur rôle dans l'étude de la construction.
+6. **Carte de Milet–Panormos–Didymes**, en séparant parcours fouillés, routes proposées et itinéraires alternatifs documentés.
+7. **Stèle ou fac-similé du règlement des Molpes** (*Milet I.3, 133*), avec transcription, contexte de découverte et traduction critique.
+8. **Statuette ou monnaie reproduisant le type d'Apollon de Canachos**, privilégier l'objet HCR108838 de l'Ashmolean Museum, avec son inventaire et son émission.
+9. **Astragale inscrit de Suse**, photographie institutionnelle, support de bronze, inscriptions et statut débattu de l'attribution à Didymes.
+10. **Inscription de chantier datée**, en l'accompagnant de sa référence et d'une explication de la relation entre texte et état architectural.
+11. **Schéma de la chronologie des destructions et refondations**, attribuant distinctement chaque affirmation à Hérodote, Strabon, Pausanias et aux données archéologiques.
+12. **Carte des sites apolliniens comparés**, limitée à des repères sûrs et distincte d'un plan d'itinéraire culturel.
+
+Ces propositions n'impliquent aucune acquisition effective, aucun transfert de photographies ni aucune autorisation de reproduction supposée. Avant intégration publique, vérifier source institutionnelle, date, inventaire, licence et exactitude de la légende.
+
+### 92. Reconstitution photoréaliste et seuils de certitude
+
+Une éventuelle reconstitution du temple devra présenter un état daté, de préférence en montrant les éléments achevés et les parties encore en construction. La plateforme, les colonnes, la cour ouverte et le petit édifice sacré doivent être restitués d'après les plans, non d'après un imaginaire d'architecture grecque générique. Les accessoires sacerdotaux, tenues, groupes de consultants, couleurs et effets lumineux doivent être étiquetés comme hypothèses lorsqu'ils ne sont pas attestés.
+
+MYTHOS ne doit pas réintroduire de rendu vectoriel en perspective 2,5D, ni de menu ou texte incrusté dans les images. Les notices scientifiques, la charte noir et or, les renvois et les reconstitutions déjà présentes restent intacts. Une nouvelle scène ne doit jamais écraser un fichier médiatique antérieur sous le même nom sans contrôle de doublon.
+
+## XVI. Sources primaires, éditions et bibliographie critique
+
+### 93. Textes littéraires anciens
+
+- **Hérodote**, *Histoires* I, 92, 2 : offrandes de Crésus aux Branchides ; I, 157-160 : Cymè, Pactyès, Aristodicos, oiseaux du temple et supplication ; VI, 19-20 : prise de Milet et pillage de Didymes. Édition de consultation, texte grec et traduction : [Ad Fontes](https://adfonteslibrary.org/herodotus-1), [LacusCurtius, livre I](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/1c%2A.html), [LacusCurtius, livre VI](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/6A%2A.html).
+- **Pausanias**, *Description de la Grèce* VII, 2, 6 : tradition d'antiquité pré-ionienne de l'oracle ; II, 10, 5 : Canachos et deux images d'Apollon ; VIII, 46, 3 : restitution de l'image sous Séleucos. [Texte et traduction, livre VII](https://www.theoi.com/Text/Pausanias7A.html), [livre II](https://www.theoi.com/Text/Pausanias2A.html).
+- **Strabon**, *Géographie* XIV, 1, 5 : nom du lieu, Branchides, attribuation du pillage à Xerxès, prestige du sanctuaire, histoire de Branchos. [Texte grec et traduction de contrôle](https://reader.humanitext.ai/en/read/urn%3Acts%3AgreekLit%3Atlg0099.tlg001.humanitext-grc2%3A14.1.4-14.1.5). La traduction anglaise proposée sur ce site est générée automatiquement et doit être contrôlée par une édition scientifique.
+- **Conon**, *Narrations* 33, résumé conservé par **Photios**, *Bibliothèque* codex 186 : Smikros, conception merveilleuse de Branchos, faveur d'Apollon et fondation. Voir l'édition *FGrHist* 26 F 1, récit 33, et l'analyse des témoins ; présentation de consultation dans le [dictionnaire mythologique Larousse](https://www.larousse.fr/encyclopedie/mythologie/Branchos/189148).
+- **Quinte-Curce**, *Histoire d'Alexandre*, livre VII, passage sur la Sogdiane et les prétendus descendants des Branchides : témoin littéraire tardif à traiter avec prudence ; ne pas utiliser sans relecture critique du récit.
+- **Platon**, *Euthyphron* 10a-11b ; *Phèdre* 244a-245a ; **Aristote**, *Éthique à Nicomaque* VI : comparants philosophiques qui ne décrivent pas les pratiques de Didymes.
+
+### 94. Épigraphie et documents du culte
+
+- **Albert Rehm**, *Didyma, II: Die Inschriften*, Berlin, 1958 : édition fondamentale du corpus *I.Didyma*.
+- **Wolfgang Günther**, avec contribution de Rudolf Haensch, *Inschriften von Didyma: Supplement*, *Didyma* III.7, Wiesbaden, 2023 : supplément des inscriptions provenant de fouilles et prospections. [Collection DAI](https://publications.dainst.org/books/dai/catalog/series/didyma).
+- **Noah Kaye**, compte rendu du supplément de Günther, *Bryn Mawr Classical Review*, 2024.09.13, [notice](https://bmcr.brynmawr.edu/2024/2024.09.13/). Examen des inscriptions 616, 618, 624-626 et des documents relatifs à la construction, au dynastisme et aux offices cultuels.
+- ***Milet I.3, 133***, règlement des Molpes : chant, charges et prescriptions de procession. Consulter **Alexander Herda**, *Der Apollon-Delphinios-Kult in Milet und die Neujahrsprozession nach Didyma*, Mayence, 2006 ; fiche critique de la base [Ancient Associations, CAPInv 1047](https://ancientassociations.ku.dk/assoc/viewing.php?id=1047&view=resultassoc).
+- **Ashmolean Museum**, *Heberden Coin Room*, monnaie de Milet HCR108838, vers 210-200 av. J.-C., type d'Apollon Didyméen avec cervidé : [notice d'inventaire](https://hcr.ashmus.ox.ac.uk/coin/hcr108838).
+
+### 95. Archéologie et histoire moderne des fouilles
+
+- **Deutsches Archäologisches Institut**, série *Didyma*, volumes consacrés aux édifices, sculptures, inscriptions et sanctuaires secondaires ; [bibliographie de collection](https://publications.dainst.org/books/dai/catalog/series/didyma). Les travaux français et allemands se poursuivent depuis la fin du XIXe siècle.
+- **Hüseyin Cevizoğlu**, « Didyma, Türkei. Die Heilige Straße im Bereich des Apollontempels. Die Arbeiten der Jahre 2013 bis 2018 », *e-Forschungsberichte des DAI*, 2019, p. 224-228, DOI [10.34780/m9e4-7em1](https://doi.org/10.34780/m9e4-7em1). Relevés et problèmes du tracé de la Voie sacrée.
+- **Anja Slawisch et Toby Christopher Wilkinson**, « Processions, Propaganda, and Pixels: Reconstructing the Sacred Way Between Miletos and Didyma », *American Journal of Archaeology* 122/1, 2018, p. 101-143, DOI [10.3764/aja.122.1.0101](https://doi.org/10.3764/aja.122.1.0101). Réévaluation des itinéraires possibles et des transformations du paysage.
+- **David Potter**, « Didyma », *Oxford Classical Dictionary*, publication électronique 2015, DOI [10.1093/acrefore/9780199381135.013.2161](https://doi.org/10.1093/acrefore/9780199381135.013.2161) : synthèse de l'oracle, des Branchides et de l'architecture.
+- **Joseph Fontenrose**, *Didyma: Apollo's Oracle, Cult and Companions*, Berkeley, University of California Press, 1988 : synthèse majeure des sources et du fonctionnement institutionnel ; relecture souhaitable à la lumière des nouvelles fouilles et inscriptions.
+- **Helga Bumke** (dir.), *Der archaische Heiligtumsbefund vom Taxiarchis-Hügel in Didyma*, *Didyma* III.6, parties publiées en 2022 et 2024 : histoire des espaces de culte archaïques et corpus de découvertes. [Série DAI](https://publications.dainst.org/books/dai/catalog/series/didyma).
+
+### 96. Histoire religieuse comparée et débats contemporains
+
+- **Rüdiger Schmitt**, « Didyma », *Encyclopaedia Iranica* VII/4 (1995), p. 397, [édition en ligne](https://www.iranicaonline.org/articles/didyma/) : nom, conflits perses et restitution séleucide.
+- **D. B. Merkyn**, « Concerning the Origin of the Sanctuary at Didyma », *Vestnik drevney istorii* 86/3 (2026), p. 607-622, DOI [10.7868/S3034525126030055](https://doi.org/10.7868/S3034525126030055) : critique de la thèse d'une fondation prégrecque démontrée ; discussion des dédicaces grecques et cariennes. Il s'agit d'un argument historiographique contemporain, non d'un consensus établi par cette seule publication.
+- **Hugh Bowden**, *Classical Athens and the Delphic Oracle*, Cambridge University Press, 2005 : outil comparatif sur une institution oraculaire distincte.
+- **Michael A. Flower**, *The Seer in Ancient Greece*, University of California Press, 2008 : pouvoirs et réputation des spécialistes de la divination.
+- **Sarah Iles Johnston**, *Ancient Greek Divination*, Wiley-Blackwell, 2008 : typologie comparée des pratiques sans réduction de Didymes à Delphes.
+- **J. N. Bremmer**, travaux sur la religion grecque et sur les groupes sacerdotaux d'Asie Mineure ; sélectionner pour chaque discussion une référence précisément vérifiable plutôt que d'imputer une thèse globale à l'auteur.
+- **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Detienne**, *Les Maîtres de vérité dans la Grèce archaïque* : repères théoriques à confronter aux données locales.
+- **Michel Foucault**, *Le Courage de la vérité* : point de comparaison conceptuel possible sur les régimes de parole ; ne pas en faire une source historique didyméenne.
+
+## XVII. Synthèse des degrés de certitude
+
+### 97. Faits documentaires et hypothèses distingués
+
+**Attesté par textes :** Hérodote rapporte les offrandes de Crésus, la consultation sur Pactyès et le pillage sous Darius ; Strabon attribue un incendie à Xerxès et fait état d'une tradition de Branchos ; Pausanias donne une ancienneté pré-ionienne revendiquée, identifie Canachos et rapporte le retour d'une statue. Ces affirmations sont des témoignages antiques et n'ont pas toutes le même degré de certitude historique.
+
+**Attesté par archéologie :** un ensemble de monuments archaïques et hellénistiques, une cour interne monumentale non couverte, des traces d'un vaste chantier et des itinéraires de circulation reconstruisibles par fragments. Les détails des différentes phases doivent être rattachés aux publications.
+
+**Attesté par épigraphie :** existence de règlements des Molpes, de dédicaces, de charges cultuelles et d'inscriptions de chantier. La chronologie et la fonction de chaque texte doivent être établies pièce par pièce.
+
+**Propositions historiographiques :** lecture des origines pré-ioniennes, durée exacte d'interruption oraculaire, implication financière des dynasties dans chaque campagne de construction, usages des chambres non nommées, itinéraires alternatifs de procession.
+
+**Non démontré :** une identité sûre entre tous les objets apolliniens de Suse et Didymes ; l'existence d'une voie sacrée immuable ; un mécanisme narcotique de l'eau ; une statue originale conservée par les copies ; une continuité rituelle ininterrompue depuis Branchos ; une toiture complète de la grande cour.
+
+### 98. Conclusion générale — Une parole divine au milieu des institutions humaines
+
+Didymes fait apparaître une tension dont l'histoire grecque ne saurait se passer : le dieu est représenté comme source supérieure de connaissance, mais sa parole n'atteint les communautés qu'à travers des hommes, des femmes, des lieux et des procédures qui ont une histoire. Branchos incarne la grâce fondatrice ; les Branchides, une autorité collective transmise ; Aristodicos, la nécessité de confronter un message aux obligations de la supplication ; les Molpes, l'organisation civique d'un déplacement religieux ; les bâtiments et inscriptions, l'objectivation matérielle d'une relation au dieu qui change sur plusieurs siècles.
+
+La destruction du temple et le retour supposé de son image montrent que les objets de culte possèdent une vulnérabilité historique, même lorsque les récits les rapportent à une puissance divine intemporelle. Le temple gigantesque, sans couverture intégrale et demeuré inachevé, rappelle qu'une œuvre monumentale ne doit pas être mesurée seulement à la perfection d'un état final imaginaire : son histoire est le travail continu de générations confrontées à des choix architecturaux, sociaux et politiques.
+
+La monographie propose ainsi une conception de l'oracle comme **institution de parole disputée**, plutôt que comme machine à prédire ou illusion soigneusement entretenue. Le dialogue sur Pactyès montre qu'une communauté peut invoquer le dieu pour échapper au choix et découvrir que l'obligation de décider lui revient. La philosophie de l'autorité ne remplace pas le contrôle des inscriptions et des pierres : elle l'accompagne en mettant au jour ce que les sources permettent de demander.
+
+*Continuité MYTHOS : étude intégrale sans numéro attribué à la rédaction. Références aux chapitres préexistants de l'encyclopédie utilisées seulement pour éviter les doublons. Le manuscrit est destiné à la file editorial/inbox, sans création directe de fichier numéroté, sans modification de registre, sans remplacement de médias et sans changement des planifications horaires. L'attribution canonique et le déploiement public devront être vérifiés séparément.*

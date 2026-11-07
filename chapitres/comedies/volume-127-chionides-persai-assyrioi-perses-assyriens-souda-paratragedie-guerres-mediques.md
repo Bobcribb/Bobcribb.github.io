@@ -562,3 +562,11 @@ Le titre fait apparaître une série de questions sur la mémoire des guerres, l
 Une monographie sérieuse doit donc conserver ensemble la pauvreté documentaire [A], la richesse des problèmes interprétatifs [B] et la liberté clairement déclarée des scènes originales [C]. En procédant ainsi, MYTHOS protège les textes transmis, rend visible l'histoire de leur réception et refuse de transformer une lacune en fausse antiquité.
 
 **Fin du manuscrit approuvé pour publication.** Aucun numéro définitif, aucune URL de chapitre canonique et aucun succès de déploiement n'est annoncé ici avant réception des preuves GitHub correspondantes.
+
+### Renvois canoniques confirmés le 6 novembre 2026 — mise à jour éditoriale
+
+**Actualisation de navigation postérieure au manuscrit initial.** Les mentions antérieures « en attente » décrivaient l'état au moment de la rédaction. Le registre transactionnel `editorial/numbering.json` confirme maintenant ces volumes ; les liens ci-dessous renvoient à leurs chemins canoniques sur le site généré, sans préjuger de la disponibilité HTTPS de chaque page. Les fragments antiques, analyses [A]/[B] et scènes [C] du texte ci-dessus sont intégralement conservés.
+
+- [Volume CXXIX (129) — Chionidès, *Ptōchoi*](/chapitres/comedies/volume-129-chionides-ptochoi-mendiants-poisson-sale-gnesippos-dioscures-prytanee-authenticite/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
+- [Volume CXXVIII (128) — Écphantidès, *Satyroi*](/chapitres/comedies/volume-128-ekphantides-satyroi-satyres-fragments-athenee-photios-theatre-dionysiaque/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.
+- [Volume CXXX (130) — Écphantidès, *Peirai*](/chapitres/comedies/volume-130-ekphantides-peirai-inscription-choregie-epreuve-titre-perdu/) : étude distincte, avec reçu d'attribution contrôlé sur `main`.

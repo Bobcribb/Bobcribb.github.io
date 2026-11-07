@@ -2,9 +2,10 @@
 import json
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from unittest.mock import patch
 import unittest
 
-from scripts.verify_photoreal_gallery import ImagesInGallery, gallery_markup_failures, inventory, is_webp
+from scripts.verify_photoreal_gallery import ImagesInGallery, gallery_markup_failures, inventory, is_webp, verify_once
 
 
 class TestPhotorealGalleryVerification(unittest.TestCase):
@@ -28,6 +29,101 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
         ):
             with self.subTest(markup=broken):
                 self.assertTrue(gallery_markup_failures(broken, [entry]))
+
+    def test_scientific_notice_json_must_be_served_and_match_build(self):
+        base = "https://bobmythos.fr"
+        image = "/assets/reconstitutions-3d/kassope-test.webp"
+        notice = "/assets/reconstitutions-3d/notices/kassope-test.json"
+        entry = {"slug": "kassope-test", "src": image, "source_url": "https://example.org/kassope",
+                 "scientific_notice": notice}
+        catalog = {"count": 1, "entries": [entry]}
+        markup = (f'<article id="kassope-test"><figure><img src="{image}" alt="Agora de Kassopè">'
+                  '<figcaption>Restitution hypothétique</figcaption></figure>'
+                  '<div class="r3d-science"><p>Degré de certitude faible pour les élévations.</p>'
+                  '<a href="https://example.org/kassope">Source</a></div></article>')
+        webp = b"RIFF" + b"\x04\x00\x00\x00" + b"WEBP" + b"test"
+        with TemporaryDirectory() as folder:
+            root = Path(folder)
+            for resource, contents in ((image, webp), (notice, b'{"id":"KAS-AGO-001"}')):
+                target = root / resource.lstrip("/")
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(contents)
+            responses = {
+                "/assets/reconstitutions-3d/catalogue-photorealiste.json":
+                    (200, json.dumps(catalog).encode("utf-8")),
+                "/reconstitutions-photorealistes.html": (200, markup.encode("utf-8")),
+                image: (200, webp),
+                notice: (200, b'{"id":"KAS-AGO-001"}'),
+            }
+
+            def fake_request(url):
+                return responses[url.removeprefix(base)]
+
+            with patch("scripts.verify_photoreal_gallery.request_bytes", side_effect=fake_request):
+                good = verify_once(base, root, catalog, [entry])
+                self.assertEqual(good["verified_images"], 1)
+                self.assertEqual(good["verified_notices"], 1)
+                self.assertEqual(good["failures"], [])
+                responses[notice] = (404, b"missing")
+                missing = verify_once(base, root, catalog, [entry])
+                self.assertEqual(missing["verified_notices"], 0)
+                self.assertTrue(any("HTTP 404" in v["error"] for v in missing["failures"]))
+                responses[notice] = (200, b'{"id":"WRONG"}')
+                stale = verify_once(base, root, catalog, [entry])
+                self.assertTrue(any("différente" in v["error"] for v in stale["failures"]))
+
+    def test_legacy_notice_without_declared_url_is_verified_on_https(self):
+        """Les notices historiques sans champ scientific_notice ne sont pas ignorées."""
+        base = "https://bobmythos.fr"
+        slug = "delphes-legacy"
+        image = "/assets/reconstitutions-3d/" + slug + ".webp"
+        notice = "/assets/reconstitutions-3d/notices/" + slug + ".json"
+        entry = {"slug": slug, "src": image,
+                 "source_url": "https://museum.example/delphes"}
+        catalog = {"count": 1, "entries": [entry]}
+        markup = (
+            '<article id="' + slug + '"><figure><img src="' + image
+            + '" alt="Restitution hypothétique de Delphes">'
+            '<figcaption>Delphes, vue archéologique</figcaption></figure>'
+            '<div class="r3d-science"><p>Degré de certitude : faible pour les élévations.</p>'
+            '<a href="https://museum.example/delphes">Source archéologique</a>'
+            '</div></article>'
+        )
+        webp = b"RIFF\x04\x00\x00\x00WEBPtest"
+        original_notice = b'{"id":"DEL-OLD-001","title":"Delphes"}'
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            for path, payload in ((image, webp), (notice, original_notice)):
+                local = root / path.lstrip("/")
+                local.parent.mkdir(parents=True, exist_ok=True)
+                local.write_bytes(payload)
+            responses = {
+                "/assets/reconstitutions-3d/catalogue-photorealiste.json":
+                    (200, json.dumps(catalog).encode("utf-8")),
+                "/reconstitutions-photorealistes.html":
+                    (200, markup.encode("utf-8")),
+                image: (200, webp),
+                notice: (200, original_notice),
+            }
+            with patch("scripts.verify_photoreal_gallery.request_bytes",
+                       side_effect=lambda url: responses[url.removeprefix(base)]):
+                valid = verify_once(base, root, catalog, [entry])
+                self.assertEqual(valid["expected_notices"], 1)
+                self.assertEqual(valid["verified_notices"], 1)
+                self.assertEqual(valid["failures"], [])
+                self.assertNotIn("scientific_notice", entry)
+
+                responses[notice] = (404, b"missing")
+                missing = verify_once(base, root, catalog, [entry])
+                self.assertEqual(missing["expected_notices"], 1)
+                self.assertEqual(missing["verified_notices"], 0)
+                self.assertTrue(any("HTTP 404" in failure["error"]
+                                    for failure in missing["failures"]))
+
+                responses[notice] = (200, b'{"id":"WRONG"}')
+                changed = verify_once(base, root, catalog, [entry])
+                self.assertTrue(any("différente" in failure["error"]
+                                    for failure in changed["failures"]))
 
     def test_webp_signature(self):
         self.assertTrue(is_webp(b"RIFF" + b"\x04\x00\x00\x00" + b"WEBP" + b"abc"))
@@ -89,7 +185,8 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
             root = Path(temporary)
             page = root / 'reconstitutions-photorealistes.html'
             page.write_text(
-                '<html><body><nav class="r3d-index"><div class="r3d-index-grid">'
+                '<html><body><p><strong>État du corpus : 0 reconstitutions.</strong></p>'
+                '<nav class="r3d-index"><div class="r3d-index-grid">'
                 '</div></nav><article class="r3d-card" id="delphes-temple">'
                 '<h2>Delphes</h2></article></body></html>', encoding='utf-8')
             catalog = root / 'assets/reconstitutions-3d/catalogue-photorealiste.json'
@@ -102,6 +199,13 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
             }]}), encoding='utf-8')
             self.assertEqual(sync_index(root), 1)
             html_once = page.read_text(encoding='utf-8')
+            self.assertEqual(sync_index(root), 0)
+            self.assertEqual(page.read_text(encoding='utf-8'), html_once)
+            self.assertIn('État du corpus : 1 reconstitution.', html_once)
+            # Corriger également une valeur obsolète sans modifier les cartes.
+            page.write_text(html_once.replace('État du corpus : 1 reconstitution.',
+                                              'État du corpus : 99 reconstitutions.'),
+                            encoding='utf-8')
             self.assertEqual(sync_index(root), 0)
             self.assertEqual(page.read_text(encoding='utf-8'), html_once)
             doc = BeautifulSoup(html_once, 'html.parser')

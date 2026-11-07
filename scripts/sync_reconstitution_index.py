@@ -79,8 +79,17 @@ def sync_index(root: str | Path) -> int:
             inner = '\n' + card + inner
         existing.add(slug)
         added += 1
-    if added:
-        gallery_path.write_text(markup[:start] + inner + markup[end:], encoding='utf-8')
+    # The source gallery can lag behind concurrent additions: the published
+    # count must reflect the inventory, never a manually maintained number.
+    updated = markup[:start] + inner + markup[end:] if added else markup
+    count = len(entries)
+    updated = re.sub(
+        r'(?<=<strong>État du corpus : )\d+ reconstitutions?(?=\.</strong>)',
+        f'{count} reconstitution' + ('s' if count != 1 else ''),
+        updated, count=1,
+    )
+    if updated != markup:
+        gallery_path.write_text(updated, encoding='utf-8')
     return added
 
 

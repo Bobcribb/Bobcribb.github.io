@@ -1,0 +1,326 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXXXIV (334)
+
+## L'escarabée contre l'aigle : Ésope, Bellérophon, la machine de théâtre et la contestation de Zeus dans le prologue de *La Paix* d'Aristophane (421 av. n. è.)
+
+*Monographie universitaire originale en français, établie pour la collection comparative. Corpus principal : Aristophane, **La Paix** (*Eirènè*) 1–176 ; corpus de contrôle : **La Paix** 177–235 et 459–519 ; **Les Guêpes** 1446–1449 ; **Lysistrata** 691–705 ; Thucydide V, 16–24 ; fable « L'aigle et l'escarabée », Perry 3, dans ses traditions transmises ; fragments et témoignages de l'**Bellérophon** d'Euripide. Comparatisme historico-philologique, histoire du théâtre, poétique politique, histoire des religions et de la performance.*
+
+**Statut scientifique.** Les numéros 334 et CCCXXXIV seront exclusivement attribués par le circuit transactionnel de MYTHOS. Le présent fichier est un manuscrit destiné à la file éditoriale, non une preuve de publication sur le domaine public. [A] signifie **texte antique ou témoignage positivement attesté** ; [C] **contexte ou information documentaire contrôlable** ; [I] **interprétation argumentée** ; [H] **hypothèse non démontrable avec les témoignages disponibles** ; [N] **ce qu'on ne peut pas conclure**. Une citation d'un auteur antique n'est donnée textuellement que si elle a été contrôlée dans une édition ou transcription identifiée ; ailleurs, les passages sont reformulés.
+
+### Résumé scientifique
+
+Un vieil escarbot ne semble pas être un adversaire de l'aigle de Zeus. Pourtant, dans la tradition ésopique, l'animal minuscule ruine la supériorité du rapace et atteint jusqu'à l'espace où Zeus croyait protéger celui-ci. *La Paix* met en jeu cette disproportion avec une précision remarquable : Trygée, paysan athénien, demande des comptes au maître des dieux et remplace le noble Pégase par un scarabée nourri d'excréments. Au lieu de simplement dénoncer les guerres, le prologue demande comment une parole sans prestige peut franchir les frontières de la puissance. À quoi sert une fable quand le recours ordinaire à l'autorité semble impossible ? Qui produit matériellement l'ascension du héros, et qui doit en payer les coûts ? Pourquoi la comédie désigne-t-elle presque directement la technique qui fait voler le personnage ? Les réponses requièrent de distinguer la fable effectivement citée par Aristophane, ses versions postérieures, la parodie d'une tragédie fragmentaire et l'histoire réelle des négociations de 421. L'enjeu est la **fabrication publique d'un accès au pouvoir** : un insecte méprisé peut porter un citoyen vers Zeus, mais la performance rappelle que l'audace de l'un repose sur les gestes des autres et sur une machine maniée par des techniciens.
+
+### 1. Délimitation : une étude différente de la monographie générale sur *La Paix* [C]
+
+Le cycle MYTHOS possède déjà une étude d'ensemble, volume CCVIII (208), intitulée « Sortir de la guerre : *La Paix* d'Aristophane, le désarmement des activités, les rites d'Eirènè et la difficile naissance d'une économie civile ». Cette monographie a décrit la transformation des économies de guerre, le monde paysan, les métiers et les rites. Elle avait signalé l'envol de Trygée et la parodie de Bellérophon. La présente enquête ne recommence ni son analyse des forgerons ni celle du sacrifice et des conditions sociales de la pacification. Elle s'attache à un problème propre : **le statut politique de la fable comme moyen d'atteindre une autorité supérieure**, puis la manière dont le théâtre exhibe simultanément l'impossibilité et la possibilité matérielle de cette adresse. La continuité est documentaire, non une duplication d'argument.
+
+Les dossiers consacrés aux *Cavaliers*, aux *Guêpes*, aux *Nuées*, aux *Oiseaux* et à *L'Assemblée des femmes* sont également déjà présents. Le rapprochement avec les *Guêpes* intervient ici uniquement sur les lignes 1446–1449, où une fable est interrompue, et non sur les tribunaux, la mémoire des vétérans ou le banquet, matières d'autres volumes. La comparaison avec *Lysistrata* est limitée à une allusion animale précise. Ainsi la répétition d'un motif antique ne signifie pas répétition d'une étude : elle est utilisée pour tester, par des occurrences indépendantes, les fonctions changeantes d'un même outil narratif.
+
+### 2. Ce que l'on sait de la représentation de 421 [A/C]
+
+*Eirènè* fut représentée aux Grandes Dionysies de 421 av. n. è. ; la tradition lui attribue le deuxième prix. L'événement se situe dans les semaines où des négociations rendent possible la paix connue sous le nom de Nicias. Dans *Histoire de la guerre du Péloponnèse* V, 16–19, Thucydide relie le contexte favorable à la mort de Cléon et de Brasidas à Amphipolis en 422, ainsi qu'aux stratégies de Nicias et de Pleistoanax. Le texte comique ne fournit pas à lui seul le calendrier complet des pourparlers. Il faut donc éviter d'en traiter chaque plaisanterie comme une information d'archive concernant une décision déjà prise.
+
+L'association entre fête de Dionysos et délibération sur la paix est importante. Des citoyens peuvent entendre, dans un espace collectif ritualisé et compétitif, une proposition politique formulée par un héros invraisemblable. L'assemblée démocratique et le théâtre ne sont pas une même institution : les règles d'accès, les modes de sanction et la composition des publics diffèrent. Mais une comédie peut mettre à l'épreuve l'autorité de la parole officielle sans exiger du spectateur qu'il vote. Elle ouvre un espace d'expérimentation des issues que l'historien ne saurait confondre avec des programmes gouvernementaux.
+
+### 3. La première matière de la politique : le fumier [A/I]
+
+La pièce commence non dans le ciel mais parmi les serviteurs chargés de fabriquer la nourriture du scarabée, aux vers 1–81. Le terme **κάνθαρος (*kantharos*)**, attesté dès l'ouverture, désigne ici l'insecte nourri de matière fécale. Il faut le distinguer du vase homonyme, bien connu par l'iconographie dionysiaque : les deux sens lexicaux ne créent pas automatiquement un jeu voulu partout, bien que la coïncidence du vocabulaire puisse inviter à l'examen. L'insecte sert de monture ; la nourriture nécessaire à son envol constitue un travail, une odeur et un dégoût.
+
+Les domestiques pétrissent ; le maître s'élèvera. Le renversement héroïque n'efface donc pas la hiérarchie économique du foyer. Ce premier dispositif permet une double lecture. [A] Les serviteurs préparent la pâture, se plaignent et commentent la folie de Trygée. [I] L'idée politique n'acquiert une force visible que par l'entretien d'une infrastructure jugée basse. On ne saurait en inférer qu'Aristophane professe une théorie de l'exploitation. On peut en revanche montrer que la comédie **rend perceptible la dépendance matérielle d'un acte spectaculaire**. Le public voit le rebut avant de voir le vol : ordre décisif des images.
+
+### 4. Dégradation et puissance : deux mouvements non contradictoires [I]
+
+Dans un récit héroïque traditionnel, l'élévation paraît souvent liée à la pureté, à la faveur divine ou à une appartenance exceptionnelle. Ici, l'ascension a pour condition le déchet. Il serait trop simple de conclure que le comique « abaisse » seulement ce qu'il représente. Le scarabée accomplit une fonction supérieure à celle d'un cheval : il donne au paysan les moyens d'accéder à l'espace interdit où l'autorité des dieux pourrait être sommée de répondre. La dégradation est simultanément une **promotion de capacité**.
+
+Ce paradoxe évite d'opposer brutalement la noblesse tragique au « réalisme » d'une comédie terre à terre. Aristophane n'élimine pas la merveille : il lui choisit une alimentation grotesque. La comédie produit une seconde merveille, fondée sur ce que les hiérarchies habituelles excluent. L'outil le moins prestigieux rend pensable une action que les véhicules prestigieux réserveraient aux héros. Le rire ne suspend pas le politique ; il change le support sensible de la représentation de ce qui est possible.
+
+### 5. Du reproche privé à l'adresse publique [A/I]
+
+Trygée a essayé, sans succès, des moyens rudimentaires pour monter vers Zeus : ses échelles ont échoué et sa tête en a subi les conséquences (vers 66–71). Le passage ne décrit pas une pétition formelle adressée aux magistrats, mais une obsession de demander au souverain divin ce qu'il veut faire des Grecs. La progression est forte : les moyens familiers ne suffisent plus, le paysan invente une procédure d'accès extraordinaire et le motif de la paix se transforme en question sur l'obligation de répondre.
+
+Il serait abusif d'identifier Zeus à un chef politique déterminé. L'enjeu est la **mise en accusation de l'irresponsabilité** : lorsqu'une puissance tient le destin collectif entre ses mains, la sollicitation de l'explication devient imaginable, jusqu'à la formulation absurde d'un procès. Le ciel sert de scène à une question terrestre : comment obliger une autorité qui ne comparaît devant personne à rendre des raisons de ce qu'elle laisse advenir ? Le prologue n'apporte pas encore une solution institutionnelle ; il fabrique un scandale cognitif en donnant forme à ce recours impossible.
+
+### 6. Un vol panhellénique raconté depuis un foyer [A/I]
+
+Aux vers 82–111, le héros tente de discipliner l'animal et déclare son projet de rejoindre Zeus pour la Grèce. La formule panhellénique excède le rang social et les moyens de Trygée. La grande affaire d'« Hellas » est prise en charge par un cultivateur qui ne parvient même pas à maîtriser totalement les mouvements ou les besoins physiologiques de sa monture. L'écart entre programme et instrument est constitutif de la scène.
+
+Le « nous » grec ne doit pas faire oublier les conflits entre communautés dont la diplomatie négocie précisément la cessation. La comédie peut dire « les Grecs » là où le traité doit produire des clauses détaillées. Les deux niveaux ne s'excluent pas ; ils n'ont pas la même fonction. [I] La fable permet de représenter un intérêt collectif avant qu'il ne dispose d'une forme politique stable, tout en laissant apparaître le ridicule de celui qui s'en proclame le porteur. Les spectateurs sont invités à essayer cette généralisation, non à la prendre pour un accord déjà conclu.
+
+### 7. Pourquoi Ésope entre-t-il en scène ? [A]
+
+Lorsque sa fille s'interroge sur le choix du scarabée, Trygée invoque explicitement les **λόγοι d'Ésope**, aux vers 128–135. Dans le texte grec des vers 129–130 se trouvent **ἐν τοῖσιν Αἰσώπου λόγοις** et l'idée que l'insecte serait parvenu jusqu'aux dieux. Il s'agit d'une référence directe et rare : une parole de fable justifie une décision matérielle du personnage. Le récit connu du public apparaît comme une ressource opératoire, presque comme une attestation de faisabilité.
+
+Il importe toutefois de nommer correctement ce qui est attesté. Aristophane ne récite pas le texte complet de « L'aigle et l'escarabée ». Il mentionne l'épisode et la vengeance liée aux œufs de l'aigle. Le récit développé, avec ses diverses versions et morales, nous parvient par une tradition fabulaire dont les rédactions conservées ne peuvent être toutes tenues pour contemporaines de 421. La cote **Perry 3** est un instrument moderne de classement, non un titre ou un numéro qu'Aristophane aurait connu. L'intertexte sûr est la référence à Ésope et au conflit de l'insecte avec l'aigle ; les détails supplémentaires demandent un marquage distinct.
+
+### 8. Une puissance minuscule capable de monter [A/I]
+
+Dans la fable telle qu'on la résume habituellement, le scarabée affronte l'aigle, figure d'une puissance aérienne et proche de Zeus. Des versions font intervenir le refuge demandé par un lièvre, la destruction des œufs de l'aigle et un geste grâce auquel le scarabée force Zeus à réagir. L'histoire conjugue faiblesse apparente, ruse, disproportion et renversement du lieu réputé sûr. Le passage d'Aristophane s'appuie sur une propriété essentielle : **l'inférieur atteint le lieu du supérieur**.
+
+Le schéma ne signifie pas que l'insecte soit moralement innocent en tout état de cause. Dans la fable, la vengeance détruit une progéniture ; les versions ne proposent pas toutes la même évaluation éthique de cette violence. Aristophane prélève l'efficacité du motif sans nécessairement reprendre ses justifications. Il le transforme en possibilité politique : atteindre une autorité silencieuse sans disposer de ses armes, de ses privilèges ou de sa taille. La petitesse fait rire, mais elle force à repenser les obstacles réputés naturels.
+
+### 9. La chronologie des fables : un garde-fou nécessaire [C/N]
+
+La transmission ésopique est stratifiée. Les recueils attribués à Ésope ont été remaniés, réordonnés et moralement commentés durant de longs siècles. La présence d'une allusion chez Aristophane atteste qu'un noyau narratif circulait au Ve siècle, non qu'une rédaction médiévale, byzantine ou imprimée était déjà connue mot à mot. De même, les illustrations modernes de la fable, fût-ce avec des œufs dans le vêtement de Zeus, ne restituent pas un dispositif scénique de 421.
+
+La méthode correcte possède trois étages : [A] les mots conservés de *La Paix* 128–135 ; [C] les formes attestées plus tard dans les collections d'ésopiques ; [H] l'éventuelle forme orale connue des spectateurs. Le troisième étage ne peut devenir le premier sous prétexte qu'une reconstruction semble vraisemblable. Cette précaution est décisive pour toute histoire comparée des mythes : les récits s'apparentent, mais leur chronologie, leurs supports et leurs fonctions ne sont pas interchangeables.
+
+### 10. Le scarabée est-il un personnage politique ? [I]
+
+On peut interpréter l'insecte comme une figure de l'acteur civique minoré : petit, sale, incapable de rivaliser avec un grand prédateur par la force frontale. La tentation d'en faire directement « le peuple » ou « la démocratie » doit pourtant être retenue. Ni les vers 128–135 ni la distribution de la pièce n'affirment une équivalence allégorique stable entre scarabée et dêmos. L'animal est aussi une monture rétive, dépendante de ses habitudes alimentaires, et sa force ne serait pas maîtrisable sans les domestiques.
+
+Une interprétation plus rigoureuse est relationnelle. Le scarabée représente dans la scène **une capacité déplacée**, non un groupe social absolument identifié. Dans un système d'autorité hiérarchique, le faible peut agir par d'autres voies que celles du puissant. Ce déplacement est particulièrement fécond dans une comédie jouée devant un public qui reconnaît les hiérarchies de fortune, d'âge, de naissance et de compétence, sans que l'on puisse supposer chez chaque spectateur une lecture démocratique uniforme.
+
+### 11. L'aigle, Zeus et le problème de la protection [A/I]
+
+L'aigle est traditionnellement associé à Zeus ; cette relation donne à la rivalité fabulaire une hauteur inédite. En défiant le rapace, l'escarabée touche indirectement l'ordre qui croit garantir la sécurité du puissant. Un pouvoir qui protège sans discernement le prédateur s'expose à être entraîné dans la querelle. Mais les vers d'Aristophane ne développent pas un discours juridique sur l'asile à partir de la fable : cette question dépend de formes narratives plus explicites, consultables séparément.
+
+L'effet politique est autre : le seuil du dieu n'est pas infranchissable, puisque l'animal le plus méprisé a, dans un récit connu, atteint ce domaine. L'autorité de Zeus peut ainsi être soumise au rire sans qu'il soit nécessaire de nier son existence. [N] Il ne faut pas transformer ce dispositif en preuve que les Athéniens de 421 adhéraient majoritairement à une doctrine d'impiété ; la croyance, le rite, la satire et la manipulation d'un récit divin peuvent coexister dans la culture du théâtre dionysiaque.
+
+### 12. Pourquoi ne pas prendre un aigle ? [A/I]
+
+La fillette pose la question de l'incongruité du moyen de transport ; Trygée justifie son choix par la fable et par des motifs pratiques. L'absence d'un choix prestigieux est réfléchie sur scène, non laissée au hasard de l'auteur. La solution réside dans la capacité propre de l'insecte et dans la continuité entre la nourriture du maître et celle de sa monture (vers 135–139). Le cheval merveilleux pourrait demander des moyens que le foyer n'a pas.
+
+Ainsi le récit relie trois économies : économie du prestige épique et tragique ; économie de la maison qui nourrit les bouches ; économie de la guerre qui empêche de restaurer une abondance stable. Ce n'est pas encore le débat des artisans de l'armement exposé dans la fin de la pièce. C'est un problème initial de **coût du salut collectif** : celui qui promet de sauver les Grecs doit encore trouver comment financer son projet à l'échelle de son propre garde-manger.
+
+### 13. Le nom de Trygée et le monde agricole [A/I]
+
+La parenté sonore entre **Τρυγαῖος** et le vocabulaire de la vendange, notamment la famille de *trug-* liée aux produits de la vigne, fournit un indice d'inscription rurale. Son statut de cultivateur est donné par la pièce. On ne peut pourtant tirer de cette résonance onomastique une histoire exhaustive de l'étymologie du nom propre. Le dramaturge travaille avec ce que l'oreille peut percevoir et ce que la situation dramatique rend pertinent.
+
+Le raisonnement du héros ne sort pas d'une école d'orateurs : il naît du souci de la récolte, de la nourriture et des enfants. L'argument du scarabée met en relation l'ordure et la fertilité sans supposer que les Athéniens pratiquaient tous les mêmes techniques agricoles. Une économie des cycles naturels devient le terrain du possible politique. La souveraineté divine paraît lointaine, mais la matière par laquelle on cherche à l'atteindre est produite au plus près de la terre.
+
+### 14. Les enfants : mandat moral sans droit de représentation [A/I]
+
+Les filles demandent à leur père où il part et comment il pourra revenir (vers 112–141). Ce dialogue expose le coût privé de l'action panhellénique. Elles n'ont pas participé à une décision collective réglée ; elles sont les personnes pour lesquelles le héros prétend aussi agir et celles qu'il laisse momentanément sans protection. Les promesses de nourriture à son retour lient sa mission à la subsistance immédiate.
+
+Il serait anachronique de projeter sur la scène une théorie contemporaine du consentement des mineures. La question vérifiable est narrative : la parole familiale interrompt le récit héroïque et oblige à en éprouver les conséquences. [I] Le héros qui invoque la totalité des Grecs doit rendre des comptes devant des proches qui n'en possèdent pas l'autorité. La grandeur publique n'abolit pas la responsabilité domestique. L'étude de Chiara Sulprizio sur guerre, femmes et domesticité dans *La Paix* offre un cadre critique pour cette tension, sans prouver à elle seule l'intention exacte d'Aristophane dans chacune de ces répliques.
+
+### 15. Le mythe tragique du vol : Bellérophon et Pégase [A/C]
+
+Trygée appelle son insecte par un nom de prestige lié à **Pégase** (v. 76) ; sa fille lui demande pourquoi il ne se contente pas de la véritable monture ailée, ce qui le rendrait « plus tragique » (vers 135–137, *tragikōteros*). Le mot est ici déterminant. Il ne s'agit pas seulement d'une comparaison mythologique comprise par l'érudit moderne : la scène expose le contraste générique. La comédie possède la même destination céleste qu'un récit de héros, mais refuse sa noblesse visible.
+
+Le *Bellérophon* d'Euripide est une tragédie perdue, connue par fragments et témoignages. L'ascension sur Pégase vers la sphère divine constitue un rapprochement philologique important ; C. Collard, M. J. Cropp et K. H. Lee en étudient les vestiges dans *Euripides: Selected Fragmentary Plays*. On ne peut reconstituer toutes ses scènes à partir de la parodie aristophanienne. Cette distinction évite de prendre les traits propres de Trygée pour une transcription fidèle de l'original tragique.
+
+### 16. Ce que parodie la tragédie, et ce qu'elle ne parodie pas [I/N]
+
+L'imitation comique d'une ascension tragique ne prouve pas que le personnage d'Euripide avait les mêmes raisons politiques que Trygée. Une étude intitulée « Reconsidering Euripides' Bellerophon » insiste précisément sur le risque de déduire les motivations du héros tragique à partir des objectifs du héros comique : les allusions verbales sûres portent sur le vol et sur Pégase, non sur une identité complète des arguments.
+
+La différence peut être formulée sans romancer les fragments. [A] Bellérophon et Trygée appartiennent à deux réseaux dramatiques associés au déplacement aérien vers les dieux ; l'un est un sujet de tragédie perdue, l'autre est un personnage d'une comédie conservée. [I] Le changement de monture transforme l'héroïsme exceptionnel en opération accessible à un cultivateur grotesque. [H] Les détails précis de la machinerie employée dans la tragédie et sa date par rapport à la comédie restent des questions de reconstruction : il ne faut ni affirmer une identité de dispositif ni inventer des scènes.
+
+### 17. Une fable comme expertise de substitution [I]
+
+Le héros produit une réponse singulière à sa fille : il cite Ésope pour démontrer qu'un scarabée peut atteindre les dieux. La forme narrative fait ainsi fonction d'argument technique. Dans un débat ordinaire, l'expertise provient de quelqu'un qui connaît le transport, les routes ou les machines ; ici, le précédent est un récit d'animal et de vengeance. L'histoire ne permet pas une prédiction physique réelle, mais elle ouvre un espace de possibilité au sein de la fiction.
+
+L'opération demeure double. Aristophane tourne en dérision la confiance naïve dans un précédent narratif, tout en montrant qu'une fiction peut réorganiser les moyens de l'action collective. Le spectateur rit de l'argument précisément parce qu'il voit le scarabée effectivement fonctionner sur scène. Il assiste au devenir concret d'une analogie fabulaire. La puissance du théâtre réside alors moins dans la démonstration logique que dans la construction d'une expérience : **ce qui ne se déduit pas peut se jouer**.
+
+### 18. De la fable au mécanisme scénique [A/I]
+
+À la fin du passage, Trygée interpelle directement le **μηχανοποιός (*mēchanopoios*)** dans les vers 174–176. Le mot désigne ici l'homme de l'appareil ou de la machine dramatique. L'interpellation surgit au moment où les mouvements de l'animal semblent faire courir un risque au cavalier. Le spectateur n'est plus seulement invité à croire au voyage vers l'Olympe ; il est invité à remarquer la précarité pratique d'un voyage produit par la scène.
+
+La présence d'une machine de levage est une interprétation théâtrale forte, cohérente avec le passage, et généralement reçue dans les commentaires. Toutefois, les caractéristiques techniques précises — dimensions du scarabée, nombre d'assistants, trajectoire, câbles, modèle d'engin et architecture des coulisses — ne se laissent pas déduire avec certitude de ces trois vers. Ce que le texte livre avec assurance est plus important que le plan conjectural d'une grue : **la comédie rend visible sa propre dépendance à l'infrastructure de la représentation**.
+
+### 19. Le machiniste : un acteur politique sans discours [I]
+
+Dans l'économie du spectacle, le machiniste n'est pas l'auteur du projet panhellénique. Il n'en constitue pourtant pas moins une condition de sa présentation au public. Le fait de l'appeler dans la fiction déplace brièvement l'attention du héros vers le travail invisible qui assure l'exécution. La pièce introduit, au niveau même de son texte, une figure technique normalement située en dehors de la communauté des personnages.
+
+Cette ouverture ne saurait être confondue avec une revendication moderne de visibilité professionnelle. Elle permet cependant une question philosophique : une action peut-elle être attribuée à un seul sujet lorsque sa réalisation dépend d'un ensemble de gestes dispersés ? L'exploit de Trygée s'écrit au singulier ; son accomplissement relève d'une distribution réelle de fonctions. La critique du pouvoir trouve donc dans la pratique théâtrale une analogie avec l'action collective, sans que l'on puisse convertir automatiquement le dispositif scénique en portrait de l'État athénien.
+
+### 20. La peur de tomber et la fragilité de la politique [A/I]
+
+Le vol reste soumis à des conditions triviales : le scarabée peut être détourné par les odeurs ; le corps de Trygée est vulnérable ; une mauvaise manœuvre causerait la chute. La scène multiplie les éléments capables de faire échouer un voyage pourtant présenté comme nécessaire au salut collectif. L'exploit n'est donc jamais totalement maîtrisé. Cette fragilité produit le comique, mais elle fournit également une pensée de la contingence.
+
+L'histoire diplomatique conforte la pertinence de la contingence sans la réduire à la farce. Les négociations de 421 ne découlent pas d'une nécessité métaphysique ; des décès, des ambitions, des pertes et des intérêts changeants ont compté. [I] Le héros aérien déclare une fin souhaitable mais ne contrôle pas son instrument. La comédie peut ainsi rendre désirable la paix tout en refusant de lui donner l'apparence d'un destin naturel assuré.
+
+### 21. Un langage judiciaire devant Zeus [A/I]
+
+Dans *La Paix* 100–111, Trygée annonce qu'il ira demander au dieu ce qu'il compte faire du monde grec. La menace de poursuite pour avoir livré la Grèce aux Mèdes donne à cette demande une forme quasi judiciaire. La référence aux Mèdes est rhétoriquement chargée par la mémoire des guerres médiques et par les accusations politiques contemporaines ; elle n'atteste pas une procédure réellement ouverte contre Zeus ni une action perse engagée dans les circonstances de 421.
+
+L'effet est une transposition volontairement impossible. Le citoyen transpose au souverain céleste les instruments de la dénonciation qu'il connaît dans sa propre cité. La question n'est pas de savoir si Zeus peut être juridiquement convoqué à Athènes, mais ce que devient une forme de contrôle quand son destinataire semble absolu. Le mot « responsabilité » sert ici de catégorie analytique moderne pour décrire la logique de cette mise en cause ; il ne faut pas lui prêter le contenu exact d'une doctrine constitutionnelle du Ve siècle.
+
+### 22. L'impossible procès et les limites de l'isonomie [I]
+
+L'isonomie, au sens large d'une égalité normative entre certains membres du corps civique, ne s'applique pas aux dieux comme à des citoyens ordinaires. La comédie met justement en scène ce décalage. Trygée voudrait traiter Zeus comme un interlocuteur qui doit répondre à une accusation ; le souverain olympien n'est pas constitué en sujet de la juridiction attique. Le raisonnement procède par collision de deux régimes de pouvoir : la parole publique susceptible de contestation et la puissance transcendante dont les décisions échappent au contrôle humain.
+
+La satire n'énonce pas un projet d'abolition de l'Olympe. Elle teste la portée du langage de la cité lorsqu'il excède le territoire où il dispose d'effets institués. La question politique perd sa solution juridiquement naïve pour gagner une valeur dramaturgique : le langage du procès fait entendre la possibilité même de demander des comptes. La différence entre **faire comparaître effectivement** et **rendre une puissance discutable** est au centre de la lecture.
+
+### 23. Le retour d'Hermès : une souveraineté divine absente [A]
+
+Les vers 177–235 prolongent directement l'ascension. Trygée ne trouve pas l'assemblée des Olympiens prête à l'écouter : Hermès demeure sur place tandis que les autres dieux se sont retirés. La Guerre occupe leur espace et Paix est soustraite au monde. Le motif de l'absence ne signifie pas automatiquement que les dieux sont déclarés inexistants. Une divinité peut exister dans l'intrigue et se rendre politiquement indisponible.
+
+Le dispositif change l'objet de la quête. Le paysan parti demander des comptes à Zeus découvre que la source apparente de l'ordre n'est plus à son poste. Il faut alors transformer une requête à un souverain en opération collective de libération d'Eirènè. La transition des vers 177–519 oppose à la recherche d'une audience divine une coopération des hommes de différentes régions. [I] La dramaturgie déplace le centre effectif de l'action du sommet céleste vers le groupe capable de tirer sur les cordes. Le prologue prépare ce déplacement avant qu'il ne s'accomplisse.
+
+### 24. Des échelles au scarabée, du scarabée aux cordes [I]
+
+Trois technologies dramatiques organisent la recherche de la paix. L'échelle individuelle échoue. Le scarabée, nourri au fumier et porté par la machine, réussit à franchir l'obstacle vertical. L'extraction d'Eirènè exige ensuite un effort collectif, chorégraphique et matériel. Ces techniques ont des fonctions distinctes : premier échec du sujet isolé, réussite provisoire de l'invention singulière, puis nécessité d'une coordination de plusieurs forces.
+
+La scène de sauvetage peut également être étudiée en rapport avec les travaux d'Ephraim Lytle et Donald Sells, qui proposent d'y reconnaître une technologie de pêche à la senne plutôt qu'un simple halage de navire. Cette hypothèse concerne spécialement *La Paix* 458–728 et n'autorise pas à dessiner rétroactivement les mécanismes du scarabée. Elle confirme surtout qu'une histoire attentive aux techniques permet de renouveler l'analyse du comique sans dissoudre les enjeux du rite et de la politique.
+
+### 25. Le scarabée des *Guêpes* : une autre fonction [A/I]
+
+Dans *Les Guêpes* 1446–1449, Philocléon essaie de raconter une anecdote associée à Ésope et à Delphes. Il s'apprête à évoquer un **κάνθαρος**, mais Bdélycléon l'interrompt brutalement avant la fin. Le fragment comique est une preuve sûre d'une circulation du motif de l'escarabée au-delà de *La Paix* ; il ne reproduit pas, en revanche, une version intégrale de la fable. Sa forme dramatique est celle d'une narration empêchée.
+
+Le contraste éclaire la réutilisation des mêmes matériaux. Dans *La Paix*, la fable autorise un projet d'ascension ; dans les *Guêpes*, une tentative d'utiliser la parole fabulaire se heurte à la résistance d'un fils et à la conduite incontrôlable d'un père. La fable peut donc fonder l'action ou en signaler l'inadéquation. Babette Puetz a proposé une comparaison ciblée des occurrences aristophaniennes : elle distingue précisément leurs fonctions comiques au lieu de prétendre que le même récit produit partout la même morale.
+
+### 26. Le scarabée de *Lysistrata* : un troisième emploi [A/I]
+
+Dans *Lysistrata* 695, le chœur des femmes utilise l'image d'un scarabée face à un aigle qui pond. Le grec conservé comporte **αἰετόν**, **κάνθαρος** et **μαιεύσομαι** ; il faut comprendre la réplique comme une menace burlesque prononcée dans le conflit des chœurs. La représentation d'un animal minuscule qui se mêle à la naissance d'un aigle renverse une hiérarchie de puissance. Le motif circule désormais dans un antagonisme de genre et d'âge.
+
+Il n'est pas nécessaire d'affirmer qu'une spectatrice ou un spectateur reconnaissait une version identique en tout point de la fable. La comparaison tient aux éléments textuels positifs. Dans *La Paix*, l'insecte transporte un homme ; dans *Les Guêpes*, l'allusion fabulaire reste inachevée ; dans *Lysistrata*, l'image vient renforcer une menace. La diversité interdit de construire une allégorie permanente « scarabée = citoyen faible ». La signification dépend de l'énonciateur, de la situation et de l'effet voulu dans chaque pièce.
+
+### 27. Un répertoire comique plutôt qu'une doctrine constante [I]
+
+La récurrence d'une fable constitue une méthode de composition. Elle permet au dramaturge de réactiver chez le public un récit bref, disponible et reconnaissable, puis d'en modifier l'orientation. Ce phénomène rappelle que la mémoire culturelle fonctionne moins comme un dictionnaire à définitions immobiles que comme un stock de séquences transformables. L'histoire littéraire n'a pas à choisir entre une continuité absolue et une rupture totale : elle doit analyser les transformations d'emploi.
+
+La valeur politique du scarabée n'est donc pas cachée dans l'animal lui-même. Elle naît de sa relation à l'aigle, au dieu, à la famille, au corps des acteurs et à la situation d'énonciation. Cette méthode convient au comparatisme de MYTHOS : ne comparer que des motifs clairement attestés, puis identifier les différences de scène, de genre et de destinataire avant d'inférer un système symbolique.
+
+### 28. Hegel : la médiation au lieu du raccourci héroïque [I]
+
+La philosophie de Hegel fournit ici un langage comparatif, non une source antique. Les analyses de la médiation, de l'action et de la reconnaissance permettent de distinguer la fin que le héros se représente et le processus objectif par lequel elle devient réalisable. Trygée croit accéder directement au pouvoir supérieur ; la scène découvre des médiations : enfants, esclaves, fumier, insecte, machiniste, Hermès, puis acteurs collectifs. L'action ne peut être pensée comme la pure exécution d'une volonté individuelle.
+
+Il serait méthodologiquement incorrect d'affirmer que Hegel « explique » Aristophane ou que le comique attique anticipe la dialectique moderne. La comparaison sert plutôt à réfuter une lecture qui attribuerait la paix à la seule intention d'un héros inspiré. Elle rappelle que l'institution d'un nouvel état de choses suppose des opérations que la représentation héroïque tend à masquer. La médiation est une catégorie heuristique ; sa validité doit toujours revenir aux scènes précisément attestées.
+
+### 29. Nietzsche : défiguration du sérieux et risque du retournement [I]
+
+La lecture nietzschéenne peut partir des réflexions de *La Naissance de la tragédie* sur les rapports entre formes théâtrales, illusions et changements culturels, sans lui attribuer un commentaire sur ce prologue particulier. La comédie ne se contente pas d'ôter aux dieux leur majesté : elle montre que le sérieux des destins humains peut être rendu plus intelligible par une image indigne du style héroïque. Le fumier, le vol et la peur de tomber ne se substituent pas au tragique par une moralité banale ; ils bouleversent les critères de ce qui mérite d'être considéré comme grand.
+
+La prudence est indispensable. Le couple « apollinien/dionysiaque » ne constitue pas une clé universelle à appliquer mécaniquement à chaque plaisanterie. Le texte ne devient pas nietzschéen parce qu'il parle d'un spectacle de Dionysos. Une confrontation féconde demande plutôt quels effets la dissonance entre grandeur du but et bassesse du moyen produit sur le public, et à quel moment le rire rend la détresse plus visible plutôt qu'il ne l'efface.
+
+### 30. Vernant : une pluralité de plans de représentation [I]
+
+Le travail de Jean-Pierre Vernant sur les relations entre mythe, pensée et formes sociales de la cité rappelle qu'un récit traditionnel n'est pas une simple décoration ajoutée à une décision profane. La fable du scarabée opère dans un monde où les rapports entre dieux et humains, les pratiques civiques et les représentations du pouvoir se croisent sans se confondre. Le citoyen peut entendre une satire de Zeus au théâtre sans que cela transforme immédiatement les rites ou les magistratures.
+
+Ce dialogue intellectuel ne prétend pas que Vernant a fourni une interprétation textuelle de *La Paix* 129–135. Il désigne une règle de méthode : replacer le motif mythique dans le milieu civique qui lui donne une fonction, au lieu de l'isoler comme un symbole intemporel. L'argument est aussi critique : pour conclure à un « imaginaire démocratique du petit », il faut les relations précises de la pièce et des données historiques, non une essence supposée de la mythologie grecque.
+
+### 31. Détienne : ruse, savoir pratique et comparatisme contrôlé [I]
+
+Les travaux de Marcel Détienne, notamment sur la pensée mythique et, avec Vernant, les formes de la **mètis**, invitent à observer les capacités indirectes qui déjouent la supériorité de force. Le scarabée n'abolit pas l'aigle par la violence frontale : son avantage réside dans une compétence singulière et dans un déplacement inattendu. Trygée fait de même en choisissant un animal dont la possibilité de vol est déjà racontée par Ésope.
+
+On ne doit pas réduire la mètis à une ruse « grecque » stable ni la projeter sur chaque effet de farce. Détienne et Vernant constituent des interlocuteurs méthodologiques, non des témoins de 421. La notion aide à distinguer force, prestige et efficacité, mais elle ne remplace pas l'étude de la syntaxe des vers et du contexte scénique. La même réserve vaut pour toute tentative d'étendre d'emblée le motif à des mythologies du monde entier : les analogies valent seulement si leurs témoins, leurs dates et leurs fonctions sont contrôlés.
+
+### 32. La question d'une « contre-souveraineté » comique [I/H]
+
+Peut-on parler d'une contre-souveraineté née du rire ? Au sens fort, ce serait imprudent : aucune institution stable issue de l'escarabée ne concurrence juridiquement la souveraineté de Zeus. En revanche, la performance produit une capacité momentannée de désacralisation : le plus faible peut atteindre symboliquement l'espace du plus fort, et le public peut voir qu'un héros dépend de son appareil. Le théâtre accorde une forme d'existence à un recours impossible.
+
+L'hypothèse d'une contre-souveraineté est donc limitée et réflexive. [H] Elle décrit une dynamique critique propre au spectacle, non un parti politique organisé ni une intention doctrinale prouvée d'Aristophane. On gagnerait à parler d'**épreuve comique de la souveraineté** : l'autorité ne se maintient pas dans une pure transcendance, parce qu'un récit populaire et une machine l'obligent à devenir objet de représentation.
+
+### 33. Le prix du rire : travail des esclaves et propriété du maître [A/I]
+
+Le prologue met en scène des esclaves, souvent décrits comme serviteurs, qui accomplissent les tâches déplaisantes. La réussite annoncée d'un maître paysan repose sur ce travail subalterne. Il serait donc faux de présenter l'ascension comme le pur triomphe d'une démocratie dans laquelle tous auraient une égale voix. Les conditions sociales du monde représenté sont hiérarchisées, et les personnes qui préparent le prodige n'en deviennent pas les bénéficiaires institutionnels explicites.
+
+Le rire donne à entendre leurs plaintes, parfois leur compétence, et leur connaissance immédiate de ce qui manque au projet. [I] Un écart se crée entre la généralité du salut proclamé et la distribution inégale du fardeau. Ce problème nourrit un comparatisme critique avec les autres comédies sans dupliquer les volumes qui traitent déjà de Xanthias et de la preuve servile. Le point nouveau n'est pas le statut juridique de l'esclave en général : c'est son rôle comme condition matérielle de l'apparition d'une utopie de paix.
+
+### 34. La spatialité comique : bas, haut, retour [I]
+
+La première partie de *La Paix* organise une géographie presque élémentaire : la fosse et le fumier en bas, l'Olympe en haut, puis le retour du dieu et des ressources vers les hommes. Cette verticalité n'est pas seulement cosmologique. Le déplacement du héros montre ce qu'il faut pour franchir la distance entre ceux qui subissent une situation et ceux qui semblent en disposer. L'appareil scénique matérialise le passage ; sa visibilité rappelle que la hauteur politique est toujours construite dans la représentation.
+
+Mais le mouvement décisif est peut-être inverse : il faut ramener Eirènè vers le monde où les hommes vivent. La paix ne consiste pas à installer le peuple dans l'Olympe. Elle exige que la possibilité céleste redevienne une condition terrestre de subsistance. La fable du scarabée sert donc surtout à ouvrir une enquête qui se conclut en redescendant du merveilleux vers les pratiques ordinaires. Cette inversion donne au prologue une place stratégique dans l'architecture de la pièce.
+
+### 35. La vérité théâtrale et la vérité historique [C/I]
+
+L'historien peut établir une représentation en 421, relire les clauses du traité, les témoignages de Thucydide et les contraintes politiques des parties. Il ne peut confirmer qu'un paysan nommé Trygée a parcouru le ciel. Le philologue peut établir les mots conservés, discuter des variantes d'édition et inventorier les allusions intertextuelles. Il ne peut reconstruire de manière certaine la totalité de l'appareil scénique à partir d'une seule apostrophe au machiniste. Le comparatiste peut rapprocher les versions d'une fable. Il ne peut annuler leurs distances chronologiques.
+
+La force de la comédie n'exige aucune confusion entre ces niveaux. Elle montre que la fiction peut dire quelque chose de la possibilité politique précisément parce qu'elle se permet l'impossible factuel. Le prologue invente un chemin vers les dieux sans le présenter comme le procès-verbal d'un événement. Une étude universitaire doit respecter ce contrat : **fiction attestée, histoire contextualisée, interprétation déclarée, hypothèse limitée**.
+
+### 36. L'objection : une plaisanterie suffit-elle à porter tant de philosophie ? [I]
+
+On peut objecter à cette lecture qu'Aristophane cherche d'abord à faire rire avec un animal grotesque et une allusion reconnaissable à Pégase. C'est une objection sérieuse. Le lien entre une image drôle et une doctrine de l'autorité ne doit pas être présupposé. Il faut revenir aux données : la question explicite adressée à Zeus ; la justification du scarabée par Ésope ; l'allusion à la tragédie ; la menace d'un procès ; l'appel au machiniste. Ces éléments, placés dans la même séquence, créent une structure répétée d'accès au pouvoir et d'incertitude de l'action.
+
+La lecture proposée n'est donc pas une allégorie libre de toute contrainte. Elle repose sur un faisceau de gestes dramaturgiques que l'on peut contester individuellement. Son principal bénéfice est d'expliquer pourquoi la fable d'un petit animal est ici articulée à l'ascension cosmique et à une demande de justification. Son principal risque serait de surestimer la cohérence conceptuelle d'un texte dont l'exubérance comique reste aussi une fin esthétique autonome.
+
+### 37. Une comparaison de trois modes de parole [I]
+
+L'analyse permet de distinguer trois manières de contester. La **plainte** nomme une souffrance mais n'assure pas qu'elle sera entendue ; les interpellations de Trygée vers Zeus appartiennent d'abord à ce registre. La **fable** transforme un précédent connu en stratégie de franchissement : le scarabée a atteint les dieux, donc une autre ascension peut être imaginée. Enfin la **performance** matérialise la proposition, avec ses coûts et ses risques : l'acteur vole parce que le théâtre construit l'apparition de ce vol.
+
+Ces trois modes ne s'ordonnent pas en hiérarchie normative universelle. Leur articulation est propre au prologue. La même fable, réutilisée dans d'autres comédies, perd sa fonction d'expertise et devient menace ou récit interrompu. Cette mobilité interdit d'enfermer Aristophane dans une philosophie politique unique. La comédie permet de penser la contestation à partir d'outils langagiers et matériels qui ne se laissent réduire ni à une profession de foi démocratique ni à une dérision conservatrice.
+
+### 38. Démocratie athénienne : qui peut vraiment demander des comptes ? [C/I]
+
+Dans l'Athènes classique, le corps des citoyens masculins adultes disposait de formes de participation, de délibération et de contrôle des magistrats qui n'étaient pas ouvertes aux femmes, aux esclaves et aux étrangers dans les mêmes conditions. Une scène où un paysan veut interpeller Zeus mobilise indirectement les habitudes de la parole publique sans effacer cette exclusion. L'intérêt de l'image tient à ce que l'accès est ici arraché par un moyen aberrant, non assuré par un droit partagé.
+
+Il serait excessif d'identifier l'Olympe au Conseil ou à l'Assemblée. Les institutions ne fonctionnent pas avec la même logique que les relations divines imaginées par la comédie. Toutefois, l'expérience spectatorielle peut faire sentir ce qu'une relation d'autorité signifie quand elle refuse de se laisser examiner. L'analogie conserve sa valeur critique si l'on en précise les limites : il s'agit d'une **mise à l'épreuve de la discutabilité du pouvoir**, non d'une constitution céleste présentée comme un modèle athénien.
+
+### 39. La dimension religieuse : rire des dieux sans faire disparaître le rite [A/I]
+
+*La Paix* déploie des personnages divins, des personnifications, des sacrifices et des interventions rituelles. Le prologue peut ridiculiser l'accès à Zeus tandis que la suite restaure des pratiques en l'honneur d'Eirènè. Ce voisinage interdit une opposition facile entre scepticisme comique et religion civique. Les dieux peuvent être parties prenantes d'une fiction critique sans que la pièce proclame la disparition des obligations rituelles.
+
+La comparaison avec le *Bellérophon* fragmentaire doit rester prudente : la contestation tragique de la justice divine n'est pas automatiquement la doctrine de Trygée. Aristophane donne à son héros l'espoir d'une intervention possible dans un univers encore peuplé de dieux ; le fait que ceux-ci soient absents devient un problème d'action, non une preuve de métaphysique négative. Les analyses de Détienne et de Vernant restent utiles pour comprendre cette pluralité de registres, à condition de restituer le texte avant de théoriser.
+
+### 40. Une conclusion anti-héroïque sur la paix [I]
+
+Le prologue met en crise la figure du sauveur solitaire. Trygée paraît audacieux, mais il échoue d'abord, doit s'appuyer sur une fable, utiliser une monture ridicule, recevoir le travail de ses serviteurs et dépendre d'un machiniste. Sa relation aux filles rappelle que le salut public engage des intérêts domestiques. Sa menace judiciaire contre Zeus signale une aspiration à la réponse qu'il ne peut réaliser juridiquement. Arrivé au sommet, il ne trouve même pas l'autorité qu'il cherchait. Rien de cela ne diminue la portée de son désir de paix ; au contraire, cette faiblesse l'empêche de se confondre avec l'autoglorification d'un chef.
+
+La proposition forte de cette étude est que **la comédie démocratise provisoirement l'accès à l'impossible sans démocratiser automatiquement les structures du monde qu'elle représente**. Elle ouvre au regard un passage, puis montre les médiations et les exclusions qui rendent ce passage pensable. Le petit insecte face à l'aigle n'est pas une devise politique simple ; c'est une expérience critique des rapports entre force, parole, prestige, technique et responsabilité.
+
+### 41. Notes philologiques et contrôles de traduction [A/C]
+
+1. **Aristophane, *La Paix* 1–81.** La nourriture donnée au *kantharos*, les serviteurs, la tentative d'échelle et l'appel à Pégase sont contrôlables dans le grec édité par F. W. Hall et W. M. Geldart et dans la traduction de B. B. Rogers. Le scarabée n'est pas un simple symbole abstrait : il nécessite une préparation matérielle.
+2. **Vers 82–111.** Demande d'explication à Zeus et menace de dénoncer une livraison de la Grèce aux Mèdes. Les reformulations françaises du présent chapitre ne sont pas des citations prétendument littérales d'une traduction moderne.
+3. **Vers 128–135.** L'expression *en toisin Aisōpou logois* fonde l'attestation de la référence à Ésope ; l'insecte est associé à un précédent d'accès aux dieux. Ce passage ne donne pas l'intégralité du récit connu par les recueils ultérieurs.
+4. **Vers 135–139.** L'allusion à Pégase, au registre « plus tragique » et à la nourriture du scarabée oppose explicitement le prestige du genre à l'économie domestique.
+5. **Vers 174–176.** L'appel au *mēchanopoios* atteste un dévoilement verbal de l'artifice ; il ne spécifie pas dimensions, mécanisme ni schéma d'installation.
+6. **Aristophane, *Guêpes* 1446–1449.** Le récit d'Ésope commencé par Philocléon est interrompu. On ne possède pas ici une récitation intégrale de l'épisode.
+7. **Aristophane, *Lysistrata* 695.** Le texte comporte l'association aigle, scarabée et naissance, intégrée à une confrontation des chœurs ; l'allusion renforce une menace et ne constitue pas un traité de fables.
+8. **Fable Perry 3.** La cote est moderne. Les variantes de transmission doivent être confrontées dans leurs propres témoins et non utilisées pour compléter automatiquement *La Paix*.
+9. **Euripide, *Bellérophon*.** Le corpus est fragmentaire. Les rapprochements avec *La Paix* concernent l'ascension, Pégase et la mise à l'épreuve du monde divin ; le détail de l'intrigue demeure discuté.
+10. **Thucydide V, 16–24.** Le contexte diplomatique est attesté historiquement ; le prologue comique ne peut être lu comme un compte rendu contemporain d'une négociation.
+
+### 42. Tableau de vérification épistémique
+
+| Proposition | Degré | Justification et limite |
+| --- | --- | --- |
+| Le scarabée est nourri de fumier par des serviteurs | [A] | *La Paix* 1–81 |
+| Trygée veut questionner Zeus sur le sort des Grecs | [A] | *La Paix* 82–111 |
+| Le héros invoque explicitement les récits d'Ésope | [A] | *La Paix* 128–135 |
+| Les versions conservées de la fable datent toutes de 421 | [N] Faux | Transmission plurielle, textes transmis postérieurement |
+| Pégase et le registre tragique sont évoqués par les personnages | [A] | *La Paix* 76, 135–139 |
+| Toutes les scènes de l'*Bellérophon* d'Euripide peuvent être reconstituées | [N] Faux | Œuvre conservée seulement par fragments et témoignages |
+| L'appel au machiniste est textuellement attesté | [A] | *La Paix* 174–176 |
+| Une grue de taille et fonctionnement exactement connus est prouvée | [H] Non démontré | Le texte ne décrit pas l'ingénierie |
+| La fable revient dans les *Guêpes* et *Lysistrata* | [A] | *Guêpes* 1446–1449 ; *Lysistrata* 695 |
+| Le scarabée représente toujours les mêmes citoyens | [H] Non démontré | Fonctions dramatiques variables |
+| La représentation s'inscrit dans les négociations de 421 | [C] | *La Paix* ; Thucydide V, 16–24 |
+| Le prologue défend explicitement une réforme démocratique | [H] Non démontré | L'analogie politique est interprétative |
+| La scène articule parole, mythe et technique théâtrale | [I] Fortement argumenté | Relation de plusieurs passages attestés |
+| Hegel, Nietzsche, Vernant et Détienne sont témoins de la pensée d'Aristophane | [N] Faux | Comparaisons intellectuelles modernes uniquement |
+
+### 43. Bibliographie primaire raisonnée
+
+**Aristophane**, *Εἰρήνη / La Paix*, vers 1–176, 177–235, 459–519 ; *Σφῆκες / Les Guêpes*, 1446–1449 ; *Λυσιστράτη*, 691–705. Texte grec établi par **F. W. Hall** et **W. M. Geldart**, *Aristophanis Comoediae*, Oxford, Clarendon Press, 1906–1907, numérisation dans la Perseus Digital Library. Pour *La Paix*, confrontations avec la traduction de **Benjamin Bickley Rogers** (1913), ancienne et libre de droits. Pour *Les Guêpes*, confrontation au texte grec accessible dans Ad Fontes ; pour *Lysistrata*, transcription grecque issue de Perseus, consultable dans Ancient Library.
+
+**Thucydide**, *Histoire de la guerre du Péloponnèse*, V, 16–24 : contexte d'Amphipolis, stratégies des dirigeants et paix dite de Nicias. Texte grec et traductions historiques diffusés par Perseus. Le jugement moral porté par l'historien sur certains protagonistes n'est pas automatiquement un fait extérieur à sa narration.
+
+**Ésope et tradition ésopique**, « L'aigle et l'escarabée », **Perry 3** ; référence antique directe chez Aristophane, *La Paix* 128–135 ; pour le récit développé, tenir compte de la pluralité des témoins plus tardifs. La numérotation Perry est bibliographique et moderne.
+
+**Euripide**, *Bellérophon*, fragments et témoignages : édition critique dans C. Collard, M. J. Cropp et K. H. Lee, *Euripides: Selected Fragmentary Plays*, vol. I, Liverpool University Press. L'œuvre ne doit pas être citée comme une tragédie intégralement conservée.
+
+### 44. Bibliographie critique et interprétative
+
+- **A. M. Bowie**, *Aristophanes: Myth, Ritual and Comedy*, Cambridge University Press, 1993, chap. consacré à *Peace*, p. 134–150. Une notice éditoriale de Cambridge est consultable : https://www.cambridge.org/core/books/abs/aristophanes/peace/ABED529FC8520FAAE05732FA8B1F8078 . Ce chapitre propose une contextualisation mythico-rituelle, non une reconstruction technique incontestée.
+- **Babette Puetz**, « Not for Beetle Brains: Fables in Aristophanes », dans *Ancient Fables and Literary Genres*, 2025, p. 101–116, DOI **10.1515/9783111181936-006**. Son résumé vérifié distingue les occurrences des *Guêpes* 1446–1449, de *La Paix* 127–314 et de *Lysistrata* 695. Référence : https://doi.org/10.1515/9783111181936-006 .
+- **Kuniko Iwao**, « Aesop and the Comedy of Aristophanes on the "Eagle and Beatle" », *Intercultural Studies* 24, 2001, p. 129–164 (article en japonais ; titre anglais fourni par la notice CiNii). Le résumé bibliographique confirme le sujet ; il ne remplace pas la lecture critique intégrale de l'article : https://cir.nii.ac.jp/crid/1050845762521919744 .
+- **E. K. Borthwick**, « Beetle, Bell, Goldfinch, and Weasel in Aristophanes' Peace », *The Classical Review* 18/2, 1968, p. 134–139, DOI **10.1017/S0009840X00326567**. Existence et références vérifiées ; argument détaillé non attribué sans accès intégral.
+- **Chiara Sulprizio**, « You Can't Go Home Again: War, Women and Domesticity in Aristophanes' Peace », *Ramus*, article disponible par une notice Cambridge (publication électronique 2014). L'analyse du foyer et du retour est distinguée des passages eux-mêmes : https://www.cambridge.org/core/journals/ramus/article/abs/you-cant-go-home-again-war-women-and-domesticity-in-aristophanes-peace/A230F75EFE06E155FB2217A770B2B648 .
+- **Ephraim Lytle et Donald Sells**, « Satyr Scenes and Comic Seines: Netfishing in Aristophanes’ Peace », *Classical Philology* 115/3, 2020, p. 365–401, DOI **10.1086/709452**. L'article concerne surtout le sauvetage d'Eirènè, non la description certaine du scarabée : https://doi.org/10.1086/709452 .
+- **« Reconsidering Euripides' Bellerophon »**, *The Classical Quarterly*, article consultable dans sa notice Cambridge : https://www.cambridge.org/core/journals/classical-quarterly/article/abs/reconsidering-euripides-bellerophon/46C4167C44149597327F2365B4BA0F6B . Son observation sur les limites de l'inférence depuis Trygée a été contrôlée dans l'extrait accessible ; ne pas supposer que l'intégralité de l'argument est disponible en accès libre.
+- **G. W. F. Hegel**, *Leçons sur l'esthétique* et *Phénoménologie de l'esprit* : instruments de comparaison sur action et médiation ; aucune de ces œuvres ne sert de témoignage historique sur la représentation de 421.
+- **Friedrich Nietzsche**, *La Naissance de la tragédie* : comparaison conceptuelle, à ne pas transformer en commentaire direct du prologue de *La Paix*.
+- **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, Paris, 1965 : ressources de contextualisation anthropologique, non attestation spécifique du mécanisme de vol.
+- **Marcel Détienne et Jean-Pierre Vernant**, *Les Ruses de l'intelligence. La mètis des Grecs*, Paris, Flammarion, 1974 : cadre analytique des capacités indirectes ; la fable et son commentaire doivent rester premiers.
+
+### 45. Liens documentaires contrôlés pour cette livraison
+
+- Texte grec et traduction en vis-à-vis de *La Paix* 1–81 : https://www.greekmythology.com/sources/aristophanes/peace/prologue-beetle
+- Texte grec et traduction en vis-à-vis de *La Paix* 82–176 : https://www.greekmythology.com/sources/aristophanes/peace/flight
+- Structure de la pièce et contrôle des passages : https://www.greekmythology.com/sources/aristophanes/peace
+- *Les Guêpes* en grec, vers 1446–1449 : https://adfonteslibrary.org/work-aristophanes-wasps
+- *Lysistrata* en grec, vers 695 : https://ancientlibrary.net/aristophanes-lysistrata/
+- Thucydide V, 16, texte et traductions : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1/chapter:5.16/
+- Fable « L'aigle et l'escarabée », tradition textuelle présentée avec traduction : https://sententiaeantiquae.com/2016/06/19/aesop-fable-iii-the-eagle-and-the-beetle/
+- Monographie de Bowie et notice éditoriale : https://www.cambridge.org/core/books/abs/aristophanes/peace/ABED529FC8520FAAE05732FA8B1F8078
+
+### 46. Conclusion générale et prolongement raisonné
+
+La confrontation du scarabée et de l'aigle ne fournit pas un mot de passe universel permettant de déchiffrer Aristophane. Elle offre quelque chose de plus rigoureux : un **laboratoire de la disproportion politique**. Une puissance mineure, à laquelle manque le prestige du héros tragique, devient capable d'approcher le lieu où se distribue la domination. Mais cette approche exige une fable, une nourriture, une famille qui proteste, des esclaves qui travaillent et un machiniste susceptible de manquer son geste. La comédie matérialise ainsi l'écart entre l'audace d'une volonté et les conditions hétérogènes de son effectuation.
+
+Cette enquête se raccorde aux analyses déjà publiées de la démocratie maritime, des oracles et tribunaux, de la parabase des *Guêpes* et des mécanismes économiques de *La Paix*, tout en laissant leur démonstration propre intacte. Une étude future, si le corpus ne l'a pas déjà traitée, pourrait examiner spécifiquement l'oracle de Hiéroclès dans *La Paix* 1043–1126 comme forme concurrente de savoir public ; **cette simple piste ne réserve aucun numéro ni aucune étude**. La présente monographie est close : sa thèse est fondée sur les passages attestés, ses comparaisons philosophiques sont déclarées comme telles et ses hypothèses ne se substituent jamais aux témoignages.
+
+*Fin du manuscrit universitaire intégral — MYTHOS, collection comparatif. Numéro à attribuer uniquement par reçu transactionnel sur main.*

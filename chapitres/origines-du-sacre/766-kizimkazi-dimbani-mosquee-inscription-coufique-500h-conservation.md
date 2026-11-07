@@ -1,0 +1,272 @@
+# MYTHOS — Les Origines du sacré — Chapitre 766
+
+# Kizimkazi Dimbani : inscription de 500 H., mosquée de corail, restaurations et mémoire religieuse vivante
+
+**Étude universitaire intégrale — Zanzibar, Tanzanie.** Épigraphie arabe, archéologie des bâtiments, histoire du peuplement, droit du patrimoine, anthropologie du culte et philosophie comparée.
+
+**Résumé.** La mosquée de Kizimkazi Dimbani conserve une inscription datée de 500 de l'hégire (1107 selon la conversion courante). Elle a connu des transformations importantes, notamment une restauration du XVIIIe siècle. Ses recherches archéologiques et l'enquête sur sa conservation actuelle permettent d'interroger la différence entre la datation d'une inscription, l'histoire des murs et la continuité de la pratique religieuse. La présente étude distingue les observations publiées, les récits tardifs, les interventions récentes et les hypothèses insuffisamment démontrées. Elle ne traite pas Kizimkazi comme le premier lieu musulman de toute l'Afrique orientale, affirmation qui exigerait un inventaire complet des témoins antérieurs.
+
+**Note critique sur les dates.** La date 500 H. constitue le repère épigraphique majeur ; elle est conventionnellement rendue par 1107. Les sources secondaires divergent dans les conversions de l'inscription de restauration ; le manuscrit ne prétend pas résoudre cette difficulté sans réédition du document original.
+
+## 01. Problématique : une mosquée qui n'est pas un monument d'une seule époque
+
+La mosquée de Kizimkazi Dimbani, au sud d'Unguja dans l'archipel de Zanzibar, offre une conjonction rare de sources : inscription de fondation médiévale, inscription de restauration, observations d'architecture, fouilles anciennes, enquêtes plus récentes et usages religieux contemporains. Son importance ne tient pas à un statut de « première mosquée » qu'il serait difficile de prouver sur toute la côte. Elle tient à la possibilité de rapprocher un témoignage épigraphique daté, des modifications matérielles et une communauté de fidèles qui continue d'entretenir le lieu.
+
+L'étude ne confond pas l'inscription de l'année 500 de l'hégire, généralement rapportée à 1107, avec la date de tous les murs visibles. Elle évite également de projeter sur la fondation les pratiques actuelles. La question centrale est celle de la production de l'autorité et de la mémoire par un édifice susceptible de traverser des épisodes de désaffection, de restauration et de transformation. En d'autres termes, comment le sacré se perpétue-t-il quand son architecture change ?
+
+## 02. Situation et toponymes : Kizimkazi, Dimbani, Unguja
+
+Le site se trouve dans le village de Dimbani, dans la partie méridionale d'Unguja. L'appellation courante « mosquée de Kizimkazi » ne doit pas conduire à superposer toutes les traditions relatives aux agglomérations voisines. Les noms Kizimkazi Dimbani et Kizimkazi Miteni ou Mtendeni peuvent apparaître dans les descriptions locales et touristiques ; les auteurs et les inventaires patrimoniaux doivent être rapportés à leurs localisations exactes.
+
+Une fiche scientifique ne peut déduire l'ancienneté d'un nom moderne. Elle doit identifier les murs, les sépultures, les accès, la proximité de l'eau douce et les bâtiments de service sans transformer chaque élément du paysage en vestige du XIIe siècle. Il convient aussi de distinguer les zones protégées de celles affectées par les constructions récentes. La morphologie du village et la géographie de la péninsule fournissent des contraintes concrètes au choix du lieu de prière.
+
+## 03. Le dossier épigraphique : l'année 500 de l'hégire
+
+Une inscription coufique conservée dans la mosquée donne une date de construction exprimée selon le calendrier islamique : l'année 500 H., généralement convertie par l'historiographie en 1107 de notre ère. C'est une date issue d'un document matériel local, distincte des traditions postérieures. S. Flury lui consacra en 1922 une étude épigraphique publiée dans le *Journal of the Royal Asiatic Society*, 54(2), p. 257–264. Cette publication fournit une base critique plus solide que les récits promotionnels des brochures touristiques.
+
+L'année hégirienne est lunaire et ne correspond pas exactement à une année civile grégorienne. Selon la portion de l'année mentionnée et la méthode de conversion, une date peut recouvrir deux années du calendrier commun. La formule « 1107 » sert ici de convention historiographique reconnue, non de précision astronomique revendiquée à un jour près. Le témoignage permet de dater une fondation ou une construction commémorée ; il ne donne pas l'âge de tous les éléments reconstruits ensuite.
+
+## 04. Lire une inscription sans fabriquer sa transcription
+
+La notice d'Akshay Sarathi pour la *Database of Religious History* (2024) identifie dans le texte de fondation un commanditaire désigné comme Shaikh es-Saiyid Abu ʿImran Musa, fils d'al-Hasan, fils de Muhammad. La graphie peut varier selon le système de translittération des auteurs, l'état du relief et les lectures épigraphiques. Il serait imprudent de proposer ici une ligne arabe exacte non confrontée à la photographie, à la copie et à la discussion de Flury.
+
+Le nom de commanditaire renseigne une prétention à la mémoire et à l'autorité. Il ne prouve pas que le personnage ait été l'unique financeur de tous les travaux, ni qu'une population entière descendait de sa famille. Les titulatures honorifiques demandent une traduction contextualisée : *shaykh* peut relever de divers statuts. Les identités politiques, généalogiques et confessionnelles ne sont pas interchangeables. Une inscription de fondation représente un acte public et sa rhétorique autant qu'un énoncé factuel.
+
+## 05. Paléographie : ce qu'est le coufique monumental
+
+Le coufique est une catégorie d'écriture arabe associée notamment à des usages monumentaux et coraniques, avec des variations régionales et chronologiques importantes. Flury (1922) s'intéresse au coufique ornemental et aux relations stylistiques entre les régions du monde islamique. À Kizimkazi, l'étude des formes de lettres, des proportions et des décors doit être menée sans conclure que leur ressemblance avec des exemples iraniens démontre automatiquement la provenance du lapicide.
+
+Une histoire des écritures est distincte d'une histoire ethnique. Des modèles graphiques et des artisans peuvent circuler, mais une morphologie de lettre ne constitue pas un acte de naissance. La description scientifique devrait séparer la photographie du relief, la transcription diplomatique, les restitutions de caractères endommagés, la translittération et la traduction. Cette chaîne évite de transformer une inscription fragmentaire en citation reconstruite présentée comme authentique.
+
+## 06. Le texte coranique sur les murs : prescription et destination
+
+La notice de Sarathi (2024) signale, à côté de l'inscription de construction, des passages coraniques. Ils attestent le recours à une autorité scripturaire dans la présentation de l'édifice, mais une citation précise de ces versets devrait être établie à partir de l'édition épigraphique ou d'un relevé lisible. Ce dossier préfère ne pas inventer leur contenu. Parallèlement, le Coran 2:144, 5:6 et 62:9 permet de situer le rôle général de l'orientation, de la purification et de l'assemblée de prière.
+
+La différence entre inscription locale et citation normative est fondamentale. Le texte gravé appartient à l'histoire matérielle de Kizimkazi ; le verset coranique pris dans une édition moderne est un instrument pour comprendre les cadres de la pratique. Il ne s'agit pas de deux témoignages équivalents du même acte historique. Cette prudence protège la valeur du document original en le distinguant des lectures modernes qui pourraient lui être associées.
+
+## 07. L'hypothèse de l'implantation du XIIe siècle
+
+La présence de l'inscription de 500 H. et les données archéologiques indiquent l'existence d'un établissement musulman ancien, mais il faut discuter l'écart entre la date commémorée et les murs conservés. Certaines parties de la mosquée ont été reprises aux siècles suivants, parfois en incorporant des matériaux anciens. Les études architecturales attribuent généralement des éléments du mihrab et de la décoration à la phase ancienne, tandis que l'essentiel du bâti visible porte des modifications beaucoup plus tardives.
+
+Une restitution du premier plan devrait exploiter les fondations, les niveaux de sols et les traces de reprises, et afficher une marge d'incertitude. Il ne suffit pas de dessiner le bâtiment actuel en lui donnant l'apparence d'un monument du XIIe siècle. La datation d'une inscription est une preuve forte pour l'acte qu'elle enregistre ; la datation de la structure bâtie exige d'autres preuves. La conservation du monument requiert ces deux histoires distinctes.
+
+## 08. Sous la mosquée : l'occupation antérieure
+
+D'après la synthèse de Sarathi (2024) fondée notamment sur Chittick, l'édifice fut construit sur des structures plus anciennes en clayonnage et torchis. Cette observation implique l'existence de pratiques domestiques ou d'occupation antérieures au programme en pierre. Elle ne démontre pas une « religion préislamique » déterminée, pas plus qu'elle ne prouve que les bâtiments en terre avaient déjà une fonction de mosquée.
+
+Les transitions d'usage de l'espace peuvent être lentes. Un lieu habité peut être choisi pour sa proximité de l'eau, son accessibilité ou son statut social. L'hypothèse de la construction sur un habitat antérieur éclaire la continuité territoriale, mais ne permet pas de restituer les personnes déplacées ni les négociations foncières. Une histoire de la fondation doit s'abstenir de raconter un conflit rituel sans traces de violence ou témoignages textuels.
+
+## 09. Les fouilles de Neville Chittick
+
+Neville Chittick entreprit des sondages liés aux réparations de la fin des années 1950, dont les résultats furent présentés dans un rapport publié en 1962. La céramique de type *sgraffiato* fut mobilisée pour proposer une occupation importante autour des Xe–XIe siècles. Il s'agit d'une méthode de datation comparative par les productions et les contextes, non d'une date absolue pour chaque couche.
+
+Chittick proposa également des discontinuités d'occupation au cours du Moyen Âge tardif et de l'époque moderne. Ces reconstructions doivent être comparées aux nouvelles données, à l'évolution du bâti et aux traditions d'usage. Une période où des maisons ne sont plus occupées n'implique pas que le monument soit entièrement oublié ni que des visites rituelles aient cessé. Il faut séparer population permanente, maintenance du sanctuaire et fréquentation ponctuelle.
+
+## 10. Céramiques à engobe et *sgraffiato*
+
+La céramique *sgraffiato* est caractérisée par un décor incisé au travers d'un engobe, avant glaçure selon les traditions techniques. Dans le contexte du littoral swahili, certains types appartiennent à des circuits de circulation liés au monde islamique médiéval. Leur identification demande une étude précise des pâtes et des glaçures : plusieurs productions peuvent présenter des ressemblances visuelles sans partager une origine unique.
+
+Une pièce trouvée dans un niveau de Kizimkazi peut contribuer à la datation de ce niveau, mais sa date de fabrication et sa date de dépôt ne coïncident pas nécessairement. Il serait également impropre d'identifier une famille comme musulmane sur la seule présence d'une poterie importée. Le commerce porte des objets au-delà des frontières confessionnelles. L'interprétation religieuse exige un contexte de prière, une inscription, une sépulture ou d'autres indications propres.
+
+## 11. Le puits d'eau douce : technique, mémoire et hypothèses sacrées
+
+La mosquée se trouve près d'un puits ou d'une ressource d'eau douce dont la présence, dans une zone voisine de la mer, a pu jouer un rôle dans le choix de l'emplacement. Sarathi (2024) évoque l'hypothèse d'une valeur particulière attribuée à cette eau. Il faut distinguer le constat hydrographique de cette interprétation : la proximité d'un puits n'est pas une preuve de propriétés magiques revendiquées par les fondateurs.
+
+L'eau intervient dans les ablutions prescrites par les traditions islamiques. Le Coran 5:6 donne un cadre normatif utile ; il ne décrit pas les gestes précis accomplis au puits de Dimbani au XIIe siècle. La valeur sociale de l'eau douce peut tenir à plusieurs dimensions à la fois : survie, agriculture, hospitalité, entretien du bâtiment, préparation de la prière. Une monographie ne doit ni nier le sens religieux possible d'un dispositif pratique, ni le déclarer sacré sans témoignage.
+
+## 12. La qibla et le mihrab : géographie normative
+
+Le *miḥrāb*, niche du mur orienté vers la *qibla*, est un élément architectural permettant d'identifier les pratiques de prière. À Kizimkazi, le mihrab reçoit des inscriptions qui en font aussi un support documentaire. La direction rituelle vers la Kaaba relie localement un bâtiment africain au territoire symbolique de l'islam, mais cela ne rend pas les autres espaces de vie religieux au même degré.
+
+Un édifice peut être modifié sans perdre immédiatement sa direction principale. La comparaison des états architecturaux aide alors à mesurer les continuités et ruptures. Il convient de ne pas confondre précision contemporaine de l'azimut et précision technique médiévale. Toute discussion sur l'orientation exacte suppose des mesures actualisées et un contrôle des murs repris. Le signe religieux n'est pas une surface géométrique abstraite, mais un dispositif construit et entretenu.
+
+## 13. Plan, colonnes et pratiques d'assemblée
+
+Les descriptions architecturales évoquent une salle rectangulaire organisée par des supports intérieurs. La notice patrimoniale d'Andrew Petersen sur l'architecture islamique insiste sur une distribution où des colonnes rythment l'espace de prière. Il faut se rappeler que le bâti a été transformé : l'élévation aujourd'hui observée n'est pas entièrement celle de la phase médiévale. Un relevé architectural doit distinguer les supports anciens des remplacements.
+
+La disposition du bâtiment peut rendre possible une assemblée de fidèles, mais elle ne permet pas de déterminer les effectifs du vendredi, les modalités d'accès des enfants ou des femmes, ni la langue des sermons. Une même salle peut être utilisée différemment selon les périodes. La qualité de la description archéologique se mesure à sa capacité à séparer les contraintes spatiales observables des usages qui nécessitent des témoignages.
+
+## 14. Pierre de corail et savoir-faire locaux
+
+La côte swahilie dispose de matériaux calcaires coralliens employés dans de nombreux édifices médiévaux. Le choix de la pierre implique extraction, taille, transport, mortier, travailleurs qualifiés et gestion du chantier. La maçonnerie peut rendre une mosquée durable et visible, mais elle ne doit pas être considérée comme un indice automatique de fondation étrangère. Les sociétés africaines de l'océan Indien ont produit des traditions architecturales propres, tout en recevant et transformant des techniques.
+
+Le travail artisanal appartient pleinement à l'histoire du religieux. Chaque réparation suppose des décisions et une distribution de ressources, parfois soutenues par des donateurs identifiables, parfois non. Il serait imprudent d'inventer un maître maçon iranien sous prétexte que l'inscription est écrite en coufique ornemental. La circulation des modèles de lettres et celle des techniques de construction sont deux problèmes indépendants.
+
+## 15. La question dite « shirazie »
+
+Certaines traditions de la côte swahilie attribuent à des personnes venues de Shiraz l'origine de villes ou de monuments. Elles doivent être étudiées comme des constructions historiques susceptibles d'articuler prestige, mémoire et légitimité, non comme des actes d'état civil couvrant des populations entières. L'inscription de Kizimkazi donne des noms et une date, mais il faut éviter d'en déduire sans examen une généalogie iranienne de la totalité de la communauté.
+
+Cette réserve n'exclut pas les mobilités entre l'Iran, l'Arabie, l'Inde et l'Afrique de l'Est. Elle distingue simplement les preuves de circulation des biens, la diffusion des noms, les traditions orales et les données de parenté biologique. Une histoire africaine de l'islam peut inclure des migrants et des mariages transocéaniques tout en reconnaissant la capacité des communautés locales à construire leurs propres institutions.
+
+## 16. Une seconde inscription et la restauration moderne
+
+Une autre inscription est associée à une importante reprise du monument au XVIIIe siècle. Les descriptions secondaires la rapportent à l'année 1184 de l'hégire et l'associent couramment aux années 1770–1773. Les conversions affichées ne concordent pas toujours : 1184 H. se situe approximativement autour de 1770–1771, tandis que 1772–1773 peut correspondre à une autre conversion ou lecture. Ce dossier refuse de trancher cette divergence sans une nouvelle lecture critique de l'inscription.
+
+Il est donc préférable de retenir avec certitude relative deux niveaux : une fondation inscrite en 500 H. et une importante restauration au XVIIIe siècle, confirmée par une seconde inscription. Pour l'histoire du patrimoine, cette distinction est fondamentale : une restauration est elle-même un acte religieux et social, et non la preuve que l'édifice serait resté matériellement identique. L'histoire du sanctuaire doit inclure les réparations, les choix de décor et les réorganisations de la fréquentation.
+
+## 17. Reconstruire sans effacer : la question de l'authenticité
+
+Le monument d'aujourd'hui est à la fois la continuité d'un lieu médiéval et le résultat de travaux ultérieurs. L'authenticité ne peut donc être réduite à la quantité de pierre encore datée du XIIe siècle. Une inscription conservée, une orientation maintenue, une salle reconstruite et un usage contemporain sont autant de dimensions différentes de la continuité. Elles ne se prouvent pas mutuellement.
+
+En archéologie du bâti, la conservation des joints, des reprises et des matériaux originaux permet de documenter les décisions de générations distinctes. Il serait préjudiciable d'enlever mécaniquement les états récents pour donner à l'édifice un faux visage médiéval. La restauration doit respecter la lisibilité des phases. La valeur religieuse contemporaine peut légitimement reposer sur l'usage d'un ensemble remanié plutôt que sur la préservation intégrale d'un état initial.
+
+## 18. L'abandon apparent du XIVe au XVIIIe siècle
+
+Chittick a interprété certains horizons comme indiquant une interruption ou forte diminution de l'occupation de l'établissement entre la fin du Moyen Âge et la restauration moderne. Cette proposition mérite d'être conservée sous forme d'hypothèse archéologique, non de certitude sur l'absence de toute pratique cultuelle. Les lacunes de dépôts peuvent résulter de destructions, de reprises de sols, d'une réutilisation de matériaux ou d'un changement de quartier.
+
+Un sanctuaire ne cesse pas nécessairement d'être mémorisé lorsqu'il n'abrite plus une population dense. À l'inverse, une restauration documentée au XVIIIe siècle ne prouve pas une série ininterrompue de sermons depuis l'année 500 H. L'histoire des usages exige des sources propres à chaque période. Cette prudence prévient un récit artificiel de continuité parfaite qui effacerait les crises, les déplacements et les interventions des habitants.
+
+## 19. Les sépultures : treize découvertes récemment signalées
+
+La notice publiée par Akshay Sarathi en 2024 indique qu'une campagne menée en 2018 a permis d'excaver treize inhumations ainsi que des objets et vestiges biologiques. Il précise cependant que le compte rendu scientifique exhaustif de ces fouilles n'était pas publié à la date de sa notice. Ce bilan doit donc être traité comme une information préliminaire à confirmer par un rapport stratigraphique intégral, et non comme une autorisation d'attribuer des dates, identités ou pratiques à chacune des tombes.
+
+Une sépulture renseigne la place des morts dans l'espace d'un établissement. Pour décrire une pratique musulmane, il faut examiner orientation du corps, position, stratigraphie, structures et relations avec le monument. Une communauté peut avoir des usages funéraires variés et les conditions de conservation peuvent biaiser l'échantillon. L'existence de treize tombes fouillées ne permet pas de calculer la population médiévale ni de produire une généalogie de personnages nommés.
+
+## 20. Les tombes visibles et la pluralité des mémoires
+
+Des sépultures monumentales entourent ou voisinent l'édifice. Leurs dates, leurs inscriptions éventuelles et leurs niveaux de construction doivent être examinés séparément. Certaines peuvent appartenir à des phases relativement récentes. La présence de monuments funéraires signale un investissement dans la mémoire des morts, mais ne démontre ni le rang de tous les défunts ni une doctrine précise de l'intercession.
+
+L'histoire comparée des sanctuaires doit distinguer commémoration, visite de tombes, prière pour les défunts et culte rendu aux ancêtres. Ces formes ne sont pas synonymes et ne se transposent pas automatiquement d'une société à une autre. Les traditions musulmanes possèdent leurs débats propres sur les sépultures et les usages à leur proximité. Une archéologie honnête indique d'abord ce qui est bâti et daté, puis confronte les hypothèses liturgiques aux sources appropriées.
+
+## 21. Mobilité des objets : verre, céramique et perles
+
+Les recherches anciennes et la notice de 2024 signalent des céramiques locales et importées, des perles de coquillage et de verre, et des restes fauniques et botaniques. Ces matériaux sont importants pour comprendre le peuplement et les relations de l'île. Mais la provenance d'un objet n'est pas une signature religieuse. Une perle asiatique peut avoir traversé plusieurs marchés avant d'être portée à Dimbani et une céramique islamique peut être utilisée par une personne de confession inconnue.
+
+L'analyse des objets devrait mettre l'accent sur leurs contextes : niveaux domestiques, fondations, dépôts près d'une tombe, remblais de restauration. Sans ces distinctions, l'histoire des échanges remplace abusivement l'histoire des pratiques. Les techniques modernes d'archéométrie peuvent proposer des provenances, mais non reconstituer le trajet personnel d'un vase ou les croyances de son dernier utilisateur.
+
+## 22. Les restes fauniques : aucune conversion automatique en régime religieux
+
+L'étude zoologique des sites portuaires africains aide à comprendre la pêche, l'élevage et la consommation de ressources littorales. À Kizimkazi, les restes fauniques signalés dans le compte rendu de Sarathi demandent une publication détaillée avant des conclusions sur l'alimentation des différentes phases. L'absence d'une espèce dans un petit sondage peut résulter de facteurs d'échantillonnage ; sa présence éventuelle dans une couche remaniée ne prouve pas la consommation à une date donnée.
+
+Des textes islamiques comportent des prescriptions alimentaires, mais celles-ci ne doivent pas servir de raccourci archéologique. Il faut identifier l'espèce, les traces de découpe, les lieux de rejet et la chronologie. On ne peut déduire que toute la population partageait un même régime alimentaire du seul fait qu'une mosquée était présente. L'enquête doit être ouverte à la pluralité des pratiques, des visiteurs et des usages du sol.
+
+## 23. La vie communautaire actuelle : une source à part entière
+
+La mosquée reste un lieu de pratique religieuse. Maximilian F. Chami (2017) a étudié les difficultés propres à la gestion d'un patrimoine religieux vivant, en mobilisant notamment des entretiens avec les membres de la communauté locale et les responsables des antiquités. La valeur du lieu ne s'épuise pas dans sa fonction de monument visitable : il constitue un espace de prière, de sociabilité et d'identification collective.
+
+Les témoignages recueillis aujourd'hui sont des sources primaires pour les pratiques et représentations contemporaines. Ils ne sont pas automatiquement des sources primaires pour le XIIe siècle. Cette distinction évite deux erreurs opposées : disqualifier la mémoire des habitants comme non scientifique, ou la traiter comme une transmission inaltérée de neuf siècles. Une bonne enquête explique comment une communauté présente fabrique son rapport au passé.
+
+## 24. Tourisme et tensions entre exposition et dévotion
+
+Chami (2017) décrit les tensions produites par l'accueil des visiteurs, les demandes de conservation et les pratiques des fidèles. Les espaces de prière ne sont pas des musées ordinaires. Les horaires, l'habillement, la photographie des personnes et l'accès à certaines parties du bâtiment nécessitent des règles discutées avec les responsables locaux. L'intérêt scientifique ne justifie pas de faire disparaître les usages religieux encore en cours.
+
+La fréquentation touristique peut soutenir l'entretien et la visibilité patrimoniale, mais aussi provoquer des dégradations ou des conflits d'usage. Un plan de gestion doit organiser les flux, les interventions matérielles, l'information des visiteurs et la participation des habitants. Ce problème n'est pas secondaire par rapport à l'épigraphie : la survie future des inscriptions et des murs dépend en partie des institutions chargées de maintenir le monument.
+
+## 25. L'État, la communauté et les compétences de conservation
+
+La gestion patrimoniale de Kizimkazi relève de dispositifs administratifs et de relations avec la communauté musulmane locale. Sarathi (2024) rappelle le rôle du Département des musées et des antiquités du gouvernement de Zanzibar. Le partage des responsabilités doit être documenté en fonction des pratiques administratives effectives et non imaginé comme une opposition binaire entre croyants et État.
+
+Un plan de conservation doit enregistrer qui décide, qui finance, qui entretient, qui a accès aux relevés archéologiques et qui peut autoriser une intervention. Les règlements patrimoniaux peuvent protéger les inscriptions et structures, tandis que les fidèles préservent la continuité des gestes religieux. Les deux dimensions demandent un dialogue explicite. La protection d'un édifice vivant ne peut être obtenue par une simple fermeture à toutes les activités.
+
+## 26. Les effets de l'humidité, des matériaux et du climat
+
+La proximité marine impose des contraintes liées aux sels, à l'humidité, aux variations de température et à l'entretien des enduits. Chami et Sarathi signalent les difficultés contemporaines de conservation, notamment la pression touristique et le changement climatique. Pour diagnostiquer les dégradations, il faudrait distinguer les phénomènes documentés sur place des risques généraux des bâtiments côtiers. Une explication géophysique ne doit pas être avancée sans relevés.
+
+Il est particulièrement important de préserver les inscriptions et de contrôler l'emploi de matériaux de réparation compatibles avec la maçonnerie corallienne. Une intervention mal adaptée peut compromettre les surfaces les plus précieuses. Les comparaisons avec d'autres sites du littoral aident à identifier des solutions, mais les caractéristiques spécifiques de Kizimkazi doivent primer. Le caractère sacré du lieu exige aussi un calendrier d'interventions compatible avec la pratique religieuse.
+
+## 27. La mosquée comme institution et non simple objet de pierre
+
+Un édifice religieux comporte un ensemble de relations humaines : financement, entretien, enseignement, appel et organisation de la prière, accueil, transmission des règles et prise de décision. Les inscriptions de construction et de restauration indiquent que certains acteurs ont souhaité laisser une trace de ces relations. Elles ne décrivent pourtant pas la totalité des institutions qui animaient le site au XIIe siècle ou au XVIIIe.
+
+Il faut distinguer fondation monumentale, communauté de pratiquants et autorité religieuse. Un fondateur inscrit peut jouer un rôle de patronage sans détenir une souveraineté politique sur tout le territoire ; une communauté peut continuer d'utiliser un lieu après transformation de son bâti ; un édifice réaménagé peut préserver la mémoire d'un ancien commanditaire. L'approche institutionnelle enrichit l'épigraphie sans l'étirer au-delà de son contenu.
+
+## 28. Anthropologie des rites : orienter, purifier, se rassembler
+
+Les gestes de la prière musulmane articulent orientation, purification et rassemblement. La mosquée de Kizimkazi en porte les conditions spatiales, mais les traces matérielles ne disent pas comment chaque génération y accomplissait les gestes. L'histoire doit confronter les textes normatifs, les espaces architecturaux et les usages recueillis par enquête, en déclarant les lacunes entre les époques.
+
+Une caractéristique intéressante d'un lieu de culte vivant est qu'il rend visibles des séquences temporelles différentes dans le même espace. Les fidèles actuels prient à proximité de reliefs inscrits des siècles auparavant ; cette cohabitation constitue un rapport contemporain au passé, sans garantir la répétition exacte des pratiques médiévales. La continuité est aussi une réinterprétation.
+
+## 29. Durkheim et la communauté : hypothèse sociologique
+
+Durkheim étudie dans *Les Formes élémentaires de la vie religieuse* (1912) la manière dont les pratiques collectives contribuent à instituer des appartenances. Kizimkazi offre un exemple d'édifice dont la conservation dépend de plusieurs générations et d'acteurs divers. Mais on ne peut identifier une « conscience collective » ancienne à partir des seules inscriptions. Les conflits entre usages rituels et touristiques montrent que la communauté n'est pas une totalité sans différenciation.
+
+La réflexion sociologique permet d'observer la responsabilité partagée, les collectes et les rencontres autour du bâtiment, tout en respectant les croyances comme telles. Réduire le sanctuaire à un mécanisme social effacerait la référence à Dieu et aux prescriptions qui donnent leur sens aux gestes. L'analyse privilégie donc un dialogue entre sociologie des institutions et histoire des pratiques.
+
+## 30. Eliade : la hiérophanie et le problème des restaurations
+
+La phénoménologie du sacré d'Eliade distingue des espaces qualitativement valorisés et des lieux ordinaires. Le mihrab, les versets gravés et la proximité du puits pourraient nourrir une réflexion sur la différenciation religieuse du site. Il serait toutefois injustifié de parler d'une hiérophanie ancienne attestée à propos de l'eau du puits : cette attribution n'est, au mieux, qu'une hypothèse moderne.
+
+Le dossier montre également les limites d'une conception intemporelle de l'espace sacré. La salle a changé, les inscriptions ont été conservées ou réinterprétées, des travaux modernes ont modifié les accès. La valeur religieuse ne dépend pas de l'immobilité absolue des pierres. Une histoire du sacré doit faire place à la temporalité sans effacer les expériences croyantes.
+
+## 31. Vernant et Detienne : comparaison avec l'inscription civique grecque
+
+Les inscriptions de fondation, décrets et dédicaces dans les cités grecques peuvent constituer des comparaisons méthodologiques avec Kizimkazi : un acte est rendu public par l'écriture monumentale et contribue à légitimer une décision ou un don. Mais la mosquée ne se confond pas avec le *temenos* grec et son organisation rituelle ne relève pas du sacrifice civique analysé par Vernant et Detienne.
+
+L'analogie consiste à demander comment une communauté stabilise dans la pierre un acte fondateur, puis réactive sa mémoire. Elle cesse d'être pertinente si elle efface les différences de théologie, d'écritures, d'institutions et de normes. Comparer les fonctions sociales d'inscriptions ne permet pas de postuler une filiation historique entre Kizimkazi et une cité grecque.
+
+## 32. Égypte et Mésopotamie : temporalité des fondations écrites
+
+Les textes de dédicace et les inscriptions de restauration de temples de l'Égypte et de la Mésopotamie antiques offrent des comparaisons sur la manière de dater et d'attribuer des travaux. On peut y examiner une question commune : qui a l'autorité pour dire qu'un lieu a été fondé ou réparé ? Mais les contenus doctrinaux, les calendriers et les institutions sont différents. La date hégirienne de Kizimkazi relève d'un ordre chronologique propre à l'islam.
+
+Une comparaison rigoureuse distingue document matériel, récit de fondation et état du bâtiment. La présence de noms et d'années dans la pierre ne rend pas le monument imperméable aux remaniements. Les archives royales égyptiennes ou les inscriptions mésopotamiennes ne permettent pas de combler les lacunes de Zanzibar ; elles invitent seulement à prendre la rhétorique de la restauration au sérieux comme acte social.
+
+## 33. Iran et Inde : styles et mobilités, non preuve ethnique
+
+La calligraphie coufique ornementale de Kizimkazi peut être rapprochée d'évolutions observées dans plusieurs régions de l'islam, y compris à l'est de la Méditerranée et dans le monde iranien. Flury soulignait déjà la variété des formes et la nécessité d'élargir la comparaison. Ce rapprochement concerne des styles graphiques ; il ne démontre pas qu'un atelier iranien spécifique ait taillé l'inscription à Zanzibar.
+
+De même, la présence d'objets importés d'Asie ne fournit pas la confession de leurs propriétaires. Les traditions liées aux « Shirazi » doivent être traitées avec leur contexte de fabrication de la mémoire. Le comparatisme doit rester multi-scalaire : provenance d'une céramique, diffusion d'un alphabet et généalogie familiale sont des problèmes distincts. Leur confusion a longtemps favorisé des récits d'origine trop simplifiés.
+
+## 34. La Chine et les réseaux maritimes comme problème indirect
+
+L'océan Indien connecte les ports de la côte swahilie à des circuits qui atteignent, par étapes, l'Asie du Sud et la Chine. Cela forme l'arrière-plan économique de communautés comme celle de Kizimkazi, sans permettre de déduire qu'un bâtiment précis fut financé par des marchands chinois. Les objets attestés dans les fouilles doivent être individualisés par couche et par période avant toute proposition de circulation.
+
+Le commerce peut enrichir un commanditaire religieux, fournir de nouveaux matériaux et modifier le prestige social d'une famille ; aucune de ces possibilités ne devient un fait sans données locales. La recherche doit donc combiner l'histoire de l'océan Indien avec l'épigraphie de la mosquée plutôt que de substituer la première à la seconde.
+
+## 35. Nietzsche, Hegel et Girard : des instruments critiques, pas des archives
+
+Une lecture hégélienne superficielle pourrait raconter Kizimkazi comme passage nécessaire d'une architecture « primitive » à un temple monumental, puis à un patrimoine moderne. Cette téléologie nierait la valeur propre des phases de terre et bois ainsi que la créativité des restaurations. Les questions généalogiques associées à Nietzsche incitent à examiner les valeurs qui gouvernent l'écriture de l'histoire coloniale ; elles ne donnent aucune information sur l'intention de l'artisan du XIIe siècle.
+
+La théorie girardienne du sacré et de la violence n'autorise pas à inventer un sacrifice fondateur ou un bouc émissaire autour des sépultures. Aucun élément du corpus discuté ne justifie une telle narration. L'utilité des cadres philosophiques est de rendre explicites les présupposés, non de remplacer les inscriptions et sondages par un drame universel pré-écrit.
+
+## 36. Dumézil et la nécessité de respecter les corpus
+
+Les reconstructions de Dumézil concernent des traditions indo-européennes identifiées ; il serait méthodologiquement erroné d'organiser automatiquement Kizimkazi autour d'une tripartition « prêtres, guerriers, producteurs ». Les matériaux évoquent des donateurs, des artisans, des fidèles, des habitants et des responsables du patrimoine, sans que cela témoigne d'un système idéologique trifonctionnel médiéval.
+
+Le comparatisme scientifique cherche des correspondances précisément définies entre sources indépendantes. Là où la documentation manque, il accepte le silence. En histoire africaine, cette discipline critique est essentielle pour éviter l'importation de catégories élaborées sur d'autres continents et l'effacement des traditions locales.
+
+## 37. L'interprétation de la continuité : plusieurs chronologies
+
+Trois chronologies doivent être distinguées. La première est celle de l'occupation du lieu, commencée avant la construction médiévale d'après les sondages ; la deuxième celle de l'architecture et de ses inscriptions, notamment le jalon de 500 H. et la reprise du XVIIIe siècle ; la troisième celle de la pratique religieuse et du patrimoine vivant, observée plus directement à l'époque contemporaine. Ces séries peuvent se recouper sans coïncider.
+
+L'affirmation « utilisée sans interruption depuis 1107 » serait excessivement précise sans archives couvrant tous les siècles. À l'inverse, une interruption de l'occupation résidentielle ne signifie pas l'oubli total de la mosquée. L'histoire gagne à décrire des rythmes multiples : ruine partielle, fréquentation ponctuelle, restauration, reprise communautaire et conservation institutionnelle.
+
+## 38. Faits, controverses, hypothèses : contrôle final
+
+**Faits attestés :** édifice de culte à Dimbani ; inscription coufique datée de l'année 500 H. ; restauration du XVIIIe siècle documentée par une inscription distincte ; études épigraphiques et campagnes de fouilles historiques ; présence d'un puits voisin ; statut de lieu de prière contemporain ; recherche de gestion patrimoniale auprès de la communauté.
+
+**Interprétations révisables :** localisation exacte des composantes anciennes dans les murs actuels ; étendue de l'occupation aux Xe–XIe siècles ; périodes d'abandon ; fonction éventuelle du puits dans le choix initial ; détails de la mémoire des commanditaires. **Non établi :** origine ethnique certaine de toute la population à partir du coufique, origine « magique » attestée de l'eau, biographie complète du fondateur, continuité liturgique annuelle depuis 500 H., datation et identité individuelle de toutes les tombes non publiées.
+
+## 39. Propositions de conservation et de recherche
+
+Un programme intégré devrait comprendre une couverture photographique haute résolution des inscriptions, une lecture épigraphique révisée avec translittération et traduction, un relevé architectural des phases, une documentation des matériaux et des enduits, la publication stratigraphique des fouilles de 2018 et une chronologie des interventions récentes. Ces priorités ne justifient pas de réouvrir des sépultures sans nécessité, autorisation et concertation.
+
+L'architecture en usage exige un protocole de circulation et de protection compatible avec la prière. Les autorités du patrimoine et les habitants doivent disposer des résultats et participer aux décisions. Les restaurations futures devraient être réversibles lorsque possible et distinguer les maçonneries de phases différentes. Une représentation numérique ou photoréaliste devrait afficher ce qui est observé et ce qui n'est qu'hypothèse.
+
+## 40. Conclusion : le sacré comme mémoire réparée
+
+Kizimkazi Dimbani oblige à renoncer à une vision de la fondation comme événement unique garantissant l'immobilité d'un sanctuaire. Une inscription médiévale, des occupations antérieures, un bâtiment plusieurs fois modifié, des sépultures et une communauté contemporaine constituent une histoire stratifiée. Le sacré est ici à la fois celui d'une prescription religieuse, d'un lieu bâti et d'une mémoire dont les acteurs successifs n'ont pas nécessairement donné la même interprétation.
+
+Sa contribution à l'encyclopédie MYTHOS est méthodologique : les lettres gravées peuvent fixer une date ou un nom, mais les murs continuent de changer ; les fouilles peuvent révéler des transformations, mais elles ne restituent pas toutes les pratiques ; les enquêtes contemporaines éclairent les usages vivants sans se substituer aux archives médiévales. Respecter ces différences rend l'histoire du religieux plus exacte, plus comparative et plus attentive à ceux qui entretiennent aujourd'hui le monument.
+## Sources primaires, éditions et archives matérielles
+
+1. **Inscription coufique de fondation dans la mosquée de Kizimkazi Dimbani**, datée de l'année 500 de l'hégire : objet épigraphique local. L'édition et l'analyse historique de référence sont S. Flury (1922), *Journal of the Royal Asiatic Society*, 54(2), 257–264. https://doi.org/10.1017/S0035869X00150270. Aucune transcription diplomatique intégrale non vérifiée n'est inventée dans ce manuscrit.
+2. **Inscription de restauration de l'époque moderne**, signalée et examinée dans les descriptions épigraphiques et architecturales : la concordance exacte des années hégirienne et grégorienne est à contrôler sur le support, avant republication d'une conversion certaine.
+3. **Rapport de fouilles de Chittick** : Neville Chittick, « Preliminary Report on the Excavations at Kizimkazi Dimbani, Zanzibar », *Annual Report for 1960*, Division of Antiquities, Tanganyika, Government Printer, 1962. Archive d'observations de terrain, à contextualiser dans l'histoire de l'archéologie.
+4. **Fouilles de 2018** : bilan provisoire donné par Akshay Sarathi dans la *Database of Religious History* (2024), mentionnant treize inhumations ainsi que des objets locaux et importés. À la date de cette notice, le rapport intégral de fouille n'y est pas signalé comme publié ; aucune date non publiée n'est attribuée aux sépultures.
+5. **Coran**, 2:144, 5:6, 9:18 et 62:9, passages normatifs pour l'orientation, la purification, les lieux de prière et l'assemblée ; pour les traductions et références par sourate/verset : https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/9/18 ; https://quran.com/62/9. Leur emploi n'implique pas qu'ils aient été précisément gravés à Kizimkazi.
+6. **Sources orales et usages contemporains** : entretiens de la recherche sur le patrimoine vivant menée par Maximilian F. Chami (2017). Témoignages sur la gestion actuelle, sans postuler de continuité mémorielle inaltérée depuis le XIIe siècle.
+
+## Bibliographie scientifique vérifiée
+
+- Flury, S. (1922), « The Kufic Inscriptions of Kisimkazi Mosque, Zanzibar, 500 H. (A.D. 1107) », *Journal of the Royal Asiatic Society*, 54(2), p. 257–264. https://doi.org/10.1017/S0035869X00150270.
+- Sarathi, Akshay (2024), « Kizimkazi Dimbani Mosque, Zanzibar », *Database of Religious History* (Université de la Colombie-Britannique / archive Zenodo). https://doi.org/10.5281/zenodo.12574376.
+- Chittick, Neville (1962), « Preliminary Report on the Excavations at Kizimkazi Dimbani, Zanzibar », *Annual Report for 1960*, Division of Antiquities, Tanganyika, Government Printer, Dar es Salaam. Référence secondaire recensée dans Sarathi (2024).
+- Chami, Maximilian F. (2017), « Management of Religious Heritage in Tanzania: A Case Study of Kizimkazi Mosque on Zanzibar Island », *The Annual Review of Islam in Africa*, 14, p. 67–76. Sommaire institutionnel : https://humanities.uct.ac.za/contemporary-islam/publications-annual-review-islam-africa-overview/2017.
+- Garlake, Peter S. (1966), *The Early Islamic Architecture of the East African Coast*, British Institute of History and Archaeology in East Africa, mémoire 1, Oxford University Press. Notice bibliographique : https://www.si.edu/object/siris_sil_269766.
+- Petersen, Andrew (1996), *Dictionary of Islamic Architecture*, Routledge. Utiliser les notices architecturales avec prudence pour distinguer parties anciennes et restaurations.
+- Wynne-Jones, Stephanie et Adria LaViolette (dir.) (2018), *The Swahili World*, Routledge. Référence comparative sur les sociétés, les architectures et les réseaux de la côte swahilie.
+- Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse* ; Eliade, Mircea (1957), *Le Sacré et le Profane* ; Detienne, Marcel et Jean-Pierre Vernant (dir.) (1979), *La Cuisine du sacrifice en pays grec* ; Girard, René (1972), *La Violence et le sacré*. Références théoriques, non sources sur l'histoire locale de Kizimkazi.
+
+## Concordance des certitudes
+
+La fondation inscrite, les reprises postérieures et les usages contemporains sont trois dimensions distinctes du même site. La date gravée est citée comme un fait épigraphique, tandis que les raisons du choix d'implantation, la fonction religieuse attribuée au puits, la continuité exacte des usages, la généalogie des fondateurs et les informations issues de campagnes non publiées sont présentées avec les réserves nécessaires. Cette distinction est maintenue dans toute republication et tout renvoi encyclopédique.
