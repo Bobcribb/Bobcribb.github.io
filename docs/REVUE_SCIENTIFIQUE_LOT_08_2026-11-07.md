@@ -100,3 +100,44 @@ Les corrections ci-dessous complètent les annotations déjà présentes, sans t
 - **Conservation :** les huit manuscrits originaux présents sur `main` au SHA `b9fa5f4c98a19497415524e6ca4495ef7dc85fe3` ont chacun le même Git blob SHA que sur le point de départ `e7d2107bb47166e0264838a8add2598b682d2219`. La branche de cette PR conserve chaque original **en préfixe intégral** des huit textes annotés.
 
 **Statut :** relecture encore ouverte ; ne pas interpréter la disponibilité numérique ou la réussite de tests comme une collation exhaustive, une expertise institutionnelle ou une publication sur `bobmythos.fr`. **Ne pas fusionner, ne pas publier, ne pas renuméroter, ne pas modifier les automatisations.**
+
+
+## Addendum scientifique — 7 novembre 2026, version 4 : collation directe des passages d'Ozbek et Olson
+
+### Sophocle, *Niobé* : références collationnées
+
+**Ouvrage intégral consulté sur pages ciblées :** Leyla Ozbek, *Sofocle, Niobe. Introduzione, testo critico, commento e traduzione*, Edizioni Ca' Foscari, 2023, [PDF officiel en accès libre](https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-738-8/978-88-6969-738-8_xdnWng4.pdf), DOI [10.30687/978-88-6969-710-4](https://doi.org/10.30687/978-88-6969-710-4). La p. 170 de ce PDF a été contrôlée dans sa présentation originale, pas seulement par résumé bibliographique. Elle fournit les concordances suivantes (il s'agit des numéros **de fragments antiques**, pas des numéros éditoriaux MYTHOS) :
+
+| Ozbek (2023) | Radt / *TrGF* | Statut dans Ozbek |
+|---|---|---|
+| Test. 1 | *TrGF* III, p. 575–576 | Témoignage |
+| Test. 2 | *TrGF* IV, p. 363 | Témoignage |
+| Test. 3 | 446 | Témoignage (et non fragment dramatique) |
+| Test. 4 | 451 | Témoignage (et non fragment dramatique) |
+| Fr. 1 | *TrGF* III, p. 575–576 | Fragment |
+| Fr. 2 | 443 | Fragment |
+| Fr. 3 | 448 | Fragment |
+| Fr. 4 | 441a | Fragment |
+| Fr. 5 | 445 | Fragment |
+| Fr. 6 | 442 | Fragment |
+| Fr. 7 | 444 | Fragment |
+| Fr. 8 | 445a | Fragment |
+| Fr. 9 | 447 | Fragment |
+| Fr. 10 | 449 | Fragment |
+| Fr. 11 | 450 | Fragment |
+
+**Papyrologie (Ozbek, p. 15–19) :** P.Grenf. II 6(a) + P.Hibeh I 11 proviennent du même rouleau, daté par prudence du IIIe siècle av. J.-C. ; TM 62769, British Library Papyrus 690 A et Bodleian MS. Gr. class. g. 54 (P). P.Oxy. LII 3653, TM 62745, est distinct, daté du milieu du IIe siècle apr. J.-C. ; il transmet plusieurs *hypotheseis* de tragédies, non la totalité du texte dialogué de *Niobé*. L'édition Ozbek est **directement examinée pour ces sections**, mais *TrGF* III–IV n'a pas été collationné indépendamment : ne pas annoncer une confrontation exhaustive des variantes.
+
+### Eupolis, *Dēmoi* : dossier de datation
+
+**Édition critique consultée sur passages ciblés :** S. Douglas Olson, *Fragmenta Comica* 8.1 (2017), [p. 305](https://digi.hadw-bw.de/view/frc8_1/0309), [p. 306](https://digi.hadw-bw.de/view/frc8_1/0310), [p. 307](https://digi.hadw-bw.de/view/frc8_1/0311). Aux vers **fr. 99.12–14**, la présence des habitants des Longs Murs ne fournit pas, à elle seule, un *terminus post quem* 413 av. J.-C. Aux vers **fr. 99.81–89**, l'allusion proposée aux accusations de 415 est interprétative et disputée. Olson considère que l'ensemble des indices favorise **412 av. J.-C.** contre **417/416** (Storey) et **410** (Telò–Porciani) : divergence à conserver.
+
+**Article indépendant contrôlé au niveau du résumé académique seulement :** S. Douglas Olson, « On the date of Eupolis' *Demes* and the political events of 412 BC », *Polis* **34/2 (2017), p. 422–431**, DOI [10.1163/20512996-12340135](https://doi.org/10.1163/20512996-12340135), [référentiel de l'Université du Minnesota](https://experts.umn.edu/en/publications/on-the-date-of-eupolis-demes-and-the-political-events-of-412-bc/). Le texte intégral de cet article ainsi que Storey, PCG V et Fournet 1999 restent **à consulter**.
+
+### Incidence éditoriale et limites
+
+- **Rien n'est renuméroté** : les numéros d'Ozbek et de Radt sont des cotes philologiques présentées en concordance, et non des identifiants de volumes MYTHOS.
+- Les corrections du lot se limitent à des notes finales traçables, sans altération du texte universitaire d'origine.
+- La vérification du WebP d'Aphaia sur GitHub reste indépendante de sa disponibilité publique ; les requêtes HTTPS depuis cette session ne permettent pas de confirmer l'accès au domaine public, donc **statut public non vérifié**.
+- Après tout nouveau commit sur la PR, les validations GitHub Actions doivent être reconfirmées **sur le nouveau SHA** ; un test réussi antérieurement ne vaut pas validation automatique.
+- Cette mise à jour ne constitue ni une expertise externe de MYTHOS ni une autorisation de fusion, de publication, de renumérotation ou de modification des automatisations.
