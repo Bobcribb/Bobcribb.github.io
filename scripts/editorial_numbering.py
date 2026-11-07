@@ -90,7 +90,22 @@ def scan(root):
                 raise ValueError(f'Numéro du titre différent du chemin : {path}')
             subject = next((h for h in headings if not re.search(r'MYTHOS|^Volume\s+[IVXLCDM]',h,re.I)), headings[-1] if headings else path.stem)
             subject = re.sub(r'^Volume\s+[IVXLCDM]+(?:\s*\(\d+\))?\s*[—:–-]\s*', '', subject, flags=re.I)
-            subject = re.sub(r'[*_`]', '', subject)
+            subject = re.sub(r'[*_`]', '', subject).strip()
+            if kind == 'Chapitre':
+                # The manuscript may already title its first heading
+                # "Chapitre 433 — Athéna Lindia". The canonical index adds
+                # that same number: strip only a matching source prefix.
+                source_heading = subject
+                subject = re.sub(
+                    r'^Chapitre\s+' + str(number) + r'\b(?:\s*[—:–-]\s*|\s*$)',
+                    '', subject, count=1, flags=re.I).strip()
+                if not subject:
+                    # A number-only h1 can be followed by a scientific h2.
+                    subject = next((re.sub(r'[*_`]', '', h).strip()
+                                    for h in headings if h != source_heading
+                                    and not re.match(
+                                        r'^(?:Chapitre\s+\d+\b|Résumé\b|Abstract\b|MYTHOS\b)', h, re.I)),
+                                   source_heading)
             label = f'{kind} {number}' if kind == 'Chapitre' else f'{kind} {roman(number)} ({number})'
             result[collection].append({'number':number,'url':url,'title':label+' — '+subject,'source':path.relative_to(root).as_posix()})
     for items in result.values():
