@@ -1,0 +1,393 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CLI (151)
+
+## Timoclès, *Orestautokleidès* (Ὀρεσταυτοκλείδης) : les Érinyes, les hétaïres, la justice et la politique des identités sur la scène comique
+
+**Monographie universitaire originale en français.** Comédie moyenne athénienne du IVe siècle av. J.-C. ; transmission fragmentaire, poétique de la paratragédie, identité des personnes nommées, usages de l'Orestie d'Eschyle, économie et représentations des hétaïres, lexicographie des tribunaux, histoire du droit, philosophie de la reconnaissance et critique des lectures modernes.
+
+**État de l'œuvre :** comédie perdue ; deux fragments ou témoignages associés à cette pièce dans l'édition de Kassel–Austin (*Poetae Comici Graeci*, VII, Timoclès, frr. 27–28). Le premier est une courte citation en vers transmise par Athénée ; le second consiste en la mention d'un terme de procédure dans un lexique, sans vers complet conservé. Il n'existe ni manuscrit continu, ni hypothésis antique conservée, ni distribution certaine, ni date de concours assurée. La comparaison avec les *Euménides* est fortement motivée, mais **aucune intrigue complète n'est attestée**.
+
+**Discipline de lecture :** [A] fait textuel, fragment, témoignage ou donnée explicitement documentée ; [B] interprétation moderne, restitution vraisemblable, hypothèse ou confrontation conceptuelle ; [C] scène dramatique **écrite aujourd'hui**, qui n'est jamais présentée comme un fragment grec ni comme une reconstitution historiquement prouvée. Les trois catégories restent séparées.
+
+---
+
+### 1. [A] Délimitation du dossier : ce que nous possédons réellement
+
+Le titre grec Ὀρεσταυτοκλείδης est une construction comique associant deux noms, Oreste et Autocléidès. Athénée de Naucratis l'attribue à Timoclès au livre XIII des *Deipnosophistes*, 567e, avant de rapporter un bref tableau de vieilles femmes endormies autour d'un homme misérable. L'édition de référence est R. Kassel et C. Austin, *Poetae Comici Graeci*, VII (1989), Timoclès fr. 27. Le fragment 28 dépend d'Harpocration, entrée Παράβυστον, où la pièce est nommée comme exemple de l'emploi d'un nom de tribunal athénien. Ces deux pièces à conviction sont d'étendue et de nature radicalement différentes. Leur regroupement sous un même titre n'autorise pas à fabriquer une suite entre elles.
+
+La comédie n'est pas la tragédie *Oreste* d'Euripide, les *Euménides* d'Eschyle ou une pièce perdue intitulée simplement *Oreste*. Dans la *Souda*, τ 623, figure une tradition dont la désignation est problématique ; l'édition critique moderne restitue le titre composé transmis par Athénée. La consultation des apparats importe précisément parce qu'une erreur dans un catalogue tardif peut transformer artificiellement deux œuvres en une seule ou, inversement, les séparer.
+
+**Référence contrôlée :** K. Apostolakēs, *Timokles: Translation and Commentary*, *Fragmenta Comica* 21 (Göttingen, 2019), p. 203–210, édition numérisée par la Heidelberger Akademie der Wissenschaften et la bibliothèque de Heidelberg : https://digi.hadw-bw.de/view/frc21/0207.
+
+### 2. [A] Le fragment 27 : citation antique et milieu de conservation
+
+Au livre XIII, 567e, Athénée cite Timoclès dans une série de textes relatifs aux hétaïres. La citation représente onze femmes que le locuteur désigne comme des « vieilles femmes » et qui dorment autour d'un homme qualifié de très malheureux. Les noms transmis sont Nannion, Plangon, Lyca, Gnathaena, Phryné, Pythioniké, Myrrhiné, Chrysis, un nom textuellement incertain généralement imprimé sous la forme *Konalis*, Hiérocléia et Lopadion. Le passage ne livre ni l'identité du locuteur, ni le lieu de la scène, ni les circonstances de cet endormissement.
+
+Deux petites unités grecques permettent d'identifier la portée du fragment sans feindre une édition nouvelle : περὶ δὲ τὸν πανάθλιον, « autour du tout-misérable », et εὕδουσι γρᾶες, « dorment des vieilles femmes ». Le catalogue des noms suit. Le texte ancien est accessible chez Athénée, XIII 567e ; la ponctuation, certaines lettres et les conjectures d'éditeurs restent du domaine de l'édition critique, et non d'une « traduction libre » qui aurait valeur de preuve. Voir *FrC* 21, p. 205–209, et *PCG* VII, p. 774–775.
+
+Athénée encadre ce fragment par des passages d'autres comédies. La plainte de l'amant rebuté par Phryné vient de la *Néaira* de Timoclès, fr. 25 K.-A., **et non d'*Orestautokleidès***. Le passage suivant sur Sinope, Nannion et Lyca est un fragment d'Amphis, *Kouris*, **et non de Timoclès**. Ce sont des rapprochements produits par le compilateur et sa logique thématique. Les trois œuvres ne doivent pas être fondues en une même scène.
+
+### 3. [A] Le fragment 28 : le Parabyston n'est pas une scène conservée
+
+Harpocration, lexique des dix orateurs attiques, entrée Παράβυστον (Π 21, éd. Keaney ; p. 237, 1–4 Dindorf), explique qu'il s'agit du nom d'un tribunal athénien dans lequel siégeaient les Onze. Il mentionne, parmi les auteurs ayant employé ce terme, Timoclès dans *Orestautokleidès*. Kassel–Austin ont rangé ce témoignage sous fr. 28. La désignation *fragment* n'y signifie pas que nous lisons une réplique : **nous savons qu'un terme se trouvait dans la pièce, non qui le prononçait ni dans quel contexte**.
+
+L'hypothèse d'une parodie de procès découle de ce mot et de l'écho à l'Orestie, mais elle n'est inscrite dans aucune ligne dramatique conservée. On ne peut affirmer que les onze femmes jouent les jurées, que le personnage d'Autocléidès est juridiquement inculpé, ni qu'un magistrat prononce une décision. Le lexique mentionne aussi une référence d'Antiphon l'orateur ; cette autre attestation n'appartient pas au texte de Timoclès. *FrC* 21, p. 209–210 : https://digi.hadw-bw.de/view/frc21/0213.
+
+### 4. [A] Les relais de transmission et leur chronologie
+
+Timoclès est un auteur comique du IVe siècle av. J.-C. Ses pièces ont d'abord existé dans une tradition de spectacle et de copies qui n'est pas directement visible ici. Athénée, compilateur des IIe–IIIe siècles apr. J.-C., conserve un passage parce qu'il entre dans sa conversation savante sur les relations érotiques et leurs représentations. Harpocration, lexicographe antique, conserve un terme parce qu'il illustre une institution judiciaire. Les raisons de la citation façonnent notre dossier : l'une favorise le portrait de femmes nommées, l'autre la technicité d'un lieu. Les citations ne sont pas un résumé rédigé par Timoclès.
+
+Les manuscrits des compilateurs et les éditions successives ajoutent une autre épaisseur documentaire. Le texte grec de la citation et le nom du tribunal ne sont pas équivalents à la représentation scénique du IVe siècle. Un commentaire moderne peut reconstruire avec science l'état d'un vers, mais cette reconstruction demeure méthodologiquement seconde par rapport au témoin antique.
+
+### 5. [A] Le titre composé et les parallèles formels
+
+Un nom comique hybride comme *Orestautokleidès* évoque un Oreste mêlé à Autocléidès. La tradition des titres composites est attestée dans la comédie grecque : *Dionysalexandros* de Cratinos associe Dionysos et Alexandre/Pâris ; *Aiolosikôn* d'Aristophane combine Éole et Sicon ; d'autres constructions procèdent par greffe de noms. L'existence de ces titres aide à comprendre le procédé formel mais ne révèle pas la distribution de la pièce de Timoclès.
+
+L'éditeur Apostolakēs remarque que le second constituant désigne probablement la figure contemporaine, tandis que le premier renvoie au rôle mythique emprunté. Il s'agit d'une interprétation raisonnée, non d'une règle grammaticale qui livrerait à elle seule le scénario.
+
+### 6. [B] Qui est « Oreste-Autocléidès » ?
+
+Le titre peut faire fonctionner un homme contemporain comme l'équivalent burlesque du matricide poursuivi. Une identité publicitaire, politique ou sexuelle devient alors lisible au moyen d'un personnage de tragédie. La comparaison n'identifie pas une faute précise : Oreste a tué sa mère dans la fiction tragique ; rien ne prouve que Timoclès reproche à Autocléidès un acte matériel de même nature. Une parodie ne reproduit pas nécessairement la causalité morale de son modèle.
+
+Autocléidès apparaît dans la tradition oratoire, notamment Eschine, *Contre Timarque* 1.52, en compagnie d'autres personnages stigmatisés au titre de leur conduite sexuelle. Le rapprochement prosopographique est convaincant, mais le simple nom propre ne prouve pas une identité individuelle dans tous les contextes. En faire automatiquement un procès historique contre un homme déterminé ferait disparaître les jeux de masque propres à la scène.
+
+L'interprétation minimale est sûre : le titre met en rapport le nom d'Oreste et celui d'Autocléidès. L'interprétation forte, **l'imitation de l'Oreste d'Eschyle dans une attaque comique d'un contemporain**, est très probable. Le détail de l'accusation, du dénouement et des personnages demeure inconnu.
+
+### 7. [A] Eschyle, *Euménides* 40–70 : le modèle effectivement disponible
+
+La Pythie des *Euménides* décrit Oreste suppliant au sanctuaire de Delphes et un groupe de figures féminines endormies ; Apollon les décrit ensuite comme des êtres très anciens que nul ne souhaite fréquenter. Le modèle n'est pas conjectural : les *Euménides* sont une tragédie conservée et leurs vers 40–70 correspondent à la combinaison « homme entouré » / « femmes endormies » du fr. 27 de Timoclès.
+
+Chez Eschyle, la confrontation se déploie ensuite autour de la responsabilité, des puissances anciennes, de la protection d'Apollon et du jugement institué à Athènes. La répartition des voix et la décision finale de la déesse sont documentées pour la tragédie, pas pour la comédie perdue. Voir *Euménides* 40–70 puis 681–753 et la fin de l'œuvre pour la résolution civique.
+
+**Différence essentielle :** le fait que Timoclès parodie vraisemblablement l'ouverture d'Eschyle ne prouve pas qu'il reprenne aussi l'Aréopage, l'acquittement et la réconciliation finale. La référence lexicale au Parabyston permet un scénario judiciaire alternatif, mais non une copie de l'ensemble de l'Orestie.
+
+### 8. [B] Une mémoire théâtrale, non une simple ressemblance iconographique
+
+Le rapprochement tient à un dispositif spectaculaire reconnaissable : une figure humaine au milieu, un groupe endormi, l'horreur ou le ridicule projeté sur les dormeuses. Les mots décrivent non seulement des caractères, mais une configuration spatiale. Une allusion comique exige qu'un public reconnaisse suffisamment le modèle pour comprendre le décalage. Elle peut opérer par costume, rythme, disposition des corps, diction ou identité de personnes connues ; aucun de ces détails n'est ici assuré.
+
+On peut imaginer que la scène du IVe siècle présuppose la circulation des *Euménides*, par lectures, souvenirs de représentations, reprises ou images. Mais aucun programme de reprise précis n'est conservé. La réception peut être multiple : certains spectateurs connaissent la pièce d'Eschyle, d'autres une iconographie, d'autres encore l'expression conventionnelle des vieilles puissances persécutrices. Il faut distinguer une allusion convaincante et la démonstration d'un canal unique de transmission.
+
+### 9. [A] Onze noms, pas onze rôles certains
+
+Le fr. 27 donne onze noms, mais il ne dit pas que onze actrices ou onze choreutes les prononçaient, ni que toutes avaient la même fonction dramatique. Les rôles masculins, masques féminins et chœurs peuvent être figurés de diverses manières au théâtre antique. Des scholies parlent de groupes choraux composites d'hommes et de femmes dans certains spectacles, sans établir que le groupe de Timoclès reproduisait un effectif précis.
+
+K. Apostolakēs (*FrC* 21, p. 207) juge imprudent de déduire la composition du chœur de cette seule liste. La quantité des personnages nommés n'est pas automatiquement un dénombrement de performers. Un seul locuteur pourrait réciter le catalogue, et les femmes ne seraient pas nécessairement toutes visibles. Le fragment ne tranche pas.
+
+### 10. [B] L'énumération comme machine comique
+
+Une liste peut produire un effet de masse, de cadence et de reconnaissance. L'addition des noms transforme des individus en collectivité. Les noms propres fonctionnent à plusieurs niveaux : allusions à des personnes connues, types sociaux, sonorités risibles et possibles sobriquets. Une audience peut rire parce qu'elle reconnaît une personnalité ; une autre parce qu'elle entend la disproportion entre l'Oreste tragique et les ennemies supposées de l'Oreste comique.
+
+La clôture du catalogue par Lopadion — nom ressemblant à un diminutif d'objet culinaire — permet un changement de registre : après la menace quasi mythologique, le langage de l'ustensile ramène à l'espace domestique. Cette valeur sémantique relève de l'analyse lexicale ; on ne doit pas en déduire que ce personnage travaillait nécessairement dans une cuisine.
+
+La diction *panathlios*, proche du pathétique tragique, est un outil de paratragédie. Elle peut être prononcée avec dignité, ironie ou excès. Comme le contexte est perdu, le lecteur doit éviter d'imposer une seule couleur de jeu.
+
+### 11. [A] La difficulté du nom « Konalis »
+
+Le cinquième système de lecture du corpus ne sert à rien sans appareil critique : le manuscrit d'Athénée transmet ici un nom dont l'établissement et le mètre font difficulté. Le nom usuellement présenté sous la forme *Konalis* n'est pas un témoignage indépendant permettant de reconstituer avec assurance la biographie d'une hétaïre. Les éditeurs ont proposé plusieurs corrections, notamment *Konisalis*, et discutent l'adaptation métrique.
+
+L'apparat de *FrC* 21, p. 205–206, expose les conjectures de Meineke, Kaibel, Schmidt et d'autres. Dans la présente monographie, la forme *Konalis* signifie seulement « nom transmis sous une forme disputée » ; le grec n'est pas silencieusement normalisé. Une prosopographie bâtie sur une conjecture serait circulaire.
+
+### 12. [A] Prudence prosopographique : Nannion, Plangon, Gnathaena
+
+Des noms tels que Nannion, Plangon et Gnathaena circulent dans plusieurs sources comiques et chez Athénée. Leur récurrence atteste une vie littéraire des noms ; elle ne garantit ni que tous les passages renvoient à la même personne historique, ni que la scène reproduise des événements biographiques. *Plangon* apparaît dans d'autres dossiers civiques et dramatiques, ce qui suffit à montrer le risque d'homonymie. *Chrysis* est également susceptible d'être un nom récurrent plutôt qu'une identification univoque.
+
+Les traditions relatives à Phryné se sont enrichies d'anecdotes tardives, parfois concurrentes. Il serait injustifié de transposer à Timoclès l'ensemble des récits du procès de Phryné ou les récits ultérieurs sur les artistes qui l'auraient prise pour modèle. Le fragment atteste un nom, pas une biographie complète. Voir *FrC* 21, p. 207–209.
+
+### 13. [B] Stigmatisation sexuelle : la position du locuteur n'est pas celle de l'auteur
+
+Le texte transmis peut sembler dépréciatif : les femmes sont appelées vieilles ; elles entourent un homme malheureux ; la comparaison avec les Érinyes pourrait les rendre terrifiantes. Pourtant une comédie donne des paroles à des personnages, et ces personnages peuvent être ironiques, ridicules ou contestés. L'énoncé n'est pas une déclaration personnelle de Timoclès, encore moins une enquête sociologique neutre.
+
+Un lecteur doit donc tester des hypothèses opposées. Le locuteur pourrait être un adversaire des femmes ; il pourrait aussi être un spectateur effrayé dont la peur est moquée. Le groupe féminin pourrait figurer une menace comique, mais aussi une force de coordination et de revendication. Le dossier ne contient pas suffisamment de contexte pour décider entre ces options.
+
+Cette discipline ne supprime pas la violence possible des stéréotypes antiques ; elle empêche de l'attribuer mécaniquement à l'ensemble de l'œuvre.
+
+### 14. [B] L'économie des hétaïres et ses biais documentaires
+
+Les fragments cités par Athénée associent souvent désir, argent, dettes, banquet, protection sociale et domination. Les locuteurs masculins peuvent reprocher aux femmes l'avidité, alors qu'une économie transactionnelle suppose au minimum des dépenses, des négociations et des clientèles. Le vocabulaire moral peut dissimuler le rapport économique. Cette observation ne signifie pas que toutes les hétaïres jouissaient d'une liberté effective ou que leur activité avait un cadre identique ; les situations personnelles et juridiques variaient.
+
+La mise en scène de plusieurs femmes nommées peut défaire le cliché de la courtisane isolée. On peut interpréter une coalition comme une forme de puissance collective sans la convertir pour autant en syndicat attesté. Cela reste un **modèle critique moderne**, non une institution vérifiée pour la pièce.
+
+### 15. [B] Lecture contradictoire à partir d'une recherche de 2026
+
+Anna Uhlig, « Gnathaena's feast: sex workers and cognitive bias in comic fragments », *Bulletin of the Institute of Classical Studies*, publié le 2 juin 2026, DOI 10.1093/bics/qbag012, rappelle que les habitudes de lecture privilégiant les œuvres complètes peuvent imposer aux fragments des interprétations héritées : elles conduisent souvent à percevoir uniquement la misogynie dans les discours dramatiques sur les travailleuses du sexe.
+
+Son analyse de Timoclès fr. 27 envisage, sans transformer cette possibilité en certitude historique, les femmes endormies comme un ensemble solidaire. Ce travail invite à tenir ouvertes plusieurs valeurs d'une même scène. Le rôle scientifique de cette hypothèse n'est pas d'inverser un préjugé en un autre (« les femmes sont sûrement héroïsées »), mais d'identifier précisément **où le contexte manque** et ce que l'on projette sur ce manque.
+
+L'étude récente ne doit pas servir à confirmer à elle seule une intention de Timoclès : elle offre une lecture contre-évidente et méthodologiquement féconde d'un passage problématique. https://doi.org/10.1093/bics/qbag012.
+
+### 16. [A] La chronologie ne se déduit pas de l'âge des personnages
+
+Timoclès appartient à la fin de la comédie moyenne. Sa carrière est située au IVe siècle, dans un environnement où les auteurs de la comédie nouvelle s'affirment à la fin du siècle. Plusieurs chronologies de *l'Orestautokleidès* ont été proposées, notamment autour des années 340, 345/4 ou plus tard. Elles sont débattues.
+
+La mention d'Autocléidès chez Eschine n'assure pas la date d'une première représentation ; la notoriété d'un homme pouvait dépasser celle d'un discours. La désignation des femmes comme « vieilles » peut relever de la parodie des Érinyes, donc d'un choix scénique plutôt que d'une information sur leur âge biologique. En l'absence de didascalie de concours ou de référence historique irréfutable, **la date exacte demeure indéterminée**. Apostolakēs, *FrC* 21, p. 205.
+
+### 17. [A] Le Parabyston dans les sources juridiques
+
+Le nom Παράβυστον est documenté par Harpocration et apparaît dans d'autres témoignages concernant les espaces judiciaires d'Athènes. Pausanias I, 28, 8 connaît un tribunal portant ce nom, qu'il décrit selon sa localisation ou son caractère. Une inscription athénienne, IG II² 1646, est discutée par les spécialistes à propos du nom et de la taille de l'audience ; les restitutions épigraphiques exigent une prudence spécifique. Les détails matériels du bâtiment et certaines descriptions tardives ne coïncident pas parfaitement.
+
+Le tribunal est associé aux Onze dans la notice lexicographique, mais les transformations possibles de ses fonctions et la variété des juridictions empêchent de traiter ce mot comme une photographie du fonctionnement judiciaire à la date de Timoclès. Voir A. L. Boegehold, *The Lawcourts at Athens* (1995), p. 178–181, et *FrC* 21, p. 209–210.
+
+### 18. [B] Un procès comique : la force et la limite de l'inférence
+
+Le Parabyston ouvre une piste dramaturgique : un homme de comédie déjà rapproché d'Oreste pourrait être jugé, puis poursuivi comme le héros tragique. Les Érinyes deviennent alors, peut-être, des plaignantes ou des accusatrices. Mais l'analogie avec le procès d'Oreste ne justifie ni la distribution des parties, ni l'identification des onze femmes aux autorités judiciaires. Un tribunal évoqué dans un dialogue peut rester hors scène.
+
+Il faut conserver trois degrés de confiance. **Élevé :** le titre hybride et la scène des dormeuses renvoient à une parodie d'Oreste. **Moyen :** la pièce exploite un vocabulaire judiciaire. **Faible :** un procès complet au Parabyston constitue le centre de l'intrigue, avec les onze femmes comme juges. Une reconstruction exemplaire n'efface pas cette hiérarchie.
+
+### 19. [B] Le renversement du sacré : qui a le droit de poursuivre ?
+
+Chez Eschyle, les Érinyes revendiquent une puissance ancienne et exigent la réparation d'un sang versé. Le personnage comique substitue à ce système un conflit dont les intérêts peuvent être érotiques, économiques ou sociaux. La poursuite cesse d'être exclusivement mythologique et devient un langage des relations quotidiennes.
+
+Ce retournement n'est pas un « déclin » nécessaire de la religion. La comédie peut utiliser un mythe précisément parce qu'il reste chargé d'autorité et disponible pour des rapprochements audacieux. L'humour n'exige pas une audience dépourvue de croyance ; il exige une mémoire de la convention et une capacité à reconnaître le décalage.
+
+### 20. [B] Philologie politique de la ressemblance : le nom est un argument
+
+Le titre *Orestautokleidès* ne pose pas seulement une énigme onomastique. Il effectue une petite opération politique : transformer un homme nommé dans la cité en personnage mythique. L'identité publique devient une figure susceptible d'être discutée collectivement. L'injure, le blâme, la satire d'un individu et le détournement du théâtre prestigieux peuvent converger.
+
+Mais le processus n'est pas identique à une accusation légale. Le nom composé agit dans un cadre festif, réglé par les conventions du concours et du théâtre. L'effet pourrait mêler admiration pour la tragédie, plaisir de la reconnaissance et mise en cause des conduites aristocratiques. Il est impossible de mesurer l'accueil du public sans témoignage de concours.
+
+### 21. [B] Hegel : conflit de légitimités, sans anachronisme
+
+Dans ses leçons d'esthétique publiées après sa mort, Hegel propose de lire des œuvres dramatiques à travers l'affrontement de puissances ou de principes qui ont chacun leur rationalité propre, et distingue les formes de résolution tragique et comique. Employé comme **instrument critique postérieur** plutôt que comme source antique, ce cadre éclaire une question : que devient le conflit entre l'autorité d'Oreste et celle de ses poursuivantes lorsque le théâtre comique le transporte dans un univers social plus bas ?
+
+Une première réponse serait que le conflit se dégonfle dans le ridicule. Une autre est qu'il met au jour une revendication de reconnaissance réciproque : les femmes nommées ne sont pas seulement des apparitions, elles représentent des intérêts et des liens. La deuxième lecture peut devenir trop affirmative si on la prend pour le message de Timoclès. Il n'existe aucun témoignage autorisant à parler d'une synthèse hégélienne réalisée dans son dénouement.
+
+Hegel aide donc à **formuler les questions** : comment un ordre ancien est-il contesté ? que vaut une prétention à la justice ? comment le rire déplace-t-il le conflit ? Il n'écrit ni la pièce ni ses réponses manquantes.
+
+### 22. [B] Nietzsche : le masque et la force du renversement
+
+*La Naissance de la tragédie* (1872) de Nietzsche s'intéresse à la forme tragique, au rapport entre puissance du mythe, spectacle et transformation des expériences humaines. On peut emprunter à ce questionnement une interrogation sur la plasticité d'Oreste : la figure d'un meurtrier hanté peut changer de régime esthétique sans perdre toute la violence de son origine.
+
+Une lecture nietzschéenne mal contrôlée réduirait les vieilles femmes à des forces « dionysiaques » supposées essentielles ou rangerait sans preuve le fragment dans une opposition morale entre femmes et hommes. Le texte conservé n'autorise pas pareille ontologie. Il vaut mieux observer le **travail du masque** : grand style du tragique, image de la poursuite, chute dans une collection de noms, retour possible du jugement. Le rire dépend ici du contraste des formes et des registres.
+
+### 23. [B] Vernant et Vidal-Naquet : du mythe à la cité, et de la cité au théâtre
+
+Jean-Pierre Vernant et Pierre Vidal-Naquet ont montré, dans *Mythe et tragédie en Grèce ancienne*, combien la tragédie articule des conflits de valeurs avec des institutions et des représentations de la cité. Ce type d'analyse rend utile la comparaison entre les *Euménides* et le lexique du Parabyston.
+
+Il ne faut toutefois pas ramener une œuvre comique du IVe siècle à une simple répétition des tensions civiques de 458 av. J.-C. La temporalité, les publics, les usages du langage judiciaire et l'organisation des genres ont changé. Le dialogue scientifique doit mesurer cette distance. La cité d'Eschyle qui institue une procédure dans la tragédie n'est pas nécessairement celle qu'un comique caricature près d'un siècle plus tard.
+
+Le fragment ne nous offre ni décret ni réforme de procédure. Il fournit un point où le souvenir de la tragédie et la matérialité des institutions judiciaires peuvent entrer dans une même opération satirique.
+
+### 24. [B] Détienne : la fabrique des catégories et la mémoire des récits
+
+Marcel Détienne invite à considérer la production et la transformation des catégories mythologiques plutôt qu'à poser une signification stable des récits hors de leurs usages. Cette approche est utile pour comprendre comment le mot « Érinyes », sans même être conservé dans le fragment de Timoclès, peut orienter une lecture moderne à travers une configuration reconnue.
+
+La difficulté méthodologique réside précisément là : la figure mythique est **inférée** à partir du titre et de la scène des dormeuses, tandis que les femmes nommées sont **attestées**. Si l'on renverse les degrés de certitude, on finit par croire que le texte comique nomme les Érinyes et reproduit leur liturgie. Une analyse comparatiste sérieuse travaille à partir du relais de transmission, du dispositif de mémoire et des différences entre genres.
+
+### 25. [B] Dumézil : limites d'une application abusive
+
+Les modèles comparatifs associés à Georges Dumézil, utiles dans d'autres contextes pour tester des structures mythiques récurrentes, ne démontrent ici aucune distribution trifonctionnelle. Ni le titre composite, ni le nombre onze, ni le mot Parabyston ne renvoient à une organisation en trois fonctions souveraine, guerrière et productive. En proposer une serait constituer une grille de classement artificielle à partir d'une pièce presque entièrement perdue.
+
+La comparaison pertinente est **intraculturelle et intergénérique** : un poète athénien met en jeu une œuvre tragique reconnue et des noms civiques. D'autres traditions de poursuite ou de vengeance peuvent nourrir une réflexion générale, mais elles ne doivent pas être converties en parenté attestée de la pièce.
+
+### 26. [B] L'éthique de la lecture des voix féminines
+
+Les personnages nommés appartiennent à une documentation largement façonnée par des hommes : auteurs de comédies, orateurs, compilateurs, lexicographes. Ce dispositif contraint la connaissance du travail, du statut et de l'action sociale des femmes. On pourrait être tenté de fabriquer une parole « authentique » des onze hétaïres pour réparer ce silence. Ce serait pourtant ajouter une fiction au dossier sans l'annoncer.
+
+Il existe une voie plus rigoureuse : conserver dans l'analyse les paroles que nous n'avons pas, puis proposer séparément des scènes nouvelles dont le statut [C] est explicite. Les dialogues contemporains qui suivent ne prétendent ni restaurer la pièce, ni décrire les mœurs avec exactitude archéologique. Ils font apparaître les questions laissées ouvertes : qui porte plainte, qui se fait entendre, qui subit le rire ?
+
+### 27. [B] Le spectateur et l'hypothèse du « chœur des onze »
+
+Le nombre onze fait évidemment signe dans une pièce qui évoque aussi un tribunal associé aux Onze. Cette rencontre produit un bel argument dramaturgique : le groupe féminin pourrait parodier l'institution. Mais la coïncidence numérique entre les femmes de fr. 27 et les magistrats nommés dans la notice d'Harpocration est une **construction possible**, pas une preuve. Le nom d'un collège administratif ne décrit pas le nombre de juges présents ni la forme scénique du groupe.
+
+Un usage scolaire de ce dossier pourrait opposer trois mises en scène expérimentales : une récitation de tous les noms par un seul personnage hors vue ; onze figures visibles mais muettes ; un groupe symbolique réduit dont la liste déborde l'effectif. Chacune respecte les données textuelles tout en créant des effets très différents. L'expérience montrerait que la philologie établit un espace de possibles plutôt qu'une mise en scène unique.
+
+### 28. [B] L'espace tragique et l'espace judiciaire
+
+Les *Euménides* conduisent Oreste de Delphes à Athènes. Le sanctuaire et le tribunal servent de cadres distincts à la conversion de la vengeance en décision. Pour Timoclès, nous possédons seulement un terme juridique et une configuration de dormeuses. Déduire un itinéraire complet serait circulaire : on reconstruirait ce qu'on reconnaît chez Eschyle, puis on ferait de ce schéma une preuve d'emprunt.
+
+La paratragédie peut fonctionner sur une seule image célèbre. Il suffit d'un nom, d'un geste ou d'une ouverture scénique pour que l'audience imagine beaucoup plus qu'elle ne voit. La puissance de l'allusion est donc inversement proportionnelle à notre capacité à restaurer le spectacle. Ce paradoxe doit structurer toute édition commentée.
+
+### 29. [B] La responsabilité comme enjeu comique
+
+Si un Autocléidès est mis en accusation, ce n'est pas forcément pour une violation de loi. La comédie peut demander qui doit payer, qui a trompé qui, qui a été ridicule ou qui a abusé de sa réputation. De telles questions appartiennent aux arrangements ordinaires du désir et de l'argent, mais elles peuvent prendre le langage de la justice pour se rendre visibles.
+
+La réduction de la responsabilité à une simple punition serait néanmoins trop pauvre : le mythe d'Oreste pose le problème du conflit entre obligations et autorités. La transplantation comique peut produire une justice de la réputation, dans laquelle la honte est publique et réversible. À nouveau, le dossier autorise une problématique, non l'affirmation d'une morale finale.
+
+### 30. [B] La force littéraire d'une archive de quatre vers
+
+Une pièce perdue ne se juge pas à la quantité de texte conservé. Quelques vers, accompagnés d'un nom et d'une allusion lexicale, témoignent de la capacité de la comédie moyenne à faire dialoguer mythologie prestigieuse, vie de la cité, noms propres, vocabulaire administratif et représentations sociales. C'est une poétique de la condensation : une seule scène peut porter plusieurs histoires en mémoire.
+
+Cependant la densité interprétative n'est pas la densité probatoire. Plus nous pouvons imaginer de scènes à partir de ces vers, plus il importe de dire ce qui reste inconnu. Un commentaire universitaire doit savoir produire des hypothèses sans se convaincre qu'elles remplissent les lacunes.
+
+---
+
+## [C] Atelier dramaturgique contemporain — trois scènes entièrement originales
+
+**Avertissement :** les dialogues ci-dessous sont créés pour ce volume MYTHOS. Ils ne traduisent aucune réplique de Timoclès ; leurs personnages, accessoires et échanges ne sont ni attestés par les fragments 27–28 ni présentés comme une reconstruction historique. Ils sont des expériences intellectuelles destinées à rendre perceptible la pluralité des lectures.
+
+### 31. [C] Scène première — Le nom fabriqué
+
+*Un espace sans date. Au fond, une porte fermée. Un comédien porte deux masques sans parvenir à fixer l'un ou l'autre. Une lectrice tient un registre dont certaines pages sont blanches.*
+
+**LE COMÉDIEN.** Vous m'avez appelé Oreste, puis Autocléidès, puis les deux d'un seul souffle. Comment répondre quand le nom est déjà un verdict ?
+
+**LA LECTRICE.** Le nom est une proposition. Un juge attend des actes.
+
+**LE COMÉDIEN.** Pourtant la foule croit connaître mes actes parce qu'elle connaît les tragédies. Elle entend « Oreste » et voit un meurtre. Elle entend « Autocléidès » et imagine un scandale. Entre les deux il n'y a que ma bouche, qui ne sait plus dire « je ».
+
+**LA LECTRICE.** Qui a cousu les deux noms ?
+
+**LE COMÉDIEN.** Un poète ? Un adversaire ? Un ami qui a voulu me grandir et m'a rendu grotesque ?
+
+**LA LECTRICE.** Nous n'avons pas sa réponse. Ne la lui prêtons pas.
+
+**LE COMÉDIEN.** Alors prêtez-moi une place d'où parler.
+
+**LA LECTRICE.** Je peux tracer un cercle, pas l'histoire de ce qui s'y passera.
+
+*Elle dessine un cercle au sol.*
+
+**LE COMÉDIEN.** Ce cercle est-il un sanctuaire, une prison, une scène ou le siège d'un tribunal ?
+
+**LA LECTRICE.** Tant que personne n'a posé une preuve sur le seuil, c'est une question.
+
+*Il tente d'entrer dans le cercle. Il n'y entre pas ; le premier masque le retient.*
+
+**LE COMÉDIEN.** Et si tout le monde rit avant que j'aie parlé ?
+
+**LA LECTRICE.** Alors ils auront entendu un titre, non un témoignage.
+
+*Noir.*
+
+### 32. [C] Scène deuxième — Onze noms, aucune voix empruntée
+
+*Onze chaises sont disposées en demi-cercle. Trois personnages contemporains, désignés simplement comme Première, Deuxième et Troisième, entrent. Ils ne personnifient aucune des hétaïres attestées. Une grande pancarte porte le mot « SOMMEIL ».*
+
+**PREMIÈRE.** Pourquoi onze chaises ?
+
+**DEUXIÈME.** Parce que le texte compte des noms et que les chercheurs aiment que le théâtre obéisse aux nombres.
+
+**TROISIÈME.** Mais un nom n'est pas une chaise. Ni une parole. Ni une vie.
+
+**PREMIÈRE.** On nous dit redoutables, intéressées, vieillies. Nous ignorons qui a prononcé ces mots.
+
+**DEUXIÈME.** Peut-être celui qui nous devait de l'argent.
+
+**TROISIÈME.** Peut-être un homme qui a toujours eu peur d'une salle où les femmes se parlent entre elles.
+
+**PREMIÈRE.** Ou peut-être quelqu'un qui a raison d'avoir peur. Nous ne savons pas non plus ce que les autres ont fait.
+
+**DEUXIÈME.** Le manque de preuves n'est pas l'innocence.
+
+**TROISIÈME.** Mais la peur du témoin n'est pas notre condamnation.
+
+*Elles renversent la pancarte. Au dos on lit « VEILLE ».*
+
+**PREMIÈRE.** Pourquoi dormons-nous dans le seul passage qu'on a conservé ?
+
+**DEUXIÈME.** Parce qu'un écrivain de banquet cherchait une liste à réciter. Notre sommeil lui a servi d'exemple.
+
+**TROISIÈME.** Alors réveillons la question, pas une scène ancienne que personne ne peut connaître.
+
+**PREMIÈRE.** Notre première question sera simple : qui a le droit de transformer un métier, une vieillesse ou un nom en caractère moral ?
+
+**DEUXIÈME.** La deuxième : à qui profite l'histoire racontée ?
+
+**TROISIÈME.** La troisième : comment lire sans prétendre que nous parlions ainsi il y a vingt-trois siècles ?
+
+*Toutes trois quittent le plateau. Les onze chaises restent vides. Aucun chœur ancien n'est imaginé comme attesté.*
+
+### 33. [C] Scène troisième — L'audience impossible
+
+*Un banc. Une lampe. Un archiviste porte un dossier marqué « PARABYSTON ». Un magistrat imaginaire entre. Un personnage sans nom demeure à l'écart.*
+
+**LE MAGISTRAT.** Pourquoi m'avez-vous appelé ?
+
+**L'ARCHIVISTE.** J'ai trouvé le nom d'un tribunal dans un lexique.
+
+**LE MAGISTRAT.** Cela vous autorise-t-il à construire un procès ?
+
+**L'ARCHIVISTE.** Je le voudrais. Dans la tragédie, un homme est poursuivi ; dans le lexique, une salle est nommée. Une conclusion paraît si proche.
+
+**LE MAGISTRAT.** Proche n'est pas présente.
+
+**L'ARCHIVISTE.** J'ai onze noms.
+
+**LE MAGISTRAT.** Vous n'avez pas onze témoignages. Vous avez une citation qui contient onze noms.
+
+**L'ARCHIVISTE.** J'ai une image d'Érinyes.
+
+**LE MAGISTRAT.** Vous avez une comparaison entre deux œuvres, dont l'une est lacunaire. L'image peut être juste, mais elle ne raconte pas ce qui se passe après.
+
+**LE PERSONNAGE SANS NOM.** Qui jugera celui qui remplit les silences ?
+
+**LE MAGISTRAT.** Personne, s'il les signale. Il deviendra suspect seulement s'il transforme son imagination en archive.
+
+**L'ARCHIVISTE.** Et le théâtre ?
+
+**LE MAGISTRAT.** Qu'il invente. Qu'il invente ouvertement. La science n'est pas son ennemie ; elle est la frontière qui permet à l'invention de ne pas usurper la voix des morts.
+
+**LE PERSONNAGE SANS NOM.** Je propose donc une sentence : le dossier reste ouvert.
+
+**L'ARCHIVISTE.** Et le spectacle ?
+
+**LE MAGISTRAT.** Il commence lorsque nous admettons que l'affaire antique n'a pas de fin conservée.
+
+*Le magistrat se retire. L'archiviste ferme le dossier sans le sceller. Fin des scènes contemporaines.*
+
+---
+
+### 34. [B] Relecture des scènes [C] : ce qu'elles démontrent et ce qu'elles ne démontrent pas
+
+La première scène éprouve la violence métaphorique d'une identité composée : son personnage est inventé, mais le problème du nom vient de la forme attestée du titre. La deuxième travaille la différence entre un catalogue transmis et des subjectivités absentes. Elle refuse de transformer les onze femmes antiques en porte-parole d'une politique actuelle déterminée. La troisième explicite le risque fondamental de cette monographie : fabriquer un procès à partir d'un mot de tribunal.
+
+Ces scènes ne sont pas des « fragments retrouvés » ni une solution philologique. Leur valeur est expérimentale : elles invitent un lecteur à distinguer la donnée de l'interprétation et à tester la robustesse de ses intuitions. Dans une édition scientifique, cette zone [C] doit rester séparée de l'apparat des sources primaires.
+
+### 35. [A] Appareil de contrôle des attestations
+
+| Élément du dossier | Source ancienne et édition | Ce qui est attesté | Ce qui ne l'est pas |
+| --- | --- | --- | --- |
+| Titre *Orestautokleidès* et tableau des femmes endormies | Athénée XIII, 567e ; Timoclès fr. 27 K.-A. | Titre, citation brève, homme entouré, liste de noms | Acte, scène complète, identité du narrateur, dénouement |
+| Terme *Parabyston* | Harpocration Π 21 ; Timoclès fr. 28 K.-A. | Emploi du nom de tribunal dans la pièce | Procès représenté, présence des Onze sur scène |
+| Oreste devant les Érinyes | Eschyle, *Euménides* 40–70 | Modèle tragique conservé | Reproduction exacte des actions dans la comédie |
+| Autocléidès nommé | Eschine, *Contre Timarque* 1.52 | Nom attesté dans le discours | Identification exhaustive de la personne comique |
+| Parabyston civique | Pausanias I, 28, 8 ; inscription IG II² 1646 et discussion épigraphique | Attestations historiques du nom, à qualifier | Plan de salle et usage précis à la représentation |
+| Liste de femmes chez d'autres comiques | Timoclès, *Néaira* fr. 25 ; Amphis *Kouris* fr. 23 ; Anaxilas *Neottis* fr. 22 | Comparaisons de motifs et noms | Fragments supplémentaires de la même pièce |
+
+Le tableau ne remplace pas l'établissement des textes en grec et l'examen de leur apparat. Son rôle est de rendre les sauts d'inférence contrôlables.
+
+### 36. [A] Éditions et bibliographie primaire
+
+1. **Kassel, Rudolf, et Colin Austin**, *Poetae Comici Graeci*, vol. VII, *Menecrates–Xenophon*, Berlin/New York, de Gruyter, 1989. Référence du texte de Timoclès, frr. 27–28, p. 774–775 ; volume de référence pour la numérotation utilisée ici.
+2. **Apostolakēs, Kōstas**, *Timokles: Translation and Commentary*, *Fragmenta Comica* 21, Göttingen, Verlag Antike, 2019, p. 203–210 (titre, traduction, apparat, datation, contexte, commentaire du tribunal). Édition numérisée et consultable : https://digi.hadw-bw.de/view/frc21/0207 ; p. 205 : https://digi.hadw-bw.de/view/frc21/0209 ; p. 209 : https://digi.hadw-bw.de/view/frc21/0213.
+3. **Athénée de Naucratis**, *Deipnosophistes*, XIII, 567d–e (citations du voisinage, distinction de *Néaira* et *Orestautokleidès*). Traduction anglaise historique de C. D. Yonge accessible à https://www.attalus.org/old/athenaeus13a.html ; consulter en priorité le grec édité pour l'onomastique.
+4. **Harpocration**, *Lexique des dix orateurs*, entrée Παράβυστον, Π 21 (éd. J. J. Keaney ; ancien renvoi Dindorf 237, 1–4). Témoignage lexical, non vers dramatique.
+5. **Eschyle**, *Euménides*, vers 40–70, puis 681–753 et conclusion. Traduction et repérage du texte : https://www.theoi.com/Text/AeschylusEumenides.html ; lecture du texte ancien essentielle pour la comparaison.
+6. **Eschine**, *Contre Timarque*, 1.52. Attestation oratoire du nom Autocléidès, non document de représentation comique.
+7. **Pausanias**, *Description de la Grèce*, I, 28, 8 ; **IG II² 1646**, passage restitué et discuté concernant le Parabyston. Employer en coordination avec le commentaire institutionnel et épigraphique, sans confondre les époques.
+
+### 37. [B] Bibliographie critique et lectures comparatives
+
+8. **Boegehold, Alan L.**, *The Lawcourts at Athens: Sites, Buildings, Equipment, Procedure, and Testimonia*, *The Athenian Agora* XXVIII, Princeton, 1995, en particulier p. 178–181 : discussion du Parabyston et de son identification.
+9. **Olson, S. Douglas**, *Broken Laughter: Select Fragments of Greek Comedy*, Oxford, 2007, p. 175–176 : commentaires et contexte de Timoclès.
+10. **Hunter, Richard L.**, *Eubulus: The Fragments*, Cambridge, 1983 ; et analyses de la comédie moyenne citées dans *FrC* 21 (notamment Hunter 1979), à distinguer d'une édition de Timoclès.
+11. **Uhlig, Anna**, « Gnathaena's feast: sex workers and cognitive bias in comic fragments », *Bulletin of the Institute of Classical Studies*, publication en ligne du 2 juin 2026, DOI 10.1093/bics/qbag012 : lecture critique des biais de représentation, examen de Timoclès fr. 27 et d'Anaxilas fr. 22. https://doi.org/10.1093/bics/qbag012.
+12. **Vernant, Jean-Pierre, et Pierre Vidal-Naquet**, *Mythe et tragédie en Grèce ancienne*, première et deuxième séries, Paris, 1972 et 1986 : cadre général pour la tension entre tragédie et institutions civiques. **Il ne s'agit pas d'un témoignage sur Timoclès.**
+13. **Hegel, G. W. F.**, *Cours d'esthétique* (leçons publiées après sa mort) : grille conceptuelle de la légitimité et du conflit dramatique, non preuve antique.
+14. **Nietzsche, Friedrich**, *La Naissance de la tragédie* (1872) : réflexion sur forme tragique, mythe et théâtralité, employée de façon critique et non comme restitution.
+15. **Détienne, Marcel**, *L'Invention de la mythologie*, Paris, 1981 : réflexion méthodologique sur la production des catégories mythologiques, sans attribution de la pièce.
+16. **Dumézil, Georges**, *Mythe et épopée*, trois volumes, 1968–1973 : mention méthodologique pour signaler l'absence de fondement à une hypothèse trifonctionnelle dans ce corpus.
+
+**Précision bibliographique :** toutes les références modernes ne portent pas directement sur *Orestautokleidès*. Le dossier distingue les éditions du fragment, les études de droit, les analyses du genre comique et les outils philosophiques ultérieurs. Aucun fragment grec n'est attribué aux philosophes ou aux historiens modernes ; aucune parole antique n'est fabriquée.
+
+### 38. [B] Comparaisons internes au cycle MYTHOS
+
+La présente étude s'articule aux monographies **déjà attribuées**, sans les reproduire :
+- [CXL (140) — Timoclès, *Dionysiazousai* : tragédie, consolation et théâtre](https://bobmythos.fr/chapitres/comedies/volume-140-timokles-dionysiazousai-tragedie-consolation-athenee-stobee/) pour une autre pièce du même auteur, sans assimilation de ses fragments ;
+- [CXLII (142) — Anaxandride, *Gerontomania* : vieillesse, désir et hétaïres](https://bobmythos.fr/chapitres/comedies/volume-142-anaxandrides-gerontomania-vieillesse-desir-hetaires-rhadamanthe-palamedes-rhetorique/) pour le débat sur la voix des femmes et les possibilités de lecture ;
+- [CXLVIII (148) — Anaxilas, *Neottis* : hétaïres et monstres](https://bobmythos.fr/chapitres/comedies/volume-148-anaxilas-neottis-hetaires-monstres-sphinx-enigme-contre-discours/) pour les images de Gnathaena, Nannion et Phryné ;
+- [X (10) — Cratinos, *Dionysalexandros*](https://bobmythos.fr/chapitres/comedies/volume-010-cratinos-dionysalexandros/) pour la construction de noms composites et la réécriture du mythe ;
+- [CXLIX (149) — Aristophon, *Pythagoristès*](https://bobmythos.fr/chapitres/comedies/volume-149-aristophon-pythagoristes-ascese-pauvrete-banquet-hades/) pour les mécanismes de désignation comique d'une identité philosophique.
+
+Ces rapprochements sont des parcours de lecture. Ils n'établissent aucune preuve de filiation directe entre pièces. **Les liens réciproques vers la présente étude attendront son attribution confirmée et la validation des chemins rendus ; aucun manuscrit déjà publié n'est modifié à cette étape.**
+
+### 39. [B] Conclusion : le savoir des lacunes
+
+Le meilleur résultat d'une étude de *l'Orestautokleidès* n'est pas la reconstitution d'une pièce complète qui n'existe plus pour nous. C'est une connaissance critique de la puissance de ses vestiges. Nous savons que Timoclès a forgé ou exploité un titre composite, qu'Athénée cite une image de femmes endormies entourant un homme malheureux, et qu'Harpocration associe la pièce au terme Parabyston. Nous pouvons reconnaître, avec une forte vraisemblance, un jeu avec l'ouverture des *Euménides*, sonder les valeurs sociales du catalogue et réfléchir au renversement comique des autorités.
+
+Nous ignorons le moment de la représentation, l'identité exacte de tous les noms cités, le statut scénique des femmes, l'existence d'une audience de justice dramatique et le dénouement. L'imagination n'est pas interdite : elle reçoit simplement sa place dans la zone [C]. Le commentaire [B] assume ses marges d'incertitude, tandis que la zone [A] conserve l'archive dans sa petite taille réelle. C'est cette séparation qui protège les œuvres perdues de la seconde disparition que serait une reconstruction présentée comme un texte authentique.
+
+### 40. Note d'intégrité éditoriale
+
+La présente monographie appartient à la collection canonique MYTHOS « Comédies grecques et œuvres perdues » et est soumise **sans numéro réservé**. Le numéro décimal propre à l'étude est représenté uniquement par la variable 151 et son numéro romain propre par CLI. Les repères de vers, de siècles, de pages, d'éditions et les numéros des volumes déjà attribués sont des données scientifiques et restent littéraux.
+
+Le présent manuscrit constitue un texte public intégral, non un brouillon privé. Il ne commande ni ne présuppose la modification des reçus, des programmes horaires ou des manuscrits antérieurs. Le premier numéro réellement disponible appartient exclusivement à l'attribution transactionnelle du dépôt sur la branche main, après reconstruction et validation.
