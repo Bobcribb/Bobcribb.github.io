@@ -54,5 +54,39 @@ class NokCivilisationsTests(unittest.TestCase):
         self.assertIn("commons.wikimedia.org/wiki/File:Nok_sculpture", article)
 
 
+    def test_nok_canonical_accepts_both_attribute_orders(self):
+        expected = "https://bobmythos.fr" + NOK_URL
+        for markup in (
+            f'<link rel="canonical" href="{expected}">',
+            f'<link href="{expected}" rel="canonical">',
+        ):
+            with self.subTest(markup=markup):
+                parsed = NokStudyHTMLParser()
+                parsed.feed(markup)
+                self.assertEqual(parsed.canonical, expected)
+
+    def test_nok_canonical_rejects_invalid_links(self):
+        expected = "https://bobmythos.fr" + NOK_URL
+        for markup in (
+            f'<link rel="stylesheet" href="{expected}">',
+            f'<link href="{expected}">',
+            '<link rel="canonical" href="https://example.org/wrong/">',
+        ):
+            with self.subTest(markup=markup):
+                parsed = NokStudyHTMLParser()
+                parsed.feed(markup)
+                self.assertNotEqual(parsed.canonical, expected)
+
+    def test_nok_section_count_is_attribute_order_independent(self):
+        markup = (
+            '<section class="mythos-study-section" aria-labelledby="nok-1"></section>'
+            '<section aria-labelledby="nok-2" class="other mythos-study-section"></section>'
+            '<section class="mythos-study-section" aria-labelledby="other-1"></section>'
+            '<section aria-labelledby="nok-3" class="other"></section>'
+        )
+        parsed = NokStudyHTMLParser()
+        parsed.feed(markup)
+        self.assertEqual(parsed.numbered_sections, 2)
+
 if __name__ == "__main__":
     unittest.main()
