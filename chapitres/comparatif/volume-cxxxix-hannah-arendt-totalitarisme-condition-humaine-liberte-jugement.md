@@ -210,3 +210,14 @@ Le passage de Benjamin à Arendt déplace la question de la dette envers les vai
 
 ## Continuité éditoriale
 Volume XC : Paul Celan, poésie et témoignage. Volume XCI : Walter Benjamin, traduction et mémoire historique. **Volume CXXXIX : Hannah Arendt, totalitarisme et reconstruction de l'espace public.** Prochain volume proposé : CXL, Cornelius Castoriadis, imaginaire social, démocratie et autonomie. La succession n'implique pas une filiation doctrinale directe.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Fonds original consulté.** La [Library of Congress, *Hannah Arendt Papers*](https://www.loc.gov/collections/hannah-arendt-papers/about-this-collection/), décrit quelque **25 000 pièces** et **82 597 images** comprenant correspondance, manuscrits, cours et documents liés au procès d'Adolf Eichmann. L'inventaire atteste des **types de documents conservés**, non de l'interprétation d'une thèse philosophique ; un document précis doit être cité pour toute assertion sur les formulations de l'auteure.
+
+**Éditions à distinguer.** Hannah Arendt, *The Origins of Totalitarianism* (**1951**), *The Human Condition* (**1958**), *Eichmann in Jerusalem* (**1963**) et « Civil Disobedience » (**1970**) relèvent de problématiques et contextes différents ; contrôler les passages des textes originaux avant toute attribution à Arendt d'une doctrine unifiée du pouvoir, de l'action ou du jugement. Aucune page d'édition non consultée n'est donnée.
+
+**Contrepoint français.** Nicole Loraux, *Les Enfants d'Athéna* (**1981**) et Jean-Pierre Vernant, *Les Origines de la pensée grecque* (**1962**) éclairent historiquement les notions de polis, autochtonie et citoyenneté ; **ces ouvrages ne sont pas ici collationnés** et ne sont pas des commentaires personnels de ces auteurs sur Arendt. Les institutions grecques anciennes doivent être distinguées de la « polis » comme figure philosophique. Aucun avis de la Library of Congress ou caution d'un professeur n'est revendiqué.
