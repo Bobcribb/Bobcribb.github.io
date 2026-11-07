@@ -45,7 +45,7 @@ class YehaDmtCivilisationsTests(unittest.TestCase):
         navigations = self.doc.select("nav")
         self.assertGreaterEqual(len(navigations), 2)
         self.assertEqual(navigations[0].get("aria-label"), "Navigation principale")
-        breadcrumb = self.doc.select_one('nav[aria-label="Fil d\\'Ariane"]')
+        breadcrumb = self.doc.select_one("nav.greek-folder-breadcrumb")
         self.assertIsNotNone(breadcrumb)
         for target in ("/civilisations/", "/civilisations/afrique/",
                        "/bibliotheque-mythologies-du-monde/civilisations-histoire-aksoum/"):
@@ -54,10 +54,10 @@ class YehaDmtCivilisationsTests(unittest.TestCase):
                          "https://bobmythos.fr" + URL)
         # Le générateur remplace seulement le premier nav. Il ne doit pas
         # détruire le fil d'Ariane rédigé juste après le header.
-        simulated = re.sub(r"<nav(?:\\s[^>]*)?>[\\s\\S]*?</nav>",
+        simulated = re.sub(r"<nav(?:\s[^>]*)?>[\s\S]*?</nav>",
                            "<nav class='site-nav'>Navigation générée</nav>",
                            self.raw, count=1, flags=re.IGNORECASE)
-        self.assertIn('aria-label="Fil d\\'Ariane"', simulated)
+        self.assertIn("Fil d'Ariane", simulated)
         self.assertIn('class="greek-folder-breadcrumb"', simulated)
 
     def test_references_and_accessible_note_targets(self):
