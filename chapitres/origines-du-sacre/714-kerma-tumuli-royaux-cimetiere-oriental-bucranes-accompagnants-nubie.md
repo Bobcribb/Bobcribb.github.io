@@ -386,3 +386,15 @@ L'hypothèse de sacrifices d'accompagnants est sérieuse pour certains ensembles
 Les illustrations seront intégrées seulement selon leurs licences et avec leur provenance : plans des tumuli du cimetière oriental de Reisner (1923), photographies institutionnelles de la Deffufa occidentale et de la Deffufa orientale, coupes d'un grand tumulus avec position des « personnes du corridor », céramiques kermaïtes noir-rouge, bucranes en contexte et carte des sites de Kerma et de Saï. Toute image de corps ou de restes humains requiert une contextualisation et une approche éthique. Il ne faut jamais représenter comme un fait assuré une scène d'exécution dont les étapes sont inconnues.
 
 **Renvois MYTHOS :** Abydos, Ire dynastie (chapitre 713) ; Ur et Puabi (chapitre 709) ; les nécropoles napatéennes et méroïtiques (chapitre 693) ; Hili et Djebel Hafeet (chapitre 712). Les numéros de ces études sont déjà attribués dans le registre de publication.
+
+---
+
+### Note éditoriale scientifique — Dominique Valbelle, Charles Bonnet et la mission de Kerma (7 novembre 2026)
+
+**Ouvrage de terrain et de synthèse :** Charles Bonnet, avec Dominique Valbelle, *La Ville de Kerma. Une capitale nubienne au sud de l'Égypte*, Lausanne, **Éditions Favre, 2014**, ISBN **978-2-8289-1427-1** ([fiche de l'éditeur](https://www.editionsfavre.com/livres/ville-de-kerma-la/)). La [bibliographie officielle de la mission suisse-franco-soudanaise de Kerma–Doukki Gel](https://kerma-doukkigel.ch/diffusion/ouvrages) confirme cet ouvrage et le distingue des volumes sur les sanctuaires de Doukki Gel, qui portent sur d'autres ensembles et phases.
+
+**Contribution française située :** la [notice du laboratoire Orient & Méditerranée](https://www.orient-mediterranee.com/member/valbelle-dominique/) confirme l'activité de terrain et épigraphique de Dominique Valbelle au Soudan, notamment à Kerma et Doukki Gel. Les travaux publiés par la mission documentent la ville, ses monuments, ses relations avec la vallée du Nil et la spécificité des traditions nubiennes ; ils ne doivent pas être réduits à une chronologie pharaonique importée.
+
+**Limites de l'inférence funéraire.** La présence de grands tumuli, de bucranes et de corps associés à une sépulture de haut rang résulte de contextes archéologiques différents ; leur réunion dans une synthèse sur le pouvoir nubien n'établit ni l'identité des causes de mort ni un rituel unique valable pour toutes les phases de Kerma. Les données de Reisner et les travaux bioarchéologiques doivent être réexaminés sépulture par sépulture. Pour la chronologie et la répartition des tumuli, préserver les références spécialisées déjà citées dans le manuscrit, en particulier Bonnet et Honegger, au lieu de leur substituer ce seul ouvrage général.
+
+**Statut :** références éditoriales et institutionnelles contrôlées, sans prétendre à une vérification intégrale des données de fouille ou à une approbation de MYTHOS par les archéologues.
