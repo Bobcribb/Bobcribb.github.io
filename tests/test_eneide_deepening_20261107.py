@@ -96,6 +96,62 @@ class EneideDeepeningTest(unittest.TestCase):
         self.assertIn("ne comprennent pas encore ces nouveaux développements",
                       doc.get_text(" ", strip=True))
 
+    def test_comparative_epirus_arcadia_sources_reader_and_anchors(self):
+        """Lectures universitaires des chants III et VIII : cohérence des sources et du lecteur."""
+        import re
+        from html import unescape
+        doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
+        checks = {
+            3: ("03-chant-iii.md", [
+                "« Antiquam exquirite matrem » : l'oracle, la Crète",
+                "Céléno et les tables mangées",
+                "Andromaque et la « parva Troia »",
+            ]),
+            8: ("08-chant-viii.md", [
+                "Du Tibre à Pallantée",
+                "Hercule et Cacus : mémoire religieuse",
+                "Le Palatin d'Évandre",
+                "Étreintes, regards et savoir",
+                "L'ekphrasis d'Actium",
+            ]),
+            14: ("14-empire-memoire.md", [
+                "Troie reproduite, Rome annoncée",
+            ]),
+            17: ("17-reperes-et-sources.md", [
+                "Dossier critique — chant III, mémoire d'Andromaque",
+            ]),
+        }
+        chapters = doc.select("section.philo-chapter")
+        self.assertEqual(len(chapters), 18)
+        for idx, (name, signatures) in checks.items():
+            raw = (CORPUS / name).read_text(encoding="utf-8")
+            section = chapters[idx]
+            render = section.get_text(" ", strip=True)
+            for label in signatures:
+                self.assertEqual(raw.count("## " + label), 1, name + " : " + label)
+                self.assertIn(label, render, name + " : " + label)
+            for paragraph in raw.split("\n\n"):
+                paragraph = paragraph.strip()
+                if not paragraph or paragraph.startswith("#") or paragraph.startswith("Références"):
+                    continue
+                if paragraph.startswith("**") or paragraph.startswith("- "):
+                    continue
+                # Les liens Markdown sont matérialisés en ancres, leur texte reste inchangé.
+                plain = re.sub(r"\[([^\]]+)\]\(https?://[^)]+\)", r"\1", paragraph)
+                plain = plain.replace("*", "").replace("\n", " ")
+                plain = unescape(plain)
+                self.assertIn(" ".join(plain.split()), " ".join(render.split()),
+                              name + " : paragraphe source absent du lecteur")
+        refs = (CORPUS / "17-reperes-et-sources.md").read_text(encoding="utf-8")
+        for doi in (
+            "10.2307/25011052", "10.1017/S0009838824000260",
+            "10.1017/S0017383506000271", "10.1525/ca.2014.33.2.281",
+            "10.1163/1568525X-BJA10123",
+        ):
+            self.assertIn(doi, refs)
+        all_ids = [e["id"] for e in doc.select("[id]")]
+        self.assertEqual(len(all_ids), len(set(all_ids)))
+
     def test_references_et_titles_sont_uniques(self):
         doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
         ids = [node["id"] for node in doc.select("[id]")]
