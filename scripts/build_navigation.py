@@ -1014,6 +1014,31 @@ def create_civilisations(entries, groups):
               ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Hudhud des Ifugao — Aliguyon et les chants du riz","Le texte intégral du volume historique XV, ses performances, ses variantes et ses sources.","TEXTE INTÉGRAL"),
               ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi : La Galigo","Autre épopée insulaire conservée et étudiée à partir des sources et des témoins manuscrits.","ÉTUDE ASSOCIÉE")
             ],"portal-grid-compact"))
+        if key == "asie":
+            # Parcours lié uniquement aux pages réellement indexées : pas de lien
+            # anticipé vers un manuscrit encore retenu dans une PR.
+            liangzhu_url = "/bibliotheque-mythologies-du-monde/civilisations-liangzhu-yangzi-neolithique/"
+            indexed_urls = {e["url"] for e in entries}
+            if liangzhu_url in indexed_urls:
+                bas_yangzi = [
+                    (liangzhu_url,
+                     "Liangzhu : ville, eau, riz et jades (3300–2300 av. n. è.)",
+                     "Monographie universitaire intégrale, 18 sections, sources UNESCO, PNAS et musées.",
+                     "ÉTUDE INTÉGRALE"),
+                    ("/bibliotheque-mythologies-du-monde/civilisations-histoire-chine-ancienne/",
+                     "Chine ancienne : des Shang aux Han",
+                     "Dossier chronologiquement distinct ; comparer les sources sans rétrodater les dynasties.",
+                     "CADRE HISTORIQUE"),
+                    ("/bibliotheque-mythologies-du-monde/civilisations-shu-sanxingdui-jinsha/",
+                     "Sanxingdui et Jinsha",
+                     "Comparer ateliers et cultures régionales sans supposer une filiation automatique.",
+                     "LECTURE CROISÉE"),
+                ]
+                bas_yangzi = [row for row in bas_yangzi if row[0] in indexed_urls]
+                related += section(
+                    "Bas Yangzi — urbanisme néolithique et savoirs hydrauliques",
+                    "Liangzhu, Chine ancienne et Shu : plusieurs périodes et traditions distinguées.",
+                    cards(bas_yangzi, "portal-grid-compact"))
         write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+related+section("Poursuivre l’exploration","",hub_cards)))
 
 def renovate_catalog(total):
