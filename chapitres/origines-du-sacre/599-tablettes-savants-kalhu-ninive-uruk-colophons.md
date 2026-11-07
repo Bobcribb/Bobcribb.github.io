@@ -205,3 +205,11 @@ Le chapitre propose de passer de la question « que savaient les prêtres ? » �
 - **[R9]** Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912 ; Friedrich Nietzsche, *La Généalogie de la morale*, deuxième dissertation, § 12, 1887. Références philosophiques dont l'usage comparatif est distingué des preuves assyriologiques.
 
 **Renvois thématiques :** dossiers MYTHOS sur l'autorité des oracles, la transmission des présages, les écrits de culte égyptiens et les secrets initiatiques grecs. **Sujet suivant, sans numéro réservé :** le savoir mis à l'épreuve : erreurs de copie, correction des textes rituels et querelles de compétence entre spécialistes dans l'Antiquité.
+
+---
+
+### Note critique documentaire — LO03-OS-599 (7 novembre 2026)
+
+**Publication scientifique en ligne consultée.** Jonathan Taylor, « [Library colophons](https://oracc.museum.upenn.edu/asbp/rlasb/librarycolophons/) », projet *Reading the Library of Ashurbanipal* (British Museum / Ludwig-Maximilians-Universität, 2022). La note explique qu'un colophon peut consigner scribe, copie et provenance, mais que **toutes les tablettes n'en portent pas**. Les colophons royaux d'Assurbanipal sont souvent stéréotypés et ne précisent pas nécessairement le scribe ni la date ; les colophons privés sont une autre catégorie. Le projet donne pour exemple la tablette **K 39** ([fiche d'objet du British Museum mentionnée par ORACC](https://www.britishmuseum.org/collection/object/W_K-39)) et renvoie à la typologie provisoire [Asb a / b / c](https://oracc.museum.upenn.edu/asbp/rlasb/Librarycolophons/Colophonsexplained/index.html). **Ne pas** extrapoler à toute la Mésopotamie une institution unique dite « bibliothèque sacerdotale ».
+
+**Historiographie française, sans fausse attribution de détail.** Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux* (Gallimard, 1987), [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb37506214w) : cadrage de l'écriture et des savoirs, **pas** lecture attestée de K 39 dans cet ouvrage. Dominique Charpin, éditeur d'archives de Mari, n'est pas cité comme éditeur de ce colophon de Ninive. **Statut :** article de projet ORACC consulté ; photographie BM et édition ligne à ligne de K 39 non directement consultées ; ne pas attribuer de traduction.
