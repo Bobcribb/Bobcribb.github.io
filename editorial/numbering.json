@@ -2230,6 +2230,12 @@
           "path": "chapitres/encyclopedie/chapitre-485-geryon-erytheia-stesichore-heracles-tartessos-monstre-heros.md",
           "request_sha256": "761c23edf0b8e18996686878cea6335cd6ef16c18efb6f2362c26fe1ccffb7ed",
           "initial_source_sha256": "70942c669d8acaeecb8ca8c49056e1ac44e09b227b54a2e5c09aa3d7d17f7855"
+        },
+        "24a7e3c9-6852-4d42-a971-202611071257": {
+          "number": 486,
+          "path": "chapitres/encyclopedie/chapitre-486-eos-tithonos-aurore-immortalite-vieillesse-sappho-memnon-iconographie.md",
+          "request_sha256": "cee8e0d40fbb9255094103088509ad1d9a2088d03f9dfb9260776f9c8b3f3493",
+          "initial_source_sha256": "9cdc22c1a1a5f4bb35ed427a4719c970dec2a4f8c314fbd561bf747c7da3c141"
         }
       }
     },
@@ -4753,6 +4759,12 @@
           "path": "chapitres/comparatif/volume-cccxlvii-mc-120-pierres-du-ciel-fer-meteoritique-betyles-emese-pessinonte-artemis-hajar.md",
           "request_sha256": "d19a79cabf77de8b5fcc8102dff3fd62cb2c406dc6949f88de2c987d8b49ffca",
           "initial_source_sha256": "d073f532fc0f6bfd8807ec858e5d9ce85cba3f26930dca333aea57925cc1abfe"
+        },
+        "ab122d4e-7d7b-4ad9-a85a-202611071249": {
+          "number": 348,
+          "path": "chapitres/comparatif/volume-cccxlviii-mc-122-gnomon-ombres-temps-egypte-herodote-vitruve-zhouli-zhoubi-surya-siddhanta.md",
+          "request_sha256": "2252d7550caf7caced2922f4d29fe5cfa02969ed233be09886944bcbfc4c4640",
+          "initial_source_sha256": "ab9aeec228ae237ce87b11a54f006c9582eed61f3ee10a4fd8f51ca53faa024d"
         }
       }
     }
