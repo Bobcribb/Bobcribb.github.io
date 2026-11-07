@@ -40,6 +40,8 @@ AFRICAN = ("afrique","aksoum","carthage","zagwe","garamantes","grand-zimbabwe","
 EUROPEAN = ("daces","romain-orient","grece-antique","celtes-gaules","rome-antique","sardaigne","tartessos","thraces","etrusques","egee-bronze")
 AMERICAN = ("sonora","andes","cahokia","caral","chavin","chimu","el-tajin","mexicas","mixteques","mochicas","mayas","olmeques","pueblos","muisca","teotihuacan","tiwanaku","tolteques","uxmal","zapoteques")
 OCEANIAN = ("oceanie","rapa-nui")
+# Classification additive pour le nouveau dossier, sans écraser les extensions parallèles des PR ouvertes.
+AFRICAN += ("kanem-bornou",)
 
 def esc(x): return html.escape(str(x),quote=True)
 def write(slug,content):
