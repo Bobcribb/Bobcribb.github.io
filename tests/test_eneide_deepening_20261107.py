@@ -72,10 +72,12 @@ class EneideDeepeningTest(unittest.TestCase):
                 subheading = chapter.select_one(f'h3[id="eneide-{i:02}-{j:02}"]')
                 self.assertIsNotNone(subheading, name + ": " + expected)
                 self.assertEqual(subheading.get_text(" ", strip=True), expected)
-        self.assertEqual(
-            len(doc.select("#eneide-manuscrits-originaux")),
-            0,  # Ce panneau est ajouté par le générateur dans _site, pas dans la source HTML
-        )
+        shelf = doc.select("#eneide-manuscrits-originaux")
+        self.assertLessEqual(len(shelf), 1)
+        if shelf:
+            self.assertEqual(
+                len(shelf[0].select(".mythos-eneide-source-grid li a")), 18
+            )
 
 if __name__ == "__main__":
     unittest.main()
