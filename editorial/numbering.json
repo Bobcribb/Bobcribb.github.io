@@ -1984,6 +1984,12 @@
           "path": "chapitres/encyclopedie/chapitre-475-hera-argiva-foce-sele-poseidonia-jason-argonautes-metopes-votifs-frontiere.md",
           "request_sha256": "4c92fa951489f0b153218d6773888f9ddc87abd384b4291bd219be628df9c872",
           "initial_source_sha256": "0ff5bf3e618ea974ede6fbd63946ea147315df5791f06af05ba1ea1b4bea5bbd"
+        },
+        "4a8f179c-7b14-4c0c-a2d1-6fb89a192c73": {
+          "number": 476,
+          "path": "chapitres/encyclopedie/chapitre-476-artemis-hemera-lousoi-proitides-melampous-purification-arcadie-metaponte.md",
+          "request_sha256": "8db6a2e063b7b5e9a09f8733317c89bd100fca361e2f6c407897c52a4ec557bb",
+          "initial_source_sha256": "3309685352cf941718323633b32b1832f9eaf0134ccc80f7723b79dc969de926"
         }
       }
     },
