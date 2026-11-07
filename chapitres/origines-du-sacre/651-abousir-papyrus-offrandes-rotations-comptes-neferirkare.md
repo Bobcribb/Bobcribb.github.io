@@ -199,3 +199,13 @@ L’enquête suivante portera sur une autre configuration, plus tardive : dans l
 - **[R5]** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* ; Marcel Detienne, *Comparer l’incomparable* ; Émile Durkheim, *Les Formes élémentaires de la vie religieuse* (1912) ; G. W. F. Hegel, *Principes de la philosophie du droit* (1821) ; Friedrich Nietzsche, *La Généalogie de la morale* (1887). Références **conceptuelles**, non témoignages anciens.
 
 **Limites de l’étude :** les cotes, genres documentaires et principales notices ont été vérifiés ; aucune photographie du Louvre n’a été reproduite ; les lectures hiératiques spécifiques reposent sur les éditions et traductions identifiées. Aucun montant comptable ni contenu de lacune n’est reconstruit sans source.
+
+---
+
+### Annexe scientifique documentaire — Abousir, microlecture d'un tableau de roulement (7 novembre 2026) — MYTHOS-SCI-20261107-L25-ODS-651
+
+**Pièce identifiée par son conservateur :** University College London, Petrie Museum / Digital Egypt, papyrus d'Abousir, **UC 32366** (« University College Sheet B »), [fiche et traduction de la feuille](https://www.ucl.ac.uk/museums-static/digitalegypt/abughurab/abusirtranslation1.html). Le commentaire rattache la pièce à **de Cenival et Posener-Kriéger (1968), pl. 8**, et à **Paule Posener-Kriéger, 1976, p. 121–122**. Document fragmentaire à colonnes de service ; les lignes horizontales de ses parallèles correspondent à des jours de roulement. La fiche signale au **huitième jour, fragment D**, la substitution par le scribe d'un **trait rouge** au nom de l'agent **Izy**, marque d'une tâche non exécutée dans la lecture éditoriale proposée. Cette micro-observation n'apparaissait pas dans le chapitre et ne doit pas être généralisée à tout le personnel.
+
+**Édition française :** Paule Posener-Kriéger, *Les archives du temple funéraire de Néferirkarê-Kakaï. I–II*, Le Caire, **IFAO**, *Bibliothèque d'étude* **65** (**1976**), [catalogue officiel de l'IFAO](https://www.ifao.egnet.net/publications/catalogue/?coll=bietud&nb=10&nv=0&page=13&total=150). La notice de l'éditeur établit les métadonnées ; seules la fiche de lecture UCL et les références précises ci-dessus soutiennent l'interprétation du signe rouge.
+
+**Chaîne d'inférence :** **objet et cote attestés** : UC 32366. **Observation interprétée par la notice** : échec/absence d'exécution à une occurrence du service. **Non établi** : le motif de cet écart, une sanction, le volume de denrées effectivement remis ou la tenue effective du rite ce jour-là. Ni les autres papyrus d'Abousir ni un protocole complet des offrandes ne sont reconstruits à partir de cette seule feuille. Aucune consultation d'originaux hiératiques ou approbation muséale de MYTHOS n'est revendiquée.
