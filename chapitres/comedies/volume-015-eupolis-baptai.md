@@ -260,3 +260,13 @@ La comédie antique se trouvait à la frontière du rite, de la performance et d
 
 
 **Suite du cycle :** [Volume XVI — Eupolis, *Kolakes* (*Les Flatteurs*)](/chapitres/comedies/volume-016-eupolis-kolakes/), étude du banquet de Callias, de Protagoras et de la dépendance produite par l'éloge. Ce lien complète les parcours existants sans modifier le texte antérieur.
+
+---
+
+### Annexe scientifique documentaire — *Baptai* : séparation des témoignages et des fragments (7 novembre 2026) — MYTHOS-SCI-20261107-L25-COM-BAPT
+
+**Édition savante effectivement repérée dans son catalogue et son sommaire :** S. Douglas Olson, *Eupolis: Testimonia and Aiges–Demoi (frr. 1–146)*, *Fragmenta Comica* **8.1**, Heidelberg, Verlag Antike, **2017**, publication numérique par la Heidelberger Akademie der Wissenschaften, [édition numérisée](https://digi.hadw-bw.de/view/frc8_1), DOI **[10.11588/diglit.53729](https://doi.org/10.11588/diglit.53729)**. L'index distingue pour **Βάπται** les **testimonia, p. 233–239**, l'**introduction, p. 239–244**, et les **fragments, p. 245–285**. Cette répartition a été consultée ; elle n'autorise pas à attribuer à Olson une lecture particulière d'un fragment non vérifié dans son contexte.
+
+**Éclairage français à portée distincte :** Françoise Frontisi-Ducroux, *Du masque au visage. Aspects de l'identité en Grèce ancienne*, Paris, Flammarion, **1995**, [notice de l'INHA](https://agorha.inha.fr/ark:/54721/4420a9ae-7228-41a9-90ac-aa88b43f9e30), [bibliographie et champ de recherche ANHIMA](https://www.anhima.fr/le-centre/les-membres/emerites-et-honoraires/francoise-frontisi-ducroux). C'est un **outil de contexte** pour différencier les types de visages, masques et représentations ; ce livre **n'est pas une attestation** de masque porté dans une scène précise des *Baptai*.
+
+**Consigne philologique vérifiable :** pour chaque affirmation sur Cotyto, Alcibiade, le costume ou la prétendue mort d'Eupolis, noter **le numéro précis du fragment/témoignage chez Kassel–Austin (PCG V)**, l'auteur antique transmetteur, puis confronter au commentaire d'Olson **page et passage effectivement lus**. À ce stade, le découpage éditorial est **contrôlé**, mais aucune hypothèse scénique supplémentaire n'est promue en fait. Aucun passage reconstitué [C] de MYTHOS n'est présenté comme un fragment antique ; aucun avis de la chercheuse n'a été demandé ou fabriqué.
