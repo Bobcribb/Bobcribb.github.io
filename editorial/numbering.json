@@ -2020,6 +2020,12 @@
           "path": "chapitres/encyclopedie/chapitre-477-aphrodite-pandemos-peitho-athenes-synoecisme-ig-ii3-879.md",
           "request_sha256": "6dcd67b7e48ee56643f6bec2f5b739a4da8fc0475c1f86dca8f47873a6e8590d",
           "initial_source_sha256": "32076ef6ad74674d3f824cbbc442c2d5a5172db6fddacfc833e97e0981222d7f"
+        },
+        "7b9c12a5-3f2e-4e77-9a44-202611070801": {
+          "number": 478,
+          "path": "chapitres/encyclopedie/chapitre-478-apollon-maleatas-epidaure-kynortion-malos-isyllos-asclepios-sanctuaire.md",
+          "request_sha256": "fb3c79154bd9c5f9e82ea276ffe5cbb0e13fb14f1d7a3fb74e97f6fd7c67c9d4",
+          "initial_source_sha256": "21369d5056169b7930ca4d49a09013dfbb8f20ff2bd858b47e19cc768f1e5d0b"
         }
       }
     },
