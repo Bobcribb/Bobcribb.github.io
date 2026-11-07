@@ -451,3 +451,12 @@ Un comparatif documentaire final réunira : cylindre royal, stèle de règne, ma
 **Note éditoriale.** Ce manuscrit apporte un angle spécifique au corpus MYTHOS ; il ne remplace pas les anciens chapitres sur les rêves sacrés ou la ruse divine. Il ne réserve aucun numéro romain. Une attribution canonique, un build réussi, le rendu HTML et la disponibilité publique sur bobmythos.fr doivent être vérifiés séparément. Les autres séries automatiques et leurs horaires sont laissés inchangés.
 
 *Fin de la monographie universitaire MC-041 — 4 novembre 2026.*
+
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Contrôle matériel positif :** le **Cylindre A de Gudéa** est le Louvre **MNB 1512**, provenant de Tello, daté approximativement de **2120–2110 av. J.-C.**, 30 colonnes, [notice officielle](https://collections.louvre.fr/ark:/53355/cl010124631). La notice commente spécifiquement le songe de Gudéa et cite **cylindre A, colonne IX** concernant la gloire souhaitée du temple. L'identifiant **AO 11391**, qui correspond à une **tablette d'Umma**, ne doit jamais être employé pour ce cylindre ([contre-vérification Louvre](https://collections.louvre.fr/ark:/53355/cl010136094)).
+
+**Éditions et bibliographie scientifique recensées sur la notice :** François Thureau-Dangin, *Les Cylindres de Goudéa* (TCL 8, 1925), pl. 1–30 ; Maurice Lambert et Raymond Tournay, « Le Cylindre A de Gudea », *Revue biblique* 55/3 (1948), p. 403–437 ; Dietz Otto Edzard, *Gudea and His Dynasty*, RIME 3/1 (1997). Dominique Charpin, « Le département des Antiquités orientales du Louvre », *RA* 118 (2024), p. 165–180, est répertorié dans la bibliographie du Louvre : **référence de contextualisation, sans lecture intégrale ici**.
+
+**Limite comparative :** la présence d'une inscription narrative du rêve sur un objet royal ne permet pas de conclure que les songes de Thoutmôsis IV, Ḫattušili III, Xerxès et les corpus bibliques relèvent d'un même rituel ou d'une transmission commune. Les versions et dates de ces dossiers restent à collationner séparément.

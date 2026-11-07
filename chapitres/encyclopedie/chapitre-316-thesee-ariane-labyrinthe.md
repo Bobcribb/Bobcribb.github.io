@@ -177,3 +177,12 @@ Thésée ne vainc pas le Minotaure seul. Le fil d'Ariane, obtenu grâce à Déda
 ## XXXIII. Index éditorial pour MYTHOS
 
 **Série :** Grande encyclopédie universitaire — mythologie grecque. **Volume :** XCVIII. **Chapitre :** 316. **Titre canonique :** Thésée, Ariane et le Labyrinthe — le Minotaure, le fil, l'abandon et la libération d'Athènes. **Précédent :** 355, Androgée et Minos. **Suivant :** chapitre 317, à sélectionner après contrôle des dossiers déjà publiés, en privilégiant un sujet grec distinct : par exemple Dédale et Talos/Perdix, l'inventeur, la jalousie et l'exil, sous réserve d'absence de doublon. **Personnages :** Thésée, Ariane, Minotaure, Dédale, Égée, Minos, Pasiphaé, Dionysos, Artémis, Taurus. **Lieux :** Athènes, Cnossos, Naxos, Dia, Délos, Crète. **Thèmes :** fil, labyrinthe, mêtis, serment, abandon, héroïsme, rites, iconographie, souveraineté. **Liens de série :** 355 Androgée et Minos ; 354 Les Hyacinthides ; 313 Léos et les Léocorides. **Protection :** manuscrit public ; aucun document privé ; le fichier n'est pas une sauvegarde intégrale du projet.
+
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Témoin mythographique consulté :** [Pseudo-Apollodore, *Bibliothèque*, *Épitomé* 1,6–10](https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0548.tlg002.perseus-eng2:1.6-1.10/), traduction de l'édition Loeb accessible via Perseus. Le récit fait intervenir l'aide d'Ariane, une condition matrimoniale, les indications de Dédale, le fil et la sortie du labyrinthe. C'est une synthèse mythographique tardive ; elle ne suffit pas à établir la forme du récit dans les textes archaïques ni l'architecture réelle du palais de Cnossos.
+
+**Chercheuse française (bibliographie identifiée, ouvrage non collationné) :** Françoise Frontisi-Ducroux, *Ouvrages de dames. Ariane, Hélène, Pénélope…*, Paris, Seuil, **2009**, ISBN **9782020979085**, [notice éditoriale diffusée](https://www.decitre.fr/livres/ouvrages-de-dames-9782020979085.html). Son approche du tissage et des rapports de sexes peut éclairer l'interprétation du fil, sans faire de cette lecture un commentaire direct de l'*Épitomé* ou une preuve archéologique. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, constitue un cadre méthodologique général (passage non collationné).
+
+**Limites :** séparer les variantes relatives à l'abandon d'Ariane, la mémoire rituelle de Délos et les reconstructions modernes du Labyrinthe ; ne pas présenter une hypothèse architecturale comme une description antique vérifiée.

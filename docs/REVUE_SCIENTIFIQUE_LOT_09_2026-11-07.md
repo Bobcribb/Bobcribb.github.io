@@ -1,0 +1,48 @@
+# MYTHOS — Revue scientifique du corpus, lot 09
+
+**Préparation : 7 novembre 2026.**  
+**Base GitHub :** `main`, commit `52ba12fa8d91f12982829a9c276fc259a16700a0`.  
+**Suivi :** [issue n° 158](https://github.com/Bobcribb/Bobcribb.github.io/issues/158) ; [PR pilote n° 159](https://github.com/Bobcribb/Bobcribb.github.io/pull/159) et son [répertoire de chercheurs français](https://github.com/Bobcribb/Bobcribb.github.io/blob/scientifique/notes-sources-20261107-01/docs/REFERENCES_CHERCHEURS_FRANCAIS_2026-11-07.md).  
+**Objet :** huit annotations datées, autonomes et ajoutées en fin de manuscrit, plus un audit documentaire **en lecture seule** d'une reconstitution. Les huit textes d'origine restent préfixes intacts ; pas de nouvel UUID, numéro, média, planification, publication ou déploiement.
+
+## Répertoire du lot et degré de contrôle
+
+| Série et manuscrit | Preuve contrôlée | Travaux français intégrés / limites |
+| --- | --- | --- |
+| Tragédies — `chapitres/tragedies/volume-cxc-euripide-les-bacchantes.md` | Euripide, *Bacchantes* 1–63 (prologue grec), article Vernant 1985, DOI 10.3406/hom.1985.368541 | Jean-Pierre Vernant : article consultable via Persée ; Françoise Frontisi-Ducroux, *Le Dieu-masque* (1991) : **cadrage** iconographique, non édition ni validation du texte. |
+| Comédies — `chapitres/comedies/volume-014-eupolis-marikas.md` | Aristophane, *Nuées* 553 et suiv. (texte grec accessible), Albio Cesare Cassio, *CQ* 35/1 (1985), p. 38–42, DOI 10.1017/S0009838800014543 | PCG/Kock, P.Oxy. 2741 et Quintilien I, 10, 18 mentionnés **d'après l'extrait académique**, non directement collationnés. Ian C. Storey (2003), DOI 10.1093/acprof:oso/9780199259922.003.0006, résumé consulté. |
+| Origines / Égypte — `chapitres/origines-du-sacre/632-thebes-papyrus-abbott-leopold-amherst-enquetes-pillage-tombes.md` | Papyrus Abbott, BM **EA 10221**, répertoire hiératique de Tsukuba ; T. Eric Peet, édition en **deux volumes, 1930** : métadonnées vérifiées | Nicolas Grimal (1991), Françoise Dunand et Christiane Zivie-Coche (2006) : bibliographie de cadrage, aucune page précise attribuée. Dépositions non collationnées dans Peet. |
+| Origines / Mésopotamie — `chapitres/origines-du-sacre/626-interet-dette-sacree-mas-sibtum-neshek-tarbit-mesopotamie-bible.md` | Louvre **SB 8** (autre cote **AS 6064**) ; Hammurabi **§48** en traduction via Yale | Dominique Charpin (2010) et Jean Bottéro (1987), cadrage de la diplomatique et de la société. §48 ≠ fixation d'un taux d'intérêt général ; texte akkadien à collationner. |
+| Origines / Iran achéménide — `chapitres/origines-du-sacre/609-cyrus-retour-dieux-objets-sacres-esdras-babylone.md` | Cylindre de Cyrus, British Museum **90920**, documentation Met 2013 ; renvoi comparatif à *Esdras* 1,7–11 | Pierre Briant (1996), contexte historique, livre non intégralement consulté ; Dominique Charpin, comparaison méthodologique. **Jérusalem absente du cylindre**. |
+| Mythologie comparée — `chapitres/comparatif/volume-ccxvi-mc-041-reves-souverains-gudea-thoutmosis-hattusili-joseph-daniel-xerxes-pouvoir.md` | Louvre **MNB 1512**, Cylindre A de Gudéa, col. IX, 30 colonnes, vers **2120–2110 av. J.-C.** | Thureau-Dangin (TCL 8, 1925), Lambert et Tournay (*Revue biblique* 55/3, 1948), Charpin (2024, signalé dans le catalogue). Éditions et autres rêves non entièrement collationnés. |
+| Encyclopédie grecque — `chapitres/encyclopedie/chapitre-316-thesee-ariane-labyrinthe.md` | Pseudo-Apollodore, *Épitomé* **1,6–10**, édition traduite accessible dans Perseus | Françoise Frontisi-Ducroux, *Ouvrages de dames* (Seuil, **2009**, ISBN 9782020979085) : notice bibliographique ; Jean-Pierre Vernant : cadrage. Aucune structure architecturale crétoise attestée par ce récit mythographique. |
+| Philosophie — `chapitres/comparatif/volume-lxxvii-jacques-ranciere-mesentente-partage-du-sensible.md` | Aristote, *Politique* **I, 2, 1253a 9–18** ; Rancière, *La Mésentente*, Galilée **1995**, BnF ; nouvelle éd. La Fabrique **2025**, ISBN 9782358723039 | Nicole Loraux, *Les Enfants d'Athéna* (1981) pour contextualisation de l'idéologie civique ; pages internes des ouvrages de Rancière et Loraux non collationnées. |
+
+## Sources ouvertes et vérifications décisives
+
+1. [Persée — Vernant, « Le Dionysos masqué des Bacchantes d'Euripide », 1985](https://www.persee.fr/doc/hom_0439-4216_1985_num_25_93_368541) — DOI [10.3406/hom.1985.368541](https://doi.org/10.3406/hom.1985.368541). Le site fournit l'accès à l'article, avec certaines illustrations masquées pour les droits.
+2. [Texte grec des *Bacchantes*](https://plato-scroll.com/s/eur-bacchae-e/) — prologue lu ; collation intégrale non déclarée.
+3. [Perseus — *Nuées* 510–626](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:510-626/) ; [Cassio, Cambridge 1985](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/old-persian-marika-eupolis-marikas-and-aristophanes-knights/18FEFB009BA9FD4D3925A7A8FADF0477), DOI [10.1017/S0009838800014543](https://doi.org/10.1017/S0009838800014543), extrait et références, **accès restreint** au texte intégral.
+4. [Ian C. Storey — *Eupolis*, chapitre « The ‘War’ between the Poets », 2003](https://academic.oup.com/book/41053/chapter-abstract/349383388), DOI [10.1093/acprof:oso/9780199259922.003.0006](https://doi.org/10.1093/acprof:oso/9780199259922.003.0006), notice et résumé.
+5. [Université de Tsukuba — Hieratic Database, papyrus Abbott BM EA10221](https://wdb.jinsha.tsukuba.ac.jp/en/wdb/hdb/gallery/bm10221) ; [catalogue de T. Eric Peet, 1930, *The Great Tomb-Robberies of the Twentieth Egyptian Dynasty*](https://ci.nii.ac.jp/ncid/BA78410478).
+6. [Louvre — stèle de Hammurabi SB 8](https://collections.louvre.fr/ark:/53355/cl010174436) ; [Yale Avalon — traduction anglaise des lois, §48](https://avalon.law.yale.edu/ancient/hamcode.asp).
+7. [Metropolitan Museum — exposition du cylindre de Cyrus, 20 juin–4 août 2013](https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder) ; [objets exposés : BM 90920, BM 47134 et BM 47176](https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder/works-on-view).
+8. [Louvre — Cylindre A de Gudéa MNB 1512](https://collections.louvre.fr/ark:/53355/cl010124631). **Contrôle négatif notable :** [AO 11391 est une tablette distincte d'Umma](https://collections.louvre.fr/ark:/53355/cl010136094) ; cet identifiant ne doit pas être recyclé pour le Cylindre A.
+9. [Perseus — Pseudo-Apollodore, *Épitomé* 1,6–10](https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0548.tlg002.perseus-eng2:1.6-1.10/) ; Françoise Frontisi-Ducroux, *Ouvrages de dames* (2009), ISBN 9782020979085, [notice bibliographique](https://www.decitre.fr/livres/ouvrages-de-dames-9782020979085.html).
+10. [BnF — Rancière, *La Mésentente*, première édition 1995](https://catalogue.bnf.fr/ark:/12148/cb35773051b) ; [La Fabrique, réédition août 2025](https://lafabrique.fr/la-mesentente/) ; [Aristote, *Politique* I, 2, 1253a, Perseus](https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0086.tlg035.perseus-eng2:1.1252a-1.1254a/).
+
+## Audit de reconstitution : Delphes, Tholos, DEL-THO-001
+
+**Notice existante lue, aucun changement :** `assets/reconstitutions-3d/notices/delphes-tholos-athena-pronaia.json` ; image **WebP présente dans l'arbre GitHub** sous `assets/reconstitutions-3d/delphes-tholos-athena-pronaia.webp`. Identifiant `DEL-THO-001` ; période affichée **vers 380–370 av. J.-C.** ; format indiqué par la notice **1536 × 864** (dimensions du fichier non mesurées indépendamment).
+
+**Source institutionnelle réellement consultée :** [Ministère grec de la Culture — « La Tholos »](https://delphi.culture.gr/les-tholos/), ainsi que sa [version anglaise plus développée](https://delphi.culture.gr/the-tholos/). La notice donne la date **380–370 av. J.-C.**, **20 colonnes doriques**, **10 ou 13 demi-colonnes corinthiennes** et le diamètre **13,5 m**. Elle souligne **l'incertitude persistante de la fonction de l'édifice**. L'attribution de Théodore le Phocien dépend de Vitruve et de l'historiographie architecturale.
+
+**Concordance documentaire :** la notice GitHub contient ces précautions et qualifie toit, décor et végétation d'interprétations, sans certifier leur restitution. **Incertitudes restantes :** image non inspectée pixel par pixel, empreinte WebP non comparée à la version publique et accessibilité HTTPS de la galerie non contrôlée. Ni le fichier binaire, ni le catalogue, ni la notice JSON n'ont été modifiés.
+
+## Protocole de conservation et limites
+
+- Le lot est composé uniquement de **huit annexes Markdown** en fin de manuscrit, et de **ce document neuf**. Aucun titre, numéro canonique, UUID, image ou registre transactionnel n'est édité.
+- Les références françaises (Vernant, Frontisi-Ducroux, Grimal, Dunand, Zivie-Coche, Bottéro, Charpin, Briant, Loraux) sont intégrées au degré de vérification réellement atteint. Une fiche de bibliothèque, un catalogue de musée ou un extrait d'article **ne vaut pas** relecture scientifique externe.
+- Sources académiques internationales conservées : Euripide, Aristophane, Pseudo-Apollodore, Aristote ; Cassio, Storey, Peet, Edzard, RIME, Yale, Metropolitan Museum.
+- Aucune note de professeur, citation inédite ou approbation institutionnelle n'est alléguée. Les comparaisons entre cultures restent hypothétiques en l'absence de chaîne documentaire démontrée.
+- **Statut de travail :** « annoté en PR brouillon » seulement. Les validations GitHub Actions et la vérification publique sont à contrôler après création de PR ; **aucune fusion et aucun déploiement ne sont autorisés dans ce lot**.

@@ -358,3 +358,12 @@ Les images de Dionysos sur des vases attiques peuvent illustrer le culte ou l'im
 La lecture nietzschéenne de la dissolution de l'individu, la question platonicienne de la moralité des dieux et les analyses modernes du rituel peuvent éclairer la pièce, mais aucune n'épuise son ambiguïté. Euripide laisse au spectateur la tâche de penser ensemble puissance, vérité et justice.
 
 **Protection éditoriale :** volume CXC autonome ; aucun fichier existant modifié ; doublon historique de numérotation CLVIII signalé pour audit ; aucun brouillon privé ni intervention WordPress.
+
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Témoin antique contrôlé :** Euripide, *Bacchantes*, prologue, v. 1–63 (Dionysos se présente comme fils de Sémélé et signale son apparence humaine). Texte grec consulté dans la transcription ouverte de l'œuvre : https://plato-scroll.com/s/eur-bacchae-e/ ; confrontations ultérieures à effectuer sur l'édition critique Murray (1913) et les éditions plus récentes.
+
+**Recherche française consultée :** Jean-Pierre Vernant, « Le Dionysos masqué des Bacchantes d'Euripide », *L'Homme* 25/93 (1985), p. 31–58, DOI [10.3406/hom.1985.368541](https://doi.org/10.3406/hom.1985.368541) ; texte de l'article accessible sur [Persée](https://www.persee.fr/doc/hom_0439-4216_1985_num_25_93_368541). La mise en scène de la présence divine sous forme humaine est un fait textuel ; son interprétation comme jeu d'altérité et de masque est une lecture savante, non un témoignage cultuel direct. Françoise Frontisi-Ducroux, *Le Dieu-masque. Une figure du Dionysos d'Athènes* (1991), est ajoutée comme **bibliographie de cadrage iconographique** (édition non collationnée), sans transposer automatiquement les images de vases à la scénographie des *Bacchantes*.
+
+**Limite :** aucun costume, masque précis ni rituel historique ne peut être reconstitué par la seule lecture du prologue. Les vers du dénouement et les lacunes demandent une collation séparée ; aucune approbation de ces chercheurs n'est alléguée.

@@ -106,3 +106,12 @@ Les travaux de **Jean-Pierre Vernant** sur les formes grecques de pensée et l'a
 **Navigation :** [Volume XIII — *Dēmoi*](/chapitres/comedies/volume-013-eupolis-demoi/) · [Volume XV — *Baptai*](/chapitres/comedies/volume-015-eupolis-baptai/) · [Théâtre grec](/theatre/) · [Index intégral](/rubriques/).
 
 *MYTHOS — dossier public de recherche ; les lacunes du texte antique sont maintenues visibles.*
+
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Source antique lue :** Aristophane, *Nuées* (seconde version), v. 553 et suivants, mention de l'œuvre *Marikas* d'Eupolis, dans le [texte grec Perseus, v. 510–626](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2:510-626/). Il s'agit d'une réplique polémique d'un rival et non de l'argument complet de la pièce perdue.
+
+**Étude contrôlée (extrait, non article intégral) :** Albio Cesare Cassio, « Old Persian *Marika-*, Eupolis *Marikas* and Aristophanes' *Knights* », *Classical Quarterly* 35/1 (1985), p. 38–42, DOI [10.1017/S0009838800014543](https://doi.org/10.1017/S0009838800014543). Le résumé de [Cambridge University Press](https://www.cambridge.org/core/journals/classical-quarterly/article/abs/old-persian-marika-eupolis-marikas-and-aristophanes-knights/18FEFB009BA9FD4D3925A7A8FADF0477) identifie notamment Quintilien, *Institutio oratoria* I, 10, 18 (Eupolis fr. 193, numérotation Kock), et le commentaire de P.Oxy. 2741 : ces deux témoins **ne sont pas collationnés directement ici**. Ian C. Storey, *Eupolis* (Oxford, 2003), chapitre « The ‘War’ between the Poets », p. 278–303, DOI [10.1093/acprof:oso/9780199259922.003.0006](https://doi.org/10.1093/acprof:oso/9780199259922.003.0006), notice/résumé contrôlés.
+
+**Limite :** la satire d'Hyperbolos, la répartition sociale du chœur et l'étymologie possible du nom ne fournissent ni texte continu ni distribution scénique certaine. Les scènes modernes [C] du chapitre demeurent des créations contemporaines.

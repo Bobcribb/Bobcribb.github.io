@@ -177,3 +177,11 @@ La grande découverte comparatiste n'est donc ni l'idée que tous les temples pr
 9. Friedrich Nietzsche, *Zur Genealogie der Moral* (1887), deuxième dissertation ; G. W. F. Hegel, *Grundlinien der Philosophie des Rechts* (1821) ; Émile Durkheim, *Les Formes élémentaires de la vie religieuse* (1912). Ces références appartiennent à la comparaison philosophique, non à l'établissement des lectures cunéiformes ou hébraïques.
 
 *Note éditoriale : aucune référence de ligne cunéiforme non collationnée n'a été créée ; les proportions présentées ne sont pas des taux universels. Les variables de titre sont exclusivement celles attribuées par la file de publication.*
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Source matérielle contrôlée :** stèle des « lois » de Hammurabi, musée du Louvre **SB 8** (autre numéro AS 6064), vers XVIIIe siècle av. J.-C., provenance de fouille Suse, [notice officielle](https://collections.louvre.fr/ark:/53355/cl010174436). La notice distingue monument royal et recueil de décisions ; elle n'édite pas à elle seule tous les paragraphes en akkadien.
+
+**Passage identifié dans une traduction disponible :** § **48**, règles pour une mauvaise récolte, avec report des prestations du débiteur, texte anglais ancien reproduit par le [projet Avalon, Yale](https://avalon.law.yale.edu/ancient/hamcode.asp). La formulation anglaise ancienne « rent » ne vaut pas établissement philologique de *ṣibtum* ; ni le §48 ni la stèle n'autorisent à fixer un taux universel pour toutes les périodes. Le texte cunéiforme et les calculs du chapitre restent à vérifier dans une édition assyriologique moderne.
+
+**Chercheurs français :** Dominique Charpin, *Writing, Law, and Kingship in Old Babylonian Mesopotamia* (2010), pour la diplomatique des obligations ; Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux* (1987), pour le cadre social (références bibliographiques, **passages exacts non collationnés**). Le contraste avec Exode 22,24 et Lévitique 25,35–37 relève d'une comparaison de normes, non d'une filiation prouvée.
