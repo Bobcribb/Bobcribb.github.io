@@ -139,3 +139,14 @@ Les récits de naissance divine et de sanctuarisation d'un lieu existent dans d'
 **Entrées :** Apollon Délien ; Artémis ; Léto ; Zeus ; Héra ; Ilithyie ; Iris ; Thémis ; Délos ; Ortygie ; palmier sacré ; *Hymne homérique à Apollon* ; Déliennes ; Ioniens ; chœurs ; sanctuaire ; Terrasse des Lions ; lac sacré ; Callimaque ; Théogonie ; naissance divine.  
 **Chemin :** `chapitres/encyclopedie/chapitre-345-apollon-delien-leto-artemis-naissance-divine.md`.  
 **Prochain chapitre proposé :** 346, volume CXXVIII — *Callimaque, Délos et l'île errante : réécriture hellénistique de la naissance d'Apollon*. Vérifier l'avancement effectif avant création.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Sources antiques identifiées.** *Hymne homérique à Apollon* **89–126** : retard d'Ilithyie puis naissance d'Apollon sur Délos ; **146–176** : réunion festive des Ioniens et **Déliennes**. Une partie de l'hymne est citée comme traditionnelle chez Thucydide **III, 104**, qui atteste une réception ancienne sans identifier sûrement le compositeur de l'hymne. [Présentation des passages 146–150 et 165–172 par Harvard CHS](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:18.590/).
+
+**Étude philologique.** Kyle **Bonnell**, *Homeric Hymn to Apollo: Introduction and Commentary on Lines 1–178*, thèse de doctorat, **University of Oxford, 2019**, DOI **10.5287/ora-koraxvxro** ([archive ORA](https://ora.ox.ac.uk/objects/uuid:09ead851-6bb9-4a87-9680-a2b020bd2c43)). **Notice et résumé détaillé consultés ; texte intégral non collationné.** Sa proposition d'unité du chant et de performance délienne au **VIe siècle av. J.-C.** reste **hypothétique**, non datation assurée.
+
+**Recherche française archéologique.** Philippe Bruneau, *Recherches sur les cultes de Délos à l'époque hellénistique et à l'époque impériale*, BEFAR **217**, **1970**, [École française d'Athènes](https://editions.efa.gr/?id=359&r=publication), [texte édité sur Persée](https://www.persee.fr/doc/befar_0257-4101_1970_mon_217_1). **Domaine chronologique postérieur** aux hypothèses de composition de l'hymne : ne pas attribuer au culte hellénistique la description textuelle archaïque sans autre preuve.

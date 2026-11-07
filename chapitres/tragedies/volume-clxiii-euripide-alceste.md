@@ -290,3 +290,14 @@ Une image tardive du retour d'Alceste documente la réception du mythe, non la s
 Héraclès renverse le cours du récit en ramenant Alceste. Pourtant la femme demeure silencieuse, et ce silence empêche de réduire le dénouement à une simple restauration de l'ordre initial. Euripide offre un salut spectaculaire tout en maintenant ouverte la question de la justice au sein de la famille.
 
 **Protection éditoriale :** volume CLXIII autonome ; aucun fichier antérieur modifié ; conflit de numérotation CLXII conservé pour audit ; aucune donnée privée ; aucune intervention WordPress.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Témoin antique et datation.** Euripide, *Alceste* (**438 av. J.-C.**), fin de la pièce, **v. 1118–1163** : après la restitution opérée par Héraclès, Alceste ne reprend pas immédiatement la parole. Le silence est un fait dramaturgique du texte transmis ; sa signification (rite, contrainte, victoire, trouble de l'ordre familial) est **interprétée**, non explicitée par une didascalie antique certaine. Texte traduit : [MIT, *Alcestis* (Richard Aldington)](https://classics.mit.edu/Euripides/alcestis.html) ; contrôler le grec dans une édition critique avant citation mot à mot.
+
+**Étude récente réellement identifiée.** Bridget Martin, « Silence as Defeat and Reversal in Euripides’ Alcestis », *Classical Philology* **119/4 (2024)**, p. **461–477**, DOI **10.1086/731973** ([éditeur](https://www.journals.uchicago.edu/doi/10.1086/731973)). **Résumé académique consulté, article intégral non collationné** : son interprétation du silence comme renversement ne vaut pas preuve de l'intention de l'auteur.
+
+**Chercheuse française.** Nicole Loraux, *Façons tragiques de tuer une femme*, Paris, **Hachette, 1985**, 127 p., [notice INHA](https://agorha.inha.fr/ark:/54721/205f235a-709e-4fab-9689-2014a289a8fa). Le [compte rendu de Paulette Ghiron-Bistagne (1988)](https://www.persee.fr/doc/reg_0035-2039_1988_num_101_482_1550_t2_0559_0000_2) atteste l'objet général : les modalités de mort des personnages féminins. **Livre non intégralement collationné** ; aucune lecture détaillée d'*Alceste* n'est imputée à Loraux.

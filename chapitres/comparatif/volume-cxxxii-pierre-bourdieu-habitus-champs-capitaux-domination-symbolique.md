@@ -339,3 +339,14 @@ Les dates et identifications bibliographiques des ouvrages de 1970, 1979, 1980 e
 Le volume suivant ne doit pas répéter une autre monographie générale des capitaux. **Proposition CXXXIII : Bernard Lahire — l'homme pluriel, dispositions hétérogènes, socialisations contradictoires et critique empirique de l'habitus unifié**, après vérification de tout nouveau volume intervenu entre-temps dans le dépôt.
 
 **Publication :** le présent Markdown constitue la source éditoriale créée dans GitHub. Sa présence sur le domaine https://bobmythos.fr/ ne peut être affirmée avant le contrôle du déploiement. Aucun brouillon privé, document WordPress, suppression ou changement de numérotation existante n'est autorisé par cette étude.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Source primaire moderne consultée.** Pierre Bourdieu, « Les trois états du capital culturel », *Actes de la recherche en sciences sociales* **30 (novembre 1979)**, p. **3–6**, DOI **10.3406/arss.1979.2654**, [texte Persée](https://www.persee.fr/doc/arss_0335-5322_1979_num_30_1_2654). L'article distingue le capital culturel **incorporé**, **objectivé** et **institutionnalisé** ; l'école peut convertir des différences socialement acquises en titres reconnus. Il ne faut pas confondre ces **trois états du capital culturel** avec la typologie plus large des capitaux économique, culturel, social et symbolique.
+
+**Autre publication française localisée.** Pierre Bourdieu, « Le capital social. Notes provisoires », *Actes de la recherche en sciences sociales* **31 (janvier 1980)**, p. **2–3**, [texte Persée](https://www.persee.fr/doc/arss_0335-5322_1980_num_31_1_2069) : les ressources d'un réseau mobilisable sont **distinctes** des dispositions individuelles. Ces pages ont été consultées via transcription Persée, dont l'**OCR est signalé comme non corrigé** ; ne pas faire de citations verbatim sans vérifier l'image du fac-similé.
+
+**Référence internationale complémentaire conservée.** Bourdieu, « The Forms of Capital », dans John G. Richardson (dir.), *Handbook of Theory and Research for the Sociology of Education*, Greenwood **1986**, p. **241–258** ([notice bibliographique](https://bibbase.org/network/publication/bourdieu-theformsofcapital-1986)) ; **version intégrale non collationnée**, ne pas projeter sans contrôle la pagination de 1979 sur 1986. Aucune lecture de MYTHOS par Bourdieu n'est revendiquée.

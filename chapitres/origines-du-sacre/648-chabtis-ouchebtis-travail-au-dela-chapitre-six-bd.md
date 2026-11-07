@@ -234,3 +234,13 @@ Le sujet suivant pourra porter sur les nourritures et les boissons qui rendent c
 - **[R5] Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Detienne**, *Comparer l'incomparable* ; **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* ; **G. W. F. Hegel**, *Phénoménologie de l'esprit* ; **Friedrich Nietzsche**, *La Généalogie de la morale* ; **Mircea Eliade**, *Le Sacré et le profane* ; **René Girard**, *La Violence et le Sacré*. Sources conceptuelles uniquement, à ne pas utiliser comme attestations égyptologiques.
 
 **Limite scientifique :** les attributions des objets sont reprises des catalogues institutionnels ; les citations de la formule sont paraphrasées pour éviter de faire passer une adaptation moderne pour une traduction hiéroglyphique inédite. La comparaison ne suppose aucune transmission directe vers la Grèce, la Mésopotamie ou la Chine.
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Formules et histoire des témoins.** University College London, *Digital Egypt*, [*Book of the Dead*, chapitre 6](https://www.ucl.ac.uk/museums-static/digitalegypt/literature/religious/bd6.html) : attestations antérieures dans les *Textes des Sarcophages*, **formule 472**, vers **1900–1850 av. J.-C.**, puis diffusion des statuettes et du chapitre 6 du *Livre des morts*. La formule appelle la figurine à répondre à la place du défunt pour des **travaux agricoles de l'au-delà**. La translittération reproduite à l'UCL est un témoin, non un texte unique figé durant toute l'histoire égyptienne.
+
+**Objet matériel et inventaire officiels.** Metropolitan Museum of Art, [*Shabti of the Treasurer of Lower Egypt Pa-abumeh (Psamtik-seneb)*](https://www.metmuseum.org/art/collection/search/553076), **04.2.493**, faïence, **595–380 av. J.-C.**, dynasties 26–29, dix lignes d'inscription incluant le chapitre 6 ; outils agricoles et panier figurés. **Tombe d'origine inconnue** selon le musée : l'origine à Saqqara n'est qu'une possibilité, non un contexte fouillé attesté.
+
+**Références françaises de cadrage.** Françoise Dunand et Christiane Zivie-Coche, *Hommes et dieux en Égypte*, éd. enrichie **2006**, [BnF](https://catalogue.bnf.fr/ark:/12148/cb409647187) ; Nicolas Grimal, *Histoire de l'Égypte ancienne* (**1991**), [BnF](https://catalogue.bnf.fr/ark:/12148/cb37359690h). Ces références fournissent des repères religieux et chronologiques, **pas une lecture collationnée de la formule 6 ou de l'objet 04.2.493**.

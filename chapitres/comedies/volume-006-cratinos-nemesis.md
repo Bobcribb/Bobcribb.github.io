@@ -216,3 +216,14 @@ La tâche de l'éditeur n'est donc pas de combler les lacunes en dissimulant ses
 **Navigation de la série :** [Volume VII — Cratinos, *Ploutoi*](/chapitres/comedies/volume-007-cratinos-ploutoi/) · [Volume V — *Poleis*](../volume-005-eupolis-poleis/) · [Volume IV — *Aiges*](../volume-004-eupolis-aiges/) · [Portail Théâtre grec](https://bobmythos.fr/theatre/) · [Bibliothèque historique des comédies perdues](https://bobmythos.fr/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
 *Fin du volume VI. Les volumes I à V et les dossiers historiques sont conservés sans altération.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Sources antiques distinctes.** Cratinos, *Némésis*, **fragments 114 et 115 Kassel–Austin** (*Poetae Comici Graeci*, IV) : le **fr. 115** met en scène l'œuf que Léda doit couver, sans permettre de restituer l'ensemble du dialogue ; les références sont reproduites par l'Université de Géorgie, [*Early Greek Myth*, dossier Léda](https://open.online.uga.edu/gantzmythsources/chapter/p-320-with-art/). Pseudo-Apollodore, *Bibliothèque* **III, 10, 7**, conserve une version alternative où **Némésis**, et non Léda, est mère biologique d'Hélène. On ne peut fusionner toutes les versions en un récit historique unique.
+
+**Étude universitaire.** Emmanuela Bakola, *Cratinus and the Art of Comedy*, Oxford University Press, mise en ligne **2009**, DOI **10.1093/acprof:oso/9780199569359.001.0001** ([notice OUP](https://academic.oup.com/book/284)) ; [chapitre sur la paratragédie](https://academic.oup.com/book/284/chapter-abstract/134857663). **Résumés d'éditeur consultés, chapitres non intégralement collationnés**. Dustin Dixon, « Euripides’ Comic Muse: Cratinus’ Nemesis in Euripides’ Helen » ([résumé de communication, Society for Classical Studies](https://classicalstudies.org/euripides%E2%80%99-comic-muse-cratinus%E2%80%99-nemesis-euripides%E2%80%99-helen)) propose un emprunt par Euripide : **hypothèse de recherche, non consensus ni article évalué ici**.
+
+**Référence française méthodologique.** Françoise Frontisi-Ducroux, *Du masque au visage. Aspects de l'identité en Grèce ancienne* (**1995**, [ANHIMA](https://www.anhima.fr/le-centre/les-membres/emerites-et-honoraires/francoise-frontisi-ducroux)) : étude du dispositif figuratif grec, **non édition du fr. 115**, passage spécifique non collationné. Aucune scène moderne n'est attribuée à Cratinos.
