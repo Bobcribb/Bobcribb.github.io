@@ -1005,6 +1005,26 @@ def create_civilisations(entries, groups):
           ("/bibliotheque-mythologies-du-monde/mythos-volume-10-finno-carelien-kalevala/","Finlande et Carélie : le Kalevala","Volume historique X, texte intégral, chants et critique de la compilation.","LECTURE INTÉGRALE")
         ],"portal-grid-compact")) if key == "europe" else ""
         if key == "asie":
+            # Parcours hatréen uniquement si le texte intégral a effectivement
+            # été indexé. Ne jamais annoncer un dossier simplement proposé en PR.
+            indexed_urls = {entry["url"] for entry in entries}
+            hatra = "/bibliotheque-mythologies-du-monde/civilisations-hatra-royaume-arsacide/"
+            if hatra in indexed_urls:
+                frontier = [(hatra, "Hatra — royaume arsacide et cité du Soleil",
+                             "Étude intégrale : araméen, cultes, fortifications et relations avec Rome.", "TEXTE INTÉGRAL")]
+                for url, title, subtitle in (
+                    ("/bibliotheque-mythologies-du-monde/civilisations-palmyre-zenobie/",
+                     "Palmyre", "Routes et pouvoirs de la steppe syro-mésopotamienne."),
+                    ("/bibliotheque-mythologies-du-monde/civilisations-histoire-iran-perse/",
+                     "Iran ancien", "Contexte politique des empires arsacide et sassanide.")):
+                    if url in indexed_urls:
+                        frontier.append((url, title, subtitle, "DOSSIER ASSOCIÉ"))
+                related += section(
+                    "Hatra : les frontières parthe et romaine",
+                    "Comparer inscriptions, sanctuaires et circulations sans confondre les cités ni inventer de liens.",
+                    cards(frontier, "portal-grid-compact"))
+
+        if key == "asie":
             related += section("Khmer et Angkor : mythes et pouvoir royal","Volume historique XIV restitué intégralement, distinct de l’étude historique sur la civilisation khmère.",cards([
               ("/bibliotheque-mythologies-du-monde/mythos-volume-14-khmer-angkor-cosmogonies/","Angkor Wat — récits royaux et cosmogonies","Volume XIV : reliefs du barattage, Viṣṇu, Śiva, Bayon, sources et bibliographie.","TEXTE INTÉGRAL"),
               ("/bibliotheque-mythologies-du-monde/civilisations-histoire-khmers-angkor/","Histoire des Khmers et d’Angkor","Étude historique antérieure conservée à son adresse.","CONTEXTE HISTORIQUE")
