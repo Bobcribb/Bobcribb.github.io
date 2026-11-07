@@ -38,7 +38,7 @@ CONTINENTS = {
 }
 AFRICAN = ("afrique","aksoum","carthage","zagwe","garamantes","grand-zimbabwe","ife-yoruba","swahili","mali-songhai","mapungubwe","nok-nigeria","koush","numidie","benin","makouria","kongo","egypte")
 EUROPEAN = ("daces","romain-orient","grece-antique","celtes-gaules","rome-antique","sardaigne","tartessos","thraces","etrusques","egee-bronze")
-AMERICAN = ("sonora","andes","cahokia","caral","chavin","chimu","el-tajin","mexicas","mixteques","mochicas","mayas","olmeques","pueblos","muisca","teotihuacan","tiwanaku","tolteques","uxmal","zapoteques")
+AMERICAN = ("poverty-point","sonora","andes","cahokia","caral","chavin","chimu","el-tajin","mexicas","mixteques","mochicas","mayas","olmeques","pueblos","muisca","teotihuacan","tiwanaku","tolteques","uxmal","zapoteques")
 # Les territoires de Nouvelle-Guinée sont situés en Océanie ; conserver le jeton
 # composite pour ne pas déplacer « Sambor Prei Kuk » (Cambodge) hors d'Asie.
 OCEANIAN = ("oceanie","rapa-nui","kuk-papouasie")
@@ -997,6 +997,18 @@ def create_civilisations(entries, groups):
         ],"portal-grid-compact")
         section_body=list_entries(docs)
         related = ""
+        if key == "ameriques":
+            # Ne jamais créer de lien public vers un manuscrit absent du catalogue.
+            related_urls = {e["url"] for e in docs}
+            poverty = "/bibliotheque-mythologies-du-monde/civilisations-poverty-point-mississippi-archaique/"
+            cahokia = "/bibliotheque-mythologies-du-monde/civilisations-cahokia-mississippienne/"
+            if poverty in related_urls and cahokia in related_urls:
+                related += section("Mississippi : deux âges de la monumentalité",
+                    "Les sites de Poverty Point (Archaïque récent) et de Cahokia (époque mississippienne) sont séparés par plus de deux millénaires : comparer sans postuler de filiation.",
+                    cards([
+                        (poverty, "Poverty Point : ouvrages de terre et économies de collecte", "Archéologie, datations révisées et hypothèses sociales.", "ARCHAÏQUE RÉCENT"),
+                        (cahokia, "Cahokia : ville et société mississippienne", "Cultures agricoles, places et pouvoirs beaucoup plus tardifs.", "PÉRIODE MISSISSIPPIENNE"),
+                    ], "portal-grid-compact"))
         if key == "afrique":
             related=section("Religions de la Nubie antique — étude intégrale","Étude du Nil moyen, de ses sanctuaires et de sa royauté, avec références archéologiques.",cards([
               ("/bibliotheque-mythologies-du-monde/mythos-volume-12-koush-meroe-apedemak/","Koush et Méroé : Amon, Apédémak et royauté sacrée","Volume historique XII, texte intégral et bibliographie d'origine.","TEXTE INTÉGRAL"),
