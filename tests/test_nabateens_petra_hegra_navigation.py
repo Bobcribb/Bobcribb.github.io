@@ -82,6 +82,16 @@ class NabateensPetraHegraTests(unittest.TestCase):
         self.assertTrue(all(not groups[k] for k in
                             ("afrique", "europe", "ameriques", "oceanie")))
 
+    def test_all_critical_citations_link_to_existing_bibliography(self):
+        calls = self.doc.select("a.citation-inline")
+        self.assertGreaterEqual(len(calls), 40)
+        known = {x.get("id") for x in self.doc.select("#bibliographie li[id]")}
+        targets = {a.get("href", "")[1:] for a in calls}
+        self.assertTrue(targets.issubset(known))
+        self.assertEqual(targets, {f"ref-{i}" for i in range(1, 15)})
+        self.assertTrue(all(a.get("aria-label", "").startswith("Voir la référence ")
+                            for a in calls))
+
     def test_generated_reader_preserves_every_authored_block(self):
         # Les éléments du manuscrit ne doivent jamais être supprimés par le lecteur.
         document = BeautifulSoup(self.raw, "html.parser")
