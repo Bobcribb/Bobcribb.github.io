@@ -1948,6 +1948,12 @@
           "path": "chapitres/encyclopedie/chapitre-473-aphrodite-erycine-eryx-sicile-elymes-astarte-venus-sanctuaire-guerres-puniques.md",
           "request_sha256": "773e64b46d1094aa1492c990c0aed945159af749739202b10e17f12f5e4070c5",
           "initial_source_sha256": "2810c8e77c4d01c8cd5495903d3e7487257997d37b3f61ad69f33eb08f8dbc9e"
+        },
+        "3cbd790f-41e8-4ef7-bd09-8754f63c1af2": {
+          "number": 474,
+          "path": "chapitres/encyclopedie/chapitre-474-artemis-alpheiaia-letrinoi-alpheios-arethuse-olympie-peintures-cleanthe.md",
+          "request_sha256": "5e9978f17d3eb99120a35f5ba8f715df83709508ad8faf0ff1b29fddb140b135",
+          "initial_source_sha256": "c84abf6a35d75b4f2912d4ed3c668b8a8ce7b6eed57bb5967146303692a55e5c"
         }
       }
     },

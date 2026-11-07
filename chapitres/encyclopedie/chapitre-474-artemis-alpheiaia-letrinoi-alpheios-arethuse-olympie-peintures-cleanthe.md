@@ -1,0 +1,403 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 474
+
+## Artémis Alphéiaia : le fleuve Alphée, Létrinoi, les sanctuaires d'Élide et les eaux d'Aréthuse jusqu'à Syracuse
+
+*Monographie universitaire originale — philologie grecque, histoire des cultes, géographie ancienne, religion éléenne, peinture votive, réception sicilienne, interprétation philosophique et archéologie critique. Version soumise le 7 novembre 2026. « 474 » est un emplacement éditorial, non une attribution réservée. Collection : encyclopedie.*
+
+### Résumé scientifique
+
+Artémis Alphéiaia, que les textes désignent sous diverses formes liées à l'Alphée (Ἀλφειός), constitue un objet d'étude exemplaire pour la méthode historique des religions grecques. La même zone d'Élide livre plusieurs configurations qui n'ont ni exactement la même dénomination ni nécessairement le même sanctuaire : une image de la déesse dans un temple de **Létrinoi**, un enclos sacré proche de **l'embouchure de l'Alphée**, un **autel commun à Artémis et au fleuve à Olympie**, et une fête annuelle rapportée par Strabon. La déesse peut être appelée Alphéiaia, Alphéionia ou Alphéiouse ; un transfert de culte l'associe à l'Artémis Élaphiéia. Le dossier montre comment une épiclèse évolue avec les relations entre communautés, lieux et récits.
+
+Le témoignage majeur de Pausanias, *Description de la Grèce* VI, 22, 8-11, explique le nom de la déesse par l'échec du dieu-fleuve Alphée qui cherche à s'emparer d'Artémis pendant une célébration nocturne. Artémis et les nymphes se couvrent alors le visage de boue : privées d'identité visible, elles déjouent l'agresseur. Une autre tradition, chez Pausanias V, 7, 2-3, attribue l'amour d'Alphée non à Artémis mais à la chasseresse Aréthuse, métamorphosée en source à Ortygie, devant Syracuse. Pindare (*Néméenne* I, 1-5), Strabon (VI, 2, 4) et Ovide (*Métamorphoses* V, 572-641) confèrent à l'épisode des significations différentes, qui doivent demeurer distinctes.
+
+Strabon, *Géographie* VIII, 3, 12, mentionne des peintures de Cléanthe et d'Arégon dans le sanctuaire d'Artémis Alphéionia. Athénée, *Deipnosophistes* VIII, 346b-c, citant Démétrios de Scepsis, évoque une peinture de Cléanthe montrant Poséidon présentant un thon à Zeus enfantant. Ces témoignages ouvrent sur l'histoire des œuvres perdues, sans donner licence à reconstituer comme « archéologiquement certain » leur disposition, leurs couleurs, les dimensions du sanctuaire ou leur datation précise.
+
+La thèse de cette étude est que **l'identité religieuse d'Artémis ne dérive pas exclusivement d'un mythe ; elle résulte de transactions entre mémoire locale, topographie, transferts de rites, langues et images**. Le récit où le visage devient illisible met au premier plan une puissance collective de résistance ; le couple du fleuve et de la déesse sur un autel olympien ne doit toutefois pas être confondu avec le mariage recherché dans le mythe. La route légendaire des eaux de l'Élide vers la Sicile participe, enfin, à la fabrication d'une continuité culturelle entre espaces séparés par la mer.
+
+### Protocole documentaire et niveaux de preuve
+
+Quatre catégories sont distinguées : **[T]** texte ancien qui rapporte une affirmation ; **[M]** monument, objet ou contexte archéologique correctement identifié ; **[H]** reconstruction historique plausible, mais non directement attestée ; **[P]** interprétation philosophique ou anthropologique. Un auteur disant avoir « vu » une statue fournit une attestation textuelle [T] sur le monument ; la statue elle-même n'est pas automatiquement conservée [M]. L'existence d'une peinture connue par Athénée et Strabon est fondée sur leurs textes, et non sur la découverte matérielle de son panneau. Aucune prétendue inscription locale, cote d'inventaire ou datation architecturale n'est inventée en l'absence d'une publication contrôlable.
+
+Le champ de cette monographie est le **réseau Alphée–Artémis–Létrinoi–embouchure–Olympie–Ortygie**. Il ne réécrit pas les études de MYTHOS déjà consacrées à Artémis Amarysia, Artémis Orthia, Artémis Mounichia, Artémis Leukophryène, Artémis Pergaia ou Artémis Tauropolos. Il laisse de même la monographie générale d'Hélios au chapitre 259. Les anciennes indications 134/135 ne sont jamais considérées comme une réservation.
+
+---
+
+## I. La topographie avant l'étiologie : comment lire la vallée de l'Alphée
+
+### I.1. Le bassin de l'Alphée et la pluralité des lieux religieux
+
+[T] Pausanias V, 7, 1 décrit le fleuve comme un cours d'eau provenant d'Arcadie et recevant plusieurs affluents importants avant d'atteindre Olympie. Cette géographie est d'abord une observation de territoire et de relations hydrauliques ; la transformation de l'Alphée en personnage mythologique n'en annule pas la réalité physique. Le bassin traverse des régions que les écrivains anciens distinguent : Arcadie, Pise/Pisatide, Élide et espaces côtiers. Dans ce cadre, « temple d'Artémis près de l'Alphée » n'est pas une adresse unique.
+
+[M/H] Les alluvions, déplacements du lit, variations du littoral et aménagements modernes rendent hasardeuse la projection directe d'un itinéraire antique sur une photographie contemporaine. Un paysage dans lequel la côte a reculé ou avancé ne conserve pas nécessairement les distances rituelles des géographes. Les localisations proposées doivent donc être annotées avec leur statut : cité antique identifiée, site présumé, zone littorale, parcours textuel, découverte contrôlée.
+
+### I.2. Létrinoi, la cité diminuée et son temple
+
+[T] Dans VI, 22, 8, Pausanias situe Létrinoi sur la voie de plaine entre Olympie et Élis. Il donne cent vingt stades pour rejoindre Létrinoi et cent quatre-vingts autres pour atteindre Élis. Il rapporte une fondation par **Létréos**, fils de Pélops, puis oppose la cité ancienne à l'état appauvri du lieu à son époque. Il dit y trouver un temple contenant une image d'Artémis Alphéiaia. Le témoignage ne permet pas de décrire de mémoire l'ordre de ses colonnes, la disposition de son autel ou ses dimensions.
+
+[T/H] L'éponyme Létréos rattache la localité à la généalogie de Pélops. Ce rattachement est une forme de lecture héroïque de l'espace ; il ne date pas une fondation par une généalogie objectivement historique. Le contraste entre « anciennement une ville » et « quelques bâtiments » mérite l'attention : les lieux sacrés peuvent survivre à l'affaiblissement d'une communauté politique. Mais Pausanias ne fournit ni bilan démographique ni preuve que l'activité du culte est restée identique pendant des siècles.
+
+### I.3. L'enclos de l'embouchure dans Strabon
+
+[T] Strabon VIII, 3, 12 place près de l'embouchure de l'Alphée un **téménos** d'Artémis, portant les noms d'Alphéionia ou Alphéiouse. Il situe cet espace à environ quatre-vingts stades d'Olympie et ajoute une description des peintures du temple. La distance n'est pas celle que Pausanias donne pour Létrinoi ; on n'a donc pas le droit de les fusionner sans argument supplémentaire. Une carte doit présenter deux attestations antiques avec leurs distances et discuter la possibilité, non la certitude, de deux dispositifs cultuels.
+
+[H] Plusieurs explications restent ouvertes : deux sanctuaires distincts d'une même déesse, une topographie antique plus complexe qu'une lecture linéaire, une estimation divergente des distances, ou une tradition descriptive différente. Les textes seuls ne décident pas de l'architecture relative des lieux. Il faut refuser la facilité d'un « grand temple unique d'Artémis Alphéiaia à Létrinoi » qui absorberait d'un trait l'enclos littoral.
+
+### I.4. Olympie, troisième nœud
+
+[T] Pausanias V, 14, 6 évoque un autel où **Alphée et Artémis reçoivent ensemble un sacrifice** dans le sanctuaire d'Olympie, puis un autel distinct consacré à Alphée. Ce détail est plus important pour l'histoire des pratiques que l'idée séduisante d'une romance divine. Le rite décrit joint deux destinataires sans les réduire à un couple matrimonial. Il atteste également que la puissance du fleuve dispose d'une identité cultuelle propre à Olympie.
+
+[P] Le paysage religieux se lit ici comme un tissu de relations plutôt que comme un réseau exclusif de domaines divins. Une même déesse peut recevoir un sacrifice avec un fleuve, être honorée ailleurs dans un sanctuaire et posséder des noms localement négociés. La frontière entre « divinité de la nature » et « divinité de la cité » est insuffisante pour comprendre cet agencement.
+
+## II. Épiclèses et philologie : un nom, plusieurs constructions
+
+### II.1. Ἄρτεμις Ἀλφειαία, Ἀλφειονία, Ἀλφειοῦσα
+
+[T] Les formes transcrites **Alphéiaia** (Ἀλφειαία), **Alphéionia** (Ἀλφειονία) et **Alphéiouse** (Ἀλφειοῦσα) appartiennent à la famille lexicale d'**Alphée** (Ἀλφειός). Leur équivalence théologique ne garantit ni identité des institutions ni simultanéité de l'usage. Strabon signale expressément une variation de nom, tandis que Pausanias emploie la forme liée à Létrinoi. La transcription française n'efface pas ces distinctions.
+
+[H] On peut expliquer les variantes par des traditions dialectales, des habitudes de transmission et des formations épiclésiques différentes ; sans dossier épigraphique local établi pour chaque forme, il serait toutefois aventureux de reconstruire une succession chronologique exacte. Une « correction » moderne qui remplacerait partout les différentes formes par une seule ferait disparaître un phénomène historique à étudier.
+
+### II.2. Ἐλαφιαία et ἔλαφος : une étymologie concurrente
+
+[T] Pausanias VI, 22, 10-11 fait intervenir l'Artémis **Élaphiéia**, dénomination associée, selon son explication personnelle, à **ἔλαφος**, le cerf. Il rapporte aussi l'explication locale d'une nourrice nommée Élaphios/Élaphion, dont le nom aurait marqué la déesse. On dispose donc d'au moins deux interprétations concurrentes du surnom : une inférence lexicale du voyageur et une histoire étiologique attribuée aux habitants.
+
+[P] L'alternative éclaire la fonction même d'une étymologie sacrée. Elle ne sert pas simplement à retrouver « le sens originel » d'un mot ; elle relie le culte à un animal, une pratique cynégétique ou une généalogie locale. Le philologue doit distinguer la formation linguistique du nom et les récits inventés ou transformés pour le rendre intelligible à une communauté.
+
+### II.3. La graphie comme document
+
+[H] L'usage éditorial gagnerait à conserver en parallèle les graphies grecques normalisées, les translittérations et les formes des éditions critiques de Strabon et Pausanias, notamment lorsque l'apparat signale une leçon divergente. Le nom à afficher pour le grand public peut être « Artémis Alphéiaia », mais l'index scientifique devra rattacher Alphéionia, Alphéiouse, Élaphiéia, Alpheionia, Alpheiusa et les formes latinisées sans en faire des temples distincts par simple automatisme.
+
+## III. Le récit de Létrinoi : une tentative de violence déjouée
+
+### III.1. La scène et ses personnages
+
+[T] Dans Pausanias VI, 22, 9, Alphée aime Artémis et, comprenant que la persuasion ne lui permettra pas de l'épouser, projette la violence. La déesse célèbre de nuit une réunion avec ses nymphes compagnes. L'agresseur arrive au milieu du groupe ; Artémis l'a anticipé et recouvre son propre visage ainsi que ceux de ses compagnes de boue. Alphée ne reconnaît plus sa cible et s'en va sans réussir. L'histoire ne raconte pas une union différée ni une capitulation amoureuse.
+
+[P] La pluralité féminine est essentielle : ce ne sont pas seulement les attributs exceptionnels d'une déesse qui la sauvent, mais la ressemblance volontaire des compagnes. Le renversement de la reconnaissance, instrument du pouvoir du prédateur, fait de l'indistinction une défense. Lire cette opération comme une allégorie moderne de la solidarité peut être éclairant ; cela ne signifie pas que Pausanias formule une théorie contemporaine de l'autonomie.
+
+### III.2. La boue : technique, non preuve de rituel
+
+[T] La boue intervient dans le texte comme moyen d'empêcher l'identification d'Artémis. Sa matière vient d'une situation mythique, non d'une prescription liturgique conservée. Il serait méthodologiquement fautif d'en déduire un rite annuel d'enduction du visage des jeunes filles de Létrinoi. La documentation ne livre ni calendrier, ni office, ni âge des participantes ni description de telles applications de boue dans le culte réel.
+
+[H/P] Un rapprochement comparatif peut porter sur les masques, travestissements et procédés d'anonymisation des fêtes grecques ; il reste une analogie interprétative. La valeur sociale de l'effacement temporaire des différences constitue une question pertinente à poser aux cultes, non une réponse déjà établie pour Létrinoi.
+
+### III.3. Une fête nocturne, mais quel rite ?
+
+[T] Le passage fait intervenir une **célébration de nuit**. Ce fait appartient à la narration mythique : il ne fournit pas le règlement détaillé d'une fête historique. Une cérémonie locale analogue est possible ; il manque cependant un témoignage suffisamment explicite pour identifier sans réserve les participantes, l'ordre du cortège, les chants ou les offrandes. Le terme général de festivité nocturne ne permet pas de substituer les rites de Brauron à ceux de Létrinoi.
+
+[H] Les restitutions iconographiques seront donc limitées : femmes et nymphes dans un paysage nocturne, visage partiellement masqué de boue, accompagnées d'une légende « scène légendaire rapportée par Pausanias ». Toute scène de rite historique doit rester indépendante, dépourvue d'éléments mythiques prétendument archéologiques.
+
+### III.4. Pourquoi la version ne doit pas être édulcorée
+
+[P] Parler d'une simple « rencontre galante avec un fleuve » diluerait la structure dramatique du récit. Pausanias indique un projet de contrainte. Ce détail conditionne la signification du refus, le choix de cacher les visages et la défaite du dieu-fleuve. L'écriture universitaire doit éviter aussi bien l'anachronisme moral simplificateur que la neutralisation de la violence explicitement présente dans la source.
+
+## IV. Alphée et Aréthuse : une autre histoire, une autre géographie
+
+### IV.1. La variante chez Pausanias
+
+[T] Au livre V, 7, 2, le même voyageur raconte une tradition selon laquelle **Aréthuse**, chasseresse, refuse d'épouser Alphée. Elle se réfugie sur l'île d'Ortygie, près de Syracuse, et devient une source ; Alphée, mû par son désir, devient fleuve. La cible n'est donc plus la déesse Artémis, et le lieu conclusif n'est plus Létrinoi. L'histoire contient une métamorphose et un déplacement transmarin que le récit d'Artémis et de la boue ne contient pas.
+
+[T] Dans V, 7, 3, Pausanias renvoie à un oracle attribué à Delphes pour accréditer le mélange des eaux d'Alphée et d'Aréthuse. Pour l'historien, ce passage atteste l'autorité donnée à une parole oraculaire dans l'explication d'un phénomène supposé ; il ne démontre pas que le trajet hydrologique s'accomplisse sous la Méditerranée.
+
+### IV.2. Ce que Strabon refuse
+
+[T] Strabon VI, 2, 4 connaît les récits d'une communication sous-marine de l'Alphée vers la source d'Aréthuse, ainsi que les anecdotes du vase jeté dans le fleuve et des eaux altérées par les sacrifices d'Olympie. Mais le géographe oppose au récit des objections physiques : absence d'un gouffre à l'embouchure, mélange attendu avec l'eau marine, éloignement du trajet, improbabilité de l'indice du récipient.
+
+[P] Cette critique est remarquable parce qu'elle ne nécessite pas de nier l'intérêt culturel du mythe. Strabon en rapporte la diffusion puis refuse son explication causale. On peut ainsi séparer la fonction du récit dans la construction d'une géographie grecque et sa validité comme description de l'écoulement naturel.
+
+### IV.3. Pindare, Ortygie et la mémoire coloniale
+
+[T] Pindare, *Néméenne* I, 1-5, ouvre son éloge de Chromios par une apostrophe à Ortygie, célébrée comme respiration ou repos de l'Alphée et comme couche d'Artémis, sœur de Délos. La formule fait participer le réseau aquatique à l'éloge de Syracuse et de l'île sicilienne, sans reprendre explicitement la scène de la boue à Létrinoi.
+
+[H/P] Le récit d'un fleuve qui franchit la mer peut suggérer une continuité entre une patrie grecque et une cité sicilienne. Cette lecture gagne à être replacée dans les enjeux de la poésie encomiastique et des fondations grecques d'Occident ; elle ne prouve pas que tous les Syracusains reconnaissaient un seul et même sanctuaire d'Artémis que les habitants d'Élide.
+
+### IV.4. La version romaine : Aréthuse prend la parole
+
+[T] Dans Ovide, *Métamorphoses* V, 572-641, Aréthuse relate à Cérès sa propre fuite. Elle chasse, entre dans l'eau, entend Alphée et s'enfuit ; poursuivie, elle sollicite Diane/Artémis. La déesse la protège par un nuage, et le corps de la nymphe se liquéfie avant la traversée souterraine. Ici, l'action salvatrice est distribuée entre la victime Aréthuse et son protecteur divin ; l'histoire correspond à une élaboration littéraire romaine et non à un témoignage direct sur une fête éléenne.
+
+[P] Ovide permet une réflexion sur le désir transformé en poursuite, sur la perte de la forme corporelle et sur le langage de la victime ; il serait absurde de le rétroprojeter intégralement dans l'histoire archaïque de Létrinoi. Les ressemblances narrative et thématique autorisent une étude de réception, non une reconstruction automatique d'un rite antique précis.
+
+## V. Les cultes : sacrifices, festivités, transferts
+
+### V.1. L'autel conjoint d'Olympie
+
+[T] Pausanias V, 14, 4-10 présente un itinéraire sacrificiel à travers plusieurs autels d'Olympie. En V, 14, 6, un autel est commun à Alphée et Artémis ; un second est dédié à Alphée seul. La coexistence de deux dispositions est essentielle : les destinataires peuvent recevoir ensemble un acte et conserver ailleurs une autonomie cultuelle. Ce n'est pas une représentation littérale du récit de poursuite.
+
+[P] Le sacrifice ne se laisse pas lire comme une illustration servile d'un mythe. La coprésence cultuelle peut répondre à l'aménagement d'un territoire, à des traditions locales ou à l'organisation du sacrifice. Toute interprétation causale requiert la preuve d'une liaison explicitement opérée par les acteurs anciens.
+
+### V.2. Le calendrier annuel rapporté par Strabon
+
+[T] Strabon VIII, 3, 12 parle d'une fête annuelle à Olympie en l'honneur d'Artémis Alphéionia, en mentionnant aussi Artémis Élaphiéia et Daphnia. Son information prouve qu'une tradition annuelle est entrée dans son inventaire géographique ; il ne donne pas à elle seule le calendrier mensuel exact, la composition du cortège ou les prestations musicales. Le pluriel des épiclèses pose la question de célébrations distinctes ou associées.
+
+[H] On peut s'interroger sur les déplacements d'individus et de biens entre Olympie, la Pisatide et les sites côtiers. Mais la présence de festivités dans le même dossier n'autorise pas à tracer une procession de Létrinoi à l'embouchure : aucun texte ici examiné ne documente une telle route sacrée.
+
+### V.3. Le transfert éléen
+
+[T] Selon Pausanias VI, 22, 10, les Éléens, décrits comme liés depuis longtemps aux habitants de Létrinoi, ont introduit le culte d'Artémis Élaphiéia dans cette localité ; les noms d'Alphéiaia et d'Élaphiéia se sont alors rapprochés au point que le second a pu remplacer le premier. La narration nous montre une transformation historique interprétée par l'auteur, sans lui assigner une date absolue.
+
+[P] Ce transfert est plus qu'une traduction de nom. Le changement de pratiques et d'identifications peut signifier une recomposition des appartenances communautaires. La puissance d'une cité n'efface pas forcément un culte local ; elle peut le requalifier et l'inscrire dans un espace cérémoniel plus large. Il convient de résister à l'alternative simpliste entre syncrétisme volontaire et conquête religieuse totale.
+
+### V.4. Des offrandes non attestées localement
+
+[H] Les figurines de cervidés, armes de chasse, torches, masques ou vases miniatures pourraient sembler adaptés à l'image d'Artémis. En l'absence d'inventaire publié avec provenance assurée du sanctuaire concerné, ces objets ne doivent pas être présentés comme « trouvés à Létrinoi ». Un comparandum provenant d'Éphèse, Brauron, Orthia ou Amarynthos montre la variabilité du culte, pas la présence de la même pratique en Élide.
+
+## VI. L'art perdu : Cléanthe, Arégon et les images du sanctuaire
+
+### VI.1. La description de Strabon
+
+[T] Strabon VIII, 3, 12 attribue à **Cléanthe de Corinthe** des images de la prise de Troie et de la naissance d'Athéna ; il attribue à **Arégon**, également corinthien, une Artémis transportée sur un griffon. L'énumération enrichit considérablement le dossier du sanctuaire d'Artémis Alphéionia, mais ne conserve pas les œuvres et ne dit pas comment elles étaient alignées, séparées ou encadrées.
+
+[H] On peut reconstruire la liste des sujets connus, non l'ordonnance visuelle du temple. La notion moderne de « peinture de chevalet » serait trop précise pour un témoignage qui ne conserve ni support ni mesures. Il faut également éviter de présenter comme reproductions antiques des dessins du XIXe siècle inspirés de la description.
+
+### VI.2. Un griffon pour Artémis
+
+[T/P] La présence d'un griffon dans une peinture d'Artémis ne signifie pas que le griffon soit son animal cultuel ordinaire à Létrinoi. L'image peut participer à un langage héroïque, à l'extraordinaire divin ou à des répertoires artistiques diffusés dans plusieurs régions. La représentation n'est pas le règlement d'un sacrifice.
+
+[H] En iconographie, un griffon doit être identifié par des éléments figuratifs contrôlables et non par la seule supposition qu'Artémis « vole ». Sans l'original, on ne peut déterminer si la déesse chevauchait, conduisait, était emportée, ou apparaissait dans une composition complexe au-delà des mots transmis.
+
+### VI.3. Le témoignage d'Athénée sur Poséidon et le thon
+
+[T] Athénée VIII, 346b-c, en citant **Démétrios de Scepsis**, connaît une peinture dédicatoire de Cléanthe dans un temple d'Artémis Alphéiouse en Pisatide. Elle représente **Poséidon offrant un thon à Zeus en train d'enfanter** — un sujet inhabituel, qui touche à l'imagerie de la naissance divine et à l'histoire de la peinture grecque. H. A. Shapiro, « Poseidon and the Tuna », *L'Antiquité Classique* 58 (1989), p. 32-43, étudie ce témoignage.
+
+[H] Faut-il tenir cette œuvre pour l'une des scènes décrites par Strabon, une composition supplémentaire de Cléanthe, ou le résultat de divergences dans les traditions descriptives ? Les sources imposent une question, non une assimilation décidée d'avance. Le motif du thon ne prouve pas l'existence d'un culte de Poséidon dans le même édifice, et l'allusion à Zeus « enfantant » ne permet pas de reconstruire les détails de la naissance d'Athéna sans enquête iconographique supplémentaire.
+
+### VI.4. Des œuvres sans provenance archéologique conservée
+
+[M/H] Aucun fragment sûr de ces tableaux n'est ici identifié à partir d'un inventaire muséal contrôlé. L'étude doit donc les ranger comme **peintures attestées littérairement et matériellement perdues**. Leur présence dans une notice de musée fictive serait une falsification scientifique ; une illustration moderne peut figurer seulement avec la mention « proposition interprétative fondée sur Strabon / Athénée, sans vestiges directs de la peinture ».
+
+## VII. Létrinoi, l'Élide et la mémoire de Pélops
+
+### VII.1. Un espace traversé de récits héroïques
+
+[T] Le cadre de Pausanias VI, 21-22 multiplie les souvenirs liés à Pélops, aux anciennes localités de Pisatide, aux routes vers Olympie et aux changements politiques de l'Élide. Létrinoi est rattaché à Létréos, fils de Pélops ; un sanctuaire d'Artémis **Cordax** est également signalé ailleurs, près des traces de l'ancienne Pise (VI, 22, 1). La proximité dans le texte ne les rend pas identiques.
+
+[P] La généalogie héroïque met en relation les habitats et le grand centre panhellénique d'Olympie. Le rôle d'Artémis, présent sous différents surnoms, ne se laisse pas isoler d'un contexte où Pélops, les Éléens et les communautés de Pisatide revendiquent leur propre passé.
+
+### VII.2. La mémoire est sélective
+
+[H/P] Lorsque Pausanias parle de disparition des bâtiments, il rend visible une perte architecturale mais conserve le souvenir d'un nom et d'une statue. Une communauté peut perdurer historiographiquement par ses lieux sacrés bien après la diminution de ses structures urbaines. Cette observation doit rester proportionnée : elle ne permet pas de conclure que le sanctuaire est demeuré économiquement prospère, politiquement indépendant ou actif dans toutes ses fonctions antérieures.
+
+## VIII. Archéologie positive et archéologie des absences
+
+### VIII.1. Ce qui peut être décrit sans extrapolation
+
+[M] Olympie possède un contexte archéologique majeur, étudié depuis longtemps, mais ses monuments et ses autels forment un ensemble complexe. Le cadre de la confluence Alphée–Cladéos est attesté et documenté par les institutions patrimoniales et l'UNESCO. L'identification de chaque autel dans le parcours de Pausanias exige cependant l'examen des fouilles et des reconstructions topographiques ; le seul texte ne fournit pas de coordonnées de terrain pour le « sacrifice commun ».
+
+[H] Dans le cas de Létrinoi et de l'embouchure, la prudence est accrue. Les sources anciennes attestent des édifices ; elles ne livrent pas, à elles seules, un plan archéologique moderne attribué sans ambiguïté à Artémis Alphéiaia. Une image de ruines quelconques d'Élide ne peut recevoir la légende « temple découvert d'Artémis Alphéiaia » sans référence à une publication de fouille.
+
+### VIII.2. Les processus de déformation du terrain
+
+[M/H] Les crues, apports sédimentaires, variations des zones humides et interventions modernes modifient les points de visibilité des rivages et des lits fluviaux. Ces processus sont directement pertinents pour tester les distances de quatre-vingts, cent vingt ou cent quatre-vingts stades rapportées par les géographes, mais ils ne suffisent pas à choisir un site. Toute proposition de géoréférencement doit afficher son modèle, ses marges d'incertitude et les raisons de ses exclusions.
+
+### VIII.3. Pourquoi le silence épigraphique ne fonde pas une négation
+
+[H] L'absence, dans le corpus présentement mobilisé, d'une dédicace certaine du temple de Létrinoi ne démontre pas que celui-ci n'existait pas. Elle signifie seulement que l'argument disponible demeure littéraire. Inversement, il serait abusif d'introduire une inscription imaginaire pour combler ce silence. La notion de « non-attestation » protège deux exigences contradictoires en apparence : ne pas nier sans preuve, ne pas inventer pour convaincre.
+
+### VIII.4. Protocole d'une enquête de terrain future
+
+[H] Une vérification archéologique devrait enchaîner relevé de géomorphologie historique, inventaire des anciennes cartes, révision des lieux de découverte des blocs et des objets votifs publiés, étude de la stratigraphie et contrôle photographique. Les toponymes modernes doivent être associés à une référence spatiale traçable ; l'identification d'Artémis ne saurait dépendre d'une seule analogie avec le cerf.
+
+## IX. Artémis et les nymphes : les collectifs du vivant
+
+### IX.1. Qui sont les « compagnes » ?
+
+[T] Pausanias VI, 22, 9 mentionne les nymphes qui partagent avec Artémis une fête nocturne. Le terme n'autorise pas une équivalence immédiate entre nymphes mythologiques, officiantes humaines et cohortes de jeunes filles historiques. Les différents niveaux de récit, société et religion doivent être séparés.
+
+[P] La composition du groupe confère à la déesse une sociabilité propre, face à la volonté d'identification et d'emprise d'Alphée. Par rapport à d'autres figures divines, Artémis apparaît moins comme une solitude absolue que comme le centre d'une association féminine. Cette hypothèse interprétative doit être confrontée à la grande variété de ses cultes, où les collectifs ne se ressemblent pas toujours.
+
+### IX.2. Chasse et eau
+
+[T/H] La déesse chasseresse, son association aux nymphes et les épiclèses qui renvoient aux cervidés ou aux fleuves favorisent une lecture écologique des lieux. Mais il serait abusif d'attribuer à toute Artémis des fonctions identiques de « gardienne universelle de la nature ». Le culte se manifeste dans un territoire concret : cours d'eau, bordures de plaine, lacs, établissements et routes.
+
+## X. L'épaisseur politique de l'épiclèse
+
+### X.1. Un nom religieux peut changer de communauté
+
+[T/P] Le récit de transfert éléen dans Pausanias VI, 22, 10 constitue un témoignage précieux sur le passage d'une dénomination à une autre. Les relations entre Éléens et Létrinéens sont évoquées pour comprendre pourquoi une déesse déjà connue localement aurait été honorée selon les rites d'une autre communauté. Il faut prendre au sérieux la dimension institutionnelle de cette affirmation sans transformer son schéma en chronique datée de l'annexion d'un sanctuaire.
+
+### X.2. Le problème de l'échelle
+
+[P] À l'échelle de Létrinoi, le nom d'Artémis renvoie à une histoire étiologique précise. À celle d'Olympie, la déesse apparaît dans un système ordonné de sacrifices. À celle de Syracuse, sa présence devient un signe de continuité mythique et une ressource poétique. Ces échelles sont compatibles, mais elles n'ont pas la même valeur probante. La fonction de l'historien n'est pas de sélectionner une « vraie Artémis » qui abolirait les autres.
+
+## XI. Les eaux sous la mer : mythe et démonstration géographique
+
+### XI.1. Un récit sur la continuité à travers une rupture
+
+[T] La jonction d'Alphée et d'Aréthuse imaginaire traverse la mer, c'est-à-dire la plus forte discontinuité géographique entre Élide et Sicile. Le mythe convertit une séparation en passage invisible. Strabon VI, 2, 4 refuse la preuve hydrologique du vase et du sacrifice, tandis que l'évocation de la source garde sa valeur de symbole civique.
+
+[P] L'histoire rend pensable une mémoire commune à distance. Ce constat ne constitue pas une preuve d'une structure religieuse organisée réunissant administrativement les sanctuaires des deux rives. L'analogie spatiale nourrit la poésie, pas une institution démontrée.
+
+### XI.2. La différence entre explication et connaissance
+
+[P] Pour les Anciens, une histoire pouvait être rapportée par un géographe sans être acceptée comme cause naturelle. Strabon offre précisément ce double geste : conservation du récit et critique de sa possibilité physique. L'historien des religions gagne à maintenir cette distinction plutôt qu'à opposer mécaniquement « superstition antique » et « raison moderne ».
+
+## XII. Lecture philosophique I : identité, visibilité et refus
+
+### XII.1. La reconnaissance comme problème
+
+[P] La stratégie d'Artémis à Létrinoi repose sur un paradoxe : pour protéger son identité, elle rend impossible sa reconnaissance individuelle. L'identité apparaît moins comme une surface toujours exposée que comme une capacité à se soustraire à l'identification hostile. Ce point n'est pas une doctrine philosophique formulée par le mythe, mais une possibilité d'analyse de son action dramatique.
+
+### XII.2. Hegel : prudence dans l'emploi de la reconnaissance
+
+[P] Une lecture inspirée de Hegel peut interroger la dissymétrie entre un sujet qui exige de saisir un autre et un sujet qui refuse de se laisser définir par cette exigence. Il serait cependant anachronique de présenter Artémis comme une héroïne hégélienne ou d'identifier le récit à la dialectique du maître et du serviteur. Chez Hegel, la reconnaissance se déploie au sein d'une logique historique et conceptuelle que Pausanias ne formule pas. Le rapprochement n'est utile que s'il fait ressortir une différence, non s'il efface les singularités.
+
+### XII.3. Une autre politique de l'apparence
+
+[P] La boue ne transforme pas les nymphes en une personne collective unifiée ; elle rompt provisoirement la possibilité d'un tri visuel. L'effacement est circonstanciel et défensif. On peut rapprocher cette tactique des questions modernes sur la surveillance et la reconnaissance, tout en reconnaissant que l'objectif antique du récit est d'expliquer un surnom divin et de narrer un échec amoureux violent.
+
+## XIII. Lecture philosophique II : Nietzsche, interprétation et pluralité
+
+### XIII.1. Méfiance envers « l'essence du dieu »
+
+[P] Une inspiration nietzschéenne invite à examiner comment des formes de vie et des évaluations produisent des noms, plutôt qu'à postuler une essence d'Artémis intégralement donnée dès l'origine. Les relations entre Alphéiaia et Élaphiéia suggèrent que la dénomination évolue. Mais Nietzsche ne fournit aucune preuve historique de l'existence d'un rite : la philologie et les sources demeurent premières.
+
+### XIII.2. Le mythe n'est pas univoque
+
+[P] Le récit d'Artémis résistant à Alphée et celui d'Aréthuse fuyant le même fleuve ne sont pas des fragments incomplets d'une unique « version primitive » automatiquement reconstructible. On peut voir dans leur coexistence l'exemple d'une tradition capable d'organiser plusieurs réponses à une relation entre eau, désir et fuite. Le travail généalogique commence par l'étude des lieux de production de ces récits et de leurs effets, non par leur homogénéisation.
+
+## XIV. Lecture philosophique III : Aristote, territoire et communauté
+
+### XIV.1. L'institution n'est pas une épiclèse abstraite
+
+[P] On peut utiliser la réflexion aristotélicienne sur la cité et les pratiques communes pour poser la question des médiations qui transforment un rite local en institution partagée. Mais il n'existe pas ici de texte d'Aristote qui décrive l'organisation historique d'Artémis Alphéiaia. L'usage de la *Politique* doit donc être explicitement conceptuel : il aide à interroger les formes de communauté, non à combler des archives manquantes.
+
+### XIV.2. Les lieux de culte comme dispositifs de coordination
+
+[P] Le temple de Létrinoi, le téménos de l'embouchure et l'autel d'Olympie invitent à penser le culte comme une articulation d'espaces. Un même nom produit des affinités, mais les actes restent localisés. Cette distinction protège la diversité du monde grec contre une carte excessivement centralisée des « grands dieux olympiens ».
+
+## XV. Comparaisons contrôlées
+
+### XV.1. Artémis Brauronia et Artémis Orthia
+
+[H] On peut comparer les collectivités féminines, les éventuelles pratiques de transition et les différences de mise en scène des corps dans plusieurs cultes d'Artémis. Mais les documents de Brauron et d'Orthia sont d'une nature et d'une abondance différentes. Les vêtements dédiés, figurines ou dispositifs rituels attestés ailleurs ne sauraient devenir des objets fictivement déposés au sanctuaire d'Alphéiaia. La comparaison porte sur les questions adressées aux sources, pas sur une identité démontrée des rites.
+
+### XV.2. Alphée et les autres fleuves personnifiés
+
+[T/H] Les fleuves de la mythologie grecque sont parfois des ancêtres, prétendants, adversaires ou destinataires sacrificiels. Une comparaison avec l'Achéloos ou le Scamandre peut éclairer la capacité du cours d'eau à être à la fois phénomène physique et personne divine. Les structures narratives, les lieux et les destinataires demeurent distincts ; aucun culte de l'Alphée ne doit être reconstitué à partir des formes iconographiques de l'Achéloos.
+
+### XV.3. Les parcours souterrains : traditions géographiques, non hydrologie démontrée
+
+[T/P] Les récits de cours d'eau engloutis et réapparaissant à distance sont suffisamment répandus dans la littérature géographique pour rendre le récit de la Sicile intelligible dans son horizon antique. Mais l'existence de systèmes karstiques réels ne démontre pas le trajet sous-marin de l'Alphée jusqu'à Syracuse. Le géographe antique Strabon fournit déjà les arguments critiques permettant d'éviter ce glissement.
+
+### XV.4. Comparaison méditerranéenne des dieux et des eaux
+
+[H] Les divinités fluviales et les sources sacralisées sont attestées dans de nombreuses civilisations ; une typologie générale est possible. Une dérivation de l'épiclèse Alphéiaia à partir d'un culte oriental, égyptien ou mésopotamien ne serait cependant pas justifiée par une simple ressemblance symbolique. Les comparaisons historiques exigent échanges documentés, chronologie compatible et correspondances cultuelles précises.
+
+## XVI. Histoire de la peinture : une archive dispersée
+
+### XVI.1. Pourquoi Athénée est irremplaçable
+
+[T] Athénée introduit la peinture de Poséidon au thon dans un contexte savant portant sur des poissons et les savoirs alimentaires. La référence à Démétrios de Scepsis fournit un relais documentaire : nous ne lisons pas nécessairement l'observation personnelle d'Athénée devant l'œuvre. Cette médiation doit être explicitée dans toute fiche iconographique et bibliographique.
+
+### XVI.2. Cléanthe et les corpus artistiques
+
+[H] Les rapprochements entre Cléanthe, les traditions anciennes de peinture grecque et les notices de Pline l'Ancien doivent rester conditionnels tant que l'identité des homonymes et les datations ne sont pas stabilisées. La chronologie de l'artiste ne peut être déterminée par la seule célébrité attribuée aux tableaux dans un témoignage tardif.
+
+### XVI.3. La conservation de l'absence
+
+[P] L'œuvre disparue impose au musée numérique une discipline singulière : montrer qu'un objet a compté sans feindre de le posséder. On peut réunir les textes, les comparanda stylistiques et une restitution explicitement conjecturale, mais jamais attribuer à une reconstitution photoréaliste le statut d'un document antique retrouvé.
+
+## XVII. Chronologie raisonnée
+
+[T/H] **Époque de Pindare (Ve siècle av. J.-C.)** : *Néméenne* I prouve l'association poétique d'Ortygie à l'Alphée et à Artémis, sans documenter par elle-même les bâtiments d'Élide. **Époque de Strabon (fin Ier siècle av.–début Ier siècle apr. J.-C.)** : attestation littéraire de l'enclos proche de l'embouchure, des variantes Alphéionia/Alphéiouse, de fêtes annuelles et de peintures. **Époque de Pausanias (IIe siècle apr. J.-C.)** : description de Létrinoi, d'une image de culte, de l'autel olympien et d'un transfert éléen raconté rétrospectivement. **Époque d'Athénée (fin IIe–début IIIe siècle apr. J.-C.)** : transmission indirecte de la peinture de Cléanthe et de Démétrios de Scepsis. **Époque d'Ovide (fin Ier siècle av.–début Ier siècle apr. J.-C.)** : mise en voix romaine de la fuite d'Aréthuse.
+
+[H] L'ordre de composition des auteurs n'est pas un ordre des faits mythiques. Aucun de ces repères ne fixe à lui seul la date de fondation du temple de Létrinoi, du sanctuaire littoral, du transfert cultuel ou de la réalisation matérielle des peintures. Une chronologie scientifique doit afficher les blancs plutôt que les transformer en siècles imaginaires.
+
+## XVIII. Appareil philologique : passages centraux et problèmes
+
+**A. Pausanias VI, 22, 8.** Topographie des routes ; Létrinoi ; Létréos fils de Pélops ; image d'Artémis Alphéiaia dans un temple. **Nature** : témoignage de voyageur du IIe siècle apr. J.-C. **Limite** : absence de relevé architectural.
+
+**B. Pausanias VI, 22, 9.** Narration d'une tentative de contrainte par Alphée, réunion nocturne et faces couvertes de boue. **Nature** : étiologie mythique. **Limite** : aucune liturgie locale détaillée.
+
+**C. Pausanias VI, 22, 10-11.** Introduction éléenne d'Artémis Élaphiéia ; étymologie du cerf ; autre tradition sur une nourrice éponyme. **Nature** : histoire des usages et variantes. **Limite** : pas de date du transfert.
+
+**D. Pausanias V, 7, 1-3.** Origine arcadienne du fleuve et histoire d'Aréthuse fuyant jusqu'à Ortygie. **Nature** : géographie et autre tradition mythique. **Limite** : le propos sur les eaux sous-marines n'est pas vérification hydrologique.
+
+**E. Pausanias V, 14, 6.** Autel commun à Alphée et Artémis dans l'Altis. **Nature** : témoignage sur des sacrifices. **Limite** : autel et rite non équivalents à un mariage divin.
+
+**F. Strabon VIII, 3, 12.** Téménos à l'embouchure ; Alphéionia/Alphéiouse ; fêtes ; Cléanthe et Arégon. **Nature** : géographie cultuelle et histoire de l'art transmise. **Limite** : emplacement précis à vérifier sur le terrain.
+
+**G. Strabon VI, 2, 4.** Ortygie, source Aréthuse, critiques des récits du vase et du voyage sous-marin de l'Alphée. **Nature** : témoignage sur la réception et critique physique du mythe. **Limite** : ne décrit pas le sanctuaire de Létrinoi.
+
+**H. Pindare, *Néméenne* I, 1-5.** Ortygie, Alphée et Artémis. **Nature** : composition poétique sicilienne de prestige. **Limite** : pas de preuve d'identité architecturale entre Élide et Syracuse.
+
+**I. Ovide, *Métamorphoses* V, 572-641.** Monologue d'Aréthuse, poursuite, secours de Diane, métamorphose. **Nature** : réécriture littéraire romaine. **Limite** : ne pas convertir en témoignage rituel éléen.
+
+**J. Athénée VIII, 346b-c, citant Démétrios de Scepsis.** Peinture dédicatoire de Cléanthe : Poséidon offrant un thon à Zeus enfantant. **Nature** : description secondaire d'une peinture perdue. **Limite** : ni support, ni dimensions, ni vestiges contrôlés.
+
+Les différences d'orthographe des épiclèses devront être confrontées aux apparats des éditions critiques avant la préparation d'un dictionnaire lexical définitif.
+
+## XIX. Bibliographie critique et pistes de contrôle
+
+### XIX.1. Sources anciennes — éditions de travail
+
+- **Pausanias**, *Description de la Grèce*, V, 7, 1-3 ; V, 14, 4-6 ; VI, 22, 1 et 8-11. Consulter texte grec et traduction commentée, notamment les éditions de la *Collection des Universités de France* et l'édition Loeb.
+- **Strabon**, *Géographie*, VI, 2, 4 et VIII, 3, 12. Vérifier les deux leçons de l'épiclèse dans l'apparat critique.
+- **Pindare**, *Néméennes*, I, 1-5, texte grec et commentaires sur le déictique d'Ortygie.
+- **Athénée**, *Deipnosophistes*, VIII, 346b-c, avec la référence à Démétrios de Scepsis. Contrôler la transmission indirecte des peintures.
+- **Ovide**, *Métamorphoses*, V, 572-641. Édition latine critique indispensable pour les choix de traduction sur la poursuite, le corps et l'eau.
+
+### XIX.2. Études modernes
+
+- **H. A. Shapiro**, « Poseidon and the Tuna », *L'Antiquité Classique* 58 (1989), p. 32-43, DOI 10.3406/antiq.1989.2257. Référence majeure pour le problème du tableau de Cléanthe évoqué chez Athénée.
+- **Walter Burkert**, *Greek Religion: Archaic and Classical*, trad. anglaise, 1985 (à confronter à l'original allemand), pour méthode et organisation des rites.
+- **Madeleine Jost**, *Sanctuaires et cultes d'Arcadie*, Paris, 1985, pour le contexte régional et les méthodes d'interprétation des cultes péloponnésiens ; ne pas faire de cet ouvrage un inventaire direct du sanctuaire de Létrinoi.
+- **Pierre Brulé**, *La fille d'Athènes : la religion des filles à Athènes à l'époque classique*, Paris, 1987, pour une comparaison méthodologiquement contrôlée des collectifs féminins ; ne pas transporter à Létrinoi les rites athéniens.
+- **Susan Guettel Cole**, *Landscapes, Gender, and Ritual Space: The Ancient Greek Experience*, Berkeley, 2004, pour le croisement des paysages, pratiques et catégories de genre.
+- **Claude Calame**, *Le récit en Grèce ancienne : énonciations et représentations de poètes*, Paris, 1986, pour la mise en discours et la variation des traditions.
+- **Irad Malkin**, *Religion and Colonization in Ancient Greece*, Leyde, 1987, pour situer avec prudence les transformations de paysages religieux par la circulation coloniale.
+- **Jean-Pierre Vernant**, *Figures, idoles, masques*, Paris, 1990, pour les catégories d'apparition, de masque et de représentation ; usage interprétatif, non attestation d'un rituel d'enduction.
+- **Friedrich Nietzsche**, *La généalogie de la morale* (1887), comme comparaison critique sur la production de valeurs et l'interprétation ; aucune valeur de source ancienne.
+- **G. W. F. Hegel**, *Phénoménologie de l'esprit* (1807), comme instrument conceptuel soigneusement délimité, non document de religion éléenne.
+
+### XIX.3. Corpus numériques consultables et identifiables
+
+- Texte de Pausanias VI, 19-26 : https://www.theoi.com/Text/Pausanias6B.html
+- Texte de Pausanias V, 1-15 : https://www.theoi.com/Text/Pausanias5A.html
+- Strabon VIII, 3 : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/8C*.html
+- Strabon VI, 2 : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/6B*.html
+- Athénée VIII, 337b-347c : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/8B*.html
+- Ovide V, 572-641 : https://ovid.lib.virginia.edu/trans/Metamorph5.htm
+- Étude de Shapiro sur Persée : https://www.persee.fr/doc/antiq_0770-2817_1989_num_58_1_2257
+- Présentation patrimoniale d'Olympie, UNESCO : https://whc.unesco.org/en/list/517
+
+Ces accès numériques servent au contrôle de passages et à la localisation d'éditions ; ils ne remplacent pas la collation des textes grecs et latins dans une édition critique annotée.
+
+## XX. Programme iconographique scientifique
+
+**Figure 1 — Carte ancienne et moderne.** Bassin arcadien de l'Alphée, Olympie, Létrinoi probable, zone d'embouchure, côte d'Élide, Ortygie et Syracuse. Deux fenêtres géographiques reliées par une ligne **« trajet mythique non hydrologique »**, jamais par une rivière physiquement reconstituée sous la mer. Échelle, orientation, sources cartographiques et incertitudes requises.
+
+**Figure 2 — Tableau des lieux.** Pausanias VI, 22, 8 (Létrinoi), Strabon VIII, 3, 12 (embouchure), Pausanias V, 14, 6 (Olympie) : textes, distances, attestations, limites. Graphisme noir et or MYTHOS, sans image en perspective trompeuse.
+
+**Figure 3 — Paysage réel de l'Alphée près d'Olympie.** Photographie actuelle sourcée, avec date et crédit, distinguée de toute restitution antique.
+
+**Figure 4 — Fontaine Aréthuse à Ortygie.** Photographie documentaire actuelle assortie du renvoi Pindare, *Néméenne* I, et Strabon VI, 2, 4 ; éviter de présenter l'aménagement moderne comme la forme d'époque archaïque.
+
+**Figure 5 — Carte des variantes.** Tableau synoptique : Artémis résistant à Alphée chez Pausanias VI ; Aréthuse poursuivie chez Pausanias V ; Aréthuse parlant à la première personne chez Ovide V ; allusion poétique pindarique.
+
+**Figure 6 — Peintures perdues.** Trois cartouches scientifiques : « Prise de Troie » et « Naissance d'Athéna », attribuées par Strabon à Cléanthe ; « Artémis transportée par un griffon », attribuée à Arégon. Aucune photographie d'« original antique » inexistant.
+
+**Figure 7 — Le tableau de Poséidon au thon.** Restitution interprétative possible sous surveillance iconographique, fondée sur Athénée VIII, 346b-c et Shapiro 1989 ; mention obligatoire : « œuvre perdue, composition non conservée, cadrage et couleurs hypothétiques ».
+
+**Figure 8 — Réseau d'épiclèses.** Ἀλφειαία, Ἀλφειονία, Ἀλφειοῦσα, Ἐλαφιαία ; opposer dérivation lexicale, témoignage d'auteur et récit étiologique. Aucune chronologie inventée.
+
+**Figure 9 — Photographie épigraphique et archéologique.** À n'ajouter que si une dédicace ou un monument local peut être précisément attribué et muni d'une cote de musée, d'un lieu de découverte et d'une publication. À défaut, l'absence d'illustration est scientifiquement préférable.
+
+**Figure 10 — Reconstitution 3D photoréaliste *conditionnelle*.** Vue hypothétique de Létrinoi ou du sanctuaire littoral : restituer seulement les volumes étayés par publication archéologique. Tant que le plan n'est pas établi, préférer un paysage topographique avec marqueur « emplacement non déterminé », sans temple aux proportions fictivement certaines. Aucune illustration 2,5D, aucun menu ni texte incrusté dans l'image.
+
+**Figure 11 — Frise des témoins.** Pindare, Strabon, Ovide, Pausanias, Athénée, clairement datés par leur activité littéraire, non par une « date du sanctuaire » supposée.
+
+**Figure 12 — Autel conjoint d'Olympie.** Schéma documentaire basé sur Pausanias V, 14, 6 : les destinataires du sacrifice sont identifiés ; le plan et l'architecture de l'autel demeurent non spécifiés si l'identification matérielle est incertaine.
+
+## XXI. Questions ouvertes pour les recherches futures
+
+Quelle relation géographique exacte faut-il établir entre l'enclos littoral décrit par Strabon et le temple de Létrinoi vu par Pausanias ? À quelles conditions l'histoire du transfert d'Artémis Élaphiéia peut-elle être corrélée aux changements institutionnels de la Pisatide ? Quels instruments permettraient de vérifier les distances antiques sans projeter la côte moderne dans le passé ? Les descriptions de tableaux perdues relèvent-elles d'une même tradition d'érudition sur un sanctuaire, ou de plusieurs inventaires partiellement divergents ? Comment l'autorité poétique de Pindare et le scepticisme physique de Strabon coexistent-ils dans les représentations grecques de la communication entre Élide et Sicile ? La question des collectifs féminins dans le mythe d'Artémis peut-elle recevoir des appuis cultuels indépendants du récit de Pausanias ?
+
+Ces questions sont volontairement laissées ouvertes. Elles désignent des programmes de vérification et non des lacunes à remplir par imagination.
+
+## Conclusion générale
+
+Artémis Alphéiaia n'est ni une simple « Artémis des rivières » ni l'héroïne immuable d'un unique mythe. Ses noms se croisent et se transforment ; les lieux où elle est décrite ne se superposent pas nécessairement ; les sacrifices ne répètent pas littéralement l'histoire ; les œuvres peintes qui faisaient sa gloire ont disparu, mais leurs descriptions subsistent. Chez Pausanias, la déesse soustrait son visage à la violence de l'Alphée ; ailleurs, Aréthuse devient la protagoniste de la fuite. Entre Élide et Syracuse, l'eau mythique crée un passage culturel que le savoir géographique peut évoquer sans croire à sa réalité physique.
+
+La force de cette monographie tient donc à une distinction : **expliquer un culte par la convergence de textes, de lieux et de pratiques, et non expliquer tous les textes par une essence supposée du dieu**. C'est seulement en protégeant les divergences anciennes, les silences archéologiques et les modes de réception qu'une encyclopédie scientifique restitue la véritable complexité de la religion grecque.
+
+*Fin de la monographie universitaire. La variable 474 doit être résolue exclusivement par la transaction GitHub Actions si la demande reçoit une attribution canonique. Aucune publication sur bobmythos.fr n'est présupposée par le présent manuscrit.*
