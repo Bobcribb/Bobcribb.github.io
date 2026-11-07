@@ -377,7 +377,24 @@
     "824": "/chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine/",
     "825": "/chapitres/origines-du-sacre/825-garagay-temples-en-u-reliefs-polychromes-espaces-rituels/",
     "826": "/chapitres/origines-du-sacre/826-huaca-de-los-reyes-caballo-muerto-reliefs-argile-pouvoir-ceremoniel/",
-    "827": "/chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire/"
+    "827": "/chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire/",
+    "828": "/chapitres/origines-du-sacre/828-bandurria-huaura-places-circulaires-monticules-sepultures-preceramique/",
+    "829": "/chapitres/origines-du-sacre/829-oxtotitlan-guerrero-grotte-peintures-c1-c2-oxalates-jaguar-patrimoine/",
+    "830": "/chapitres/origines-du-sacre/830-lapaha-tonga-langi-tombes-tu-i-tonga-megalithes-memoire-souverainete/",
+    "831": "/chapitres/origines-du-sacre/831-cerro-lampay-fortaleza-festins-chantier-shicras-fermeture-rituelle/",
+    "832": "/chapitres/origines-du-sacre/832-el-paraiso-chillon-preceramique-monumental-coton-peche-foyers-patrimoine/",
+    "833": "/chapitres/origines-du-sacre/833-la-venta-complexe-a-depots-massifs-offrande-quatre-tombes-debat/",
+    "834": "/chapitres/origines-du-sacre/834-aspero-supe-huaca-idolos-sacrificios-sepultures-astronomie-2026/",
+    "835": "/chapitres/origines-du-sacre/835-chalcatzingo-morelos-el-rey-monuments-un-neuf-pluie-grottes-archives/",
+    "836": "/chapitres/origines-du-sacre/836-el-manati-veracruz-sources-bustes-bois-balles-caoutchouc-offrandes/",
+    "837": "/chapitres/origines-du-sacre/837-buena-vista-chillon-temples-calendaires-lumiere-astronomie-sacre/",
+    "838": "/chapitres/origines-du-sacre/838-mina-perdida-vallee-lurin-metallurgie-precoce-or-cuivre-architecture-rituelle/",
+    "839": "/chapitres/origines-du-sacre/839-poverty-point-louisiane-tertres-anneaux-places-echanges-rituels-chronologie/",
+    "840": "/chapitres/origines-du-sacre/840-cardal-vallee-lurin-places-circulaires-atrium-crocs-reconstructions/",
+    "841": "/chapitres/origines-du-sacre/841-huaca-prieta-chicama-pleistocene-monticule-textiles-indigo-sepultures/",
+    "842": "/chapitres/origines-du-sacre/842-bandurria-huaura-preceramique-monticules-plaza-circulaire-figurines-menages/",
+    "843": "/chapitres/origines-du-sacre/843-watson-brake-louisiane-tertres-archaique-moyen-subsistance-espaces-collectifs/",
+    "844": "/chapitres/origines-du-sacre/844-teouma-vanuatu-lapita-necropole-cranes-oiseaux-ceramiques-migrations/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -431,7 +448,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 827,
+  "last_numbered_chapter": 844,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",

@@ -1,0 +1,255 @@
+# Chapitre 836 — El Manatí : faire offrande aux eaux, aux bois et aux puissances de la montagne
+
+**MYTHOS — Les Origines du sacré, volume DCCCXXXVI. Étude universitaire intégrale.**
+
+**Aire culturelle :** bassin inférieur du Coatzacoalcos, Veracruz méridional, Mésoamérique ; traditions de l'horizon formatif ancien associées à l'espace olmèque.  
+**Dossier matériel :** dépôts humides d'El Manatí, ensembles de céramique, haches polies et pierres vertes, mortiers et meules, plantes et graines, balles de caoutchouc, bustes de bois, bâtons et restes osseux humains.  
+**Problématique :** comment reconnaître des gestes d'offrande dans un assemblage sans écriture locale déchiffrable, sans attribuer aux objets la signification d'une religion immuable ?  
+**Statut :** synthèse originale de sources publiées ; aucune fouille ni autopsie des objets revendiquée. Les citations verbales non contrôlées sont proscrites.  
+**Convention critique :** [A] fait matériel attesté ou résultat explicitement publié ; [D] débat documenté ; [H] hypothèse interprétative. Ces repères qualifient les propositions, non les personnes.
+
+## Résumé scientifique
+
+[A] Dans les dépôts gorgés d'eau d'El Manatí, près du cerro El Manatí, les fouilles de Ponciano Ortiz Ceballos et María del Carmen Rodríguez Martínez ont mis au jour des ensembles exceptionnellement conservés : pierres travaillées, vestiges végétaux, balles de caoutchouc et sculptures anthropomorphes en bois. La conservation organique modifie radicalement ce que l'on peut savoir d'un dispositif rituel du Formatif ancien : là où d'autres sites laissent surtout de la pierre et de la céramique, celui-ci rend visibles le bois, les plantes, les ligatures et la présence de matériaux périssables. [D] La signification des bustes, l'articulation entre objets et os humains, les critères d'identification de certaines offrandes et les décomptes publiés ne sont pas définitivement fixés. [H] On défendra ici l'hypothèse limitée selon laquelle la longue fréquentation d'une zone humide au pied d'une éminence participe à la fabrication d'un lieu d'interlocution avec des puissances, sans prouver une cosmogonie précise, un panthéon nommé ou une continuité religieuse jusqu'aux sociétés coloniales. Les comparaisons avec l'Égypte, la Mésopotamie, la Grèce, l'Inde et la Chine servent à analyser les dispositifs matériels ; elles n'établissent aucune filiation.
+
+## I. Le problème de méthode : le lieu sacré ne se lit pas directement dans les choses
+
+L'expression « sanctuaire olmèque » offre un raccourci commode et dangereux. Elle suggère une enceinte délimitée, un corps sacerdotal et une doctrine dont le site ne fournit ni traité, ni registre d'offrandes, ni inscriptions explicitant l'identité des destinataires. [A] Des objets furent déposés dans des séquences reconnaissables ; [H] leur destination à des agents autres qu'humains est une inférence qui devient plus forte lorsqu'on observe la répétition, l'agencement et le caractère coûteux ou non utilitaire des gestes. « Sacré » ne doit donc pas remplacer « observation » : il nomme la question à résoudre.
+
+La démarche suivra six niveaux : topographie du dépôt ; stratigraphie ; composition et formation des assemblages ; travail des matières ; scénarios d'action ; limites de l'interprétation. Le vocabulaire de sacrifice, consécration, ancêtre, idole ou initiation ne sera employé qu'en tant que problème comparatif. Une sculpture anthropomorphe n'est pas en elle-même la preuve d'un dieu ; une balle n'est pas automatiquement l'accessoire d'un match cérémoniel ; le voisinage de restes d'enfant ne livre pas sans analyse taphonomique la cause de la mort. Le dialogue avec les philosophies du religieux ne peut lever ces réserves.
+
+## II. Topographie : le cerro, les sources et le bassin du Coatzacoalcos
+
+[A] Le site se situe dans l'aire du sud de Veracruz, au sein d'une région de plaines fluviales et de reliefs localisés, relativement près du grand centre ancien de San Lorenzo. Une notice du Museo Nacional de Antropología situe El Manatí à environ dix kilomètres de San Lorenzo ; les publications de l'INAH le replacent dans le réseau hydrographique du Coatzacoalcos. La proximité géographique indique des relations possibles, non une subordination politique archéologiquement démontrée dans chaque phase. Le mont et ses points d'eau constituent une articulation concrète entre des hauteurs, des écoulements et une zone propice à la conservation de matières organiques.
+
+[D] La désignation de « montagne sacrée » résume une interprétation plausible, non une phrase prononcée par les habitants du deuxième millénaire avant notre ère. Quelle était l'accessibilité saisonnière des bassins ? Les dépositions avaient-elles lieu au même point d'eau ou dans plusieurs micro-emplacements ? L'évolution des nappes, des sols et des dépôts a-t-elle déplacé la perception du site ? Répondre exigerait une cartographie hydrologique et stratigraphique par phase, non la simple projection des sources actuelles sur l'occupation ancienne.
+
+[H] Un paysage humide peut être choisi parce qu'il est un lieu d'approvisionnement, parce qu'il rend certaines choses invisibles au regard ordinaire, parce qu'il stabilise la mémoire d'une opération collective ou parce que plusieurs de ces possibilités se cumulent. L'analyse ne doit pas décider a priori que l'eau « symbolise la vie ».
+
+## III. Histoire documentaire : découverte, intervention et constitution d'archives
+
+[A] La documentation centrale est issue des fouilles et publications de l'équipe de Ponciano Ortiz Ceballos et María del Carmen Rodríguez Martínez. L'article « Proyecto Manatí 1989 » est paru dans *Arqueología*, numéro 1 (1989), pages 23–52. Un ouvrage de synthèse, *El Manatí: un espacio sagrado olmeca*, a été publié par l'Universidad Veracruzana en 1994. Le travail collectif de 2017 sur les instruments de mouture apporte une discussion distincte sur les premières phases et leurs datations. L'INAH a diffusé en 2026 une présentation nouvelle des ensembles à l'occasion d'une exposition au Museo de Antropología de Xalapa.
+
+Cette série documentaire ne doit pas être traitée comme une succession de textes parfaitement substituables. Une étude de mobilier vise le classement des artefacts ; un livre de synthèse privilégie une lecture globale ; une notice de musée communique certains objets emblématiques ; un communiqué d'exposition propose une chronologie accessible au public. [D] Lorsque deux notices institutionnelles diffèrent sur le nombre des sculptures ou des balles, la divergence est une donnée de critique documentaire à conserver, non un obstacle que l'on efface en choisissant un chiffre séduisant.
+
+Les références précises sont regroupées en fin d'étude ; les textes de fouille demeurent prioritaires pour les contextes, tandis que les présentations récentes éclairent les choix de conservation et d'exposition. Aucune autopsie de plans originaux non consultés n'est revendiquée.
+
+## IV. La chronologie : périodes de dépôt, datations et incertitudes
+
+[A] L'article de 2017 dans *Arqueología* distingue une phase ancienne, dite Manatí A, pour laquelle il publie plusieurs fourchettes calibrées à deux sigmas : approximativement 1730–1400, 1720–1440 et 1640–1490 avant notre ère selon les échantillons et laboratoires mentionnés. Il ne s'agit ni de trois règnes, ni d'une seule date de fondation. L'INAH présente un schéma d'ensemble avec dépôts entre environ 1700 et 900 avant notre ère : premiers ensembles sur des pierres et sédiments, phase dominée par les haches, puis dépôts comportant des bustes de bois.
+
+[D] Une date radiocarbone ne date directement que l'échantillon organique, et sa relation avec l'offrande doit être discutée. Une fourchette calibrée n'est pas une date d'événement au jour près. Le rapprochement opéré en 2017 avec des phases précoces du Chiapas doit être lu comme une corrélation de chronologies régionales, non la preuve que les cérémonies étaient identiques. La céramique d'accompagnement, ses remaniements éventuels et les conditions hydrologiques peuvent compliquer la lecture.
+
+L'importance de la succession réside dans la possibilité d'un renouvellement des choix matériels au fil des générations : on ne peut construire « la religion d'El Manatí » à partir d'une photographie figée de la dernière phase. Le changement des assemblages devient lui-même un objet d'histoire.
+
+## V. Les surfaces de dépôt : construire un événement sans bâtiment monumental
+
+[A] Les premières phases étudiées comportent des artefacts sur un lit de roches, des fragments de céramique, des vestiges organiques et des haches ou perles de pierre verte. L'article de 2017 décrit des instruments de mouture et leur position dans les premiers ensembles. Un dépôt organisé n'implique donc pas nécessairement un temple conservé en élévation ; il peut mettre en jeu une surface sélectionnée, des gestes répétitifs et le devenir du matériau plongé en milieu humide.
+
+[D] Il faut distinguer une concentration de matériel laissée par l'occupation quotidienne d'un dépôt intentionnel. La juxtaposition de nombreux outils dans un environnement particulier est un indice ; elle devient plus convaincante si les orientations, associations et répétitions ne s'expliquent ni par la destruction, ni par le transport hydraulique, ni par le rejet domestique. Les rapports de fouille fournissent des informations, mais certaines micro-séquences restent difficiles à reconstituer pour le lecteur éloigné du terrain.
+
+[H] Le site permet de penser une sacralisation par pratique plutôt que par architecture : ce n'est pas parce qu'un lieu est déclaré sacré dans un texte qu'on y répète un acte ; c'est possiblement la répétition qui fabrique une relation durable entre un groupe et une source. Le modèle demeure testable seulement dans la mesure où l'on confronte cette intuition à la stratigraphie.
+
+## VI. Les mortiers et les meules : économie du geste et sélection rituelle
+
+[A] Ponciano Ortiz Ceballos, María del Carmen Rodríguez Martínez et Jorge Mora ont étudié, dans *Arqueología* 51 (2017), des mortiers et metates sans pieds provenant des dépôts précoces. Leur association avec pierres vertes, fragments de balles et restes végétaux est établie par l'article ; leur fonction dans un éventuel cérémonial reste à inférer. La mouture est une transformation mécanique de substances ; rien ne permet de déduire la nature exacte de chaque produit préparé à El Manatí.
+
+Des outils « ordinaires » peuvent entrer dans des opérations extraordinaires sans changer de morphologie. Une meule déposée n'est plus nécessairement un outil disponible pour le repas suivant ; elle devient aussi une dépense de travail et un objet soustrait à son circuit domestique. [H] Le dépôt pourrait consacrer l'opération de transformation — broyer, mélanger, rendre consommable — plutôt qu'une matière unique. Cette proposition exige des analyses résiduelles compatibles avec les contextes fouillés.
+
+La distinction entre quotidien et rituel est ici trop simple : le religieux peut sélectionner des objets dont la signification dérive justement de leur valeur productive. Marcel Mauss aide à poser la question du don et de l'obligation ; son modèle ne fournit pas pour autant une traduction indigène des intentions.
+
+## VII. Les plantes et graines : ressources écologiques, indices et silence des noms
+
+[A] Les publications institutionnelles récentes mentionnent parmi les restes végétaux des graines et fruits de différentes plantes, notamment calebasse, jobo, guanábana, nanche et autres taxons identifiés dans les dépôts anciens ; elles signalent aussi des fragments de récipients et des résidus interprétés dans certains cas comme compatibles avec le cacao. Ces indications réclament une lecture prudente : identifier un reste botanique n'est pas restituer un menu, un calendrier agricole ou un récit d'origine.
+
+Les plantes peuvent avoir été apportées pour plusieurs raisons : nourriture, parure, matière première, couleur, odeur, reproduction, échange, ou simple proximité d'activités. L'hypothèse d'une offrande végétale est renforcée par la présence d'autres objets manifestement sélectionnés, mais elle ne transforme pas chaque graine en symbole religieux distinct. [D] Les déterminations taxonomiques, les méthodes de résidus et la position de chaque élément comptent davantage qu'une association poétique entre eau et germination.
+
+La présence d'espèces locales n'annule pas l'ouverture de réseaux lointains, attestée par les pierres vertes. Le lieu concentre potentiellement des matériaux de provenance, de traitement et de durée de conservation très différents ; leur réunion fait partie de ce qu'il faut expliquer.
+
+## VIII. Haches polies et pierre verte : une grammaire des dépôts
+
+[A] Dans la présentation INAH de 2026, la phase intermédiaire est décrite par des haches disposées isolément, par paires ou en assemblages de forme florale ; les premières phases comprennent également des pierres vertes et des perles. « Jade », « jadeite », « serpentine » et « pierre verte » ne sont pas des synonymes minéralogiques : seuls des examens pétrographiques ou géochimiques peuvent trancher le cas d'une pièce donnée. L'INAH évoque des liens avec le Motagua guatémaltèque pour certains matériaux, à considérer dans le cadre plus large des réseaux mésoaméricains.
+
+Une hache n'est pas uniquement un outil de coupe : l'objet poli peut être fabriqué, échangé, offert et placé pour être vu avant d'être enfoui. Le dépôt de paires ou d'ensembles paraît construit ; cela ne prouve ni un rituel de mariage, ni une conception numérologique stable. La forme en fleur relevée par les fouilleurs est une comparaison de disposition, pas le nom antique d'une cérémonie.
+
+[H] Une lecture productive consiste à prendre en compte le coût de l'approvisionnement, le polissage, le choix des surfaces et le renoncement à l'usage. La valeur de l'offrande est aussi une valeur de travail et de circulation. Le lien entre pouvoir économique et autorité cérémonielle est plausible, mais les individus qui commanditaient les gestes restent sans identité démontrable.
+
+## IX. Les balles de caoutchouc : preuve d'une matière, non d'un terrain de jeu
+
+[A] El Manatí compte parmi les dossiers les plus anciens et les plus significatifs pour l'histoire de la balle en caoutchouc mésoaméricaine. Il faut néanmoins conserver les chiffres tels qu'ils sont documentés. Une publication scientifique de 2012 mentionne quatorze balles connues, de tailles diverses ; le communiqué INAH de 2026 annonce quinze balles, dont six rattachées aux premiers dépôts. Un désaccord de périmètre d'inventaire, d'état de conservation ou de date de comptage peut l'expliquer, sans qu'on puisse arbitrer depuis les notices seules.
+
+[D] L'existence de balles n'atteste pas à elle seule la morphologie d'un jeu, l'équipement d'un terrain construit ou le déroulement d'une cérémonie sacrificielle. Le jeu peut se pratiquer dans des espaces dont l'architecture ne laisse aucune preuve claire. Le lien entre jeux de balle historiquement documentés et objets du deuxième millénaire avant notre ère doit être reconstruit, non présumé comme une continuité inchangée.
+
+[H] Des balles déposées plutôt qu'utilisées pourraient représenter des instruments de compétition, des matériaux précieux ou des médiateurs destinés à des agents non humains. Ce sont des scénarios alternatifs, non trois rites identifiés. Une histoire du sacré rigoureuse commence par admettre le pluralisme des fonctions possibles.
+
+## X. La matière élastique : technologie, odeur, transformation, mémoire
+
+Une balle conserve les propriétés techniques de sa matière : élasticité, maniabilité, déformation, vieillissement. Les recherches sur les premières technologies du caoutchouc en Mésoamérique associent notamment le latex du Castilla elastica à des procédés de traitement ; pour El Manatí, chaque attribution technique devrait être référée à des analyses matérielles propres aux objets. Il ne suffit pas que le caoutchouc soit présent dans la région pour déduire l'atelier ou la recette locale.
+
+[H] Le dépôt d'une matière qui rebondit peut provoquer une expérience sensorielle singulière : résistance au choc, mouvement imprévisible, retour après l'impact. Ce pouvoir technique rend concevable un investissement symbolique. Toutefois, le « rebond de la vie » serait une métaphore moderne si aucun dispositif iconographique ou textuel n'en établissait la portée ancienne.
+
+Le spécialiste doit distinguer l'histoire des techniques de l'histoire des croyances. Les deux se croisent quand le choix d'un matériau façonne les gestes, mais aucun passage automatique de l'une à l'autre n'est admissible. Ce principe concerne aussi la brillance de l'hématite, les propriétés du bois humide ou les pierres polies.
+
+## XI. Les bustes de bois : trois registres de réalité
+
+[A] L'ensemble des bustes anthropomorphes est remarquable par la conservation du bois, matière ordinairement détruite dans beaucoup de sols tropicaux. Le Museo Nacional de Antropología, dans une notice signée par Rebecca González Lauck, annonce trente-trois bustes en bois datés approximativement autour de 1200 avant notre ère ; le communiqué INAH de 2026 mentionne vingt figures retrouvées *in situ*, dans une séquence de 1200 à 900 avant notre ère. Les deux énoncés n'ont pas forcément le même périmètre. Le premier paraît désigner le corpus d'objets, le second une catégorie de contextes ; cette explication reste [H] tant qu'un inventaire de concordance ne l'établit pas.
+
+Il faut ensuite distinguer : premièrement, la forme plastique de visages sculptés ; deuxièmement, leur contexte de dépôt parmi d'autres éléments ; troisièmement, le personnage ou la puissance qu'ils auraient représentés. Les deux premiers niveaux relèvent de l'enquête archéologique. Le troisième ne se résout pas par un simple nom (« roi », « ancêtre », « dieu ») imposé à l'objet.
+
+Les sociétés peuvent produire des images de personnes vivantes, mortes, imaginaires ou hybrides ; une statue peut aussi être support d'une relation sans référer à un individu singulier. Le jeu des hypothèses doit rester ouvert.
+
+## XII. Les bois de jobo et de ceiba : choix techniques et possibilités sociales
+
+[A] L'INAH identifie dans sa synthèse de 2026 des figures travaillées en bois de jobo et de ceiba. La sélection d'essences différentes invite à croiser botanique, disponibilité, propriétés de travail et conservation. Des images sculptées dans une matière vivante passée par l'abattage, le façonnage puis l'immersion ne doivent pas être analysées comme de simples équivalents de statues lithiques.
+
+[H] Si le bois portait une mémoire de l'arbre, rien ne prouve que les anciens déposants conceptualisaient cette transformation selon le schème universel de « l'arbre de vie ». Les imaginaires des arbres cosmiques en Mésopotamie, en Inde ou en Mésoamérique postérieure ne constituent pas une légende conservée à El Manatí. On peut comparer des opérations — prélever, sculpter, déposer — tout en séparant les récits.
+
+La question des traces d'outils est essentielle : types d'entaille, régularités de façonnage, finition de surface, similitudes de proportions. Sans accès aux relevés techniques exhaustifs, il faut suspendre le classement en « ateliers », « écoles » ou « styles de maîtres ». L'état exceptionnel de conservation autorise précisément des programmes de recherche qui ne sont pas possibles sur les sculptures de pierre seules.
+
+## XIII. L'hématite, les pigments et le problème de la visibilité
+
+[A] Les descriptions institutionnelles signalent de l'hématite spéculaire associée à certains bustes et des traces colorées visibles sur quelques pièces. L'hématite peut fournir une matière brillante et colorante, mais son rôle précis dépend du contexte : poudre, morceau, couche appliquée, dépôt voisin. Une surface rougeâtre ne démontre pas automatiquement une peinture rituelle sanguine.
+
+[D] Les analogies avec le sang, l'aube ou la vitalité sont nombreuses dans la littérature comparative ; elles ne suffisent pas pour identifier un code olmèque. La proposition que le rouge « signifie la vie » confond un possible effet de couleur avec une sémantique établie. L'étude des pigments requiert des analyses physico-chimiques et la distinction entre altérations post-dépositionnelles et applications d'origine.
+
+[H] La brillance, surtout en présence d'eau et de lumière changeante, peut avoir été recherchée pour la transformation perceptive du visage sculpté. Il s'agit d'un mécanisme possible, non d'un spectacle reconstruit. La prudence est plus importante que l'effet littéraire : les archives ne décrivent pas la cérémonie elle-même.
+
+## XIV. Bâtons et assemblages végétaux : l'offrande comme composition
+
+[A] Certaines descriptions associent les bustes à des bâtons de bois et à des matériaux végétaux liés ou regroupés. C'est l'assemblage qui fait sens pour l'archéologue, non un objet pris dans une vitrine isolée. Un bâton proche d'un buste peut résulter d'un dépôt coordonné ; il ne devient un « sceptre » qu'après une argumentation typologique et contextuelle. Les mots « bâton de commandement » employés dans des présentations modernes demeurent des termes interprétatifs.
+
+La reconnaissance de la composition exige de reconstituer ce qui a été posé simultanément, ce qui fut ajouté plus tard et ce qui a bougé sous l'action des eaux ou des fouilles. L'association spatiale n'est pas nécessairement une association fonctionnelle. Une série d'objets peut représenter plusieurs gestes de familles ou de groupes successifs.
+
+[H] L'idée d'un « paquet rituel » permet de penser la solidarité d'objets hétérogènes : bois anthropomorphe, matière colorante, végétaux, pierre et eau. Elle doit rester une catégorie analytique, non l'affirmation d'une terminologie locale perdue. La capacité d'un même ensemble à réunir matériaux durables et périssables constitue sa spécificité historique.
+
+## XV. Les restes infantiles : violence, deuil et démonstration impossible
+
+[A] Des notices indiquent la présence de restes humains d'enfants dans certains contextes associés aux bustes, notamment des fragments de mâchoires et d'os longs. Cette situation impose une rigueur accrue. La présence d'ossements est un fait ; la reconstitution d'un sacrifice humain volontaire suppose l'établissement de la cause du décès, de la séquence de dépôt, des traces de traitement des corps et des alternatives taphonomiques.
+
+[D] On peut envisager des restes secondaires, des prélèvements dans des sépultures, des pratiques mortuaires de longue durée, des associations postérieures ou un geste sacrificiel ; aucune de ces possibilités ne doit être érigée en certitude sur la seule proximité avec une sculpture. La notion de « victime », chargée juridiquement et moralement, exige des indices qu'une notice d'exposition ne peut fournir à elle seule.
+
+René Girard, dans *La violence et le sacré*, offre une théorie des rapports entre sacrifice et régulation sociale ; appliquer cette théorie comme diagnostic automatique ferait disparaître la différence entre les os fouillés et l'explication générale. La responsabilité scientifique consiste à ne pas transformer les morts, et particulièrement les enfants, en personnages d'une dramaturgie fabriquée par l'historien.
+
+## XVI. Inhumation des objets et temporalité de l'oubli
+
+[A] De nombreuses offrandes ont été soustraites à la vue par leur dépôt dans les sédiments. La conservation exceptionnelle ne doit pas faire oublier leur possible disparition volontaire du champ visuel ancien. Une figure déposée dans un milieu humide pouvait devenir inaccessible, au moins pour un temps. Mais l'archéologue observe son état retrouvé, non l'intention déclarée du déposant.
+
+[H] Offrir peut parfois consister à rendre définitivement indisponible un bien qui aurait pu servir ailleurs. L'économie du dépôt n'est donc pas nécessairement l'échange au sens marchand : le geste crée une rupture de disponibilité. Néanmoins, on ne peut affirmer une « destruction de richesse » uniforme, car certaines matières étaient peut-être produites directement pour le dépôt.
+
+Le problème renvoie à la durée : plusieurs phases d'offrande dans un même secteur peuvent construire une mémoire pratique du lieu sans transmission écrite. Des personnes peuvent apprendre où déposer, quelles matières apporter et quelles zones éviter. Il ne s'agit pas d'une tradition conservée à l'identique pendant huit siècles, mais d'une hypothèse de continuité transformée, à éprouver phase par phase.
+
+## XVII. Les relations avec San Lorenzo : réseaux plutôt que centre unique
+
+[A] San Lorenzo fournit le cadre régional d'une organisation politique et technique de grande échelle durant le Formatif ancien. La proximité géographique et l'appartenance à un même espace de circulation rendent l'interaction vraisemblable. Les travaux d'Ann Cyphers ont profondément renouvelé la connaissance de cette région ; Richard Diehl et Christopher Pool ont proposé des synthèses utiles pour replacer les sites du golfe du Mexique dans les réseaux mésoaméricains.
+
+[D] On ne peut en conclure que chaque dépôt d'El Manatí était ordonné par un souverain de San Lorenzo. Les haches, les pierres vertes et les formes sculptées peuvent signaler des échanges, des savoir-faire partagés, une compétition ou une autorité régionale. Le sens de la circulation ne se laisse pas reconstruire à partir d'un objet isolé. Les variations chronologiques interdisent aussi d'utiliser « olmèque » comme si l'étiquette désignait une administration unique durant tout le deuxième millénaire.
+
+[H] El Manatí peut servir à réfléchir aux interfaces entre lieux d'agrégation, pouvoirs émergents et pratiques déposantes. L'analyse ne doit pas subordonner d'emblée les offrandes à la seule propagande politique.
+
+## XVIII. Philologie négative : ce que les mots ne permettent pas de dire
+
+L'écriture locale du deuxième millénaire avant notre ère ne fournit pour El Manatí aucun corpus de prières, listes divines, prescriptions de consécration ou noms de rites directement attribuables à ses ensembles. L'épithète « olmèque » est elle-même une catégorie historiographique moderne, non l'autonyme garanti des groupes déposants. De même « cerro El Manatí » est un toponyme actuel. [A] La preuve primaire est ici la matérialité contextualisée ; [D] les textes tardifs mésoaméricains ne peuvent se substituer au document absent.
+
+La comparaison lexicale doit alors être explicitement négative : ce que le grec appelle *anathēma* ou *hieron*, ce que le latin désigne comme *sacrum* et les catégories modernes d'offrande ne sont pas des traductions directes d'un mot olmèque perdu. Le vocabulaire européen sert à organiser un dossier, non à refaire parler les acteurs. Cette distinction est capitale pour une encyclopédie universitaire.
+
+La philologie aide néanmoins autrement : elle permet de contrôler nos propres anachronismes, l'histoire des traductions, la manière dont la presse, les musées et les spécialistes nomment « buste », « idole », « sanctuaire » ou « sacrifice ». L'absence d'un texte ancien impose une discipline du langage savant.
+
+## XIX. Comparaison mésopotamienne : l'eau d'Enki et les limites de l'analogie
+
+Dans les traditions écrites mésopotamiennes, l'*abzu* désigne un domaine des eaux profondes associé notamment à Enki/Ea ; des hymnes et textes de fondation mettent en relation sanctuaire, eaux et souveraineté divine. La documentation, abondante et diverse, n'autorise pas à réduire le culte d'Eridu à un sanctuaire de source comparable à El Manatí. Elle fournit surtout un contraste méthodologique : en Mésopotamie, le texte nomme des divinités et des actes ; au Veracruz, les interprètes doivent reconstruire des gestes à partir des assemblages.
+
+[H] On peut opposer deux modes de médiation archéologique : l'un articulant lexique, temple et archives cunéiformes, l'autre centré sur matières, conservation et répétition des dépôts. Il serait illégitime d'inférer de cette différence documentaire une évolution universelle du « naturel » au « sacerdotal ». Des traditions rituelles complexes peuvent exister sans écriture conservée ; une littérature théologique peut produire des catégories qui ne sont pas directement les gestes ordinaires du culte.
+
+La valeur de la comparaison réside donc dans l'asymétrie des preuves.
+
+## XX. Comparaison égyptienne : l'eau primordiale n'est pas une source mexicaine
+
+L'Égypte ancienne a élaboré des représentations multiples des eaux primordiales, couramment désignées par la catégorie de Noun/Nun, et des pratiques de dépôt, purification ou alimentation des dieux que documentent inscriptions et images. La diversité des temples et des époques exclut un modèle unique. Les allusions à Noun ne fournissent pas la clé d'interprétation d'un bassin du Coatzacoalcos.
+
+La question productive est plus limitée : comment une société transforme-t-elle l'eau, substance requise pour vivre, en opérateur de passage entre espaces humains et pouvoirs non humains ? En Égypte, l'analyse peut contrôler les noms des opérations et les rites figurés ; à El Manatí elle doit contrôler les traces de dépôt. [H] Toute ressemblance entre fertilité, renouvellement, couleur et immersion doit être évaluée comme analogie de problème, non comme transmission transatlantique.
+
+L'histoire comparée gagne à faire apparaître les discontinuités. Les mots « origine du sacré » ne justifient pas un mythe de l'origine unique des religions.
+
+## XXI. Grèce, Inde, Chine : sources, offrande et institution
+
+Dans le monde grec, sanctuaires de sources, offrandes, hydromancies et rites de purification apparaissent dans des contextes différents. Pausanias, *Description de la Grèce*, livre IX, traite notamment du paysage rituel de Lébadée et de Trophonios ; c'est un témoignage d'époque impériale, non un document pour El Manatí. Le *Ṛgveda* 10.9, hymne adressé aux eaux, fournit une autre élaboration textuelle de leur puissance bienfaisante ; les traditions védiques ne sont ni les contemporaines exactes ni les ancêtres démontrables des dépôts mexicains. Dans les corpus rituels chinois, les pratiques liées à l'eau, aux montagnes et aux médiations politiques obéissent à des histoires spécifiques.
+
+Comparer ces ensembles peut défaire trois préjugés : qu'un sanctuaire a toujours un édifice, qu'une offrande contient toujours un message formulé en paroles, et qu'un dépôt serait une pratique « primitive » remplacée ensuite par une religion du texte. Les histoires grecque, indienne et chinoise montrent au contraire des entrelacements durables de gestes, paroles, images et institutions, selon des combinaisons incomparables dans le détail.
+
+[D] Aucun des textes cités ne doit être mobilisé pour retrouver le nom d'une puissance olmèque. Le comparatisme devient scientifique lorsqu'il expose la limite de ce qu'il compare.
+
+## XXII. Vernant, Detienne, Durkheim : trois usages critiques
+
+Jean-Pierre Vernant oblige à inscrire les représentations divines dans des rapports sociaux, des institutions et des manières de penser, plutôt qu'à isoler un « symbole universel ». Marcel Detienne attire l'attention sur les différences internes des systèmes de classement : une plante n'est pas « sacrée » par essence ; elle acquiert des valeurs dans des oppositions et usages historiquement situés. Émile Durkheim interroge l'efficacité collective de la séparation du profane et du sacré ; cette distinction permet de poser la question de la soustraction d'objets à leur circulation ordinaire.
+
+Ces trois approches ne se superposent pas. La grille durkheimienne peut encourager à reconnaître du social dans la répétition des gestes ; la méthode historique de Vernant rappelle que les catégories sont locales ; la critique des mythologies classificatoires chez Detienne incite à se méfier d'une sémiologie automatique des plantes, des couleurs ou des haches. [H] Appliquées comme interrogations et non comme verdicts, elles permettent de décrire El Manatí comme un dispositif de relations plutôt que comme un magasin de symboles.
+
+Aucune lecture d'ouvrage philosophique ne remplace une donnée de fouille.
+
+## XXIII. Nietzsche, Hegel, Eliade, Girard : tensions interprétatives
+
+La *Généalogie de la morale* de Nietzsche invite à interroger les valeurs, les dettes et les procédures historiques qui rendent un geste obligatoire ; elle ne montre pas que l'offrande d'une hache acquittait une dette envers une divinité déterminée. Hegel, dans les *Leçons sur la philosophie de la religion*, pose le problème de l'objectivation du religieux dans des formes historiques, mais ses hiérarchies générales entre religions ne peuvent faire office de chronologie archéologique. Mircea Eliade propose la notion de hiérophanie ; le danger est d'utiliser ce mot comme preuve qu'un lieu était sacré avant même d'avoir décrit ses dépôts.
+
+Girard attire l'attention sur la violence et la substitution sacrificielle ; des restes infantiles ne suffisent pas à valider un schéma victimaire. Dumézil, dont la comparaison structurale repose surtout sur les traditions indo-européennes, ne fournit aucun classement fonctionnel direct pour El Manatí. Ces auteurs sont de véritables partenaires de problématisation à condition de maintenir les différences entre archéologie des preuves et philosophie des interprétations.
+
+La règle est simple : une théorie enrichit les questions ; elle ne doit jamais inventer les réponses.
+
+## XXIV. Ce qui est attesté, discuté et hypothétique
+
+| Objet | [A] Documenté | [D] Discuté | [H] À tester |
+|---|---|---|---|
+| Lieu | Dépôts en zone humide du Veracruz méridional | Extension et évolution hydrologique | Fonction d'interface avec des puissances |
+| Chronologie | Plusieurs phases et fourchettes radiocarbone publiées | Corrélations entre niveaux et matériaux | Continuité institutionnelle de longue durée |
+| Haches | Présence et agencements de pierres polies | Minéralogie et provenance de chaque pièce | Valeur de renoncement et de circulation |
+| Caoutchouc | Balles en dépôt ; inventaires divergents | Nombre exact et usages | Accessoires rituels d'une pratique sportive ou autre |
+| Bois | Bustes anthropomorphes conservés | Corpus de vingt ou trente-trois selon les notices | Ancêtres, personnalités, images cultuelles |
+| Restes humains | Fragments d'enfants signalés dans certains dépôts | Formation des assemblages et traitement des restes | Sacrifice, sépulture secondaire ou autre geste |
+| Continuité | Fréquentation répétée du secteur | Cadence des phases et ruptures | Transmission de savoirs rituels |
+
+Ce tableau évite que la présentation d'un dossier sous le titre général du sacré soit confondue avec la démonstration de tous ses objets religieux.
+
+## XXV. Programme de contrôle scientifique
+
+Un progrès empirique exigerait : 1) une concordance publique et détaillée des inventaires de bustes et de balles, indiquant fouille, contexte, numéros d'objets et collections ; 2) la publication de plans stratigraphiques réconciliés avec les prélèvements radiocarbone et leurs courbes de calibration ; 3) l'analyse du bois et des traces d'outils par catégories d'objets ; 4) l'étude des pigments pour séparer enduits, dépôts d'hématite et altérations ; 5) des études taphonomiques et bioarchéologiques prudentes des restes humains ; 6) l'analyse des pierres et des sources d'approvisionnement ; 7) une histoire documentée des conditions de conservation après fouille.
+
+Ces exigences ne constituent pas l'affirmation qu'aucun travail n'a été réalisé : elles établissent des critères pour toute synthèse prétendant trancher les controverses. Chaque point doit être confronté aux rapports d'intervention et aux inventaires, y compris lorsqu'ils sont dispersés entre musées et institutions.
+
+La responsabilité patrimoniale est particulière : des bois conservés pendant des millénaires dans l'eau peuvent être fragilisés par l'exposition, le dessèchement, la manipulation ou des traitements inadaptés.
+
+## XXVI. Conclusion : la matérialité de la relation
+
+El Manatí met en crise une définition livresque de la religion. Il ne transmet ni prière signée, ni théologie systématique ; il conserve les traces d'opérations répétées, où les matériaux font partie de ce qu'il faut comprendre. La source et l'éminence attirent des gestes ; les dépôts réunissent eau, pierres polies, organiques et figures humaines sculptées ; la stratigraphie montre un changement de répertoire au fil du temps. Il ne s'agit pas de reconstituer un « premier culte » de la Mésoamérique mais d'étudier un lieu parmi d'autres dans une histoire longue des pratiques déposantes.
+
+La véritable singularité du site ne tient pas à une proximité supposée avec une essence universelle du sacré. Elle tient à la conservation des matières ordinairement perdues et à l'obligation d'interpréter des assemblages sans textes normatifs. Ce déficit de paroles anciennes ne justifie pas que l'historien parle à leur place.
+
+Les dépôts de bois et de caoutchouc invitent à une anthropologie de la transformation : choisir, façonner, associer, rendre inaccessible, revenir. Là commence une histoire argumentée de la sacralisation, distincte de la recherche d'un symbole préfabriqué.
+
+## Sources primaires, dossiers de fouille et publications institutionnelles
+
+1. Ortiz Ceballos, Ponciano ; Rodríguez Martínez, María del Carmen, « Proyecto Manatí 1989 », *Arqueología* (INAH), no 1, 1989, p. 23–52. Notice et accès : https://www.revistas.inah.gob.mx/index.php/arqueologia/article/view/13453.
+2. Rodríguez M., María del Carmen ; Ortiz C., Ponciano, *El Manatí: un espacio sagrado olmeca*, Xalapa, Universidad Veracruzana, 1994. Identification bibliographique : https://search.worldcat.org/title/31708616.
+3. Ortiz Ceballos, Ponciano ; Rodríguez Martínez, María del Carmen ; Mora, Jorge, « Los instrumentos de molienda de El Manatí: su contexto en un espacio sagrado », *Arqueología* (INAH), no 51, 2017, p. 167–188, https://revistas.inah.gob.mx/index.php/arqueologia/article/view/10867. Les fourchettes calibrées employées ici proviennent du résumé de l'article.
+4. Instituto Nacional de Antropología e Historia, « Los hallazgos del cerro El Manatí, en la exposición Señores del agua, espacios sagrados olmecas », communiqué institutionnel, 2026, https://www.inah.gob.mx/boletines/los-hallazgos-del-cerro-el-manati-en-la-exposicion-senores-del-agua-espacios-sagrados-olmecas.
+5. González Lauck, Rebecca, « Bustos de madera estilo olmeca », Museo Nacional de Antropología (INAH), notice de collection, https://mna.inah.gob.mx/detalle_huella.php?pl=Bustos_de_madera_estilo_olmeca. La notice indique trente-trois bustes, à comparer aux vingt figures *in situ* rapportées par le communiqué de 2026.
+
+## Bibliographie archéologique, anthropologique et comparatiste
+
+6. Cyphers, Ann, « The Early Preclassic Olmec: An Overview », dans Loa P. Traxler et Robert J. Sharer (dir.), *The Origins of Maya States*, Philadelphia, University of Pennsylvania Museum, 2016, p. 83–122.
+7. Diehl, Richard A., *The Olmecs: America's First Civilization*, London, Thames & Hudson, 2004.
+8. Pool, Christopher A., *Olmec Archaeology and Early Mesoamerica*, Cambridge, Cambridge University Press, 2007.
+9. Clark, John E., « The Arts of Government in Early Mesoamerica », *Annual Review of Anthropology*, 26, 1997, p. 211–234.
+10. Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965.
+11. Detienne, Marcel, *Les Jardins d'Adonis. La mythologie des aromates en Grèce*, Paris, Gallimard, 1972.
+12. Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912.
+13. Mauss, Marcel, « Essai sur le don », *L'Année sociologique*, nouvelle série, 1, 1923–1924 (publication 1925).
+14. Eliade, Mircea, *Le Sacré et le Profane*, Paris, Gallimard, 1957.
+15. Girard, René, *La Violence et le Sacré*, Paris, Grasset, 1972.
+16. Nietzsche, Friedrich, *Zur Genealogie der Moral*, Leipzig, Naumann, 1887.
+17. Hegel, G. W. F., *Vorlesungen über die Philosophie der Religion*, cours posthumes, première édition 1832. La chronologie éditoriale et les versions de cours doivent être distinguées.
+18. Dumézil, Georges, *Mythe et épopée*, trois volumes, Paris, Gallimard, 1968–1973.
+19. Pausanias, *Description de la Grèce*, livre IX, notamment le dossier de Lébadée et Trophonios : source comparative grecque d'époque impériale, non source olmèque.
+20. *Ṛgveda*, hymne 10.9 : texte comparatif indien relatif aux eaux ; aucune transmission historique vers El Manatí n'est postulée.
+
+## Note de méthode et de publication
+
+Le présent manuscrit est une étude **nouvelle**, distincte des dossiers déjà attribués sur les sites sud-africains et andins. Les dates, noms et numéros de références scientifiques ci-dessus ne dépendent pas de la numérotation MYTHOS. Seuls les marqueurs éditoriaux du titre et du volume attendent la transaction de la file de publication. Le site WordPress historique n'est pas destinataire de cette livraison. Une demande enregistrée sur GitHub ne doit pas être annoncée comme un chapitre publié sans reçu ni contrôle du site public.

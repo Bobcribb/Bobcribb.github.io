@@ -1,0 +1,731 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 495
+
+## Aphrodite Paphia à Palaipaphos : la Souveraine chypriote, la pierre sans visage, Kinyras et l'histoire d'un sanctuaire entre l'âge du Bronze et Rome
+
+*Monographie universitaire originale en français. Mythographie, philologie grecque et chypriote, épigraphie syllabique et alphabétique, religion égéenne et levantine, archéologie du sanctuaire de Kouklia, royauté sacerdotale, rituels, circulation des images, histoire des représentations et philosophie politique du sacré. État documentaire : 7 novembre 2026. Le marqueur 495 est une variable de composition et non un numéro canonique attribué.*
+
+### Résumé scientifique
+
+Le sanctuaire de **Palaipaphos**, près de **Kouklia**, au sud-ouest de Chypre, offre un cas décisif pour comprendre ce que signifie l'identité d'une divinité dans la longue durée. Homère, *Odyssée* VIII, 362–366, connaît Paphos comme demeure d'Aphrodite, avec un espace consacré et un autel parfumé. Mais les premières constructions monumentales du sanctuaire remontent vers **1200 av. J.-C.**, avant les attestations assurées de la déesse grecque sous ce nom. Les inscriptions du royaume de Paphos honorent une **Wanassa**, « Souveraine » ou « Dame », à laquelle des rois se présentent également comme prêtres. Plus tard, Tacite, *Histoires* II, 2–4, décrit une forme cultuelle **aniconique**, un objet de pierre s'élevant en cône, ainsi que des traditions contradictoires sur la fondation et une pratique de consultation des entrailles. Les monnaies romaines figurent la pierre dans une architecture de sanctuaire ; elles ne fournissent cependant pas un relevé exact et unique de chaque phase bâtie.
+
+Cette chronologie interdit une identité simpliste : la présence d'un culte féminin au Bronze récent, l'attestation de Wanassa et la célébrité d'Aphrodite Paphia dans le monde gréco-romain ne sont pas trois preuves équivalentes d'une déesse nommée « Aphrodite » dès le Chalcolithique. L'histoire se construit au contraire sur l'articulation entre **continuités de lieu et transformations de nom, d'images, d'institutions et de réseaux politiques**. Il faut aussi distinguer **Palaipaphos**, lieu du vieux sanctuaire, de **Néa Paphos**, centre urbain et port développé à l'époque classique et hellénistique, sans supposer que leurs cultes furent indépendants.
+
+Trois récits de fondation coexistent. Tacite transmet une fondation attribuée au roi **Aérias**, puis à **Kinyras**, avec l'arrivée d'un spécialiste venu de Cilicie, **Tamiras**. Pausanias VIII, 5, 2 attribue au chef arcadien **Agapénor**, détourné de son retour de Troie, la fondation de la cité et d'un temple. Strabon XIV, 6, 3 connaît le sanctuaire ancien, la distance entre les deux Paphos et une procession annuelle où se rendent ensemble hommes et femmes. Aucun de ces récits ne doit devenir la photographie administrative du XIIe siècle avant notre ère. Chacun répond à des enjeux différents : origines dynastiques, prestige des retours héroïques, intégration civique, continuité des offrandes et exercice de l'oracle.
+
+Les fouilles de l'équipe helvético-allemande, notamment en 1973–1979, 1992–1997 et 2007–2008, éclairent une succession d'états architecturaux, de dépôts votifs et d'inscriptions. Les murs cyclopéens ou mégalithiques de l'ensemble du Bronze récent, la cour ouverte, le secteur couvert et les reconstructions romaines permettent des restitutions contrôlées. Mais une façade intégralement reconstituée, la position exacte d'une statue à chaque époque ou l'identification de tous les personnages des figurines dépasseraient la preuve disponible.
+
+**Problématique centrale :** comment une cité peut-elle faire d'une présence divine ancienne, représentée dans certaines phases par une pierre sans visage, l'un des plus célèbres lieux d'Aphrodite, tandis que se modifient les dynasties, les langues, les cultes et les pouvoirs méditerranéens ? La réponse n'est ni l'affirmation d'une « Grande Déesse » immuable, ni celle d'une pure invention grecque tardive. Elle implique un examen articulé des textes, des pierres, des inscriptions, des monnaies et des pratiques de mémoire.
+
+### Convention critique et limite des sources
+
+Les assertions sont balisées : **[T]** = témoignage littéraire antique ou inscription ; **[M]** = donnée archéologique ou numismatique publiée ; **[H]** = hypothèse historique ou philologique qui dépasse les données explicites ; **[P]** = interprétation philosophique ou comparaison méthodologique moderne. Une [T] atteste qu'un auteur a écrit un récit, pas que le miracle rapporté s'est produit. Une [M] peut prouver la présence d'une cour ou d'une figurine, non le nom et les pensées d'un fidèle. Les références antiques citées sont localisables ; les numéros d'inventaire qui ne sont pas vérifiés ne sont pas inventés.
+
+Cette étude est distincte des dossiers MYTHOS sur **Aphrodite d'Aphrodisias**, dont l'objet est un type statuaire anatolien et l'asylie civique, sur **Aphrodite Érycine** de Sicile et sur **Aphrodite Pandémos** d'Athènes. Le dossier chypriote possède sa propre stratigraphie, ses langues écrites et ses institutions. Il ne reprend pas non plus une biographie générale de la déesse ni un nouveau chapitre autonome sur Hélios.
+
+---
+
+## I. Palaipaphos et Néa Paphos : préciser la géographie avant le mythe
+
+### 1. Deux Paphos, plusieurs périodes
+
+**[M/T]** Le nom *Palaipaphos* (Παλαιπάφος, « vieille Paphos ») désigne le centre ancien proche du village moderne de **Kouklia** ; le nom *Néa Paphos* renvoie à la ville développée plus à l'ouest, près du port et des vestiges aujourd'hui visités à **Kato Paphos**. Ces noms ne sont pas deux variantes d'un sanctuaire identique. Le prestigieux téménos d'Aphrodite est celui de l'ancienne ville ; la nouvelle ville possède ses propres édifices, espaces sacrés et trajectoires politiques.
+
+La distinction importe pour l'iconographie : une photographie des mosaïques de villas romaines de Néa Paphos ne montre pas le sanctuaire de Kouklia. Un itinéraire mythologique évoquant « Paphos » peut désigner un horizon religieux plus large, mais le commentaire archéologique doit choisir un site et une phase avant d'associer une image à un vestige.
+
+### 2. Le relief, la mer et l'accès au sanctuaire
+
+Palaipaphos occupe un espace légèrement en retrait de la côte méridionale de l'île, qui domine des voies d'accès à la mer et des terrains de culture. Strabon XIV, 6, 3 situe l'ancienne Paphos à une courte distance du rivage, avec un mouillage, puis distingue le port de l'autre Paphos. Le sanctuaire ne doit donc pas être dessiné sur la plage du récit moderne de la naissance d'Aphrodite.
+
+**[H]** L'ouverture de la cour, le relief et les accès permettent d'étudier ce que pouvaient voir des participants à une fête. Ils ne documentent pas à eux seuls la direction d'une procession, les portes autorisées ou la visibilité permanente de l'objet de pierre.
+
+### 3. Le complexe classé et ses composantes
+
+L'inscription de **Paphos au patrimoine mondial de l'UNESCO** concerne plusieurs composantes archéologiques, notamment Kouklia-Palaipaphos et Kato Paphos. Ce classement est un statut patrimonial contemporain, non une attestation ancienne de l'identité religieuse du lieu. Il protège un ensemble dans lequel sanctuaires, tombes, résidences, fortifications et mosaïques appartiennent à des époques variées.
+
+Une carte scientifique doit distinguer : les deux villes, le vieux sanctuaire, les secteurs funéraires, les emplacements des portes, les installations médiévales et les voies anciennes supposées. Le visiteur ne doit pas confondre la topographie antique et la présentation muséale actuelle.
+
+### 4. Un site dont les noms ont une histoire
+
+Les formes *Paphos*, *Pafos*, *Palaepaphos*, *Palaipafos* et *Kouklia* ne sont pas des lieux religieux successifs de même statut. Les graphies grecques et les translittérations modernes changent. La mention du toponyme chez Homère n'implique pas que les habitants du premier sanctuaire, plusieurs siècles auparavant, employaient déjà cette forme dans les mêmes conditions.
+
+---
+
+## II. Le nom divin : Aphrodite, Paphia, Kypris et Wanassa
+
+### 5. L'épiclèse Παφία
+
+**[T]** *Paphia* (Παφία) est une épiclèse géographique : l'Aphrodite « de Paphos ». Elle situe la déesse par rapport à une communauté et à un centre cultuel. Il serait réducteur de la traduire par « déesse de la beauté de Paphos » ; la qualification renvoie d'abord à une localisation et à une tradition de pouvoir sacré.
+
+Chez Strabon XIV, 6, 3, le sanctuaire ancien est dit de **l'Aphrodite Paphia**. L'emploi d'un nom grec reconnu n'abolit pas les appellations anciennes transmises dans les inscriptions chypriotes.
+
+### 6. Κύπρις : l'association littéraire à Chypre
+
+Le nom **Κύπρις**, « la Chypriote », apparaît fréquemment dans la poésie grecque comme désignation d'Aphrodite. Son attestation dans l'*Iliade*, en particulier au chant V, ne doit pas être confondue avec l'épiclèse locale *Paphia*. L'une désigne la relation à l'île ; l'autre renvoie plus spécifiquement à un lieu. Une déesse peut posséder des appellations superposées sans que chacune définisse un culte institutionnel identique.
+
+La relation étymologique au nom de Chypre n'est pas une explication de l'étymologie d'**Aphrodite** elle-même. L'interprétation populaire qui rattache Aphrodite à l'**ἀφρός**, « écume », appartient notamment au récit théogonique ; elle ne suffit pas à régler l'origine linguistique du théonyme.
+
+### 7. Ἄνασσα / Fανάσσα : une souveraine plus ancienne que l'identification grecque
+
+**[T]** Le terme **ἄνασσα**, dans sa forme locale **Wanassa** (avec l'ancien /w/ représenté par digamma dans certaines transcriptions), signifie « maîtresse » ou « souveraine ». Des inscriptions chypriotes syllabiques désignent la déesse comme la **Wanassa**, sans toujours employer son nom grec. Cette situation ne prouve pas une divinité différente de celle que des Grecs appelleront plus tard Aphrodite ; elle prouve que les voies de nomination ne coïncident pas.
+
+Jacqueline **Karageorghis**, « Les noms de la Grande Déesse dans les inscriptions syllabiques chypriotes » (1997), examine précisément le décalage entre les documents locaux et les théonymes du panthéon hellénique. La translittération doit se faire à partir d'une édition épigraphique, et non d'une adaptation libre des signes du syllabaire.
+
+### 8. Souveraine de qui, de quoi ?
+
+« Wanassa » n'est pas un équivalent automatique de « déesse de la fertilité ». Le titre peut exprimer la supériorité d'une puissance religieuse, sa relation au territoire ou sa place dans des actes de dédicace. Le vocabulaire royal est significatif lorsque des rois se disent aussi **prêtres de la Souveraine**, mais il ne suffit pas à démontrer que tous les domaines de la vie politique passaient directement sous l'autorité institutionnelle du sanctuaire.
+
+**[P]** La formule de souveraineté invite à interroger l'articulation entre pouvoir humain et représentation divine. Cette lecture ne doit pas se substituer à la traduction des inscriptions ni faire d'une métaphore théologique un texte de droit constitutionnel.
+
+---
+
+## III. Homère : Paphos comme demeure de la déesse
+
+### 9. Odyssée VIII, 362–366 : un sanctuaire déjà inscrit dans la poésie
+
+**[T]** À la fin du chant de Démodocos sur Arès et Aphrodite, la déesse, libérée des liens d'Héphaïstos, gagne Chypre et **Paphos**. Les vers VIII, 362–363 situent un *téménos* et un autel ; les vers 364–366 montrent les **Charites** qui la lavent, l'oignent d'huile immortelle et la revêtent. C'est un témoignage littéraire précoce de la célébrité religieuse de Paphos.
+
+Le texte ne décrit pas l'architecture du sanctuaire monumental du Bronze récent. Il ne dit pas non plus que la pierre sacrée était le seul objet du lieu. Homère fournit une **géographie poétique et cultuelle**, non le plan de Kouklia ou une transcription de son règlement sacerdotal.
+
+### 10. Τέμενος et βωμός : deux mots à ne pas confondre
+
+**[T]** **τέμενος** est un espace mis à part, consacré ; **βωμός** désigne l'autel. Dans le passage homérique, ces termes indiquent une demeure terrestre de la déesse et une pratique sacrificielle évoquée par le parfum. Le texte ne nomme pas un *naos* de dimensions déterminées.
+
+Le qualificatif appliqué à l'autel, lié au fumet du sacrifice, ouvre un champ d'interprétation sur les odeurs : feu, matières odorantes, graisse, plantes ou encens. Il serait méthodologiquement abusif de dresser la liste précise des substances brûlées à Palaipaphos sur la seule base d'un épithète poétique.
+
+### 11. Charites, bain et vêtement
+
+Le bain des Charites transforme le sanctuaire en lieu de restauration divine. Aphrodite, prise dans une scène d'humiliation et de rire, y retrouve la splendeur visible et la maîtrise de son apparence. Ce retour vers son espace sacré ne se réduit pas à un « pèlerinage » : la déesse rejoint une demeure qui lui appartient déjà dans le récit.
+
+La lecture philosophique peut mettre en relation **le visage et le soin du corps** dans la poésie avec **la représentation aniconique** d'une autre tradition. Elle doit préciser qu'il ne s'agit pas d'une contradiction entre deux documents de même genre : un récit poétique des dieux et une description rituelle d'un objet ne cherchent pas à décrire la même chose.
+
+### 12. L'importance de Paphos dans un chant phéacien
+
+La scène se situe à l'intérieur d'une performance de Démodocos devant les Phéaciens. Le poète montre des dieux capables de rire, de désirer, de négocier et de revenir dans leurs domaines respectifs. L'association à Paphos fait entrer un sanctuaire de l'île de Chypre dans une géographie partagée par des auditoires qui ne résident pas nécessairement sur place.
+
+L'importance de ce geste n'est pas qu'Homère « prouve » tous les rites chypriotes ; elle est qu'une localisation dévotionnelle peut circuler par la parole épique.
+
+---
+
+## IV. Les Hymnes homériques : le parfum, l'écume et l'image d'Aphrodite
+
+### 13. Hymne homérique à Aphrodite V, 56–67
+
+**[T]** Dans le grand *Hymne homérique à Aphrodite* (hymne 5), les vers 56–67 font passer la déesse par son sanctuaire à Paphos avant sa rencontre avec Anchise. Elle y pénètre, ferme les portes, reçoit le bain et les parfums des Charites, puis se pare. Le passage présente des correspondances étroites avec l'*Odyssée* VIII.
+
+La présence d'un temple et de portes dans cet hymne ne doit pas servir à reconstituer rétrospectivement l'intégralité de l'architecture du Bronze récent. Le chant appartient à une tradition poétique et à ses propres conventions de description de l'espace divin.
+
+### 14. Hymne VI : la naissance et le vêtement
+
+Le petit *Hymne homérique à Aphrodite* VI, 1–18 présente les Vents poussant la déesse vers Chypre, les Heures qui l'accueillent et l'ornent. Le thème de l'habillage divin revient, mais le récit n'explique pas la forme concrète de la pierre vénérée à Paphos.
+
+La juxtaposition des deux hymnes montre la puissance d'une iconographie verbale d'Aphrodite : vêtement, éclat, or, fleurs, séduction. Elle n'autorise ni à ériger un portrait sculpté unique au centre de chaque sanctuaire chypriote ni à ignorer l'existence de traditions aniconiques.
+
+### 15. Hésiode, Théogonie 188–206 : l'écume n'est pas la stratigraphie
+
+Dans la *Théogonie* d'Hésiode, après la mutilation d'Ouranos par Cronos, l'écume formée autour des organes jetés à la mer donne naissance à Aphrodite. La déesse atteint d'abord **Cythère**, puis **Chypre**, dans un récit d'origine qui lie plusieurs lieux sacrés. Le nom est associé à **ἀφρός**, « écume », dans une étymologie interne au poème.
+
+Cette tradition peut expliquer la force mythologique des rivages chypriotes, mais ne permet pas d'attribuer l'installation des premiers bâtiments du sanctuaire à un événement daté raconté par le poète. Le commentaire doit différencier **étiologie du nom** et **étymologie historique**.
+
+### 16. Le rocher de la naissance et le sanctuaire intérieur
+
+La localisation moderne de **Petra tou Romiou** dans la géographie touristique d'Aphrodite peut servir à expliquer la mémoire paysagère, non à identifier l'emplacement du principal téménos ancien. Le sanctuaire archéologique de Palaipaphos se trouve à Kouklia. Une restitution photographique ne doit pas présenter la plage et les colonnes comme deux vues de la même implantation.
+
+---
+
+## V. Les trois fondateurs : Aérias, Kinyras et Agapénor
+
+### 17. Tacite, Histoires II, 3 : Aérias, personnage ou nom divin ?
+
+**[T]** Tacite indique qu'une ancienne tradition attribuait l'établissement du sanctuaire au roi **Aérias** ; une autre interprétation faisait de ce mot le nom de la divinité elle-même. Cette alternative est déjà un avertissement antique : le nom peut appartenir au fondateur ou au monde des dieux, selon les versions.
+
+Il est impossible d'identifier un roi archéologiquement daté nommé Aérias à partir de ce seul texte latin impérial. On ne doit pas inventer de règne entre les fondateurs racontés et les dynasties documentées par les inscriptions.
+
+### 18. Kinyras, père dynastique et figure ambivalente
+
+Tacite ajoute qu'une tradition plus récente attribuait la consécration à **Kinyras** (*Cinyras* en latin). Celui-ci figure aussi dans le cycle troyen : dans l'*Iliade* XI, 19–28, Kinyras fait parvenir à Agamemnon une splendide cuirasse, acte de prestige et de relation politique dans le cadre du départ vers Troie. La figure dépasse donc le rôle d'un simple fondateur de temple.
+
+Le nom **Kinyras** appartient à des traditions dynastiques chypriotes dont les détails ne s'accordent pas toujours. Il serait erroné d'établir une série royale continue de Kinyras à Nicoclès en comptant arbitrairement les générations racontées dans les mythes. L'expression « Kinyrades » désigne notamment une mémoire de descendance sacerdotale, pas une liste exhaustive d'individus historiquement vérifiés.
+
+### 19. Tamiras de Cilicie : le savoir rituel comme importation
+
+Tacite rapporte qu'un certain **Tamiras**, venu de Cilicie, aurait introduit la technique divinatoire, et que ses descendants auraient d'abord partagé la compétence avec les Kinyrades. La tradition exprime une tension entre origine locale du culte et apport externe d'un savoir spécialisé. L'abandon ultérieur du rôle des Tamirades en faveur des seuls Kinyrades forme une scène d'affirmation de priorité dynastique.
+
+**[H]** Ce passage ne suffit pas à prouver la migration effective d'un collège sacerdotal cilicien. En revanche, il révèle que l'auteur et sa source pensaient les institutions divinatoires comme ayant une histoire et des droits susceptibles d'être disputés.
+
+### 20. Pausanias VIII, 5, 2 : Agapénor et le retour de Troie
+
+Dans son récit des rois d'Arcadie, Pausanias raconte qu'**Agapénor**, chef du contingent arcadien devant Troie, fut déporté à Chypre par une tempête lors du retour. Il y aurait fondé Paphos et bâti le sanctuaire d'Aphrodite de l'ancienne ville. Cette tradition noue Chypre à un paysage héroïque du Péloponnèse.
+
+Elle se distingue du récit de Kinyras : Agapénor n'est pas un roi autochtone de Paphos, et la tempête du *nostos* n'est pas l'équivalent de la venue de la déesse née de la mer. La divergence doit être conservée.
+
+### 21. Laodicé et le vêtement consacré
+
+Pausanias VIII, 5, 3 rapporte qu'une descendante d'Agapénor nommée **Laodicé** dédia une robe à Athéna Aléa à Tégée. Le récit fait circuler l'objet et la mémoire dynastique entre Chypre et l'Arcadie : un textile offert dans le Péloponnèse porterait l'inscription d'une relation à une « patrie » éloignée.
+
+Ce rapprochement éclaire les mécanismes de généalogie et d'autorité : un récit de fondation peut être confirmé symboliquement par la mémoire d'un don, sans que l'on possède aujourd'hui le textile ni qu'on puisse en déduire une migration de masse à la date traditionnelle.
+
+### 22. Le fondateur narratif et la date archéologique
+
+**[M/H]** Que des populations égéennes et des réseaux chypriotes se rencontrent à la fin de l'âge du Bronze est documenté par l'archéologie. Cela peut rendre compréhensible le développement de traditions de fondation par des héros grecs. Mais l'archéologie ne peut pas prouver qu'Agapénor lui-même fit poser une fondation en un lieu déterminé, ni qu'un roi mythique appelé Kinyras commandita le premier sanctuaire en 1200 av. J.-C.
+
+**Conclusion partielle :** les récits rivaux mettent en scène une antiquité **locale**, **orientale** ou **achéenne**, et c'est précisément leur coexistence qui fait l'intérêt de Paphos.
+
+---
+
+## VI. Hérodote et les routes orientales de la déesse
+
+### 23. Histoires I, 105 : Ascalon et les sanctuaires de l'Aphrodite Ourania
+
+**[T]** Hérodote I, 105 rapporte le pillage d'un temple d'**Aphrodite Ourania** à Ascalon et affirme, selon une information attribuée aux Chypriotes, qu'un sanctuaire de la déesse à **Chypre** aurait été fondé à partir de celui d'Ascalon. La distinction est décisive : Hérodote parle ici du sanctuaire de l'île dans une relation de parenté cultuelle, sans fournir dans ce passage un dossier de fouille de Palaipaphos.
+
+La cote correcte est **I, 105**, et non I, 195 : la confusion existe dans certaines synthèses secondaires. Une édition MYTHOS doit contrôler les références primaires plutôt que reproduire un chiffre erroné.
+
+### 24. La valeur historique d'une généalogie de sanctuaires
+
+L'expression selon laquelle un lieu religieux serait la « fille » ou la fondation d'un autre peut traduire des voyages, des ressemblances de rites, des échanges de prêtres ou une tradition d'ancêtres. Elle n'établit pas à elle seule la chronologie des bâtiments ni les personnes qui les ont construits.
+
+Les relations du Levant avec Chypre au Bronze récent sont substantielles ; elles ne justifient pas la formule simpliste « Astarté devint Aphrodite à Paphos » comme s'il existait un acte unique de changement de nom connu et daté.
+
+### 25. Aphrodite Ourania et les identifications divines
+
+L'épiclèse **Ourania** renvoie au ciel dans la tradition grecque. Des auteurs grecs peuvent l'employer pour interpréter des cultes de sociétés voisines. La comparaison avec **Astarté** permet de mettre en évidence des fonctions et des formes figuratives parfois proches, mais les identifications divines sont des opérations historiques effectuées par des communautés et des auteurs.
+
+Il faut examiner l'inscription, son support et son lieu avant de déclarer deux théonymes équivalents. La proximité entre deux déesses de la souveraineté, de l'amour ou de la fécondité n'est pas en elle-même une preuve de dépendance généalogique.
+
+### 26. La prostitution dite « sacrée » : un problème historiographique
+
+Hérodote I, 199 décrit un rite qu'il rapporte pour Babylone et rapproche de certains usages chypriotes. Ce texte a longtemps alimenté des reconstructions d'une institution généralisée de « prostitution sacrée ». Une critique moderne doit distinguer la description, les stéréotypes grecs sur les peuples étrangers et l'absence de preuve locale suffisante pour attribuer à chaque sanctuaire chypriote une telle organisation.
+
+Il serait donc injustifié de décrire comme **fait établi à Palaipaphos** une obligation rituelle de relations sexuelles, faute de dossier épigraphique et archéologique convergent. La question est historique et documentaire ; une représentation spectaculaire sans fondement ferait perdre à MYTHOS son exigence de méthode.
+
+---
+
+## VII. Le sanctuaire monumental du Bronze récent
+
+### 27. Vers 1200 av. J.-C. : construire sans reconstruire le culte dans tous ses détails
+
+**[M]** Les missions archéologiques à Palaipaphos ont identifié une première construction monumentale du sanctuaire vers **1200 av. J.-C.** Les publications de Franz Georg Maier et Marie-Louise von Wartburg distinguent un grand espace découvert, des murs massifs et un secteur couvert. Les élévations originelles ne sont pas intégralement restituables.
+
+Cette donnée ne prouve pas que les bâtisseurs désignaient leur déesse sous le nom grec d'Aphrodite, ni que le cône conservé au musée actuel fut visible au même emplacement et sous la même forme dès l'état initial.
+
+### 28. Le téménos du Bronze récent
+
+L'ensemble ancien, souvent appelé **Sanctuaire I** dans la documentation archéologique, combine cour ouverte et limites maçonnées. Le Département des Antiquités de Chypre le situe dans la partie sud du complexe, où certains murs et espaces sont encore visibles. Le dispositif correspond à une architecture religieuse qui valorise autant le périmètre et le rassemblement que l'abri d'une image divine.
+
+Les murs constituent une preuve de construction ; le nom des acteurs, la répartition exacte des sexes dans le public et la succession des gestes autour de l'autel ne peuvent être déduits de la seule maçonnerie.
+
+### 29. Un hall et la question de l'objet sacré
+
+Les restitutions scientifiques discutent un secteur couvert lié à la présence de l'objet aniconique. L'existence du sanctuaire et de son architecture est plus solidement attestée que la géométrie complète de chaque couverture. Une maquette doit donc distinguer : murs conservés, parties restituées d'après les fondations, toiture hypothétique et emplacement supposé d'équipements mobiles.
+
+Il serait fautif de dessiner une vaste statue humaine de marbre comme centre assuré du premier état parce que la poésie grecque décrit Aphrodite sous des traits anthropomorphiques.
+
+### 30. Le Chalcolithique : des indices anciens, une continuité à démontrer
+
+L'Université de Zurich signale des raisons de penser que des pratiques religieuses liées à une déesse de fécondité pourraient remonter, dans cette région, jusqu'au **Chalcolithique**. La formule doit être gardée à son niveau de certitude : la continuité rituelle de plus de quinze siècles à partir du Bronze récent est solidement documentée au sanctuaire, tandis que la remontée vers le Chalcolithique relève d'une hypothèse plus large.
+
+On ne peut pas transformer des figurines féminines néolithiques ou chalcolithiques dispersées sur l'île en chaîne ininterrompue d'un seul culte nommé, au même emplacement et avec le même sens religieux.
+
+### 31. Circulation égéenne et chypriote
+
+Les céramiques et les tombes de la région attestent des contacts intenses entre Chypre et l'Égée à la fin du IIe millénaire av. J.-C. Ces données peuvent être rapprochées des légendes de retours de Troie en tant qu'arrière-plan historique, non comme preuves nominatives de leurs héros. Le matériel doit être daté par contextes et comparaisons typologiques, pas par la date conventionnelle de la chute de Troie.
+
+---
+
+## VIII. La pierre sans visage : l'aniconisme paphien
+
+### 32. Tacite, Histoires II, 3 : une forme qui ne représente pas un corps humain
+
+**[T]** Tacite décrit l'objet cultuel d'Aphrodite Paphia comme une masse se rétrécissant depuis une base large vers une partie supérieure plus étroite. Il souligne qu'elle n'a **pas de forme humaine** et que la signification de sa forme demeure incertaine. Le passage ne dit pas qu'aucune statue figurative n'existait ailleurs dans le sanctuaire ou dans le royaume.
+
+L'absence d'un corps humain sculpté dans l'image principale est une caractéristique rituelle et sémiotique. Elle n'est ni un manque à combler par une statue imaginée ni un indice que la divinité serait « moins grecque ».
+
+### 33. Le terme bétyle : usage moderne et histoire des mots
+
+**[H]** Le mot **bétyle**, employé dans l'archéologie moderne, désigne généralement une pierre vénérée comme présence ou support divin. Il ne doit pas être présenté comme le terme exact utilisé dans tous les textes anciens sur Paphos. La notion rassemble des situations diverses ; certaines pierres ont un sens narratif explicite, d'autres sont connues par leur forme et leur contexte.
+
+Pour Paphos, la pierre conique constitue un objet majeur, mais le commentaire doit privilégier la description du texte et les données de fouille plutôt que supposer une doctrine générale de la pierre sacrée.
+
+### 34. La pierre du musée de Kouklia
+
+**[M]** Le musée archéologique local expose une pierre conique associée à la représentation cultuelle d'Aphrodite Paphia. La notice officielle du Département des Antiquités de Chypre identifie cet objet comme la forme de culte du sanctuaire. La photographie de l'objet, les mesures, le matériau et sa provenance documentée doivent être vérifiés auprès des inventaires avant de fabriquer une figure muséale imprimable.
+
+Une photographie moderne de la pierre n'est pas automatiquement libre de droits parce que la pierre antique ne relève plus du droit d'auteur. Le contrôle des droits porte aussi sur la prise de vue et les conditions de reproduction.
+
+### 35. Le paradoxe de la beauté sans visage
+
+**[P]** Aphrodite est pour la plupart des lecteurs modernes une déesse « de la beauté » à l'apparence humaine idéale. À Paphos, le principal signe de sa présence cultuelle peut être une **forme sans visage**, qui ne remplit pas la fonction d'un portrait. Il n'y a pas contradiction logique : un corps narratif, une puissance religieuse et une représentation dans un sanctuaire peuvent fonctionner selon des codes distincts.
+
+Le bétyle oblige à distinguer **représenter**, **rendre présent** et **regarder**. On peut adresser un rite à une pierre qui ne ressemble pas à la divinité telle que les poètes la décrivent. La relation cultuelle ne suppose pas nécessairement le mimétisme figuratif.
+
+### 36. Ce que les monnaies révèlent et ce qu'elles n'imposent pas
+
+Les monnaies romaines présentent un dispositif architectural comprenant parfois une forme conique au centre et des éléments latéraux. Elles confirment la circulation publique d'une image du sanctuaire. Mais les émissions variant selon les ateliers et les règnes, il est délicat d'en tirer une seule reconstitution d'élévation : une monnaie compacte l'architecture en signes immédiatement reconnaissables.
+
+Le monnayage fournit ainsi une documentation iconographique précieuse, **non une photographie en perspective de la cour**.
+
+---
+
+## IX. Les rois-prêtres et la Wanassa
+
+### 37. Le royaume de Paphos et ses institutions
+
+**[M/T]** L'histoire du royaume chypriote de Paphos est documentée par monnaies, inscriptions, tombes, bâtiments et traditions littéraires. L'archéologie distingue les rois effectivement attestés des fondateurs mythiques. La relation entre pouvoir royal et sanctuaire est particulièrement forte parce que plusieurs textes nomment un souverain à la fois **roi et prêtre de la Wanassa**.
+
+Il serait cependant incorrect de supposer que toutes les fonctions religieuses locales dépendaient exclusivement d'un seul titulaire. Les inscriptions permettent de vérifier des titres, pas une constitution exhaustive.
+
+### 38. Les attestations de Timocharis, Échétimos, Timarchos et Nicoclès
+
+Jacqueline Karageorghis, « Royaume et sanctuaire à Palaepaphos » (2002, p. 155–171), rassemble des inscriptions syllabiques dans lesquelles des rois, notamment **Timocharis, Échétimos, Timarchos et Nicoclès**, sont liés au titre sacerdotal de la Souveraine. Les deux formes d'attestation — dédicaces et épitaphes — ne doivent pas être amalgamées : l'une exprime une consécration, l'autre un titre mémoriel.
+
+Ces inscriptions constituent un corpus plus robuste pour la royauté que la simple succession des noms héroïques. Elles ne permettent pas de dater la première apparition de la Wanassa au Néolithique.
+
+### 39. Le statut du syllabaire chypriote
+
+La graphie syllabique chypriote sert au grec local et à d'autres usages linguistiques de l'île pendant une longue période. Des formes du mot *Wanassa* y apparaissent dans des dédicaces officielles. Pour transcrire scientifiquement une inscription, il faut distinguer **signes gravés**, **translittération syllabique**, **restitution de la forme grecque** et **traduction française**.
+
+L'ouvrage d'Olivier Masson, *Les inscriptions chypriotes syllabiques* (1961), reste un instrument fondamental, à confronter aux corrections et nouveaux documents. Aucune transcription ne doit être fabriquée à partir d'une photographie insuffisamment lisible.
+
+### 40. Les langues de l'autorité
+
+À la fin du IVe siècle av. J.-C., l'usage de l'alphabet grec progresse dans les inscriptions royales, aux côtés de traditions graphiques locales. Le roi **Nicoclès** peut être étudié comme acteur de cette politique de communication. Mais la présence d'un alphabet ne prouve pas, à elle seule, l'abandon immédiat d'une identité chypriote.
+
+**[P]** L'écriture n'est pas seulement un support neutre : une dédicace publique stabilise une relation entre souverain humain et souveraineté divine et la rend transmissible aux générations suivantes.
+
+### 41. Les monnaies du royaume
+
+Les premières séries royales de Paphos emploient des types tels que taureau, aigle et autres signes. Des émissions plus tardives font apparaître des représentations féminines, une colombe et, sous certains souverains, des légendes alphabétiques grecques. Il faut citer des corpus numismatiques et ne pas donner une attribution certaine à Aphrodite pour chaque tête féminine sur une monnaie fragmentaire.
+
+Ces objets révèlent l'autorité monétaire de la cité et la circulation de symboles, mais les images frappées n'enregistrent pas systématiquement les gestes pratiqués devant le bétyle.
+
+### 42. Mémoire dynastique et prudence sur Kinyras
+
+La proximité entre la tradition des **Kinyrades** et les rois-prêtres attestés peut favoriser une présentation unifiée de la royauté paphienne. L'histoire scientifique doit garder une césure : un **nom mythique d'ancêtre** ne se substitue pas aux inscriptions portant des noms de souverains datables. La légitimation généalogique constitue elle-même un objet d'étude.
+
+---
+
+## X. Fouilles, dépôts et temps du sanctuaire
+
+### 43. Découverte, interventions et constitution de l'archive
+
+Les recherches sur Palaipaphos ont une histoire longue, marquée par les visites, dégagements et fouilles parfois insuffisamment documentées du XIXe siècle, puis par les enquêtes scientifiques modernes. **Franz Georg Maier**, « A hundred years after Hogarth: Digging at Aphrodite's Sanctuary at Palaipaphos » (*CCEC* 27, 1997, p. 127–136), insiste sur le fait que chaque campagne produit sa propre archive et ses limites.
+
+Le lecteur doit savoir si une structure fut dégagée en fouille ancienne, publiée dans un relevé moderne ou interprétée par comparaisons. La continuité d'exploration ne signifie pas que tous les objets possèdent un contexte stratigraphique parfaitement conservé.
+
+### 44. Les campagnes helvético-allemandes
+
+Les fouilles systématiques de la zone du sanctuaire, notamment en **1973–1979**, reprises en **1992–1997** et **2007–2008**, ont permis de préciser la stratigraphie et l'architecture. Le projet de l'Université de Zurich distingue une succession d'états depuis le Bronze récent jusqu'à la fin de l'Antiquité. Le détail des dates de chaque mur doit être recherché dans les rapports, sans étendre automatiquement la datation d'une phase à tous les blocs visibles.
+
+La présence de bâtiments romains au nord de l'ensemble ancien témoigne d'une transformation de la présentation du culte, non de la destruction volontaire démontrée de toute mémoire précédente.
+
+### 45. Sanctuaire I et sanctuaire romain
+
+Un état de **Sanctuaire I**, au sud, conserve des éléments du Bronze récent. La grande reconstruction romaine, vers **100 apr. J.-C.**, reprend le principe d'une cour sacrée. La documentation officielle distingue un ensemble bâti au nord et des espaces d'accès, dont certaines fonctions demeurent débattues.
+
+Un plan 3D qui montrerait simultanément le mur du Bronze récent intact dans sa hauteur supposée et toutes les portiques du début de l'Empire romain sans distinguer les phases serait trompeur. Il faut produire **des états chronologiques séparés**, ou indiquer clairement les parties visibles comme traces d'une époque antérieure.
+
+### 46. Les terres cuites : présence et identité
+
+Plusieurs milliers de fragments de terres cuites votives appartiennent aux phases archaïque, classique, hellénistique et romaine. Les figurines peuvent représenter des femmes, des personnages ou des types iconographiques dont les modèles ont circulé dans l'est méditerranéen. L'identification d'un type à une déesse précise n'est pas automatique ; la provenance, la technique et les comparaisons sont nécessaires.
+
+La présence de traits iconographiques susceptibles de rappeler des traditions phéniciennes ne prouve pas que chaque objet fut consacré à « Astarté » plutôt qu'à Aphrodite. Les espaces cultuels produisent des croisements de formes.
+
+### 47. Stèles, bases et donations
+
+Les bases de statues inscrites et les monuments votifs permettent de reconnaître des gestes de dédicace. Certaines œuvres de marbre ou de bronze ne sont plus conservées ; leurs bases peuvent subsister. On doit distinguer **dédicace attestée par une inscription** et **statue dont la silhouette est hypothétique**.
+
+Cette différence est importante pour l'iconographie scientifique : représenter un socle vide peut être plus exact que poser dessus une divinité ou un roi inventé.
+
+### 48. La petite structure circulaire mise au jour en 2007
+
+L'équipe de Zurich signale la découverte d'un petit édifice votif **circulaire** lors des travaux de 2007. Son lien possible avec des pratiques associées aux reines ptolémaïques a été envisagé. L'hypothèse est intéressante, mais ne doit pas être présentée comme fonction certaine de l'installation.
+
+La coexistence de nouveaux objets votifs et de la représentation aniconique montre que le lieu ne peut être décrit uniquement par le bétyle ; il faut rendre justice à la variété du mobilier.
+
+### 49. L'abandon tardif : une longue fin, pas une date magique
+
+La continuité cultuelle à Palaipaphos est documentée jusqu'à la **fin du IVe siècle apr. J.-C.** selon l'équipe de Zurich. Cette durée exceptionnelle n'autorise pas à déclarer que les rites, les participants et les autorités furent identiques pendant près de seize siècles. Les transformations du monde romain tardif ont modifié les usages et la signification des espaces.
+
+Les réutilisations ultérieures, notamment médiévales, appartiennent à d'autres histoires. Elles ne peuvent être transformées en preuve de maintien du culte païen sans témoignages correspondants.
+
+---
+
+## XI. Le rituel d'Aphrodite Paphia chez Tacite
+
+### 50. Histoires II, 2–4 : un contexte de pouvoir impérial
+
+**[T]** Tacite introduit le sanctuaire à l'occasion du voyage de **Titus**, avant l'affirmation du pouvoir flavien. Le récit explique pourquoi un jeune membre de la dynastie naissante souhaite consulter un oracle célèbre. Il ne s'agit pas d'un manuel complet de cérémonial, mais d'une digression insérée dans une histoire politique.
+
+On doit lire ensemble les paragraphes **II, 2, II, 3 et II, 4** : la curiosité de Titus, les variantes fondatrices, la technique divinatoire et la réponse du prêtre composent un récit sur l'espérance de domination.
+
+### 51. Les victimes mâles et les entrailles des chevreaux
+
+Tacite II, 3 dit que les victimes sont choisies selon le vœu du fidèle, mais que seuls des animaux **mâles** sont admis, et que les signes les plus sûrs sont tirés des **entrailles de chevreaux**. Ce témoignage documente une pratique divinatoire présentée à l'époque impériale. Il ne prouve pas que les mêmes prescriptions régissaient les rites du XIIe siècle av. J.-C.
+
+L'interprétation doit distinguer sacrifice, examen des entrailles et consultation oraculaire. Le fait qu'un auteur décrive une hiéromancie ne signifie pas que tous les fidèles participaient à cette opération de la même façon.
+
+### 52. Pas de sang sur l'autel
+
+Tacite précise que le sang ne doit pas être versé **sur l'autel**, où interviennent prière et feu pur. Il ne dit pas que le sanctuaire bannissait toute mise à mort animale : le même passage mentionne les victimes utilisées pour la divination. Le sens exact est une **restriction concernant le traitement de l'autel**, non une doctrine d'absence générale de sacrifice sanglant.
+
+Cette précision évite une opposition artificielle entre « religion spirituelle sans sacrifices » et « religion carnée » que la source ne soutient pas.
+
+### 53. Un autel découvert que la pluie ne mouille pas
+
+L'auteur rapporte également que l'autel reste à ciel ouvert et n'est jamais atteint par la pluie. On peut étudier cette affirmation comme **tradition de merveille sacrée**, à distinguer d'une observation météorologique confirmée. Une restitution 3D ne doit pas rendre visible un mécanisme invisible « prouvant » le prodige, ni invoquer une toiture qu'aucun texte n'impose.
+
+La coexistence d'un espace découvert, du feu, de l'absence de sang et d'une forme aniconique rend ce chapitre de Tacite particulièrement riche pour la comparaison des dispositifs rituels.
+
+### 54. Sostratus et la consultation de Titus
+
+Dans **Histoires II, 4**, le prêtre **Sostratus** examine les signes, répond d'abord de façon mesurée puis révèle en privé l'avenir favorable de Titus. Le nom du prêtre est attesté dans le récit, mais il ne suffit pas à reconstituer la succession complète des titulaires du sacerdoce. Le récit implique une interprétation des signes et un contrôle de l'information.
+
+**[P]** L'oracle apparaît ici comme une institution où la puissance du dieu et la compétence d'un spécialiste se rencontrent, avec des conséquences politiques pour le consultant. La réflexion sur la souveraineté ne doit pas effacer la scène précise du texte.
+
+### 55. La posture de Tacite face à l'antiquité revendiquée
+
+Tacite signale l'incertitude de certaines antiques traditions racontées autour des dons royaux et du sanctuaire. Son scepticisme constitue lui-même une source sur les pratiques d'érudition et de prestige. Le récit antique n'est pas entièrement crédule ; l'historien moderne doit restituer les hésitations de son prédécesseur au lieu d'écrire que « les Romains croyaient tous » à une seule fondation sacrée.
+
+---
+
+## XII. Strabon et la fête entre les deux Paphos
+
+### 56. Géographie XIV, 6, 3 : un témoignage précis
+
+**[T]** Strabon situe Palaipaphos près de la mer, évoque son sanctuaire ancien, puis distingue la nouvelle Paphos et son port. Il précise une distance de **soixante stades par voie terrestre** entre les deux villes. Il signale surtout qu'une fête annuelle mène des participants de Néa Paphos vers le sanctuaire ancien, **hommes et femmes ensemble**, rejoints par des gens d'autres cités.
+
+Il s'agit d'un témoignage plus concret sur l'existence d'une circulation rituelle que de nombreuses images modernes de processions imaginaires. Il n'en décrit cependant ni la chorégraphie, ni l'ordre des magistrats ni tous les vêtements et objets portés.
+
+### 57. Une route rituelle n'est pas un simple trajet
+
+La circulation annuelle relie le port, centre de mobilité méditerranéenne, à l'ancien sanctuaire, centre d'ancienneté religieuse. Les personnes qui marchent peuvent accomplir à la fois un déplacement physique et une reconnaissance de hiérarchie entre deux sites. La distance évoquée par Strabon n'est pas un temps de marche moderne ni une mesure à convertir sans tenir compte de l'itinéraire antique.
+
+**[P]** Le pèlerinage peut produire du collectif en reliant des groupes dispersés. La formule ne doit pas dissimuler l'inégalité possible des participants, les frontières civiques ou les modalités de contrôle du parcours.
+
+### 58. Hommes et femmes : présence conjointe, pas égalité automatique
+
+Strabon mentionne explicitement la participation conjointe des sexes. On ne peut pas en déduire que toutes les charges, tous les sacrifices ou tous les accès étaient ouverts sans restriction. Un témoignage sur la composition apparente d'une fête ne constitue pas une constitution juridique du sanctuaire.
+
+Cette distinction est essentielle pour éviter un effet de miroir avec les reconstructions modernes du culte d'Aphrodite comme un espace féminin universel.
+
+### 59. Néa Paphos : déplacement d'un centre de gravité
+
+**Jolanta Młynarczyk**, « Moving to a new place: the cult of Paphia Aphrodite in Hellenistic Nea Paphos » (2015), étudie les modalités par lesquelles le culte de la déesse paphienne a pu être présent dans la nouvelle ville. La fondation de Néa Paphos, traditionnellement associée à **Nicoclès**, et les initiatives royales ne doivent pas être réduites à un simple transfert administratif du sanctuaire ancien.
+
+Le fait d'honorer Aphrodite dans la nouvelle ville n'exige pas l'abandon du grand sanctuaire de Palaipaphos. La procession décrite par Strabon suggère au contraire une articulation durable des deux lieux.
+
+---
+
+## XIII. Les Ptolémées, Rome et les images publiques du sanctuaire
+
+### 60. Les souverains hellénistiques et les offrandes
+
+L'intégration de Chypre dans les réseaux politiques des successeurs d'Alexandre transforme le contexte dans lequel le culte est financé et représenté. La présence de dédicaces, d'objets et de bâtiments susceptibles d'être liés au pouvoir ptolémaïque mérite une étude séparant inscriptions confirmées et attributions de fonction encore discutées.
+
+La possible association d'un petit édifice circulaire à des reines ptolémaïques, proposée par les fouilleurs, doit demeurer une hypothèse tant que l'ensemble du dossier ne permet pas une identification certaine.
+
+### 61. Le renouveau monumental d'époque romaine
+
+Les reconstructions du sanctuaire romain vers **100 apr. J.-C.** montrent l'attachement au vieux lieu sacré et la capacité d'en réorganiser les surfaces. Ce maintien ne prouve pas une liturgie restée identique ; les échelles, les architectes, les flux et le prestige administratif ont pu changer.
+
+Un rendu photographique doit distinguer la cour romaine, les portiques, les murs du Bronze ancien visibles ou conservés sous des états plus récents et les murs perdus dont seule la fondation permet la restitution.
+
+### 62. Le temple représenté sur la monnaie
+
+Des monnaies romaines présentent une façade symbolique du sanctuaire accompagnée de la forme conique sacrée. Les types varient entre une architecture d'apparence centrale et des dispositions à plusieurs ouvertures ou éléments de façade. Cette pluralité de mises en image demande une analyse numismatique, et non l'addition physique de détails issus de monnaies de règnes différents.
+
+Une planche doit donner **autorité émettrice, date, type et provenance de l'image**, puis expliquer quelles parties du bâtiment le dessin permet ou non de reconnaître.
+
+### 63. Le culte sous l'Empire : entre oracle et mémoire ancienne
+
+La consultation de Titus et l'activité du prêtre Sostratus montrent que le sanctuaire pouvait fournir un langage de légitimation politique à des visiteurs romains. Mais il ne faudrait pas faire de tous les usages de Palaipaphos un instrument exclusif de l'empereur. Les dévotions locales, les offrandes privées et les traditions civiques possèdent une histoire propre.
+
+---
+
+## XIV. Les images, les objets et la question de la présence divine
+
+### 64. Une déesse qui n'a pas une seule image
+
+Les figurines, statues anthropomorphes, monnaies et bétyle appartiennent à plusieurs domaines : consécration, représentation décorative, communication politique et présence cultuelle. Leur coexistence n'est pas une contradiction à résoudre en déclarant l'une authentique et les autres fausses. Elle montre qu'un dieu grec peut être connu par une pluralité de dispositifs figuratifs.
+
+La question archéologique n'est pas de savoir quel objet est « le vrai Aphrodite » ; elle consiste à identifier pour chaque objet sa date, son support, son dépôt, sa visibilité et sa fonction possible.
+
+### 65. L'aniconisme n'est pas l'absence d'art
+
+Une pierre non anthropomorphe peut constituer le centre d'un espace riche d'œuvres, de décorations et d'offrandes. Les termes « primitif », « grossier » ou « arriéré » seraient ici inappropriés : ils projettent une hiérarchie esthétique moderne sur des conventions rituelles.
+
+**[P]** On peut dire que la pierre fonctionne comme signe de présence sans ressemblance corporelle. Cela n'établit pas que les fidèles formulaient une théorie philosophique de l'aniconisme dans les mêmes termes.
+
+### 66. La monnaie comme mémoire reproductible
+
+La monnaie répète à grande échelle une image suffisamment stable pour être reconnaissable. Elle permet ainsi de diffuser hors du sanctuaire une forme de sa singularité. La réduction graphique des masses architecturales, les détails choisis et l'intégration d'une pierre au cœur de l'image font partie de l'acte de représentation monétaire.
+
+La répétition ne prouve pas une fidélité parfaite à toutes les mesures de l'édifice. L'histoire des images doit éviter de traiter le monnayage comme un plan d'architecte.
+
+### 67. Un objet sacré et plusieurs archives
+
+Le bétyle est aujourd'hui exposé dans un musée. Les ruines sont dans un site archéologique et les monnaies sont dispersées entre collections. L'expérience contemporaine sépare donc ce qui pouvait être associé dans un espace religieux ancien. Toute exposition devrait rendre visible cette dissociation sans produire un faux assemblage.
+
+---
+
+## XV. Aphrodite, Astarté et les comparaisons levantines
+
+### 68. Contacts attestés, emprunt spécifique à démontrer
+
+Chypre appartient aux routes de la Méditerranée orientale. Les relations avec les communautés phéniciennes, grecques et anatoliennes sont documentées par les échanges, les styles et les inscriptions. Les terres cuites de Palaipaphos révèlent notamment des traces de modèles proches de l'iconographie d'Astarté, selon les fouilleurs de Zurich.
+
+Cette parenté ne permet pas une équation simple « Aphrodite = Astarté », valable de tout temps et en tout lieu. L'identité se construit à plusieurs échelles : nom, image, rituel, institution, auteur grec qui traduit, communauté qui consacre.
+
+### 69. L'Ascalon d'Hérodote et la Paphos de Strabon
+
+L'historien grec fait dériver un culte chypriote d'un sanctuaire levantin ; le géographe décrit une fête entre deux villes chypriotes ; Tacite raconte la place de spécialistes ciliciens dans le culte paphien. Ce sont **trois mouvements religieux différents** : parenté de fondation, procession interne et transfert de savoir. Les regrouper en une seule migration historique ferait disparaître la valeur propre de chaque témoignage.
+
+### 70. Éviter la « Grande Mère » intemporelle
+
+La monographie de **Jacqueline Karageorghis** (1977) étudie l'évolution de représentations féminines et de pratiques religieuses du Néolithique au VIe siècle av. J.-C. Elle fournit un corpus indispensable, mais la longue succession iconographique ne signifie pas nécessairement la continuité inchangée d'une personne divine nommée par les mêmes mots.
+
+L'enquête doit conserver la possibilité de changements de déesse, de fonction et de public, parfois dans des espaces géographiquement proches. Les ressemblances de seins, de corps nus ou de végétaux ne suffisent pas à rétablir une seule généalogie divine.
+
+### 71. Les comparaisons utiles ont des conditions
+
+Une comparaison recevable doit indiquer une date, un support, un objet et une interprétation limitée. On peut comparer des formes de cour ouverte en Méditerranée orientale, mais il faut dire ce que l'on compare : plan, accès, installations ou gestes. On peut comparer une épiclèse céleste et une figure levantine, mais pas conclure à leur identité à partir d'un attribut partagé.
+
+La prudence comparative protège la singularité de Palaipaphos au lieu de l'isoler artificiellement des réseaux de la Méditerranée.
+
+---
+
+## XVI. La réception philosophique du sanctuaire
+
+### 72. Aristote et le rapport du lieu au collectif
+
+**[P]** Dans les *Politiques* I, 2, 1253a, Aristote examine la cité comme communauté structurée et finalisée. L'organisation de Palaipaphos permet de s'interroger sur les pratiques qui rassemblent les habitants, mais l'existence d'une procession ne prouve pas que tous ses participants appartenaient au corps civique ni qu'ils jouissaient des mêmes droits.
+
+Le sanctuaire devient un excellent cas de réflexion sur le commun **sans assimilation de la communauté cultuelle à la communauté politique**.
+
+### 73. Hegel : l'objectivation du sacré
+
+Une analyse inspirée de Hegel peut examiner la manière dont une communauté donne une réalité sensible à une puissance divine. La pierre sans visage offre une voie différente de la statue anthropomorphe. Ce contraste n'implique pas que le sanctuaire serait un moment historiquement obligé conduisant de l'aniconisme à la sculpture classique.
+
+Le risque d'un schéma progressiste serait particulièrement fort ici : les formes coniques demeurent centrales sous Rome, alors même que les images figuratives se multiplient. Les deux modalités coexistent.
+
+### 74. Nietzsche : le corps d'Aphrodite, l'apparence et le culte
+
+Le questionnement nietzschéen sur l'apparence et la puissance créatrice des formes peut nourrir une lecture de l'écart entre le corps magnifique de la déesse dans les poèmes et l'absence de corps sculpté dans la pierre principale. Il ne constitue pas une explication historique des gestes des fidèles.
+
+L'intérêt du rapprochement réside dans l'instabilité de nos catégories esthétiques : voir une forme conique n'est pas nécessairement manquer de représentation, mais accepter un signe qui ne mime pas le corps.
+
+### 75. Castoriadis et l'institution imaginaire de la souveraineté
+
+Le vocabulaire **Wanassa**, la royauté sacerdotale et les légendes fondatrices peuvent être éclairés par le concept d'institution imaginaire de la société. L'association d'un souverain humain et d'une souveraine divine autorise une certaine stabilisation des récits de pouvoir. Mais le concept de Castoriadis ne remplace ni la traduction syllabique ni la chronologie des rois.
+
+**[H/P]** L'analyse la plus féconde consiste à observer comment le même sanctuaire est reconnu comme ancien par des acteurs politiquement différents, non à supposer une signification unique identique dans toutes les sociétés qui l'utilisent.
+
+### 76. Vernant, Detienne et la pluralité des formes du divin
+
+Les travaux de Jean-Pierre **Vernant** et Marcel **Detienne** invitent à ne pas transformer les dieux grecs en personnalités fixes indépendantes de leurs cultes et de leurs relations. Aphrodite Paphia révèle particulièrement la nécessité de comparer des **noms, pratiques et représentations situés** plutôt que les traits psychologiques attribués à la déesse.
+
+La prudence s'impose toutefois : les ouvrages théoriques fournissent des outils d'analyse, non des attestations de rites chypriotes précis.
+
+### 77. Derrida et la trace : une analogie contrôlée
+
+La notion philosophique de **trace** peut aider à penser la présence d'un objet sacré lorsque les gestes qui l'entouraient ne sont plus restituables. Il faut cependant signaler que cette lecture moderne ne correspond pas à une doctrine antique attestée de Paphos. Elle peut éclairer l'expérience contemporaine d'un site où des pierres, des monnaies et des textes permettent d'approcher un événement religieux devenu absent.
+
+Cette proposition est secondaire par rapport à l'histoire des documents ; elle ne saurait être utilisée pour combler le silence des inscriptions.
+
+---
+
+## XVII. Comparaisons entre sanctuaires d'Aphrodite : conserver les différences
+
+### 78. Aphrodisias : une image humaine fortement définie
+
+L'Aphrodite d'Aphrodisias en Carie possède un type cultuel figuratif et des institutions romaines liées à l'asylie et à la généalogie impériale. La Paphia met en avant une pierre conique et une continuité architecturale beaucoup plus ancienne. Les deux sites partagent un théonyme, mais leurs objets centraux, leurs langages de souveraineté et leurs histoires documentaires diffèrent.
+
+Renvoi MYTHOS : chapitre 460, « Aphrodite d'Aphrodisias ».
+
+### 79. Éryx : la géographie sicilienne et les appropriations romaines
+
+À Éryx, en Sicile, Aphrodite/Vénus appartient à un paysage élyme et aux récits de Jason, d'Énée ou de héros locaux selon les traditions, ainsi qu'à une histoire politique des guerres puniques. La comparaison avec Paphos porte sur **la circulation des noms divins** et **l'ancienneté revendiquée**, non sur l'identité matérielle des temples.
+
+Renvoi MYTHOS : chapitre 473, « Aphrodite Érycine ».
+
+### 80. Pandémos à Athènes : persuasion et synœcisme
+
+L'Aphrodite Pandémos et Peithô de l'Acropole athénienne fait intervenir un autre imaginaire : l'unification civique et la persuasion. À Paphos, les récits de Kinyras et d'Agapénor et la dignité de Wanassa donnent davantage de place à la fondation et à la sacralité dynastique. Les deux systèmes montrent que le nom d'Aphrodite ne détermine pas une seule fonction sociale.
+
+Renvoi MYTHOS : chapitre 477, « Aphrodite Pandémos et Peithô ».
+
+### 81. Cythère, Amathonte et Idalion
+
+Les cultes chypriotes et égéens voisins demandent des dossiers propres. Les inscriptions d'Idalion étudiées par **Antoine Hermary** (1997) fournissent un comparant épigraphique et votif, non une confirmation de tous les détails du rituel paphien. La tradition de Cythère chez Hésiode peut éclairer les circulations du mythe de naissance sans identifier une unique voie historique de diffusion.
+
+---
+
+## XVIII. Historiographie de Palaipaphos : méthodes et limites
+
+### 82. Les anciennes fouilles et la documentation perdue
+
+L'histoire des premières recherches sur le site montre combien les dégagements anciens, les collections dispersées et les problèmes de provenance compliquent l'interprétation. Maier (1997) offre une histoire critique de ce processus. Un objet enregistré dans une collection du XIXe siècle ne bénéficie pas automatiquement de la précision stratigraphique d'un fragment prélevé en campagne moderne.
+
+Une étude universitaire doit citer le contexte de découverte lorsque celui-ci est connu, et déclarer « provenance de fouille non assurée » quand elle ne l'est pas.
+
+### 83. Les grands modèles de continuité
+
+Le récit patrimonial d'une très longue continuité peut être utile pour transmettre l'importance du site. Il doit être écrit avec une clause méthodologique : **continuité d'utilisation cultuelle à l'emplacement** n'implique pas **immobilité de la théologie**, **permanence d'une langue** ou **identité de tous les gestes sacrés**.
+
+La documentation de Zurich est particulièrement précieuse parce qu'elle permet de distinguer une continuité solide à partir du Bronze récent et des indices plus conjecturaux de pratiques antérieures.
+
+### 84. Royauté et sanctuaire : la question des sources
+
+Karageorghis (2002) explique la force de la documentation sur les rois-prêtres de Paphos. Mais les actes et épitaphes disponibles ne sont pas des annales continues. Le travail d'historien consiste à formuler des hypothèses sur la place de la déesse dans la souveraineté sans attribuer aux lacunes une signification univoque.
+
+### 85. La question féminine et le problème des figurines
+
+Une figurine féminine n'est pas un portrait assuré de la donatrice, pas plus que le bétyle ne représente une « absence de corps » de tous les participants. Les corps figurés, les gestes et les identités doivent être reconstruits en partant de la technique, du dépôt et des textes. La catégorie de « fertilité » est utile à condition de préciser ce qu'elle regroupe et ce qu'elle ne démontre pas.
+
+### 86. Une chronologie en trois colonnes
+
+Il est recommandé d'organiser les preuves en trois séries parallèles : **édifices et objets**, **sources écrites datées**, **événements racontés par ces sources**. Ainsi le Ier siècle de Tacite ne devient pas la date de la fondation mythique par Aérias, et le XIIe siècle du premier bâtiment n'est pas la date du discours d'Homère. Cette méthode évite de confondre mémoire et stratigraphie.
+
+---
+
+## XIX. Inventaire des sources primaires précises
+
+### 87. Poésie grecque
+
+1. **Homère, Odyssée VIII, 359–366** : séparation d'Arès et d'Aphrodite, retour de la déesse à Chypre/Paphos, téménos, autel, bain et vêtements.
+2. **Homère, Iliade V, 330–362 et passages voisins** : Aphrodite désignée comme Kypris et sa blessure ; comparaison des épiclèses.
+3. **Homère, Iliade XI, 19–28** : cuirasse offerte à Agamemnon par Kinyras, figure royale et diplomatique chypriote.
+4. **Hésiode, Théogonie 176–206** : mutilation d'Ouranos et récit de l'émergence d'Aphrodite ; tradition poétique, non preuve d'une date cultuelle.
+5. **Hymne homérique à Aphrodite V, 56–67** : entrée de la déesse dans son sanctuaire de Paphos, Charites, parfum et préparation de la rencontre d'Anchise.
+6. **Hymne homérique à Aphrodite VI, 1–18** : naissance et accueil par les Heures sur l'île de Chypre ; variante poétique.
+
+### 88. Historiens, géographes et mythographes
+
+7. **Hérodote, Histoires I, 105** : Ascalon et origine alléguée du culte chypriote d'Ourania ; source de tradition, non preuve de filiation institutionnelle directe.
+8. **Hérodote, Histoires I, 199** : description de rites attribués à Babylone et comparaison avec Chypre ; ne pas convertir en preuve d'une institution paphienne sans sources complémentaires.
+9. **Pausanias, Description de la Grèce VIII, 5, 2–3** : Agapénor à Paphos et offrande de Laodicé à Athéna Aléa.
+10. **Strabon, Géographie XIV, 6, 3** : sanctuaire de la Paphia, ancienne et nouvelle ville, distance et fête processionnelle annuelle.
+11. **Tacite, Histoires II, 2–4** : Aérias, Kinyras, Tamiras, bétyle, sacrifice, oracle et consultation de Titus.
+12. **Ovide, Métamorphoses X, 243–297** : Pygmalion, image féminine et animation de la statue ; comparant de la réception paphienne, non description du bétyle.
+13. **Ovide, Métamorphoses X, 298 et suite** : tradition généalogique de Paphos et récits relatifs à Kinyras ; prudence sur le statut mythographique.
+
+### 89. Épigraphie, numismatique et architecture
+
+14. **Inscriptions chypriotes syllabiques** : corpus édité par Olivier Masson, *Les inscriptions chypriotes syllabiques* (1961 et addenda), à confronter à Jacqueline Karageorghis (1997), notamment pour les noms de la Souveraine et les titres royaux. Ne pas ajouter un numéro ICS non vérifié à une formule générale.
+15. **Dédicaces et épitaphes des rois-prêtres** : dossier rassemblé dans Jacqueline Karageorghis (2002), p. 155–171, et documents épigraphiques cités. Contrôler support, date, lieu et graphie.
+16. **Monnaies royales paphiennes** : séries en argent, parfois avec légendes syllabiques ; dernière phase alphabétique. Les attributions de motifs féminins doivent être précisées par type.
+17. **Monnaies romaines à l'image du sanctuaire et du bétyle** : documentation numismatique dans les études du sanctuaire ; aucun numéro RPC ne doit être inventé à partir d'une image détachée de sa notice.
+18. **Sanctuaire I et installations romaines** : missions de Kouklia, Département des Antiquités de Chypre et projet de l'Université de Zurich ; description phasée des structures.
+
+---
+
+## XX. Bibliographie universitaire critique et vérifiable
+
+### 90. Archéologie et histoire de Paphos
+
+1. **Maier, Franz Georg, et Vassos Karageorghis** (1984), *Paphos: History and Archaeology*, Nicosie, A. G. Leventis Foundation, avec Jacqueline Karageorghis et Marie-Louise von Wartburg. Ouvrage de référence sur la cité, le sanctuaire et ses phases ; notice de la bibliothèque de Neapolis University Pafos : https://library.nup.ac.cy/bib/2057.
+2. **Maier, Franz Georg** (1997), « A hundred years after Hogarth: Digging at Aphrodite's Sanctuary at Palaipaphos », *Cahiers du Centre d'Études Chypriotes* 27, p. 127–136. DOI : https://doi.org/10.3406/cchyp.1997.1326. Étude de la formation de l'archive des fouilles.
+3. **Maier, Franz Georg, et Marie-Louise von Wartburg**, « Aphrodite at Paphos: The History of the Sanctuary (Site TA) », Université de Zurich, présentation de fouilles : https://www.hist.uzh.ch/de/fachbereiche/altegeschichte/lehrstuehle/kolb/forschung/angegeliederte_projekte/paphos/projects/aphrodite-at-paphos.html. Mise au point officielle sur les structures, la chronologie et l'aniconisme.
+4. **Karageorghis, Jacqueline** (2002), « Royaume et sanctuaire à Palaepaphos », *Cahiers du Centre d'Études Chypriotes* 32, p. 155–171. DOI : https://doi.org/10.3406/cchyp.2002.1410. Étude essentielle des titulatures et du lien rois-prêtres / Wanassa.
+5. **Młynarczyk, Jolanta** (2015), « Moving to a new place: the cult of Paphia Aphrodite in Hellenistic Nea Paphos », *Cahiers du Centre d'Études Chypriotes* 45, p. 79–86. DOI : https://doi.org/10.3406/cchyp.2015.1623. Étude du rapport entre le centre ancien et la nouvelle ville.
+
+### 91. Auteurs français et études chypriotes
+
+6. **Karageorghis, Jacqueline** (1977), *La Grande Déesse de Chypre et son culte à travers l'iconographie de l'époque néolithique au VIe siècle av. J.-C.*, Lyon, Maison de l'Orient et de la Méditerranée, Collection de la Maison de l'Orient méditerranéen, Série archéologique 5. https://www.persee.fr/doc/mom_0244-5689_1977_mon_5_1. Référence majeure, à relire avec prudence quant aux hypothèses de continuité.
+7. **Karageorghis, Jacqueline** (1997), « Les noms de la Grande Déesse dans les inscriptions syllabiques chypriotes », *Cahiers du Centre d'Études Chypriotes* 27, p. 109–119, DOI : https://doi.org/10.3406/cchyp.1997.1324. Relevé de désignations religieuses.
+8. **Masson, Olivier** (1961), *Les inscriptions chypriotes syllabiques*, Paris. Instrument philologique fondamental, à utiliser avec ses addenda et les publications plus récentes.
+9. **Hermary, Antoine** (1997), « Nouveaux documents sur le sanctuaire d'Aphrodite à Idalion (Ohnefalsch-Richter 1885) », *Cahiers du Centre d'Études Chypriotes* 27, p. 97–108, DOI : https://doi.org/10.3406/cchyp.1997.1323. Comparaison contrôlée avec un autre lieu de culte chypriote.
+10. **Balandier, Claire** (2015), « Les lieux de culte sur et sous la colline de Fabrika. Soubassement de temple et autres sanctuaires rupestres ptolémaïques et romains de Néa Paphos », *Cahiers du Centre d'Études Chypriotes* 45, p. 161–180, DOI : https://doi.org/10.3406/cchyp.2015.1632. Dossier de Néa Paphos, à ne pas confondre avec l'archéologie du sanctuaire ancien.
+
+### 92. Mythologie et philosophie comparée
+
+11. **Vernant, Jean-Pierre** (1965), *Mythe et pensée chez les Grecs*, Paris, Maspero (et rééditions). Cadre comparatif sur l'action rituelle, les images et les opérations de pensée.
+12. **Detienne, Marcel** (1981), *L'invention de la mythologie*, Paris, Gallimard. Vigilance critique contre la constitution d'un « mythe unique » à partir de témoins dispersés.
+13. **Frontisi-Ducroux, Françoise** (1975 ; réédition 2000), *Dédale. Mythologie de l'artisan en Grèce ancienne*, Paris. Comparaison méthodologique pour le mythe de Pygmalion et la création des images ; ne documente pas à elle seule le bétyle de Paphos.
+14. **Hegel, G. W. F.** (1807), *Phénoménologie de l'esprit*, section sur la religion de l'art. Comparaison philosophique postérieure.
+15. **Nietzsche, Friedrich** (1872), *La Naissance de la tragédie*. Analyse comparée des formes de représentation ; aucune prétention de filiation directe.
+16. **Castoriadis, Cornelius** (1975), *L'institution imaginaire de la société*, Paris, Seuil. Lecture conceptuelle du pouvoir et des représentations, non source historique du royaume.
+17. **Pausanias**, *Description de la Grèce* VIII, 5 ; **Tacite**, *Histoires* II, 2–4 ; **Strabon**, *Géographie* XIV, 6, 3 : sources primaires de contrôle, à consulter dans les éditions critiques.
+
+### 93. Sources institutionnelles et instruments ouverts
+
+- **UNESCO**, « Paphos » : https://whc.unesco.org/en/list/79 — valeur patrimoniale et distinction des composantes du site.
+- **Département des Antiquités de Chypre**, « Palaipafos (Kouklia) » : https://www.culture.gov.cy/dmculture/DA/DA.nsf/All/C855DCAB4B3DD03BC225719B00359F05 — topographie et phases architecturales.
+- **Département des Antiquités**, musée local de Palaipaphos : https://www.culture.gov.cy/dmculture/da/da.nsf/All/d29999253080f9bbc2257199002134bd — présentation de la pierre sacrée et du mobilier.
+- **The Kyprios Character**, « Aphrodite, Goddess of Cyprus », texte de Jacqueline Karageorghis : https://kyprioscharacter.eie.gr/en/scientific-texts/details/cult-and-religion/aphrodite-goddess-of-cyprus — panorama documentaire, à corriger ponctuellement par consultation du texte grec d'Hérodote I, 105.
+- **The Kyprios Character**, « The coinages of the kings of Cyprus » : https://kyprioscharacter.eie.gr/en/scientific-texts/details/numismatics/coinages-of-kings-of-cyprus-from-archaic-to-early-hellenistic-period — types monétaires et souverains.
+- **Center for Hellenic Studies**, *Homeric Hymn to Aphrodite* : https://chs.harvard.edu/primary-source/homeric-hymn-to-aphrodite-sb/ — texte et traduction.
+- **Strabon XIV, 6, 3**, texte grec et traduction : https://reader.humanitext.ai/en/text/urn:cts:greekLit:tlg0099.tlg001.humanitext-grc2:14.6.3.
+- **Hérodote I, 105**, traduction consultable : https://lexundria.com/hdt/1.105/mcly.
+
+---
+
+## XXI. Programme iconographique légalement réutilisable
+
+### 94. Principe : l'objet antique et sa photographie sont deux choses différentes
+
+Pour chaque image, MYTHOS doit conserver **auteur, titre, musée ou dépôt, inventaire s'il est connu, date de la prise de vue, source directe et licence**. Les photographies sous Creative Commons ne doivent pas être créditées « domaine public » par simplification. Une image trouvée sur un site institutionnel peut être consultable sans être librement reproductible.
+
+Aucune image 2,5D ne doit être produite, aucun menu ou texte ne doit être incrusté dans une reconstitution photoréaliste. Les légendes critiques restent dans l'interface HTML, à côté des médias et non sur l'image.
+
+### 95. Ressource immédiatement identifiée : les ruines du sanctuaire
+
+**Photographie :** Nikodem Nijaki, « Sanctuary Aphrodite Kouklia Cyprus 05.jpg », prise le **22 février 2014**, Wikimedia Commons, **CC BY-SA 3.0**. Lien direct vers la fiche et ses conditions : https://commons.wikimedia.org/wiki/File:Sanctuary_Aphrodite_Kouklia_Cyprus_05.jpg ; licence https://creativecommons.org/licenses/by-sa/3.0/.
+
+La photographie montre un état contemporain des vestiges de Kouklia ; elle n'identifie ni la place d'un personnage mythique, ni le mur initial de 1200 av. J.-C. Sa réutilisation demande le crédit au photographe, la mention de la licence, le lien vers celle-ci et la mention d'éventuelles transformations. Si une adaptation est publiée, les conditions de partage à l'identique s'appliquent.
+
+### 96. Programme des autres planches
+
+1. **Carte géographique originale** de Chypre distinguant Palaipaphos, Néa Paphos, Ascalon, Cythère, Golgoi, Amathonte et Idalion ; fonds géographiques ouverts et attribution des données.
+2. **Plan diachronique** des deux ensembles du sanctuaire à Kouklia, à produire à partir des plans publiés après contrôle des droits des relevés ; aucune « réutilisation libre » présumée des figures de fouilles.
+3. **Vue archéologique moderne du téménos** : photographie Commons de Nikodem Nijaki (fiche ci-dessus), licence et contexte temporel explicités.
+4. **Vue de la pierre exposée au musée** : demander l'autorisation de photographier ou employer une photo dont la licence est vérifiée ; ne pas copier une image de catalogue sans droit.
+5. **Dessin documentaire original du cône** : schéma explicatif construit sur des descriptions publiées, indiqué comme interprétation, et non comme mesure certaine de l'objet.
+6. **Comparaison Homère / Tacite** : tableau en deux colonnes des types de représentation, purement textuel, sans image générée.
+7. **Frise des phases** : construction vers 1200 av. J.-C., traditions archaïques, inscriptions royales, aménagements hellénistiques et reconstruction romaine, fin du IVe siècle apr. J.-C. ; origines mythiques placées sur une ligne distincte sans fausse date.
+8. **Monnaie romaine au bétyle** : sélectionner ultérieurement une notice de collection disposant d'un numéro d'inventaire et d'une licence de reproduction vérifiée, puis créer une planche comparative avec crédit ; aucune photo de marché commercial non autorisée.
+9. **Répertoire des titres Wanassa et Paphia** : tableau scientifique des attestations (texte, support, datation, édition, interprétation).
+10. **Route rituelle de Strabon** : carte originale des deux Paphos, avec indication des soixante stades **rapportés par l'auteur** ; tracé exact incertain, à marquer en pointillé.
+11. **Image de la fondation par Agapénor** : peinture historique originale explicitement fictive, distincte de toute reconstitution archéologique.
+12. **Restitution 3D photoréaliste de l'état romain** : possible seulement après consultation de la documentation architecturale ; bâtiments attestés, hauteur hypothétique des élévations et architecture du cône distingués dans la notice externe.
+13. **Comparatif Paphos–Aphrodisias–Éryx–Athènes** : diagramme scientifique original montrant supports d'images et institutions ; pas de projection 2,5D.
+14. **Les trois fondateurs** : schéma généalogique comparatif Aérias/Kinyras/Agapénor, sans branches inventées.
+15. **Localisation UNESCO** : carte dérivée de données ouvertes ou sous autorisation, distinguant parties du site patrimonial ; la carte du site UNESCO n'est pas automatiquement libre de droits.
+
+**Aucun fichier iconographique n'est inclus dans le présent dépôt**. Les ressources sont des propositions scientifiques sourcées ; toute illustration ultérieure doit franchir un contrôle de droits, d'intégrité et d'adéquation archéologique.
+
+---
+
+## XXII. Renvois internes et architecture éditoriale MYTHOS
+
+### 97. Renvois sans modification des chapitres existants
+
+- **Chapitre 460**, « Aphrodite d'Aphrodisias » : https://bobmythos.fr/chapitres/encyclopedie/chapitre-460-aphrodite-aphrodisias-statue-cultuelle-zoilos-asylie-sebasteion-eneas/ . Comparaison de l'image cultuelle et du statut civique.
+- **Chapitre 473**, « Aphrodite Érycine » : https://bobmythos.fr/chapitres/encyclopedie/chapitre-473-aphrodite-erycine-eryx-sicile-elymes-astarte-venus-sanctuaire-guerres-puniques/ . Comparaison des lieux sacrés et des réinterprétations grecques et romaines.
+- **Chapitre 477**, « Aphrodite Pandémos et Peithô » : https://bobmythos.fr/chapitres/encyclopedie/chapitre-477-aphrodite-pandemos-peitho-athenes-synoecisme-ig-ii3-879/ . Comparaison persuasion civique / souveraineté cultuelle.
+- **Chapitre 384**, « Harmonia, Cadmos et le collier » : https://bobmythos.fr/chapitres/encyclopedie/chapitre-384-harmonia-cadmos-collier-mariage-thebes-samothrace-metamorphoses/ . Comparaison des déplacements de récits orientaux et égéens.
+- **Chapitre 487**, « Les Telchines de Rhodes » : https://bobmythos.fr/chapitres/encyclopedie/chapitre-487-telchines-rhodes-magie-metallurgie-poseidon-lindos-callimaque-autochtonie/ . Comparaison d'une mémoire d'antiquité insulaire mise en récit et en inscriptions.
+
+Ces liens sont des chemins internes correspondant au classement du dépôt. Ils n'impliquent pas une vérification HTTPS de chacun à la date de la rédaction. Le nouveau chapitre n'a **pas encore** d'URL numérotée à lier : aucune adresse anticipée n'est créée.
+
+### 98. Les huit familles existantes
+
+L'étude relève principalement des familles consacrées aux **dieux olympiens et secondaires**, aux **mythes locaux**, aux **sanctuaires et rites** et aux **réceptions philosophiques**. Elle possède un lien secondaire avec les **cycles épiques**, par Agapénor et Kinyras. La navigation principale reste la seule rubrique **/mythologie-grecque/** : ne pas créer une nouvelle carte « Grande Encyclopédie » ni modifier les huit familles existantes.
+
+### 99. Conditions de la prochaine intégration publique
+
+L'intégration automatisée devra attribuer le numéro réel à partir de la branche principale, produire simultanément le texte numéroté, le reçu et les rendus, puis valider les tests, les sommaires, le moteur de recherche, le sitemap et les pages HTTPS. Le dépôt JSON seul établit une **soumission de texte**, non une publication publique. Aucun numéro lu lors d'une conversation précédente ne vaut réservation.
+
+---
+
+## Conclusion — La souveraine sans visage et les métamorphoses du lieu
+
+Palaipaphos montre qu'une même communauté de lieu peut traverser de longues durées tout en modifiant radicalement ses noms, ses signes et ses institutions. La pierre sacrée, loin d'être un vestige embarrassant d'un âge préartistique, constitue un mode de présence divine qui demeure central sous l'Empire romain. La grande déesse peut être racontée comme une femme splendide dans les poèmes, honorée comme **Wanassa** dans les inscriptions d'un royaume, figurée par une forme conique sur les monnaies, et appelée **Aphrodite Paphia** par le géographe grec.
+
+Le cas est exemplaire parce qu'il ne permet aucune simplification. **Kinyras** et **Agapénor** ne sont pas deux signatures de fouilleurs concurrents : ils relèvent de récits fondant des appartenances différentes. **Aérias** illustre une incertitude de nom déjà reconnue par Tacite. Les **premiers murs du sanctuaire**, eux, appartiennent à une chronologie archéologique. L'**oraison homérique**, la **procession de Strabon** et la **consultation de Titus** témoignent de trois manières de reconnaître une puissance divine, mais pas du même rituel à la même date.
+
+La réflexion philosophique gagne ainsi une tâche précise : non pas chercher dans la pierre une doctrine abstraite de la féminité ou de la beauté, mais comprendre comment une présence sans visage peut être reconnue, gouvernée et transmise dans des sociétés qui multiplient les images. Les formes ne se succèdent pas nécessairement comme des « progrès » : l'aniconique et l'anthropomorphe coexistent, les noms changent et le sacré se déplace entre l'espace construit, le texte, l'offrande et l'autorité politique.
+
+Palaipaphos est un sanctuaire de la **persistance transformée**. Cette formule ne nie pas les ruptures ; elle oblige à les documenter avec précision. À ce prix, l'histoire d'Aphrodite Paphia devient un dossier exemplaire de l'encyclopédie MYTHOS : un lieu dont on peut raconter la très longue durée sans fabriquer l'illusion d'une croyance éternelle et uniforme.
+
+*Fin du manuscrit intégral destiné à la collection encyclopedie. Variable 495 non attribuée à ce stade. Aucun manuscrit antérieur, numéro, reçu, image, déploiement ni automatisation n'est modifié par cette livraison.*

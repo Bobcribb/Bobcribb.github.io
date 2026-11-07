@@ -1,0 +1,385 @@
+# MYTHOS — Les Origines du sacré — Chapitre 830 (volume DCCCXXX)
+
+## Lapaha et les langi de Tonga : tombeaux mégalithiques, mémoire des Tu‘i Tonga et souveraineté d'un monde maritime
+
+*Monographie universitaire originale — 7 novembre 2026. Archéologie des États insulaires, architecture funéraire, géologie des matériaux, réseaux maritimes, traditions orales, anthropologie du pouvoir, archéologie des conflits et philosophie du religieux. Texte public destiné à la file éditoriale MYTHOS ; son numéro relève exclusivement de la transaction de publication.*
+
+### Résumé scientifique : le tombeau, la mer et la mémoire
+
+À Lapaha, dans la région de Mu‘a sur l'île de Tongatapu, les tombeaux monumentaux appelés *langi* conservent la trace matérielle d'une dynastie dont l'autorité a longtemps structuré la société tongienne et ses relations avec d'autres archipels du Pacifique. Le paysage associe plates-formes funéraires parementées de blocs carbonatés, terrassements, passages et espaces liés au transport maritime. La mobilisation de blocs considérables engage des compétences techniques, du travail coordonné et des circuits d'approvisionnement. Mais le prestige d'un tombeau ne tient pas seulement à son coût : il dépend aussi des pratiques de mémoire qui le relient aux souverains, à leurs successeurs et aux communautés actuelles.
+
+Les recherches de Geoffrey Clark, Christian Reepmeyer, Nivaleti Melekiola et leurs collègues, ainsi que les études de David Burley, montrent que l'histoire monumentale de Lapaha doit être lue à travers l'archéologie, les chronologies radiocarbone et la critique des traditions rapportées depuis le XIXe siècle. Cette approche conduit à distinguer la mémoire inscrite dans les pierres, la mémoire transmise par les cérémonies et les écarts entre listes généalogiques et noms attribués aux monuments.
+
+Le dossier compare de façon limitée les tombeaux de Lapaha aux nécropoles de Teouma, à Kasubi et à d'autres dispositifs royaux, sans attribuer une théologie unique aux sociétés du Pacifique. Un site présenté sur la liste indicative de l'UNESCO ne doit jamais être annoncé comme patrimoine mondial déjà inscrit.
+
+### I. Tongatapu : une île, un centre, une géographie politique
+
+L'archipel de Tonga occupe une position majeure dans l'histoire des relations entre les îles du Pacifique central. Le développement de chefferies puissantes ne se comprend pas par la seule superficie de Tongatapu. Les liaisons maritimes, les réseaux de parenté, la circulation des matériaux, des personnes et des biens ont permis d'étendre des influences au-delà de l'île principale.
+
+Lapaha se trouve dans l'ensemble de Mu‘a, sur le littoral d'une lagune; cette implantation relie un centre de pouvoir à des voies navigables. Les travaux archéologiques décrivent une zone monumentale de plus de cinquante hectares, dont la construction et les remaniements doivent être étudiés sur plusieurs générations.
+
+Il serait trompeur de réduire ce paysage à une « capitale » calquée sur une métropole moderne. Les fonctions de résidence, d'assemblée, de stockage, de circulation et de sépulture peuvent se répartir entre plusieurs espaces. La centralité politique est ici produite par des itinéraires, des monuments et des relations interinsulaires.
+
+### II. Une séquence longue : de Heketā à Lapaha
+
+Les recherches de Clark et Reepmeyer situent le développement d'architectures monumentales précoces à Heketā, dans la partie orientale de Tongatapu. Le déplacement du centre principal vers Lapaha est généralement situé autour du XIVe siècle, selon les reconstitutions archéologiques, avec des marges et des débats chronologiques.
+
+Heketā et Lapaha ne sont pas le même site. Le grand trilithe de Ha‘amonga ‘a Maui appartient au premier ensemble; il ne doit pas être inséré fictivement dans le paysage funéraire de Lapaha. Les études de Clark et Reepmeyer sur Heketā montrent l'importance d'une architecture de pierre et de cérémonies liées à l'origine sacrée revendiquée de la lignée.
+
+La succession des centres n'est pas un trajet administratif constaté par une chronique contemporaine continue. Elle résulte de la confrontation entre monuments, dates, traditions généalogiques et descriptions enregistrées tardivement. Aucune de ces sources ne doit absorber toutes les autres.
+
+### III. Tu‘i Tonga : une titulature et des histoires institutionnelles
+
+La forme *Tu‘i Tonga* désigne une titulature souveraine, parfois transcrite avec des variantes selon les conventions linguistiques. Il ne s'agit pas d'un prénom individuel ni du nom d'un seul règne. La tradition évoque une succession de titulaires, dont les fonctions et les modalités de pouvoir ont évolué.
+
+L'article de Geoffrey Clark sur la mémoire des langi rappelle que les généalogies énumèrent trente-neuf Tu‘i Tonga et que de nombreux souverains sont traditionnellement associés aux tombeaux de Lapaha. La durée exacte de la domination dynastique et les relations entre titres ont varié avec les configurations de pouvoir. Les dates générales « vers 1200–1800 » ne permettent pas de numéroter matériellement chaque tombe avec une précision égale.
+
+L'analyse doit distinguer titre, personne historique, fonction rituelle, autorité politique et lieu de sépulture. La pierre indique une opération monumentale, non nécessairement l'ensemble des droits exercés par un titulaire.
+
+### IV. *Langi* : le mot et son piège interprétatif
+
+Dans le travail de Clark (2014), *langi* est glossé par « ciel » et désigne les tombeaux monumentaux parementés de pierre. La proximité d'un terme cosmologique et d'un objet funéraire semble inviter à lire les sépultures comme « tombeaux du ciel ». Une traduction littérale ne démontre pourtant pas à elle seule la doctrine religieuse d'une communauté.
+
+Une étude philologique complète exigerait l'examen des emplois dans les langues tongiennes, leur histoire, les répertoires de traditions orales et l'évolution de la désignation des monuments. La signification d'un mot dans une expression cultuelle n'est pas nécessairement identique à sa signification isolée.
+
+Le terme *langi* constitue donc un document culturel pertinent, mais pas une preuve automatique de l'apothéose de tous les souverains. Il doit être analysé à partir des usages spécifiques, de l'architecture et des traditions documentées.
+
+### V. La liste indicative UNESCO : une source primaire de projet patrimonial
+
+La Commission nationale tongienne a déposé le 9 août 2007 une candidature à la liste indicative du patrimoine mondial sous le titre « The Ancient Capitals of the Kingdom of Tonga », numéro 5167. Elle associe Heketā et les tombeaux de Lapaha. Ce document constitue une source primaire institutionnelle précieuse pour l'état du dossier à la date de soumission.
+
+Cependant, la liste indicative n'est pas la Liste du patrimoine mondial. Elle manifeste une intention de candidature et fournit des descriptions proposées par l'État partie; elle ne vaut pas décision d'inscription par le Comité du patrimoine mondial. Il serait scientifiquement faux de qualifier Lapaha de site UNESCO inscrit au seul motif qu'une page est publiée sur le site du Centre.
+
+La notice indique approximativement vingt-deux tombes alors que des enquêtes archéologiques ultérieures en recensent vingt-sept selon d'autres critères. L'écart exige de distinguer dates, limites topographiques et unités dénombrées, non de choisir arbitrairement un nombre comme vérité éternelle.
+
+### VI. Une architecture de plates-formes à degrés
+
+Les langi comprennent des plates-formes de terre dont les parements sont construits en grandes dalles de roche carbonatée, souvent disposées par gradins. Ce type d'architecture associe terrassement, assises et traitement des angles. Il produit une présence monumentale qui se distingue d'une simple tombe creusée dans le sol.
+
+La notice UNESCO décrit un effet de pyramide à degrés. L'expression est descriptive; elle ne doit pas servir à assimiler ces tombeaux aux pyramides égyptiennes ou mésoaméricaines. Les matériaux, les techniques, les volumes et les fonctions historiques diffèrent.
+
+Le relevé géométrique doit saisir niveaux, parements, angles, réfections et traces de réemploi. Une pierre gigantesque dans un monument du Pacifique n'est pas, en soi, la preuve d'une technologie « mystérieuse » : son transport et son montage relèvent d'une histoire des savoir-faire et de l'organisation humaine.
+
+### VII. L'ampleur du chantier : plus de deux mille tonnes
+
+Clark et ses collègues, dans leur étude de 2014 sur les outils de pierre et les réseaux de l'ancien État tongien, font état de vingt-sept structures funéraires parementées et d'un total supérieur à deux mille cinq cents tonnes de pierres carbonatées extraites puis transportées. Certaines dalles auraient dépassé vingt tonnes.
+
+Ces évaluations, fondées sur les relevés et estimations de masse, décrivent un ordre de grandeur pour l'ensemble considéré; elles ne signifient pas que chaque langi contenait une dalle de vingt tonnes ni que tous furent bâtis au même moment.
+
+Le total révèle la durée et la coordination nécessaires. Il n'est pas possible, à partir du tonnage, de calculer directement le nombre de travailleurs, la durée des corvées ou l'existence d'un impôt unique. Ces questions demandent des modèles techniques explicitant les hypothèses de transport et de mise en place.
+
+### VIII. Roches coralliennes, calcaires récifaux et géologie des matériaux
+
+Les recherches distinguent le beachrock et les calcaires récifaux parmi les matériaux de parement. L'identification géologique est fondamentale parce qu'elle permet de reconstruire les lieux d'extraction, la préparation des dalles et les circuits d'acheminement.
+
+Une surface lissée ou un angle soigneusement ajusté ne prouve pas l'usage d'un outil métallique. Les spécialistes examinent les traces d'extraction, les abrasions, les assemblages et les outils conservés. L'affirmation que les bâtisseurs n'avaient aucun instrument approprié, souvent utilisée pour fabriquer une énigme, n'est pas une explication archéologique.
+
+L'étude des matériaux distingue aussi provenance des blocs et provenance des personnes qui les ont déplacés. Une pierre importée n'implique pas que toute la main-d'œuvre provenait de l'île d'origine.
+
+### IX. La logistique maritime : monument et canoës
+
+L'emplacement de Lapaha sur une lagune n'est pas une coïncidence indifférente. Le complexe comprend, dans les publications archéologiques, des aménagements liés au transport maritime, dont des secteurs de port et des zones gagnées sur les eaux. Les grands blocs ont exigé des solutions de transport que les réseaux de navigation pouvaient rendre possibles.
+
+Il faut cependant distinguer la preuve d'une arrivée de pierre par bateau de la reconstitution précise d'une embarcation et de ses capacités. Les sources ne permettent pas de produire un plan détaillé de chaque transport. Les opérations pouvaient combiner routes terrestres, dispositifs de glissement, levage et voies d'eau.
+
+La puissance politique apparaît dans la faculté d'organiser des trajectoires et des collectifs de travail; elle ne se réduit pas à la hauteur d'une structure.
+
+### X. Pierres taillées et réseaux d'échanges du Pacifique
+
+L'article collectif de Clark, Reepmeyer, Melekiola et collaborateurs dans les *Proceedings of the National Academy of Sciences* (2014) utilise les outils de pierre pour étudier des centres d'interaction dans le Pacifique central. Les caractéristiques géochimiques des roches permettent d'identifier des provenances et d'examiner l'étendue des contacts à l'époque des chefferies tongiennes.
+
+Le résultat n'est pas la preuve que tout échange était commandé par un unique roi, ni que chaque pièce importée constituait une offrande funéraire. Les circuits peuvent mêler cadeaux, prestige, circulation technique et alliances. La distribution d'un objet doit être replacée dans son contexte d'utilisation et de dépôt.
+
+La centralité de Lapaha se comprend mieux lorsqu'on rapproche les tombes des infrastructures maritimes et de la circulation des biens, plutôt qu'en isolant une forme funéraire comme si elle se suffisait.
+
+### XI. Chronologie radiocarbone : pas de tombe datée par une légende seule
+
+Les études archéologiques situent les premiers ensembles de tombeaux monumentaux de la région principalement aux XIIIe–XIVe siècles, avec des constructions et remaniements qui s'étendent ensuite sur plusieurs siècles. L'article de 2014 sur les outils de pierre propose pour Lapaha une séquence de construction initiale autour de 1300–1400 et un dernier grand langi vers 1760.
+
+Il ne faut pas confondre la date d'un échantillon de charbon avec celle d'une dalle. Un échantillon peut être antérieur à un remblai, déplacé ou associé à une phase de réparation. La chronologie doit réunir stratigraphie, calibrations, généalogies et caractéristiques architecturales.
+
+Les documents UNESCO citent eux-mêmes des datations anciennes proposées avec réserve, certains échantillons réclamant confirmation. Un auteur rigoureux conserve ces réserves plutôt que d'aligner artificiellement chaque tombe sur un titulaire connu.
+
+### XII. Les traditions généalogiques : sources indispensables mais tardives
+
+Les traditions de succession des Tu‘i Tonga ont été recueillies et transcrites selon des contextes historiques différents, souvent longtemps après les premiers monuments. Elles constituent des sources essentielles pour la mémoire sociale, mais leurs chronologies et attributions demandent une critique comparable à celle appliquée aux chroniques écrites.
+
+Geoffrey Clark (2014) montre précisément que les noms de plusieurs grandes tombes et l'identification des souverains qui y reposeraient divergent entre des relevés séparés par environ cent cinquante ans. Les écarts sont des données historiques importantes, non des erreurs à gommer pour produire une table univoque.
+
+Il faut noter la date du témoignage, les conditions de collecte et les intérêts des personnes qui le transmettent. Une généalogie peut préserver des relations significatives sans fournir automatiquement une chronologie absolue au sens moderne.
+
+### XIII. La mémoire inscrite et la mémoire incorporée
+
+Clark distingue, dans son analyse de Lapaha, des formes de mémoire liées à la permanence du monument et des savoirs entretenus par les cérémonies et les pratiques. Cette distinction aide à comprendre une situation paradoxale : les dalles demeurent visibles alors que les noms, usages ou identifications attachés à certaines structures se transforment.
+
+La monumentalité n'est donc pas un dispositif parfait de stockage de la mémoire. Le site conserve une trace de l'investissement collectif, mais le lien exact entre pierre et personne dépend de transmissions susceptibles de s'interrompre ou de changer.
+
+La recherche ne doit pas traiter la mémoire orale comme une inscription dégradée. Elle a ses propres fonctions, contextes et règles; elle peut exprimer des affiliations, des hiérarchies ou des événements sans viser toujours l'inventaire topographique attendu par l'archéologue.
+
+### XIV. Qui est enterré où ? Un problème de preuve
+
+L'association d'un tombeau à un Tu‘i Tonga particulier peut reposer sur une chaîne de traditions, un toponyme, un relevé ancien ou une hypothèse architecturale. Les contradictions sont particulièrement fortes lorsque la même structure reçoit plusieurs noms dans des documents différents.
+
+La bonne démarche est de présenter un tableau comparatif des attestations et leur date, sans transformer une tradition choisie en donnée établie. Une future fouille pourrait éclairer les phases d'une structure, mais n'identifierait pas nécessairement un nom propre sans inscriptions ou documents associés.
+
+Cette incertitude n'enlève rien au rôle collectif des monuments. Leur signification dynastique peut être forte même lorsque l'individu enterré dans chaque tombe demeure historiquement incertain.
+
+### XV. La fragmentation politique et le destin du centre royal
+
+Les transformations des pouvoirs tongiens après la période de domination des Tu‘i Tonga ont affecté le rôle de Lapaha. Les travaux de Clark lient le déclin du centre comme siège principal à des ruptures de pouvoir et à la réduction de certaines cérémonies publiques après les contacts européens et la christianisation.
+
+La chronologie politique ne se résume pas à un changement d'idées religieuses. Les alliances, les conflits, les déplacements de centres et les changements d'autorité ont pu transformer les ressources disponibles pour les nouveaux monuments.
+
+Un tombeau peut survivre à un régime. La continuité matérielle n'implique pas la continuation intégrale de ses institutions, mais elle peut servir à réinvestir une mémoire du pouvoir dans un contexte transformé.
+
+### XVI. Comment étudier les rites sans inventer une cérémonie ?
+
+Les notices UNESCO mentionnent des pratiques funéraires et des divisions du travail associées à la construction et à l'usage des langi. Elles reflètent des témoignages et traditions situés. Elles ne donnent pas accès à une liturgie complète et immuable pour chaque période.
+
+Il serait infondé de décrire un cortège précis, des formules consacrées ou des sacrifices particuliers sur la seule base de l'existence de plates-formes. L'archéologue peut observer la position du monument, ses accès et ses réfections; le sens des gestes demande des récits localisés et une connaissance des variations.
+
+L'étude doit notamment distinguer rites funéraires anciens, usages contemporains et présentations patrimoniales. Une pratique encore vivante n'est pas la preuve que sa forme actuelle était strictement identique au XIVe siècle.
+
+### XVII. Le kava et les premières cérémonies de l'autorité
+
+Les recherches de Clark et Reepmeyer sur Heketā associent la formation d'un pouvoir tongien à des cérémonies telles que le partage du kava et les présentations de prémices. Ces observations éclairent le milieu institutionnel dans lequel la monumentalité royale s'est développée.
+
+Il faut toutefois éviter de déplacer sans preuve la totalité de ces cérémonies vers chaque sépulture de Lapaha. Le fonctionnement d'un centre politique à une période donnée ne peut être restitué à l'identique dans tous les monuments construits ensuite.
+
+Le problème intéressant est celui des rapports entre vivants et morts dans la consolidation d'un rang : les rituels d'autorité des vivants et les rites funéraires participent-ils d'une même économie politique ? L'hypothèse est plausible, mais la chaîne documentaire doit être démontrée site par site.
+
+### XVIII. Le prestige ne se mesure pas uniquement en pierres
+
+Une plate-forme monumentale mobilise ressources, savoir-faire et coordination. Elle rend visible la capacité d'une autorité à faire travailler plusieurs groupes. Le poids des pierres et la finesse des angles peuvent contribuer à une représentation publique du prestige.
+
+Mais le monument n'est pas une « monnaie » traduisant mécaniquement un pouvoir. Des préférences cérémonielles, des conditions écologiques, des ruptures politiques et la disponibilité des matériaux peuvent modifier la forme et la dépense constructive.
+
+L'hypothèse d'une rivalité entre chefs doit être évaluée à l'aide de séquences datées, de variations entre monuments et de preuves politiques indépendantes. Les grandes structures ne suffisent pas à prouver l'existence d'une compétition mimétique au sens de René Girard.
+
+### XIX. Le paysage complet de Lapaha : fossés, routes et remblais
+
+L'archéologie décrit, au-delà des langi, des fossés, voies, plates-formes et autres installations associées au centre tongien. Le paysage comprend également des aménagements du bord lagunaire et des secteurs de port. Ces éléments empêchent de considérer les tombes comme un ensemble isolé de tout espace productif ou administratif.
+
+Une méthode paysagère devrait cartographier les relations entre lieux de travail, eau, maisons et sépultures, tout en distinguant les phases. La proximité géographique ne garantit pas la simultanéité : des fossés peuvent être creusés après l'édification de certaines tombes.
+
+Les investigations de terrain à intervention minimale, soulignées dans les travaux de Clark, Burley et Murray, montrent qu'il est possible de documenter un lieu sensible sans fouille systématiquement intrusive.
+
+### XX. Guerre et fortifications : le pouvoir n'est pas qu'un cérémonial
+
+Des recherches recourant au LiDAR et à l'étude des terrassements ont identifié sur Tongatapu des défenses et systèmes de fossés liés à des périodes de conflit. Parton, Clark, Reepmeyer et Burley (2018) présentent une histoire du paysage fortifié en relation avec les transformations de l'autorité.
+
+Il serait toutefois erroné de dater chaque terrassement de Lapaha à partir de la présence d'un tombeau voisin. Le rapport entre guerre et architecture funéraire est historique, et ses phases doivent être précisées. Une structure défensive peut répondre à des conflits postérieurs aux premiers monuments.
+
+Le contexte rappelle que l'autorité royale et les traditions ne se comprennent pas dans une harmonie intemporelle. Les monuments sacrés peuvent subsister dans des territoires traversés de rivalités, de déplacements et de ruptures.
+
+### XXI. La prospection LiDAR et ce qu'elle ne révèle pas
+
+Le LiDAR permet de repérer des variations topographiques sous certaines couvertures végétales et d'étudier des plateformes, fossés ou chemins. Il offre un instrument précieux pour des recherches non intrusives et pour la conservation de paysages menacés.
+
+Mais la forme d'un relief dans un modèle numérique ne constitue pas, à elle seule, une tombe attestée ou une preuve de rite. Elle demande vérification au sol, contrôle chronologique et confrontation aux traditions documentées. La précision spatiale d'une image n'est pas celle d'une datation historique.
+
+Il faut aussi considérer les conséquences de publier des coordonnées détaillées de lieux qui demeurent importants et parfois sensibles pour les communautés. La diffusion d'un relevé doit être négociée à partir des droits et risques locaux.
+
+### XXII. La puissance de la mer : entre échanges et souveraineté
+
+Les matériaux importés et les trajectoires maritimes constituent des indices du pouvoir de coordination des élites tongiennes. La présence de pierres ou d'outils venus d'ailleurs peut étayer l'existence de contacts étendus, sans prouver que ces contacts relevaient tous d'une administration directe.
+
+L'expression d'« empire tongien » apparaît dans les synthèses historiques; elle doit être utilisée avec prudence. Une influence exercée sur des réseaux et une souveraineté territoriale uniforme sont des phénomènes distincts. Les échanges peuvent s'appuyer sur des mariages, des dons, des contraintes et des relations cérémonielles dont la forme varie selon les îles.
+
+Le tombeau monumental matérialise le centre de pouvoir, mais ne définit pas seul les limites géographiques du réseau tongien.
+
+### XXIII. Chronologies Lapita et monarchie tongienne : des siècles d'écart
+
+Le cimetière Lapita de Teouma au Vanuatu date d'environ trois mille ans; les grands langi de Lapaha appartiennent surtout au deuxième millénaire de notre ère. L'écart est considérable. Leur proximité régionale ne justifie pas l'affirmation d'une tradition funéraire inchangée à travers les siècles.
+
+On peut cependant examiner la longue histoire des mouvements de populations, des systèmes de navigation et des techniques insulaires qui constituent le contexte très général de l'Océanie lointaine. Les recherches linguistiques, génétiques et archéologiques montrent des évolutions multiples.
+
+La comparaison entre Teouma et Lapaha révèle surtout la transformation des objets d'étude : à Teouma, on dispose d'une nécropole ancienne et de séries biologiques; à Lapaha, de monuments royaux, de traditions généalogiques et d'archives historiques plus récentes.
+
+### XXIV. Tombes de pierres et tombes de corps : deux archives matérielles
+
+Teouma se distingue par la conservation de squelettes associés à des récipients décorés et par la possibilité d'étudier les gestes de traitement du corps. Lapaha se caractérise par de grands ensembles bâtis, des traces de chantiers et une mémoire politique. Chacun de ces types d'archives rend certaines questions visibles et en laisse d'autres ouvertes.
+
+Une dalle de vingt tonnes ne parle pas de la même manière qu'une articulation humaine restée en place. L'une renseigne sur les techniques, le travail et l'investissement; l'autre peut éclairer des séquences de décomposition et des opérations funéraires.
+
+Cette asymétrie doit empêcher les analogies rapides. Il ne faut pas inventer à Lapaha une pratique de reprise des crânes sous prétexte qu'elle est documentée à Teouma.
+
+### XXV. Une comparaison régionale avec Kasubi : les ancêtres du pouvoir
+
+Le site ougandais de Kasubi, analysé dans une autre monographie de MYTHOS, réunit les sépultures de quatre souverains dans un ancien palais construit au XIXe siècle. Lapaha possède une histoire plus longue de tombeaux mégalithiques associés aux Tu‘i Tonga.
+
+L'analogie porte sur la manière dont une autorité se prolonge symboliquement au-delà de la mort du dirigeant et dont des gardiens transmettent les obligations envers les lieux. Les différences portent sur les matériaux, le régime dynastique, les dates et les transformations politiques.
+
+Aucune relation historique directe n'est établie entre ces ensembles africain et océanien. Le rapprochement sert uniquement à construire des questions sur la mémoire des souverains et l'institution du lieu funéraire.
+
+### XXVI. Égypte et Mésopotamie : le risque d'une « pyramide » universelle
+
+La ressemblance formelle entre une plate-forme tongienne à degrés et certains monuments à gradins d'autres civilisations n'est pas une preuve d'origine commune. La pyramide égyptienne, la ziggurat mésopotamienne et le langi tongien ont des contextes matériels et des fonctions à documenter séparément.
+
+En Égypte, les complexes funéraires royaux sont associés à des inscriptions, à des textes et à des programmes iconographiques dans certaines périodes. En Mésopotamie, une ziggurat n'est pas simplement une tombe royale; sa fonction cultuelle relève d'un autre type d'établissement.
+
+Il serait donc doublement fautif d'identifier les langi à des ziggurats ou d'en déduire une technique importée du Proche-Orient. Les critères de comparaison doivent porter sur des opérations précises : mobilisation de main-d'œuvre, mise en forme de matériaux, relation au pouvoir et entretien des monuments.
+
+### XXVII. Comparaison grecque : les tombeaux héroïques et la cité
+
+Les lieux de mémoire héroïque en Grèce antique donnent un exemple de relation entre mort, territoire et légitimation collective, mais les textes grecs n'expliquent pas les rites des Tu‘i Tonga. Dans l'*Iliade* XXIII, la mort de Patrocle organise un récit de gestes et de compétitions; l'épopée n'est pas une fouille de monument tongien.
+
+Des tombes attribuées à des héros ont reçu des cultes dans les cités grecques, selon des contextes historiques et des attestations variables. L'analogie pertinente concerne la manière dont un monument peut servir de référence à une communauté politique. Elle ne suppose aucune équivalence entre héros grec et souverain tongien.
+
+La méthode de Jean-Pierre Vernant invite précisément à rapporter chaque usage à ses institutions et à sa langue.
+
+### XXVIII. Chine, Iran, Inde : trois histoires distinctes de la souveraineté
+
+La monumentalité funéraire des dynasties chinoises, les tombeaux achéménides en Iran et divers complexes de mémoire royaux en Inde fournissent des comparateurs possibles. Mais chaque ensemble s'appuie sur des sources très différentes : inscriptions, archives, objets, images, témoignages de voyageurs et traditions religieuses particulières.
+
+Lapaha ne possède pas l'équivalent d'une chronique gravée sur chaque tombe identifiant incontestablement son occupant. L'analyse doit éviter de remplir cette lacune avec un modèle emprunté ailleurs. Les notions de souveraineté céleste, de roi divin ou de légitimité ancestrale ne sont pas des traductions immédiates de la titulature Tu‘i Tonga.
+
+Le rapprochement le plus solide est méthodologique : comparer les manières dont la permanence d'une lignée est associée à un lieu et les preuves disponibles pour en suivre les transformations.
+
+### XXIX. Les Amériques : monuments et concentration politique
+
+Les centres monumentaux précolombiens montrent des relations diverses entre architecture, rassemblements, mémoire et autorité. Mais il n'existe pas de modèle mésoaméricain ou andin qui puisse être transposé automatiquement aux tombes tongiennes.
+
+Une plate-forme à degrés peut servir à des cérémonies, à des inhumations, à une représentation de l'autorité ou à plusieurs fonctions combinées. La détermination dépend des fouilles, des associations de mobilier et des usages historiquement attestés. La simple forme ne suffit pas.
+
+La comparaison avec les centres andins anciennement traités dans MYTHOS doit rester chronologiquement contrôlée : la monumentalité précéramique de certaines vallées péruviennes et la dynastie Tu‘i Tonga ne relèvent pas d'une même époque.
+
+### XXX. Historiographie du patrimoine : le nombre de tombes varie
+
+Le dossier tongien présenté à l'UNESCO en 2007 mentionne environ vingt-deux langi; les recherches publiées en 2014 sur l'État tongien retiennent vingt-sept structures de sépulture à parement de pierre. Ces chiffres ne doivent pas être réunis sans examen de leurs catégories et des campagnes de relevé.
+
+La différence peut refléter les limites étudiées, les critères de conservation, de reconnaissance des structures ou les relevés nouveaux. Elle ne doit être expliquée précisément qu'à partir de l'inventaire détaillé de chacune des publications.
+
+L'historien devrait donc publier le nombre avec son auteur, sa date et sa définition. La même prudence s'applique aux noms des souverains et aux datations de chaque monument.
+
+### XXXI. Le patrimoine vivant : responsabilités et limites de la visite
+
+Les tombes de Lapaha demeurent importantes dans la mémoire tongienne et certaines pratiques funéraires sont décrites par les notices institutionnelles comme des traditions vivantes. Cela impose une distinction entre site archéologique accessible à la recherche et lieu de mémoire pouvant comporter des restrictions.
+
+Une inscription sur la liste indicative n'efface pas les responsabilités des communautés et des autorités tongiennes. Les visites, les relevés, l'étude des matériaux et les éventuelles interventions dans les tombes nécessitent des cadres appropriés.
+
+Il serait méthodologiquement inacceptable de suggérer de violer une sépulture pour régler une attribution généalogique, ou de divulguer des éléments rituels privés au seul motif de documenter un patrimoine mondial potentiel.
+
+### XXXII. La christianisation et les transformations des cérémonies
+
+Clark analyse les effets des changements politiques et religieux sur la transmission des noms et des pratiques associées aux langi. La diminution de cérémonies publiques a pu modifier les occasions de répéter les savoirs, contribuant à la fragmentation de certaines mémoires attribuant les tombes aux souverains.
+
+Cette évolution ne doit pas être racontée comme une extinction uniforme du souvenir ou comme une disparition de toute relation aux lieux. Les populations peuvent réinterpréter les monuments dans des cadres chrétiens, nationaux et familiaux nouveaux.
+
+La question historique porte sur les médiations : qui transmet un nom ? Dans quelle situation ? Quel document enregistre cette version ? Un même lieu peut être objet de dévotion, de mémoire, d'étude et de conservation, sans que ces usages soient identiques.
+
+### XXXIII. La parole des habitants de Lapaha et la co-production des savoirs
+
+L'étude PNAS de 2014 compte Nivaleti Melekiola, du conseil de Lapaha, parmi ses auteurs. Ce point est important : la recherche de provenance des outils et l'histoire des monuments ne sont pas uniquement conduites depuis les universités extérieures. Les partenaires locaux participent à la définition et à la réalisation des travaux.
+
+La notice tongienne de 2007 indique aussi le soutien de la communauté à la démarche patrimoniale envisagée. Ce soutien est une donnée relative au dossier de l'époque; il ne prouve pas que chaque résident a aujourd'hui une position identique sur les fouilles et les visites.
+
+Une archéologie responsable doit expliciter les contributions scientifiques, les droits de décision, les modalités de retour des résultats et les limites de diffusion des informations sensibles.
+
+### XXXIV. Le patrimoine menacé : une archéologie de maintenance
+
+Les grands langi peuvent subir érosion, déformations, atteintes végétales, travaux contemporains ou circulations non maîtrisées. La documentation des risques demande un état initial, des mesures répétées et des décisions techniques compatibles avec la destination du lieu.
+
+La conservation n'est pas une opération purement architecturale. Elle concerne les chemins, l'écoulement des eaux, les parcelles voisines, les matériaux de réparation et les savoirs locaux. Le fait d'avoir une enceinte de pierres ne garantit pas une résistance éternelle.
+
+La recherche doit maintenir distincts trois objectifs : sécurité matérielle, intelligibilité des phases historiques et respect des usages. Une restauration qui effacerait toutes les reprises anciennes pour retrouver une forme supposée « originelle » pourrait détruire des documents importants.
+
+### XXXV. Durkheim : cérémonies et coordination collective
+
+L'analyse d'Émile Durkheim sur les obligations collectives du religieux peut aider à poser la question du lien entre rang, monument et rites publics. La construction d'un langi suppose une organisation sociale; les cérémonies de mémoire peuvent en réaffirmer la portée.
+
+Mais la coordination de travailleurs ne prouve pas automatiquement l'existence d'un consensus. Les chefferies peuvent mobiliser dons, alliances, contrainte et prestige, dont il faudrait retrouver les traces. Le monument est un résultat matériel, non une preuve de l'unanimité des croyances.
+
+Le cadre durkheimien doit donc être confronté à l'archéologie politique. Il est utile pour comprendre la reproduction de distinctions sociales, mais ne saurait remplacer la documentation historique des conflits et des ressources.
+
+### XXXVI. Eliade : verticalité du langi et excès de cosmologie
+
+Le rapprochement entre le sens de *langi* (« ciel ») et la forme élevée des tombeaux pourrait inviter à une lecture en termes de centre du monde ou d'ascension cosmique. Une telle interprétation s'inscrirait facilement dans certains cadres phénoménologiques inspirés de Mircea Eliade.
+
+Or la philologie et l'archéologie exigent davantage. Ni la traduction d'un mot ni la superposition de gradins ne fournit à elle seule un récit d'ascension de l'âme. La documentation des pratiques, des traditions et des usages doit précéder toute reconstruction cosmologique.
+
+Une philosophie de l'espace sacré peut être mobilisée à condition de rester un outil de questionnement, non un moyen d'ajouter au terrain une doctrine que les sources n'attestent pas.
+
+### XXXVII. Vernant et Detienne : la bonne comparaison porte sur des opérations
+
+Vernant et Detienne invitent à replacer les représentations et les pratiques dans des institutions précises et à comparer ce qui a été rigoureusement défini. À Lapaha, il serait pertinent de comparer la succession des centres, la relation entre tombe et rang, le transfert des matériaux et la conservation des noms.
+
+L'idée générale de « royauté sacrée » serait trop vague si elle ne distinguait pas la titulature, les conditions de succession, les rites documentés et l'histoire du monument. Il faut identifier des opérations comparables dans les autres sociétés avant de construire une théorie.
+
+Georges Dumézil, dont les travaux reposent sur certains ensembles linguistiques et mythologiques, n'autorise pas à déduire une structure indo-européenne du régime des Tu‘i Tonga. Les ressemblances sans filiation démontrée restent des analogies.
+
+### XXXVIII. Hegel, Nietzsche et la généalogie des puissances
+
+Les philosophies de l'histoire de Hegel peuvent être soumises à une lecture critique lorsque leurs grandes catégories placent les sociétés non européennes dans des positions hiérarchiques. Le développement tongien met au contraire en évidence une histoire complexe d'organisations maritimes, de constructions massives et de changements institutionnels.
+
+La généalogie nietzschéenne invite à interroger les conditions historiques de la reconnaissance et du prestige. Elle ne fournit pas directement une psychologie des chefs tongiens. Il serait abusif d'interpréter la construction des langi comme une volonté de puissance au sens strict simplement parce que les pierres sont imposantes.
+
+Le travail philosophique doit rendre plus explicites les présupposés de l'historien, non transformer les monuments en symboles illustrant une doctrine préalablement choisie.
+
+### XXXIX. Girard : la violence et les limites du modèle sacrificiel
+
+La présence de monument funéraire et de signes d'autorité ne démontre aucunement une crise de violence fondatrice. La théorie de René Girard ne peut être mobilisée comme explication globale de tous les rituels de souveraineté sans preuves détaillées sur leurs gestes et leurs récits.
+
+Les conflits attestés par l'archéologie régionale et le LiDAR ne signifient pas que les tombeaux ont été construits pour pacifier une foule ou commémorer des victimes sacrificielles. La datation et la fonction des fossés doivent être mises en regard de celles des langi avant de parler de relations de causalité.
+
+Le refus d'une hypothèse spectaculaire non documentée est ici constitutif de la rigueur scientifique.
+
+### XL. Sources primaires et traditions : un ordre critique des témoignages
+
+Le corpus comprend les monuments conservés, les relevés archéologiques, des datations radiocarbone, des analyses de provenance lithique, des traditions orales enregistrées à diverses époques, ainsi que la notice patrimoniale tongienne de 2007. Chaque type de source répond à des questions différentes.
+
+La pierre informe sur la technique et parfois sur la chronologie; la tradition transmet des noms et relations; le document patrimonial décrit l'état d'une candidature; l'article de laboratoire établit des résultats dans un cadre de mesure. Faire passer l'un pour l'autre produit des certitudes factices.
+
+La méthode doit conserver les variantes de noms et les divergences documentaires. Le fait qu'une tombe possède plusieurs attributions n'est pas un défaut d'édition à supprimer mais un problème historique de transmission.
+
+### XLI. Faits attestés, controverses et hypothèses
+
+**Attesté :** présence à Lapaha d'un centre monumental lié aux Tu‘i Tonga; tombeaux à degrés parementés de roche carbonatée; développement majeur à partir du XIVe siècle; importance des aménagements lagunaires; études scientifiques sur les masses de pierre et provenances d'outils; diversité des traditions de dénomination; présence sur la liste indicative UNESCO depuis 2007.
+
+**Débats :** nombre exact de structures selon les relevés, corrélation entre chaque tombe et chaque souverain, modèle détaillé de construction et transport, chronologie de certaines phases, sens des récits tardivement enregistrés, formes de l'autorité maritime dans chaque archipel.
+
+**Hypothèses non démontrées :** identité totale entre le langi tongien et la pyramide égyptienne; déduction d'une doctrine de l'au-delà à partir du mot « ciel »; reconstruction certaine de cortèges médiévaux; existence d'un empire administrativement uniforme; diffusion directe de rites funéraires depuis Teouma jusqu'à l'ensemble des monuments royaux tongiens.
+
+### XLII. Programme de recherche et de conservation
+
+Une prochaine enquête pourrait établir, avec les institutions et les gardiens, un catalogue unifié des langi, mentionnant variantes de noms et références datées; une série de modèles topographiques; un bilan des matériaux, érosions et réparations; une cartographie des itinéraires anciens et des accès actuels; une comparaison critique des séries radiocarbone.
+
+Il faudrait distinguer zones visitables, espaces dont la documentation exige une autorisation et données susceptibles d'encourager des intrusions. Le choix d'une méthode non invasive peut être décisif dans un lieu encore investi de valeur religieuse.
+
+Un tel programme ne cherche pas à remplacer les traditions par la science ni la science par la tradition : il explicite les types de connaissance, leurs limites et leurs conditions de mise en commun.
+
+### XLIII. Conclusion : une souveraineté faite de pierres et de transmissions
+
+Les langi de Lapaha matérialisent la capacité de dirigeants et de collectivités à investir durablement un paysage de pouvoir. Les pierres transportées, les plates-formes à degrés, les infrastructures lagunaires et les variations architecturales documentent des organisations politiques et techniques ambitieuses dans le Pacifique central.
+
+Mais une tombe n'est pas un registre parfait : les noms des morts, les fonctions et les récits se transmettent par des institutions susceptibles de changer. La rupture des cérémonies et les déplacements du pouvoir transforment la mémoire sans effacer nécessairement le monument.
+
+L'étude des origines du sacré doit ici renoncer à une équation trop simple entre ciel, chef et monument. Elle gagne davantage à décrire la rencontre entre matériau, parole, puissance et temps, puis à discuter avec rigueur les hypothèses religieuses qu'une telle rencontre rend possibles.
+
+## Sources primaires, monuments et patrimoine
+
+1. Les *langi* de Lapaha (Mu‘a, Tongatapu) : architectures funéraires conservées, contexte archéologique étudié dans les publications ci-dessous. Aucun relevé ou sondage nouveau n'est revendiqué dans cette monographie.
+2. Tonga National Commission for UNESCO, « The Ancient Capitals of the Kingdom of Tonga », dossier 5167, liste indicative du patrimoine mondial, déposé le 9 août 2007 : https://whc.unesco.org/en/tentativelists/5167/. **Attention : il s'agit d'une liste indicative, pas d'un bien inscrit au patrimoine mondial.** Les dates dynastiques et interprétations légendaires de cette notice sont citées en tant que propositions du dossier, non comme démonstrations archéologiques.
+3. Les traditions de dénomination et de succession recueillies dans les documents historiques tongiens sont mobilisées à travers l'analyse historiographique de Geoffrey Clark (2014); elles ne sont pas ici présentées comme une transcription personnelle ni comme un registre contemporain continu.
+
+## Études universitaires et bibliographie vérifiée
+
+4. Clark, Geoffrey R., Reepmeyer, Christian, Melekiola, Nivaleti, Woodhead, Jon, Dickinson, William R., et Martinsson-Wallin, Helene, « Stone tools from the ancient Tongan state reveal prehistoric interaction centers in the Central Pacific », *Proceedings of the National Academy of Sciences*, 111/29, 2014, p. 10491–10496, DOI : https://doi.org/10.1073/pnas.1406165111. Texte intégral : https://pmc.ncbi.nlm.nih.gov/articles/PMC4115531/.
+5. Clark, Geoffrey, « Social memory and the Langi (Royal tombs) of Lapaha, Tonga », *Studies in Global Archaeology*, no 20, Uppsala University, 2014, notice de dépôt ANU : https://openresearch-repository.anu.edu.au/items/19d8aae3-f0a4-4c72-8b28-c03f6c1d1a75. Référence centrale pour les variations d'attributions et les traditions de mémoire.
+6. Clark, Geoffrey, Burley, David, et Murray, Tim, « Monumentality and the development of the Tongan maritime chiefdom », *Antiquity*, notice Cambridge : https://www.cambridge.org/core/journals/antiquity/article/abs/monumentality-and-the-development-of-the-tongan-maritime-chiefdom/7C61425966301608C08E533650C87795.
+7. Clark, Geoffrey, et Reepmeyer, Christian, « Stone architecture, monumentality and the rise of the early Tongan chiefdom », *Antiquity*, notice ANU : https://openresearch-repository.anu.edu.au/items/a002aabc-243f-455c-b660-f8403d525ec8. Étude du centre de Heketā et des cérémonies d'autorité, non traité exhaustif des rites de Lapaha.
+8. Parton, Phillip Anthony, Clark, Geoffrey, Reepmeyer, Christian, et Burley, David, « The Field of War: LiDAR Identification of Earthwork Defences on Tongatapu Island, Kingdom of Tonga », *Journal of Pacific Archaeology*, 9/1, 2018, p. 11–24, DOI : https://doi.org/10.70460/jpa.v9i1.231. Notice et texte accessible : https://pacificarchaeology.org/index.php/journal/article/view/231.
+9. Burley, David V., Nelson, D. Erle, et Shutler, Richard Jr., « A radiocarbon chronology for the Eastern Lapita frontier in Tonga », *Archaeology in Oceania*, 34/2, 1999, p. 59–70, DOI : https://doi.org/10.1002/j.1834-4453.1999.tb00429.x. Étude de l'expansion Lapita, qui ne date pas directement tous les langi médiévaux.
+
+## Philosophie et méthodologie comparative
+
+10. Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Alcan, 1912.
+11. Eliade, Mircea, *Le Sacré et le Profane*, éd. allemande initiale, 1957; Gallimard, éd. française, 1965.
+12. Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, Maspero, 1965.
+13. Detienne, Marcel, *Comparer l'incomparable*, Seuil, 2000.
+14. Dumézil, Georges, *Mythe et épopée*, Gallimard, 1968–1973.
+15. Hegel, Georg Wilhelm Friedrich, *Leçons sur la philosophie de la religion*, éditions posthumes.
+16. Nietzsche, Friedrich, *La Généalogie de la morale*, 1887.
+17. Girard, René, *La Violence et le sacré*, Grasset, 1972.
+
+**Note critique finale :** les travaux archéologiques, les notices universitaires et la candidature UNESCO ont été vérifiés par leurs textes ou métadonnées accessibles. Cette monographie ne revendique ni entretien original, ni exploration du site, ni lecture intégrale de tous les volumes non ouverts. Les divergences de nombres et de noms ont été conservées comme problèmes documentaires et non effacées par une synthèse fictive.

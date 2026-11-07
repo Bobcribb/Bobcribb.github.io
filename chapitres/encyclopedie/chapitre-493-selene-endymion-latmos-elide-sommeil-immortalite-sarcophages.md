@@ -1,0 +1,287 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 493
+
+## Séléné et Endymion : le sommeil éternel, le désir divin et les deux mémoires d'un héros — Élide, Latmos, poésie et images funéraires
+
+*Étude scientifique originale en français. Domaine : mythologie grecque, poésie archaïque et hellénistique, histoire religieuse, géographie sacrée, mythographie, philosophie antique, histoire de l'art gréco-romain et réception. Dossier préparé le 7 novembre 2026. Le numéro demeure réservé à l'attribution transactionnelle du dépôt ; le présent manuscrit ne lui préjuge aucun rang.*
+
+### Résumé
+
+Endymion (Ἐνδυμίων) occupe une place singulière dans les traditions grecques. Selon certains récits, il est un ancêtre royal de l'Élide : sa descendance explique des noms de peuples et la transmission du pouvoir par une course à Olympie. Dans d'autres, il est le jeune homme d'une beauté exceptionnelle auquel Séléné, la Lune personnifiée, rend visite pendant un sommeil sans terme sur le mont Latmos, dans la région de Milet. Entre ces deux coordonnées, ni l'identité du héros, ni sa généalogie, ni les modalités de son sommeil n'ont été fixées par une version antique universelle. Son immortalité, parfois affirmée, n'est pas une simple continuation de la vie humaine : rester jeune et ne plus s'éveiller signifie aussi ne plus agir, gouverner ni répondre.
+
+Le sujet impose donc de confronter trois régimes documentaires qui ne doivent pas être confondus : la généalogie et l'étiologie politique de l'Élide ; l'érotique, le calendrier imaginaire et la topographie sacrée de la tradition latmienne ; enfin la réinterprétation romaine, particulièrement lisible dans les sarcophages où l'amour de Séléné est devenu une manière d'évoquer la mort, la mémoire et l'espérance. Hésiode et l'Hymne homérique à Séléné renseignent la généalogie et les fonctions lunaires, mais non le déroulement de toutes les aventures d'Endymion. Le témoignage de Sappho est médiatisé par une scholie postérieure et n'autorise pas à composer de nouveaux vers archaïques.
+
+**Proposition critique.** Endymion montre comment un même personnage mythique peut passer d'une histoire de souveraineté à une méditation sur les limites de la vie mortelle, puis à une iconographie funéraire. Ces régimes ne constituent ni trois étapes obligatoires d'un progrès intellectuel ni trois « versions » interchangeables. Leur coexistence, leur datation inégale et leur géographie contradictoire font partie de l'objet.
+
+### 1. Méthode, corpus et degrés de preuve
+
+La documentation comporte des poèmes conservés, des récits mythographiques transmis par copies tardives, une enquête de géographie religieuse réalisée sous l'Empire romain et des objets figurés datés. Un texte du IIe siècle de notre ère peut conserver une tradition beaucoup plus ancienne, mais cette possibilité ne constitue jamais une preuve de datation. De même, un sarcophage impérial atteste la manière dont un atelier et des commanditaires romains ont pu employer le mythe ; il ne démontre pas l'existence d'un culte grec antique au lieu représenté.
+
+Dans le présent dossier, **[A]** désigne le contenu directement vérifiable d'un témoignage littéraire conservé ; **[T]**, une tradition antique seulement connue par transmission indirecte, notamment une scholie ; **[M]**, un objet matériel identifiable par sa notice institutionnelle ; **[I]**, une inférence historienne, iconographique ou philologique soumise à révision ; **[P]**, un exercice d'interprétation philosophique qui ne doit pas être confondu avec une intention explicitement attestée chez les Anciens.
+
+Les sources premières à examiner conjointement sont Hésiode, *Théogonie* 371–374 ; *Hymne homérique* 32, à Séléné ; Pseudo-Apollodore, *Bibliothèque* I, 7, 5–6 ; Pausanias, *Description de la Grèce* V, 1, 3–5 ; Théocrite, *Idylle* III, 48–51 ; Apollonios de Rhodes, *Argonautiques* IV, 57–65 ; Lucien, *Dialogues des dieux*, dialogue Aphrodite et Séléné, numéroté 19 dans certaines éditions et 11 dans d'autres ; Cicéron, *Tusculanes* I, 92 ; Pline l'Ancien, *Histoire naturelle* II, 43. Les scholies à Apollonios IV, 57 sont des témoins d'un autre ordre. Les objets romains conservés au Metropolitan Museum, au Getty Museum et au Louvre constituent le troisième ensemble.
+
+L'utilisation d'une bibliographie secondaire n'est pas la certification de MYTHOS par les chercheurs, musées ou établissements cités. Les rapprochements proposés dans le texte sont ceux de cette étude, sauf attribution explicite.
+
+### 2. La Lune est une divinité avant d'être l'amante d'Endymion
+
+[A] Hésiode, *Théogonie* 371–374, présente Théia et Hypérion comme les parents d'Hélios, de Séléné et d'Éôs. Ce passage permet de situer la déesse dans l'ordre des puissances lumineuses et de rapprocher deux figures dont les traditions amoureuses concernent des mortels : Éôs avec Tithonos, Séléné avec Endymion. Il ne raconte cependant ni la rencontre d'Endymion ni le motif de son sommeil. Toute formule insinuant que la *Théogonie* conservée décrit directement les visites de Séléné serait une extension injustifiée de la source.
+
+[A] L'*Hymne homérique* 32 célèbre la lumière lunaire, le déplacement céleste de la déesse et les signes qu'elle offre aux mortels ; il mentionne aussi Pandia, fille de Séléné et de Zeus. Le poème fournit un arrière-plan religieux et cosmique, non un chapitre de l'histoire d'Endymion. Il avertit contre une réduction de Séléné à la seule amoureuse visitant un dormeur. Elle possède des formes d'apparition, un mouvement et une présence propres.
+
+[I] La proximité généalogique du soleil, de la lune et de l'aurore fournit un champ comparatif interne à la tradition grecque. Ce schéma ne démontre pas, à lui seul, que les poètes anciens ont conçu une théorie cohérente des rythmes biologiques. Il autorise plutôt une enquête sur la façon dont différents récits éprouvent les relations entre durée cosmique et durée humaine.
+
+### 3. Endymion et la question de la filiation
+
+[A] La *Bibliothèque* attribuée à Apollodore (I, 7, 5) rapporte que Calycé et Aéthlios eurent Endymion, qui conduisit des Éoliens de Thessalie en Élide ; elle ajoute qu'une autre tradition le faisait fils de Zeus. L'alternative n'est pas à éliminer : dans la première généalogie, il est inscrit dans une continuité humaine de fondateurs ; dans la seconde, sa proximité avec le pouvoir divin est renforcée. Le rédacteur juxtapose des renseignements plutôt qu'il ne raconte une biographie parfaitement harmonisée.
+
+[A] Pausanias (V, 1, 3) fait d'Aéthlios, lui-même fils de Zeus et de Protogénie, la première figure souveraine de l'Élide. Cette séquence est une généalogie locale telle que la transmet un auteur voyageur ; elle n'est ni une chronologie positive de l'histoire éléenne ni une preuve de migration éolienne. Établir une filiation légendaire contribue à ordonner des appartenances et des revendications territoriales, mais les récits ne se substituent pas aux inscriptions, aux niveaux de fouille ou à l'histoire sociale.
+
+[I] Endymion peut donc être décrit comme un héros à ancrage local et à horizon panhellénique de réception. Les adjectifs « roi », « chasseur », « berger » ou « bel endormi » renvoient à des fonctions selon les sources et les images, non à quatre professions historiques successives.
+
+### 4. Un choix de Zeus : l'immortalité comme suspension
+
+[A] Le Pseudo-Apollodore (I, 7, 5) affirme qu'Endymion, aimé de la Lune à cause de sa beauté, reçut de Zeus la possibilité de choisir ce qu'il désirait. Il choisit de dormir pour toujours en demeurant immortel et exempt de vieillissement. Ce choix paraît paradoxal seulement si l'on confond longévité, action et bonheur : la solution mythique protège le corps de la dégradation au prix de la conscience éveillée et de la participation au monde.
+
+[T] Des traditions fragmentaires liées à la poésie hésiodique et connues notamment par les scholies donnent d'autres explications du destin d'Endymion. Les reconstructions modernes des fragments ne sont pas d'une numérotation uniforme ; elles ne permettent pas d'imposer à tout le corpus une seule raison pour laquelle le jeune homme dort. Le motif d'une offense envers Héra est attesté dans la tradition indirecte et exige une discussion séparée, sans l'ériger en scénario commun à Apollodore et Pausanias.
+
+[P] La faveur de Zeus devient philosophiquement ambivalente. Une existence sans vieillesse mais sans réveil ressemble à une victoire sur le temps biologique autant qu'à une sortie de l'existence pratique. On ne doit pas prétendre qu'Apollodore rédige une doctrine morale explicite de l'immortalité : le problème émerge lorsqu'on compare son énoncé à des réflexions philosophiques ultérieures sur le sommeil et la mort.
+
+### 5. L'Élide : le héros qui organise la succession
+
+[A] Dans Pausanias V, 1, 4, Endymion a trois fils, Paion, Épéios et Aitôlos, ainsi qu'une fille, Eurycyda, selon les versions généalogiques rapportées. Le narrateur évoque alternativement Astérodia, Chromia ou Hyperippé comme épouse. Dans une autre tradition du même passage, la Lune lui aurait donné cinquante filles. Pausanias distingue lui-même les récits au lieu de les absorber dans une généalogie unique.
+
+[A] Le roi propose à ses fils une course à Olympie pour déterminer la succession. Épéios gagne et reçoit le pouvoir ; le nom des Épéens est expliqué par cette victoire. Paion quitte son pays après sa défaite : la tradition rapproche son nom de celui de la Péonie. Ce mécanisme est une **étiologie**, c'est-à-dire une histoire qui rend intelligibles des noms de groupes et des rapports de pouvoir par le récit. Il n'établit pas que la course mythique ait précédé les compétitions olympiques historiquement attestées.
+
+[I] La course remplace une succession de naissance par une sélection agonistique à laquelle participent des membres de la même famille. Il serait excessif d'y lire une origine documentaire des Jeux olympiques ou une anticipation de l'élection démocratique. Le récit permet cependant d'étudier comment un concours peut servir à penser la légitimité d'un détenteur du pouvoir.
+
+### 6. Cinquante filles de la Lune : nombres, calendriers, hypothèses
+
+[A] Pausanias V, 1, 4, conserve le renseignement que Séléné eut cinquante filles d'Endymion. Leur nombre est un fait textuel ; leur identité et leur fonction précise ne sont pas exposées ici par une liste de cinquante noms. Les mettre mécaniquement en correspondance avec cinquante phases, cinquante mois ou le calendrier d'une olympiade introduirait une explication moderne non démontrée par le passage.
+
+[I] Le rapprochement numérique avec certains computs lunisolaires peut être signalé comme question de recherche, à condition de comparer des calendriers antiques précis, leurs règles d'intercalation, leurs contextes civiques et leur datation. Sans cette étape, le passage de « cinquante filles » à « cinquante lunaisons » est une spéculation. Une note explicite de méthode est ici essentielle : les textes grecs n'offrent pas toujours une clé astronomique cachée derrière chaque nombre mythique.
+
+[P] Ce chiffre ouvre plutôt une tension narrative : la divinité des retours périodiques et l'homme de l'immobilité engendrent une descendance considérable. La fécondité peut être racontée simultanément au sommeil hors du temps. L'opposition ne doit pas être corrigée en postulant une chronologie inventée des réveils d'Endymion.
+
+### 7. Deux géographies qui ne doivent pas être fusionnées
+
+[A] Pausanias V, 1, 5, oppose expressément deux mémoires locales de la mort ou de la présence d'Endymion. Les Éléens montrent son tombeau. Les habitants d'Héraclée voisine de Milet affirment qu'il se retira sur le mont Latmos, où ils lui rendent honneur, et qu'un **adyton** lui est consacré. L'écrivain ne choisit pas entre deux histoires parfaitement superposables : il enregistre un désaccord.
+
+[A] Dans la tradition de la Carie, Latmos forme un paysage de montagne lié au site d'Héraclée, dans la région du lac aujourd'hui nommé Bafa. La précision importante n'est pas de poser un point sur une carte comme localisation prouvée de l'endormi ; elle est de comprendre que les Héracléotes ont articulé un récit à une montagne et à un espace de pratique religieuse.
+
+[M/I] Les formes archéologiques du paysage du Latmos peuvent être documentées indépendamment de ce mythe. L'existence d'un massif, de vestiges urbains ou de grottes ne prouve pas qu'une cavité actuelle soit « la grotte d'Endymion ». Pausanias atteste un espace sacré dans son temps et un discours local à son propos ; le plan, les dimensions, les objets votifs et la chronologie d'un éventuel bâtiment doivent relever d'une publication archéologique identifiée. On ne présentera donc aucune cavité touristique non inventoriée comme monument antique certain.
+
+### 8. Le mot adyton et le statut du culte
+
+[A] Dans Pausanias V, 1, 5, le terme grec ἄδυτον, *adyton*, renvoie à un espace inaccessible ou réservé, généralement dans un contexte sacré. Il ne suffit pourtant pas à déterminer le type architectural, l'usage exact ou l'effectif d'un clergé. Les formes de l'honneur rendu au héros sont signalées par le témoignage, non décrites sous la forme d'un règlement liturgique.
+
+[I] Le dossier doit distinguer « culte attesté textuellement » et « sanctuaire fouillé avec mobilier attribuable à Endymion ». Le premier est établi par Pausanias ; le second demanderait des preuves matérielles supplémentaires. Il serait imprudent d'inventer des sacrifices lunaires, une procession annuelle de cinquante jeunes filles ou des prêtres d'Endymion sous prétexte que la figure est associée à la Lune.
+
+[I] Pour l'histoire comparée des cultes, l'écart entre le *mnêma* éléen et l'*adyton* carien importe : les lieux de héros peuvent organiser des souvenirs divergents. La rivalité des récits constitue un phénomène historique et religieux digne d'étude sans obliger à démontrer la présence corporelle d'un personnage de fiction mythique.
+
+### 9. La tradition de Sappho : une voix ancienne à travers une scholie
+
+[T] Une scholie à Apollonios de Rhodes, *Argonautiques* IV, 57, renvoie notamment à Sappho et à Nicandre à propos de l'amour de Séléné pour Endymion. Ce renseignement justifie de placer la tradition érotique avant le poème hellénistique conservé. Il ne faut cependant pas le transformer en « chant complet de Sappho » : nous ne disposons pas ici d'une œuvre lyrique continue, mais d'une attribution tardive, transmise par les commentateurs.
+
+[I] La transmission indirecte rend problématique toute reconstitution du cadre originel, de la voix poétique et de la position du désir. Écrire une strophe fictive au nom de Sappho ferait passer une création contemporaine pour une source antique. L'argument rigoureux s'arrête à ce que la scholie permet d'affirmer : un témoignage ancien ou médiatisé sur l'association d'Endymion, de Séléné et d'une tradition lyrique archaïque.
+
+[P] L'intérêt du dossier est la capacité d'une figure lunaire à devenir une amante active. Si l'on décide d'étudier le regard et le désir féminin dans la poésie grecque, les corpus complets, leurs genres et leurs voix doivent être examinés ; un simple renvoi scholastique ne suffit pas à construire une théorie de la poésie de Sappho.
+
+### 10. Apollonios : la Lune parle à Médée
+
+[A] Aux *Argonautiques* IV, 57–65, Séléné, apercevant Médée sous l'empire de son amour pour Jason, évoque dans un monologue sa propre passion pour Endymion et la grotte latmienne. Le passage contient une ironie décisive : la déesse se réjouit de voir Médée éprouver à son tour les douleurs amoureuses qu'elle-même connaît. La comparaison n'identifie pas les deux amantes mais établit un miroir entre leurs expériences.
+
+[A] Les enchantements de Médée sont mis en rapport avec la nuit et la présence lunaire. Le poème hellénistique montre un univers où la technique magique, le pouvoir cosmique et les affects sont réciproquement interprétés. Il ne s'agit pas d'une description neutre d'un rite authentique pratiqué par toutes les femmes grecques ; Médée est un personnage littéraire dans une épopée savante.
+
+[I] Le contraste le plus fécond oppose Séléné, puissance céleste capable de parcourir l'espace, à Endymion, homme immobilisé. La déesse se déplace, regarde et parle ; l'objet de son amour demeure silencieux dans le passage. Cette différence interdit une lecture qui ramènerait Séléné à un ornement narratif passif. La scène met également en question la maîtrise : la magie attribuée à Médée ne l'empêche pas d'être vulnérable à l'amour.
+
+### 11. Théocrite : envier un sommeil qui ne change pas
+
+[A] Dans l'*Idylle* III, vers 48–51, un locuteur pastoral évoque Endymion parmi des figures célèbres pour leurs liens avec des divinités. Le noyau de sa parole est l'envie du sommeil inaltérable associé au jeune homme ; Iasion lui sert ensuite de comparaison érotique. Le rapprochement construit un souhait poétique, non une doctrine grecque du sommeil.
+
+[I] La valeur du vers dépend du genre bucolique. La plainte du locuteur, sa rivalité avec un amour divin et son désir d'échapper à l'inconstance humaine mettent en scène un idéal immédiatement problématique. Le dormeur échappe à l'échec parce qu'il ne participe plus à l'alternance des espoirs et des déceptions. On ne peut cependant le déclarer « heureux » dans tous les sens du mot : la source adopte le point de vue de celui qui l'envie.
+
+[P] L'envie d'Endymion est une des formes antiques du désir d'arrêter le temps. Elle diffère de la victoire héroïque par l'action : le personnage exemplaire est celui dont la beauté s'immobilise. L'idylle devient ainsi un témoin essentiel du passage d'une histoire mythique à une ressource de comparaison affective.
+
+### 12. Lucien : la beauté décrite par celle qui la contemple
+
+[A] Dans le dialogue entre Aphrodite et Séléné des *Dialogues des dieux* de Lucien (numérotation 19 ou 11 selon les éditions), la Lune décrit Endymion endormi et la manière dont elle descend le rejoindre. La conversation porte moins sur la généalogie d'un roi éléen que sur les habitudes d'une amante et sur l'action d'Éros. Le portrait fait intervenir les armes du chasseur, le manteau et la posture du jeune homme.
+
+[I] Par cette scénographie, le texte construit un regard féminin sur un corps masculin qui ne répond pas. La tradition latmienne est adaptée au dialogue comique et à l'art de la description. Un texte de Lucien ne documente pas directement des pratiques rituelles de Séléné en Carie, et le comique de sa mise en scène ne doit pas être effacé derrière une symbolique cosmique systématique.
+
+[P] La différence entre un corps qui agit et un corps qui est regardé peut nourrir une réflexion contemporaine sur le désir et l'asymétrie des rôles. Il faut l'énoncer comme lecture, et non comme un jugement explicitement formulé par Lucien selon des catégories modernes.
+
+### 13. Le sommeil, la mort et les limites de l'expérience
+
+[A] Cicéron, *Tusculanes* I, 92, utilise le cas d'Endymion pour réfléchir au rapport entre le sommeil, l'absence de sensation et la mort. Il évoque l'homme censé dormir depuis longtemps sur le Latmos, endormi par la Lune pour qu'elle puisse l'embrasser. L'argument de Cicéron porte sur la condition d'un sujet qui, privé de sensation, ne peut se soucier des événements, même des difficultés de l'astre aimé.
+
+[P] Le traitement est différent de l'envie pastorale de Théocrite. Chez celui-ci, Endymion représente une situation enviable ; dans la discussion philosophique de Cicéron, la passivité du dormeur fournit un exercice de raisonnement sur l'insensibilité. Les mêmes motifs constituent donc deux problèmes : ce que l'amoureux projette sur le repos et ce que le raisonnement peut conclure de l'absence de perception.
+
+[P] Une analyse attentive ne doit pas confondre immortalité du corps, immortalité de l'âme et continuité de la conscience. Le récit mythographique peut dire qu'un homme ne vieillit plus ; il n'en résulte pas qu'il possède une connaissance continue de son bonheur. Endymion expose ainsi la différence entre « être encore » et « vivre en faisant l'expérience de ce qui arrive ».
+
+### 14. Pline : Endymion, observateur de la Lune
+
+[A] Dans *Histoire naturelle* II, 43, Pline l'Ancien explique la légende des amours d'Endymion par le fait que le personnage aurait été le premier à observer des particularités de l'astre lunaire. Le passage appartient à un développement sur les phases, les mouvements et les phénomènes de la Lune. Il représente une interprétation antique du mythe par une activité savante.
+
+[I] Pline ne fournit pas une biographie historique contrôlée d'un astronome portant ce nom. La phrase relève d'une histoire des premiers inventeurs et observateurs, domaine souvent mêlé à la tradition légendaire. Attribuer à Endymion l'invention démontrée de l'astronomie lunaire serait transformer une rationalisation antique en fait scientifique moderne.
+
+[P] L'interprétation plinienne ouvre néanmoins une piste majeure pour l'histoire des savoirs : aimer la Lune, dans cette lecture, signifie lui prêter une attention obstinée. Elle ne remplace pas les explications religieuses ou érotiques ; elle montre qu'un naturaliste du monde romain pouvait relire un récit grec en termes de curiosité et d'observation.
+
+### 15. Le ciel, le temps et la fausse clé unique
+
+[A] La pluralité des sources oppose plusieurs opérations : parcourir le ciel, dormir hors du vieillissement, engendrer, gouverner, transmettre une royauté et être représenté dans la tombe. Il ne s'agit pas d'un système métaphysique achevé. Certaines histoires conservent le pouvoir politique du héros ; d'autres privilégient la vie sentimentale de Séléné ; d'autres encore travaillent la frontière entre mort et sommeil.
+
+[I] Une lecture astronomique peut constater la visibilité variable de la Lune, sa périodicité et son association au monde nocturne. Elle doit cependant rester proportionnée aux sources. Ni la localisation du Latmos, ni le nombre cinquante, ni le sommeil perpétuel ne constituent à eux seuls des preuves d'un calendrier cultuel codé. Les saisons, les fêtes et les phases lunaires ont leurs propres corpus de données.
+
+[P] À titre d'hypothèse philosophique, Endymion représente une immobilité particulière au sein d'un cosmos qui ne cesse de revenir. La Lune continue son mouvement ; le corps aimé demeure. Le récit n'enseigne pas que « le temps est une illusion » : il donne à voir deux types de durée et autorise à interroger leurs incompatibilités.
+
+### 16. Comparaison interne : Éôs et Tithonos
+
+[A] Les traditions concernant Éôs et Tithonos forment une comparaison particulièrement éclairante avec le couple Séléné–Endymion. Le thème de la survie sans jeunesse apparaît notamment dans l'*Hymne homérique* à Aphrodite, qui évoque le vieillissement de Tithonos après le don d'immortalité. La position de Séléné, sœur d'Éôs chez Hésiode, renforce l'intérêt de ce parallèle au sein d'une même généalogie divine.
+
+[I] Mais les deux récits ne doivent pas être confondus : dans l'un, l'extrême vieillesse révèle une malédiction d'immortalité mal réglée ; dans l'autre, le sommeil permanent peut préserver la jeunesse en retirant la vie éveillée. L'analogie concerne l'inégale durée des êtres immortels et mortels, non une dépendance littéraire prouvée entre tous les témoins.
+
+[P] Les deux cas posent une question de philosophie de l'existence : faut-il vouloir durer toujours lorsque la durée fait disparaître les conditions concrètes de l'action ou de la réciprocité ? Il ne faut pas attribuer la réponse à un auteur sans texte. La valeur de l'analyse réside dans le rapprochement de solutions narratives différentes.
+
+### 17. Un contrepoint : Hypnos, Thanatos et les limites du rapprochement
+
+[A] Le monde grec pense fréquemment les relations du sommeil et de la mort à travers des figures divines distinctes, Hypnos et Thanatos. La comparaison avec le mythe d'Endymion éclaire le choix iconographique romain de placer Hypnos à proximité du jeune homme.
+
+[I] Cette proximité n'est pas une preuve que les Grecs auraient célébré un seul dieu du « sommeil-mort » ou qu'Endymion serait mort au sens littéral dans toutes les sources. Les images montrent des opérations de symbolisation qui peuvent modifier le statut d'un mythe. La lecture de la sépulture en termes d'au-delà exige d'examiner chaque relief, son contexte et les inscriptions du monument.
+
+[P] La ressemblance du sommeil et de la mort peut fonctionner dans une argumentation sceptique, comme chez Cicéron, ou dans un programme consolateur, comme sur certaines œuvres funéraires. Affirmer leur identité définitive ferait disparaître le point le plus instructif : chaque œuvre décide différemment ce qu'elle fait de cette ressemblance.
+
+### 18. Les sarcophages romains : quand le mythe sert la mémoire
+
+[M] Le Metropolitan Museum of Art conserve un sarcophage romain de l'époque sévérienne, au début du IIIe siècle de notre ère, inventaire **47.100.4a, b**. Sa face montre Séléné descendant de son char vers le bel Endymion allongé ; une figure associée au sommeil et à l'immortalité intervient dans la scène. Le programme comprend aussi des figures solaires et lunaires et, au revers, un paysage pastoral. L'inscription du couvercle commémore une femme nommée Arria, à laquelle sa fille Aninia Hilara dédia le monument. Notice institutionnelle : https://www.metmuseum.org/art/collection/search/254590 .
+
+[M] Le même musée conserve un autre sarcophage figurant Endymion, de l'époque antonine, vers le milieu du IIe siècle, documenté à l'adresse https://www.metmuseum.org/art/collection/search/251474 . La comparaison des deux reliefs montre l'évolution possible des procédés de taille et de la composition dans la durée impériale. Elle ne permet pas de reconstruire une succession chronologique des variantes du mythe archaïque.
+
+[M] Le J. Paul Getty Museum conserve également une face de sarcophage en marbre bleu-gris datée vers 210 de notre ère, **76.AA.8**, décrite ici : https://www.getty.edu/art/collection/object/103T3V . Le musée identifie Séléné, Endymion, Hypnos, les Érotes et la reprise du départ de la déesse. Les informations de musée sur l'usage symbolique de l'image accompagnent la pièce ; elles ne certifient pas une théologie unique de la mort partagée par tous les commanditaires romains.
+
+### 19. Le sarcophage Ma 1335 du Louvre : provenance et identification
+
+[M] L'Institut national d'histoire de l'art, dans les données Digital Muret / AGORHA, signale le sarcophage **Ma 1335** conservé au musée du Louvre, découvert à Saint-Médard-d'Eyrans : https://agorha.inha.fr/ark:/54721/7277d62a-8470-4576-a62e-c0beeda98254 . Le décor est reconnu comme représentant Séléné visitant Endymion pendant son sommeil. Le dossier précise sa matière et son appartenance à la culture figurée romaine.
+
+[I] Une découverte réalisée sur le territoire de la France actuelle n'en fait pas une image « gauloise » du mythe au sens ethnique ; il s'agit d'un objet de culture matérielle de l'Empire romain dont la circulation et le contexte archéologique demandent une étude propre. Il faut distinguer lieu de fabrication, lieu de découverte, lieu de conservation et lieu imaginaire de la scène, quatre coordonnées que les catalogues rapprochent parfois dans une même notice.
+
+[M] Pour une reproduction photographique librement réutilisable, le dossier Wikimedia Commons **File:Sarcophagus Endymion Louvre Ma1335.jpg** documente une photographie de Marie-Lan Nguyen, libérée dans le domaine public par son auteur : https://commons.wikimedia.org/wiki/File:Sarcophagus_Endymion_Louvre_Ma1335.jpg . La photographie et le sarcophage sont des objets de droits différents. Toute utilisation sur MYTHOS doit reprendre crédit, licence du fichier effectivement retenu et lien pérenne ; aucune image n'est insérée artificiellement dans le présent manuscrit.
+
+### 20. Hypnos, Érotes, chars et paysage : lire sans imposer une allégorie
+
+[M] Sur plusieurs reliefs romains, l'identification dépend d'attributs : croissant lunaire de Séléné, char, gestes de descente et d'approche, position du dormeur, figures ailées, torches et végétation. Les catalogues institutionnels distinguent les figures identifiables de celles dont la fonction exacte reste plus ouverte. Un détail sculpté peut signifier le sommeil ou la visite nocturne sans imposer une doctrine de l'âme.
+
+[I] Michael Koortbojian a étudié ces sarcophages comme des formes de mémoire et de mise en récit, et non comme de simples illustrations des poètes. Les monuments articulent des temporalités : la déesse arrive, contemple son amant, repart, et peut être figurée simultanément en différents points de la composition. Cette simultanéité visuelle convient particulièrement à l'idée d'un retour sans fin.
+
+[I] L'image change aussi le centre de gravité de la narration. Dans la tradition éléenne, Endymion agit et gouverne ; sur le sarcophage, son corps est exposé dans le repos. La commanditaire, le défunt et le spectateur peuvent être invités à faire de ce repos une figure de consolation. Cette signification n'est pas automatiquement celle que chaque auteur grec donnait au mythe.
+
+### 21. Une critique nécessaire : le sommeil comme consentement ?
+
+[P] Dans plusieurs variantes, Endymion dort lorsque Séléné vient le voir ou l'embrasser. Une lecture contemporaine peut y voir une asymétrie : l'une des figures agit, l'autre ne peut manifester dans la scène une volonté éveillée. Cette question mérite d'être posée avec précision, sans attribuer aux sources une terminologie juridique ou morale qu'elles ne possèdent pas.
+
+[A] Le dossier doit préserver les différences : Apollodore fait d'Endymion le sujet d'un choix accordé par Zeus ; Cicéron présente la déesse comme cause du sommeil pour pouvoir embrasser le héros ; Lucien développe le désir et le regard de Séléné ; Apollonios donne à la déesse la parole pour évoquer son tourment amoureux. Ces récits ne répondent pas de manière identique à la question de l'initiative.
+
+[P] La lecture philosophique rigoureuse ne cherche donc pas à acquitter ou condamner uniformément « le mythe » comme s'il existait une version législative universelle. Elle demande ce que chaque narration suppose, représente ou laisse hors champ, et pourquoi une longue tradition a pu faire du sommeil une forme séduisante d'immobilité.
+
+### 22. De la présence du héros à sa conversion en symbole
+
+[I] Le passage de la région d'Olympie à la Carie n'est pas seulement un déplacement géographique. L'Élide conserve un ancêtre qui transmet une royauté et explique des noms de peuples ; le Latmos conserve une figure liée au retrait et à une présence sacrée ; le monde romain transforme le jeune dormeur en emblème funéraire. On ne peut établir que tous ces milieux aient partagé une même exégèse.
+
+[I] L'histoire de la réception s'attache aux lieux où une narration devient utile. Dans une généalogie, Endymion donne sens à un ordre politique ; dans une idylle, il exprime un souhait amoureux ; dans un texte philosophique, il sert d'exemple logique ; sur une tombe, il rend visible une relation entre présence physique du défunt et mémoire des vivants. Le symbole est ainsi une pratique de relecture, pas un noyau immuable que la critique aurait enfin découvert.
+
+[P] Le mythe construit un paradoxe de représentation : pour manifester la permanence d'un être, l'image montre un corps auquel toute capacité d'action a été retirée. La pierre du sarcophage stabilise ce que le récit dit lui-même de la jeunesse sans vieillissement. Cette correspondance est une interprétation iconographique argumentée, non une instruction écrite du sculpteur.
+
+### 23. Séléné et le féminin divin : voix, mobilité, souveraineté du regard
+
+[A] La déesse peut apparaître comme fille d'Hypérion et de Théia, puissance lumineuse, interlocutrice de Médée ou amante qui quitte son char pour descendre vers Endymion. À chaque fois, des genres distincts — généalogie, hymne, épopée, dialogue, sculpture — déterminent la part de parole et d'action qu'elle reçoit.
+
+[I] Le classement traditionnel des personnages sous le nom du héros masculin ne doit pas faire perdre cette évidence : l'événement amoureux est souvent rapporté par les mouvements de Séléné. Son déplacement répété relie le monde des dieux et celui des humains, mais ne dissout pas la distance entre eux.
+
+[P] En présence de l'homme immobile, la déesse incarne la possibilité d'un désir sans résolution : elle peut revenir, mais aucune réponse nouvelle du dormeur n'est certaine. Réduire sa conduite à un « amour romantique » moderne masquerait la diversité antique de l'expérience érotique, et le rapport entre dieu et mortel y demeure fondamentalement dissymétrique.
+
+### 24. Les travaux français : méthode et limites d'une application
+
+**Paul Veyne**, *Les Grecs ont-ils cru à leurs mythes ? Essai sur l'imagination constituante*, Paris, Seuil, 1983, offre une méthode pour traiter les régimes de vérité du récit mythique. Le désaccord entre les traditions éléenne et carienne demande précisément d'éviter l'opposition sommaire « croyance naïve » / « vérité historique ». Ce rapprochement est proposé ici comme outil de lecture ; il ne signifie pas que Veyne aurait rédigé une expertise particulière sur ce manuscrit MYTHOS. Notice bibliographique et compte rendu : https://www.persee.fr/doc/rhr_0035-1423_1985_num_202_2_2748 .
+
+**Jean-Pierre Vernant**, *L'individu, la mort, l'amour. Soi-même et l'autre en Grèce ancienne*, Paris, Gallimard, 1989, permet de problématiser les distances entre mortel et immortel ainsi que la représentation de l'autre. Le livre constitue un cadre comparatif conceptuel, non une preuve que toutes les variantes d'Endymion proposent une même anthropologie. Référence éditoriale : https://books.google.com/books/about/L_individu_la_mort_l_amour.html?id=7Ef4OgAACAAJ .
+
+Le cas invite également à ne pas transformer la *comparaison structurale* en automatismes : le désir d'Éôs pour Tithonos et celui de Séléné pour Endymion peuvent être rapprochés sans qu'une identité de fonction soit démontrée. Une lecture savante explicite ce qu'elle emprunte à un historien de la religion, ce qu'elle déduit du texte et ce qu'elle propose comme hypothèse propre.
+
+### 25. État du débat historiographique
+
+[M/I] Michael Koortbojian, *Myth, Meaning, and Memory on Roman Sarcophagi* (University of California Press, 1995), place Endymion au cœur d'une enquête sur les usages romains des récits grecs. L'étude montre que les images funéraires ne doivent pas être réduites à la transcription d'une scène littéraire : elles reconfigurent les mythes pour inscrire la mémoire du défunt dans un langage visuel. Texte accessible : https://publishing.cdlib.org/ucpressebooks/public/book/myth-meaning-and-memory-on-roman-sarcophagi.html .
+
+[T] Les savants se heurtent aux limites de la tradition littéraire. Les scholies anciennes peuvent associer le couple à Sappho, tandis que les récits complets que nous lisons sont en grande partie plus tardifs. L'absence d'un récit archaïque intact empêche de dater toutes les composantes du mythe à la même époque. Le silence de certains poètes ne doit pas devenir une preuve de l'inexistence des traditions locales.
+
+[I] Les frontières de l'enquête sont nettes : nous pouvons identifier des passages et des objets, étudier leur circulation et leur transformation, comparer les lectures ; nous ne pouvons ni reconstituer avec certitude la première naissance du récit, ni déduire une liturgie détaillée d'un terme comme *adyton*, ni restituer la psychologie individuelle des commanditaires de chaque sarcophage.
+
+### 26. Questions ouvertes à instruire dans le corpus
+
+1. Peut-on établir une histoire plus précise des traditions éléenne et carienne au moyen des témoignages épigraphiques et des états de fouille publiés, plutôt qu'à partir d'étiquettes archéologiques tardives ?
+2. Quel est le statut exact des scholies à Apollonios IV, 57, et comment les éditions critiques numérotent-elles les fragments attribués à Sappho et au cycle hésiodique ?
+3. Les cinquante filles sont-elles évoquées dans d'autres sources de manière permettant une véritable étude des rythmes calendaires, ou l'hypothèse reste-t-elle extérieure au témoignage de Pausanias ?
+4. Comment distinguer visuellement, dans le corpus impérial, le sommeil consolateur, le deuil du mort et l'idée de continuité amoureuse sans attribuer une symbolique uniforme à chaque atelier ?
+5. Une enquête de provenance sur les sarcophages du Louvre, du Metropolitan Museum et du Getty fait-elle apparaître des différences de contextes sociaux susceptibles de modifier l'interprétation des images ?
+
+Ces questions sont des programmes d'enquête, non des faits déjà établis.
+
+### 27. Iconographie recommandée, inventaires et droits
+
+**Document I — Sarcophage Séléné–Endymion, New York.** Metropolitan Museum of Art, **47.100.4a, b**, début du IIIe siècle de notre ère, époque sévérienne, marbre. Notice : https://www.metmuseum.org/art/collection/search/254590 . Usage préconisé : vue générale et détail de la descente de la déesse, avec mention explicite « relief funéraire romain, non reconstitution d'un sanctuaire grec ». Contrôler les conditions de réutilisation du cliché choisi avant intégration.
+
+**Document II — Sarcophage avec Endymion, New York.** Metropolitan Museum of Art, milieu du IIe siècle de notre ère, époque antonine. Notice : https://www.metmuseum.org/art/collection/search/251474 . Usage : comparaison des reliefs et non « évolution prouvée » du mythe.
+
+**Document III — Face de sarcophage, Malibu.** J. Paul Getty Museum, **76.AA.8**, vers 210 de notre ère, marbre bleu-gris. Notice : https://www.getty.edu/art/collection/object/103T3V . La notice muséale a été consultée pour l'identification. Ne pas supposer que l'ensemble des photographies sous licence du Getty est automatiquement libre sur tous les supports : contrôler le média lui-même.
+
+**Document IV — Sarcophage du Louvre.** Musée du Louvre, **Ma 1335**, notice INHA / AGORHA : https://agorha.inha.fr/ark:/54721/7277d62a-8470-4576-a62e-c0beeda98254 . Une photographie de Marie-Lan Nguyen est documentée comme mise dans le domaine public par son auteur sur https://commons.wikimedia.org/wiki/File:Sarcophagus_Endymion_Louvre_Ma1335.jpg . Conserver l'auteur du cliché et la source. Vérifier que le fichier exact utilisé est bien celui de cette notice de licence.
+
+**Consigne visuelle MYTHOS.** Aucune perspective vectorielle 2,5D, aucun habillage de menu incrusté, aucune grotte « archéologiquement reconstituée » sans dossier matériel identifiable. Si une illustration architecturale 3D est ultérieurement proposée, elle doit être photoréaliste, accompagnée d'une notice indépendante, datée et explicitement classée comme hypothétique lorsque la structure du sanctuaire n'est pas documentée.
+
+### 28. Renvois internes à MYTHOS
+
+Les rapprochements suivants utilisent des chemins de manuscrits déjà identifiés sur la branche principale ; ils ne doivent pas être pris pour des affirmations de publication HTTPS de cette nouvelle étude.
+
+- Hélios, frère de Séléné : [chapitre existant sur Hélios](/chapitres/encyclopedie/chapitre-259-helios/).
+- Nyx, monde de la nuit : [chapitre sur Nyx](/chapitres/encyclopedie/chapitre-375-nyx-nouvelle-etude/).
+- Hypnos et Thanatos, parenté iconographique du repos et de la mort : [chapitre sur Hypnos, Thanatos, Némésis et les Moires](/chapitres/encyclopedie/chapitre-381-hypnos-thanatos-nemesis-moires-nouvelle-etude/).
+- Éôs et Tithonos, contrepoint à l'immortalité du dormeur : [chapitre sur l'Aurore et le vieillissement](/chapitres/encyclopedie/chapitre-486-eos-tithonos-aurore-immortalite-vieillesse-sappho-memnon-iconographie/).
+- Approche méthodologique du mythe : [/mythologie-grecque/](/mythologie-grecque/).
+
+Ces liens sont destinés à faciliter une lecture transversale sans renuméroter, recopier ni modifier les études existantes.
+
+### 29. Bibliographie scientifique et sources primaires commentées
+
+**Sources antiques conservées**
+
+- **Hésiode**, *Théogonie*, 371–374. Généalogie de Théia, Hypérion, Hélios, Séléné et Éôs ; aucune narration complète d'Endymion. Texte consultable : https://www.theoi.com/Text/HesiodTheogony.html .
+- **Hymne homérique** 32, à Séléné. Caractère cosmique de la déesse, sa lumière et sa fille Pandia ; ne raconte pas le sommeil d'Endymion. Texte : https://adfonteslibrary.org/work-homeric-hymns .
+- **Pseudo-Apollodore**, *Bibliothèque*, I, 7, 5–6. Généalogie éléenne, possibilité d'une filiation zeusienne, amour de Séléné et choix du sommeil perpétuel. Texte : https://www.theoi.com/Text/Apollodorus1.html .
+- **Pausanias**, *Description de la Grèce*, V, 1, 3–5. Dynastie éléenne, course successorale, variantes des épouses et des enfants, tombeau en Élide, honneurs et *adyton* au Latmos. Texte : https://www.theoi.com/Text/Pausanias5A.html .
+- **Théocrite**, *Idylles*, III, 48–51. Envie de l'invariable sommeil d'Endymion ; contexte pastoral et érotique. Texte : https://adfonteslibrary.org/work-theocritus-idylls .
+- **Apollonios de Rhodes**, *Argonautiques*, IV, 57–65. Discours de Séléné sur Endymion et Médée ; stratification de l'ironie et de l'amour. Texte et traduction : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0001.tlg001.coleridge1889-eng2/card:4.57/ .
+- **Lucien**, *Dialogues des dieux*, dialogue Aphrodite–Séléné, 19 (11 selon l'édition). Portrait du dormeur et scène de désir. Texte : https://www.theoi.com/Text/LucianDialoguesGods1.html .
+- **Cicéron**, *Tusculanes*, I, 92. Sommeil et expérience de l'insensibilité ; comparaison avec la mort. Texte : https://www.attalus.org/cicero/tusc1B.html .
+- **Pline l'Ancien**, *Histoire naturelle*, II, 43. Rationalisation de l'amour lunaire en observation des phénomènes de la Lune. Texte : https://topostext.org/work.php?work_id=148 .
+- **Scholies à Apollonios**, IV, 57. Traditions indirectes concernant Sappho, Nicandre et les explications du sommeil ; vérifier les éditions et le statut de chaque fragment avant toute citation grecque.
+
+**Études modernes**
+
+- **Michael Koortbojian**, *Myth, Meaning, and Memory on Roman Sarcophagi*, Berkeley et Los Angeles, University of California Press, 1995. Recherche centrale sur les représentations d'Endymion, les stratégies figuratives et la mémoire funéraire : https://publishing.cdlib.org/ucpressebooks/public/book/myth-meaning-and-memory-on-roman-sarcophagi.html .
+- **Paul Veyne**, *Les Grecs ont-ils cru à leurs mythes ? Essai sur l'imagination constituante*, Paris, Éditions du Seuil, 1983. Méthode de lecture des régimes historiques de croyance, sans prétention à une analyse directe du présent manuscrit. Compte rendu : https://www.persee.fr/doc/rhr_0035-1423_1985_num_202_2_2748 .
+- **Jean-Pierre Vernant**, *L'individu, la mort, l'amour. Soi-même et l'autre en Grèce ancienne*, Paris, Gallimard, 1989. Cadre théorique pour la distance entre mortels et dieux et l'expérience de la mort. Référence : https://books.google.com/books/about/L_individu_la_mort_l_amour.html?id=7Ef4OgAACAAJ .
+- **Oxford Classical Dictionary**, entrée « Endymion », pour la synthèse des traditions et le signalement des scholiastes ; les notices accessibles ne dispensent pas de consulter les fragments dans leurs éditions : https://academic.oup.com/edited-volume/61673/chapter-abstract/548754008 .
+
+**Collections et notices institutionnelles**
+
+- Metropolitan Museum of Art : https://www.metmuseum.org/art/collection/search/254590 ; https://www.metmuseum.org/art/collection/search/251474 .
+- J. Paul Getty Museum : https://www.getty.edu/art/collection/object/103T3V .
+- INHA / AGORHA, Louvre Ma 1335 : https://agorha.inha.fr/ark:/54721/7277d62a-8470-4576-a62e-c0beeda98254 .
+
+### 30. Conclusion
+
+Le dossier Endymion ne raconte pas « la » légende d'un beau berger que la Lune aurait simplement condamné à dormir. Les témoins conservés présentent un ancêtre royal de l'Élide, un homme à la filiation discutée, un favori de la déesse, un occupant sacralisé du Latmos et un personnage dont le sommeil sert à penser, dans les œuvres grecques et romaines, la durée, le désir et la mort. La généalogie, le déplacement, l'honneur local et le monument funéraire ne se fondent pas dans une chronique biographique cohérente.
+
+Une méthode universitaire doit conserver les contradictions : Pausanias reconnaît deux géographies ; Apollodore fait du sommeil un choix ; Cicéron le reprend pour l'argumentation sur l'insensibilité ; Pline relit l'amour comme observation de l'astre ; les sarcophages en tirent un langage visuel de mémoire. Ce sont des transformations documentables, non les étapes obligatoires d'une vérité cachée.
+
+Séléné, enfin, n'est jamais seulement une figure secondaire dans le destin du jeune homme : sa course, son regard, sa voix et son désir structurent les épisodes où Endymion n'agit plus. La mythologie grecque montre ici non un simple rêve d'immortalité mais le coût paradoxal de l'immobilité. La jeunesse préservée n'est pas nécessairement la vie vécue ; l'image du repos peut consoler les vivants tout en rappelant que les mortels n'ont pas la durée des dieux.
+
+*Fin de la monographie scientifique. Manuscrit destiné à la file éditoriale MYTHOS, collection encyclopedie. Toute numérotation canonique, publication HTML ou validation HTTPS ultérieure requiert un reçu GitHub Actions et un contrôle du site public.*

@@ -1533,6 +1533,108 @@
           "path": "chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire.md",
           "request_sha256": "1ac2f4877687b711b63f86d3ced1ffc038a71454348b33fe4f1495924a9e95c4",
           "initial_source_sha256": "c45e2ccdbe8a3e5ef409250dec6a13486a7ad46c7433d637c8dd30354419fe74"
+        },
+        "1a41e32e-7892-4b6b-8e92-1eb24f0cb164": {
+          "number": 828,
+          "path": "chapitres/origines-du-sacre/828-bandurria-huaura-places-circulaires-monticules-sepultures-preceramique.md",
+          "request_sha256": "bc5711996419377bd651c0baca0225036ad7cc42101971564291457485beab54",
+          "initial_source_sha256": "60f4a964759dd77da1e4f1df57659141c89dbb118ee411588818a3b8cbeb33b2"
+        },
+        "31e4a73b-7c98-40c6-9c52-a0d1e7c18b52": {
+          "number": 829,
+          "path": "chapitres/origines-du-sacre/829-oxtotitlan-guerrero-grotte-peintures-c1-c2-oxalates-jaguar-patrimoine.md",
+          "request_sha256": "f09bb6b2908e8a86e3e182cc201a02d0e1e6643ba87c2dd6bd3055afc0785c40",
+          "initial_source_sha256": "3529756e701a9cb8186b10811d5c41e6ca745da846b3852f83c42c1141e697b8"
+        },
+        "45da7e0c-6b91-461f-b762-202611071850": {
+          "number": 830,
+          "path": "chapitres/origines-du-sacre/830-lapaha-tonga-langi-tombes-tu-i-tonga-megalithes-memoire-souverainete.md",
+          "request_sha256": "6972444b0d42ba4efb97e4c23e2f977cea2e471a2d2822c5772909ef33907ecd",
+          "initial_source_sha256": "c1ff5dea40a3bc50a68ab515d0e1eaa0fa59ffa0efbd29ee326440be43409f34"
+        },
+        "4f7c21ba-1f1c-4874-a9a6-2e3c7041d859": {
+          "number": 831,
+          "path": "chapitres/origines-du-sacre/831-cerro-lampay-fortaleza-festins-chantier-shicras-fermeture-rituelle.md",
+          "request_sha256": "a2aabbf47fe11ef7c48001077943a7cf937649fac57a40dedb47b41a26afcd61",
+          "initial_source_sha256": "784855c380eec8b0bca9f341001cc8581556bd4d171260e4e824de1e4b2296de"
+        },
+        "5041dcbb-6836-480d-bb73-d0a49a52f0aa": {
+          "number": 832,
+          "path": "chapitres/origines-du-sacre/832-el-paraiso-chillon-preceramique-monumental-coton-peche-foyers-patrimoine.md",
+          "request_sha256": "bc1adf8bc09a7c34f38bc1b20621a2a6ffffaf94dfd4e961058e8a84e1f5548c",
+          "initial_source_sha256": "59094c1e8068e778a5708e3cc357fa197afa171353b59ec93b8580f95681340e"
+        },
+        "52d0a83e-2702-4e85-a5ad-3ca1f70e26b4": {
+          "number": 833,
+          "path": "chapitres/origines-du-sacre/833-la-venta-complexe-a-depots-massifs-offrande-quatre-tombes-debat.md",
+          "request_sha256": "83b034d25c52e0f44ccb0c868c5bab805ad2a6ab816a829fa6992d8ea9aace76",
+          "initial_source_sha256": "7d3a4db4e0b24151695435de0e6331e1b24dc5f4b52497d3626ac7481a76a5e4"
+        },
+        "59ac2e41-25ae-4d6b-a0c3-202611071816": {
+          "number": 834,
+          "path": "chapitres/origines-du-sacre/834-aspero-supe-huaca-idolos-sacrificios-sepultures-astronomie-2026.md",
+          "request_sha256": "a02336c56f99e5e2ffa7ea95b5dbd9916881b9ca9ec97b590443a209581563d3",
+          "initial_source_sha256": "00849ac394919501948d6c4c096d0606aeabf14d27575928e52bc855bfb0b368"
+        },
+        "7bd4c519-6a98-49e2-9c53-25f0da7e1e90": {
+          "number": 835,
+          "path": "chapitres/origines-du-sacre/835-chalcatzingo-morelos-el-rey-monuments-un-neuf-pluie-grottes-archives.md",
+          "request_sha256": "05a1d7746023a3ea060fc637a9a52209a8e26c7862d45f921d429ab3141c6d33",
+          "initial_source_sha256": "8379d71855b187c97b3da8b6f6987f161d0717f5353acfe7dc09bc683a98aa99"
+        },
+        "8e52e7bd-9e6a-4f64-994d-11b70e02e11a": {
+          "number": 836,
+          "path": "chapitres/origines-du-sacre/836-el-manati-veracruz-sources-bustes-bois-balles-caoutchouc-offrandes.md",
+          "request_sha256": "56e0e85097e2d2fe62f862d10602ac3f8c75bbd4e37c0ab5f052f1164a53cf6f",
+          "initial_source_sha256": "2176db6179fbfc0227df1cc7bcd491df4c7491eadbdfbada9f8155e18a791542"
+        },
+        "99bcaa68-5193-4c2f-9529-1619a5d1c903": {
+          "number": 837,
+          "path": "chapitres/origines-du-sacre/837-buena-vista-chillon-temples-calendaires-lumiere-astronomie-sacre.md",
+          "request_sha256": "718203e350429d69e08e63f82994706708df27dfcb084c2e9f90157a33dcdfff",
+          "initial_source_sha256": "9f0aca9f7eed83b8f7bb4f31060c1e05b0b0c5da28e1b187f02ca9c6aa8989e7"
+        },
+        "9fce4a75-770d-46df-b24d-d813de7bb3c1": {
+          "number": 838,
+          "path": "chapitres/origines-du-sacre/838-mina-perdida-vallee-lurin-metallurgie-precoce-or-cuivre-architecture-rituelle.md",
+          "request_sha256": "a400b0b51a1196a629d4921be456ee657e0f70d877b8dd897aafb34d1051d9c8",
+          "initial_source_sha256": "a9ee2bc6070b25d59b31717b97562dfec3b640720a5e34f7c0c85c154894cfe0"
+        },
+        "c71c4e9d-30ab-443e-91aa-202611071832": {
+          "number": 839,
+          "path": "chapitres/origines-du-sacre/839-poverty-point-louisiane-tertres-anneaux-places-echanges-rituels-chronologie.md",
+          "request_sha256": "9c46e5d0bd3d1782f9454f7994f195999018f9ecc13dc099ead8495285b188d4",
+          "initial_source_sha256": "83f511a80261baa7591e8f5f88c8be2b40fd8f8f7ca2c4593334e32679e885cc"
+        },
+        "d3d7a62f-83fc-4d75-b1bb-624a4b7eadc7": {
+          "number": 840,
+          "path": "chapitres/origines-du-sacre/840-cardal-vallee-lurin-places-circulaires-atrium-crocs-reconstructions.md",
+          "request_sha256": "7f4a35ecd7b57862dd685f2389aad39c7df070caefe904f206e38a02bfa88951",
+          "initial_source_sha256": "d4f50afcdb22f2def207a709f223d2ab8766866e9f6dfa0c453c9e983007660e"
+        },
+        "de814a9f-7c3b-4bae-8fd1-202611071818": {
+          "number": 841,
+          "path": "chapitres/origines-du-sacre/841-huaca-prieta-chicama-pleistocene-monticule-textiles-indigo-sepultures.md",
+          "request_sha256": "48c60ec85d2a1c30e18134413db7371f11db53422631edab20bbc5e3f257be6e",
+          "initial_source_sha256": "a1b0725c6535d0443650615183f60bfa4565a6eb5190792e428771d825acc2cd"
+        },
+        "e6ca3084-cf46-4aac-9f82-6ac42ca1a4ad": {
+          "number": 842,
+          "path": "chapitres/origines-du-sacre/842-bandurria-huaura-preceramique-monticules-plaza-circulaire-figurines-menages.md",
+          "request_sha256": "e2507d587a046af30059316784e14a3ea36cb7ece13b6c8190e8e733d9ee22e7",
+          "initial_source_sha256": "990186a3f71a8f543914ccbcf323a724e1cdafd099fedf20f58fb6f26ff43c70"
+        },
+        "f0469c2a-96ce-4e75-8bd3-202611071831": {
+          "number": 843,
+          "path": "chapitres/origines-du-sacre/843-watson-brake-louisiane-tertres-archaique-moyen-subsistance-espaces-collectifs.md",
+          "request_sha256": "d014c8be8e8ee531e4878c6180cf499a1ff48a48ee3389b5d803c21ee6e72ba3",
+          "initial_source_sha256": "4d287edd819a4846d6d794dde303ebe4260026ffe91df09aeb2b0fa298b3a016"
+        },
+        "f41a56bc-8f31-4a4b-a9f4-202611071847": {
+          "number": 844,
+          "path": "chapitres/origines-du-sacre/844-teouma-vanuatu-lapita-necropole-cranes-oiseaux-ceramiques-migrations.md",
+          "request_sha256": "a9b069ba8a5f97becdf8d7b11e30d592c0e854ffef442420a2686495783d96da",
+          "initial_source_sha256": "c97fecc0ed76960f71d9e161841972a79ecc9755c651093729cc2834a7ee1f78"
         }
       }
     },
@@ -2404,6 +2506,36 @@
           "path": "chapitres/encyclopedie/chapitre-492-harpyes-thaumas-electre-phinee-boreades-strophades-pandareos-virgile-iconographie.md",
           "request_sha256": "47dbf03c718aa9a614af8da2e529b81c28a1bbd0376fc79cbfe28dda44319365",
           "initial_source_sha256": "ae294ec716739b34105f88ab9c9aa6dcbafed84582a023e8022e4cf3d568bf24"
+        },
+        "14e0d3e9-c3d4-4d9f-871a-f0f8761b1c93": {
+          "number": 493,
+          "path": "chapitres/encyclopedie/chapitre-493-selene-endymion-latmos-elide-sommeil-immortalite-sarcophages.md",
+          "request_sha256": "c869b187ded38463d2bf8162841bd1c3d5e501b9ece21413cfc292a6898b59c8",
+          "initial_source_sha256": "ddcdaf44365d171540ef5a381acadf8bbf144e65f6326d7ffe696e43d114a260"
+        },
+        "7e31bda4-6229-4f67-87a0-58af7e4296c1": {
+          "number": 494,
+          "path": "chapitres/encyclopedie/chapitre-494-ophion-eurynome-pherecyde-syros-orphee-cosmogonies-avant-cronos.md",
+          "request_sha256": "f0cfb14f24c57130ae126108b3f90e0928563835ebb94203f2588fbbb0694b64",
+          "initial_source_sha256": "4cb37897f00909cd9a43a0536587dc8da33dcb2a0f9986d85be1a22be8f99cba"
+        },
+        "8bc7dc32-ea91-4f2a-b375-202611071852": {
+          "number": 495,
+          "path": "chapitres/encyclopedie/chapitre-495-aphrodite-paphia-palaipaphos-kouklia-wanassa-betyle-kinyras-agapenor-sanctuaire.md",
+          "request_sha256": "7840d0842921641327b396b38f0b45b0e114a2811c41cb151132d84a9b3f7523",
+          "initial_source_sha256": "30631d2693709e25e4a49d56a670bcb0efe161f6e4d0412582490482744dd374"
+        },
+        "b63c32df-88be-4c1d-a4e8-0e0aabe62e91": {
+          "number": 496,
+          "path": "chapitres/encyclopedie/chapitre-496-phaethon-eos-cephale-helios-clymene-char-solaire-heliades-eridanus-platon.md",
+          "request_sha256": "b234625950feb5e4ffa3c66548bc5f727674b3c6a648342897cc422c93a48ff6",
+          "initial_source_sha256": "9bf28983cd73ec38f5ebc80d2d1decdc03aea2d494131af891389e07550c8096"
+        },
+        "c96c3f6b-8b46-4cc2-a6df-f1b91b37e4f0": {
+          "number": 497,
+          "path": "chapitres/encyclopedie/chapitre-497-daphnis-sicile-theocrite-chant-bucolique-nymphes-amour-mort.md",
+          "request_sha256": "b97e8de8d5428cc8630f62222e2298480ddec71da48c16b20695c47466593bbc",
+          "initial_source_sha256": "bd3513b7a6b023f3c2d9301bf64b6f7d94979b744fe6a5f27591aaed0fd1e5df"
         }
       }
     },
@@ -3052,6 +3184,18 @@
           "path": "chapitres/comedies/volume-156-callias-grammatike-tragodia-tragedie-lettres-alphabet-choros.md",
           "request_sha256": "8446f414c1287d6f4cb67ac3bf1350e73277b64fcfebd507a90c6e9ae98550e7",
           "initial_source_sha256": "ecf72c9cf2699d34858f9417b0ba3267ec87779cc95868dace2d746ab81d7818"
+        },
+        "3c81ab20-91ce-41b7-9e32-7f6a29d4c8eb": {
+          "number": 157,
+          "path": "chapitres/comedies/volume-157-menandre-karchedonios-carthaginois-citoyennete-mariage-reconnaissance.md",
+          "request_sha256": "09a3edcb2e22f57a75fba75a9ead7240040589c59e6ff8454fdea23c5eb1fd31",
+          "initial_source_sha256": "8676b07468d9daebd7c2e79449008a7014b232ee067ebb22917b88ace88f9c90"
+        },
+        "c28bd1d4-6eaf-4d91-85a7-e3a42b5f9610": {
+          "number": 158,
+          "path": "chapitres/comedies/volume-158-epicharme-bousiris-heracles-egypte-sacrifice-hospitalite-gloutonnerie.md",
+          "request_sha256": "48a9f95cf7b10ad3cc26b06f35637653802daa3833953bfa4e76569ea7d7ae09",
+          "initial_source_sha256": "1f979b6c6516b18e33f5eaa2e2be2bcbb9c61c3eca6336f7d2c62f0fe541fffd"
         }
       }
     },
@@ -3766,6 +3910,12 @@
           "path": "chapitres/tragedies/volume-cccii-iophon-telephe-telephos-auge-mysie-achille-guerison-oracle-tragedie-perdue.md",
           "request_sha256": "f11991930507b713e318afa048f00a3fb4cfbb1d21a3c42a5dd94f56024eeffb",
           "initial_source_sha256": "a343e8095fc007a890b2cb3b45dc50a434340a05fb0666414f2f576e83d19895"
+        },
+        "c2ec9b33-8a15-4d6c-9e71-09271fba0a4a": {
+          "number": 303,
+          "path": "chapitres/tragedies/volume-ccciii-melanthios-melanthius-medee-medea-aristophane-paix-monodie-attribution-morsimos.md",
+          "request_sha256": "c7190dee5c1b386169c28624940e72af7113be4d4a905642f3b8dd99caa532f4",
+          "initial_source_sha256": "8fe38dd5b7dced4be5ea0b35e9006e83dd6b1dc032473d51932f5ab376cdf7bd"
         }
       }
     },
@@ -5077,6 +5227,30 @@
           "path": "chapitres/comparatif/volume-ccclix-mc-132-cheval-sacre-sacrifice-souverainete-serment-grece-rome-inde-scythes-chine.md",
           "request_sha256": "697564f314cb0a6621e1ba154ff3cd57d135b85265dd04c34537cf58a779f3ca",
           "initial_source_sha256": "9d992f6c159f5d2ab8491328fa10662541d78631dd2d55eb64bff605f7018f9a"
+        },
+        "5c135b9d-2b47-44ba-a935-202611071855": {
+          "number": 360,
+          "path": "chapitres/comparatif/volume-ccclx-mc-135-echelles-du-sacre-ascension-descente-pyramides-bethel-mithra-sankassa.md",
+          "request_sha256": "e53621fef51877875aa870a9e0659a32ddf55ccc0657b9dfffbce23de039d074",
+          "initial_source_sha256": "709d53c9360afa9cc1613784a4bbeafd28f2ccf09f0777a7035d2f7c88ff5a07"
+        },
+        "a0ce1340-74b1-4a3d-8e05-202611071829": {
+          "number": 361,
+          "path": "chapitres/comparatif/volume-ccclxi-mc-134-mains-du-sacre-gestes-priere-investiture-dexiosis-mudra-kotosh.md",
+          "request_sha256": "bf88085d3362b30fc48a091b3798ffc73e0f2e2707f99b125dd2de260f1d1cb6",
+          "initial_source_sha256": "f3f6667e7cb2598a43f2e2d083b55eda3936ecd4db4e1c4d71385cc9c583dbaf"
+        },
+        "ea133b1c-6c54-4b89-a622-202611071751": {
+          "number": 362,
+          "path": "chapitres/comparatif/volume-ccclxii-mc-133-oeuf-cosmique-nuit-eros-chandogya-pangu-kalevala-egypte.md",
+          "request_sha256": "2b7d41830cfd8837378296105ddb5095abc32e5164eb28a0ba4eddda5aa46cbe",
+          "initial_source_sha256": "98167cdb5cba7c51b1745f19cba6b77bfda012f36fdc3a215a1c0c25326cb7c9"
+        },
+        "f6d0c55e-815a-4b98-b7d6-c32589020ba2": {
+          "number": 363,
+          "path": "chapitres/comparatif/volume-ccclxiii-oiseaux-ailes-parricide-cinesias-sycophante-normes-pouvoirs-414.md",
+          "request_sha256": "86167fbf53427122ac7e54c4111e3f3c89d5ab988f3b17aa562b95df06f51c39",
+          "initial_source_sha256": "74b57c065c5e6c9be3373795dab89ae2e042bcfd7567306a7eb2f03e0991a7d0"
         }
       }
     }
