@@ -1,0 +1,461 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXCI (291)
+
+# Ion de Chios, *Phénix ou Cénée* (Φοῖνιξ ἢ Καινεύς) : métamorphose, invulnérabilité et épreuve du nom tragique
+
+**Monographie universitaire de philologie, histoire de la tragédie, mythologie grecque, philosophie et histoire de la réception.** Dossier d'une œuvre perdue attribuée à Ion de Chios, Ve siècle avant notre ère. Texte public intégral destiné à la file transactionnelle de MYTHOS ; aucun numéro de volume n'est anticipé. État des sources consultées : 7 novembre 2026.
+
+**Auteur :** Ion de Chios, Ἴων ὁ Χῖος (auteur tragique et écrivain polymorphe du Ve siècle av. J.-C.).  
+**Œuvre :** Φοῖνιξ ἢ Καινεύς, usuellement *Phénix ou Cénée* ; la concordance signale une conjecture concurrente **Οἰνεύς ?** (« Œnée ? »).  
+**État de conservation :** pièce perdue, connue par un titre transmis et de courts fragments cités ou enregistrés dans des compilations anciennes.  
+**Corpus critique examiné :** FragTrag.1 (Université de Patras), Ion fr. **41–48**, correspondant à TrGF I, Ion **F 38, 36, 37, 39, 40, 41, 41a et 41b**, dans cet ordre de concordance. Ces nombres sont des références *scientifiques* et non des numéros éditoriaux MYTHOS.  
+**Distinction impérative :** ne pas fondre cette pièce avec *Φοῖνιξ Bʹ* (« Second Phénix »), classé séparément par FragTrag.1, ni avec les *Phénix* d'autres dramaturges, ni avec un dossier mythologique général sur Cénée.  
+**Hypothèse directrice :** les fragments ouvrent des possibilités d'interprétation sur la vulnérabilité, la transformation et les limites de la maîtrise humaine ; ils ne permettent pas de choisir définitivement le sujet de l'intrigue ni d'en restituer des scènes.
+
+---
+
+## I. Préambule : ce que signifie publier scientifiquement une tragédie perdue
+
+Certaines tragédies antiques existent encore comme textes lisibles, d'autres comme inscriptions de titres et citations disjointes. *Phénix ou Cénée* appartient au second groupe. La matière conservée ne donne ni argument ancien complet, ni liste assurée de personnages, ni indication certaine de chœur, ni succession d'épisodes, ni didascalie permettant d'identifier une représentation déterminée. Un lecteur moderne peut pourtant retrouver une œuvre *historique* : sa présence dans un corpus d'auteur, la diversité de ses témoins, des morceaux de son langage, des difficultés d'attribution et un ensemble d'hypothèses que l'on peut tester.
+
+L'objectif n'est donc pas de produire la fiction d'une pièce retrouvée, mais une *monographie de l'incertitude*. Le titre doit être lu comme un témoin ; le fragment comme un énoncé dépendant de son transmetteur ; le mythe comme un répertoire de variantes, pas comme le résumé de la pièce. Les analogies entre ces ensembles ne deviennent pas automatiquement des faits sur la scène antique.
+
+Pour préserver la distinction des statuts, cette étude emploie quatre marqueurs méthodologiques dans l'argumentation : **[A] attesté** dans une source identifiée ou dans une concordance vérifiée ; **[B] interprétation** philologique ou historique défendable mais révisable ; **[C] reconstruction** dramaturgique explicitement hypothétique et dépourvue de dialogue inventé ; **[D] réception** postérieure ou rapprochement comparatif qui renseigne sur une tradition, non directement sur la pièce du Ve siècle.
+
+Cette discipline importe particulièrement quand le récit de Cénée, métamorphosé et réputé invulnérable, attire des lectures philosophiques contemporaines. La puissance de ce récit ne remplace jamais la démonstration de sa présence dans chaque fragment d'Ion.
+
+## II. Auteur, époque et dossier de transmission
+
+Ion de Chios appartient au monde intellectuel et théâtral de la seconde moitié du Ve siècle avant notre ère. Les témoignages antiques lui attribuent poésie lyrique, compositions dramatiques et écrits en prose. La *Souda*, notice ι 487, conserve un portrait biographique tardif, incluant le début de l'activité tragique à la 82e olympiade et des décomptes concurrents de ses pièces. La variation même des chiffres transmis interdit de convertir la notice en catalogue de production parfaitement assuré.
+
+Le texte dramatique d'Ion est très fragmentaire. La difficulté n'est pas seulement matérielle. L'auteur a pratiqué plusieurs genres et les compilateurs citent souvent une expression parce qu'elle intéresse un lexicographe, un grammairien ou un convive érudit, et non parce qu'elle est capitale pour l'action dramatique. Une citation d'Athénée peut révéler une image de la langue du poète tout en laissant entièrement inconnues sa place et sa fonction dans l'intrigue.
+
+Le répertoire traditionnel distingue notamment *Agamemnon*, *Alcmène*, *Les Argiens*, *Les Eurytides*, *Laërte*, *Le Grand Drame*, *Omphale* satyrique, *Teucros*, *Phénix ou Cénée*, *Second Phénix* et *Les Gardiens*. L'ordre présent sert à la concordance éditoriale, non à une chronologie antique des représentations. Rien ne permet de faire du titre qui suit dans une liste le spectacle qui aurait été joué l'année suivante.
+
+La documentation antique sur l'auteur doit être mise en série avec la critique moderne : l'édition des *Tragicorum Graecorum Fragmenta* (*TrGF*), l'ancienne édition de Nauck et la concordance numérique FragTrag.1. Pour la trajectoire intellectuelle d'Ion, le volume collectif de Victoria Jennings et Andrea Katsaros, *The World of Ion of Chios* (Brill, 2007), aide à replacer les fragments dans une œuvre multidisciplinaire sans effacer les différences de genre.
+
+## III. Continuité dans MYTHOS : œuvre distincte et attente de publication
+
+Dans la collection MYTHOS, la présente étude reprend le corpus d'Ion après le manuscrit déjà enregistré sur *Teucros*. Ce dernier demeure une livraison distincte sous son propre identifiant de file ; une absence de reçu n'autorise ni à la redéposer ni à réserver un numéro par anticipation. Les études d'Ion déjà attribuées ou en attente ne doivent pas être republiées sous un nouvel intitulé. La présente monographie se concentre exclusivement sur *Φοῖνιξ ἢ Καινεύς*.
+
+La pièce ne doit pas être confondue avec la notice générale consacrée au héros Cénée dans l'encyclopédie mythologique : raconter un personnage et analyser les témoins d'une tragédie perdue ne produisent pas le même objet éditorial. De même, le *Phénix* d'Euripide et le *Phénix* de Sophocle ne permettent pas d'attribuer automatiquement à Ion leurs dialogues, leur conflit ou leurs identifications.
+
+Le présent document conserve volontairement les variables **CCXCI** et **291** dans sa seule désignation éditoriale. Seul le mécanisme d'attribution de GitHub Actions, après contrôle de la branche réelle et production d'un reçu, décide du numéro. Les références de fragments, de livres antiques et de volumes historiques restent littérales.
+
+## IV. Établissement du titre : Φοῖνιξ ἢ Καινεύς, avec réserve Οἰνεύς ?
+
+**[A]** Dans FragTrag.1, l'œuvre est la neuvième entrée du répertoire d'Ion et reçoit le titre **Φοῖνιξ ἢ Καινεύς** ; la colonne de concordance avec TrGF I ajoute **vel Οἰνεύς?**, soit une possibilité conjecturale « Œnée ? ». Cette ponctuation interrogative est décisive : il serait inexact de présenter Œnée comme un personnage certain de la pièce, de même qu'il serait imprudent d'écarter la variation comme insignifiante.
+
+Le mot grec *ἢ* signifie ici « ou ». Un double intitulé peut résulter de titres alternatifs, d'une hésitation dans les catalogues ou d'une transmission complexe. Il ne permet pas, à lui seul, de reconstituer un drame à deux héros ni une structure en deux parties. Le titre préserve une question plus qu'il ne livre un synopsis.
+
+Le premier terme, *Φοῖνιξ*, est polysémique dans l'univers grec. Il peut désigner le Phénix héroïque qui apparaît dans la tradition troyenne ; le nom se rencontre aussi dans les généalogies relatives à la Phénicie ; le mot nourrit enfin, selon des traditions et époques différentes, l'histoire de l'oiseau merveilleux. Choisir entre ces champs suppose de contrôler les indices spécifiques de la pièce. La simple coïncidence linguistique n'établit aucune identité de personnage.
+
+Le second terme, *Καινεύς*, renvoie, si l'on conserve cette leçon, au héros lapithe Cénée, célèbre pour son changement de condition corporelle et son invulnérabilité. Si la variante *Οἰνεύς* devait être préférée, on se trouverait au contraire dans le champ d'Œnée, du sanglier de Calydon et des généalogies de Méléagre. Cette alternative modifie profondément les reconstructions admissibles. Une étude honnête doit la maintenir ouverte tant que les témoins critiques ne l'ont pas close.
+
+**[B]** Il est tentant de voir dans « Phénix ou Cénée » une réflexion antique sur le renouveau, la forme et la survie. Cette idée peut orienter une lecture comparée ; elle ne constitue pas un renseignement tiré du titre. « Phénix » n'est pas automatiquement l'oiseau renaissant et « Cénée » n'est pas automatiquement un personnage visible dans une scène conservée.
+
+## V. Concordance critique, référence par référence
+
+La concordance en ligne **FragTrag.1**, sous le nom d'Ion, distingue **huit** unités pour cette œuvre. Il est essentiel de ne pas prendre le nombre le plus élevé pour un vers de la pièce ou pour une succession dramatique. Il s'agit d'indices éditoriaux modernes.
+
+| FragTrag.1, Ion | TrGF I, Ion | Observations de méthode |
+|---|---|---|
+| fr. **41** | **F 38** | Passage associé à l'opposition imagée du lion et du hérisson ; l'ordre des éditions diffère |
+| fr. **42** | **F 36** | Traces d'images concernant un corps, des liens ou des formes changeantes ; contexte inconnu |
+| fr. **43** | **F 37** | Invocation aux puissances des portes ou du seuil ; locuteur non identifié |
+| fr. **44** | **F 39** | Allusion musicale à un air lydien ; aucune scène de musique attestée |
+| fr. **45** | **F 40** | Énumération ou combinaison d'objets et de matières ; interprétation délicate |
+| fr. **46** | **F 41** | Formulation à portée réflexive sur la vie d'un homme ; interlocuteurs incertains |
+| fr. **47** | **F 41a** | Très bref élément lexical ; impossible de lui attribuer une situation |
+| fr. **48** | **F 41b** | Expression fragmentaire relative à une action menée ouvertement et à son évaluation |
+
+**[A]** Cette table est la correspondance telle qu'elle apparaît dans la concordance de l'Université de Patras : le fr. 41 de FragTrag correspond à F 38 de TrGF, puis le fr. 42 à F 36, etc. L'ordre n'est donc pas un ordre *narratif*. Le glissement 38 → 36 → 37 n'est pas un saut d'œuvre mais un classement éditorial.
+
+**[A]** FragTrag distingue ensuite *Φοῖνιξ Bʹ*, appelé « Second Phénix », avec des entrées séparées fr. 49–50 (= TrGF I F 42–43). Les frr. 49–50 ne sont donc pas ajoutés à la présente série comme si elle se poursuivait sans changement de titre. Le dossier des *Gardiens* commence encore après. Ces frontières sont une condition de l'absence de doublon.
+
+**[A/B]** Une transcription numérique secondaire de fragments d'Ion, qui reprend la numérotation traditionnelle, rend visibles plusieurs syntagmes associés aux F 36–41b. Elle fournit un moyen de confronter les thèmes apparents ; elle ne remplace pas l'apparat critique de *TrGF* pour les variantes, les lacunes, les restitutions ou l'établissement définitif de la leçon. Les transcriptions présentant des signes d'édition ou des artefacts numériques ne sont pas ici normalisées en vers nouveaux.
+
+La chaîne de preuve est donc triangulaire : auteur et œuvre dans les catalogues, concordance scientifique de numérotation, témoins antiques explicitement identifiés. En l'absence d'accès à chaque apparat manuscrit, aucune leçon conjecturale n'est promue au rang de citation grecque assurée.
+
+## VI. Athénée : l'archive d'une tragédie citée hors du théâtre
+
+**[A]** Les *Deipnosophistes* d'Athénée conservent plusieurs mentions associées au titre *Φοῖνιξ ἢ Καινεύς*. Les index du *Digital Athenaeus*, qui reprennent les outils de Meineke et Kaibel, signalent notamment les renvois **III, 91d–e**, **IV, 184f** et **X, 451d–e**. Ils distinguent aussi la mention « dans *Phénix* » en **VII, 318d–e** et « dans le *Second Phénix* » en **IV, 185a**.
+
+Ces références ne sont pas une table de scènes. Athénée choisit des citations selon l'objet de ses conversations savantes : nourriture, musique, usages, mots remarquables. Les critères de sélection de l'auteur impérial sont différents de ceux d'un ancien spectateur athénien. Une observation gastronomique, musicale ou zoologique peut apparaître dans la source parce qu'elle intéresse le compilateur, indépendamment de la place qu'elle occupait dans le drame.
+
+**[B]** Le danger serait d'organiser toutes les mentions d'Athénée en « exposition, conflit, dénouement », comme si l'ordre des livres III, IV et X reflétait celui de la représentation. Cet ordre est celui d'une encyclopédie littéraire tardive. Même une formule expressive n'autorise pas à déterminer le personnage qui la prononçait, encore moins le geste accompli sur scène.
+
+La distinction entre **IV, 184f** et **IV, 185a** est particulièrement importante. Les deux références sont voisines chez Athénée, mais la seconde désigne expressément le *Second Phénix*. Leur proximité de pagination ne permet pas la fusion des deux œuvres. C'est précisément ce genre de confusion que la numérotation par œuvre doit prévenir.
+
+## VII. Le fr. 41 FragTrag = F 38 TrGF : la prudence du hérisson et la force du lion
+
+**[A]** Parmi les traces attribuées au dossier figure un développement comparant le lion et le hérisson. Dans la transcription secondaire contrôlée, le locuteur préfère les ressources défensives du hérisson à la puissance du lion : devant un adversaire supérieur, l'animal se replie sur lui-même et présente une enveloppe de pointes. La formulation exacte dépend de l'édition ; la présente monographie en donne une **paraphrase** et non une nouvelle restitution grecque.
+
+La structure argumentative est remarquable. La valeur ne se réduit pas à la capacité d'attaquer. La sécurité peut venir de la maîtrise de soi, de la lecture de la force opposée, de l'usage d'une faiblesse apparente. L'exemple met en tension le prestige héroïque du lion et la tactique d'une créature moins imposante. Mais la sentence peut être sérieuse, ironique, satyrique ou polémique : le fragment, isolé, ne tranche pas.
+
+**[B]** Dans l'hypothèse où Cénée serait au centre du drame, un rapprochement se propose : l'invulnérabilité n'exclut pas le désastre. Le héros qu'aucune arme ne peut entamer peut périr enseveli sous le poids des arbres ; le hérisson, lui, se protège précisément en se repliant. Cette opposition entre défenses du corps est intellectuellement féconde. Elle ne démontre pourtant pas que le lion représenterait Cénée ou que le hérisson figurerait son adversaire.
+
+**[B]** Une autre lecture voit dans l'image une critique politique du courage ostentatoire. L'homme qui sait éviter la violence inutile possède une compétence civique que le guerrier impatient n'a pas toujours. Pour argumenter dans cette direction, il faudrait des informations sur le locuteur et le contexte du passage. En l'absence de tels témoins, on doit parler de *portée possible*, non de « morale de la pièce ».
+
+La comparaison animale montre ainsi la puissance et la pauvreté documentaire des fragments. Elle conserve une forme de raisonnement ; elle a perdu son théâtre.
+
+## VIII. Le fr. 42 = F 36 : liens, changement et corps difficile à saisir
+
+**[A]** Le dossier traditionnel F 36 contient des éléments lexicaux associés à la pierre, à des liens ou réseaux non sanglants, à un être qualifié de changeant et à l'image d'un animal à plusieurs pieds. Les transcriptions courantes suggèrent un vocabulaire de la capture et de la mobilité. Ces éléments ne suffisent pas à recomposer une période suivie dont toutes les transitions seraient sûres.
+
+**[B]** Une lecture possible rapproche le motif du corps « changeant » des récits métamorphiques. Cependant, le poulpe et d'autres êtres marins servent couramment, dans la poésie grecque, d'images pour l'adaptabilité, la ruse, le déplacement ou la prise. Le passage peut relever d'une comparaison sans référence à une transformation de sexe. Identifier immédiatement le terme avec Cénée reviendrait à expliquer le fragment par le titre puis à prétendre prouver le titre par le fragment : un raisonnement circulaire.
+
+Un second point impose de la prudence : la violence. Les termes de liens « sans sang » pourraient évoquer une neutralisation non meurtrière ; ils pourraient aussi appartenir à une technique d'emprise, voire à une simple métaphore. Le fait qu'une métamorphose corporelle soit racontée dans des textes mythographiques n'autorise pas à chercher partout la même action.
+
+**[C]** Une reconstitution critique peut seulement envisager qu'un discours sur la force et la contrainte ait rencontré l'identité mouvante d'un héros. Il est exclu d'en fabriquer une scène où Poséidon imposerait une nouvelle condition corporelle au personnage : aucun tel dialogue n'est conservé dans ce fragment.
+
+## IX. Le fr. 43 = F 37 : dieux du seuil et portée possible d'une invocation
+
+**[A]** Une formule conservée invoque des dieux associés aux portes ou au seuil ; la transcription grecque rend notamment les éléments **θυρέτρων** (« des portes ») et **θεοί** (« dieux »). La forme indique une adresse religieuse, non l'identité du personnage. On ne peut certifier si l'adresse est une prière, un serment, une exclamation de surprise ou une interpellation ironique.
+
+Les seuils possèdent dans la tragédie une forte puissance dramaturgique : ils séparent le visible et le caché, l'intérieur familial et le regard public, l'inclusion et l'exclusion. Mais cette fonction générale ne saurait être appliquée mécaniquement à une œuvre perdue. Un fragment de seuil ne nous apprend pas que l'action se déroule devant un palais, pas plus qu'il ne prouve une scène de reconnaissance.
+
+**[B]** Dans un dossier intitulé « Phénix ou Cénée », la question de l'admission à une communauté peut cependant être une piste féconde. Le mythe de Cénée interroge la reconnaissance sociale d'une condition corporelle ; celui du Phénix homérique interroge la fidélité, la maison paternelle et l'exil. Le seuil serait compatible avec l'une comme avec l'autre, sans arbitrer entre elles.
+
+Nous obtenons une hypothèse de lecture, non un décor reconstitué : le seuil représente un point où les mots d'autrui définissent ou contestent l'appartenance.
+
+## X. Le fr. 44 = F 39 : musique, Lydie et altérité sonore
+
+**[A]** Un des morceaux transmis évoque un instrument à vent et un air lydien. Les index d'Athénée permettent de situer des citations du titre dans des livres différents des *Deipnosophistes*, mais ne livrent pas leur place scénique. La présence d'une référence à un *nomos* ou à une manière lydienne ne prouve ni un chœur étranger ni une représentation musicale déterminée.
+
+**[B]** En Grèce classique, l'appellation lydienne peut servir de repère musical, stylistique, culturel et parfois polémique. Interpréter une simple mention musicale comme indice d'un Phénix phénicien ou d'un sujet oriental serait une faute méthodologique. Lydie et Phénicie ne sont pas interchangeables ; leur proximité dans certaines représentations grecques de l'altérité ne les rend pas identiques.
+
+Il est plus solide d'observer que la tragédie perdue pouvait utiliser un langage où se croisent le chant et la couleur régionale. La même pluralité culturelle caractérise la carrière de l'auteur Ion, mais une telle correspondance de climat n'est pas une preuve de contenu narratif.
+
+Les débats modernes sur l'*ethos* des harmonies, ainsi que les jugements normatifs de Platon sur certains usages musicaux dans la *République*, deviennent pertinents comme analyses de réception philosophique. Ils ne permettent pas de reconstruire la mélodie du fragment.
+
+## XI. Le fr. 45 = F 40 : matières, objets et difficulté du commentaire
+
+**[A]** Le corpus traditionnel comporte un ensemble de mots renvoyant à des matières et à des objets, notamment au bois, à une verge ou à des produits liés au travail textile. Le passage nous est parvenu de façon assez fragmentaire pour que le commentaire doive distinguer désignation d'objet, possible comparaison et interprétation symbolique.
+
+**[B]** Ces réalités concrètes pourraient appartenir à un exposé sur la condition humaine, aux préparatifs d'une action, ou à une image sans fonction dans l'intrigue. La tentation d'y voir nécessairement les troncs avec lesquels les Centaures écrasent Cénée doit être repoussée : le vocabulaire du bois n'est pas une preuve de la scène de l'ensevelissement.
+
+Dans les tragédies conservées, la matière n'est pas neutre : pierre, vêtements, armes ou portes deviennent des objets de mémoire, de violence et de reconnaissance. Cette observation comparatiste rappelle ce que le fragment *pourrait* avoir rendu possible ; elle ne démontre pas ce qu'Ion a effectivement représenté.
+
+## XII. Le fr. 46 = F 41 : la vie humaine comme objet de jugement
+
+**[A]** La portion conservée fait entendre un conditionnel ou une précaution sur la capacité de « voir correctement » la vie d'un homme ; un vocatif civique est proposé dans certaines transcriptions. L'analyse doit conserver la possibilité d'un texte lacunaire et d'une ponctuation éditoriale. Qui parle ? À qui ? À quelle occasion ? Ces questions restent ouvertes.
+
+**[B]** C'est pourtant une des traces les plus philosophiquement denses du dossier. Au lieu de la victoire physique ou de la réputation, le locuteur évalue la possibilité même de porter un jugement juste sur un parcours humain. Ce thème traverse la poésie grecque : connaître la vie d'un homme exige plus que contempler son apparence présente. La notion de bonheur, la fortune, le renversement des situations et la fin d'une existence peuvent donner lieu à de telles évaluations.
+
+Mais il ne faut pas plaquer sur un morceau lacunaire l'ensemble de l'histoire de Solon et Crésus chez Hérodote, ni réduire le passage à une formule aristotélicienne anticipée. Une parenté de problème n'est pas une citation cachée.
+
+**[B]** Dans le cas de Cénée, l'idée d'une évaluation correcte pourrait toucher la distance entre apparence et histoire vécue. Dans le cas du Phénix homérique, elle pourrait concerner un homme éprouvé par l'exil et la fidélité. Les deux pistes demeurent rivales et ne peuvent être retenues simultanément comme des faits.
+
+## XIII. Les frr. 47 et 48 = F 41a–b : la granularité du vestige
+
+**[A]** Les deux dernières entrées de la série ont une étendue extrêmement limitée. L'une renvoie à l'ignorance ou à ceux qui ne savent pas ; l'autre laisse percevoir une référence à ce qui a été accompli ouvertement et à une appréciation favorable. On ne dispose pas d'éléments suffisants pour en identifier le genre de discours : déclaration personnelle, réponse, description, plainte ou formule sentencieuse.
+
+Leur intérêt tient précisément au fait qu'ils sont édités séparément. Les réunir en une réplique cohérente, parce qu'ils portent des numéros voisins, serait inventer un raccord absent de la tradition. Les chiffres modernes ne sont pas des marques d'énonciation antique. Ils classent des témoignages.
+
+**[B]** La tension entre action publique et jugement collectif peut intéresser une étude du héros et de la cité. Mais aucune thèse solide ne peut être fondée sur ces mots pris isolément. Leur degré de preuve est faible pour l'intrigue, fort pour l'existence d'une expression attribuée au corpus d'Ion dans l'histoire éditoriale.
+
+## XIV. Inventaire des témoins : ce qu'ils permettent et ce qu'ils interdisent
+
+L'archive d'une œuvre fragmentaire est stratifiée. Un texte de la fin de l'Antiquité peut citer un vers du Ve siècle ; un éditeur du XIXe siècle place cette citation dans une œuvre ; une concordance numérique du XXIe siècle l'inscrit dans une suite ordonnée. Chaque geste produit un type d'information différent.
+
+**[A]** **Athénée, *Deipnosophistes*, III 91d–e, IV 184f, X 451d–e** : témoins de citations ou d'attributions relatives à *Phénix ou Cénée* dans l'index consulté. **VII 318d–e**, sous l'appellation plus courte « Phénix », appelle une attention particulière à la répartition éditoriale. **IV 185a**, sous « Second Phénix », doit rester à part.
+
+**[A]** **Nauck, *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, 1889, p. 732–746 pour Ion** : étape ancienne de la tradition éditoriale, utile pour suivre le classement des titres et des fragments. Cette édition n'est pas identique à la numérotation TrGF I moderne.
+
+**[A]** **TrGF I, Ion = auteur 19** : numérotation de référence pour la correspondance F 36–41b. **FragTrag.1, Ion, frr. 41–48** : index moderne avec un classement documentaire explicite. Ces deux systèmes ne doivent pas être mélangés sans table de concordance.
+
+**[A/B]** **Transcriptions secondaires accessibles en ligne** : elles rendent visibles des termes et permettent des contrôles exploratoires, mais doivent être confrontées à une édition critique pour toute étude de métrique, d'accentuation, de variantes ou de textes suppléés.
+
+La règle éditoriale est simple : nous ne reproduisons ni vers inexistants, ni apparat imaginaire, ni passage continu fabriqué à partir des huit fragments. Là où l'attribution d'un lexème au fragment dépend de la compilation consultée, la réserve doit accompagner le mot.
+
+## XV. Le mythe de Cénée avant et après Ion : stratigraphie nécessaire
+
+Le mythe de Cénée ne nous est pas connu par un unique récit originel. Des sources d'époques différentes éclairent la légende, chacune selon son genre. Pour étudier le théâtre d'Ion, il faut distinguer ce qu'un poète du Ve siècle *aurait pu* connaître de ce que des auteurs postérieurs ont développé.
+
+**[A/D]** Dans **Apollonios de Rhodes, *Argonautiques* I, 57–64**, Coronos, fils de Cénée, figure parmi les Argonautes. Le poème évoque son père affrontant les Centaures : invincible par les armes, il est finalement enfoui vivant sous la pression des arbres. Cette tradition hellénistique fournit une version littéraire cohérente de l'épisode ; elle ne prouve pas qu'Ion mettait cet événement sur scène.
+
+**[D]** Dans **Ovide, *Métamorphoses* XII, 146–209**, l'histoire de Cénis et de Poséidon/Neptune est développée ; le changement de sexe et l'invulnérabilité constituent deux dimensions liées du récit. **XII, 459–535** raconte la lutte avec les Centaures et les versions de la fin du héros, dont une métamorphose possible en oiseau. Ovide est un auteur latin de l'époque augustéenne : son récit ne peut servir de verbatim à une tragédie grecque du Ve siècle.
+
+**[D]** **Antoninus Liberalis, *Métamorphoses* 17**, réunit lui aussi un dossier mythographique sur Cénis/Cénée. Sa chronologie et ses propres sources doivent être considérées : le compilateur transmet des traditions, mais ne reproduit pas automatiquement la version scénique d'Ion.
+
+**[B]** Les variantes mêlent violence initiale, désir de transformation, invulnérabilité et mort paradoxale. Elles ne sont pas nécessairement les quatre actes d'un même drame. Selon les versions, les accents peuvent tomber sur le consentement, la compensation, la puissance divine, le statut social ou le combat. Une monographie de tragédie perdue doit montrer cette stratification au lieu de convertir une synthèse moderne en résumé antique.
+
+## XVI. Cénis, Cénée et l'expérience de la violence
+
+Les traditions racontant la transformation de Cénis en Cénée impliquent souvent une rencontre violente avec Poséidon. Les récits ne décrivent pas tous cette rencontre avec les mêmes termes ni les mêmes développements. Le lecteur moderne doit éviter de transformer une violence sexuelle en simple épisode merveilleux : le changement de condition est situé, dans certaines versions, après un acte de contrainte.
+
+Pourtant la question philologique est distincte de la question morale. On peut analyser la logique coercitive d'une tradition sans affirmer qu'Ion a raconté ce même événement. Rien dans les fragments conservés n'atteste directement une scène où Poséidon apparaîtrait, où Cénis formulerait une requête ou où un personnage commenterait un corps transformé.
+
+**[B]** Les approches actuelles de l'histoire du genre permettent d'interroger les cadres sociaux et narratifs par lesquels un récit antique définit le sexe, le statut et la possibilité d'agir. Elles ne doivent pas enfermer Cénée dans une catégorie identitaire contemporaine présentée comme attestée par les sources. L'analyse porte d'abord sur les représentations grecques du corps, de la puissance et de la reconnaissance.
+
+Un paradoxe philosophique émerge : dans certaines versions, l'invulnérabilité acquise offre une défense absolue contre la pénétration des armes, mais pas contre toutes les formes de destruction. Les Centaures peuvent rendre inutile la résistance du corps en transformant la terre et les arbres en instruments d'écrasement. Le pouvoir extraordinaire n'abolit donc pas la dépendance à l'environnement. Cette structure mythique peut être rapprochée des tragédies du pouvoir, sans être attribuée comme leçon formulée par Ion.
+
+## XVII. La fin de Cénée : invulnérable mais non invincible
+
+L'épisode de la centauromachie montre une distinction philosophique importante : être inaccessible à la blessure n'est pas être soustrait à la mort. Les adversaires déplacent le mode de violence : l'arme inefficace cède la place à l'ensevelissement. Le corps protégé est vaincu par le terrain et par le nombre.
+
+Cette distinction apparaît dans les traditions conservées d'Apollonios et d'Ovide ; elle permet une comparaison structurée entre force et vulnérabilité. Mais nous ignorons si l'action de la pièce d'Ion atteignait l'ensevelissement, s'arrêtait avant le combat ou se situait après celui-ci. L'absence de récit de messager dans les fragments empêche d'affirmer une représentation de la mort.
+
+**[B]** Le fragment animal opposant le lion au hérisson fournit ici un commentaire possible, mais sa relation au mythe demeure hypothétique. Le hérisson peut opposer l'économie de la défense à la force visible, tandis que Cénée incarne le risque d'une puissance conçue comme propriété absolue. Aucune de ces équivalences n'a le statut d'une allégorie attribuée par les témoins à Ion.
+
+Cette discipline critique interdit aussi d'inventer un jugement final du chœur sur l'invulnérabilité. La disparition du texte ne nous donne pas licence de combler la voix de la cité.
+
+## XVIII. L'autre chemin : Phénix dans l'*Iliade*
+
+**[A]** Le Phénix de l'**Iliade IX, 432–619** est un personnage majeur de l'ambassade auprès d'Achille. Vieux compagnon et éducateur du héros, il mobilise sa propre histoire, celle de l'exil familial et le récit de Méléagre pour persuader Achille de fléchir. Dans ce poème, la parole de Phénix constitue une médiation entre mémoire de la famille, éducation du jeune guerrier, colère et communauté combattante.
+
+**[B]** Ce profil offre un candidat mythique au titre d'Ion. Un dramaturge aurait pu donner à Phénix une crise dramatique autonome, inspirée de son histoire familiale, de son expérience d'éducateur ou de sa position entre générations. Cependant aucun des huit fragments considérés ne nomme clairement Achille, Amyntor, Méléagre ou l'ambassade de l'*Iliade*. La présence du nom « Phénix » dans le titre ne suffit donc pas à prouver cette option.
+
+Il faut distinguer trois régimes de discours : la parole persuasive de Phénix chez Homère, les bribes de langage d'Ion, et les reconstru ctions modernes. Faire passer une anecdote homérique dans une pièce perdue sans preuve serait une erreur d'attribution.
+
+Le contraste pourrait être riche : le Phénix épique cherche à détourner la violence par la parole ; le Cénée des traditions lapithes survit à la violence par la résistance physique, avant d'être écrasé. Mais cette opposition intellectuelle est une *comparaison construite*, pas le conflit dramatique connu de la pièce.
+
+## XIX. Pourquoi la variante « Œnée » change tout
+
+Si la lecture **Οἰνεύς** devait être retenue, le second terme du titre désignerait Œnée, roi de Calydon dans les récits liés à Méléagre et à Artémis. Le dossier appartiendrait alors à une autre constellation mythologique : sacrifice omis, colère divine, chasse, violence familiale, conflits de loyauté. Le récit de Méléagre est précisément mobilisé par Phénix dans l'ambassade homérique.
+
+**[B]** Cette proximité narrative rend la conjecture d'Œnée intéressante : elle offrirait un lien interne entre le Phénix homérique et le cycle calydonien sans recourir à l'oiseau merveilleux. Mais la force d'une cohérence reconstruite ne valide pas la leçon textuelle. Une bonne explication n'est pas une lecture manuscrite.
+
+Deux types d'argument doivent rester séparés : **critique textuelle**, qui compare les leçons et leurs conditions de corruption ; **critique mythographique**, qui cherche quelle variante aurait le meilleur rendement narratif. La seconde ne peut remplacer la première.
+
+La monographie conserve donc le titre sous sa forme principale **Φοῖνιξ ἢ Καινεύς** et rappelle la réserve « *vel* Οἰνεύς ? ». Elle refuse aussi bien de transformer Œnée en héros avéré que d'exclure son existence par goût pour la métamorphose de Cénée.
+
+## XX. « Phénix », l'oiseau : attraction symbolique et limite de la preuve
+
+L'histoire du phénix comme oiseau extraordinaire, lié à la durée, à la renaissance ou au renouvellement, ne doit pas être automatiquement superposée au nom *Φοῖνιξ* chez Ion. Le passage d'un nom homonyme à une identité mythique exige un texte intermédiaire ou une argumentation philologique étroite.
+
+Marie Delcourt, dans « La légende de Kaineus » (1953), a proposé une lecture influente des relations entre Cénée, transformation et symbolisme de l'oiseau. Françoise Lecocq, dans « Caeneus *avis unica* (Ovide, *Métamorphoses* 12, 532) est-il le phénix ? » (2013), critique précisément une assimilation trop facile. L'expression latine chez Ovide ne suffit pas à faire de l'oiseau de Cénée le phénix du bestiaire. Le débat lui-même est instructif : une analogie fonctionnelle ne constitue pas une identité historique.
+
+**[B]** On peut comparer plusieurs structures de récit : passage d'une forme à une autre, survivance après un désastre, singularité d'un être, mémoire collective. Cette comparaison ne prouve ni que l'oiseau phénix figurait dans la tragédie d'Ion ni qu'un rituel de renaissance clôturait la pièce.
+
+Pour la même raison, une analogie avec le *bénou* égyptien ne saurait être promue en source directe d'Ion. Aucun témoin du dossier consulté ne documente une transmission égyptienne précise de ce titre dramatique. La méthode comparative exige non seulement des ressemblances, mais des voies de transmission, des dates et des contextes plausibles.
+
+## XXI. Trois reconstructions prudentes, sans actes ni dialogues fictifs
+
+**[C1] Modèle centré sur Cénée.** Le titre serait pris au plus près de sa forme courante et le drame interrogerait l'épreuve d'un corps extraordinairement protégé. Le vocabulaire du changement, l'image du hérisson et l'évaluation de la vie humaine deviendraient des traces *compatibles* avec cette lecture. Aucune ne suffirait pourtant à déterminer si l'action montre la transformation, la centauromachie, l'ensevelissement ou leurs conséquences. Ce modèle explique un champ symbolique, non une progression d'épisodes.
+
+**[C2] Modèle centré sur le Phénix homérique.** Le titre renverrait à l'éducateur d'Achille, et la tragédie développerait un conflit familial ou éthique lié à la persuasion, à l'exil et aux obligations entre générations. Le vocabulaire du jugement sur la vie et de la parole publique s'accorderait avec cette hypothèse. Mais les fragments ne contiennent pas assez de noms propres pour l'appuyer par une reconnaissance narrative. Ce modèle est donc moins attesté qu'il n'est culturellement plausible.
+
+**[C3] Modèle alternatif de titre ou de réception.** « Phénix ou Cénée » pourrait traduire une incertitude ancienne de classement, voire résulter d'une histoire éditoriale où plusieurs identifications ont circulé. La conjecture « Œnée » ouvrirait une relation au cycle de Méléagre ; l'hypothèse de l'oiseau offrirait une autre structure symbolique. Aucune de ces possibilités ne peut être combinée librement pour fabriquer une intrigue totale.
+
+Ces modèles ne sont pas des esquisses de spectacles à produire sous le nom d'Ion. Ils sont des *cartes d'inférence*. Ils rendent visible ce que chaque option doit supposer, ce qu'elle peut expliquer et ce qu'elle laisse sans réponse. Une future découverte papyrologique pourrait démentir l'ensemble.
+
+## XXII. Probabilités relatives et falsifiabilité
+
+À défaut d'un argument ancien conservé, il ne serait pas rigoureux d'attribuer des pourcentages aux scénarios. Les degrés de plausibilité doivent rester qualitatifs. **Élevée** : existence d'une entrée de titre chez Ion et correspondances éditoriales de huit fragments ; **moyenne** : possibilité d'un champ de l'invulnérabilité et du changement si la lecture Cénée est correcte ; **faible** : rôle précis des personnages, intrigue, lieu de l'action, relation exacte de la musique lydienne au sujet ; **très faible** : identification assurée de l'oiseau de Cénée au phénix mythique dans la tragédie.
+
+Un argument nouveau pourrait faire basculer le dossier s'il apportait une attribution explicite, un nom propre dans un papyrus, un nouveau témoignage ancien ou un contexte précis de citation. En revanche, une image plus séduisante ou un résumé moderne plus fluide ne sont pas des preuves nouvelles.
+
+Cette hiérarchie rend la monographie contrôlable. Elle permet à un lecteur futur de conserver les données solides tout en remplaçant les conjectures.
+
+## XXIII. Aristote : l'intrigue tragique comme unité absente
+
+Aristote, *Poétique* 1449b–1450a, insiste sur l'action et son organisation plutôt que sur une simple collection de caractères ou de belles expressions. Son analyse du *mythos*, de la péripétie et de la reconnaissance éclaire ce que nous avons perdu dans le cas d'Ion : non les seuls mots, mais la relation causale des événements.
+
+**[B]** Une tragédie sur Cénée pourrait se prêter à une lecture aristotélicienne de la fortune renversée, précisément parce que l'invulnérable peut être terrassé. Mais l'application est conditionnelle. La métamorphose n'est pas automatiquement une reconnaissance (*anagnôrisis*) au sens d'Aristote ; le renversement corporel n'est pas nécessairement une péripétie dramaturgique ; l'ensevelissement raconté par Apollonios n'est pas le dénouement attesté d'Ion.
+
+L'histoire de l'édition fragmentaire met en crise une pratique trop facile de l'analyse dramatique. Un critique habitué aux pièces complètes risque de demander au vestige de remplir les catégories de l'œuvre conservée. La bonne méthode renverse la démarche : les catégories servent à formuler les questions auxquelles les fragments **ne permettent pas** de répondre.
+
+## XXIV. Platon : imitation, puissance du spectacle et stabilité de l'identité
+
+Platon, *République* III, 392c–395a, distingue et évalue diverses modalités de narration et d'imitation ; au livre X, 595a–608b, il renouvelle ses critiques de la poésie mimétique. Ces textes sont des témoignages philosophiques sur les pouvoirs attribués au théâtre et sur ses effets, pas des commentaires sur la pièce d'Ion.
+
+**[B]** Si une tragédie avait représenté Cénée, la question platonicienne serait aiguë : qu'est-ce qu'un public apprend lorsqu'il voit un héros dont le corps et le statut changent ? Apprend-il à distinguer apparence et essence, ou apprend-il surtout à éprouver les passions du spectacle ? Les fragments ne permettent pas de dire quelle réponse Ion lui-même aurait privilégiée.
+
+La tentation de concevoir une identité humaine parfaitement transparente à l'observateur se heurte aux récits de métamorphose. Cénée oblige à tenir compte de l'histoire d'une personne plutôt que d'un instant de perception. Cette lecture est philosophique et contemporaine ; elle n'est pas le discours reconstruit d'un personnage.
+
+Le vocabulaire de l'évaluation juste de la « vie d'un homme » ouvre une comparaison avec les exigences platoniciennes d'un jugement qui dépasse l'image. Nous ne confondons pas pour autant le fragment F 41 et une thèse philosophique platonicienne. La proximité d'une question n'entraîne aucune dépendance textuelle.
+
+## XXV. Hegel : puissance, reconnaissance et conflit des légitimités
+
+La réflexion hégélienne sur la tragédie grecque, notamment dans les *Leçons d'esthétique*, fait intervenir des agents engagés dans des fins substantielles susceptibles d'entrer en collision. Le modèle le plus connu porte sur Antigone et Créon, et la tension entre des droits qui ont chacun leur justification. La présente pièce ne conserve pas un conflit éthique de cette forme : il serait donc abusif de la proclamer exemplaire d'une dialectique déjà démontrée.
+
+**[B]** En prenant Cénée comme hypothèse, on peut néanmoins interroger deux registres de reconnaissance. D'un côté, une transformation reconnue par le dieu et une puissance inscrite dans le corps ; de l'autre, la reconnaissance sociale de l'identité et de la place parmi les combattants. Le fait d'être invulnérable ne garantit pas d'être traité avec justice, comme le montre particulièrement la narration d'Ovide où les adversaires insultent le héros. Cette observation vaut pour la tradition ovidienne, non comme preuve d'un dialogue hégélien chez Ion.
+
+Une lecture plus générale ferait apparaître la limite de la négativité héroïque : le corps peut refuser la blessure sans abolir l'opposition avec la totalité sociale ou naturelle. La terre qui engloutit l'invulnérable figure alors une défaite de la souveraineté individuelle. C'est une **interprétation philosophique moderne de motifs mythiques**, pas le texte du poète.
+
+L'utilité d'Hegel est donc méthodologique : demander si deux légitimités s'affrontent, et refuser de supposer leur présence sans témoignage. La tragédie perdue est un cas limite qui distingue la puissance de nos concepts de leur capacité de preuve historique.
+
+## XXVI. Nietzsche : Apollon, Dionysos et la valeur du corps héroïque
+
+Dans *La Naissance de la tragédie* (1872), Nietzsche propose une lecture de la culture grecque à partir de la tension entre l'apollinien et le dionysiaque. La thèse est moderne, marquée par sa propre histoire intellectuelle, et ne doit pas être confondue avec une doctrine explicitement formulée par les poètes du Ve siècle.
+
+**[B]** Le mythe de Cénée se prête à un commentaire sur la forme individuelle et la menace qui la déborde. L'invulnérabilité peut se lire comme affirmation d'une forme définie ; l'ensevelissement sous les arbres comme violence de forces qui excèdent l'individu. Pourtant rien ne prouve que la pièce d'Ion opposait musicalement une figure apollinienne à un chœur dionysiaque, ni même que le chœur jouait le rôle que l'on aimerait lui donner.
+
+La musique lydienne mentionnée parmi les fragments invite à se souvenir que les catégories musicales antiques sont historiquement variées. Elle n'autorise pas à parler d'un rite d'extase dionysiaque précis ou d'une partition conservée. Le texte ne nous transmet ni rythme intégral ni dispositif sonore.
+
+La lecture nietzschéenne est féconde lorsqu'elle montre le danger de confondre vitalité héroïque et contrôle absolu. Elle devient fragile lorsqu'elle remplit les lacunes de scènes que nous désirons voir : la critique doit donc la maintenir du côté du commentaire philosophique.
+
+## XXVII. Une tragédie de la forme ? Le paradoxe de l'invulnérabilité
+
+Le rapprochement des fragments et du récit de Cénée fait apparaître un problème transversal : que signifie posséder une forme qui résiste à toute attaque ? Dans le mythe, la défense parfaite du corps est insuffisante face au poids extérieur. Dans le fragment du hérisson, l'intelligence défensive repose sur la connaissance de l'adversaire. Dans la formulation qui évoque le jugement de la vie, la vérité dépend d'un regard capable de dépasser l'apparence.
+
+**[B]** Il existe une cohérence philosophique possible entre ces trois motifs : survivre ne dépendrait pas seulement d'une force intrinsèque mais d'une juste relation entre soi, autrui et les circonstances. Ce résultat, pour séduisant qu'il soit, n'est pas une synthèse antique préservée. Il est le produit de l'analyse ; il doit pouvoir être discuté et réfuté comme tel.
+
+Surtout, ne pas confondre invulnérabilité et invincibilité permet d'éviter une lecture simplificatrice du mythe. La faiblesse n'est pas seulement située dans un corps ; elle peut être imposée par la configuration de la violence. La transformation de l'environnement par les Centaures révèle une puissance collective qui échappe à l'individu. Un philosophe politique y verrait le conflit entre capacité singulière et domination de groupe, mais le texte d'Ion ne permet pas de l'appeler « message politique » du spectacle.
+
+## XXVIII. Comparaison prudente avec d'autres traditions grecques
+
+La mythologie grecque connaît plusieurs récits où la condition corporelle change ou où une protection extraordinaire rencontre sa limite. Tirésias, dans certaines traditions, connaît une transformation de sexe ; Achille bénéficie de formes de protection selon des versions et périodes différentes ; Héraclès traverse des épisodes d'asservissement et de renversement du statut ; les récits de Cycnos opposent l'invulnérabilité au stratagème.
+
+**[B/D]** Ces analogies éclairent des problèmes récurrents : plasticité du corps, distribution divine des pouvoirs, vulnérabilité résiduelle, tension entre prestige et humiliation. Elles n'établissent ni emprunt direct ni schéma rituel commun. La comparaison avec des motifs du Proche-Orient ou de l'Égypte exige en outre des témoignages datés et une médiation historique ; la simple présence d'un oiseau solaire ou d'une renaissance ne suffit pas.
+
+La comparaison avec **Héraclès et Omphale** revêt une place particulière dans le corpus d'Ion puisqu'une autre œuvre, satyrique, est attestée sous ce titre. Elle peut mettre en regard le héros forcé à la servitude et le héros réputé invulnérable. Mais rapprocher deux titres d'un même auteur n'autorise pas à faire d'eux les parties d'un cycle composé pour une même tétralogie. Aucune association de représentation n'est assurée par les fragments consultés.
+
+Comparer n'est pas unifier : le mérite scientifique tient à la conservation des différences de source, de date, de genre et de statut d'attestation.
+
+## XXIX. Cénée, Phénix et la question des générations
+
+Une voie d'interprétation moins spectaculaire que celle de la métamorphose concerne le rapport entre générations. Le Cénée d'Apollonios apparaît à travers son fils Coronos ; le Phénix de l'*Iliade* s'exprime comme éducateur et transmetteur de mémoire à Achille. Tous deux sont pris dans des chaînes de filiation et de réputation, quoique très différentes.
+
+**[B]** Si le titre double conserve une relation pertinente entre ces champs, l'œuvre aurait pu réfléchir à la manière dont la renommée d'un héros devient patrimoine de ceux qui lui survivent. Mais cela reste une spéculation à haut degré de généralité. Les fragments n'attestent pas la présence de Coronos, d'Achille ou d'une scène d'éducation.
+
+La question s'impose donc moins comme reconstitution que comme guide de lecture : lorsqu'une source tardive raconte un héros par le fils qui lui succède, et une source épique un héros par l'élève qu'il conseille, nous voyons deux économies de la mémoire. Il serait erroné de traiter leur juxtaposition critique comme un « chœur des générations » antique.
+
+## XXX. Iconographie : monuments, supports et absence de preuve scénique
+
+Le mythe de Cénée et la lutte des Lapithes contre les Centaures ont une histoire figurée importante. Plusieurs vases attiques montrent une figure combattante écrasée ou menacée par des Centaures : l'identification peut être soutenue par le schéma iconographique, le contexte et parfois les notices de collection. Ces œuvres renseignent sur la circulation du mythe visuel, non sur le décor exact de la tragédie d'Ion.
+
+Un exemple d'iconographie antique peut être recherché dans les représentations du combat de Cénée contre les Centaures ; il faut vérifier, pour chaque objet, l'identification, la date et le numéro d'inventaire auprès du musée. **Aucune image n'est ici intégrée comme prétendue photographie d'une scène antique**. La règle de séparation entre illustration mythologique et preuve de représentation théâtrale est absolue.
+
+Un objet de réception beaucoup plus solidement identifié est la **gravure d'Antonio Tempesta, planche 116**, *The Battle of the Lapithae and the Centaurs (Caeneus in Perithoi nuptijs a Centauris interficitur)*, **1606**, conservée au **Metropolitan Museum of Art**, **inv. 51.501.3967**. La notice du musée désigne explicitement le sujet et la référence à Ovide. Son intérêt est de documenter l'histoire moderne des images de Cénée, non de témoigner des conditions du théâtre attique.
+
+Pour mesurer ce qu'un vase peut apporter à l'histoire des tragédies perdues, voir Oliver Taplin, *Pots & Plays: Interactions between Tragedy and Greek Vase-Painting of the Fourth Century B.C.* (Getty Museum, 2007). La méthode de Taplin rappelle que le lien entre image et pièce doit être démontré, non présumé.
+
+## XXXI. Réception savante française : Delcourt et Lecocq
+
+Marie Delcourt, « La légende de Kaineus », *Revue de l'histoire des religions* **144/2** (1953), p. **129–150**, a marqué l'étude moderne de cette tradition. Son analyse s'inscrit dans une histoire des religions et des représentations du corps qui cherche à articuler métamorphose, symboles et survivances. Elle mérite une lecture contextualisée : l'originalité d'une hypothèse ne lui confère pas automatiquement la valeur d'une source ancienne.
+
+Françoise Lecocq, « Caeneus *avis unica* (Ovide, *Métamorphoses* 12, 532) est-il le phénix ? », dans Laurence Gosserez (dir.), *Le phénix et son Autre. Poétique d'un mythe*, Rennes, Presses universitaires de Rennes, **2013**, p. **211–220**, réfute l'identification de l'oiseau de Cénée avec le phénix par des arguments textuels. Cette confrontation entre deux lectures françaises est centrale : un rapprochement séduisant peut être affaibli lorsque l'on reconsidère les termes et la chronologie des témoins.
+
+Le débat n'est pas « pour » ou « contre » les comparaisons mythologiques, mais pour des comparaisons contrôlables. L'homonymie ou la symbolique commune ne sont pas une chaîne historique. Le fait qu'Ovide présente une version ornithologique de la fin de Cénée ne prouve aucunement qu'Ion ait connu ou représenté l'oiseau mythique.
+
+Le dossier gagne à conserver cette contradiction savante plutôt qu'à fabriquer une synthèse consensuelle. Une encyclopédie universitaire doit exposer les conditions de la contestation.
+
+## XXXII. Technique du fragment : métrique, attribution et tentation de restitution
+
+La métrique peut servir à identifier la nature d'un passage, mais seulement sur un texte établi et assez étendu. Les fragments réduits à un mot, à des expressions disjointes ou à des transcriptions incertaines ne permettent pas de distribuer mécaniquement stichomythies, monodies et chants choraux. En particulier, le simple fait qu'une expression soit remarquable pour Athénée ne permet pas de reconstruire une séquence lyrique.
+
+La question du locuteur est tout aussi décisive. Un pronom de première personne ne garantit pas un héros central ; une apostrophe divine ne prouve pas une prière solennelle ; un vocatif civique n'indique pas l'assemblée athénienne. Les termes de la langue dramatique sont réutilisables dans de nombreuses circonstances.
+
+Un philologue doit donc distinguer **texte transmis**, **correction proposée**, **traduction de travail**, **interprétation**, puis seulement **hypothèse d'action**. Quand l'apparat critique complet n'est pas disponible, le bon geste est de décrire le problème et de signaler la lacune plutôt que de produire une fausse citation grecque.
+
+Ici, les brèves expressions grecques attestées dans une transcription numérique ne sont pas transformées en un passage continu. Les huit références éditoriales sont conservées exactement comme une concordance, sans invention de folio, numéro de papyrus ou variante manuscrite.
+
+## XXXIII. Histoire de l'édition : pourquoi les nombres ne se suivent pas toujours
+
+L'écart entre la suite FragTrag **41–48** et la suite TrGF **38, 36, 37, 39, 40, 41, 41a, 41b** s'explique par le fait que les deux systèmes n'ont pas la même logique de classement. Une édition peut regrouper des témoignages ou retenir une répartition différente des fragments. La concordance de Patras fournit la correspondance ; elle n'affirme pas que l'une des séries reproduise le plan antique.
+
+Cet écart représente une occasion pédagogique. On ne peut se servir de l'ordre 41, 42, 43, 44 comme s'il établissait une succession de quatre répliques. Le tableau ne restitue que l'identité éditoriale des citations. La numérotation critique est un instrument de repérage, non une archéologie des scènes.
+
+La même distinction vaut pour le nombre de pièces attribué à Ion. Les chiffres différents rapportés par la *Souda* ne fixent pas mécaniquement le nombre de pièces effectivement jouées. Le titre *Second Phénix* soulève lui-même la possibilité d'une organisation ancienne ou éditoriale plus complexe, mais n'autorise aucune conclusion sur la date de composition du premier.
+
+L'histoire de l'édition doit être exposée avec la même rigueur que l'histoire du théâtre.
+
+## XXXIV. Les limites des reconstructions scéniques et du théâtre virtuel
+
+La disparition des données de mise en scène interdit de fixer un emplacement, un costume de Cénée, une apparition de Poséidon, une composition du chœur ou une machine théâtrale. Il serait néanmoins possible, pour une médiation culturelle moderne, de représenter de manière **explicitement contemporaine et hypothétique** les images attestées dans la mythologie. Ce ne serait pas une reconstitution de la représentation d'Ion.
+
+La même prudence s'applique à la 3D et à l'illustration. Un rendu photoréaliste peut évoquer un lieu du monde grec mais ne transforme pas un scénario conjectural en événement archéologiquement attesté. Les dossiers iconographiques doivent préciser la datation de leurs objets, leur provenance, leur degré de certitude et le rapport exact entre représentation d'un mythe et représentation d'une pièce.
+
+Aucune scène nouvelle, aucun dialogue inventé, aucun fragment grec apocryphe, aucun costume supposé ancien ne sont proposés dans cette monographie sous le nom d'Ion.
+
+## XXXV. Matrice des niveaux de preuve
+
+| Proposition | Niveau | Fondement et limite |
+|---|---|---|
+| Ion de Chios a un titre transmis *Φοῖνιξ ἢ Καινεύς* | [A] | Concordance FragTrag.1, tradition TrGF |
+| Une variante critique *Οἰνεύς ?* est signalée | [A] | La conjecture est attestée comme conjecture, non adoptée comme fait |
+| Huit références documentaires sont classées sous ce titre | [A] | FragTrag frr. 41–48, concordance TrGF |
+| Athénée préserve plusieurs attributions à ce titre | [A] | III 91d–e, IV 184f, X 451d–e |
+| *Second Phénix* est une entrée séparée | [A] | FragTrag frr. 49–50, Athénée IV 185a |
+| La comparaison lion/hérisson peut concerner la protection du faible | [B] | Lecture thématique, aucun personnage identifié |
+| Cénée serait le protagoniste principal de la pièce | [C] | Titre compatible, action non démontrée |
+| Le poète aurait mis en scène l'ensevelissement par les Centaures | [C] | Connu par d'autres auteurs, non attesté ici |
+| Le Phénix du titre serait l'éducateur d'Achille | [C] | Homonyme mythique possible, non prouvé |
+| L'oiseau de Cénée serait le phénix renaissant | [B/D] très contesté | Réception d'Ovide ; critique moderne de Lecocq |
+| L'iconographie de la centauromachie restitue les décors d'Ion | **Non démontré** | Aucune relation iconographique spécifique attestée |
+| Le volume a un numéro définitif à la rédaction | **Non** | Attribution exclusive par reçu de la file GitHub |
+
+La matrice rend visible un trait fondamental : les conclusions les plus sûres sont bibliographiques et philologiques. Les conclusions les plus séduisantes en matière de dramaturgie doivent rester conditionnelles.
+
+## XXXVI. Discussion synthétique : le tragique de l'incertitude documentaire
+
+La tragédie grecque ne se réduit pas à quelques grands auteurs conservés. Ion témoigne d'un paysage théâtral plus riche, où des pièces ont circulé avant de disparaître. Le titre *Phénix ou Cénée* laisse imaginer une dramaturgie de la mutation, de l'identité ou du conflit, mais la fidélité à l'histoire exige de résister à cette imagination lorsqu'elle devient assertion.
+
+Le résultat le plus substantiel du dossier est un contraste entre trois formes de puissance : l'agressivité du lion, l'intelligence défensive du hérisson et l'invulnérabilité paradoxale de Cénée dans les traditions mythologiques. Cette comparaison peut nourrir une analyse du corps héroïque et du jugement humain. Elle appartient pourtant à notre travail critique tant que la relation entre fragments et personnage n'est pas démontrée.
+
+La seconde contribution est de distinguer les plusieurs « Phénix » : un nom héroïque grec, des traditions généalogiques, le cycle de l'oiseau et la possibilité d'un titre alternatif. La précision philologique empêchera l'encyclopédie d'assembler en une œuvre fictive ce qui relève d'archives différentes.
+
+La troisième contribution est pratique. Le classement FragTrag frr. 41–48 et TrGF I F 38, 36, 37, 39, 40, 41, 41a, 41b offre une feuille de route vérifiable pour la reprise future du dossier ; le *Second Phénix* reste hors de ses frontières. La continuité éditoriale peut donc progresser sans doublon ni saut d'œuvre, sous réserve de la vérification de chaque demande dans le dépôt.
+
+## XXXVII. Notes critiques : sources primaires et documents de contrôle
+
+**N1 — Identité des fragments.** Université de Patras, *FragTrag.1*, index de l'auteur Ion, entrée « 9. Φοῖνιξ ἢ Καινεύς », frr. 41–48 et concordance avec TrGF I. URL : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html. Cette page est une **concordance**, pas le fac-similé de tous les manuscrits ni une édition complète de leurs apparats.
+
+**N2 — Citations d'Athénée.** *Digital Athenaeus*, index des auteurs cités dans les *Deipnosophistes* (A. Meineke, G. Kaibel), entrées Ion / Φοίνιξ ἢ Καινεύς ; références III 91d, IV 184f, X 451d ; pour le seul « Phénix », VII 318d ; pour le « Second Phénix », IV 185a. URL : https://www.digitalathenaeus.org/tools/MeinekeIndexScriptorum/digger.php?onoffswitch=on&what%5B%5D=Name%7CIon. Les sigles de pagination Kaibel et Casaubon ne doivent pas être confondus.
+
+**N3 — Tradition éditoriale.** August Nauck (éd.), *Tragicorum Graecorum Fragmenta*, 2e édition, Leipzig, Teubner, 1889, section Ion, p. 732–746. Notice bibliographique du catalogue Perseus : https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0308.tlg001.opp-grc1. Le système moderne TrGF I, auteur 19, est employé dans le tableau.
+
+**N4 — Transcription de comparaison.** Eulogikon, compilation numérique « Ion of Chios Fragments on Heracles and Omphale », https://eulogikon.org/works/ion-chios-heracles-omphale-ccg-ac. Malgré son intitulé englobant, la page propose des expressions numérotées F 36–41b. Son caractère agrégatif et l'absence d'apparat accessible justifient l'usage en contrôle secondaire seulement : ne pas citer ce support comme preuve que tous ces passages proviennent de l'*Omphale* satyrique.
+
+**N5 — Cénée et les Centaures.** Apollonios de Rhodes, *Argonautiques* I, 57–64 (Coronos fils de Cénée et ensevelissement de celui-ci). Texte édité et traduction consultable : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0001.tlg001.seaton1900-grc2/card:1.51/.
+
+**N6 — Cénis/Cénée chez Ovide.** *Métamorphoses* XII, 146–209 et 459–535. Édition bilingue et notes de l'Université catholique de Louvain (A.-M. Boxus et J. Poucet, 2008) : https://bcs.fltr.ucl.ac.be/metam/Met12/Met12-459-628.htm ; https://bcs.fltr.ucl.ac.be/metam/met12/met12-146-326.htm. Ces textes sont **postérieurs à Ion** et servent à documenter la tradition, non la pièce.
+
+**N7 — Autre mythographie tardive.** Antoninus Liberalis, *Métamorphoses* 17, à confronter à une édition critique ; consultation du répertoire : https://adfonteslibrary.org/antoninus. La transcription numérique consultée avertit elle-même que les histoires 17–41 n'ont pas toutes été collationnées sur une édition moderne.
+
+**N8 — Phénix homérique.** Homère, *Iliade* IX, 432–619, ambassade auprès d'Achille, récit familial et exemple de Méléagre. Source **comparative** et non texte conservé d'Ion.
+
+**N9 — Poétique antique.** Aristote, *Poétique* 1449b–1450a et 1451b–1453b ; Platon, *République* III 392c–395a et X 595a–608b. Ces références fournissent des cadres d'analyse, non des témoignages sur le spectacle perdu.
+
+**N10 — Notice biographique.** *Souda* ι 487, Ion de Chios ; pour un repérage du témoignage, voir https://theatrum.de/2360.html. Les chiffres de pièces transmis sont divergents.
+
+## XXXVIII. Bibliographie vérifiée et critique
+
+### Éditions et outils
+
+1. **Nauck, August** (éd.), *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, Teubner, **1889**, section Ion de Chios, **p. 732–746**. Catalogue Perseus : https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0308.tlg001.opp-grc1.
+2. **Snell, Bruno** (éd.), *Tragicorum Graecorum Fragmenta*, **vol. I**, Göttingen, Vandenhoeck & Ruprecht, collection des premiers tragiques, auteur **19 : Ion**. Les renvois F 36–41b sont donnés selon la numérotation TrGF I, sans inventer de page non vérifiée.
+3. **FragTrag.1**, Université de Patras, index et concordance des fragments tragiques, section Ion, frr. 41–48 : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html.
+4. **Digital Athenaeus**, *Meineke / Kaibel Index Scriptorum*, entrées Ion de Chios : https://www.digitalathenaeus.org/tools/MeinekeIndexScriptorum/digger.php?onoffswitch=on&what%5B%5D=Name%7CIon.
+5. **Perseus Catalog**, notice d'édition des fragments dramatiques d'Ion : https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0308.tlg001.opp-grc1.
+
+### Études sur Ion, le théâtre et les traditions
+
+6. **Jennings, Victoria et Katsaros, Andrea** (dir.), *The World of Ion of Chios*, Leiden/Boston, Brill, **2007**, collection *Mnemosyne Supplements*, vol. **288**. Compte rendu académique : https://bmcr.brynmawr.edu/2008/2008.10.13/.
+7. **Delcourt, Marie**, « **La légende de Kaineus** », *Revue de l'histoire des religions*, **144**, fasc. 2, **1953**, p. **129–150**, DOI **10.3406/rhr.1953.6001** : https://doi.org/10.3406/rhr.1953.6001.
+8. **Lecocq, Françoise**, « **Caeneus avis unica (Ovide, Métamorphoses 12, 532) est-il le phénix ?** », dans Laurence Gosserez (dir.), *Le phénix et son Autre. Poétique d'un mythe*, Rennes, Presses universitaires de Rennes, **2013**, p. **211–220**, DOI **10.4000/books.pur.52261** : https://doi.org/10.4000/books.pur.52261. La pagination 211–220 est retenue selon la notice bibliographique contrôlée.
+9. **Taplin, Oliver**, *Pots & Plays: Interactions between Tragedy and Greek Vase-Painting of the Fourth Century B.C.*, Los Angeles, **J. Paul Getty Museum**, **2007**, ISBN **9780892368075**. Notice de la Bibliothèque nationale de France : https://catalogue.bnf.fr/ark:/12148/cb411111595.
+10. **Reinach, Théodore**, « Un fragment d'Ion de Chios », *Revue des Études Grecques*, **14**, fasc. 56, **1901**, p. **8–19**, DOI **10.3406/reg.1901.6033** : https://doi.org/10.3406/reg.1901.6033. L'article concerne un autre fragment d'Ion ; il est cité pour l'histoire des méthodes de restitution, **non** comme édition des huit passages de *Phénix ou Cénée*.
+11. **Theatrum**, dossier prosopographique et bibliographique « Ion » : https://theatrum.de/2360.html. Outil de repérage, non substitut à l'édition des fragments.
+
+### Textes antiques à lire en parallèle
+
+12. **Homère**, *Iliade* IX, particulièrement 432–619, discours de Phénix : parallèle mythique, pas source d'intrigue attestée.
+13. **Apollonios de Rhodes**, *Argonautiques* I, 57–64, Coronos et Cénée : témoin hellénistique de la mort paradoxale.
+14. **Ovide**, *Métamorphoses* XII, 146–209 et 459–535 : récit latin postérieur, important pour le corps transformé et la fin de Cénée.
+15. **Antoninus Liberalis**, *Métamorphoses* 17 : tradition mythographique tardive, non équivalente à la pièce d'Ion.
+16. **Aristote**, *Poétique*, passages sur action, intrigue, connaissance et retournement.
+17. **Platon**, *République*, livres III et X, passages sur imitation et poésie.
+
+### Philosophie et réception
+
+18. **Hegel, G. W. F.**, *Leçons sur l'esthétique* / *Aesthetics: Lectures on Fine Art*, discussion de la tragédie classique et des conflits éthiques. Mise au point de la *Stanford Encyclopedia of Philosophy*, « Hegel's Aesthetics » (révision 2024) : https://plato.stanford.edu/entries/hegel-aesthetics/.
+19. **Nietzsche, Friedrich**, *Die Geburt der Tragödie aus dem Geiste der Musik* (*La Naissance de la tragédie*), **1872** : instrument d'analyse philosophique et d'histoire de la réception, non source d'informations sur la représentation d'Ion.
+
+### Iconographie documentée
+
+20. **The Metropolitan Museum of Art**, **Antonio Tempesta**, *Plate 116: The Battle of the Lapithae and the Centaurs (Caeneus in Perithoi nuptijs a Centauris interficitur)*, **1606**, eau-forte, **nº 51.501.3967** : https://www.metmuseum.org/art/collection/search/400997. **Réception visuelle moderne** d'un mythe antique, sans rapport scénique démontré avec Ion.
+
+## XXXIX. Conclusion générale
+
+Nous possédons le titre *Φοῖνιξ ἢ Καινεύς*, une variante critique éventuelle *Οἰνεύς ?*, huit unités répertoriées sous le titre par FragTrag.1 et quelques témoins de citation identifiables, notamment chez Athénée. Nous ne possédons ni texte suivi, ni intrigue attestée, ni distribution, ni mise en scène. L'analyse doit demeurer à cette échelle.
+
+Le champ de la transformation corporelle et de l'invulnérabilité est particulièrement suggestif si l'on conserve Cénée comme second terme du titre. L'opposition du lion et du hérisson donne matière à penser l'intelligence défensive ; les échos d'un jugement sur la vie humaine ouvrent une réflexion sur la reconnaissance. Pourtant ces motifs ne sont pas la preuve d'une dramaturgie dont nous aurions retrouvé l'architecture.
+
+Hegel, Nietzsche et Platon enrichissent la lecture critique en posant les questions du conflit, de la forme et de l'imitation ; ils ne peuvent rendre à Ion des vers que la tradition a perdus. La comparaison avec Apollonios et Ovide éclaire des versions du mythe sans abolir la distance chronologique. Le débat Delcourt–Lecocq montre que la réception contemporaine elle-même réclame des précautions rigoureuses.
+
+La présente étude fournit ainsi une contribution autonome à l'encyclopédie : un appareil critique vérifiable, une séparation des degrés de preuve, une histoire contrôlée du titre et des hypothèses de reconstruction délibérément non fictives. Sa publication publique et son numéro dépendent exclusivement de la file transactionnelle du dépôt GitHub ; aucune annonce antérieure ou numéro conversationnel ne les réserve.
+
+**Fin de la monographie. Aucun ancien article ni aucune archive n'est remplacé par ce texte. Le circuit de la file GitHub attribue le numéro et confirme, le cas échéant, l'apparition effective du manuscrit dans les sommaires et sur le site public.**
