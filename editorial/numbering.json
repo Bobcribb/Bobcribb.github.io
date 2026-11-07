@@ -1239,6 +1239,12 @@
           "path": "chapitres/origines-du-sacre/778-kunduchi-dar-es-salaam-mosquee-tombes-piliers-porcelaines-memoire.md",
           "request_sha256": "9b9beaddc7507a304b168391d7e150b6cb84b4218eda03d2c5ced7b105494657",
           "initial_source_sha256": "1ba2423e0433f94dfcdaa4860b6c348ad22503b140ded77ae979d90c70ca8b5e"
+        },
+        "c8d59c04-53bd-43a8-bcd4-03c12e1f6398": {
+          "number": 779,
+          "path": "chapitres/origines-du-sacre/779-muhembo-baie-pangani-mosquees-corail-continuite-zanjienne-rhapta.md",
+          "request_sha256": "42c84d88786d597ec8a3d3783181d592607c4cefe1e43223e9e5f20e3c15cf55",
+          "initial_source_sha256": "8d4db430761141824df8c2583970967bb4afd3f50c542dd6dfb066eff7a8533d"
         }
       }
     },
