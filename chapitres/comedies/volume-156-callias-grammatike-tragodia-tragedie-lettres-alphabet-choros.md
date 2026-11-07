@@ -1,0 +1,372 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CLVI (156)
+
+## Callias (Καλλίας), la « Tragédie des lettres » ou *Grammatikē tragōidia* (γραμματικὴ τραγῳδία) : alphabet, chœur, énigme et concurrence des genres dramatiques
+
+*Monographie universitaire originale en français. Étude d'un spectacle alphabétique attribué à Callias par la tradition d'Athénée : examen des fragments et témoignages, problèmes de transmission et d'attribution, histoire de l'écriture et de la performance, analyse philosophique et dramaturgies contemporaines explicitement distinctes de l'original antique.*
+
+### Protocole des preuves et limites du corpus
+
+**[A] Attestations.** Cette marque désigne les passages effectivement transmis par les auteurs antiques, leurs déclarations, les références bibliographiques vérifiables et les constatations linguistiques directement fondées sur le dossier. « Athénée dit que » ne signifie pas « Callias a effectivement inventé ». Une attribution dans une compilation tardive demeure une attribution attestée, pas nécessairement un fait de l'histoire du théâtre au Ve siècle.
+
+**[B] Hypothèses et analyses.** Cette marque désigne les inférences sur la scène, la forme musicale, la réception, le contexte intellectuel, l'alphabétisation et les comparaisons philosophiques. Un chœur de lettres jouées par vingt-quatre acteurs, un décor scolaire, une date de représentation précise, une intrigue et une influence décisive sur la tragédie ne doivent pas être présentés comme acquis.
+
+**[C] Scènes dramatiques originales.** Les trois expériences théâtrales proposées plus loin sont écrites aujourd'hui, en français, pour MYTHOS. Elles ne sont ni traduction d'un fragment retrouvé ni restitution d'une intrigue antique. Leur distribution, leurs répliques, leurs situations et leurs fins sont entièrement contemporaines.
+
+**Établissement du dossier.** Le foyer documentaire est Athénée, *Deipnosophistes* X, 448b et surtout 453c–455b, avec mention également au livre VII, 276a. L'édition de référence pour le poète comique Callias est Rudolf Kassel et Colin Austin, *Poetae Comici Graeci* IV, *Aristophon–Crobylus* (1983). L'intitulé français « Tragédie des lettres » est une commodité de lecture ; l'expression grecque transmise ne prouve pas qu'elle fut le titre officiel imprimé sur une didascalie perdue. La présente étude ne transcrit aucun passage grec dont la leçon exacte n'a pas été collationnée dans l'apparat critique. Les exemples de syllabes sont explicitement signalés comme des schémas de travail.
+
+### Résumé scientifique
+
+[A] Dans le dixième livre des *Deipnosophistes*, Athénée décrit un spectacle que sa source attribue à Callias d'Athènes : un prologue énumérant les lettres, un ensemble choral féminin organisé autour de combinaisons syllabiques, un échange portant sur les voyelles et une devinette décrivant graphiquement les parties d'une lettre ou d'un mot. Le texte antique associe encore ces procédés à Euripide, Sophocle, Agathon et à d'autres praticiens de la description alphabétique. [B] Une difficulté historique apparaît aussitôt : Athénée n'est pas témoin direct de la représentation et ses propositions d'antériorité ou d'imitation peuvent relever du jeu érudit, de la concurrence comique ou d'une généalogie reconstruite. Un autre problème concerne l'identité même de Callias : l'auteur du spectacle décrit par Athénée pourrait être le poète comique homonyme, sans que cette identification soit définitivement garantie. On peut néanmoins étudier les lettres comme objets sonores, gestes visibles, instruments d'enseignement et supports de conflit entre tragédie et comédie. [C] Les scènes finales traduisent ces questions en fiction déclarée et séparée.
+
+## I. [A] Callias : la prudence prosopographique
+
+Callias est un nom fréquent à Athènes. L'*Oxford Classical Dictionary*, dans la notice « Callias (2), Athenian comic poet » attribuée à Kenneth Dover, rappelle l'existence d'un poète de l'ancienne comédie victorieux aux Grandes Dionysies en 446 avant notre ère. La notice mentionne aussi une activité attestée ultérieurement et précise que le Callias auquel Athénée attribue une *grammatikē tragōidia* **pourrait** être ce même auteur. La modalisation est essentielle : une homonymie antique n'est pas résolue en invoquant simplement le prestige d'un poète connu. Référence : https://doi.org/10.1093/acrefore/9780199381135.013.1266 .
+
+La tradition rassemble sous le nom du comique différents titres et fragments. Mais la victoire de 446 est une donnée de carrière, non la date de notre spectacle. De même, la proximité chronologique que décrit Athénée entre Callias et Strattis ne fournit ni année de première représentation ni identité prosopographique démontrée. L'historien doit conserver trois niveaux distincts : le poète attesté par les documents agonistiques, l'auteur nommé dans le récit d'Athénée, et le dramaturge dont le spectacle perdu serait l'œuvre. Leur identification est vraisemblable pour une partie de la recherche ; elle n'est pas une identité matérielle comparable à une signature autographe.
+
+[B] Ce scrupule change l'interprétation historique. S'il s'agit du comique victorieux en 446, nous avons affaire à une expérimentation potentiellement inscrite dans la concurrence théâtrale du Ve siècle. S'il s'agit d'un autre Callias, les rapprochements avec la carrière connue perdent leur force chronologique. Les deux possibilités permettent de lire le témoignage, mais seule la première autoriserait un récit biographique cohérent. La difficulté ne justifie pas d'abandonner l'œuvre : elle doit être publiée comme question, et non résolue par un faux portrait d'auteur.
+
+## II. [A] Le témoin réel : Athénée et son banquet de textes
+
+Le livre X des *Deipnosophistes* est consacré, dans cette séquence, aux énigmes, jeux de mots, problèmes de lettres, syllabes et noms. Le spectacle de Callias apparaît au sein d'une conversation savante qui examine comment on peut faire jouer l'intelligence et la parole. Athénée écrit à l'époque impériale, bien après l'Athènes classique ; il cite ou paraphrase des textes et des traditions qui n'ont pas tous survécu indépendamment. Son œuvre ne constitue donc pas un procès-verbal de représentation.
+
+[A] En X, 448b, l'échange rappelle le spectacle de Callias comme exemple d'une méthode de jeu alphabétique. En X, 453c–455b, Athénée décrit beaucoup plus longuement l'ordre des lettres du prologue, l'articulation des syllabes par un ensemble féminin, la succession des voyelles et une énigme graphique. Un autre renvoi apparaît en VII, 276a. Les subdivisions de Stephanus sont des repères d'édition, non des actes de la comédie antique. La traduction anglaise ancienne de C. B. Gulick est consultable à l'adresse https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/10E*.html ; le grec et l'apparat critique doivent être vérifiés dans l'édition savante pour toute citation formelle.
+
+[B] Le choix de la citation est orienté par la curiosité d'Athénée pour les énoncés énigmatiques. Il sélectionne ce qui permet de discuter une technique de langage. Ce filtre peut donner à une représentation complexe l'apparence d'une suite de leçons d'alphabet ; rien n'autorise à en déduire que le spectacle ne comportait pas de personnages, de satire ou d'interactions qui auraient été omis. La transmission n'est pas une fenêtre transparente : c'est une chaîne de décisions intellectuelles.
+
+## III. [A] Que signifie « tragédie grammaticale » ?
+
+Le groupe grec *grammatikē tragōidia* associe la compétence relative aux lettres, *grammata*, à la forme nommée *tragōidia*. L'expression est attestée dans la tradition d'Athénée. Le mot *grammatikē* ne doit pas être projeté sans précaution sur une grammaire scolaire moderne organisée en parties du discours, manuels d'exercices et programmes officiels. Il peut viser l'alphabet, le maniement de l'écrit et l'art de former des syllabes. Le mot *tragōidia*, lui, est chargé de connotations génériques, musicales et de prestige poétique.
+
+[B] Traduire par « tragédie grammaticale » est fidèle à la provocation du libellé ; traduire par « revue de l'alphabet » privilégie l'effet spectaculaire que décrit le compilateur. Aucune des deux expressions ne doit effacer l'autre. L'œuvre pourrait avoir parodié le modèle tragique tout en tirant son matériau de l'école élémentaire ; mais la tradition ne nous livre pas assez d'éléments pour choisir entre une parodie organisée et une qualification humoristique donnée après coup. Une troisième possibilité est qu'il s'agisse d'un spectacle transgénérique, perçu comme déroutant par les classifications postérieures.
+
+Le problème universitaire n'est donc pas de baptiser une pièce perdue « tragédie » ou « comédie » avec une certitude artificielle. Il est de comprendre pourquoi un texte érudit juge féconde l'association de l'alphabet et du grand genre tragique. Dès le titre rapporté, le langage noble semble soumis à l'épreuve de ses matériaux les plus élémentaires.
+
+## IV. [A] Le prologue alphabétique : ordre, mémoire, contrainte
+
+Athénée rapporte une entrée qui parcourt les lettres du commencement à la fin et évoque un retour à l'alpha interprété par le transmetteur comme analogue à un dénouement tragique. Le détail important n'est pas seulement la liste, mais sa destination scénique : l'ordre alphabétique peut servir de trame à une parole rythmée. Une séquence qui serait muette dans une table d'écriture devient action temporelle lorsqu'elle est prononcée devant un public.
+
+[B] Il est possible de comprendre le prologue comme le premier stade d'une « fabrique » poétique. Au lieu de présenter d'abord une généalogie mythique, il exhiberait les composants de toute parole dramatique. Mais le texte connu ne permet pas de soutenir qu'un personnage aurait déclaré explicitement vouloir renverser le tragique ; un tel programme appartient à la lecture, non au fragment.
+
+Le retour au commencement est plus intéressant qu'une simple récitation scolaire. Le cours alphabétique a une direction conventionnelle ; une intrigue tragique, elle, va d'une situation initiale à une reconnaissance ou à une catastrophe. Rapprocher ces opérations produit un décalage de registre. L'ordre le plus banal se donne l'allure d'une nécessité dramatique. À ce point, la plaisanterie peut être conceptuelle : l'alpha revient non parce qu'un dieu l'a voulu, mais parce que la convention linguistique permet de recommencer.
+
+## V. [A] Le chœur féminin et les syllabes
+
+Athénée décrit un chœur de femmes qui combine des lettres avec des voyelles dans des ensembles répétés, dotés de métrique et de mélodie. Il évoque des configurations successives autour de consonnes différentes et le jeu de strophe et d'antistrophe. La répétition structurée appartient au témoignage ; en revanche, le nombre d'interprètes, leur costume, leur âge et leur disposition sont inconnus. Dire « un chœur de vingt-quatre femmes représentant chacune une lettre » serait trop catégorique : c'est une hypothèse de représentation, non le compte rendu d'une didascalie conservée.
+
+**Schéma pédagogique moderne, non citation grecque :** une consonne stable C peut être articulée successivement avec plusieurs voyelles : C+A, C+E, C+Ē, C+I, C+O, C+U, C+Ō. La source exemplifie une telle combinatoire avec bêta, puis gamma ; les valeurs phonétiques et les noms des lettres dans le grec antique ne se superposent pas mécaniquement aux transcriptions scolaires actuelles.
+
+[B] La scène possible n'est pas seulement la voix qui parle, mais la voix qui devient méthode. L'auditoire reconnaît la règle avant de connaître chaque réalisation : il peut anticiper, corriger mentalement, rire d'une variation ou attendre une faute. Cette participation sans intervention matérielle pourrait être un moteur du comique. L'antistrophe, si elle suit les combinaisons, peut faire entendre la tension entre répétition et différence. Le corps du chœur serait alors le lieu où la classification devient rythme. Ce dernier point reste une proposition esthétique, faute de notation musicale antique conservée.
+
+## VI. [A/B] Sept voyelles, des systèmes graphiques non intemporels
+
+[A] Le témoignage fait intervenir une énumération de sept voyelles dans l'échange rapporté par Athénée. Les dénominations et transcriptions des lettres varient selon les époques et les systèmes d'enseignement. Il serait anachronique de présenter une nomenclature issue des manuels contemporains comme la diction rigoureusement antique. L'alpha, l'êta et l'oméga, les distinctions vocaliques et les combinaisons notées par la tradition écrite demandent une attention philologique à la longue histoire de l'alphabet grec.
+
+[A] Le passage mentionne aussi le signe E associé au sanctuaire de Delphes ; le rapprochement savant renvoie à un symbole dont Plutarque a consacré une discussion dans le *De E apud Delphos* (*Moralia* 384d et suiv.). Ce témoignage de Plutarque est indépendant et postérieur. Il ne prouve pas que Callias ait écrit une scène dans un sanctuaire, ni qu'il ait emprunté une théorie théologique de la lettre.
+
+[B] Une performance consacrée aux voyelles éprouve des frontières : la lettre est graphique, la voyelle sonore, la syllabe combinatoire. Rien ne garantit que les spectateurs lisaient tous couramment ; ils pouvaient entendre les modèles, les retenir et distinguer une succession régulière. L'art du chœur rend possible une participation fondée sur l'oreille qui ne présuppose pas une maîtrise uniforme de l'écrit.
+
+## VII. [A/B] La réforme alphabétique de 403 : problème, non solution
+
+[A] Athènes officialise l'emploi de l'alphabet ionien à la fin du Ve siècle, traditionnellement associé à l'archontat d'Euclide, 403/402. Cet événement n'implique pas que les signes ioniens n'étaient ni connus ni pratiqués auparavant. Les usages locaux, les inscriptions, les textes et les habitudes de lecture n'évoluent pas en bloc par simple décret.
+
+[B] La forme alphabétique transmise par Athénée soulève donc des questions légitimes de chronologie, de normalisation et de copie. Une récitation de vingt-quatre lettres dans un témoin tardif peut refléter l'état d'un spectacle ancien, mais l'orthographe du texte livré par les manuscrits d'Athénée ne saurait être automatiquement considérée comme celle de la représentation originale. On ne peut pas dater la pièce simplement parce qu'un système de lettres y apparaît : le passage par plusieurs siècles de copie complique la preuve. Le même principe vaut dans l'autre sens : la présence de formes ioniennes ne suffit pas à démontrer une fabrication impériale.
+
+L'historien doit séparer **l'histoire matérielle de la graphie** et **l'histoire dramatique de la performance**. L'une appelle les inscriptions et la paléographie ; l'autre, les témoins de théâtre, les concours, les fragments et leurs contextes. La coïncidence de ces histoires n'est jamais acquise.
+
+## VIII. [A] Les lettres décrites par leur forme : une devinette obscène
+
+Le récit d'Athénée rapporte une séquence dans laquelle une figure féminine décrit au moyen de traits, d'un cercle et d'éléments graphiques ce qu'elle hésite à nommer directement. Le compilateur et ses commentateurs y reconnaissent un usage de l'énigme, possiblement grivoise. L'élément attesté est la description des formes et l'annonce indirecte ; l'identification graphique précise demande l'examen des variantes et des signes restitués dans les éditions.
+
+[B] Une devinette de ce type engage plusieurs niveaux d'adresse. Un personnage semble dissimuler quelque chose par pudeur ; son détour oblige cependant le public à imaginer très concrètement ce qui n'est pas dit. Le silence lexical devient une multiplication de représentations mentales. Le procédé est comique parce qu'il transforme le souci de ne pas nommer en un art minutieux de montrer. Il serait abusif, en l'absence de contexte, d'inventer l'identité, le statut social ou le destin de la personne qui parle.
+
+Les formes géométriques mettent en outre en jeu une difficulté de traduction. Un signe connu par la vue ne possède pas toujours un équivalent immédiatement intelligible dans le commentaire parlé. La scène pourrait confronter l'orthographe à l'ostension : décrire est parfois plus long et plus ridicule que montrer.
+
+## IX. [A] Le cas Euripide : la rivalité entre documentation et vantardise
+
+Athénée place le spectacle de Callias en rapport avec Euripide et sa *Médée*, ainsi qu'avec un passage relatif à l'écriture du nom de Thésée dans une tragédie d'Euripide. La narration semble pousser très loin l'idée d'imitation : des procédés de la tragédie seraient redevables à l'expérience alphabétique de Callias. On ne peut cependant pas tirer de cette affirmation une histoire des innovations chorales comme si elle était attestée par deux traditions indépendantes.
+
+[B] Ralph M. Rosen a précisément consacré une étude à la confusion et à l'humour de ce dossier : « Comedy and Confusion in Callias' Letter Tragedy », *Classical Philology* 94/2 (1999), p. 147–167, DOI https://doi.org/10.1086/449428 . Le débat invite à replacer l'énoncé d'influence dans une tradition qui peut provoquer le lecteur : le comique serait-il devenu le maître des tragiques ? Une possibilité est que l'assertion soit volontairement disproportionnée, voire dérisoire. Sans présenter la solution de Rosen comme un verdict lu dans un texte intégral non accessible ici, la question même de l'exagération est historiquement fondée.
+
+L'enjeu n'est pas de prouver que Callias a inventé les rythmes tragiques. L'énoncé nous renseigne plus sûrement sur une manière ancienne de raconter la littérature : chercher des inventions, hiérarchiser les genres, attribuer à un auteur des procédés que d'autres pratiquent, produire des lignées causales parfois paradoxales.
+
+## X. [A] Sophocle et le danger de la chronologie forcée
+
+Athénée évoque également Sophocle et un vers d'*Œdipe roi* (vers 332–333 dans les éditions courantes), en soutenant que le poète tragique aurait tiré des leçons de Callias dans la façon de segmenter les mots et le rythme. L'hypothèse d'une imitation de cette nature ne repose pas, dans notre dossier, sur des documents contemporains indépendants. Même la date exacte de représentation d'*Œdipe roi* n'est pas définitivement fixée.
+
+[B] Le rapprochement peut fonctionner comme un exemple de lecture détournée : trouver dans une phrase tragique une succession sonore qui évoque le jeu des lettres. Mais deux énoncés qui possèdent un trait métrique commun ne sont pas nécessairement liés par une chaîne d'emprunt. Les règles du mètre précèdent les œuvres particulières ; l'usage d'une coupe ou d'un redoublement ne signale pas à lui seul le transfert d'un spectacle à un autre.
+
+Le récit sur Callias, au lieu d'établir l'origine de la tragédie, met en lumière une difficulté générale de l'histoire littéraire. La chronologie ne devient causalité qu'avec des indices positifs. La vraisemblance n'est pas une attestation.
+
+## XI. [A/B] Comparaison contrôlée avec Agathon et les noms écrits
+
+Athénée rassemble après Callias des exemples de descriptions de lettres attribuées à des tragiques : Euripide, Agathon, Théodecte et un passage concernant Sophocle. Les descriptions de Thésée sont fondées sur la forme visible des caractères plutôt que sur leur valeur phonétique immédiatement énoncée. Pour Agathon, les discussions portent sur une œuvre transmise sous l'intitulé *Téléphe* ou un problème de titre dans la tradition ; il faut éviter d'aplanir les difficultés propres à ce fragment.
+
+[B] Ici, le véritable comparatisme n'est pas de proclamer un plagiaire. Il consiste à distinguer trois usages dramatiques des lettres : l'énumération alphabétique, la combinaison vocale et l'identification graphique d'un nom. Tous traitent l'écriture comme un objet de parole, mais ils ne supposent pas la même situation scénique. Une personne illettrée peut reconnaître une silhouette de lettre sans en connaître le nom ; une personne alphabétisée peut entendre un mot sans en voir la forme ; un chœur peut rythmer l'exercice sans transmettre un message.
+
+La comparaison interne MYTHOS avec l'étude sur Agathon et *Téléphe* doit être intellectuelle, non généalogique. On ne transfère ni date, ni fragment, ni personnage d'un dossier dans l'autre. Le théâtre conserve ici la mémoire d'un problème commun : comment l'image d'un caractère passe-t-elle dans la parole ?
+
+## XII. [A/B] Une histoire sociale de l'écrit plutôt qu'un mythe de l'école
+
+[A] Les communautés grecques classiques connaissent des pratiques d'écriture diverses : inscriptions civiques, marques de propriété, comptes, décrets, contrats, graffites, correspondances, exercices. Leur extension sociale n'est pas uniforme. Le récit d'Athénée, tardif, ne fournit pas une enquête statistique sur l'alphabétisation athénienne.
+
+[B] Une interprétation séduisante ferait de la *Tragédie des lettres* une satire des enseignants et de leurs élèves. Elle n'est pas impossible, mais aucun maître d'école déterminé n'est attesté dans le passage conservé. Une autre lecture y verrait une célébration des savoir-faire de lecture et d'écriture ; elle est également invérifiable comme intention de l'auteur. Nous pouvons seulement établir que le langage de la combinaison alphabétique devient matière théâtrale. Le savoir n'est pas ici extérieur à la fête : il en fournit une technique potentielle.
+
+L'exercice élémentaire recèle une puissance de renversement. Celui qui paraît savoir peut être déconcerté par une devinette ; celui qui ne maîtrise qu'un petit nombre de signes peut participer au rythme ; le spécialiste peut produire un discours si compliqué qu'il devient risible. Ces configurations sont des modèles d'analyse, pas des rôles distribués par le texte antique.
+
+## XIII. [B] Philologie de la répétition : faire entendre la règle
+
+Le mécanisme consonne–voyelle opère par constance et permutation. Une composante reste, l'autre varie. La répétition crée de l'attente, tandis que la variation donne à entendre ce qui, dans la nouvelle syllabe, n'est plus exactement le même. Une telle structure est assez simple pour être mémorisée ; elle est aussi assez insistante pour devenir comique par accumulation. Le rire peut naître d'un excès de méthode.
+
+On ne saurait reconstruire le nombre des mesures, la modalité mélodique, le tempo des chanteuses ni l'accompagnement instrumental. En revanche, l'indication d'un jeu strophique invite à distinguer le code écrit de sa réalisation sonore. La notation « B+A » n'est pas la musique de la syllabe ; elle est une description abstraite de sa construction. Sur scène, la voix donne à la règle son épaisseur corporelle. Ce passage du signe au souffle est le point de jonction entre histoire de l'écrit et poétique du théâtre.
+
+Une lecture contemporaine pourrait rapprocher le dispositif de certaines œuvres de poésie sonore ; le rapprochement serait heuristique mais anachronique s'il transformait Callias en précurseur volontaire des avant-gardes modernes. Les formes voisines ne font pas une filiation.
+
+## XIV. [B] L'énigme contre la transparence du langage
+
+Un alphabet est souvent présenté comme un dispositif d'ordre. L'énigme introduit le désordre dans cet ordre apparent. Elle conserve des règles, mais elle oblige le destinataire à quitter l'habitude de la lecture immédiate. Décrire une lettre sans la nommer revient à détacher le signe de l'usage ordinaire qui en fait un instrument presque invisible.
+
+Dans le cadre des *Deipnosophistes*, l'énigme a aussi une dimension sociale : elle institue un défi, sépare provisoirement ceux qui comprennent de ceux qui cherchent, et transforme la solution en reconnaissance publique. Le détour grivois peut opposer un vocabulaire pudique à une imagination délibérément peu pudique. Il faut cependant séparer la fonction du passage chez Athénée, qui classe les énigmes, et sa fonction dramatique originelle, que nous ne connaissons pas.
+
+La question philosophique n'est pas seulement « que représente cette lettre ? », mais « quelles conditions permettent de la reconnaître ? ». La scène pourrait montrer qu'un signe n'est lisible que dans une communauté qui a appris certaines conventions. La lettre paraît naturelle au lecteur expert précisément parce que son apprentissage est devenu invisible.
+
+## XV. [B] Hegel : comique, liberté et autonomie des moyens
+
+Dans les cours d'esthétique transmis sous le titre *Vorlesungen über die Ästhetik*, Hegel décrit des tensions entre les fins que les personnages poursuivent et la manière dont la subjectivité comique peut exposer les contradictions de ces fins. On ne doit pas lui prêter une analyse de Callias, ni prétendre que le *Système* hégélien expliquerait directement la scène d'un Ve siècle mal documenté.
+
+Comme instrument conceptuel, la question est pourtant féconde. Si l'alphabet, moyen habituellement subordonné à l'expression de pensées, devient le sujet même du spectacle, le moyen prend temporairement la place de la fin. Une suite de phonèmes se pare de la solennité d'une action tragique. L'esprit du public peut maintenir ensemble ces deux lectures : il reconnaît la dignité du modèle tragique et le caractère ordinaire du matériau alphabétique. De ce décalage peut provenir une liberté comique : aucune catastrophe ne contraint les voyelles à être des héroïnes.
+
+Ce rapprochement est un **outil de lecture moderne**, sans équivalent démontré dans la pensée de Callias. Il ne sert ni à attribuer un contenu doctrinal au fragment ni à fabriquer une philosophie historique de l'alphabet.
+
+## XVI. [B] Nietzsche : le chœur, la voix et les limites de la comparaison
+
+Dans *La Naissance de la tragédie* (1872), Nietzsche fait du rapport entre musique, chœur et représentation un point central de sa réflexion sur le drame grec. Cette théorie se déploie à partir de questions et de valeurs qui sont les siennes ; elle ne constitue pas un commentaire philologique sur la *Grammatikē tragōidia*.
+
+Le chœur syllabique décrit par Athénée fournit néanmoins un objet de confrontation. La répétition d'unités sonores, parfois dépourvues de signification autonome, pourrait produire une expérience de rythme avant de former un récit. À l'inverse, il serait injustifié de confondre cette expérience avec le « dionysiaque » nietzschéen : aucun témoignage ne décrit une transe, une extase rituelle ou une fusion du chœur avec Dionysos dans ce spectacle précis.
+
+La comparaison donne ici une règle négative aussi importante que ses possibilités : une théorie philosophique du chœur ne remplit pas les blancs d'un témoin antique. Elle aide à demander comment une succession de syllabes pourrait avoir une puissance sensible propre, sans que nous sachions comment elle sonnait.
+
+## XVII. [B] Vernant, Détienne et le déplacement de l'intelligence
+
+Jean-Pierre Vernant a montré l'intérêt d'historiciser les formes de pensée grecques plutôt que d'en faire une version inachevée de nos catégories. Ses travaux sur le mythe, la cité et les pratiques symboliques encouragent à examiner l'écriture comme activité culturellement située. Ils ne prouvent aucune scène de Callias.
+
+Marcel Détienne, notamment dans les études menées avec Vernant sur la *mētis*, invite à prendre au sérieux les procédures d'intelligence liées à l'ajustement, au détournement et à l'adresse. Une énigme scénique peut être analysée comme une relation entre qui parle, qui croit savoir et qui doit recomposer un sens. Ce n'est pas une application littérale d'une théorie à un passage absent : c'est une méthode de questionnement qui oblige à décrire les opérations de l'esprit sans ignorer la situation sociale de leur exercice.
+
+Georges Dumézil n'offre pas ici de modèle explicatif direct. Une lecture trifonctionnelle du chœur alphabétique serait arbitraire : les attestations ne présentent ni trois fonctions sociales, ni classes divines correspondantes. L'exclusion motivée d'un outil est elle aussi une opération de rigueur comparatiste.
+
+## XVIII. [B] La parole féminine : présence attestée, situation inconnue
+
+[A] Athénée signale un groupe choral féminin, et le passage énigmatique adopte une adresse féminine. L'observation grammaticale ne doit pas être convertie sans preuve en biographie d'interprètes féminines. Les conventions de la scène grecque classique et la présence de personnages féminins sont des questions distinctes de la participation corporelle des femmes comme actrices.
+
+[B] Les syllabes peuvent être lues comme un matériau neutre ; elles peuvent aussi être placées dans une économie du regard, de la pudeur et de l'autorité, puisque le témoignage associe des voix féminines et une devinette sur les formes écrites. Mais aucun texte conservé ne dit que ces femmes seraient élèves, prêtresses, épouses, prostituées, musiciennes de métier ou juges du langage. Il faut préserver ce blanc.
+
+On peut en revanche faire de l'absence une question d'histoire du genre : la voix qui enseigne les noms des lettres est-elle censée posséder un savoir reconnu ? Ou l'énoncé construit-il son ridicule à partir d'une juxtaposition inattendue entre pédagogie et chœur féminin ? Notre incapacité à répondre n'est pas un échec méthodologique ; elle rappelle que la manière de citer d'Athénée conserve certains procédés mais efface les rapports scéniques qui les rendaient intelligibles.
+
+## XIX. [B] Tragédie et comédie : pas de chronologie du progrès
+
+Le récit qui fait dépendre des procédés tragiques de Callias a quelque chose d'une inversion des hiérarchies littéraires. La tragédie est souvent considérée comme le genre noble, la comédie comme son observatrice moqueuse. Ici, la performance alphabétique pourrait devenir l'origine supposée de raffinements tragiques. On ne doit pas inférer un programme de réforme culturelle attribuable à Callias. Ce qui est historiquement analysable, c'est le travail de la tradition sur les relations entre genres.
+
+Les comédies anciennes pratiquent souvent la citation détournée, la mise en concurrence des poètes, la transformation des registres. Si un chœur décline l'alphabet avec les gestes ou les conventions sonores du tragique, la dignité métrique passe dans le matériau le plus simple. Mais la source ne spécifie ni masque tragique ni mise en scène burlesque de personnages de grands héros. Toute image de cette sorte serait une production [C] ou, à défaut, une hypothèse [B] clairement déclarée.
+
+La comédie ne doit pas être définie ici comme l'antithèse superficielle du savoir. Elle peut tirer son énergie des opérations savantes elles-mêmes : classer, distinguer, prononcer, répéter, interpréter et déchiffrer.
+
+## XX. [A/B] Une méthode de lecture à trois échelles
+
+**Échelle matérielle [A].** Les attestations directes sont les mots, séquences et descriptions qu'Athénée conserve. Les commentaires modernes doivent constamment les rapporter à leurs lieux de transmission. Un titre transmis, une description de chœur et un nom d'auteur forment un dossier, pas une partition complète.
+
+**Échelle dramatique [B].** Une représentation a nécessairement comporté du temps, des voix et un public, mais ses accessoires précis, sa durée, ses entrées et ses sorties échappent à notre savoir. La combinatoire alphabétique se prête à une dramaturgie, mais elle ne permet pas de reconstituer une intrigue. Cette limitation doit précéder toute tentative d'évocation scénique.
+
+**Échelle historiographique [B].** Les éditions modernes ne sont pas interchangeables. Une traduction ancienne facilite l'accès, une édition critique établit des lectures et rapporte des variantes, un commentaire propose une interprétation. Aucun nom de chercheur n'est une formule magique qui transformerait une supposition en témoignage. Une édition MYTHOS doit toujours indiquer la nature de sa preuve.
+
+## XXI. [B] Pourquoi un fragment bref mérite une monographie
+
+Une citation courte peut concentrer plusieurs problèmes difficiles. D'abord la coexistence d'un alphabet comme instrument quotidien et comme sujet dramatique. Ensuite la distance entre le texte transmis et l'action perdue. Enfin la tentation d'écrire une histoire de l'invention artistique en réattribuant la priorité à un poète dont l'œuvre est presque entièrement disparue.
+
+La philologie de la comédie fragmentaire ne se réduit pas à traduire un bout de vers. Elle examine les raisons pour lesquelles un compilateur l'a choisi, les jeux qu'il pouvait encore comprendre et ceux qu'il a peut-être remodelés. Elle rend compte de son propre manque d'information. Face à Callias, une étude peut être substantielle précisément en refusant la reconstitution indue d'un scénario : le grand problème est le statut d'une preuve dans la mémoire des pratiques théâtrales.
+
+Une enquête complète devrait collationner directement le texte grec d'Athénée avec l'apparat de Kassel–Austin et les éditions modernes du compilateur. Cette monographie en décrit les lieux documentaires et les enjeux assurés ; elle ne prétend pas avoir résolu toutes les variantes du passage.
+
+## XXII. [C] Scène originale I — La lettre qui refuse son rang
+
+*Création dramatique moderne MYTHOS, non fragment de Callias. Personnages fictifs : ALPHA, OMÉGA, UNE VOIX DU CHŒUR, LE COPISTE. L'espace scénique est une table vide. Le dialogue invente un conflit de rang qui n'est attesté nulle part.*
+
+**ALPHA.** On m'a placée au début et tout le monde a cru que j'étais née la première.
+
+**OMÉGA.** On m'a placée à la fin et l'on m'a offert le dernier mot. Il ne m'appartient pas : il appartient à la main qui décide de refermer la liste.
+
+**LE COPISTE.** Je ne décide rien. Je copie l'ordre qu'on m'a enseigné.
+
+**UNE VOIX DU CHŒUR.** Alors celui qui t'a enseigné copie-t-il celui qui l'a enseigné ?
+
+**LE COPISTE.** Il y a toujours une main avant une autre.
+
+**ALPHA.** Tu dis cela pour ne pas répondre. Si l'on recommence la liste après sa fin, je succède à Oméga.
+
+**OMÉGA.** Et si l'on part du milieu, aucune de nous n'est à sa place.
+
+**LE COPISTE.** Un ordre doit commencer quelque part.
+
+**UNE VOIX DU CHŒUR.** Cela ne lui donne pas un droit à commander.
+
+**ALPHA.** Et pourtant je figure sur toutes les premières tablettes.
+
+**OMÉGA.** Moi sur les dernières lignes, quand la place manque et que l'élève a trop serré ses signes.
+
+**LE COPISTE.** Il n'est pas question de justice, mais d'habitude.
+
+**UNE VOIX DU CHŒUR.** L'habitude est-elle juste parce qu'elle est répétée ?
+
+**LE COPISTE.** Vous voulez faire un procès à mon alphabet.
+
+**ALPHA.** Non, à ton idée que l'ordre dispense de penser.
+
+**OMÉGA.** Écris-nous dans l'autre sens.
+
+*Le copiste trace le dernier signe avant le premier, puis s'arrête.*
+
+**LE COPISTE.** Je sais encore écrire. Mais mon regard ne sait plus où aller.
+
+**UNE VOIX DU CHŒUR.** Ce n'est pas une catastrophe. Tu viens de rencontrer une convention.
+
+*Fin de l'expérience théâtrale contemporaine I ; aucune réplique antique n'est reproduite.*
+
+## XXIII. [C] Scène originale II — Le maître des syllabes
+
+*Création dramatique moderne MYTHOS, non fragment antique. Personnages fictifs : LA MAÎTRESSE, L'APPRENTI, LA MUSICIENNE. La musique n'est pas une restitution de mélodie grecque.*
+
+**LA MAÎTRESSE.** Aujourd'hui, nous n'apprendrons aucun mot. Nous commencerons par entendre pourquoi un mot est possible.
+
+**L'APPRENTI.** Si je connais déjà le nom du pain, pourquoi dois-je chanter une syllabe qui ne veut rien dire ?
+
+**LA MUSICIENNE.** Une note seule ne promet pas non plus un banquet.
+
+**L'APPRENTI.** Mais elle peut le rendre plus joyeux.
+
+**LA MAÎTRESSE.** Voilà ce que je veux que tu découvres. Une syllabe peut être pauvre en sens et riche en possibilités.
+
+**L'APPRENTI.** Elle ressemble alors à une monnaie qui n'a pas encore trouvé son acheteur.
+
+**LA MUSICIENNE.** Ou à une porte qui attend quelqu'un pour la franchir.
+
+**LA MAÎTRESSE.** Garde la même consonne. Change seulement la voyelle.
+
+**L'APPRENTI.** Cela ne devient pas plus intelligent.
+
+**LA MAÎTRESSE.** Cela devient différent. Écoute ce que la différence te fait attendre.
+
+**LA MUSICIENNE.** Je donnerai à la première syllabe une durée longue et à la suivante une brève. Ne me demandez pas si un ancien compositeur a fait cela ; je l'invente devant vous.
+
+**L'APPRENTI.** Je n'entends plus une leçon. J'entends quelqu'un qui se trompera si je modifie la règle.
+
+**LA MAÎTRESSE.** Tu as compris le jeu.
+
+**L'APPRENTI.** Alors je vais changer la règle sans le dire.
+
+**LA MUSICIENNE.** Ce sera ta première plaisanterie de grammairien.
+
+**LA MAÎTRESSE.** Et peut-être ta première découverte de poète.
+
+*L'apprenti chante une syllabe qui rompt le motif. La musicienne se tait un instant, puis lui répond par une autre variation.*
+
+**L'APPRENTI.** Qui a gagné ?
+
+**LA MAÎTRESSE.** Personne. La règle a cessé d'être invisible.
+
+*Fin de l'expérience théâtrale contemporaine II.*
+
+## XXIV. [C] Scène originale III — Le procès de l'imitation
+
+*Création dramatique moderne MYTHOS, non fragment antique. Personnages fictifs : LE CRITIQUE, UNE ACTRICE, L'ARCHIVISTE, UN ENFANT. Aucune figure historique n'est présentée comme prononçant ces paroles.*
+
+**LE CRITIQUE.** J'ai trouvé dans une vieille phrase la preuve que tous les grands poètes doivent leurs chants à un inventeur.
+
+**L'ARCHIVISTE.** Quel est le document ?
+
+**LE CRITIQUE.** Une phrase qui attribue l'invention à celui dont je parle.
+
+**L'ARCHIVISTE.** Elle prouve que quelqu'un l'a attribuée. Ce n'est pas la même chose.
+
+**L'ACTRICE.** Et que devient mon travail, dans ta chaîne d'inventions ? Celui qui prononce et interprète ne crée-t-il donc jamais ?
+
+**LE CRITIQUE.** Il ne fait que répéter.
+
+**L'ENFANT.** J'ai répété mon alphabet ce matin. Il ressemblait à une plainte. Le soir, j'ai recommencé et tout le monde a ri.
+
+**LE CRITIQUE.** Tu as probablement imité sans le savoir quelqu'un de plus ancien.
+
+**L'ENFANT.** Alors celui que j'aurais imité avait-il imité mon rire de ce soir ?
+
+**LE CRITIQUE.** C'est impossible, puisque tu viens après lui.
+
+**L'ACTRICE.** Tu connais l'ordre des dates. Tu ne connais pas la direction de toutes les ressemblances.
+
+**L'ARCHIVISTE.** Il manque des archives. Ce manque ne donne pas le droit de les inventer.
+
+**LE CRITIQUE.** Sans inventions, votre histoire restera incomplète.
+
+**L'ARCHIVISTE.** Elle l'est. C'est une vérité plus utile qu'une certitude factice.
+
+**L'ENFANT.** Puis-je inventer une scène, alors ?
+
+**L'ARCHIVISTE.** Oui, à condition de dire qu'elle est de toi.
+
+**L'ACTRICE.** Et nous pourrons la jouer sans prétendre qu'elle est sortie intacte d'un papyrus.
+
+*Le critique repose le rouleau. Il n'a pas perdu le plaisir de raconter : il a perdu seulement le droit de confondre son récit avec une preuve.*
+
+*Fin de l'expérience théâtrale contemporaine III.*
+
+## XXV. [A/B] Tableau critique des affirmations et de leur statut
+
+**[A] Attestations sûres en tant que témoignages :** Athénée nomme Callias d'Athènes ; il évoque une *grammatikē tragōidia* ; il rapporte un parcours alphabétique, un chœur féminin de syllabes, l'organisation de voyelles et une devinette visuelle ; il relie dans son discours le dispositif à différents tragiques ; les éditeurs modernes classent le dossier parmi les fragments comiques. Un poète comique appelé Callias est par ailleurs attesté par la documentation littéraire et agonistique.
+
+**[B] Questions ouvertes :** l'identification ferme entre ce poète et le Callias d'Athénée ; l'intitulé officiel et le classement générique du spectacle ; son année de représentation ; le nombre et le sexe réel des interprètes ; le degré d'alphabétisation attendu du public ; la nature exacte des accompagnements ; l'authenticité d'une influence sur Euripide ou Sophocle ; la scénographie et le sujet global de l'œuvre. L'égalité des sonorités ne démontre pas un emprunt littéraire.
+
+**[C] Inventions identifiées :** les disputes d'Alpha et d'Oméga, l'atelier de syllabes et le procès de l'imitation appartiennent seulement à l'écriture de MYTHOS. Aucun titre de fragment, numéro Kassel–Austin ou nom d'auteur antique ne leur est attribué.
+
+## XXVI. Continuité éditoriale et liens internes
+
+Cette monographie est autonome. Elle ne réattribue aucun numéro antérieur et ne réserve pas le suivant. Le titre recourt exclusivement aux variables transactionnelles **CLVI** et **156**, qui doivent être résolues par l'action de publication après lecture de la branche principale. Le dossier ne modifie ni le texte de l'étude déjà attribuée sur Cratinos et les *Kleoboulinai*, ni les études de théâtre tragique.
+
+**Dossier lié : Cratinos, *Kleoboulinai*, volume CXLVII (147).** Comparaison sur l'énigme et sur la projection moderne de voix féminines dans des pièces fragmentaires : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-147-cratinos-kleoboulinai-cleobuline-enigmes-voix-feminines-tradition-lexicographique.md .
+
+**Dossier lié : Agathon, *Téléphe*, volume CCLVIII (258) des tragédies.** Comparaison sur les descriptions graphiques de noms dans le témoignage d'Athénée, sans transfert de fragments : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/tragedies/volume-cclviii-agathon-telephe-trgf-f4-enigme-thesee-alphabet-mysie.md .
+
+**Dossiers liés : Cratinos, *Dionysalexandros* (volumes X et XXXVIII, héritage historique du catalogue).** Ils éclairent les opérations de parodie mythique, mais ne constituent pas des témoignages sur Callias. Le rapprochement doit préserver les deux entrées historiques et ne pas fabriquer un lien d'influence : https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-010-cratinos-dionysalexandros.md et https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-038-cratinos-dionysalexandros.md .
+
+Ces références constituent une continuité intellectuelle vérifiable sur les fichiers déjà présents ; toute insertion supplémentaire dans le sommaire généré, la recherche et le sitemap relève du circuit GitHub Actions après attribution effective. Un simple enregistrement dans la file ne suffit pas à affirmer l'existence d'une nouvelle URL publique.
+
+## XXVII. Sources primaires et éditions critiques
+
+1. **Athénée de Naucratis**, *Deipnosophistes* X, 448b, 453c–455b ; VII, 276a. Témoin principal du spectacle attribué à Callias. Texte anglais ancien de C. B. Gulick, dans l'édition Loeb (1930), consultable en ligne : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/10E*.html . Il s'agit d'un accès documentaire, non d'une collation diplomatique des manuscrits grecs.
+2. **Athénée**, mêmes passages du livre X, pour les rapprochements avec Euripide, Sophocle, Agathon, Théodecte et le drame satyrique ; ne pas confondre la citation du compilateur et l'attestation indépendante d'une relation d'influence.
+3. **Plutarque**, *De E apud Delphos*, *Moralia* 384d et suiv. : source comparative sur la lettre E à Delphes, non sur la représentation de Callias.
+4. **Inscriptions agonistiques athéniennes** relatives à Callias, discutées dans la notice de Kenneth Dover à l'*Oxford Classical Dictionary*. Un succès en 446 av. notre ère n'est pas une datation de la pièce alphabétique.
+5. **Rudolf Kassel et Colin Austin** (éd.), *Poetae Comici Graeci*, IV : *Aristophon–Crobylus*, Berlin–New York, de Gruyter, 1983, dossier Callias. ISBN 9783110024050. Présentation bibliographique vérifiable : https://kansalliskirjasto.finna.fi/Record/helka.99384333506253 . Les fragments doivent être cités, en cas de reprise littérale, selon cette édition et son apparat.
+6. **Theodor Kock** (éd.), *Comicorum Atticorum Fragmenta*, I, Leipzig, Teubner, 1880 : témoin de l'histoire éditoriale ; l'ancienne numérotation ne se substitue pas à celle de Kassel–Austin.
+7. **C. B. Gulick** (éd. et trad.), *Athenaeus, The Deipnosophists*, Loeb Classical Library, vol. IV, 1930 : accès au contexte et aux anciennes notes philologiques. Les éventuelles remarques spéculatives du commentaire n'ont pas le statut de témoignages antiques.
+
+## XXVIII. Bibliographie de recherche et comparatisme
+
+8. **Ralph M. Rosen**, « Comedy and Confusion in Callias' Letter Tragedy », *Classical Philology* 94, no 2 (1999), p. 147–167, https://doi.org/10.1086/449428 . Étude consacrée aux problèmes interprétatifs du dossier.
+9. **Joseph A. Smith**, « Clearing Up Some Confusion in Callias’ Alphabet Tragedy: How to Read Sophocles Oedipus Tyrannus 332–33 et al. », *Classical Philology* 98, no 4 (2003), p. 313–329, https://doi.org/10.1086/422369 . Discussion philologique du renvoi sophocléen.
+10. **Cornelis J. Ruijgh**, « Le Spectacle des lettres, comédie de Callias (Athénée X 453c–455b) », *Mnemosyne* 54 (2001), p. 257–335. Enquête sur le spectacle et la tradition grammaticale ; les solutions détaillées doivent être discutées sur le texte intégral.
+11. **Peter D. Arnott**, « The Alphabet Tragedy of Kallias », *Classical Philology* 55 (1960), p. 178–180. Jalons de l'historiographie de la pièce.
+12. **Niall W. Slater**, « Dancing the Alphabet: Performative Literacy on the Attic Stage », dans Ian Worthington et John M. Foley (dir.), *Epos and Grammata: Oral and Written Communication in Ancient Greece*, Leiden, Brill, 2002, p. 117–129. Pour l'articulation de la scène, de la danse et des pratiques de l'écrit.
+13. **Kenneth Dover**, « Callias (2), Athenian comic poet », *Oxford Classical Dictionary*, https://doi.org/10.1093/acrefore/9780199381135.013.1266 . La réserve sur l'identité du Callias du spectacle y est décisive.
+14. **Ian C. Storey**, *Fragments of Old Comedy*, Loeb Classical Library, Cambridge (Mass.), Harvard University Press, 2011, volumes de traduction et commentaires. À confronter à Kassel–Austin.
+15. **G. W. F. Hegel**, *Vorlesungen über die Ästhetik* (édition posthume des cours) : théorie du comique, employée ici seulement comme outil de lecture [B].
+16. **Friedrich Nietzsche**, *Die Geburt der Tragödie* (1872) : chœur et musique dans sa philosophie, sans attestation de Callias [B].
+17. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* (1965) : méthode d'histoire des représentations [B].
+18. **Marcel Détienne et Jean-Pierre Vernant**, *Les Ruses de l'intelligence : la mêtis des Grecs* (1974) : stratégie et intelligence pratique, rapprochement non causal [B].
+19. **Georges Dumézil**, *Mythe et épopée*, I (1968) : référence de méthode comparatiste, dont les catégories ne sont pas applicables sans preuves [B].
+
+**Précision critique.** L'accès direct au texte transmis par Athénée et les fiches bibliographiques a été contrôlé. Plusieurs publications spécialisées sont accessibles en notice ou résumé seulement ; cette étude ne prétend pas rapporter comme citations leurs conclusions détaillées. L'inventaire bibliographique est un programme de vérification cumulatif, non une preuve de collation intégrale de tous les volumes indiqués.
+
+### Conclusion
+
+La « Tragédie des lettres » est un objet d'histoire du théâtre aussi singulier que fragile. Ce qui est connu, c'est d'abord l'énoncé d'Athénée : un spectacle alphabétique attribué à Callias et rapproché d'expériences tragiques. Ce qui manque, c'est presque tout le reste : circonstances de représentation, texte intégral, musique, chorégraphie, datation et certitude prosopographique. Cette disproportion interdit toute restauration triomphale mais autorise une analyse féconde du signe qui devient voix, du chœur qui travaille une règle et du compilateur qui transforme une œuvre perdue en argument d'érudition.
+
+Le plus important résultat philologique ne consiste pas à proclamer Callias inventeur de la métrique tragique. Il consiste à conserver l'écart entre l'assertion antique et le fait démontré. Hegel, Nietzsche, Vernant et Détienne peuvent aider à formuler des problèmes modernes ; ils n'ajoutent pas une ligne à l'œuvre transmise. Les scènes [C] ne prétendent ni suppléer le manque ni représenter la réalité originelle : elles montrent, par leur étiquette même, que la création moderne reste possible sans falsifier l'archive.
+
+**Déclaration d'intégrité MYTHOS :** aucun fragment, vers, numéro d'édition, dialogue antique ou année de représentation n'a été inventé. Les parties [A], [B] et [C] restent visibles. Le titre numérique propre à cette livraison dépend exclusivement du reçu d'attribution GitHub ; aucune annonce éditoriale antérieure n'en tient lieu.

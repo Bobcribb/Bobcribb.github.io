@@ -1,0 +1,268 @@
+# MYTHOS — Les Origines du sacré — Chapitre 814 (volume DCCCXIV)
+
+## Kakapel (Kenya occidental) : peintures d’abri, sépultures à l’ocre et neuf millénaires de transformations sociales
+
+*Monographie universitaire originale, destinée à la file de publication de MYTHOS. Archéologie du bassin du lac Victoria ; datations radiocarbone ; archéobotanique et zooarchéologie ; sépultures ; iconographie rupestre ; histoire des rites ; comparaison philosophique. Sources contrôlées le 7 novembre 2026 ; aucun numéro canonique anticipé.*
+
+### Résumé
+
+L’abri de Kakapel, dans les collines de Chelelemuk, comté de Busia, à l’ouest du Kenya, associe des peintures rupestres et une succession d’occupations humaines documentées par plusieurs millénaires de dépôts archéologiques. Le site offre un exemple rare où une histoire de la représentation peut dialoguer avec une histoire détaillée des économies et des morts. Les données présentées en 2024 par Steven T. Goldstein, Natalie G. Mueller et leurs collaborateurs, puis dans une étude collective en 2025, éclairent les transitions entre occupations de chasseurs-cueilleurs, premières présences de plantes domestiquées et formations agropastorales de l’âge du Fer. Elles montrent aussi que les sépultures et les parures constituent des ensembles matériels distincts des figures peintes sur la paroi.
+
+L’erreur principale serait de dater les peintures de neuf mille ans parce que l’abri possède des niveaux d’occupation de cet âge, puis d’attribuer aux peintres la totalité des pratiques funéraires observées dans des couches plus récentes. La présente monographie déconstruit ce raccourci. L’étude des peintures figurant des animaux, des humains et des figures géométriques, des perles à résidus rouges et des restes végétaux ne permet pas de reconstituer une religion continue ; elle aide à déterminer quelles conditions techniques et sociales rendent plausible la production de gestes mémoriels, l’investissement de lieux et la transmission de significations.
+
+Les comparaisons avec les économies rituelles du monde grec, égyptien, mésopotamien, iranien, indien et chinois restent strictement contrôlées : elles confrontent des relations entre travail, offrande et mémoire, sans prétendre identifier des divinités ou des mythes inconnus à Kakapel.
+
+### I. Situer Kakapel : l’abri et le seuil écologique
+
+Kakapel, dérivé d’une forme locale rapprochée de *Kakapeli* dans la documentation scientifique, est un inselberg granitique des collines de Chelelemuk, dans le nord de la zone teso du comté de Busia. L’abri principal se situe près de la bordure du bassin hydrographique du lac Victoria, au voisinage du mont Elgon. Les fouilleurs décrivent un contexte relativement humide, comprenant deux saisons pluvieuses, une mosaïque d’espaces cultivés et des affleurements sur lesquels l’érosion a creusé des surplombs.
+
+La topographie est importante pour l’histoire du sacré sans pouvoir la prouver. Une paroi abritée conserve les pigments ; un replat sec préserve certains dépôts ; un ensemble visible dans le paysage peut devenir un repère collectif. Pourtant la disponibilité physique d’un lieu ne le transforme pas à elle seule en sanctuaire. Les usages successifs peuvent relever de séjours, d’activités techniques, de deuils, de représentations graphiques et de pratiques communautaires récentes.
+
+Les fouilles de l’abri principal ne couvrent pas l’ensemble du massif. On doit donc éviter d’extrapoler les résultats d’une tranchée à tous les abris ou d’utiliser « Kakapel » comme si chaque découverte appartenait à une seule occupation et à une seule collectivité. Cette distinction spatiale sera aussi importante que l’analyse des dates.
+
+### II. L’histoire de l’enquête et la nature des sources
+
+La documentation du site comporte plusieurs couches historiographiques : descriptions initiales des peintures, travaux de protection, fouilles exploratoires, campagnes plus récentes associant les National Museums of Kenya à des équipes internationales, puis publications archéobotaniques, archéogénétiques et stratigraphiques. Une étude de 2025 dans *PLOS ONE* décrit la fouille menée à partir de 2012, les interventions de 2015 et les recherches poursuivies en 2018. Cette publication permet de suivre les contextes plutôt que de réunir les découvertes sous une étiquette vague de « civilisation Kakapel ».
+
+On distinguera dans ce dossier trois familles de sources primaires. Premièrement, les panneaux conservés sur la roche, dont le relevé constitue une documentation matérielle directe. Deuxièmement, les objets et restes issus des couches de fouille — tessons, lithiques, charbons, plantes, ossements, perles et dépôts humains — qui peuvent recevoir des datations et analyses spécifiques. Troisièmement, les histoires orales contemporaines des communautés environnantes, qui relèvent d’enquêtes dotées d’un cadre d’énonciation. Ces trois familles ne possèdent pas des chronologies automatiquement superposables.
+
+Les études de Goldstein et de Mueller sont ici des publications de résultats primaires pour les fouilles et les analyses qu’elles rapportent. Leur usage ne signifie pas que l’auteur de la présente synthèse ait lui-même fouillé, examiné les ossements ou obtenu des autorisations de prélèvement.
+
+### III. Neuf mille ans : une durée d’occupation, non l’âge démontré des peintures
+
+Les recherches datent plusieurs épisodes humains dans l’abri sur une durée d’environ 9 000 ans. Cette expression concerne la séquence des occupations : elle est fondée sur des prélèvements et sur des comparaisons stratigraphiques. Elle n’attribue en aucun cas neuf millénaires à chacune des peintures. Les panneaux eux-mêmes peuvent résulter d’interventions bien plus tardives et de plusieurs étapes de réalisation. La différence n’est pas secondaire : elle modifie entièrement les arguments sur la généalogie d’une tradition.
+
+Les auteurs de 2025 distinguent notamment des occupations holocènes associées aux traditions Kansyore, puis à des séquences de l’âge du Fer ancien et tardif. La cohérence d’une couche dépend de son dépôt, de ses remaniements, des niveaux qui la recoupent et de la position des prélèvements datés. Un tesson trouvé près de la paroi n’est pas par définition contemporain du pigment situé au-dessus de lui. Inversement, une figure peinte ne date pas tous les objets recueillis à ses pieds.
+
+Cette séparation entre « temps stratigraphique » et « temps iconographique » doit être maintenue même lorsque la médiation touristique présente les peintures comme plurimillénaires. Un âge stylistique proposé est une hypothèse fondée sur comparaisons ; une date radiocarbone sur charbon associé est une mesure d’un autre objet ; une date directe d’une matière picturale demanderait son propre protocole. Aucun de ces procédés ne peut être remplacé par l’ancienneté générale du lieu.
+
+### IV. Les séquences Kansyore : mobilité, ressources et objets
+
+Les premiers grands ensembles archéologiques holocènes appartiennent aux traditions souvent désignées comme Kansyore dans la littérature régionale. Les archéologues y étudient une économie de collecte, de chasse et d’exploitation des milieux humides, mais il serait imprudent de la réduire à un modèle universel de « chasseurs-cueilleurs primitifs ». Les variations d’outillage, de ressources et de durée d’installation reflètent des décisions situées et des transformations écologiques.
+
+Les assemblages lithiques ne permettent pas seuls de reconstruire une théologie. Ils documentent des chaînes opératoires : choix de matières premières, débitage, entretien, emploi et rejet. Les tessons renseignent sur la fabrication et l’usage des récipients ; leur typologie peut aider à comparer les phases, sous réserve de ne pas prendre chaque style céramique pour un groupe ethnique fermé.
+
+Cette archéologie du quotidien possède pourtant une place légitime dans une histoire du sacré. Elle restitue les conditions matérielles dans lesquelles des personnes ont pu fabriquer des parures, soigner leurs morts ou visiter des parois peintes. Sans connaissances des régimes de mobilité, de l’espace habité et des ressources disponibles, l’image religieuse risque d’être isolée de la société qui l’a produite.
+
+### V. La révolution botanique : ce que les graines carbonisées démontrent
+
+La publication de Goldstein, Mueller et de leurs collaborateurs dans les *Proceedings of the Royal Society B* (2024, 291, article 20232747) repose sur une série archéobotanique exceptionnellement documentée pour la région. Des graines carbonisées, identifiées et datées, attestent l’introduction de plantes domestiquées selon une chronologie qui n’est ni instantanée ni uniforme. La présence du niébé, *Vigna unguiculata*, est documentée il y a environ 2 300 ans. D’autres plantes cultivées, dont le sorgho et le mil éleusine, apparaissent dans des contextes plus récents.
+
+Une graine n’est pas une divinité du grain. Son identification relève de la morphologie comparée, de la taphonomie et parfois de la datation directe. Sa présence démontre qu’un produit est entré dans les pratiques humaines et a été déposé dans un contexte conservé ; elle ne suffit pas à déterminer qui l’a cultivé, sous quelles règles foncières, ni s’il a figuré dans une offrande. Les dépôts peuvent être domestiques, accidentels, culinaires ou secondaires.
+
+En matière de longue durée, ces résultats sont importants parce qu’ils défont une représentation de l’agriculture comme paquet technique importé une seule fois avec une population uniformément constituée. Les changements de cultures, de sites et de rythmes d’occupation sont séquencés. Le dossier invite donc à chercher des histoires régionales plutôt qu’un commencement absolu et unique de la civilisation agricole.
+
+### VI. Niébé, sorgho et mil : différencier les trajectoires
+
+Le niébé est une légumineuse domestiquée en Afrique, connue aujourd’hui sous diverses dénominations culinaires, dont « haricot à œil noir » dans certains usages. À Kakapel, sa datation directe autour de 2 300 ans constitue un jalon significatif, sans fixer à elle seule la date de sa domestication sur le continent. Les données de 2024 associent l’arrivée de plantes d’origines africaines diverses à des dynamiques qui se prolongent pendant l’âge du Fer.
+
+Le sorgho (*Sorghum bicolor*) et le mil éleusine (*Eleusine coracana*) ne suivent pas exactement la même trajectoire que le niébé. Les analyses font état d’apparitions plus tardives dans les dépôts étudiés, le premier et le second étant représentés au plus tard vers 1 000 ans avant le présent dans les séquences concernées. Les identifications botaniques, le nombre d’échantillons et leur contexte doivent être pris en compte avant de généraliser les dates.
+
+Cette différenciation a une conséquence pour l’anthropologie des rites : aucune fête agricole ancienne et unique ne peut être supposée pour tous les millénaires du site. Les occasions sociales de partage, de commensalité ou d’offrande ont pu changer avec les ressources disponibles, sans que les graines démontrent directement de telles cérémonies. L’hypothèse rituelle reste à construire à partir d’assemblages spécifiques, non d’une théorie des origines de l’agriculture.
+
+### VII. Le bétail : premières traces directes et interprétations limitées
+
+L’étude de 2025 mentionne un fragment osseux de bovin domestique daté directement de 2 331–2 155 années calibrées avant le présent, à partir d’un résultat radiocarbone précisé dans la publication (OxA-40173). Ce fragment se situe dans un horizon où apparaît également une graine ancienne de niébé datée par son propre prélèvement. La convergence suggère des contacts simultanés avec certaines ressources végétales et animales domestiquées.
+
+L’information ne signifie pas que l’élevage dominait l’économie des habitants du site : les assemblages fauniques conservent une place importante aux espèces sauvages, y compris au cours de l’âge du Fer. Le bétail peut circuler par échange, appropriation, consommation ou gestion directe ; un seul os ne permet pas de choisir définitivement. Les catégories de « pasteur » et de « cultivateur » ne suffisent pas à classer des communautés qui peuvent combiner des activités.
+
+De plus, l’animal domestique n’est pas automatiquement une victime sacrificielle. Pour établir un sacrifice il faudrait discuter les lieux de dépôt, profils de sélection, gestes de découpe, traces de feu, compositions répétées et comparaisons contextualisées. La simple présence d’un bovin sur une peinture ou dans les sédiments ne satisfait pas ces exigences.
+
+### VIII. Les animaux sauvages : la continuité de la chasse
+
+Les assemblages de Kakapel comprennent des animaux sauvages, notamment des bovidés de taille moyenne et divers autres taxons étudiés par zooarchéologie et méthodes biomoléculaires. Les résultats de 2025 montrent que l’exploitation du sauvage perdure alors même que les plantes cultivées et quelques espèces domestiques sont introduites. Ce fait contredit l’idée d’un remplacement instantané de la chasse par l’agriculture.
+
+Les études taphonomiques doivent distinguer les restes apportés par les humains de ceux accumulés par des animaux, la gravité ou les processus naturels. Les marques de coupe, fractures, brûlures et identifications taxonomiques sont complémentaires ; aucune ne constitue seule un dictionnaire des croyances. Une relation soutenue aux animaux peut avoir des dimensions techniques, alimentaires, affectives et symboliques que l’analyse doit explorer sans les confondre.
+
+Une comparaison avec les peintures rupestres de l’Afrique australe est utile par le problème posé — pourquoi représenter certains animaux ? — mais le corpus de Kakapel, son milieu écologique et ses langues historiques ne sont pas ceux du Drakensberg ni du Makgabeng. Déduire un même système rituel de la présence d’une antilope des deux côtés du continent serait un non-sens méthodologique.
+
+### IX. Les peintures : figures humaines, animaux, formes géométriques
+
+Le panneau de Kakapel a été décrit avec des figures humaines, de grands herbivores et diverses configurations géométriques, en pigments rouges et blancs. Les publications de médiation patrimoniale soulignent la coexistence de ces familles graphiques et des différences d’exécution. La documentation historique comporte aussi des descriptions de scènes interprétées comme chasse à l’éléphant. Une identification d’espèce et, plus encore, une lecture narrative doivent être présentées avec leurs degrés d’incertitude lorsque l’image est partiellement effacée.
+
+Une figure géométrique ne se « traduit » pas comme un mot si aucune convention d’interprétation transmise n’est attestée. Un cercle peut avoir des significations multiples, voire une fonction purement formelle, et il est impossible de l’assimiler a priori à un soleil, à une divinité ou à un calendrier. De même, des figures humaines groupées ne suffisent pas à identifier une danse sacrée.
+
+Le véritable objet d’analyse est la composition située : position dans l’abri, orientation des formes, chevauchements, modalités de visibilité et contraste des pigments. Les données d’archéologie du peuplement peuvent fournir un contexte de fréquentation, mais elles ne confèrent pas un nom aux auteurs des images. Il faut donc distinguer « ce que représente peut-être le dessin » de « ce que nous savons de ses producteurs ».
+
+### X. Une pluralité d’auteurs sans attribution intemporelle
+
+Les récits patrimoniaux locaux attribuent parfois les peintures à des populations anciennes nommées Abatwa ou Twa. Ces traditions sont importantes à enregistrer comme des formes de mémoire et de revendication. L’historien ne peut cependant transformer cette attribution contemporaine en signature directement datée de chaque panneau : l’histoire des ethnonymes, leur géographie, leurs usages politiques et leur profondeur chronologique demandent une étude propre.
+
+La présence de plusieurs couches de couleurs ou de styles ouvre l’hypothèse de plusieurs épisodes de production. Elle ne prouve pas que les mêmes groupes ont peint, enterré les morts, produit toutes les céramiques et introduit le niébé. Les générations peuvent réinvestir un lieu sans conserver toutes les pratiques antérieures.
+
+Une étude rigoureuse des appartenances distingue les personnes qui ont matériellement appliqué le pigment, les traditions auxquelles des interlocuteurs contemporains rattachent les images et les unités archéologiques reconstruites par typologie. Réduire ces trois ordres à une seule « tribu des peintres » effacerait des échanges et des tensions dont la pluralité est précisément le sujet de l’enquête.
+
+### XI. Les dépôts funéraires : ce que peut dire une tombe
+
+Des restes humains ont été mis au jour dans les recherches à Kakapel. L’étude de 2025 décrit notamment une sépulture désignée « Burial 1 » et un ensemble de perles associé aux jambes du défunt. L’identification archéologique d’un dépôt intentionnel constitue un argument pour un traitement social de la mort. La position des objets et les relations stratigraphiques permettent d’aller plus loin que la simple constatation d’ossements dans un abri.
+
+La qualification religieuse n’est pas automatique. Enterrer un mort, préserver une parure ou appliquer de la matière colorante peut exprimer de multiples obligations : attachement, identité, mémoire, protection, crainte, représentation du corps ou rapport aux ancêtres. La possibilité d’un sens spirituel doit être étudiée avec prudence et confrontée à des indices indépendants, jamais présentée comme découlant du seul mot « tombe ».
+
+Les squelettes ne sont pas de simples échantillons : leur étude engage la dignité des personnes décédées et les règles contemporaines du patrimoine. Les contextes africains ont trop souvent souffert d’appropriations muséales et de récits qui considéraient la mort d’autrui comme une ressource interprétative libre. La discussion scientifique doit préciser le protocole, la provenance et les responsabilités de conservation.
+
+### XII. Perles et ocre : une association matérielle particulièrement instructive
+
+L’article de 2025 rapporte soixante perles discoïdes terminées, fabriquées à partir de coquilles d’œuf d’autruche, de coquilles terrestres et de quelques coquilles aquatiques. Une partie substantielle se trouvait dans l’ensemble funéraire. Les perles associées à « Burial 1 » se distinguent notamment par leur matière et certaines caractéristiques de perforation. Les auteurs notent que de nombreuses perles portent des résidus rouges, très marqués sur celles associées au défunt.
+
+L’ocre constitue ici un fait matériel d’une portée plus précise que les spéculations sur la couleur des peintures. Il peut avoir été appliqué délibérément aux perles avant ou pendant le dépôt, ou provenir d’un contact prolongé avec une peau enduite dans le cours de leur utilisation. Les deux scénarios sont explicitement envisagés par l’étude. Une interprétation univoque en « sacrifice rouge » dépasserait la preuve disponible.
+
+L’analyse de l’usure des perforations, de la fabrication, du diamètre et des résidus ouvre des questions fines : la parure a-t-elle circulé longtemps ? a-t-elle été composée pour un décès ? renvoie-t-elle à une esthétique de groupe, à un âge ou à un statut ? Toutes ces questions sont recevables mais aucune ne peut être tranchée par la seule présence du rouge.
+
+### XIII. Comment étudier la couleur sans surinterpréter le rouge
+
+Le rouge apparaît à Kakapel à deux niveaux documentaires distincts : sur les panneaux et sur certaines parures archéologiques. Il serait séduisant d’en déduire un culte continu du sang. Rien, pourtant, n’autorise ce raccourci. Les procédés de fabrication, les dates et les contextes des deux usages peuvent différer. Des minéraux rouges peuvent servir à décorer le corps, protéger ou transformer des surfaces, fabriquer des images, marquer des objets et intervenir dans d’autres gestes qui n’ont pas nécessairement un sens identique.
+
+La couleur « rouge » est une classe perceptive, non une composition chimique. L’archéométrie doit distinguer pigments ferrugineux, mélanges, dépôts naturels et contaminations. La présence sur une perle constitue un résidu observable ; la chaîne d’opérations qui l’y a apportée reste une reconstruction. On ne doit ni gommer cette différence ni traiter toute incertitude comme une raison d’abandonner l’enquête.
+
+La question religieuse pourrait se formuler ainsi : dans quels contextes les personnes ont-elles choisi de colorer des corps et des objets, et quel sens social fut donné à cette transformation ? La réponse exigera des assemblages comparables, des expérimentations, des analyses chimiques et, pour les périodes historiques, des sources orales contextualisées.
+
+### XIV. Les morts et les vivants : prudence envers l’argument d’« ancêtres »
+
+Une sépulture observée dans un lieu fréquenté à plusieurs époques peut susciter une hypothèse sur la relation des vivants aux morts. Mais rien ne prouve que des générations ultérieures connaissaient encore l’existence, la position ou l’identité des personnes enterrées. Une longue durée d’occupation ne constitue pas la preuve d’une mémoire généalogique ininterrompue.
+
+Le mot « ancêtre » lui-même doit être spécifié. Il peut désigner un parent reconnu, une catégorie rituelle, une figure fondatrice ou simplement un mort plus ancien. Ces significations varient dans l’espace et dans le temps. Sans documentation locale correspondant à l’époque de la tombe, choisir l’une serait arbitraire.
+
+L’analyse comparative avec les tombeaux de l’Égypte pharaonique révèle par contraste la puissance de l’inscription : noms, titres, formules d’offrande et images y documentent certaines idées sur les défunts. À Kakapel, aucun tel dossier épigraphique ancien ne permet de reconstituer un rituel funéraire normatif. La comparaison ne comble pas le silence : elle enseigne à le mesurer.
+
+### XV. Les datations radiocarbone et leurs limites propres
+
+L’archéologie du site dispose de datations directes de graines carbonisées et de restes fauniques, ainsi que de séries sur d’autres matériaux provenant de contextes identifiés. Le nombre et la qualité de ces mesures éclairent une séquence très utile pour l’Afrique orientale. Cependant, les dates calibrées sont des intervalles statistiques et non des jours ou années ponctuels. Le mot « environ » n’est pas ici une imprécision éditoriale : il traduit les propriétés de la méthode.
+
+Une graine trouvée dans un foyer permet de dater la combustion de sa matière organique avec beaucoup plus de pertinence qu’une peinture visible sur la même paroi. Un charbon résiduel peut avoir été déplacé ; une tranchée peut recouper des dépôts ; une intrusion récente peut perturber un niveau ancien. Les fouilleurs analysent ces possibilités à l’aide des descriptions stratigraphiques et de contrôles.
+
+La prudence chronologique doit concerner également les noms de périodes : « âge du Fer ancien » n’a pas exactement les mêmes bornes ni les mêmes manifestations partout en Afrique. Une présentation universitaire doit utiliser les cadres locaux, expliquer les correspondances et réserver aux rapprochements interrégionaux le statut de propositions méthodiquement justifiées.
+
+### XVI. Archaeogénétique : une méthode, non une identité religieuse
+
+Les restes humains de la région ont été intégrés à des recherches archéogénétiques, mobilisées dans les synthèses récentes pour discuter les déplacements et les relations de populations. Ces analyses peuvent éclairer des parentés biologiques statistiques et certaines discontinuités démographiques ; elles ne lisent ni une langue, ni un nom collectif, ni une croyance. L’histoire des gènes n’est pas l’histoire intégrale de l’appartenance.
+
+L’ancienne habitude consistant à associer directement une variété céramique, une ascendance génétique et une religion est particulièrement dangereuse. Des échanges, des mariages, des apprentissages et des appropriations peuvent dissocier ces dimensions. La possibilité d’un mouvement de populations n’implique pas le remplacement de toutes les pratiques locales, et la continuité biologique n’interdit pas l’invention de nouveaux rites.
+
+Les données doivent être discutées dans le cadre des autorisations et responsabilités liées à l’étude de restes humains. L’analyse des ancêtres de communautés contemporaines exige plus qu’un résultat technique : elle engage la manière dont le laboratoire construit ses échantillons, décrit ses incertitudes et partage ses résultats.
+
+### XVII. La « transition néolithique » sous examen
+
+Un modèle scolaire raconte une transition simple : les chasseurs deviennent éleveurs, puis agriculteurs, s’installent durablement et bâtissent des cultes réguliers. Kakapel résiste à ce récit. Les populations ont exploité des ressources sauvages pendant que des plantes domestiquées étaient déjà présentes ; l’importance relative de l’agriculture varie selon les phases ; des groupes venus d’ailleurs et des habitants locaux ont pu partager des pratiques.
+
+La présence d’une graine cultivée n’est pas une preuve d’un village permanent, pas plus que la poterie n’est un indicateur d’un ordre sacerdotal. Les résultats de 2025 soulignent le caractère hétérogène des transformations dans le bassin du lac Victoria. Leur portée générale consiste à privilégier des trajectoires régionales, des interactions et des adaptations aux conditions locales.
+
+Pour une histoire du sacré, cette complexité empêche d’identifier l’agriculture à la naissance universelle de la religion. Des rites peuvent accompagner la mobilité ; des pratiques funéraires existent sans champs cultivés ; des sociétés agricoles peuvent transformer des images héritées de formes de vie plus anciennes. Le site invite donc à une chronologie de pratiques matérielles, non à une téléologie institutionnelle.
+
+### XVIII. Les cultes agricoles grecs : comparer des calendriers attestés
+
+Chez Hésiode, *Les Travaux et les Jours* 383–404 associent récolte, labour, observation des Pléiades et référence aux fruits de Déméter. Ce texte est une source primaire grecque précise pour une articulation entre travail agricole, calendrier et langage religieux. Il ne peut pas servir d’archive de Kakapel. L’agriculture hésiodique appartient à une économie méditerranéenne historiquement située et transmise par un poème en grec archaïque.
+
+La comparaison est néanmoins productive : elle montre ce que permet un texte lorsque les prescriptions, les dieux et les opérations de travail se trouvent explicitement liés. À Kakapel, les graines renseignent sur des pratiques, mais aucun poème ancien identifié n’explique le nom d’une divinité du mil. Le contraste ne fait pas de Kakapel un cas moins complexe ; il met en évidence une différence de régime documentaire.
+
+Vernant insistait sur l’historicité des institutions et des représentations grecques. Detienne rappelait que la comparaison doit être construite, pas présupposée. Ici, l’objet comparable est l’organisation sociale du travail agricole et son insertion possible dans des formes de mémoire, non une identité de Déméter avec une figure inconnue des peintures kényanes.
+
+### XIX. Les instructions agricoles mésopotamiennes : l’écart d’écriture
+
+Le texte sumérien conventionnellement appelé *The Farmer’s Instructions*, classé ETCSL 5.6.3, est conservé par plusieurs témoins cunéiformes d’époque paléo-babylonienne. Il décrit des opérations agricoles et des recommandations transmises dans un cadre littéraire. La Cuneiform Digital Library Initiative conserve notamment le témoin P346257, qui permet de vérifier la matérialité d’une tablette, sa provenance d’Ur et son statut de copie.
+
+Comparer ce dossier à Kakapel ne signifie pas rechercher une diffusion mésopotamienne vers l’Afrique orientale. Rien dans les deux ensembles ne justifie une telle hypothèse. L’intérêt est épistémologique : les tablettes offrent des formulations verbales de gestes que les graines et les outils ne livrent pas. Elles montrent également que l’écriture elle-même est une institution de sélection des savoirs ; son abondance peut faire surreprésenter les administrations et les écoles par rapport à des traditions peu écrites.
+
+L’absence de textes sumériens équivalents à Kakapel est un fait documentaire, non un défaut de conceptualisation des personnes qui y vivaient. De nombreux savoirs techniques complexes circulent sans écriture ; la diversité des cultures de plantes et des techniques de poterie le rappelle concrètement.
+
+### XX. Égypte et Iran : images de l’autorité, non sources de substitution
+
+Les tombes égyptiennes associent parfois gestes de moisson, aliments, offrandes et inscriptions de subsistance destinée au défunt. Les études de ces ensembles bénéficient de sources textuelles, d’architectures et d’objets qui autorisent une identification contextuelle de certains offices rituels. Il est permis de comparer ce montage de ressources matérielles aux parures funéraires de Kakapel ; il serait faux d’importer le sens égyptien d’une formule d’offrande dans une tombe sans inscription.
+
+En Iran ancien, les archives impériales et les traditions religieuses transmises par écrit documentent des régimes d’autorité et des rapports à la pureté spécifiques. Aucune de ces traditions ne peut être inférée d’un résidu rouge sur une perle kényane. L’intérêt de la confrontation est de mettre en évidence des modes variés de production de la preuve : écriture, image, fouille, récit et analyse chimique.
+
+Le comparatisme est ainsi un exercice de discipline : chaque source conserve ses règles de lecture. Des parallèles superficiels entre couleurs, céréales ou postures auraient l’apparence d’une histoire mondiale continue, sans en posséder les éléments documentaires.
+
+### XXI. Inde et Chine : prescriptions textuelles et traditions locales
+
+Des textes anciens de l’Inde décrivent des gestes de passage, des règles domestiques, des opérations agraires et des rites dont la datation et la diffusion varient selon les corpus. Les *Gṛhyasūtra* et certains hymnes védiques offrent des exemples de vocabulaire et de prescriptions, mais aucune parenté de langue ou de rite avec Kakapel n’est attestée par les données examinées. Les employer exige de préciser le texte, le milieu et la distance historique.
+
+En Chine, les sections de calendrier et les prescriptions rituelles des traditions classiques peuvent relier saisons, gestes agricoles et ordre social. On peut comparer la question de la coordination collective des activités. On ne peut pas convertir un calendrier chinois en interprétation d’une scène géométrique kenyane dont la signification n’est pas connue.
+
+Le résultat de la comparaison n’est pas une équation universelle « céréale = fertilité = déesse ». Il s’agit de montrer comment différentes traditions articulent travail, partage des ressources et autorité, tout en reconnaissant que les preuves disponibles ne couvrent pas les mêmes domaines.
+
+### XXII. Amériques : formes picturales et risques de l’universalisme
+
+Les images rupestres du continent américain ont été interprétées dans des cadres très divers, parfois à partir de traditions orales contemporaines et de relations territoriales bien documentées. Mais la récurrence de certaines formes élémentaires — points, lignes, cercles, silhouettes — ne prouve ni origine commune ni diffusion transocéanique. La comparaison doit privilégier les protocoles : comment obtient-on une attribution, quel rôle possèdent les gardiens du lieu, quelles dates permettent de séparer les occupations successives ?
+
+De même, les cultures agricoles des Amériques ont suivi des processus régionaux de domestication très différents. Un raisonnement qui ferait de l’émergence d’un champ cultivé la cause nécessaire d’un temple ou d’un calendrier religieux serait trop linéaire pour expliquer cette diversité. Kakapel ajoute un contre-exemple africain important : l’introduction de plantes, les formes de mobilité et les pratiques matérielles n’obéissent pas à un schéma unique.
+
+Ce rapprochement ne vise donc pas à dresser un inventaire de ressemblances visuelles. Il invite à comparer les conditions d’enquête et la façon dont les histoires autochtones peuvent corriger les simplifications élaborées à partir des seuls objets.
+
+### XXIII. Durkheim et Eliade confrontés à la fouille
+
+La distinction durkheimienne du sacré et du profane est un outil pour interroger la séparation des espaces et des gestes. Elle ne donne pas un instrument archéologique permettant de marquer comme sacré tout dépôt inhabituel. Un objet commun peut recevoir un usage particulier dans une circonstance ; un dépôt funéraire peut répondre à des obligations sans que l’on connaisse sa doctrine.
+
+Chez Eliade, le lieu qui se distingue qualitativement d’un espace ordinaire devient un thème majeur de l’analyse religieuse. Appliquée sans précaution à un abri, cette approche risque de transformer la topographie en preuve : le fait qu’un affleurement soit remarquable ne démontre pas une révélation du sacré. Il faut replacer les pratiques dans les siècles, les circulations et les relations sociales qui les rendent possibles.
+
+L’apport de Kakapel est de soumettre la conceptualisation à des contraintes : l’ocre est identifié sur des objets particuliers ; les restes végétaux sont datés ; les peintures possèdent leur propre problème chronologique. Le philosophe ne peut réduire ces différences à une essence intemporelle du « religieux ».
+
+### XXIV. Nietzsche et Hegel : généalogie contre mythe du progrès
+
+Nietzsche propose une réflexion sur la formation des valeurs, des obligations, de la dette et de la mémoire collective. Sans transformer ses hypothèses en lois ethnographiques, on peut s’en servir pour poser une question au dossier funéraire : quels gestes matériels rendent durable une relation sociale après la mort ? La parure et l’emplacement d’un défunt peuvent participer de cette durée, mais on ignore les termes que les acteurs lui donnaient.
+
+Les philosophies de l’histoire héritées de Hegel ont parfois construit une échelle allant de la supposée immédiateté « naturelle » de sociétés sans écriture à la complexité institutionnelle d’États lettrés. Une telle hiérarchie est irrecevable pour Kakapel. La finesse des analyses techniques possibles aujourd’hui, la diversité des pratiques alimentaires et l’hétérogénéité démographique témoignent de sociétés historiques complexes, sans qu’il soit nécessaire de leur supposer un État ou un temple.
+
+Le progrès scientifique consistera ici à accroître la précision des datations, des analyses de résidus et des modèles de circulation ; il ne consiste pas à ordonner les sociétés selon leur proximité avec un idéal philosophique européen.
+
+### XXV. Dumézil et Girard : ce que les données ne disent pas
+
+Les analyses comparatives indo-européennes de Georges Dumézil ont été élaborées à partir de corpus linguistiques et mythologiques particuliers. Elles ne permettent pas de répartir les perles, les bovidés et les cultures de Kakapel en fonctions souveraine, guerrière et productrice. Faute de textes mythiques situés, la matrice serait arbitraire. Sa mention ici sert à fixer une limite de compétence du comparatisme, non à fournir une interprétation de remplacement.
+
+L’œuvre de René Girard, en reliant violence collective et mécanismes sacrificiels, pose des questions sur l’institution de victimes et de communautés. Toutefois, ni l’ocre funéraire ni l’os de bovin ne constituent une preuve de sacrifice, et aucun récit local ancien ne documente un mécanisme de bouc émissaire. L’archéologie ne doit pas transformer une hypothèse générale de violence fondatrice en certitude à partir d’objets isolés.
+
+Une méthode comparative responsable privilégie les propositions réfutables : quels profils d’abattage révéleraient une sélection rituelle ? quelles répétitions de dépôts distingueraient un geste symbolique d’une activité domestique ? quelles associations stratigraphiques autoriseraient une hypothèse de mémoire funéraire ? Les théories doivent susciter des enquêtes, non se substituer à leurs résultats.
+
+### XXVI. Préserver l’abri et la relation aux communautés
+
+Kakapel bénéficie d’un statut de protection nationale au Kenya et de collaborations entre les National Museums of Kenya, le Trust for African Rock Art et d’autres acteurs. La préservation d’un panneau peint, l’entretien des accès et la médiation auprès des visiteurs exigent des ressources durables. L’enquête universitaire gagne à reconnaître également les détenteurs de savoirs locaux et les personnes qui rendent matériellement la recherche possible.
+
+La médiation doit refuser les dates spectaculaires non démontrées. Affirmer qu’une paroi est « vieille de 9 000 ans » en assimilant l’occupation à la peinture peut attirer l’attention mais déforme la preuve. Une présentation meilleure explique pourquoi la longue séquence humaine du site est remarquable, quelles questions demeurent ouvertes sur l’âge des figures et ce que les fouilles apportent à l’histoire des cultures africaines.
+
+La conservation concerne aussi les restes humains et les données génétiques. La transparence sur les autorisations, la consultation des communautés et la gestion des images sont des exigences de recherche, non des annexes facultatives. L’intégrité patrimoniale porte sur l’objet autant que sur les relations actuelles de savoir et de responsabilité.
+
+### XXVII. Critique des niveaux de certitude
+
+| Énoncé | Statut | Preuve et réserve |
+| --- | --- | --- |
+| L’abri conserve des occupations couvrant environ neuf millénaires | Attesté | Stratigraphie et ensemble de dates radiocarbone publiés |
+| Les peintures ont neuf mille ans | Non établi | Aucune équivalence automatique entre date des couches et date des pigments |
+| Le niébé est présent à Kakapel vers 2 300 ans avant le présent | Attesté | Graines carbonisées identifiées et datées directement |
+| Un os de bovin domestique appartient à un horizon ancien de l’âge du Fer | Attesté | Identification et datation directe publiées en 2025 |
+| Le site a connu une économie agricole d’emblée exclusive | Contredit | Persistance des ressources sauvages et adoption progressive des cultures |
+| Des perles de coquilles avec résidus rouges accompagnent une sépulture | Attesté | Contexte de « Burial 1 » et description analytique |
+| Le rouge prouve un culte du sang | Non démontré | Provenance des résidus et sens rituel ouverts |
+| La paroi, la tombe et les premières graines ont été produites par un seul groupe | Non démontré | Chronologies et catégories documentaires différentes |
+| Les peintures représentent une religion agraire continue | Hypothèse sans base suffisante | Absence de textes anciens et de datation directe du programme pictural |
+
+Le langage du tableau protège l’analyse contre la tentation de conclure à partir des lacunes. Une interprétation peut rester possible et digne d’examen sans recevoir le statut d’un fait.
+
+### XXVIII. Conclusion : écrire une histoire du sacré sans l’inventer
+
+Kakapel fournit une méthode autant qu’un site. Les représentations rupestres, les sépultures parées et les traces de production alimentaire ouvrent des questions sur les relations aux animaux, aux morts et au paysage. Mais chacune de ces séries possède son régime de preuve et sa propre temporalité. Confondre les séries reviendrait à faire parler les images à la place des morts et les graines à la place des peintres.
+
+L’enquête sur le sacré gagne donc à partir d’opérations observables : désigner un lieu, déposer un corps, fabriquer une parure, conserver une marque colorée, transmettre des techniques et des souvenirs. Pour savoir lesquelles furent vécues comme des obligations religieuses, l’archéologue a besoin d’une contextualisation dont toutes les pièces ne sont pas présentes. Cette absence n’est pas une invitation à l’invention ; elle définit les limites et les perspectives de la recherche.
+
+En dialogue avec le Makgabeng, le Cederberg, le Drakensberg et les autres dossiers africains du corpus MYTHOS, Kakapel rappelle que l’Afrique n’offre ni une préhistoire uniforme ni une série d’images déchiffrables par une doctrine universelle. Elle offre des archives complexes, où la qualité de la comparaison dépend de la précision accordée à chaque objet et à chaque tradition.
+
+### Corpus primaire et méthode de vérification
+
+1. **Dépôts et mobilier de l’abri principal de Kakapel :** coupes, descriptions de tranchées, tessons, lithiques, restes fauniques, graines, perles et sépultures publiés par Goldstein et collaborateurs (2024, 2025). L’étude s’appuie sur les données et figures éditées, non sur un accès prétendu aux objets.
+2. **Documents picturaux :** panneaux de l’abri, inventoriés par les travaux de terrain et les institutions responsables du patrimoine. Le dossier distingue l’image observable et l’attribution orale ou stylistique.
+3. **Échantillons radiocarbone :** mesures et contextes publiés, notamment le bovin OxA-40173 et le niébé OS-168214. Les résultats chiffrés sont tirés de la publication de 2025 ; leur interprétation dépend de la calibration et du contexte.
+4. **Source grecque primaire de comparaison :** Hésiode, *Les Travaux et les Jours*, v. 383–404, calendrier de moisson et de labour avec référence à Déméter. Aucun lien de diffusion avec Kakapel n’est proposé.
+5. **Source mésopotamienne primaire de comparaison :** *The Farmer’s Instructions*, corpus littéraire sumérien ETCSL 5.6.3 ; témoin cunéiforme CDLI P346257, période paléo-babylonienne. Source utilisée uniquement pour comparer les possibilités d’une archive écrite.
+
+### Bibliographie universitaire vérifiée
+
+- Goldstein, Steven T., Natalie G. Mueller, Anneke Janzen, Christine Ogola, Rita Dal Martello, Ricardo Fernandes, Sophia Li et al., « Early Agriculture and Crop Transitions at Kakapel Rockshelter in the Lake Victoria Region of Eastern Africa », *Proceedings of the Royal Society B: Biological Sciences*, 291/2026, 2024, article 20232747. [DOI : 10.1098/rspb.2023.2747](https://doi.org/10.1098/rspb.2023.2747). [Texte intégral PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11335020/).
+- Goldstein, Steven T., Natalie G. Mueller, Emma Finestone, Elizabeth A. Sawchuk, Sara Juengst, Anthony Odera Otwani et al., « Cultural, Economic, and Settlement Shifts over the Last 9,000 Years at Kakapel Rockshelter, Western Kenya », *PLOS ONE*, 20/8, 20 août 2025, e0328805. [DOI : 10.1371/journal.pone.0328805](https://doi.org/10.1371/journal.pone.0328805). [Texte intégral PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12367187/).
+- National Museums of Kenya et Trust for African Rock Art, notices et actions de conservation du site de Kakapel ; présentation du site dans le réseau des musées kenyans : [Kakapel Rock Art](https://www.enzimuseum.org/museums-of-kenya/site-museums/kakapel-rock-art). Il s’agit d’une source patrimoniale secondaire, non d’une datation directe des pigments.
+- Cuneiform Digital Library Initiative, « Literary 000784, ex. 005 » (P346257), témoin du texte sumérien *The Farmer’s Instructions*, période paléo-babylonienne : [fiche de la tablette](https://cdli.earth/artifacts/346257).
+- Electronic Text Corpus of Sumerian Literature, Université d’Oxford, texte 5.6.3, « The Farmer’s Instructions » : [édition de corpus](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.3).
+- Hésiode, *Les Travaux et les Jours*, v. 383–404, texte grec et traduction disponibles dans [Theoi Classical Texts](https://www.theoi.com/Text/HesiodWorksDays.html) ; les traductions sont des aides, les vers constituent la référence primaire.
+- Van Gennep, Arnold, *Les Rites de passage*, Paris, Émile Nourry, 1909 ; Turner, Victor, *The Ritual Process: Structure and Anti-Structure*, Chicago, Aldine, 1969 (cadres anthropologiques, non sources directes de Kakapel).
+- Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912 ; Eliade, Mircea, *Le Sacré et le Profane*, 1957 (théories comparées critiquement).
+- Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965 ; Detienne, Marcel, *Comparer l’incomparable*, Paris, Seuil, 2000 (discussion méthodologique).
+- Nietzsche, Friedrich, *Zur Genealogie der Moral*, 1887 ; Hegel, Georg Wilhelm Friedrich, *Vorlesungen über die Philosophie der Geschichte*, édition posthume, 1837 ; Dumézil, Georges, *Mythe et épopée*, t. I, 1968 ; Girard, René, *La Violence et le Sacré*, 1972 (théories générales explicitement distinguées des données archéologiques).
+
+**Statut éditorial :** manuscrit complet soumis à l’attribution concurrente de la collection « origines-du-sacre ». La présence de cette étude dans la file n’équivaut pas à une page publiée.
