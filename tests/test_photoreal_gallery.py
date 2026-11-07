@@ -9,6 +9,16 @@ from scripts.verify_photoreal_gallery import ImagesInGallery, gallery_markup_fai
 
 
 class TestPhotorealGalleryVerification(unittest.TestCase):
+    def test_scientific_methodology_footer_is_visible(self):
+        from bs4 import BeautifulSoup
+
+        root = Path(__file__).resolve().parents[1]
+        markup = (root / "reconstitutions-photorealistes.html").read_text(encoding="utf-8")
+        doc = BeautifulSoup(markup, "html.parser")
+        disclaimers = doc.select("main p.r3d-bottom")
+        self.assertEqual(len(disclaimers), 1, "La note de méthode doit rester lisible")
+        self.assertIn("Méthode :", disclaimers[0].get_text(" ", strip=True))
+
     def test_public_image_does_not_replace_missing_scientific_notice(self):
         entry = {"slug": "temple", "src": "/assets/reconstitutions-3d/temple.webp",
                  "source_url": "https://museum.example/temple"}

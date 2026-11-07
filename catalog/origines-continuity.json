@@ -368,7 +368,16 @@
     "815": "/chapitres/origines-du-sacre/815-makgabeng-initiation-koma-memoire-hananwa-peintures/",
     "816": "/chapitres/origines-du-sacre/816-kakapel-kenya-peintures-palimpseste-bovins-adn-ancien/",
     "817": "/chapitres/origines-du-sacre/817-jinsha-chengdu-meiyuan-offrandes-ivoire-oiseaux-soleil-or-shu/",
-    "818": "/chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant/"
+    "818": "/chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant/",
+    "819": "/chapitres/origines-du-sacre/819-kotosh-mito-mains-croisees-foyers-renovation-rituelle-chronologie/",
+    "820": "/chapitres/origines-du-sacre/820-chavin-huantar-galeries-pututus-acoustique-images-autorite-ceremonielle/",
+    "821": "/chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel/",
+    "822": "/chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple/",
+    "823": "/chapitres/origines-du-sacre/823-sechin-bajo-places-circulaires-reliefs-graffiti-fermeture-rituelle/",
+    "824": "/chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine/",
+    "825": "/chapitres/origines-du-sacre/825-garagay-temples-en-u-reliefs-polychromes-espaces-rituels/",
+    "826": "/chapitres/origines-du-sacre/826-huaca-de-los-reyes-caballo-muerto-reliefs-argile-pouvoir-ceremoniel/",
+    "827": "/chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -422,7 +431,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 818,
+  "last_numbered_chapter": 827,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
