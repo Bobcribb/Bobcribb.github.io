@@ -2002,6 +2002,12 @@
           "path": "chapitres/encyclopedie/chapitre-476-artemis-hemera-lousoi-proitides-melampous-purification-arcadie-metaponte.md",
           "request_sha256": "8db6a2e063b7b5e9a09f8733317c89bd100fca361e2f6c407897c52a4ec557bb",
           "initial_source_sha256": "3309685352cf941718323633b32b1832f9eaf0134ccc80f7723b79dc969de926"
+        },
+        "e4e34c72-6c8e-4bcb-b109-202611070703": {
+          "number": 477,
+          "path": "chapitres/encyclopedie/chapitre-477-aphrodite-pandemos-peitho-athenes-synoecisme-ig-ii3-879.md",
+          "request_sha256": "6dcd67b7e48ee56643f6bec2f5b739a4da8fc0475c1f86dca8f47873a6e8590d",
+          "initial_source_sha256": "32076ef6ad74674d3f824cbbc442c2d5a5172db6fddacfc833e97e0981222d7f"
         }
       }
     },
