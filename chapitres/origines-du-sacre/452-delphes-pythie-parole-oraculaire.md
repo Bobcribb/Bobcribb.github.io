@@ -22,3 +22,15 @@ Dans les *Euménides* d'Eschyle (1–33), la Pythie ouvre la tragédie par une p
 **Faits attestés :** temple, consultations, Pythie et témoignages littéraires. **Controverses :** état mental précis, rédaction des réponses, hypothèse des gaz. **Limite :** aucune méthode ne permet de mesurer rétrospectivement la conscience d'une Pythie particulière.
 
 **Sources primaires :** Hérodote I, 46–56 ; Eschyle, *Euménides* 1–33 ; Plutarque, *De Pythiae oraculis* et *De defectu oraculorum*. **Études :** Joseph Fontenrose, *The Delphic Oracle* (1978) ; Robert Flacelière, « Plutarque et la Pythie », *REG* 56 (1943), 72–111, DOI 10.3406/reg.1943.2970 ; Aleš Chalupa, « Pythiai and Inspired Divination in the Delphic Oracle », *Journal of Cognitive Historiography* 1 (2014), DOI 10.1558/jch.v1i1.24 ; H. A. Spiller, J. R. Hale, J. Z. de Boer, « The Delphic Oracle: A Multidisciplinary Defense of the Gaseous Vent Theory » (2002), DOI 10.1081/CLT-120004410.
+
+---
+
+### Note éditoriale documentaire — voix delphique et historiographie de la parole (7 novembre 2026)
+
+**Ancrages antiques contrôlés.** Eschyle, *Euménides*, v. 1–33, donne un prologue dramatique prononcé par la Pythie : il prouve la présence de la prêtresse dans la représentation théâtrale, non le déroulement habituel des consultations. Pour un témoignage d'un autre genre et d'une autre époque, conserver la distinction avec les dialogues delphiques de Plutarque, *De Pythiae oraculis* et *De defectu oraculorum*.
+
+**Publication directement consultée.** Robert Flacelière, « [Plutarque et la Pythie](https://www.persee.fr/doc/reg_0035-2039_1943_num_56_264_2970) », *Revue des Études Grecques* 56, fasc. 264–265 (1943), p. 72–111, [DOI 10.3406/reg.1943.2970](https://doi.org/10.3406/reg.1943.2970). Son introduction distingue *De E apud Delphos*, *De Pythiae oraculis* et *De defectu oraculorum* ; le dernier traite de la disparition de plusieurs oracles et ne doit pas être présenté comme la preuve que l'oracle de Delphes avait cessé de fonctionner.
+
+**Référence française et contrôle historiographique.** Marcel Detienne, *Les Maîtres de vérité dans la Grèce archaïque* (Maspero, 1967), est discuté par Jean-Pierre Vernant, « Detienne (Marcel) Les Maîtres de vérité dans la Grèce archaïque », *Archives de sociologie des religions* 28 (1969), p. 194–196 ([compte rendu consulté](https://www.persee.fr/doc/assr_0003-9659_1969_num_28_1_1830_t1_0194_0000_3)). La distinction de l'aède, du devin et du roi de justice relève de cette analyse historiographique. **Limite** : elle n'établit ni le degré de transe de la Pythie ni la physiologie de l'inspiration. La consultation a porté sur l'article de Flacelière et le compte rendu de Vernant, non sur la totalité du livre de Detienne. Aucun avis de ces auteurs sur MYTHOS n'est allégué.
+
+**Statut :** témoins et références contrôlés ; mécanisme physiologique de l'oracle à vérifier séparément ; aucune preuve directe de gaz, de paroles exactes ou d'état mental individuel.
