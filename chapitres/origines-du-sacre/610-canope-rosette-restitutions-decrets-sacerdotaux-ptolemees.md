@@ -166,3 +166,14 @@ Nous ne devons conclure ni que toute concession est propagande vide ni que toute
 12. **Durkheim, Émile** (1912), *Les Formes élémentaires de la vie religieuse* ; **Hegel, G. W. F.** (1821), *Grundlinien der Philosophie des Rechts* ; **Nietzsche, Friedrich** (1887), *Zur Genealogie der Moral* ; **Girard, René** (1972), *La Violence et le Sacré* ; **Eliade, Mircea** (1957), *Le Sacré et le Profane* ; **Dumézil, Georges** (1958), *L’Idéologie tripartie des Indo-Européens*.
 
 *Iconographie institutionnelle pertinente : stèle du décret de Canope, musée égyptien du Caire ; pierre de Rosette, British Museum, EA 24. Légendes requises : date du décret, support, écriture et provenance ; ne pas identifier comme « statue rendue par Ptolémée III » une image sans chaîne de provenance documentée.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Épigraphie et chronologie.** Distinguer le décret de Canope de **238 av. J.-C.** (Ptolémée III) et le décret de Memphis de **196 av. J.-C.** (Ptolémée V), transmis notamment par la pierre de Rosette. La stèle en granodiorite de Rosette est conservée au **British Museum, EA 24** ; ses trois écritures sont le hiéroglyphique, le démotique et le grec (deux écritures de l'égyptien et une du grec), non trois langues indépendantes.
+
+**Statut de vérification.** La [fiche BM EA 24](https://www.britishmuseum.org/collection/object/Y_EA24) a été recherchée, mais son accès direct a retourné **HTTP 403** au contrôle du 7 novembre 2026 ; la source officielle ne peut donc être déclarée « intégralement consultée ». L'inventaire figure également dans une publication officielle du musée, mais ni lignes de l'inscription, ni variantes, ni traductions mot à mot n'ont été collationnées. Ne pas transposer des formules du décret de Memphis dans celui de Canope.
+
+**Références françaises contextualisées.** Nicolas Grimal, *Histoire de l'Égypte ancienne*, Fayard, **1991** ; Françoise Dunand et Christiane Zivie-Coche, *Hommes et dieux en Égypte*, nouvelle édition Cybèle, **2006**. Métadonnées recensées dans [le répertoire de la PR 159](https://github.com/Bobcribb/Bobcribb.github.io/blob/scientifique/notes-sources-20261107-01/docs/REFERENCES_CHERCHEURS_FRANCAIS_2026-11-07.md). Ces synthèses documentent un contexte, pas les dispositions exactes du décret. **À faire :** collation trilingue d'une édition épigraphique avant toute citation littérale ou assertion sur l'exécution des restitutions.
