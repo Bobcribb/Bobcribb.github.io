@@ -92,5 +92,23 @@ class SabaArchitectureTests(unittest.TestCase):
                 self.assertTrue((ROOT / url.lstrip("/") / "index.html").exists(), url)
 
 
+    def test_reader_keeps_authored_scientific_toc_and_all_prose(self):
+        # La navigation rédigée par l'auteur n'est pas une aide de lecture
+        # automatique. Le lecteur ne doit ni effacer ses titres ni ses liens.
+        from improve_reading import add_reading, authored_blocks
+        doc = BeautifulSoup(self.text, "html.parser")
+        toc_selector = 'article.content nav.mythos-reading-toc[aria-label="Sommaire scientifique de l’étude"]'
+        toc = doc.select_one(toc_selector)
+        self.assertIsNotNone(toc)
+        before = authored_blocks(doc)
+        toc_before = str(toc)
+        add_reading(doc, URL, {"words": 3500, "minutes": 16})
+        self.assertEqual(before, authored_blocks(doc))
+        self.assertEqual(str(doc.select_one(toc_selector)), toc_before)
+        for n in range(1, 21):
+            self.assertIsNotNone(doc.select_one(f'a[href="#saba-{n}"]'))
+
+
+
 if __name__ == "__main__":
     unittest.main()
