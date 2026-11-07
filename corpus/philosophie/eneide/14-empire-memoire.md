@@ -112,4 +112,12 @@ Le voyage d'Énée met également en scène un travail sur les noms. Buthrote co
 
 Cette distinction aide à penser la fin de l'épopée. L'accord entre Jupiter et Junon annonce que les Latins conserveront leur nom et leur langue (XII, 819–842), alors même qu'un ordre nouveau émergera de leur rencontre avec les Troyens. La réussite ne repose donc pas, dans le discours divin, sur l'effacement complet des identités antérieures. Elle exige une composition historique. Le dernier geste violent d'Énée demeure d'autant plus problématique qu'une fondation fondée sur l'intégration est promise au moment où la guerre n'a pas encore appris à se terminer.
 
+## Trois régimes de parole devant la mort : consolation, prophétie, compensation
+
+Le discours d'Énée aux naufragés (I, 198–209), la lamentation d'Anchise sur Marcellus (VI, 854–886) et les paroles adressées à Lausus mourant (X, 821–832) ne délivrent pas un message politique identique. Le premier invite des survivants à continuer ; le deuxième articule la connaissance de l'avenir et l'impossibilité d'empêcher une mort ; le troisième cherche à reconnaître la valeur d'un adversaire après que le locuteur l'a lui-même frappé. Ces trois scènes proposent une comparaison des limites de la parole publique, sans constituer une doctrine explicite que Virgile aurait formulée comme telle.
+
+« Forsan » (I, 203) laisse au réconfort par le souvenir le statut d'une éventualité. « Inani munere » (VI, 885–886) reconnaît le caractère nécessaire et insuffisant d'une offrande funéraire. « Aeneae magni dextra cadis » (X, 830) propose une gloire dépendante du nom du vainqueur. Aucun de ces énoncés ne restitue une existence perdue. La destinée collective de Rome demeure donc distincte du sort des personnes dont la vie est consommée avant son accomplissement.
+
+Les travaux de Philip Hardie sur l'ampleur cosmique de l'imperium, ceux de James J. O'Hara sur les prophéties optimistes et l'attention de R. O. A. M. Lyne aux voix secondaires offrent trois orientations historiographiques à confronter, non trois autorités affirmant une seule thèse. L'argument propre à MYTHOS est que la fondation exige de continuer à parler et à agir, mais que la poésie rappelle constamment la part de vie que ces paroles ne peuvent réparer. La valeur d'une promesse de civilisation ne dispense jamais d'examiner sa forme, son destinataire et son prix humain.
+
 Références de synthèse : I, 254–296 et 418–493 ; II, 707–804 ; III, 294–505 et 588–691 ; IV, 296–392 ; V, 700–778 ; VII, 641–817 ; VIII, 626–731 ; XI, 59–75 ; XII, 819–842 et 930–952.

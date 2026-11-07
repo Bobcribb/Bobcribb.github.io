@@ -228,5 +228,30 @@ class EneideDeepeningTest(unittest.TestCase):
         ids = [item["id"] for item in doc.select("[id]")]
         self.assertEqual(len(ids), len(set(ids)))
 
+
+    def test_consolation_marcellus_lausus_nov2026(self):
+        """Compléments documentés sans changement du nombre de manuscrits."""
+        import re
+        doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
+        chapters = doc.select("section.philo-chapter")
+        self.assertEqual(len(chapters), 18)
+        checks = {
+            1: ("01-chant-i.md", "L'espérance affichée"),
+            6: ("06-chant-vi.md", "Marcellus : la gloire future"),
+            10: ("10-chant-x.md", "Le tissu maternel de Lausus"),
+            14: ("14-empire-memoire.md", "Trois régimes de parole"),
+            17: ("17-reperes-et-sources.md", "Sources contrôlées"),
+        }
+        for idx, (name, label) in checks.items():
+            md = (CORPUS / name).read_text(encoding="utf-8")
+            headings = re.findall(r"^## (.+)$", md, flags=re.M)
+            rendered = [h.get_text(" ", strip=True) for h in chapters[idx].select("h3[id]")]
+            self.assertEqual(headings, rendered, name)
+            self.assertEqual(sum(label in h for h in headings), 1, name)
+        ids = [node["id"] for node in doc.select("[id]")]
+        self.assertEqual(len(ids), len(set(ids)))
+        self.assertIn("10.1017/S000983881800023X",
+                      (CORPUS / "17-reperes-et-sources.md").read_text(encoding="utf-8"))
+
 if __name__ == "__main__":
     unittest.main()
