@@ -2,6 +2,8 @@
 
 ## MC-134 — Les mains du sacré : prier, montrer, toucher, reconnaître et investir — de Sumer et Akhetaton à la Grèce, à Rome, à l'Iran sassanide, aux images bouddhiques et aux Andes
 
+**Concordance scientifique — recoupements documentés.** Consulter [MC-100 — *Les mains du divin*, volume CCXCVII (297)](/chapitres/comparatif/volume-ccxcvii-mc-100-mains-divin-aton-sakikku-exode-athena-asclepios-savitr-buddha/) pour l'**agentivité divine** : mains des rayons de l'Aton, « main du dieu » dans les diagnostics mésopotamiens, gestes d'Athéna et d'Asclépios, mains de Savitṛ et iconographie bouddhique. La présente étude **MC-134** étend l'enquête aux **actes humains et dispositifs d'images** : *dexiosis*, *dextra/Concordia*, transmission de l'insigne sassanide et mains croisées de Kotosh. La répétition des exemples d'Akhetaton et de certains *mudrā* est signalée, sans prétendre à une découverte indépendante des mêmes objets. [Rapport de concordance MYTHOS](https://github.com/Bobcribb/Bobcribb.github.io/issues/260).
+
 **Monographie universitaire originale — 7 novembre 2026.**  
 **Collection :** MYTHOS, mythologie comparée. **Identifiant historique :** MC-134. **Volume canonique :** déterminé exclusivement par le système transactionnel de la file éditoriale ; les variables CCCLXI et 361 ne constituent aucune réservation.  
 **Disciplines :** philologie sumérienne et akkadienne, égyptologie, poésie grecque, épigraphie et art funéraires, numismatique romaine, histoire de l'Iran sassanide, iconographie bouddhique, archéologie préhispanique andine, philosophie du geste et anthropologie de la comparaison.  
