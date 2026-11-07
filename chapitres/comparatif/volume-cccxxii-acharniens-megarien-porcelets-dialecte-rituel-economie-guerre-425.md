@@ -1,0 +1,325 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXXII (322)
+
+## Vendre des enfants, faire entendre l'ennemi : le Mégarien, les « porcelets », le dialecte et la poétique de la pénurie dans les *Acharniens* d'Aristophane (v. 719–835, 425 av. n. è.)
+
+**Étude autonome de philologie, d'histoire politique, d'anthropologie théâtrale et de philosophie comparée.** Texte intégral destiné au circuit éditorial public. La numérotation propre à la présente étude sera attribuée uniquement par le traitement transactionnel de la collection ; le présent dépôt ne constitue pas une affirmation de déploiement sur le site public.
+
+**Périmètre :** Aristophane, *Acharniens* 719–835 ; compléments contrôlés : 515–539, 626–718, 836–970 et 971–1068 ; Thucydide, *Histoire de la guerre du Péloponnèse*, I, 67, 4 ; I, 139–145 ; II, 31 ; Aristote, *Poétique*, 1448a29–b3.
+
+**Notation épistémique :** **[T]** témoignage antique conservé ; **[É]** observation de lexique ou de dramaturgie vérifiable dans le grec ; **[I]** interprétation argumentée ; **[H]** hypothèse non démontrée ; **[C]** comparaison philosophique moderne ; **[L]** limite documentaire. Cette notation distingue les faits attestés, l'interprétation et les reconstitutions. Les expressions grecques sont citées avec parcimonie et localisées ; les traductions françaises explicatives sont originales. La bibliographie finale distingue les sources effectivement consultables et les instruments recommandés.
+
+### Résumé
+
+Une scène des *Acharniens* figure un père mégarien qui tente de céder ses deux filles, déguisées en jeunes porcs, dans le marché privé de Dicéopolis. Le rire s'y fabrique simultanément par la faim, le changement de langue, l'équivoque sexuelle, la parodie de rite, l'inversion des catégories marchandes et l'intrusion d'un dénonciateur. L'étude examine ce que cette accumulation fait politiquement : l'ennemi cesse d'être une catégorie abstraite de la guerre et devient un foyer affamé, mais celui qui le « sauve » achète, à bas prix, la disponibilité de deux enfants. Ce n'est donc ni une scène humanitaire immédiatement transparente ni une célébration sans réserve du libre-échange.
+
+L'argument principal est que le dispositif expose **une double opération de traduction** : traduction linguistique, puisque l'étranger parle dans un mégarien comiquement construit, et traduction marchande, puisque des êtres humains sont présentés comme des animaux échangeables. L'efficacité du procédé dépend de la participation du public à une farce dont la violence ne disparaît pas parce qu'elle fait rire. L'hypothèse d'un dialogue avec les formes de farce mégarienne, soutenue par Ioannis M. Konstantakos, est confrontée aux limites de la documentation antique. Le chapitre ne répète ni l'étude générale de la diplomatie privée des *Acharniens* ni les dossiers MYTHOS sur Télèphe ou sur le dénouement de Lamachos : il porte sur l'**économie performative de cette seule scène**, sa voix étrangère, ses micro-gestes et la difficulté d'y distinguer secours, domination et plaisir comique.
+
+---
+
+## I. Délimitation du corpus et position dans le cycle MYTHOS
+
+### 1. Une scène complète, non une nouvelle étude générale de la pièce [T/I]
+
+Les vers 719–725 font délimiter par Dicéopolis un marché à lui ; le personnage mégarien arrive aux vers 729 et suivants ; la négociation porte sur deux filles présentées comme des porcelets ; un sycophante intervient au terme de la transaction ; le départ du père clôt le segment, au vers 835. L'unité est suffisamment forte pour être étudiée comme un petit drame autonome : ouverture et réglementation de l'espace, entrée, problème économique, déguisement, épreuve de reconnaissance, prix, interruption policière, dénouement. Elle appartient néanmoins à la progression de l'ensemble. L'acte commercial est impossible sans le traité privé antérieurement conclu par Dicéopolis ; le dénonciateur fait écho à d'autres figures du pouvoir procédural qui apparaissent dans la pièce.
+
+La précédente étude comparative sur la diplomatie privée des *Acharniens* a posé la question de la justice d'un marché réservé à un seul bénéficiaire et a relevé en quelques pages la misère mégarienne. Ici, l'objet change. Il s'agit de savoir comment les phonèmes, les catégories de vente, les accessoires du théâtre et le rire fabriquent une scène où chacun paraît reconnaître ce qu'il voit sans vouloir en tirer toutes les conséquences. La comparaison avec les dossiers des *Guêpes*, des *Nuées*, des *Oiseaux* et de l'*Assemblée des femmes* reste méthodologique : elle ne fonde aucune identité de sujet ni aucun numéro futur.
+
+### 2. Les Lénéennes de 425 et la chronologie qu'il faut maintenir [T/L]
+
+La représentation des *Acharniens* est traditionnellement fixée aux Lénéennes de 425 av. n. è., où la pièce obtient le premier prix. La guerre commence en 431 ; le public de 425 appartient donc à une cité qui connaît déjà plusieurs campagnes, la dévastation de terres, la maladie et l'effort financier de la guerre. Cette date est une donnée de l'histoire de la pièce, non la date d'un accord historique autorisant un particulier athénien à vendre et acheter avec ses adversaires.
+
+Les Mégariens occupent une place singulière dans les tensions de l'avant-guerre. Thucydide, I, 67, 4, mentionne leurs griefs ; I, 139, 1, situe parmi les exigences spartiates la révocation d'une mesure qui les excluait de l'usage de l'agora athénienne et des ports du domaine athénien. Ce témoignage garantit l'existence d'une controverse diplomatique ; il ne mesure ni l'extension matérielle exacte de l'interdiction ni ses effets sur chaque foyer. De surcroît, Thucydide, II, 31, décrit une incursion athénienne dans la Mégaride et les ravages qui l'accompagnèrent, puis d'autres opérations ultérieures. La famine plaisantée en 425 ne peut donc être imputée, de façon monocausale et chiffrée, au seul décret.
+
+### 3. Décret, embargo, guerre : trois niveaux qui ne se confondent pas [T/I/L]
+
+Qualifier le décret mégarien de « sanction économique » peut rendre compte d'une dimension de l'affaire, mais le mot moderne ne doit pas masquer la diversité des interprétations. Le débat historiographique oppose notamment des lectures plus ou moins étendues du champ de l'exclusion et du fonctionnement des marchés et des ports. Terry E. Wick discute les limites de la lecture restrictive de G. E. M. de Ste. Croix dans « Thucydides and the Megarian Decree » (*L'Antiquité classique*, 46, 1977, p. 74–99). Il n'est pas méthodologiquement légitime de convertir le décor des *Acharniens* en illustration photographique d'une politique douanière.
+
+Le texte de Thucydide est une construction historienne explicative ; celui d'Aristophane est une action comique. Une question peut être partagée sans que les genres documentaires coïncident : qu'arrive-t-il lorsque la cité classe un voisin parmi ceux auxquels l'accès ordinaire est refusé ? Dans la comédie, les réponses prennent la forme de corps affamés, d'aliments introuvables, d'une langue étrange et d'une opération de vente. Ces réponses sont dramatiquement précises et historiquement non quantifiables.
+
+## II. Délimiter l'agora, délimiter le politique
+
+### 4. Les bornes du marché : une souveraineté miniaturisée [É/I]
+
+Le premier mot notable est *horoi*, les bornes ou limites que Dicéopolis attribue à **sa** propre agora (v. 719). Les bornes renvoient à une publicité paradoxale : chacun peut reconnaître l'emplacement de ce lieu, mais seul un homme y fixe les règles. Le personnage autorise les Péloponnésiens, Mégariens et Béotiens à venir traiter avec lui, tout en excluant Lamachos (v. 720–723). La formule reproduit des procédures civiques au sein d'une fiction qui soustrait un citoyen aux décisions collectives. L'ouverture aux ennemis n'est pas ouverture à tous : l'hospitalité a un centre propriétaire.
+
+Cette miniaturisation n'est pas nécessairement une défense de la privatisation des institutions. Une liberté entièrement personnelle peut imiter les institutions qu'elle conteste, jusqu'à leur arbitraire. Le marché semble étrangement constitutionnel : il a des limites, des agents, une règle d'entrée et un pouvoir d'expulsion. Pourtant, ses habitants n'ont aucun moyen délibératif de modifier la règle. Dicéopolis n'incarne pas la justice parce que son nom paraît la promettre ; la pièce teste les conséquences d'une justice que quelqu'un s'octroie.
+
+### 5. Trois « agoranomes » et des lanières : administration par le jeu [É/I]
+
+Au vers 723 et suivants, Dicéopolis annonce trois agoranomes, mais les « magistrats » prennent une forme burlesque associée à des lanières. Le marché privé emprunte à l'agora publique sa terminologie de police des échanges tout en remplaçant une procédure institutionnelle par une mise en scène de contrainte. Le spectateur doit voir l'écart entre le mot et la chose. Ce décalage est essentiel : il serait erroné d'écrire que Dicéopolis a instauré une police civique dotée d'une compétence juridique. Il met en place un appareil théâtral qui suffit à faire fonctionner sa fantaisie.
+
+La défense d'entrée faite aux sycophantes n'est pas non plus une abolition des dénonciations dans la cité. Elle crée un secteur privilégié où un homme peut suspendre localement le risque d'être poursuivi. Celui qui s'apprête à vendre des enfants entre donc dans un lieu à la fois protecteur et terriblement déséquilibré. Il y échappe pour un instant à un système d'exclusion ; il y demeure exposé au pouvoir du seul acheteur.
+
+### 6. L'agora embrasse l'ennemi avant d'embrasser la personne [I]
+
+Les premières permissions sont collectives : Péloponnésiens, Mégariens, Béotiens. L'arrivée du père remplace une catégorie militaire par une personne singulière. Ce déplacement peut être qualifié de politique parce que l'ennemi abstrait n'est plus uniquement celui contre qui on vote, combat ou prononce une interdiction. Il négocie, souffre, plaisante et bénit. Toutefois, le Mégarien ne reçoit pas le statut d'un interlocuteur égal : sa condition économique limite la forme de son action. La scène produit une proximité sans symétrie.
+
+## III. Le dialecte comme technique d'apparition de l'étranger
+
+### 7. Une langue perceptible et non une transcription neutre [É/L]
+
+Le Mégarien s'exprime dans un dialecte dorien caractérisé, distinct de l'attique de Dicéopolis. Les formes *ποττὰν*, *τὰν*, *ἁμὶν* et d'autres traits signalent cette différence sur la page et dans la performance. Le passage n'est pas un enregistrement sonore de la population de Mégare. L'auteur sélectionne et exagère éventuellement des marques de dialecte afin que l'auditeur athénien identifie immédiatement une origine sociale et géographique. Stephen Colvin (*Dialect in Aristophanes and the Politics of Language in Ancient Greek Literature*, 1999, notamment le chapitre 4) et Audronė Kudulytė-Kairienė (« The Greek Dialects in Old Attic Comedy », 2013) fournissent un cadre solide pour dissocier les formes dialectales attestées de leur stylisation littéraire.
+
+Il faut distinguer deux opérations : **faire entendre** un étranger et **faire parler** un étranger selon le désir du poète athénien. La première ouvre un espace d'altérité ; la seconde rappelle le pouvoir de celui qui écrit. Une reconstitution modernisante qui rendrait le Mégarien simplement rustique ou « mal élevé » manquerait la fonction géopolitique de cette voix. À l'inverse, assigner sa langue à un parler régional français précis créerait des connotations historiques étrangères à l'Athènes du Ve siècle.
+
+### 8. Traduire l'écart plutôt qu'inventer un équivalent [I/L]
+
+Le traducteur se heurte à une asymétrie : s'il neutralise le dialecte, le Mégarien devient un Athénien comme les autres ; s'il choisit une variété contemporaine caricaturale, il risque de déplacer le ridicule sur un groupe moderne. La traduction de Benjamin Bickley Rogers, réimprimée dans le domaine public, recourt à une stylisation écossaise ; c'est une solution historique identifiable, non un calque innocent. Une édition scientifique française peut conserver les vocables grecs décisifs, paraphraser le contenu en français courant et indiquer en note les marqueurs dialectaux plutôt que produire un « patois » arbitraire.
+
+L'enjeu de la traduction est substantiel : la faim ne se dit pas seulement dans des informations concernant le prix du blé ; elle prend corps dans la façon de parler. L'auditeur reconnaît un Mégarien avant d'évaluer la vérité de sa déclaration. Le dialecte fait de la pauvreté un événement scénique, mais peut aussi transformer la victime en cible de moquerie. Les deux effets ne s'excluent pas.
+
+### 9. La salutation à l'agora, ou le marché devenu parent [É/I]
+
+Le Mégarien salue le marché athénien comme un lieu retrouvé et le compare à ce qu'il a de plus cher (v. 729–730). Cette exagération comique modifie la hiérarchie des attachements : l'accès à l'échange prend la place du lien familial. La formule prépare immédiatement l'abandon marchand de ses enfants. La pièce juxtapose donc deux gestes incompatibles : s'attacher à un espace qui permet de vivre et y rendre cessibles les êtres auxquels on est attaché.
+
+À ce niveau, la plaisanterie ne démontre pas que l'Athènes historique serait charitable. C'est Dicéopolis, figure d'exception, qui a rouvert un accès. Son marché prend la valeur d'un refuge précisément parce que l'ordre politique environnant ne permet pas au père d'agir de façon ordinaire.
+
+## IV. La faim, les enfants et les phrases qui se brisent
+
+### 10. L'injonction aux filles : de l'attention au ventre [É/I]
+
+Au vers 733, le père adresse aux filles une injonction à écouter dans laquelle le ventre se substitue de façon comique à l'attention mentale attendue. Craig Jendza a étudié cette substitution dans une analyse récente du *para prosdokian*, plaisanterie « contre l'attente » (*The Classical Quarterly*, publication en ligne du 28 février 2024). La scène ne consiste pas seulement en une information sur la famine : la nécessité corporelle déplace la structure même de la phrase. L'auditeur est obligé d'interpréter, puis de corriger sa première interprétation.
+
+La micro-technique rejoint le sujet politique. Un orateur de l'Assemblée pourrait espérer que son auditoire prête attention à des raisons ; le père obtient ici cette attention par l'évocation d'une urgence du corps. Mais le passage n'oppose pas une raison civique mensongère à une faim qui dirait toute la vérité. L'injonction est elle-même un artifice comique : le corps sert à produire une chute plaisante. Il reste à examiner ce que cette efficacité fait disparaître.
+
+### 11. « Être vendues » ou « avoir faim » : un choix imposé [É/I]
+
+Aux vers 734–735, le père présente à ses filles une alternative entre vente et faim ; elles répondent en répétant qu'elles préfèrent être vendues. Sur le plan textuel, la réplique est indiscutablement la leur : le grec leur accorde une réponse audible. Mais sur le plan éthique, cette réponse n'instaure pas une délibération libre. Le père fixe les deux options et contrôle les conséquences matérielles ; aucune autre voie n'est représentée. Lire cette scène comme une description antique de « consentement contractuel » reviendrait à lui imposer une philosophie juridique absente du texte.
+
+Il faut cependant éviter l'anachronisme symétrique. Il ne serait pas rigoureux de faire du texte un plaidoyer explicite pour des droits de l'enfant formulés en termes modernes. Le travail philologique permet une proposition plus précise : dans une comédie qui multiplie les droits de parole des adultes, la parole des filles n'existe qu'à l'intérieur d'une contrainte alimentaire construite par le dialogue. La question critique concerne la structure des possibilités, non une doctrine jamais déclarée.
+
+### 12. Ce que le verbe de vendre ne prouve pas [L]
+
+La réplique des filles et l'offre du père indiquent une **fiction de transaction humaine**. Elles ne démontrent pas l'existence d'une pratique régulière de vente de filles mégariennes sur les marchés athéniens en 425. Le passage ne saurait être utilisé comme une statistique sur l'esclavage, l'adoption ou la pauvreté dans la Mégaride. Le vocabulaire du troc et la référence à une vente éventuelle appartiennent à un scénario de survie burlesque. Qu'un tel scénario présuppose, dans la culture de son public, une intelligibilité de la marchandisation humaine est une inférence plausible ; qu'il décrive un événement effectivement survenu est une hypothèse sans attestation.
+
+Il faut aussi distinguer les filles comme personnages scéniques des jeunes femmes réelles qui auraient vécu à Mégare : l'histoire des premières est conservée dans une comédie d'un auteur athénien, non dans une archive mégarienne rédigée par les intéressées. Cette différence de provenance impose une prudence éthique et documentaire.
+
+### 13. La proposition « mégarienne » comme ruse de classe et de langue [É/I]
+
+Le père annonce une invention ou une « machine » mégarienne pour transformer les filles en porcelets (v. 737–739). Le mot de ruse suggère une capacité à survivre par les moyens ordinaires de la farce. Il ne faut pas prendre la formule pour un constat ethnographique selon lequel les Mégariens se distingueraient des Athéniens par leur fraude. L'étiquette locale fonctionne comme indice comique : elle fait de l'improvisation de la nécessité une compétence nationalement caractérisée.
+
+Une question apparaît alors : la ruse du pauvre est-elle résistance au pouvoir ou simple adaptation à ses exclusions ? Elle permet la transaction, mais ne modifie aucune institution de la cité. L'audace de l'acteur n'annule pas la vulnérabilité du personnage. La pièce juxtapose une agentivité spectaculaire et une absence quasi totale de pouvoir matériel.
+
+## V. Les porcelets : animalité, sexualité, rituel et prix
+
+### 14. L'homonymie impossible à neutraliser [É/I]
+
+Les jeunes filles sont déguisées en *choiroi*, porcelets. Le jeu est obscène parce qu'un même vocable peut évoquer l'animal et, dans un registre sexuel, les organes génitaux féminins. Les répliques qui portent sur la queue, la croissance et le sacrifice exploitent cette ambiguïté, de manière plus ou moins explicite suivant la traduction. Décrire le double sens ne suffit pas ; il faut observer que l'équivoque transforme les corps des filles en objets d'évaluation, et que ce sont les adultes masculins qui réalisent l'essentiel de cette évaluation.
+
+L'équivoque ne possède pas un « bon » sens animal et un « mauvais » sens sexuel qui seraient interchangeables. Elle produit les deux simultanément : le père veut vendre une ressource alimentaire, l'acheteur se livre à une inspection obscène, et les spectateurs reconnaissent l'artifice. L'exposition de jeunes personnes à un langage sexualisant appartient à l'économie de la plaisanterie. On ne peut moralement en faire une scène innocente ; on ne doit pas pour autant substituer aux voix antiques des intentions psychologiques que le texte ne livre pas.
+
+### 15. Les accessoires et la part inconnue de la représentation [T/H]
+
+Le texte prescrit des éléments nécessaires à l'identification du déguisement : artifices assimilés aux pieds et aux groins, sac, grognements, exposition des « animaux » aux yeux de Dicéopolis (v. 739–749). L'effet présuppose un contraste visible ou audible entre les jeunes filles et les bêtes qu'elles imitent. Mais nous ne possédons ni photographie de la mise en scène de 425 ni manuel de régie de cette représentation. Il demeure incertain qui portait exactement chaque accessoire, comment les filles étaient costumées et jusqu'à quel point le jeu s'adressait au premier rang ou à l'ensemble du théâtre.
+
+Une reconstitution scénique doit donc être balisée comme hypothèse. On peut monter une scène où le sac cache le déguisement, ou une autre où le public voit le stratagème avant Dicéopolis ; chacune déplace le moment où le spectateur comprend. Ce qui est attesté est la logique de dévoilement comique, non le placement exact des acteurs sur l'orchestra.
+
+### 16. Les « porcelets des mystères » : religieux sans documentation rituelle totale [É/L]
+
+Au vers 764, le Mégarien prétend amener des porcelets « mystiques », destinés au registre rituel. Cette qualification ne doit être ni omise ni surinterprétée. Des porcelets interviennent effectivement dans des pratiques sacrificielles grecques et dans des traditions associées aux mystères, mais la plaisanterie ne suffit pas à reconstituer à partir d'elle une cérémonie précise des Éleusinies. Le passage mobilise le langage rituel pour rendre acceptable une marchandise qui serait, sans cette qualification, manifestement aberrante.
+
+Le renversement est mordant : le sacré, qui pourrait instituer une limite à l'usage des corps, sert ici de justification verbale à la vente de deux filles. Aristophane ne développe pas une théorie de la religion ; il explore la réversibilité des mots autorisés par la coutume. L'acheteur accepte d'examiner la chose parce qu'elle est présentée comme un animal sacrificiel. Le public est invité à rire du décalage, pas à apprendre les étapes d'une initiation.
+
+### 17. Les vocables d'Aphrodite et la fausse expertise sacrificielle [É/I]
+
+Autour des vers 790–795, le père prolonge le jeu en parlant de la future valeur de l'animal pour Aphrodite. Dicéopolis objecte et le Mégarien répond en exploitant la connotation sexuelle du terme. Deux savoirs se heurtent : l'acheteur joue à connaître les usages rituels ; le vendeur improvise une autorité basée sur le double sens. La scène est exemplaire d'une fausse expertise : à chaque objection factuelle, une nouvelle interprétation obscène permet de maintenir la vente.
+
+Il serait excessif de prendre l'échange comme preuve d'une prescription générale sur l'offrande de porcelets à Aphrodite. Le dialogue est un mécanisme à répliques contradictoires ; sa fonction première est de prolonger la reconnaissance équivoque. La question philologique n'est pas de reconstruire un calendrier cultuel à partir d'une plaisanterie mais de comprendre pourquoi un argument religieux peut circuler comme argument commercial.
+
+### 18. « Une petite truie humaine » : erreur volontaire de catégorie [É/I]
+
+Dicéopolis remarque qu'il s'agit bien d'une variété **humaine** de l'animal (v. 773–776). C'est une phrase capitale parce que la tromperie n'est pas totale. L'acheteur voit, sait, ou laisse entendre qu'il sait, sans interrompre la procédure. La méprise devient volontaire. Nous passons d'une scène d'imposture possible à un contrat tacite de plaisanterie : chacun maintient le vocabulaire animal tout en comprenant l'origine humaine de ce qui se vend.
+
+On peut y voir une figure de la complicité publique. Le spectateur ne reçoit pas une énigme qu'il résoudrait à la fin ; il sait comment le langage manipule la situation et accepte de prolonger la convention. Dans la comédie, savoir n'empêche pas de participer. Cette dissociation entre reconnaissance et action constitue une question philosophique sans qu'il soit nécessaire de prêter à Aristophane une anticipation théorique de la critique moderne de l'idéologie.
+
+### 19. Les voix féminines : du choix au cri animal [É/I]
+
+Après avoir répondu à une alternative, les filles doivent grogner (v. 777–805). Leurs répliques se réduisent à des cris imitant des bêtes. Le dispositif établit une trajectoire formelle : une première phrase intelligible dans une situation de contrainte devient une suite de sons qui confirment l'objet que le père veut vendre. Les adultes gardent la phrase, l'argument, le prix, l'accusation ; les enfants disposent du bruit.
+
+Cette distribution des voix ne prouve pas une intention féministe ou antiféministe du poète. Elle rend cependant visible le coût du déguisement comique. Être admis au marché exige d'être déshumanisé, au moins dans la langue de la transaction. L'imitation sonore n'est donc pas un décor accessoire : elle est le moyen par lequel une personne reçoit la qualification qui la rend échangeable.
+
+### 20. Les figues : faim, geste, et possible héritage de farce [T/H]
+
+La scène fait essayer des aliments aux prétendus porcelets ; les figues deviennent particulièrement efficaces pour obtenir leurs cris et des gestes de gloutonnerie (v. 800–810). L'important n'est pas seulement le caractère sexuellement suggestif de certaines plaisanteries, mais la façon dont une nourriture de très faible volume fait soudain apparaître la vie du corps. Une enfant qui ne pouvait pas négocier répond lorsqu'on lui propose de manger. L'aliment redevient visible avant la vente.
+
+Ioannis M. Konstantakos rapproche l'épisode de motifs de farce dorienne : faim, vol de nourriture, jeu obscène, enfants mis en vente et fruits lancés sur scène ou éventuellement vers la salle. Cette proposition est une interprétation érudite, non une attestation directe du jeu réalisé en 425. L'hypothèse d'une distribution de fruits au public est spécialement incertaine. Il est plus prudent d'y reconnaître un **répertoire de gestes comiques** pouvant faire sentir la participation du corps, que de décrire une scénographie disparue comme une certitude.
+
+## VI. Le régime comique mégarien : une généalogie disputée
+
+### 21. Le témoignage d'Aristote et l'histoire des revendications [T/L]
+
+Aristote, *Poétique*, 1448a29–b3, rapporte que des Mégariens, en Grèce comme en Sicile selon des traditions distinctes, revendiquent l'invention de la comédie. Ce qu'il rapporte est une **prétention historique à l'origine** ; il ne fournit pas l'enregistrement d'un spectacle mégarien du Ve siècle. L'argument sur les noms de villages et l'étymologie de « comédie » appartient à cette discussion antique sur les origines. La référence à Épicharme ne transforme pas à elle seule toutes les scènes scabreuses d'Aristophane en citations de spectacles doriens.
+
+Konstantakos a proposé de lire l'épisode du Mégarien comme une appropriation et une imitation de routines de farce mégarienne. Le rapprochement explique l'accumulation de faim, fruit, tromperie et obscénité ; il permet de concevoir que le théâtre attique met en scène une autre forme comique au lieu de seulement représenter un étranger. C'est une hypothèse forte, historiographiquement féconde, mais sa démonstration demeure comparative : l'accès aux farces mégariennes originales est lacunaire.
+
+### 22. La comédie se moque d'une comédie rivale [I/H]
+
+Une lecture stratifiée distingue l'homme pauvre, le personnage joué et la forme de spectacle que ce personnage fait entrer dans l'action. Au premier niveau, le Mégarien survit ; au deuxième, il vend ; au troisième, son histoire constitue une prestation comique dont les habitudes peuvent sembler « étrangères » à l'esthétique athénienne. La parodie fonctionnerait donc comme une concurrence de genres. Le poète d'Athènes montre qu'il peut imiter et absorber une façon de faire rire qui revendique une autre origine.
+
+Cette lecture ajoute quelque chose aux interprétations principalement pacifistes. L'épisode ne serait pas seulement un effet sentimental de la guerre ; il ferait de la paix le lieu où peuvent réapparaître des ressources comiques venues d'ailleurs. Pourtant, un vocabulaire moderne d'« appropriation culturelle » ne peut pas être appliqué comme diagnostic sans examen des institutions, du statut des genres et du rapport des spectateurs aux parodies. La traduction conceptuelle est utile à titre de question, pas de verdict.
+
+### 23. Pourquoi le rire grossier ne se laisse pas ordonner sur une échelle du progrès [C/I]
+
+Il serait tentant de raconter une histoire où la farce locale, primitive et obscène, serait dépassée par la critique politique supérieure d'Aristophane. Cette construction serait téléologique et insuffisamment documentée. Rien ne démontre que le public attribuait une moindre intelligence à la farce ou que la grossièreté excluait l'analyse politique. Le même passage qui s'offre au corps et au rire fait surgir des questions sur la guerre, le langage et la disponibilité des personnes.
+
+La proposition de Konstantakos est plus intéressante lorsqu'elle est comprise comme un **croisement** de traditions que comme leur classement hiérarchique. La comédie ancienne est capable d'associer le tribunal, la famine, le rituel et le geste scatologique parce que son langage scénique n'accorde pas l'exclusivité de la pensée politique à la gravité.
+
+## VII. Le prix de deux enfants : économie dramatique et asymétrie
+
+### 24. Blé inaccessible, sel confisqué, ail arraché [É/T]
+
+Aux vers 758–764, Dicéopolis interroge le Mégarien sur le blé, le sel et l'ail. Les réponses associent prix insupportable, contrôle de ressources et destruction agricole. Le vendeur n'apporte pas des produits ordinaires, parce que les conditions historiques supposées du commerce ont été perturbées. L'épisode compacte en quelques échanges verbaux une crise de production et de circulation. Nous n'en déduirons pas un indice des prix historique, mais le choix de produits très concrets déplace le regard de la grande politique vers la cuisine.
+
+Le sel et l'ail ne sont pas de simples symboles abstraits de la paix. Ce sont les biens que le père désire recevoir à la fin de la scène. La structure dramatique fait revenir les objets d'abord nommés comme manquants sous la forme du prix effectivement consenti. Le spectateur comprend que la transaction répond à une urgence ; il doit aussi constater la disproportion entre ce prix et les êtres qui le rendent possible.
+
+### 25. Le troc n'est pas une économie innocente [É/I]
+
+Au vers 813 et suivants, le père accepte l'échange d'une fille contre une tresse d'ail et de l'autre contre une quantité de sel. La nature non monétaire du paiement permet de voir le contenu alimentaire immédiat de la transaction. On ne doit pas en tirer une thèse sur l'absence de monnaie ou sur le fonctionnement général des marchés en 425 : c'est une convention comique choisie pour l'effet de disproportion. Le père ne recherche pas un profit maximal théorique ; il cherche de quoi se nourrir maintenant.
+
+Cette urgence n'abolit pas l'éthique de l'opération. La même transaction peut être interprétée comme sortie momentanée de la faim, acquisition par Dicéopolis de personnes dépendantes, et démonstration ironique des coûts de la guerre. Le rire vient notamment de l'incroyable dérision du prix. L'historien doit maintenir ensemble cette pluralité plutôt que décider à l'avance que le comique rachète moralement tous les personnages.
+
+### 26. Hermès marchand et la généralisation inquiétante de la vente [É/I]
+
+Après avoir conclu l'accord, le père invoque Hermès dans une exclamation où il souhaiterait pouvoir vendre aussi sa femme et sa mère (vers 816–818). La chute élargit le cercle des proches assimilés à des marchandises. Elle détruit l'illusion d'une décision singulière exceptionnellement motivée par le sort des filles : si la vente marche, l'exagération veut la répéter. L'effet est comique, mais il révèle aussi la généralité possible d'un calcul où les liens de parenté deviennent réserves de valeur.
+
+Le registre religieux de l'invocation est lui-même fonctionnel. Hermès peut être évoqué dans une scène d'échange, mais le texte n'autorise pas à construire une doctrine des « marchés sacrés » à partir de cette seule prière. L'invocation sert de point de ponctuation comique entre transaction et menace d'intervention du sycophante.
+
+### 27. Le prix n'est pas le coût : une distinction nécessaire [I]
+
+Le prix scénique correspond au sel et à l'ail ; le coût comprend la séparation familiale, l'incertitude sur la destinée des filles et la relation de pouvoir qui survivra à la vente. Le texte ne déroule pas ces conséquences dans une seconde intrigue. Une lecture philosophique peut les formuler comme des problèmes sans prétendre les résoudre par le manuscrit. Le héros pacifiste bénéficie de l'opération ; le père obtient un soulagement ; les filles perdent leur milieu familial. La somme des utilités individuelles ne fournit pas automatiquement une justification.
+
+Le marché individuel rend ici une injustice visible précisément parce que personne n'y intervient comme garant du sort des plus vulnérables. Dicéopolis est capable de chasser le dénonciateur, mais la scène ne l'oblige pas à empêcher qu'un père vende ses enfants. La liberté de commerce n'est pas une théorie générale du juste.
+
+## VIII. Le sycophante : punir l'origine, protéger la fiction
+
+### 28. Le mot « ennemi » comme titre d'accusation [É/I]
+
+Un sycophante apparaît après l'accord et demande d'où vient le vendeur. À la réponse « Mégarien », il annonce qu'il le dénoncera, avec ses marchandises, comme ennemi (v. 819–821). Le dispositif fait voir le passage du statut géopolitique à la prise administrative : le vendeur n'est pas arrêté parce qu'il a fait du mal à Dicéopolis, mais parce que son origine le range dans une catégorie proscrite. L'accusation porte sur les biens autant que sur la personne.
+
+La scène ne fournit pas le texte d'une loi et n'autorise pas une reconstruction précise des mécanismes de confiscation en vigueur à Athènes. « Sycophante » est ici une position dramaturgique, c'est-à-dire la figure comique d'un dénonciateur professionnel ou intéressé. L'ensemble des procédures historiques d'accusation publique ne saurait être assimilé à cette caricature. Le rire politique vise une possibilité d'abus du langage légal ; il ne constitue pas un traité de procédure attique.
+
+### 29. Une police privée contre l'appareil de dénonciation [I]
+
+Dicéopolis fait expulser le sycophante avec l'aide de ses agoranomes (v. 824–828). La solution rappelle les limites initiales du marché : la règle vaut parce que le fondateur peut la faire appliquer. Un ordre privé s'oppose à un contrôle public réputé prédateur. Mais il reproduit lui aussi une capacité d'exclusion. Le héros qui refuse qu'on dénonce le Mégarien a interdit l'accès de Lamachos. La cohérence morale de ses règles n'est pas donnée ; elle dépend des intérêts qu'il entend servir.
+
+On pourrait lire cette expulsion comme une figure de protection contre la brutalité de la loi. On pourrait également remarquer qu'aucun droit de recours n'existe contre l'arbitraire de Dicéopolis. La comédie donne une victoire spectaculaire à une solution dont elle ne fournit pas les garanties institutionnelles. C'est ici la limite principale des usages modernes qui voudraient transformer immédiatement ce marché en modèle politique.
+
+### 30. La formule finale : souhaiter le bonheur à qui ne peut plus le dire [É/I]
+
+À la séparation, Dicéopolis donne le prix et souhaite au Mégarien de bien se porter ; celui-ci répond que la formule ne se pratique plus chez lui (v. 830–833). La formule attendue de sociabilité se heurte à une condition matérielle qui la rend presque indécente. Le retour du souhait à son émetteur marque le contraste entre la prospérité du marché privé et la dévastation extérieure.
+
+Le dernier mouvement du père revient à ses « porcelets » : il leur souhaite de trouver à manger même loin de lui (v. 834–835). L'épisode se termine donc sur une séparation, non sur une délivrance universelle. La comédie ne donne pas de voix ultérieure à ces enfants ; la question de ce qu'elles deviennent demeure ouverte. L'incertitude est un effet dramaturgique réel, pas un manque que le commentateur serait autorisé à combler par un récit inventé.
+
+## IX. Comparaisons philosophiques contrôlées
+
+### 31. Hegel : reconnaissance, médiation et discontinuité du besoin [C]
+
+Dans la *Phénoménologie de l'esprit* (1807), les figures de reconnaissance ne fournissent pas une description historique d'Athènes en 425. Elles constituent néanmoins un instrument conceptuel pour comprendre pourquoi la personne ne se réduit pas au prix auquel on la traite. Le Mégarien possède une initiative, une langue et une histoire ; dans la transaction, ses filles sont présentées comme des choses. La reconnaissance sociale et la reconnaissance économique divergent. La scène peut être lue comme une défaillance de médiation : aucune institution universelle n'assure que l'échange respecte la singularité de ceux qui le subissent.
+
+Un rapprochement avec les analyses hégéliennes de la société civile dans les *Principes de la philosophie du droit* (1821), autour du système des besoins, est plus éclairant qu'une assimilation de Dicéopolis à un héros dialectique. Le marché offre des biens et suppose des dépendances ; il ne garantit pas par lui-même la réconciliation du particulier et du général. Il s'agit d'une comparaison moderne construite après coup. Il n'existe ni preuve de filiation ni équivalence entre les formes juridiques des deux époques.
+
+### 32. Nietzsche : rire, cruauté et refus de moraliser la scène [C]
+
+Nietzsche invite à interroger la relation entre art, souffrance et affirmation de la vie, particulièrement dans *La Naissance de la tragédie* (1872) et certains textes de la maturité consacrés aux valeurs morales. Mais son œuvre ne doit pas servir à attribuer à Aristophane une célébration automatique de toute cruauté comique. Les filles qui grognent, le père qui marchande et les spectateurs qui rient obligent au contraire à interroger la puissance des formes qui rendent supportable, pendant quelques instants, une situation insupportable.
+
+Une lecture nietzschéenne possible serait que la comédie refuse le langage de la grandeur guerrière en réintroduisant la faim, l'appétit et la pulsion. Une objection s'impose immédiatement : le même retour au corps peut dégrader les plus faibles. L'affirmation des forces vitales ne doit pas devenir le prétexte pour effacer le prix humain de la scène. La comparaison reste un problème, non une doctrine « réellement exprimée » par le poète.
+
+### 33. Vernant : l'agora, la parole et le visible [C]
+
+Jean-Pierre Vernant a mis en lumière, dans ses travaux sur la pensée grecque, l'importance des espaces publics, de la circulation de la parole et des formes symboliques de la cité. Son cadre permet de mesurer l'étrangeté de l'agora privée des *Acharniens*. Le lieu est offert au regard collectif et à des interlocuteurs étrangers, mais la décision d'y admettre ou d'y exclure appartient à un seul personnage. La publicité n'y équivaut pas à l'égalité politique.
+
+Cette distinction éclaire la condition des filles : elles sont **visibles** comme porcelets et **audibles** comme cris, sans être participantes d'un débat sur leur destin. On peut parler, par analogie, d'un déséquilibre entre apparition et pouvoir d'agir. Il serait abusif de prétendre que Vernant a fourni une interprétation directe de ces vers particuliers ou que le théâtre reproduit à lui seul le fonctionnement historique de l'agora.
+
+### 34. Détienne : la ruse, les savoirs pratiques et la prudence comparatiste [C]
+
+Les travaux de Marcel Détienne, notamment ceux sur les régimes de vérité et, avec Vernant, sur les ruses de l'intelligence grecque, invitent à ne pas dissocier savoir et pratiques concrètes. La « machine mégarienne » inventée par le père est une intelligence situationnelle : elle joue sur la langue, la convention sacrificielle, le déguisement et le désir de l'acheteur. Elle ne triomphe pas par un argument universel ; elle modifie provisoirement le cadre de perception.
+
+La notion moderne de *mètis*, telle que l'ont étudiée Détienne et Vernant, peut donc éclairer la scène sans s'y substituer. Une ruse qui réussit n'est pas nécessairement juste. Le stratagème résout un problème à l'échelle du père et crée un nouveau problème à l'échelle des filles. C'est cette pluralité de perspectives que doit préserver un comparatisme scientifique, plutôt qu'un modèle intemporel de « sagesse grecque ».
+
+### 35. Le comparatisme ne vaut que s'il conserve les différences [C/L]
+
+Entre les analyses hégéliennes de la reconnaissance, la généalogie nietzschéenne des valeurs, l'anthropologie vernantienne des institutions civiques et l'étude des techniques de ruse chez Détienne, les objets ne coïncident pas. Ils éclairent chacun un aspect de la scène : les personnes, les valeurs, la visibilité politique, les techniques du langage. Leur coexistence ne produit pas une synthèse doctrinale attribuable à Aristophane. La méthode consiste à établir d'abord le texte grec, le genre dramatique et ses conditions de représentation, puis à proposer des comparaisons réversibles et explicitement hypothétiques.
+
+## X. Contre-lectures, objections et limites de la preuve
+
+### 36. Objection pacifiste : la seule cible serait la guerre [I]
+
+On peut soutenir que le père mégarien est d'abord une victime de l'hostilité entre cités, et que l'obscénité sert à rendre cette victime visible aux Athéniens. Cette lecture dispose d'un ancrage : les interdictions, la destruction des récoltes et la faim structurent effectivement l'épisode. Mais elle devient réductrice si elle se refuse à observer la violence interne de la vente. Que la guerre produise la misère ne rend pas équivalents les intérêts du père et des filles. La satire de la politique extérieure n'annule pas une critique des rapports domestiques.
+
+### 37. Objection formaliste : il ne s'agirait que de plaisanteries [I]
+
+Une autre lecture refuserait de tirer toute conclusion politique d'une chaîne de gags sexuels et alimentaires. Elle rappelle opportunément que la comédie n'est pas un exposé moral et que l'exagération n'a pas le statut d'un jugement explicite. Pourtant, la localisation de la scène dans le marché particulier, le statut de l'ennemi et l'intervention du dénonciateur sont des décisions dramaturgiques précises. Ce sont elles qui donnent au rire une portée civique. Le travail de l'interprète ne consiste ni à moraliser chaque plaisanterie ni à les vider toutes de leur contexte.
+
+### 38. Objection documentaire : peut-on reconstituer une farce mégarienne ? [L/H]
+
+La comparaison avec la farce locale repose sur des indices indirects et des ressemblances structurales. Elle ne justifie ni la liste exhaustive de routines perdues, ni une généalogie linéaire de tous les genres comiques grecs, ni la certitude d'une pratique de vente mimée dans un spectacle historique à Mégare. Le témoignage d'Aristote sur les revendications d'origine porte sur la revendication ; il ne vaut pas archive d'une performance. Konstantakos lui-même formule en termes de possibilité l'idée d'un fonds partagé de motifs doriens. L'interprétation gagne en force lorsqu'elle indique exactement ce qui reste conjectural.
+
+### 39. Contre-épreuve : comparer la suite béotienne sans la refaire [T/I]
+
+Au vers 836 commence une autre scène commerciale, avec des denrées béotiennes et une autre manière de traiter le sycophante. Ce contraste permet de vérifier que la scène mégarienne n'est pas une illustration interchangeable des « bienfaits du commerce ». Le premier vendeur apporte ses enfants sous un déguisement animal ; le suivant introduit un autre type d'abondance et d'échange, puis l'accusateur lui-même devient objet de circulation. Les deux unités montrent que les biens échangés, les agents et les risques déterminent la signification de la paix privée. La présente étude laisse à une monographie indépendante la microanalyse de l'épisode béotien, afin de ne pas dupliquer les archives.
+
+## XI. Concordance avec les études existantes et bilan épistémique
+
+### 40. Continuité scientifique sans répétition [I]
+
+La monographie MYTHOS consacrée à la diplomatie privée (*Acharniens*, marché, guerre, sécession) a établi la contradiction fondamentale entre le bien-être de Dicéopolis et la portée collective des décisions publiques. L'étude sur le déguisement de Télèphe examine une autre technique : emprunter la voix tragique pour rendre recevable une argumentation. L'étude sur le dénouement oppose l'expérience corporelle du général et celle du convive. Le présent dossier déplace le niveau d'analyse vers la vente des filles, la syntaxe de la faim et le dialecte ; il ne constitue pas une réédition, un résumé ni un complément numéroté de ces manuscrits.
+
+Le dossier du Mégarien suggère une cohérence traversant plusieurs œuvres d'Aristophane : des situations où le débat politique est forcé de regarder la matière des corps, des nourritures et des objets. Les *Cavaliers* donnent un usage particulier du commerce des faveurs et de la flatterie ; les *Guêpes* exposent le rapport entre plaisir du jugement et dépendance ; les *Nuées* transforment le crédit et l'éducation en crise de la famille ; les *Oiseaux* interrogent la fondation d'un ordre ; l'*Assemblée des femmes* imagine la généralisation des biens communs. Il s'agit d'une constellation de problèmes, non de la preuve qu'une même doctrine progressive serait exposée de pièce en pièce.
+
+### 41. Tableau des propositions et de leur statut
+
+| Proposition | Statut | Contrôle |
+| --- | --- | --- |
+| *Les Acharniens* ont été joués en 425 av. n. è. | [T] | Tradition didascalique et datation des concours. |
+| Dicéopolis délimite un marché et autorise Mégariens et Béotiens | [T/É] | *Acharniens*, 719–725. |
+| Le Mégarien emploie une variété comiquement représentée du dialecte mégarien | [É] | 729–835 ; comparaison dialectologique avec Colvin et Kudulytė-Kairienė. |
+| Le père fait passer ses filles pour des porcelets et les échange contre sel et ail | [T] | 731–749 et 811–835. |
+| Les cris des filles produisent la preuve comique de leur animalité | [É/I] | 777–805. |
+| Le langage exploite une équivoque animale et sexuelle | [É] | 764–795 ; analyse philologique du terme *choiros*. |
+| Le décret mégarien et les incursions dans la Mégaride constituent des contextes historiques distincts | [T] | Thucydide I, 67 et 139 ; II, 31. |
+| Le décret explique à lui seul toutes les privations mises en scène | [L] | Non démontré ; sources historiques insuffisantes. |
+| La scène reproduit des routines de farce mégarienne | [H] | Hypothèse de Konstantakos, fondée sur motifs et traditions indirectes. |
+| Des figues ont été lancées dans le public en 425 | [H/L] | Mise en scène non attestée ; ne pas affirmer. |
+| La scène montre l'existence régulière d'un marché d'enfants mégariennes | [L] | Aucune attestation indépendante démontrée par la comédie. |
+| La scène constitue un plaidoyer explicite pour les droits modernes de l'enfant | [L] | Anachronisme ; seule la structure de domination peut être analysée. |
+| Hegel, Nietzsche, Vernant et Détienne permettent des lectures comparées | [C] | Analogie rétrospective, sans filiation documentaire établie. |
+
+### 42. Conclusion
+
+La scène du Mégarien met à l'épreuve la possibilité même de rire politiquement. Elle conduit le spectateur d'un marché qui semble libéré de la guerre à un commerce qui transforme les enfants en biens ; d'une parole étrangère enfin admise à un ensemble de cris animaux ; d'une ruse qui sauve le père à une transaction qui prive les filles de leur foyer ; d'une formule de bonne fortune à l'impossibilité de la prononcer dans une ville dévastée. Chaque retournement interdit la lecture univoque.
+
+La pièce ne dit pas que le commerce guérit la guerre, que les Mégariens seraient intrinsèquement trompeurs, que les enfants consentent à leur vente ou que la comédie pourrait remplacer la justice. Elle construit un espace où les catégories sont déplacées jusqu'à devenir visibles. Le sujet véritable n'est peut-être pas la moralité d'un père particulier, mais la puissance d'une langue publique capable de transformer quelqu'un en chose **sans que personne, sur scène, cesse de comprendre que ce quelqu'un est humain**. L'épisode manifeste ainsi une limite de l'espace civique : recevoir un étranger et le laisser parler ne suffit pas à assurer l'égale valeur de tous ceux qu'il représente ou emporte avec lui. Le rire reste inséparable de cette dissonance.
+
+---
+
+## Sources primaires : références contrôlables
+
+1. **Aristophane**, *Acharniens*, 719–835 (texte grec et traduction anglaise historique de Benjamin Bickley Rogers ; texte grec édité par F. W. Hall et W. M. Geldart, *Aristophanis Comoediae*, Oxford, 1906–1907, numérisation de Perseus). Accès : https://www.greekmythology.com/sources/aristophanes/acharnians/megarian-informer ; texte grec également à https://adfonteslibrary.org/work-aristophanes-acharnians. Ces témoins numériques servent au repérage des vers ; leur ponctuation et leur segmentation ne remplacent pas l'établissement critique d'un manuscrit.
+2. **Aristophane**, *Acharniens*, 515–539 : récit grotesque des origines de la querelle mégarienne ; 626–718 : parabasis ; 836–970 : scène béotienne ; 971–1068 : demandes de partage de la paix. Accès général : https://www.greekmythology.com/sources/aristophanes/acharnians.
+3. **Thucydide**, *Histoire de la guerre du Péloponnèse*, I, 67, 4 ; I, 139–145 ; II, 31, 1–3. Le passage II, 31 est consultable en grec dans la Bibliotheca Augustana : https://www.tha.de/~harsch/graeca/Chronologia/S_ante05/Thukydides/thu_pe22.html. Pour I, 139, voir aussi le dossier de sources de l'université de Warwick : https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/stoa/anchist/gcse/pericles/athens_in_the_age_of_pericles_ocr_sourcebook.pdf.
+4. **Aristote**, *Poétique*, 1448a29–b3 (revendications mégariennes sur l'origine de la comédie). Traduction en ligne : https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2:3.5-4.3/. Le témoignage atteste une revendication antique ; pas la forme exacte d'une farce perdue.
+5. **Hérodote**, *Enquête*, I, 1–5, comme parallèle méthodologique aux récits d'enlèvements féminins servant de causes grotesques ou rationalisées de guerres : comparaison structurale, non source certaine d'une allusion particulière.
+
+## Bibliographie secondaire, philologique et historiographique
+
+1. **Ioannis M. Konstantakos**, « 'My Kids for Sale': The Megarian's Scene in Aristophanes' *Acharnians* (729–835) and Megarian Comedy », *Logeion* 2 (2012), p. 122–166. Présentation et résumé disponibles sur le site du Département d'études théâtrales de l'université de Patras : https://logeion.upatras.gr/node/126. **Point central :** liens hypothétiques avec des routines de farce mégarienne et d'autres traditions doriques.
+2. **Craig Jendza**, « Para Prosdokian and the Comic Bit in Aristophanes », *The Classical Quarterly*, publié en ligne le 28 février 2024. Texte et références : https://www.cambridge.org/core/journals/classical-quarterly/article/para-prosdokian-and-the-comic-bit-in-aristophanes/CC904C1F9D26D358AC33C5F024C34860. **Point central :** la substitution « ventre » / « attention » aux *Acharniens* 733.
+3. **Stephen Colvin**, *Dialect in Aristophanes and the Politics of Language in Ancient Greek Literature*, Oxford University Press, 1999, chap. 4 (« Non-Attic Dialect in Aristophanes », p. 119–263). Présentation : https://academic.oup.com/book/46892/chapter-abstract/422623517. **Point central :** distinction entre représentations littéraires des dialectes et données linguistiques.
+4. **Audronė Kudulytė-Kairienė**, « The Greek Dialects in Old Attic Comedy », *Literatūra* 55.3 (2013), p. 38–49, DOI 10.15388/Litera.2013.3.2502. https://www.zurnalai.vu.lt/literatura/en/article/view/2502. **Point central :** marqueurs dialectaux et usages comiques des parlers non attiques.
+5. **Dimitrios Kanellakis**, « Translating Aristophanes' Puns », *Greece & Rome*, en ligne le 6 septembre 2022. https://www.cambridge.org/core/journals/greece-and-rome/article/translating-aristophanes-puns/76A41C52BCB916BE72A8AC80BF5C6B9C. **Point central :** typologie des équivoques et problèmes de traduction.
+6. **Terry E. Wick**, « Thucydides and the Megarian Decree », *L'Antiquité classique* 46.1 (1977), p. 74–99, DOI 10.3406/antiq.1977.1846. https://www.persee.fr/doc/antiq_0770-2817_1977_num_46_1_1846. **Point central :** débats sur le champ et le rôle du décret dans les négociations.
+7. **Charles W. Fornara**, « Plutarch and the Megarian Decree », dans *Studies in the Greek Historians* (texte originel de 1975, reprise en ligne 2010), p. 213–228. https://www.cambridge.org/core/books/abs/studies-in-the-greek-historians/plutarch-and-the-megarian-decree/88908C2A155F75395450208E2E3618A8. **Point central :** discordances et difficultés de datation des témoignages de Thucydide, Aristophane et Plutarque.
+8. **Vicky Manteli**, « Translating Aristophanes' Humour for the Modern Greek Stage: The *Acharnians* at the National Theatre of Greece (1961–2005) and the State Theatre of Northern Greece (1991–2010) », *The European Journal of Humour Research* 1.1 (2013), p. 67–83, DOI 10.7592/EJHR2013.1.1.manteli. https://europeanjournalofhumour.org/ejhr/article/view/Vicky%20Manteli. **Point central :** distance entre texte et choix scéniques de traduction.
+9. **Thomas J. Figueira**, « Theognidea and Megarian Society », Center for Hellenic Studies, Harvard. https://www-current.chs.harvard.edu/curated-article/thomas-j-figueira-theognidea-and-megarian-society/. **Point central :** portée sociale et idéologique des traditions assignant à Mégare une histoire comique.
+10. **Jean-Pierre Vernant et Marcel Détienne**, *Les Ruses de l'intelligence. La mètis des Grecs*, Paris, Flammarion, 1974 : cadre comparatif moderne, non commentaire attesté des *Acharniens* 729–835.
+11. **Jean-Pierre Vernant**, *Les Origines de la pensée grecque*, Paris, PUF, 1962 : cadre des transformations de la pensée civique et des conditions de la publicité.
+12. **Marcel Détienne**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, Maspero, 1967 : cadre comparatif sur les régimes de parole et d'autorité.
+13. **G. W. F. Hegel**, *Phénoménologie de l'esprit*, 1807 ; *Principes de la philosophie du droit*, 1821, notamment les analyses de la société civile : lecture conceptuelle rétrospective, sans prétention à une dépendance de la pièce.
+14. **Friedrich Nietzsche**, *La Naissance de la tragédie*, 1872 : lecture comparative des rapports entre art et expérience du corps ; non document direct sur la représentation de 425.
+
+### Notes de méthode finales
+
+- Le texte grec et les repères de vers de l'épisode principal ont été confrontés à des transcriptions accessibles en ligne ; les quelques expressions grecques employées sont localisées. Les citations françaises longues et reconstructions de répliques ont été évitées.
+- Les résumés d'articles de recherche librement accessibles ont été distingués des études dont l'intégralité n'était pas nécessairement disponible ; aucune connaissance détaillée d'une page non consultée n'est revendiquée.
+- Les hypothèses de mise en scène, de réception, de forme exacte de la farce mégarienne et de causalité économique ont été laissées explicitement ouvertes.
+- Le statut de la présente étude demeure celui de **soumission éditoriale** tant qu'un reçu d'attribution du registre, un manuscrit numéroté et une publication publique n'ont pas été contrôlés séparément.

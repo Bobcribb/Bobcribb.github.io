@@ -1,0 +1,363 @@
+# MYTHOS — Les Origines du sacré — Chapitre 764 (volume DCCLXIV)
+
+## Bandiagara : les grottes des morts, les constructions Tellem, les masques dogon et la critique des cosmologies reconstruites
+
+*Monographie universitaire originale — 6 novembre 2026. Archéologie funéraire, histoire du peuplement du Mali, ethnohistoire, philologie des traditions orales, anthropologie des rites, historiographie de l'africanisme, épistémologie comparative et philosophie des religions. Manuscrit public destiné à la file transactionnelle MYTHOS ; son numéro et son volume ne sont pas réservés.*
+
+### Résumé scientifique
+
+La **falaise de Bandiagara**, dans le centre du Mali, est devenue l'un des paysages africains les plus commentés dans les musées, l'ethnographie et l'histoire des religions. Sur le front rocheux et le plateau voisin s'étagent des villages, des structures bâties en terre, des abris et des cavités qui ont reçu des morts. Plusieurs séquences archéologiques ont été regroupées sous les noms de **Toloy**, **Tellem** et **Dogon**. Ce classement a longtemps servi de chronologie commode. Les nouvelles fouilles de **Dourou-Boro**, **Pégué** et des environs de **Yawa** ont cependant montré que certaines structures attribuées à la catégorie des « greniers Toloy » doivent être réexaminées comme **tombes à traitement architectural élaboré**, et que la rupture supposée entre occupations est beaucoup moins nette qu'on l'avait cru.
+
+Le dossier présente une seconde difficulté : les célèbres synthèses cosmogoniques publiées par **Marcel Griaule** et **Germaine Dieterlen** à partir du milieu du XXe siècle ont marqué la connaissance occidentale des Dogon. Mais la reproduction de leurs conclusions par d'autres enquêtes a fait l'objet d'une contestation majeure, notamment par **Walter E. A. van Beek** (1991 et 2004). Il serait scientifiquement inacceptable de présenter les détails sur **Amma**, **Nommo**, le **Renard pâle**, **Sirius** et les masques comme un corpus de convictions partagé à l'identique par toutes les communautés dogon, à toutes les époques.
+
+**Thèse :** Bandiagara ne permet pas de retrouver une religion originelle simple ; elle impose une histoire stratifiée des pratiques funéraires, des installations et des interprétations. Les constructions ne sont pas de simples illustrations de mythes recueillis bien plus tard. Les témoignages ethnographiques sont des sources historiquement situées, et les théories comparatives doivent pouvoir être mises en défaut par l'archéologie et les divergences des interlocuteurs.
+
+**Catégories de preuve :** [A] vestiges et datations associés aux contextes ; [B] observations ou traditions collectées avec lieux et dates ; [C] interprétations débattues ; [D] analogies philosophiques explicitement non généalogiques.
+
+### I. La falaise : un paysage de pierre, de terre et de passages
+
+L'ensemble de Bandiagara couvre une vaste région de plateau, de front de falaise et de plaine au pied de celle-ci, souvent désignée comme **plaine du Séno**. L'inscription de l'UNESCO « **Cliff of Bandiagara (Land of the Dogons)** », bien **516**, date de **1989** ; ses critères sont **(v)** pour la dimension culturelle et **(vii)** pour la dimension naturelle, selon la fiche actuelle. Le bien couvre environ **327 390 hectares**. L'inscription patrimoniale est un événement contemporain, non la date de fondation des villages.
+
+Les cavités du front rocheux ont accueilli des constructions en terre et des dépôts de différentes époques. Les villages actuels forment des agencements variables de maisons, greniers, aires de rassemblement, places et espaces cultuels. Le relief conditionne des choix pratiques — protéger les biens et les morts, exploiter les terres, circuler et se défendre — mais il ne détermine pas à lui seul une cosmologie.
+
+L'idée d'une falaise essentiellement « sacrée » ne doit pas masquer son caractère habité et travaillé. La même paroi peut être ressource géologique, limite d'un territoire, refuge, lieu funéraire et repère de mémoire. Les valeurs attachées aux différents secteurs ne sont ni constantes ni obligatoirement identiques d'un village à l'autre.
+
+### II. Des villages multiples, pas une communauté doctrinale unique
+
+Le nom **Dogon** désigne aujourd'hui des populations et des langues apparentées dans une aire historiquement complexe. Les enquêtes sur le peuplement et les traditions orales signalent plusieurs migrations, fondations villageoises et épisodes de déplacement. Une histoire partagée n'implique pas qu'un habitant de Sanga, de Bandiagara, de Yawa ou de la plaine décrive toujours les mêmes êtres, interdits et rites.
+
+Le projet archéologique **Ounjougou** rappelle que la documentation orale et la céramique permettent d'envisager diverses phases de peuplement entre les **XVe et XIXe siècles** pour nombre de villages actuellement reconnus. Les récits de migration depuis le **Mandé** constituent des traditions historiques pertinentes, mais leur traduction en datations exactes ne peut être automatique.
+
+La langue, les appellations de lignages et les styles matériels ne coïncident pas terme à terme. Il serait illégitime d'assimiler une technique de modelage à un groupe ethnique immuable, ou de déclarer qu'une poterie médiévale appartient à des « Dogon » parce qu'elle fut trouvée dans une région aujourd'hui dogon.
+
+### III. Le classement Toloy–Tellem–Dogon : origine et limites
+
+Les fouilles d'une équipe liée à l'**université d'Utrecht**, notamment dans les années **1960-1970**, ont permis d'établir une première séquence connue sous les noms de **Toloy**, **Tellem** et **Dogon**. Dans sa forme longtemps répétée, elle distinguait une phase Toloy autour des derniers siècles avant notre ère, des occupations Tellem médiévales et des implantations dogon postérieures.
+
+L'enquête de **Rogier M. A. Bedaux**, « *Tellem, reconnaissance archéologique d'une culture de l'Ouest africain au Moyen Âge : recherches architectoniques* » (1972), fonde une partie majeure de cette historiographie. La séquence doit être étudiée avec les conditions initiales des fouilles et avec les variantes de classification du matériel. Les catégories sont des **outils archéologiques**, pas des autodesignations attestées dans un manuscrit de l'époque.
+
+L'anomalie apparaissait dans la longue lacune supposée entre la phase Toloy et la phase Tellem. Pourquoi une région favorable aurait-elle été presque dépourvue d'occupation pendant une si longue période ? Les fouilles ultérieures ont déplacé cette question en élargissant l'aire de prospection et en réexaminant les constructions. Elles n'ont pas seulement ajouté quelques dates à une chronologie intacte ; elles ont changé la définition de certains objets étudiés.
+
+### IV. Une correction fondamentale : le « grenier » peut être une tombe
+
+Les recherches reprises à **Pégué A**, **Dourou-Boro** et **Yawa-Vaches**, particulièrement en **2007-2008**, ont réexaminé des constructions cylindriques ou ovoïdes élaborées au moyen de **colombins d'argile**. Une interprétation ancienne les associait à des greniers, dont certains auraient été réemployés pour des sépultures. Les nouvelles analyses concluent qu'une partie importante de ces structures correspond plutôt à des **tombes primaires** et révèle une évolution technique sur une longue durée.
+
+Les auteurs **Anne Mayor, Eric Huysecom, Sylvain Ozainne et Sandro Magnavita** ont publié en **2014** une chronologie des pratiques funéraires dans le *Journal of Anthropological Archaeology*, DOI **10.1016/j.jaa.2013.12.002**. Les structures à colombins peuvent être suivies sur près de **1 800 ans**, du **IVe siècle avant notre ère au XIVe siècle de notre ère**, selon la synthèse du projet. La date appartient à des séquences et échantillons étudiés : elle ne signifie pas qu'une construction serait restée ouverte et utilisée sans interruption pendant dix-huit siècles.
+
+La réinterprétation est méthodologiquement cruciale. Une architecture initialement décrite comme destinée aux grains suggérait la gestion agricole et un réemploi secondaire. Si elle fut conçue pour les morts, elle témoigne d'une tout autre organisation des gestes et des investissements. Il ne faut pourtant pas faire d'une telle révision la preuve que **toutes** les structures rupestres de la falaise sont funéraires : chaque ensemble a son contexte et sa typologie.
+
+### V. Dater la terre : radiocarbone et matières végétales
+
+L'équipe Ounjougou a échantillonné des éléments végétaux **à courte durée de vie**, non brûlés, inclus dans l'argile de construction, pour des séries de datations radiocarbone. Cette stratégie limite certains problèmes classiques d'association avec des bois anciens ou des matériaux remaniés. Elle permet de rapprocher plus finement la date du matériau de celle du geste de construction.
+
+Une date de radiocarbone n'est jamais le nom d'un peuple. Elle donne une distribution chronologique pour la matière prélevée, éventuellement convertie en intervalle calendaire selon une courbe de calibration. Un modèle de succession technique doit ensuite être reconstruit à partir de plusieurs dates et de relations stratigraphiques.
+
+La fiabilité d'une attribution dépend des conditions de prélèvement, de la conservation, des possibles contaminations et de l'établissement d'une relation entre l'élément végétal et l'acte recherché. Le travail de 2014 et le dossier de recherches à Pégué A et Dourou-Boro apportent un cadre précis ; une monographie responsable n'invente pas une liste de dates individualisées qu'elle n'a pas extraite des tableaux originaux.
+
+### VI. Funérailles et statut social : ce que montre une architecture durable
+
+Bâtir une sépulture dans une paroi rocheuse ou une cavité demande des compétences de transport, de fabrication de terre, d'accès et de coordination. L'existence de dépôts funéraires travaillés est donc un indicateur de l'investissement social accordé aux morts. Cela ne révèle pas immédiatement le rang individuel des défunts ni leur identité linguistique.
+
+La **différence entre des modes de dépôt** peut être importante : inhumation primaire, regroupement secondaire d'ossements, dépôt de récipients, présence de perles ou d'autres objets. Les séquences ne doivent pas être unifiées dans une « cérémonie Tellem » supposée, car les matériaux couvrent des lieux et durées très vastes.
+
+L'article de 2014 suggère une **complexification sociale** que l'architecture des tombes peut contribuer à documenter. Cette expression ne doit pas être convertie en monarchie, empire ou sacerdoce sans preuves. La complexité peut concerner les réseaux d'échange, les obligations collectives, la transmission de techniques et des formes d'inégalité encore mal comprises.
+
+### VII. Les perles : commerce lointain et limites de l'inférence
+
+Les analyses chimiques de **perles de verre** provenant de Dourou-Boro indiquent la présence de matériaux compatibles avec des circuits de production ou d'échanges de longue distance, que l'étude de Mayor et collaborateurs rapproche notamment d'ateliers asiatiques. Il faut distinguer la **provenance physicochimique du verre** de la trajectoire précise par laquelle chaque perle atteignit la région.
+
+Le verre ne témoigne pas automatiquement de l'importation d'un culte. Les objets peuvent circuler au terme de chaînes d'intermédiaires, être transmis pendant plusieurs générations et changer de fonction avant le dépôt. Une perle peut être signe de prestige, élément de parure, bien de transaction ou composante d'un ensemble funéraire ; son sens religieux ne se lit pas dans sa seule composition.
+
+La présence de matériaux lointains invite à remplacer l'image d'un pays dogon isolé par une histoire des contacts. Mais un contact économique ne prouve ni conversion religieuse ni emprunt d'une cosmologie étrangère.
+
+### VIII. Les céramiques et l'histoire du peuplement
+
+La comparaison des **pâtes**, **décors** et **chaînes opératoires** de la céramique fournit une documentation particulièrement utile. **Bedaux et A. G. Lange** ont publié en **1983** une grande étude sur la poterie Tellem à partir des campagnes d'Utrecht. Les recherches d'Ounjougou reprennent cet ensemble en le comparant aux assemblages de villages de plateau et de plaine.
+
+Les travaux récents insistent sur l'évolution technique et l'intégration d'éléments extérieurs au cours du premier millénaire de notre ère. Il convient néanmoins de ne pas traiter « forme de vase » comme synonyme de « peuple » : un pot peut être produit par un groupe, échangé, copié ou adopté par d'autres.
+
+La poterie contribue donc à étudier les interactions et les mobilités ; elle ne livre pas à elle seule les paroles d'un rite. La distinction vaut également pour les récipients déposés auprès des morts : un usage funéraire est attesté si le contexte le montre ; une identité de divinité ne l'est pas.
+
+### IX. Ounjougou : une histoire bien plus longue que la présence dogon
+
+La vallée du **Yamé**, sur le plateau de Bandiagara, a livré des séquences archéologiques et environnementales de très longue durée. Les recherches synthétisées par **Eric Huysecom** montrent que la région a connu des productions céramiques parmi les plus anciennes connues d'Afrique, documentées au **Xe millénaire avant notre ère**. Cette information concerne un horizon préhistorique, non la naissance d'une religion dogon.
+
+La présence de céramique ancienne n'autorise pas à écrire que les Dogon, tels que les connaissent les ethnographes du XXe siècle, vivaient au même endroit huit ou dix millénaires auparavant. Il faut séparer **continuité d'occupation régionale**, **continuité d'une technologie** et **continuité d'une identité**. Les échelles temporelles et les types de preuve diffèrent radicalement.
+
+L'intérêt d'Ounjougou est donc aussi épistémologique : le pays dogon est une région habitée et transformée à différentes époques. Son histoire ne commence ni avec l'arrivée des ethnographes, ni avec les noms employés dans les traditions orales actuelles.
+
+### X. Du funéraire au sanctuaire : attention aux transferts de catégories
+
+La présence d'une sépulture ou d'un objet de tombe ne suffit pas à définir une grotte comme « temple ». Les pratiques relatives aux morts peuvent comporter des réouvertures, des gestes de soin et des commemorations ; elles n'impliquent pas une organisation sacerdotale permanent semblable à un sanctuaire institutionnel.
+
+Il importe de décrire les **indices d'actes** : dépôts, orientations, remaniements, état du squelette, traces de feu, objets placés selon une disposition, présence de murs et séquences d'entretien. Une théorie du culte ancestral peut ensuite être évaluée, mais elle ne se substitue pas à ces observations.
+
+La comparaison avec les sépultures **Bura** et les tertres du **Komaland**, traités dans d'autres chapitres MYTHOS, doit porter sur les dispositifs précis de dépôt. Les traditions et les chronologies étant distinctes, l'assimilation de ces lieux en un unique « culte africain des ancêtres » serait infondée.
+
+### XI. Le mot « Tellem » : récit local et catégorie scientifique
+
+Le nom **Tellem** est employé dans des traditions dogon pour désigner des populations antérieures auxquelles certains objets et bâtiments rupestres sont attribués. Il est devenu aussi une catégorie archéologique. Cet emploi double exige une critique particulière : un récit contemporain peut décrire des prédécesseurs sans livrer leur propre langue ni la manière dont ils se nommaient.
+
+Une **tradition d'antériorité** n'est pas dépourvue de valeur historique. Elle conserve une relation à des lieux et à des traces dont les occupants contemporains veulent rendre compte. Mais transformer un nom attribué après coup en ethnonyme parfaitement identifié d'une population médiévale constitue une hypothèse.
+
+Le danger est renforcé lorsque l'archéologie et l'ethnographie se citent circulairement : un bâtiment est dit Tellem parce qu'une tradition l'affirme, puis la tradition est considérée comme confirmée parce que l'archéologue a nommé le bâtiment Tellem. Une démonstration indépendante demande stratigraphie et chronologie.
+
+### XII. Les Dogon, les villages et l'autorité des lieux
+
+La vie sociale et religieuse dogon ne s'organise pas autour d'un seul grand temple central. Les villages comportent, selon les lieux et traditions, des **espaces de réunion**, des constructions liées à la mémoire lignagère, des foyers, des lieux de masque et des sanctuaires particuliers. Les modalités varient avec les histoires de migration, les appartenances, les saisons et les transformations religieuses.
+
+Le **togu na** — souvent présenté comme un abri communautaire ou « maison de la parole » — apparaît dans les descriptions muséales et ethnographiques. Son architecture basse, son dispositif de poteaux et sa couverture permettent d'étudier la relation entre réunion, repos et décision. Il ne faut pas le considérer automatiquement comme temple cosmique ou structure d'astronomie.
+
+Les lieux de pouvoir ne portent pas tous le même type d'autorité. Un emplacement funéraire, un autel territorial et une maison de réunion peuvent se rapprocher dans la vie quotidienne sans devenir des synonymes.
+
+### XIII. Le *hogon* et les limites du modèle de « grand prêtre »
+
+Le terme **hogon** désigne, dans les descriptions dogon, des détenteurs d'autorité rituelle associés à des lieux ou à des fonctions particulières. Les synthèses généralistes les dépeignent souvent comme une institution unique, régie par un code homogène. Les enquêtes récentes soulignent au contraire la variation régionale et historique des offices.
+
+Des règles concernant l'accès, la nourriture, certains contacts ou la résidence sont décrites dans des ethnographies. Ces données doivent être reliées au village, au moment de collecte et à l'informateur. On ne peut pas présenter un interdit observé dans un lieu comme une règle écrite pour tout le territoire.
+
+La comparaison avec le prêtre égyptien, le hiérophante grec ou le brahmane indien peut aider à examiner **l'autorité de médiation**, mais pas à transformer les institutions dogon en répliques de catégories étrangères.
+
+### XIV. L'*Awa*, les masques et les funérailles
+
+Des sociétés et groupes de **masques**, notamment désignés par le terme **Awa** dans la littérature, interviennent dans certains villages à l'occasion de rites funéraires et de commémoration. Les masques peuvent faire partie de performances impliquant costumes, mouvements, chants, parcours et relations au public.
+
+Le terme **dama** est fréquemment employé pour des cérémonies funéraires et commémoratives associées aux masques dans une partie de la littérature dogon. Il ne s'agit pas d'un cycle identique et obligatoire pour chaque famille du plateau. Les conditions de participation, les déplacements, le calendrier et la forme des masques varient.
+
+Un masque présenté dans une vitrine, isolé du danseur et de la situation, ne suffit pas à expliquer sa fonction. Les publications doivent distinguer **l'objet porté**, **l'acte de porter**, **le public** et **les récits justificatifs**. L'iconographie ne peut pas être réduite à un dictionnaire universel où chaque géométrie correspondrait à une planète.
+
+### XV. Le masque *kanaga* et les interprétations concurrentes
+
+Le **kanaga** est l'un des masques dogon les plus connus, avec une forme caractéristique de traverses ou bras horizontaux. L'interprétation de sa configuration a suscité des lectures symboliques détaillées, notamment dans les traditions d'étude issues de Griaule. Il importe de distinguer la **forme visible**, l'**usage en performance** et l'**interprétation cosmogonique donnée par certains interlocuteurs**.
+
+Une même forme peut être expliquée différemment selon le village, le danseur, le chercheur ou l'époque. Aucun symbole ne doit être présenté comme un code unique dont la validité serait garantie par sa seule répétition dans les albums d'art.
+
+La question archéologique se complique encore : les matériaux du masque sont périssables, et leur durée de conservation ne permet pas de transposer directement le répertoire actuel aux installations médiévales des grottes Tellem. Il n'existe pas de preuve matérielle reliant chaque sépulture ancienne à une danse de kanaga.
+
+### XVI. La parole ethnographique : que signifie une confidence ?
+
+Les grands livres de Marcel **Griaule** ont fait connaître des récits recueillis dans des situations d'enquête complexes. *Dieu d'eau. Entretiens avec Ogotemmêli* paraît en **1948** ; il présente une conversation structurée avec un interlocuteur dont le nom est associé à une cosmologie très élaborée. Sa forme littéraire a profondément influencé la réception du pays dogon.
+
+L'historien de l'anthropologie doit distinguer **parole transcrite**, **parole traduite**, **mise en scène éditoriale** et **synthèse conceptuelle**. Le rôle du chercheur, les conditions de l'entretien, les intérêts des interlocuteurs et le cadre colonial font partie de la production de cette archive.
+
+Un récit peut être inventif, cohérent et précieux comme témoignage d'une rencontre intellectuelle sans constituer la doctrine nécessairement représentative de toutes les communautés. L'enjeu n'est pas de choisir entre fascination et disqualification, mais de restituer la chaîne de transmission de chaque proposition.
+
+### XVII. *Le Renard pâle* : Amma, Nommo et Ogo dans une tradition éditée
+
+**Marcel Griaule** et **Germaine Dieterlen** publient *Le Renard pâle* en **1965**, après la mort de Griaule. L'ouvrage ordonne un système cosmogonique faisant intervenir notamment **Amma**, **Nommo** et **Ogo**. Il lie la création, les corps, le langage et les relations entre ordre et désordre.
+
+Le texte constitue une **source primaire majeure pour l'histoire de l'ethnographie du milieu du XXe siècle**, et une proposition interprétative sur certains matériaux recueillis auprès des Dogon. Son contenu ne peut être traité comme une inscription antique découverte dans la falaise, ni comme un récit de création récité de manière identique par tous les habitants.
+
+La distinction est particulièrement importante pour les « preuves » d'une origine de la mort ou d'un sacrifice primordial. L'archéologue peut constater des actes funéraires ; il ne peut pas leur attribuer une motivation issue de ce livre plusieurs siècles après les dépôts sans argument complémentaire.
+
+### XVIII. Walter van Beek : la contre-enquête de 1991
+
+Dans « **Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule** », *Current Anthropology* **32(2)**, **1991**, p. **139–167**, **Walter E. A. van Beek** rapporte une enquête qui ne parvient pas à reproduire plusieurs composantes de la cosmogonie griaulienne. Il met en cause les conditions d'enquête, les relations entre chercheurs et interlocuteurs, la circulation des récits et le degré d'unification attribué au corpus.
+
+La portée de l'article doit être formulée exactement : **une contre-enquête n'a pas corroboré des propositions centrales** dans les lieux et auprès des personnes concernés. Elle ne démontre pas logiquement que tous les récits recueillis par Griaule seraient entièrement faux, ni que toute pensée cosmologique dogon serait absente de chaque communauté.
+
+La publication suscita des réponses, notamment de **Geneviève Calame-Griaule**, dans *Current Anthropology* **32(5)**, **1991**, p. **575–577**, ainsi que des commentaires de plusieurs spécialistes. Les débats font désormais partie de la documentation scientifique elle-même. Une synthèse rigoureuse présente les arguments et contre-arguments au lieu d'affirmer que l'une des parties a définitivement clos la discussion.
+
+### XIX. La critique prolongée : l'enquête, le pouvoir et la création des traditions
+
+Dans « **Haunting Griaule: Experiences from the Restudy of the Dogon** », *History in Africa* **31**, **2004**, p. **43–68**, van Beek approfondit l'analyse des conditions de réception des matériaux des années 1940-1950. Il examine le poids de la position coloniale de l'enquêteur, l'importance de quelques interlocuteurs et le rôle des attentes de cohérence.
+
+L'intérêt de cette critique dépasse le cas dogon. Une enquête anthropologique peut favoriser la production d'un système explicatif unifié si le chercheur récompense implicitement les réponses qui répondent à ses questions. Les acteurs locaux ne sont pas pour autant des informateurs passifs : ils peuvent créer, adapter et négocier des récits en réponse à une nouvelle situation.
+
+Le dogmatisme serait double : croire que toute déclaration d'un ethnographe décrit une société entière, ou croire qu'une contre-enquête tardive efface toutes les variantes connues. La méthode tient dans la comparaison des contextes, des personnes, des langues, des versions et des usages.
+
+### XX. L'affaire Sirius : astronomies réelles et spéculation
+
+Les récits sur une connaissance dogon prétendument ancienne du compagnon invisible de **Sirius** ont connu une diffusion mondiale, souvent détachée de leurs sources originales et associée à des thèses de contacts extraterrestres. Il faut reconnaître l'existence de publications ethnographiques où les motifs de Sirius apparaissent ; il serait cependant incorrect d'en déduire la preuve qu'une population médiévale observait un astre non visible à l'œil nu.
+
+Le document initial attribuant des connaissances complexes à Sirius date de l'enquête moderne et doit être replacé dans les réseaux de circulation de savoirs, les traductions et les débats sur l'interprétation. Les astrophysiciens disposent de données indépendantes sur Sirius B ; ces données **ne valident pas** une explication historico-religieuse sur l'origine d'un récit ethnographique.
+
+L'histoire de l'astronomie dogon n'est pas un argument pour ou contre une dignité intellectuelle. La bonne question est de savoir **qui connaissait quoi, quand, par quelle source et sous quelle forme**. La dignité des savoirs africains ne dépend pas de la capacité à anticiper une découverte européenne.
+
+### XXI. L'histoire des travaux n'est pas l'histoire de toutes les communautés
+
+L'école Griaule occupa une place centrale dans la formation d'une image publique de « la religion dogon ». Les musées, guides, journalistes et ouvrages de vulgarisation ont parfois reproduit cette image comme une doctrine stable. Or le paysage ethnographique ne se réduit pas à l'archive d'une équipe.
+
+Les études contemporaines, dont les recherches du projet Ounjougou sur les traditions de peuplement, montrent des histoires régionales complexes. La diversité des langues, des lignages, des transformations chrétiennes et musulmanes et des migrations invite à parler **de traditions dogon au pluriel**.
+
+Cette pluralité n'empêche pas d'analyser des formes de convergence. Elle impose seulement de donner les conditions de généralisation : fréquence d'un rite, aire étudiée, nombre d'interlocuteurs et moment de l'observation. La monographie scientifique ne peut transformer une réponse particulière en conscience collective unanime.
+
+### XXII. La mémoire des Tellem dans les récits dogon
+
+Les Tellem apparaissent dans plusieurs récits comme des prédécesseurs associés à la falaise. Certains récits leur attribuent des capacités inhabituelles, ou expliquent de manière merveilleuse leur accès à des grottes difficilement accessibles. Ces récits sont des archives de **l'interprétation locale du paysage**, pas des rapports techniques contemporains de la construction médiévale.
+
+L'archéologie peut confronter les traditions aux dispositifs d'accès, aux traces de construction et aux objets. Elle ne doit pas mépriser une explication merveilleuse comme « ignorance » ; elle doit toutefois distinguer **une mémoire sociale** d'un protocole d'ingénierie.
+
+La persistance d'une mémoire de populations antérieures ne prouve pas une succession exclusive de peuples complètement séparés. Les réseaux d'échanges, mélanges et déplacements étudiés par Ounjougou montrent que les relations historiques ont pu être complexes.
+
+### XXIII. Le patrimoine UNESCO : sens culturel et valeur du paysage
+
+L'UNESCO reconnaît la falaise comme un bien mixte relevant des critères **(v)** et **(vii)**, pour le rapport entre établissements humains, traditions et paysage naturel remarquable. La notion de « valeur universelle exceptionnelle » est une construction du droit patrimonial contemporain. Elle ne constitue pas une déclaration selon laquelle les rites dogon seraient inchangés depuis deux mille ans.
+
+La fiche patrimoniale décrit maisons, lieux d'ancêtres, paysages de culture, sanctuaires et pratiques vivantes. Elle souligne aussi leur vulnérabilité aux évolutions sociales et matérielles. Le bien ne peut pas être préservé seulement en figeant les maisons sous une forme photographique idéalisée : des habitants doivent pouvoir réparer, vivre et transmettre.
+
+La gestion suppose une articulation entre institutions du Mali, collectivités, spécialistes des lieux et acteurs de la conservation. Les visiteurs ne doivent pas supposer un droit automatique de photographier des rites ou de pénétrer dans les lieux interdits au nom du patrimoine mondial.
+
+### XXIV. Conflits, insécurité et conservation
+
+Les rapports de suivi de l'UNESCO au XXIe siècle soulignent que le contexte sécuritaire du Mali et les transformations des modes de vie pèsent sur la préservation du patrimoine. Les difficultés peuvent entraver les inventaires, les restaurations, la transmission de compétences et l'accès aux villages.
+
+Un dossier sérieux doit différencier **dommages précisément inventoriés**, **risques signalés** et **reconstructions futures**. Il ne peut annoncer que tous les masques ou bâtiments auraient disparu, ni prétendre qu'une opération de restauration aurait réussi sans vérifier les rapports pertinents.
+
+L'éthique de la recherche implique aussi de ne pas exposer inutilement des personnes ou des lieux sensibles. L'archéologie et l'ethnographie doivent tenir compte des conditions de sécurité et des règles communautaires de diffusion.
+
+### XXV. Comparaison grecque : tombes, héros et mémoire construite
+
+Les sanctuaires héroïques grecs peuvent être associés à des tombes anciennes réinterprétées dans une période ultérieure. Cette relation montre que **le réemploi d'un lieu** peut produire une nouvelle mémoire sans garantir la continuité des mêmes croyances. La Grèce a laissé des inscriptions et des textes, mais leurs identifications de héros ne sont pas toujours contemporaines des structures auxquelles elles s'appliquent.
+
+**Hésiode**, dans la *Théogonie*, et les récits homériques construisent des généalogies et des rapports aux morts ; ils ne peuvent être utilisés comme une grille pour retrouver des mythes perdus des Tellem. La comparaison porte sur les opérations sociales de **nommer**, **entretenir**, **réutiliser** et **honorer** un emplacement funéraire.
+
+L'exemple de Bandiagara invite même à se méfier d'un rapprochement trop rapide : qu'une grotte semble à un observateur évoquer une descente aux Enfers ne prouve pas qu'elle fonctionnait comme passage infernal.
+
+### XXVI. Égypte et Mésopotamie : architecture funéraire et texte
+
+Les tombes égyptiennes et les dépôts funéraires mésopotamiens offrent des contextes où le rapport entre architecture, biens et rites peut parfois être éclairé par inscriptions, scènes ou textes. Ils démontrent que la pluralité des gestes entourant les morts est historique et variable.
+
+Mais une comparaison entre une tombe de **Dourou-Boro** et une hypogée de la vallée des Rois n'établit pas une filiation ni un même modèle de l'âme. De même, le terme akkadien **eṭemmu** désigne des aspects du mort dans une tradition textuelle dont la langue et la chronologie diffèrent de celles des pratiques étudiées au Mali.
+
+La différence principale réside dans la documentation. La tombe rupestre malienne fournit surtout des preuves matérielles ; un rite décrit dans un papyrus ou une tablette donne, à certaines conditions, accès à des paroles et à des catégories. L'absence de texte local ne peut être comblée par la traduction d'un texte étranger.
+
+### XXVII. Iran, Inde et Chine : la longue durée des morts et des objets
+
+Dans les traditions iraniennes, des pratiques liées aux défunts et aux **fravašis** sont décrites dans des corpus avestiques de datations et de transmissions complexes. Les traditions indiennes connaissent des rites de **śrāddha** et diverses représentations des **pitṛ** ; la Chine des Zhou a laissé des bronzes et inscriptions liés à des commémorations ancestrales.
+
+Ces ensembles permettent d'interroger l'articulation des morts, de la mémoire et de la légitimité. Ils ne fournissent aucune preuve que le Tellem médiéval ait eu une cérémonie identique ou une théologie dérivée d'Inde ou de Chine.
+
+Les séries comparatives doivent être datées et contextualisées. Un système antique documenté ne devient pas plus explicatif pour Bandiagara simplement parce qu'il possède davantage de textes.
+
+### XXVIII. Autres paysages africains et américains : prudence devant les analogies
+
+Les dispositifs funéraires de **Bura**, **Tiya**, **Wanar**, **Sukur** ou du **Komaland** montrent diverses manières de matérialiser la relation aux morts et à la terre. Les chapitres MYTHOS sur ces sites établissent des contextes distincts. La coexistence continentale ne suffit pas à prouver des formes de culte communes.
+
+Des sépultures et pratiques de dépôt de Mésoamérique ou des Andes présentent également des relations entre lieux construits, ancêtres et pouvoir. Une comparaison de **gestes** peut être instructive : bâtir, couvrir, rouvrir, déplacer, déposer, protéger. Le type de roche ou la position topographique ne constituent pas des preuves d'une origine religieuse universelle.
+
+L'étude du peuplement doit remplacer les analogies faciles par des questions testables : quelles routes, quels objets, quelles dates, quelles transformations et quels contacts sont effectivement démontrés ?
+
+### XXIX. Durkheim : ancestralité et institution
+
+**Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* (1912), propose de comprendre comment des groupes maintiennent des distinctions partagées et des obligations envers des lieux ou des objets. La conservation d'une grotte funéraire ou la commémoration d'un ancêtre peuvent être analysées comme des actes sociaux.
+
+Mais le modèle sociologique ne permet pas de décider que les morts seraient « seulement » des emblèmes collectifs. Les représentations des participants possèdent des formes propres, que l'analyse doit comprendre sans les invalider d'avance.
+
+La méthode gagne à articuler institution, expérience et matérialité. Une structure de tombe ne suffit pas à reconstruire des intentions sociales détaillées, mais elle montre qu'une communauté a investi des ressources dans le traitement des morts.
+
+### XXX. Eliade : espace privilégié, chronologie et hiérophanie
+
+La pensée de **Mircea Eliade** sur l'espace sacré et la **hiérophanie** peut aider à poser la question des lieux auxquels des communautés attribuent une valeur particulière. Une falaise monumentale peut apparaître comme un lieu remarquable dans de multiples systèmes religieux.
+
+Cette approche n'autorise toutefois pas à considérer une géologie comme preuve d'un culte. La valeur religieuse exige des gestes et témoignages ; la longue durée de la falaise ne date ni les tombes ni les masques.
+
+En ramenant les structures Toloy, Tellem et dogon à une éternelle « montagne sacrée », une lecture phénoménologique effacerait précisément ce que l'archéologie a établi : transformations techniques, changements de peuplement et reconstructions de mémoire.
+
+### XXXI. Girard : violence, sacrifice et théorie non démontrée
+
+Les lectures de **René Girard**, *La Violence et le sacré* (1972), peuvent fournir un langage théorique pour des récits où la violence et le sacrifice participent à une réorganisation du monde. Cependant, la version de **Nommo** rapportée dans *Le Renard pâle* appartient à un corpus ethnographique controversé dont la généralité n'est pas établie.
+
+Il serait donc doublement fragile d'expliquer les sépultures de Bandiagara par un sacrifice cosmique rapporté au XXe siècle, puis de considérer ces tombes comme confirmation de la théorie du sacrifice. La chronologie des sources et la différence entre récit et dépôt interdit ce raisonnement circulaire.
+
+Une hypothèse concernant la violence rituelle doit être étayée par des traces spécifiques, des textes ou des témoignages contextuels ; une tombe collective ou un corps désarticulé n'est pas automatiquement une victime sacrifiée.
+
+### XXXII. Vernant et Detienne : l'autonomie des questions comparatives
+
+**Jean-Pierre Vernant** a montré que les systèmes mythiques et rituels grecs ne se comprennent pas comme des collections de symboles universels. Il faut identifier des fonctions, des situations et des institutions. La leçon est particulièrement utile pour Bandiagara : le masque n'est pas une « équation cosmique » transparente, la grotte n'est pas une tombe grecque sous un autre nom.
+
+**Marcel Detienne**, *Comparer l'incomparable* (2000), invite à construire des unités de comparaison limitées : **édifier un tombeau**, **réinterpréter le bâtiment d'un prédécesseur**, **se présenter sous un masque**, **attribuer une signification à une étoile**, **publier un récit d'origine**. C'est l'opération qui peut être comparée, pas une identité doctrinale postulée.
+
+Le cas dogon est exemplaire des dangers d'une comparaison qui ne pourrait jamais être réfutée. Une méthode scientifique doit laisser ouverte l'hypothèse qu'un symbole familier à l'enquêteur n'a pas de signification équivalente pour son interlocuteur.
+
+### XXXIII. Dumézil et le piège des systèmes trop parfaits
+
+**Georges Dumézil** a pratiqué une comparaison fondée principalement sur les rapports linguistiques et les traditions indo-européennes. Il n'y a aucune raison de projeter directement sa tripartition fonctionnelle sur la société dogon ou sur les sépultures Tellem, qui ne relèvent pas du même domaine de parenté démontrée.
+
+De manière plus générale, un système trop cohérent peut devenir suspect si aucun interlocuteur n'en reconnaît les règles, si les sources indépendantes ne le corroborent pas ou si les contre-exemples sont systématiquement ignorés. Il est nécessaire de considérer les traditions qui s'écartent d'un modèle prestigieux.
+
+La comparaison n'est donc pas interdite ; elle est d'autant plus exigeante qu'elle porte sur des documents de nature différente. Un livre d'ethnographe, un récipient daté et un mythe grec ne fournissent pas le même type de preuve.
+
+### XXXIV. Nietzsche, Hegel et l'Afrique comme terrain de philosophie
+
+**Hegel**, dans les cours de philosophie de l'histoire publiés et remaniés après sa mort, exprima des conceptions de l'Afrique aujourd'hui reconnues comme eurocentriques. La réponse ne consiste pas à montrer que les Dogon auraient nécessairement possédé une métaphysique exactement égale à la pensée grecque : cette exigence imposerait encore le modèle européen comme seul étalon de valeur.
+
+**Nietzsche**, dans *La Naissance de la tragédie* (1872), développe une théorie esthétique du rite et de l'art depuis la Grèce. Lire la danse des masques comme « dionysiaque » pourrait être une métaphore, jamais la traduction d'un concept dogon. L'affirmation d'une universalité de l'extase ou d'un archétype unique des masques effacerait les institutions concrètes.
+
+La question philosophique plus profonde est celle de la **représentation du savoir**. Quand une société est décrite par un ethnographe, l'auteur construit un texte qui peut devenir plus connu que les voix qu'il met en scène. Rendre aux interlocuteurs leur pluralité et historiciser le travail de traduction n'appauvrit pas la philosophie ; cela en corrige les conditions d'énonciation.
+
+### XXXV. Le problème de l'authenticité : geste ancien, création moderne
+
+L'archéologie et l'anthropologie ont parfois été mobilisées pour définir une « culture dogon authentique », supposée isolée et stable. Or les travaux sur le peuplement décrivent des migrations, ruptures et échanges ; les critiques de Griaule montrent que les récits ont aussi des histoires éditoriales.
+
+Un rite transformé n'est pas nécessairement « faux » pour les fidèles. L'authenticité historique d'une pratique suppose d'établir **quand** elle fut observée et **comment** elle change, non de l'exiger identique à une forme hypothétique du Moyen Âge.
+
+La restauration de maisons ou de lieux funéraires soulève des problèmes proches : conserver un état matériel, maintenir un usage et préserver une capacité de transmettre ne sont pas toujours le même objectif. Les décisions doivent être documentées et négociées avec les communautés.
+
+### XXXVI. Méthodes de recherche : les priorités d'un dossier vivant
+
+Un programme interdisciplinaire devrait réunir un **atlas des cavités** avec leur localisation, leurs plans, les périodes de fouille et la situation des collections ; une **base stratigraphique** indiquant types de sépultures, matériaux datés, incertitudes et analyses ; un **corpus de céramiques et perles** avec leurs chaînes opératoires et provenances ; et un **registre ethnographique** des observations avec langues, dates, lieux et conditions de collecte.
+
+Les archives de Griaule et de Dieterlen méritent un examen comparatif qui préserve les versions, les interventions éditoriales et l'identité des interlocuteurs lorsque la publication est légitime. Les contre-enquêtes doivent être accompagnées de leurs conditions propres, afin de comparer les protocoles au lieu de simplement opposer des autorités savantes.
+
+Les collections archéologiques ne doivent pas être séparées de leurs communautés d'origine. L'étude des ossements et des objets funéraires doit respecter les exigences légales et les restrictions exprimées par les interlocuteurs concernés, ainsi que les impératifs actuels de sécurité.
+
+### XXXVII. Matrice des faits attestés, controverses et hypothèses
+
+| Question | Faits documentés | Controverse ou limite |
+|---|---|---|
+| Le paysage de Bandiagara est classé au patrimoine mondial depuis 1989 | UNESCO, bien 516, critères (v) et (vii) | Le statut juridique ne date pas les rites |
+| Les cavités contiennent des constructions et dépôts de périodes variées | Fouilles de Bedaux et équipe Utrecht ; reprise Ounjougou | Les contextes ne forment pas une religion uniforme |
+| Des structures attribuées à des greniers ont été réinterprétées comme tombes | Mayor et al. (2014), Dourou-Boro, Pégué A, Yawa | Ne pas généraliser à toutes les installations |
+| Les constructions à colombins étudiées couvrent une longue durée | Datations de matériaux associés, modèle d'environ 1 800 ans | Les dates ne s'appliquent pas à chaque mur |
+| Les perles témoignent de réseaux de provenance lointaine | Analyses chimiques et contexte de Dourou-Boro | Aucun emprunt cultuel spécifique démontré |
+| Les phases de peuplement sont complexes | Céramique, fouilles, traditions Ounjougou | Catégories ethniques non interchangeables avec styles |
+| Des masques participent à des rites funéraires dogon | Enquêtes ethnographiques et observations modernes | Grande variation régionale ; lien direct aux Tellem non établi |
+| Griaule et Dieterlen ont publié une cosmogonie cohérente | *Dieu d'eau*, *Le Renard pâle* | Représentativité disputée, enquête non reproductible dans des contextes ultérieurs |
+| Van Beek a mis en cause plusieurs conclusions | *Current Anthropology* (1991), *History in Africa* (2004) | Critique sérieuse, sans effacement de tous les témoignages |
+| Connaissance médiévale certaine de Sirius B | **Non démontrée** | Sources ethnographiques modernes, interprétations controversées |
+| Filiation grecque, égyptienne ou indienne des rites | **Non démontrée** | Analogies sans chaîne historique |
+
+### XXXVIII. Conclusion générale
+
+Bandiagara offre un exemple rare où l'archéologie et l'histoire de l'ethnographie peuvent se corriger mutuellement. Les grottes et structures en terre ne sont pas simplement la matérialisation d'une cosmogonie recueillie au XXe siècle : leur chronologie et leur fonction demandent des analyses autonomes. Le cas des « greniers » requalifiés en tombes démontre qu'une transformation des méthodes peut modifier profondément notre compréhension d'un paysage.
+
+L'histoire de Griaule, de Dieterlen et de leurs critiques ne doit pas être réduite au procès de quelques savants. Elle met en question la **fabrication du savoir comparatif** : les attentes d'un chercheur, les choix de traduction, les conditions politiques et les intérêts des interlocuteurs peuvent contribuer à la construction d'un système. La possibilité de réexaminer ce système n'ôte rien à la richesse des traditions ; elle rend à celles-ci leur diversité.
+
+Pour MYTHOS, l'enseignement est clair : l'origine du sacré n'est ni une date ni un dogme universel. Elle se reconstitue par les pratiques datées, les archives, les transformations matérielles et la critique des catégories qui prétendent les résumer. L'encyclopédie doit protéger cette pluralité plutôt que promouvoir une cosmogonie unique au nom d'une antiquité prestigieuse.
+
+### XXXIX. Corpus primaire et sources institutionnelles vérifiées
+
+1. **UNESCO**, *Cliff of Bandiagara (Land of the Dogons)*, bien **516**, inscription **1989**, critères **(v)** et **(vii)**, 327 390 ha : https://whc.unesco.org/en/list/516/.
+2. **UNESCO**, décision **13 COM XV.A** (1989), inscription et préoccupations relatives à la conservation et au tourisme : https://whc.unesco.org/en/decisions/3637/.
+3. **Projet Ounjougou**, « Archéologie funéraire dans la falaise : recherches à Pégué A et Dourou-Boro », résultats des datations et réévaluation des tombes : https://www.ounjougou.org/fr/projets/mali/archeologie/archeologie-funeraire-dans-la-falaise-recherches-a-pegue-a-et-dourou-boro/.
+4. **Projet Ounjougou**, « L'histoire du peuplement en Pays dogon depuis 2000 ans : une dynamique complexe », synthèse d'archéologie et d'ethnohistoire : https://www.ounjougou.org/fr/projets/mali/archeologie/lhistoire-du-peuplement-en-pays-dogon-depuis-2000-ans-une-dynamique-complexe/.
+5. **Rogier M. A. Bedaux**, relevés architecturaux des cavités étudiées dans les années 1960-1970 ; les objets et plans publiés en 1972 sont des sources primaires de terrain pour les contextes effectivement documentés.
+6. **Marcel Griaule**, *Dieu d'eau. Entretiens avec Ogotemmêli* (1948), témoignage ethnographique édité à historiciser, non transcription des pratiques médiévales.
+7. **Marcel Griaule et Germaine Dieterlen**, *Le Renard pâle* (1965), corpus de récits et d'analyses collectés et publiés au XXe siècle, dont l'extension sociale est débattue.
+
+### XL. Bibliographie scientifique et appareil historiographique
+
+8. **Rogier M. A. Bedaux**, « Tellem, reconnaissance archéologique d'une culture de l'Ouest africain au Moyen Âge : recherches architectoniques », *Journal de la Société des Africanistes*, **42(2)**, **1972**, p. **103–185**, DOI **10.3406/jafr.1972.1700** : https://www.persee.fr/doc/jafr_0037-9166_1972_num_42_2_1700.
+9. **Rogier M. A. Bedaux et A. G. Lange**, « Tellem, reconnaissance archéologique d'une culture de l'Ouest africain au Moyen Âge : la poterie », *Journal des africanistes*, **53(1–2)**, **1983**, p. **5–59**, DOI **10.3406/jafr.1983.2037** : https://www.persee.fr/doc/jafr_0399-0346_1983_num_53_1_2037.
+10. **Anne Mayor, Eric Huysecom, Sylvain Ozainne et Sandro Magnavita**, « Early social complexity in the Dogon Country (Mali) as evidenced by a new chronology of funerary practices », *Journal of Anthropological Archaeology*, **34**, **2014**, DOI **10.1016/j.jaa.2013.12.002** : https://www.sciencedirect.com/science/article/pii/S0278416513000743.
+11. **Eric Huysecom**, « The First Emergence of Ceramic Production in Africa », *Oxford Research Encyclopedia of Anthropology*, publié le **30 juillet 2020**, DOI **10.1093/acrefore/9780190854584.013.66** : https://academic.oup.com/edited-volume/61643/chapter-abstract/539814924.
+12. **Sylvain Ozainne et collaborateurs**, « Developing a Chronology Integrating Archaeological and Environmental Data from Different Contexts: The Late Holocene Sequence of Ounjougou (Mali) », *Radiocarbon*, synthèse du modèle chrono-environnemental : https://www.cambridge.org/core/journals/radiocarbon/article/developing-a-chronology-integrating-archaeological-and-environmental-data-from-different-contexts-the-late-holocene-sequence-of-ounjougou-mali/7BBCBA0D92B0DF6B1B522A454FF29586.
+13. **Marcel Griaule**, *Dieu d'eau. Entretiens avec Ogotemmêli*, Paris, Éditions du Chêne, **1948** ; versions et rééditions à distinguer.
+14. **Marcel Griaule et Germaine Dieterlen**, *Le Renard pâle*, t. I : *Le Mythe cosmogonique*, fasc. 1, *La Création du monde*, Paris, Institut d'ethnologie, **1965**, 544 p., coll. *Travaux et mémoires de l'Institut d'ethnologie*, 72 ; notice bibliographique : https://africabib.org/rec.php?RID=841979448.
+15. **Walter E. A. van Beek**, « Dogon Restudied: A Field Evaluation of the Work of Marcel Griaule », *Current Anthropology*, **32(2)**, **1991**, p. **139–167**, DOI **10.1086/203932** : https://www.journals.uchicago.edu/doi/abs/10.1086/203932.
+16. **Geneviève Calame-Griaule**, « On the Dogon Restudied », *Current Anthropology*, **32(5)**, **1991**, p. **575–577**, DOI **10.1086/204001** : https://www.journals.uchicago.edu/doi/10.1086/204001.
+17. **Walter E. A. van Beek**, « Haunting Griaule: Experiences from the Restudy of the Dogon », *History in Africa*, **31**, **2004**, p. **43–68** ; notice de recherche : https://www.ascleiden.nl/publications/haunting-griaule-experiences-restudy-dogon.
+18. **Geneviève Calame-Griaule**, *Ethnologie et langage : la parole chez les Dogon*, Paris, Gallimard, **1965**, éditions ultérieures à distinguer ; étude de référence sur la relation entre parole et ethnographie.
+19. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, Paris, Maspero, **1965**.
+20. **Marcel Detienne**, *Comparer l'incomparable*, Paris, Seuil, **2000**.
+21. **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, **1912**.
+22. **Mircea Eliade**, *Das Heilige und das Profane*, **1957** ; traduction française *Le Sacré et le Profane*, Gallimard, **1965**.
+23. **René Girard**, *La Violence et le sacré*, Paris, Grasset, **1972**.
+24. **Georges Dumézil**, *Mythe et épopée*, tomes I–III, Paris, Gallimard, **1968–1973**.
+25. **Friedrich Nietzsche**, *Die Geburt der Tragödie aus dem Geiste der Musik*, Leipzig, **1872**.
+26. **G. W. F. Hegel**, *Vorlesungen über die Philosophie der Geschichte*, éditions posthumes à partir de **1837** ; identifier les manuscrits et états des cours avant toute citation littérale.
+
+**Précautions bibliographiques.** Les pages institutionnelles et les notices de projets présentent des résultats synthétiques ; les éditions scientifiques doivent être consultées pour toute extraction de tableaux de datation. Aucun récit d'Ogotemmêli n'est cité textuellement sans édition établie ; aucun nom Tellem n'est appliqué sans contrôle aux occupants néolithiques d'Ounjougou. Le dossier n'affirme aucune filiation astronomique ou extraterrestre, aucune cosmologie immuable et aucun rituel de la falaise inventé.
+
+**Sujet suivant à étudier séparément après vérification de la file :** les sédiments rituels et les architectures de terre des communautés du plateau de Bandiagara, ou les sanctuaires des collines Koma et des monts du Ghana, sans duplications des monographies déjà déposées.
