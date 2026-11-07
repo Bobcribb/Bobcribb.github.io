@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 90,
+  "count": 91,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2913,6 +2913,49 @@
       ],
       "methodology": "Aucune photogrammétrie, restitution cotée ou validation par les institutions n'est revendiquée. Les éléments non conservés sont conjecturaux.",
       "publication_status": "main_source_committed_pending_https_verification"
+    },
+    {
+      "id": "LEF-TOU-001",
+      "slug": "lefkandi-toumba-batiment-protogeometrique-vers-950-av-jc",
+      "title": "Lefkandi (Eubée) — bâtiment apsidal de Toumba, vers 950 av. J.-C.",
+      "period": "Époque protogéométrique, première moitié du Xe siècle av. J.-C. ; évocation vers 950 av. J.-C.",
+      "caption": "Évocation tridimensionnelle photoréaliste du grand bâtiment apsidal de Toumba à Lefkandi, dans un état hypothétique avant son enfouissement.",
+      "commentary": "Le secteur de Toumba, à Lefkandi sur l'île d'Eubée, a livré un édifice monumental en plan allongé terminé par une abside, généralement daté du Xe siècle avant notre ère. Les fouilles gréco-britanniques ont identifié un monument d'environ 50 m sur 14 m, à soubassements en pierres et parties hautes probablement en matériaux périssables et en terre crue, avec des trous de poteaux révélant d'importants dispositifs de bois. Au centre se trouvaient deux fosses : l'une associée à une urne cinéraire masculine et à une inhumation féminine, l'autre à quatre chevaux. Le monument a été démantelé ou détruit et recouvert d'un grand tumulus. La présente vue imagine, à seule fin pédagogique, l'édifice encore debout, avant l'enfouissement ; elle ne montre donc pas les fosses funéraires comme si elles étaient visibles depuis l'extérieur. La fonction exacte et la séquence construction–occupation–funérailles–enfouissement font débat. Le mot 'hérôon', fréquemment utilisé, n'est pas une identification assurée d'un culte héroïque contemporain de l'édifice. Le plan, le grand volume et les implantations de poteaux sont documentés ; en revanche, aucune élévation complète n'est conservée. La reconstruction longtemps répandue d'une colonnade périphérique préfigurant les temples doriques a été remise en question, notamment par Georg Herdt (2015). Des propositions plus récentes, notamment Coucouzeli, McRobie et Kavrakov (2024), envisagent une structure porteuse en bois et soulignent les incertitudes relatives à l'achèvement du bâtiment. Le bâtiment représenté ici combine des murs enduits, un soubassement de pierre, une charpente et une couverture végétale : il s'agit de choix de visualisation, non d'une toiture démontrée. La série de poteaux visibles le long de la façade et des côtés ne vise pas à trancher la controverse sur l'existence ni la fonction d'une véritable péristasis. L'arrière-plan marin évoque le paysage littoral de l'Eubée, sans prétention de restituer une ligne de côte ou un point de vue exact en 950 av. J.-C. Les personnes, vêtements, poteries, éventuelles offrandes et gestes au premier plan sont imaginaires ; le décor ne constitue aucune preuve d'un rituel effectivement célébré à cet endroit. L'image est un rendu 3D original à visée de médiation historique, sans photogrammétrie, sans géoréférencement et sans validation institutionnelle.",
+      "certainty": "Élevé : existence du monument de Toumba à Lefkandi, horizon protogéométrique, plan monumental allongé avec abside, vestiges de murs et de poteaux, présence des deux fosses funéraires et de chevaux. Moyen : ordre de grandeur d'environ 50 × 14 m, association des matériaux bois, pierre et terre, caractère monumental du bâtiment. Faible : profil exact de la toiture, hauteur et aspect des élévations, extension des galeries à poteaux, reconstitution des baies, vêtement des personnages, nature des gestes, poteries visibles, arbres et paysage.",
+      "source_url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/toumba-building-at-lefkandi-some-methodological-reflections-on-its-plan-and-function1/D1974B39BD78EEE14C96E60CFD13CF1C",
+      "secondary_sources": [
+        "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/on-the-architecture-of-the-toumba-building-at-lefkandi/21EAA93549B97531143C7F38F407E8EC",
+        "https://www.exarc.net/issue-2024-4/ea/lefkandi-toumba-building-timber-framed-structure",
+        "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/further-excavation-of-the-toumba-cemetery-at-lefkandi-1981/D6375B7BF80F70FFEC72BE3CDDC72DCA"
+      ],
+      "src": "/assets/reconstitutions-3d/lefkandi-toumba-batiment-protogeometrique-vers-950-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/lefkandi-toumba-batiment-protogeometrique-vers-950-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution 3D photoréaliste interprétative, non métrique",
+      "provenance": "Visuel original généré par IA pour MYTHOS ; non photogrammétrique, sans validation institutionnelle ; ni texte ni menu intégrés.",
+      "sha256": "e6091e90810c4e8446d564a5c800cb9f1ad846073c988265d3cf0254afa90eab",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/lefkandi-toumba-batiment-protogeometrique-vers-950-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "J. Pakkanen et P. Pakkanen, « The Toumba building at Lefkandi: some methodological reflections on its plan and function », Annual of the British School at Athens 95 (2000), p. 239–252.",
+          "url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/toumba-building-at-lefkandi-some-methodological-reflections-on-its-plan-and-function1/D1974B39BD78EEE14C96E60CFD13CF1C"
+        },
+        {
+          "label": "G. Herdt, « On the Architecture of the Toumba Building at Lefkandi », Annual of the British School at Athens 110 (2015), p. 203–212.",
+          "url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/on-the-architecture-of-the-toumba-building-at-lefkandi/21EAA93549B97531143C7F38F407E8EC"
+        },
+        {
+          "label": "A. Coucouzeli, A. McRobie et I. Kavrakov, « The Lefkandi-Toumba Building as a Timber-Framed Structure », EXARC Journal 2024/4.",
+          "url": "https://www.exarc.net/issue-2024-4/ea/lefkandi-toumba-building-timber-framed-structure"
+        },
+        {
+          "label": "M. R. Popham, E. Touloupa et L. H. Sackett, « Further Excavation of the Toumba Cemetery at Lefkandi, 1981 », Annual of the British School at Athens 77 (1982), p. 213–248.",
+          "url": "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/further-excavation-of-the-toumba-cemetery-at-lefkandi-1981/D6375B7BF80F70FFEC72BE3CDDC72DCA"
+        }
+      ],
+      "methodology": "Interprétation visuelle qualitative ; controverse sur la péristasis, les élévations et la fonction du bâtiment explicitement signalée."
     }
   ]
 }
