@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 90,
+  "count": 91,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2913,6 +2913,50 @@
       ],
       "methodology": "Aucune photogrammétrie, restitution cotée ou validation par les institutions n'est revendiquée. Les éléments non conservés sont conjecturaux.",
       "publication_status": "main_source_committed_pending_https_verification"
+    },
+    {
+      "id": "AIGOS-FOR-001",
+      "slug": "aigosthena-forteresse-tour-sud-est-vers-320-av-jc",
+      "title": "Égosthènes (Aigosthena) — forteresse grecque, rempart oriental et tour sud-est, vers 320 av. J.-C.",
+      "period": "Seconde moitié du IVe siècle av. J.-C. ; évocation conventionnelle vers 320 av. J.-C. ; la datation absolue des fortifications reste discutée.",
+      "caption": "Vue 3D photoréaliste interprétative de la citadelle d’Égosthènes, de son rempart oriental et de ses tours dominant la baie de Porto Germeno, golfe de Corinthe.",
+      "commentary": "La forteresse antique d’Égosthènes (Αἰγόσθενα), près de Porto Germeno, occupe la rive orientale d’une baie du golfe de Corinthe, entre les reliefs du Cithéron et la Mégaride. L’Éphorie des antiquités d’Attique occidentale date les fortifications de la seconde moitié du IVe siècle av. J.-C. : l’acropole, située sur une éminence rocheuse à environ 450 mètres du rivage, est séparée de la ville basse, qu’un long rempart rejoignait vers le port. La citadelle est approximativement rectangulaire ; sa courtine orientale, élevée à près de 48 mètres au-dessus du niveau de la mer, présente quatre tours et une poterne. La tour sud-est, monumentale, possédait un plan carré de quelque neuf mètres de côté, trois étages et une hauteur d’environ dix-huit mètres, avec couverture à deux versants. Ses grandes assises de calcaire et la disposition des archères et ouvertures d’artillerie ont été étudiées ; sa restauration récente, conduite après le séisme de 1981, a réemployé des blocs anciens et reconstitué des planchers, portes et charpentes. L’ancienne forteresse n’est donc pas partout conservée dans son état antique brut. La thèse d’Aliki Milioti (École polytechnique nationale d’Athènes, 2014, DOI 10.12681/eadd/41613) discute la typologie, les maçonneries et les variantes du tracé, et propose 306 av. J.-C. comme terminus ante quem. Le millésime vers 320 av. J.-C. retenu pour l’image reste une convention de médiation, sans prétendre fixer exactement une phase historique. La restitution originale montre la muraille orientale, quatre tours carrées, un passage dans la courtine et une partie fictive de l’habitat descendant vers une petite baie. La présence et les grandes dimensions du rempart et de la tour sud-est sont attestées ; l’ensemble des couronnements, merlons, ouvertures vues, bois de toiture, seuils, cheminements, bâtiments domestiques, embarcations et personnages demeure interprétatif. Le rendu réduit artificiellement certaines distances et ne peut servir de plan métrique, de relevé topographique ou de photographie archéologique. Les structures chrétiennes et byzantines des phases ultérieures ne figurent pas dans cette scène volontairement datée de la fin du IVe siècle. Les institutions citées documentent les vestiges mais n’ont ni commandé ni validé la présente illustration générée par intelligence artificielle. Le fichier produit est un WebP d’apparence tridimensionnelle photoréaliste, sans schéma 2,5D ni texte ou menu incrusté.",
+      "certainty": "Élevé : position du site, organisation acropole et ville basse, ligne orientale de fortifications avec quatre tours, dimensions majeures et trois niveaux de la tour sud-est, cadre chronologique large de la seconde moitié du IVe siècle av. J.-C. Moyen : apparence générale d’une citadelle active vers 320 av. J.-C., volumes restitués des autres tours, circulation et couverture à deux versants dans l’état illustré. Faible : tracé et dimensions exactes des bâtiments de la ville basse, portes et parapets dans cet état, détails des toits et merlons, décor, embarcations, personnes, végétation, teintes et cadrage panoramique.",
+      "source_url": "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/-Catalogue-of-Sites-Monuments/archaeological-site-of-aigosthena-porto-germeno-municipality-of-mandra-eidyllia",
+      "secondary_sources": [
+        "https://efaathculture.gr/en/ower-of-the-ancient-fortress-of-aegosthenes/",
+        "https://www.didaktorika.gr/eadd/handle/10442/41613?locale=en",
+        "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5757"
+      ],
+      "src": "/assets/reconstitutions-3d/aigosthena-forteresse-tour-sud-est-vers-320-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/aigosthena-forteresse-tour-sud-est-vers-320-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Visuel original créé par génération d’image IA pour MYTHOS, sans maquette métrique, sans texte et sans interface dans les pixels.",
+      "sha256": "f37e64de0a00ba3863730675888012f86a2423b9f8642584810b2c60a73fef13",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/aigosthena-forteresse-tour-sud-est-vers-320-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des antiquités d’Attique occidentale (EFADA) — site archéologique et forteresse d’Égosthènes",
+          "url": "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/-Catalogue-of-Sites-Monuments/archaeological-site-of-aigosthena-porto-germeno-municipality-of-mandra-eidyllia"
+        },
+        {
+          "label": "Éphorie des antiquités — restauration de la tour sud-est de la forteresse (2019)",
+          "url": "https://efaathculture.gr/en/ower-of-the-ancient-fortress-of-aegosthenes/"
+        },
+        {
+          "label": "Aliki Milioti, The Ancient Fortress of Aigosthena, thèse, 2014, DOI 10.12681/eadd/41613",
+          "url": "https://www.didaktorika.gr/eadd/handle/10442/41613?locale=en"
+        },
+        {
+          "label": "Ministère hellénique de la Culture — conservation des monuments d’Égosthènes",
+          "url": "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5757"
+        }
+      ],
+      "primary_texts": [],
+      "methodology": "Évocation archéologique critique basée sur une notice institutionnelle et une thèse sur la fortification du IVe siècle av. J.-C. ; classement des caractères attestés et des détails hypothétiques. Ni plan coté, ni photogrammétrie, ni validation institutionnelle de l'image."
     }
   ]
 }
