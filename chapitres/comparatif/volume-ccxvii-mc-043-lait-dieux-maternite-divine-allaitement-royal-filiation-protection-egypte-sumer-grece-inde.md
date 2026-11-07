@@ -483,3 +483,11 @@ L'enfant est une figure de la dépendance. Représenter un dieu-enfant ou un sou
 Une enquête complémentaire pourrait examiner les **premiers cris et premières paroles des dieux-enfants**, les rites d'accueil et de nomination, les mythes de la vulnérabilité et l'identité sociale donnée par le nom. Ce sujet ne reçoit pas ici un numéro MC-044 : son éventuelle création exige d'abord le contrôle de la file, des numéros effectivement utilisés et des séries adjacentes.
 
 **FIN — MYTHOS MC-043.** Ce texte ne modifie pas les autres séries automatiques, leurs horaires, leurs registres ou leurs manuscrits. Aucune publication n'est affirmée sans vérification indépendante.
+
+### Annotation scientifique documentaire — 7 novembre 2026 (lot 05)
+
+**Objet de musée directement contrôlé [attesté].** Metropolitan Museum of Art, *Isis nursing Horus*, statuette en **bronze ou alliage cuivreux**, **inv. 42.4.1**, don Ellen Barker **1942**, hauteur **16 cm**. La [notice officielle](https://www.metmuseum.org/art/collection/search/546179) attribue l'objet à la **Troisième Période intermédiaire ou à la Basse Époque**, dynasties **XXI–XXVI**, **vers 1080–525 av. J.-C.**. [Autre exemple distinct](https://www.metmuseum.org/art/collection/search/553002) : **inv. 04.2.441**, **Basse Époque**, dynasties **XXVI–XXX**, **664–332 av. J.-C.** ; les deux objets ne sont pas un seul témoin ni une série datable uniformément.
+
+**Inférence limitée [iconographie].** La représentation d'Isis allaitant Horus **atteste une iconographie de la maternité et de la protection**, et non la présence d'un allaitement rituel effectif dans toutes les communautés, ni une transmission directe à la Grèce, à Sumer ou à l'Inde. Les traditions à comparer exigent leurs **propres sources primaires, langues, périodes et images**.
+
+**Recherche française [cadrage].** Françoise Dunand et Christiane Zivie-Coche, *Dieux et hommes en Égypte*, Armand Colin, **1991**, puis édition revue *Hommes et dieux en Égypte*, Cybèle, **2006**, ISBN **9782915840025**, [notice bibliographique](https://www.decitre.fr/livres/hommes-et-dieux-en-egypte-9782915840025.html). Le corpus des deux ouvrages n'a pas été confronté à des pages sur les deux statuettes : **aucun jugement personnel des auteures sur ces objets ni sur MYTHOS ne leur est attribué**.
