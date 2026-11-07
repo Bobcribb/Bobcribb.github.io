@@ -7,6 +7,8 @@ ROOT = Path(__file__).resolve().parents[1]
 STUDY = ROOT / "philosophie-eneide.html"
 CORPUS = ROOT / "corpus/philosophie/eneide"
 SAMPLES = {
+    "00-introduction.md": "La fondation romaine comme récit de plusieurs temps historiques",
+    "01-chant-i.md": "Le proème et la question du jugement porté sur les dieux",
     "02-chant-ii.md": "Lecture rapprochée : Priam, Pyrrhus et les droits du suppliant",
     "03-chant-iii.md": "Polydore : quand le sol révèle le crime",
     "04-chant-iv.md": "Microlecture philologique : « coniugium » et « culpa »",
@@ -18,7 +20,10 @@ SAMPLES = {
     "10-chant-x.md": "Lausus, miroir de la pietas du vainqueur",
     "11-chant-xi.md": "La trêve des morts : un minimum commun entre ennemis",
     "12-chant-xii.md": "Une supplication exactement formulée",
+    "13-pietas-destin.md": "La pietas entre fidélité familiale et responsabilité publique",
     "14-empire-memoire.md": "L’augustéisme de l’épopée",
+    "15-philosophies-comparaisons.md": "Hegel, téléologie et résistance des existences singulières",
+    "16-poetique-conclusion.md": "Récits enchâssés, récits de survivants et autorité de la voix",
     "17-reperes-et-sources.md": "Appareil critique complémentaire",
 }
 
