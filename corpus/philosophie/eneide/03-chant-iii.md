@@ -64,4 +64,25 @@ Anchise avait interprété les origines, accompagné les sacrifices et porté le
 
 La clôture du chant III ramène à Carthage. Ce que le lecteur vient d’entendre explique l’état dans lequel Énée est arrivé auprès de Didon : il n’est pas seulement un héros en mission, mais un survivant chargé de deuils successifs. La possibilité d’un repos et d’une communauté accueillante acquiert ainsi une force que la seule opposition entre amour et devoir ne saurait épuiser. Pour comprendre le chant IV, il faut se souvenir que l’attachement naît aussi d’une fatigue historique.
 
+
+## Polydore : quand le sol révèle le crime et la cupidité (III, 19–68)
+
+Énée cherche en Thrace un lieu où reprendre pied. Le sol semble d’abord disponible pour une fondation et pour les gestes rituels qui doivent l’inaugurer. Mais les branches qu’il arrache saignent et la voix de Polydore transforme le lieu en scène d’accusation. La terre n’est pas un matériau vierge : elle conserve la trace d’une trahison commise contre un hôte et un protégé. Là où le fondateur croyait pouvoir commencer, il rencontre une histoire antérieure qui impose sa reconnaissance.
+
+Le meurtre de Polydore par le roi thrace s’articule à la recherche de l’or confié avec le jeune homme. La célèbre interrogation sur la « auri sacra fames » (III, 56–57) ne doit pas être ramenée à une condamnation générale de la richesse. Elle désigne la force par laquelle le désir de posséder renverse les liens de fidélité et d’hospitalité. Un dépôt destiné à protéger une existence devient la cause de sa suppression. L’économie du trésor détruit ainsi l’institution sociale qui rendait ce trésor confiable.
+
+La scène produit un mode de connaissance particulier : le signe n’est pas une prophétie envoyée pour orienter les voyageurs vers l’avenir, mais le témoignage d’un mort sur ce qui a eu lieu. Énée doit interrompre son projet, reconnaître la victime et accomplir les rites funéraires. Le récit oppose à l’optimisme d’une installation immédiate la nécessité de savoir ce que le sol recouvre. Cette exigence fait des morts les premiers habitants dont il faut entendre la parole avant de réclamer un territoire.
+
+Le rapprochement avec les peuples du Latium doit rester analogique et non mécanique. Les Italiens ne sont pas des Polydore assassinés à l’avance, et les Troyens ne sont pas assimilés au roi thrace. L’épisode fournit cependant une règle de lecture : la fondation ne commence jamais dans le vide. Les lieux, les dépôts, les alliances et les morts constituent des conditions préalables que le récit de l’origine risque d’effacer. Virgile laisse cette résistance affleurer dès les premiers essais d’établissement.
+
+## Buthrote : l’imitation de Troie peut-elle remplacer une patrie ? (III, 294–505)
+
+À Buthrote, Énée rencontre Andromaque et Hélénus dans un paysage dont les noms répliquent ceux de Troie. La nouvelle demeure donne aux survivants des repères qui semblent protéger la mémoire. Mais cette similitude porte en elle un manque : les fleuves, les portes et les monuments reconstruits ne restituent pas les personnes mortes ni les relations détruites. Le lieu ne fonctionne donc pas simplement comme une étape sur la route. Il oblige le voyageur à demander ce que signifie maintenir une tradition sans s’enfermer dans sa reproduction.
+
+Andromaque reconnaît à travers Ascagne une descendance qui rappelle les pertes de sa propre famille. Le transfert affectif est particulièrement douloureux parce que les enfants et les noms deviennent les derniers supports d’un monde absent. Le lecteur ne doit pas réduire son attachement à une incapacité de dépasser le passé : reconstruire, nommer et déposer des offrandes sont des façons actives de vivre après le désastre. Néanmoins, cette fidélité diffère de la tâche d’Énée, qui doit fonder une communauté non identique à la cité disparue.
+
+Hélénus offre à Énée des informations et des rites pour poursuivre sa route, mais ses instructions ne produisent pas une transparence totale du futur. Le savoir prophétique est distribué par fragments, sous forme de détours, de signes et de mises en garde. L’écart entre Buthrote et l’Italie éclaire la différence entre mémoire et répétition. Préserver une origine ne signifie pas reproduire exactement ses institutions ; le futur italien demandera des alliances et une transformation dont le chant XII précise la portée.
+
+Une lecture politique peut en tirer une hypothèse sans la transformer en doctrine explicitement professée par Virgile : une communauté d’exilés doit pouvoir distinguer ses obligations de mémoire de la fiction d’un retour intégral. Cette distinction ouvre une comparaison avec les monuments, les langues et les rites des sociétés qui changent d’espace. Le poème n’apporte pas une solution universelle au problème de l’exil, mais il construit une alternative entre la conservation figée et l’oubli qui rendrait le passé inutile.
+
 Références : Énéide III, 1–68 ; 69–191 ; 192–269 ; 294–505 ; 588–691 ; 708–718. Renvois : VII, 107–147 pour les « tables » mangées ; VIII, 31–65 et 81–85 pour le signe de la truie. Comparaison : Odyssée IX, épisode du Cyclope.
