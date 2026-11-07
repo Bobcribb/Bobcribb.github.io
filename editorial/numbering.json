@@ -1167,6 +1167,12 @@
           "path": "chapitres/origines-du-sacre/766-kizimkazi-dimbani-mosquee-inscription-coufique-500h-conservation.md",
           "request_sha256": "6f32d6001d4bf324fae9ff9f4ee320c66afb5ff7ccf0252fed1bda0367baee09",
           "initial_source_sha256": "eda5c636590197daf8fcaf9c81cd43fb3e2b3bb55e679bf2294b7fb189a7bc63"
+        },
+        "6a79c405-2e39-4935-9cb0-667b9f76b061": {
+          "number": 767,
+          "path": "chapitres/origines-du-sacre/767-fukuchani-zanzibar-premiers-habitats-depot-metatarses-perles-limites-rituel.md",
+          "request_sha256": "b9a1cf961c8600bfc425db24fcbd7ecfecc6024e622d2f4bcc65ed919cacad6f",
+          "initial_source_sha256": "b28dcf0ffaf3b5c4eacfff0af12bdeb5a87368f18d048838a85e8e84933ddbab"
         }
       }
     },
@@ -1912,6 +1918,12 @@
           "path": "chapitres/encyclopedie/chapitre-471-apollon-triopios-cnide-hexapole-dorienne-triopion-trepieds-emecik.md",
           "request_sha256": "15a19747c160446f101580ec7a3b2969ef34ad7926d2c9ad0f913e733466082f",
           "initial_source_sha256": "912e89239797080bf5a2f8d91879d9052d1381c32cfc78dfba5e75458d01f616"
+        },
+        "f9738d5b-85c2-4b99-8d6e-99603e3652cd": {
+          "number": 472,
+          "path": "chapitres/encyclopedie/chapitre-472-apollon-aktios-actium-nicopolis-jeux-actia-trophee-auguste-sanctuaire.md",
+          "request_sha256": "96cafd4854c686435dcee8d2117f184e16bc3aaae94acd184eb5a2eeefdb508c",
+          "initial_source_sha256": "61f7d1553b01861c3b55a16bcaf03602403fb124400a46441a09af1f9cd1ef56"
         }
       }
     },
@@ -2446,6 +2458,12 @@
           "path": "chapitres/comedies/volume-137-antiphanes-poiesis-tragedie-comedie-mythe-invention-machine.md",
           "request_sha256": "a2dfe2ed9086d970ec8f2648e1e411762c41ef302f4ac50cafe230403e0eac12",
           "initial_source_sha256": "3ac87557fb85fa2ec69cc5af236e06d81f86bd1c7547fd773b4b3c444ba89dda"
+        },
+        "7bc1f25e-749c-4f12-b380-8f9b6cb2e674": {
+          "number": 138,
+          "path": "chapitres/comedies/volume-138-antiphanes-sappho-enigme-lettre-parole-politique-athenee.md",
+          "request_sha256": "3c6b8b68739485582b30cb1470b89347465274bbc196f08f06025146210429e3",
+          "initial_source_sha256": "442d120230f443ee3e3c81323f82f497b3be6f832b3a845967a2db8b8c531983"
         }
       }
     },
