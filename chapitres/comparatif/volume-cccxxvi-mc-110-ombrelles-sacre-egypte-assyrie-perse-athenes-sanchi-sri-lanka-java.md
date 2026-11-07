@@ -593,3 +593,14 @@ Les monographies antérieures, l'édition historique MC-025 et ses deux complém
 ### Notice de réconciliation scientifique et de provenance — MC-110
 
 Ce dossier a été composé le 6 novembre 2026 et initialement déposé sous l'identifiant MC-109, dans `editorial/inbox/a6c192ec-148a-4ba1-a909-202611061954.json` (61 958 caractères Markdown). Cette première livraison demeure intégralement et immuablement conservée dans la retenue éditoriale avec son empreinte de contrôle. La cote MC-109 désigne désormais exclusivement l'étude antérieure « Visages substitués », dotée du volume canonique CCCXVIII (318). Le présent dossier scientifique sur les ombrelles est distinct de cette étude et porte l'identifiant historique MC-110. Son texte primaire, ses sources, ses datations, ses analyses, ses bibliographies et ses propositions iconographiques sont préservés : seules les trois occurrences de sa propre cote MC-109 ont été remplacées par MC-110, puis cette notice de provenance a été ajoutée. Le numéro canonique de ce nouveau dossier sera attribué uniquement par GitHub Actions et son reçu, sans réservation préalable. Cette requalification ne constitue pas la rédaction d'une seconde monographie.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Contrôle iconographique : portée des sources.** La [notice UNESCO n° 114 sur Persépolis](https://whc.unesco.org/fr/list/114/) atteste l'architecture palatiale achéménide, la création de la grande terrasse à partir de **518 av. J.-C.**, les programmes de reliefs et leurs représentations de dignitaires et d'offrandes. Elle **ne suffit pas à certifier une représentation déterminée d'ombrelle royale**.
+
+**Contre-vérification d'un inventaire matériel.** Metropolitan Museum of Art, [relief 34.158](https://www.metmuseum.org/art/collection/search/323178), *Relief: two servants bearing food and drink*, Persépolis, env. **358–338 av. J.-C.** : la notice officielle concerne des serviteurs portant des récipients, **pas un parasol**. Ce numéro d'objet ne doit jamais être cité comme preuve d'une ombrelle perse. Le constat vaut aussi comme avertissement contre la sélection d'images à partir de mots-clés non contrôlés.
+
+**Références françaises.** Pierre Briant, *Histoire de l'Empire perse* (1996), et Nicolas Grimal, *Histoire de l'Égypte ancienne* (1991) fournissent un contexte historique ; **passages sur les ombrelles non collationnés**. Les comparaisons entre l'Égypte, l'Assyrie, la Perse et l'Inde exigent des **objets autonomes identifiés** par site, date, inventaire et fonction, ainsi que des termes indigènes contextualisés. **Statut : comparaisons iconographiques précises à vérifier**, sans approbation de l'UNESCO, du musée ou des chercheurs.
