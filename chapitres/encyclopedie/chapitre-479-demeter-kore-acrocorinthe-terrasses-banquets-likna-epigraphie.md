@@ -1,0 +1,448 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 479
+
+## Déméter et Korè à l’Acrocorinthe : banquets sacrés, offrandes de terre cuite, inscriptions et transformations d’un sanctuaire grec
+
+*Monographie universitaire originale — histoire des religions grecques, philologie, topographie, céramologie, architecture, épigraphie, anthropologie du sacrifice, philosophie et iconographie archéologique. État des sources et de la bibliographie : 7 novembre 2026. La mention 479 est une variable éditoriale et non une attribution canonique.*
+
+### Résumé scientifique
+
+Au pied de l’Acrocorinthe, dans le paysage monumental de l’ancienne Corinthe, le culte de Déméter et de Korè révèle une configuration religieuse singulière : non pas d’abord un récit de fondation inscrit dans une grande légende héroïque, mais une accumulation de gestes offerts, répétés, transformés et parfois interrompus. Les fouilles conduites par l’École américaine d’études classiques à Athènes à partir de 1961 ont mis au jour, sur plusieurs terrasses de la pente nord, des salles aménagées pour les repas, des espaces sacrificiels, des escaliers, des ensembles de figurines et de grandes statues en terre cuite, des miniatures de nourriture, des lampes et des inscriptions. Leur réunion oblige à décrire la religion comme une pratique située, sans prétendre reconstituer un cérémonial complet.
+
+Le passage de **Pausanias, Description de la Grèce II, 4, 7**, signale sur l’ascension de l’Acrocorinthe des sanctuaires des Moires, de Déméter et de Korè, dont les images ne sont pas montrées publiquement. Ce témoignage romain est important, mais tardif au regard des premières phases archéologiques. Il ne décrit ni une initiation précise ni une fête corinthienne complète. Les dédicaces et les graffiti des fouilles offrent, pour leur part, des preuves locales de la relation aux déesses. La juxtaposition du texte et des objets est donc féconde à condition de ne pas transformer la simple convergence de lieu et de nom en identité sans reste.
+
+Le sanctuaire peut être étudié sur une durée exceptionnelle : indices de fréquentation protohistorique ou du premier âge du Fer, aménagements cultuels archaïques, développement des salles de banquet aux VIe–IVe siècles avant notre ère, reconstructions hellénistiques, profonde rupture en 146 av. J.-C., réinvestissement sous la colonie romaine et abandon du culte au cours de la seconde moitié du IVe siècle de notre ère, selon le réexamen chronologique de Kathleen Warner Slane. Ces jalons sont des phases documentaires, non les dates d’un même rituel resté intact.
+
+Les offrandes compliquent tout portrait attendu d’un « sanctuaire de femmes » : les petites figurines et de nombreux objets renvoient à des horizons féminins, mais la sculpture en terre cuite de grande taille représente très majoritairement des jeunes hommes. Des modèles de pieds chaussés peuvent évoquer des transitions matrimoniales sans en livrer la signification unique. Un grand nombre de petits *likna*, ou vans en terre cuite, portent la représentation de gâteaux : ils renseignent sur une économie matérielle de l’offrande, mais non sur la composition exacte d’un repas. À l’époque romaine, des lamelles de plomb inscrites témoignent d’actes de contrainte rituelle qui ne peuvent être attribués mécaniquement aux pratiques archaïques.
+
+**Thèse :** Déméter et Korè à l’Acrocorinthe ne sont pas une simple version locale des mystères d’Éleusis. Le sanctuaire constitue un système propre de circulation entre sacrifice, repas, dédicace, visibilité et retrait des images, dans lequel plusieurs groupes et plusieurs générations ont travaillé la relation à deux puissances divines. Il offre un observatoire de la manière dont une cité fabrique du commun à travers des objets et des pratiques sans jamais abolir leurs inégalités, leurs ambiguïtés ni leurs transformations historiques.
+
+### Appareil de méthode : statut des énoncés
+
+**[T]** : texte littéraire antique ou inscription effectivement transmise. Ce signe prouve que l’énoncé est attesté par une source, non que tous les événements ou prodiges racontés se sont historiquement produits. **[M]** : vestige archéologique, objet, stratigraphie ou donnée de fouille publiés. **[H]** : hypothèse de reconstruction, attribution de fonction ou inférence historiographique. **[P]** : proposition comparative, anthropologique ou philosophique moderne ; elle n’est jamais une parole des anciens. Les références sont précisées en bibliographie, et les conjectures restent explicitement conjecturales.
+
+---
+
+## I. Délimiter le dossier : une rencontre entre géographie, objets et noms
+
+### 1. L’objet de la monographie
+
+L’étude porte sur le sanctuaire du versant septentrional de l’Acrocorinthe et non sur toutes les traditions grecques de Déméter. Les grandes narrations de l’enlèvement de Perséphone, les Thesmophories et les mystères éleusiniens constituent un horizon comparatif ; leur existence n’autorise pas à remplir les silences de Corinthe. Le site ne doit pas être confondu avec le sanctuaire de Déméter Chthonia d’Hermione, avec la Despoina arcadienne de Lykosoura, ni avec la Déméter Malophoros de Sélinonte : noms apparentés, topographies et rites distincts.
+
+L’Acrocorinthe se dresse au sud de la ville et domine la plaine, les accès à l’isthme et les circulations vers les deux golfes. Le sanctuaire fouillé est établi sur sa pente nord, et non au sommet où Pausanias décrit, plus haut, Aphrodite armée. Il serait trompeur de représenter le temple d’Aphrodite comme le bâtiment principal du sanctuaire de Déméter et Korè. La topographie doit distinguer la voie montant à la citadelle, les terrasses aménagées et les lieux de culte voisins.
+
+### 2. Pourquoi une étude institutionnelle plutôt qu’une « biographie » de la déesse ?
+
+Le mot « mythe » ne désigne pas ici un seul récit. Une déesse honorée dans une cité reçoit aussi une réalité sociale par des gestes quotidiens : monter une pente, apporter un vase, cuisiner, partager un repas, déposer une figurine, inscrire un nom, cacher ou montrer une image. Ces opérations ont une histoire que les grandes généalogies divines ne sauraient restituer.
+
+La prudence s’impose lorsque les objets semblent offrir une « preuve » immédiate d’un récit. Une lampe ne démontre pas une procession nocturne ; une statuette de jeune homme ne prouve pas une initiation masculine ; un petit gâteau figuré en argile ne transmet pas sa recette ; une salle de banquet ne renseigne pas sans autre document sur la liste de ses convives. Les fouilles donnent des contraintes positives, mais la restitution doit rester proportionnée aux traces.
+
+## II. Le témoignage précis de Pausanias
+
+### 3. Pausanias II, 4, 6–7 : ascension et retrait des images
+
+**[T]** Pausanias situe, pendant l’ascension de l’Acrocorinthe, plusieurs sanctuaires, dont ceux des Moires, de Déméter et de Korè. La formule grecque décisive est : « ὁ δὲ τῶν Μοιρῶν καὶ ὁ Δήμητρος καὶ Κόρης οὐ φανερὰ ἔχουσι τὰ ἀγάλματα » (II, 4, 7). Elle signifie que les images de ces sanctuaires ne sont pas exposées à la vue. Le témoignage concerne la visibilité des *agalmata*, non l’absence de toute image, ni nécessairement l’interdiction universelle d’entrer.
+
+La proximité narrative des sanctuaires ne prouve pas qu’ils formaient une enceinte cultuelle unique. Pausanias énumère aussi, dans le même itinéraire, des sanctuaires d’Isis et de Sarapis, les autels d’Hélios, puis un lieu d’Anankè et Bia ; plus haut se situe Aphrodite (II, 5, 1). Cet ensemble témoigne du pluralisme religieux de la Corinthe romaine et d’un chemin ponctué de lieux sacrés. Il ne représente pas un plan cadastral exact des phases archaïques.
+
+### 4. Le statut de l’autopsie
+
+Pausanias écrit au IIe siècle de notre ère. Son observation est précieuse pour la phase romaine, mais il n’a pas vu les pratiques des VIe ou Ve siècles avant notre ère. On ne peut donc pas rétroprojeter sans réserve le retrait visuel des images sur les premières constructions. Les sculptures fouillées, parfois anciennes et déposées par fragments, ne sont pas nécessairement les *agalmata* que désigne Pausanias.
+
+Une lecture philologique doit encore distinguer le discours du voyageur de l’interprétation contemporaine : « non visibles » n’est pas automatiquement synonyme de « mystères » ni de « secret initiatique ». L’opposition entre visible et caché peut traduire des règles d’accès, des dispositions architecturales ou une temporalité de présentation dont le détail nous échappe.
+
+## III. Les noms : Déméter, Korè, Perséphone
+
+### 5. Δήμητηρ : une étymologie débattue
+
+**[T/P]** Le théonyme **Δημήτηρ**, Déméter, peut se décomposer historiquement comme un nom comprenant l’élément « mère » (*mētēr*). L’analyse du premier élément reste discutée ; l’explication traditionnelle par « Terre-Mère » ne doit pas être exposée comme une étymologie incontestable. Il serait encore plus risqué d’en déduire une doctrine agraire immuable et identique dans toutes les cités.
+
+La puissance de Déméter touche à la croissance des céréales, à la subsistance, aux lois cultuelles et aux cycles de disparition et de retour. Mais chaque sanctuaire actualise seulement une partie de cet ensemble. À Corinthe, les repas et les offrandes figurées permettent d’interroger une relation à l’alimentation ; ils ne suffisent pas à établir une théologie exclusive de l’agriculture.
+
+### 6. Κόρη : une appellation relationnelle
+
+**[T]** **Κόρη** signifie « jeune fille » ou « fille ». Dans l’association à Déméter, ce nom définit une relation, et non simplement une identité mythologique isolée. Les formes **Περσεφόνη**, **Φερσεφόνη** et d’autres variantes du nom de Perséphone appartiennent à l’histoire plus large des traditions grecques. On ne doit pas présumer qu’une inscription corinthienne disant « Korè » livre à elle seule la totalité de la théologie infernale développée par certains poèmes.
+
+L’appellation « la Fille » fait de la filiation une catégorie religieuse. La relation mère-fille n’est pas une photographie de la famille grecque : elle engage aussi le calendrier, la production et les ruptures. La différence entre la dénomination effective d’un culte local et une interprétation panhellénique est la première condition de l’histoire religieuse.
+
+### 7. Épiclèses et assimilation
+
+Le terme *Thesmophoros*, « porteuse ou garante des *thesmoi* », est connu dans plusieurs cultes de Déméter. Rien n’autorise à en faire automatiquement l’épiclèse officielle de toute cérémonie corinthienne. De même, appeler le sanctuaire « éleusinien » simplement parce qu’on y honore Déméter et Korè reviendrait à confondre la parenté des dieux avec l’identité des institutions.
+
+## IV. La très longue durée : ce que les couches permettent de dire
+
+### 8. Vestiges protohistoriques : occupation ne signifie pas continuité cultuelle
+
+**[M]** Les publications de *Corinth XVIII.3* enregistrent des vestiges d’occupation et des matériaux remontant à la fin de l’âge du Bronze et aux périodes anciennes. Ils témoignent de passages ou d’activités humaines bien antérieures aux aménagements connus du sanctuaire. Mais une céramique mycénienne sur le site n’établit pas qu’une même Déméter y fut honorée sans interruption depuis l’époque mycénienne.
+
+Le travail de Christopher A. Pfaff sur la céramique du premier âge du Fer (*Hesperia* 68, 1999, p. 55–134) permet de discuter la transition entre présence humaine et pratique votive. La chronologie des objets doit être articulée à leur contexte de découverte : un fragment en remblai n’a pas la même valeur qu’un dépôt scellé.
+
+### 9. Le développement archaïque
+
+À partir des VIIIe–VIIe siècles av. J.-C., les indices votifs deviennent plus significatifs ; les aménagements du VIe siècle témoignent d’une structuration croissante. La présence de céramiques, d’objets miniatures et de constructions spécialisées indique une activité rituelle organisée, sans autoriser l’identification précise de toutes les fêtes.
+
+La terre cuite est ici décisive : matériau courant à Corinthe, elle permet la fabrication d’objets accessibles à une diversité de dédicants, mais aussi de sculptures grandes et coûteuses. La relation entre production artisanale et offrande doit être étudiée à partir des techniques, non d’une opposition trop simple entre religion populaire et élite.
+
+### 10. L’époque classique et l’organisation des repas
+
+La multiplication des petites salles de banquet, surtout aux VIe–Ve siècles av. J.-C., signale l’importance du repas dans la vie religieuse locale. Nancy Bookidis et ses collaborateurs ont étudié la vaisselle, les foyers, les résidus et les installations de préparation (*Hesperia* 68, 1999, p. 1–54). Ces pièces définissent une pratique partagée, mais nous ignorons les règles exactes de constitution des groupes et la fréquence des rencontres.
+
+### 11. Reconstructions hellénistiques et césure de 146 av. J.-C.
+
+Le site ne constitue pas une architecture figée. Réparations, terrassements et remaniements suivent les destructions et les transformations de la ville. Une reconstruction à la fin du IVe siècle av. J.-C. succède à des dommages attribués avec prudence à un événement destructeur ; une représentation 3D ne doit pas cumuler dans le même état des murs construits à plusieurs siècles de distance.
+
+La prise et le sac de Corinthe par les Romains en 146 av. J.-C. constituent une césure majeure dans la trajectoire du sanctuaire. Il ne faut pourtant pas déduire de ce jalon une disparition éternelle du culte : après la refondation coloniale, des réaménagements et de nouveaux usages attestent une histoire différente.
+
+### 12. La phase romaine et l’abandon tardif
+
+Les édifices romains, des inscriptions, des lampes et des tablettes de plomb montrent une recomposition de l’ensemble. Il s’agit d’une histoire locale postérieure aux phases grecques archaïques, non de leur simple prolongement. La fréquentation de certains espaces peut changer de sens, et une pièce monumentale n’a pas toujours la même fonction.
+
+**[M/H]** Kathleen Warner Slane (*Hesperia* 77, 2008, p. 465–496) a réexaminé la date de cessation du culte : le cœur de l’abandon rituel paraît se situer dans la seconde moitié du IVe siècle de notre ère. Des objets du Ve et du VIe siècle proviennent aussi de perturbations, de récupérations de matériaux et d’activités funéraires postérieures ; leur présence ne prouve donc pas une continuité païenne jusqu’au VIe siècle.
+
+## V. L’architecture du sanctuaire : trois terrasses, plusieurs fonctions
+
+### 13. Le versant et ses contraintes
+
+**[M]** Les relevés publiés par Nancy Bookidis et Ronald S. Stroud (*Corinth XVIII.3*, 1997) montrent un sanctuaire dont l’organisation répond à la pente, au rocher et à la circulation. Des soutènements et des escaliers relient plusieurs niveaux. Le relief n’est pas un décor secondaire : il conditionne l’accès, la visibilité et la répartition des activités.
+
+On peut distinguer, à grands traits, une terrasse basse marquée par des salles de banquet, un secteur médian lié à des gestes sacrificiels et à l’offrande, et des niveaux supérieurs associés à d’autres installations, dont un petit espace de gradins taillé dans la roche. Mais ces catégories regroupent plusieurs phases. Elles ne décrivent pas un circuit rituel universel suivi par chaque fidèle.
+
+### 14. Les salles de banquet : l’architecture de l’assemblée restreinte
+
+**[M]** De petites pièces alignées présentent des banquettes et des dispositifs de service. Les travaux archéologiques documentent des transformations dans le nombre et l’équipement des salles. Une étude comparative des phases fait apparaître une croissance importante des unités entre les périodes archaïque et classique ; toutefois, les décomptes dépendent des définitions adoptées et des états conservés.
+
+La banquette ne dit ni le sexe ni le statut juridique de la personne qui y prenait place. Dans le monde grec, le repas religieux peut associer sacrifice, consommation et redistribution ; la présence de salles ne démontre pas un banquet mixte, une confrérie féminine ou une initiation de jeunes gens. Pour progresser, il faut rapprocher les dimensions, la vaisselle et les objets abandonnés.
+
+### 15. Cuisiner et se laver : la dimension matérielle du rite
+
+Des espaces annexes liés à l’alimentation et à la toilette documentent l’investissement nécessaire au fonctionnement du sanctuaire. Poteries utilitaires, récipients de service et traces de combustion rappellent que la religion ne se réduit pas au geste exceptionnel devant un autel. Elle dépend d’une intendance, de savoir-faire, de stockage et de la circulation de l’eau.
+
+Le bain a parfois été interprété en termes de purification. Cette hypothèse est possible, mais la présence d’installations de lavage n’impose pas une procédure religieuse spécifique dans tous les cas : préparation des personnes, nettoyage des ustensiles et gestes ordinaires peuvent se superposer.
+
+### 16. Fosses, cendres et sacrifice
+
+Le secteur médian a livré des concentrations de cendres, de céramiques et de restes animaux, dont des os porcins. Ces indices autorisent à parler de combustion, de consommation et de dépôt en relation avec le culte. Ils ne permettent pas de reconstituer une formule sacrificielle exactement identique à celle d’Éleusis ou de toute fête de Déméter.
+
+Le porc peut avoir une importance récurrente dans les rites démétriaques, mais sa présence ne constitue pas un diagnostic exclusif des Thesmophories. Il faut distinguer la preuve matérielle d’un animal, l’interprétation de sa mise à mort, la redistribution des morceaux et le nom éventuel de la fête.
+
+### 17. L’espace de gradins : spectacle, parole ou initiation ?
+
+Des aménagements taillés dans le rocher ont été rapprochés d’un petit théâtre. L’analogie architecturale est utile, mais la finalité exacte demeure discutée. Il pourrait avoir accueilli certains rassemblements ou performances ; aucune représentation dramatique connue n’y est attestée.
+
+L’existence possible de groupes de tailles différentes entre salles de repas et gradins pose des questions sur la segmentation du public. On ne peut cependant pas déduire de la capacité de cet espace l’existence de degrés secrets d’initiation. Les mots « théâtre », « mystère » et « initiation » doivent ici rester des problèmes de recherche, et non des étiquettes décoratives.
+
+## VI. L’offrande alimentaire : les petits *likna*
+
+### 18. Les vans miniatures
+
+**[M]** Allaire Brumfield, dans « Cakes in the Liknon » (*Hesperia* 66, 1997, p. 147–172), a étudié des modèles de *likna* en argile : des vans de vannage miniaturisés, parfois remplis de représentations de galettes ou d’éléments alimentaires. Le corpus compte plusieurs centaines de fragments, principalement associés aux phases archaïques et classiques. Leur répartition entre terrasses et remblais interdit de traiter chaque objet comme un dépôt intact.
+
+Le terme grec **λίκνον** désigne un ustensile du travail des grains, intégré dans différents contextes cultuels. Sur les modèles, la réduction d’échelle ne constitue pas une preuve que le produit représenté fut effectivement consommé en même temps ou selon la même forme. La miniature peut tenir lieu d’offrande, représenter une richesse espérée ou évoquer une opération rituelle.
+
+### 19. La nourriture comme image et non comme menu
+
+Le geste d’offrir une nourriture figurée transforme une denrée périssable en signe durable. Une galette d’argile n’a pas les propriétés gustatives d’une galette réelle, mais conserve l’idée de production et de don. La présence de cette série invite donc à distinguer nourriture mangée, nourriture brûlée, nourriture déposée et nourriture représentée.
+
+Il est méthodologiquement impossible de fournir une recette archéologiquement démontrée à partir de ces seuls modèles. Miel, céréales, fruits et pains peuvent être discutés comme possibilités générales du monde grec, sans attribuer au sanctuaire une préparation imaginaire précise.
+
+### 20. Le don : permanence des objets, transformation des personnes
+
+**[P]** Le dépôt votif établit un rapport temporel paradoxal : le geste individuel est bref, mais l’objet survit à l’auteur. Dans les couches du sanctuaire, les dons de générations différentes se rencontrent sans que leurs donateurs se soient connus. L’archéologue observe cette cohabitation rétrospective, pas l’intention psychologique de chaque personne.
+
+Une lecture inspirée de Marcel Mauss peut aider à penser la circulation des dons et l’établissement d’obligations. Elle ne permet pas d’affirmer qu’une statue ou un *liknon* grec répondait au même système de prestations que les sociétés décrites par Mauss. L’utilité de la comparaison est analytique, pas généalogique.
+
+## VII. La vaisselle, les lampes et les traces d’usage
+
+### 21. La poterie : un assemblage fonctionnel
+
+**[M]** Elizabeth G. Pemberton, *Corinth XVIII.1* (1989), étudie la céramique grecque du sanctuaire, y compris les récipients de boisson, de service, de cuisson et les dépôts votifs. Ses analyses croisent typologie, chronologie et provenances. Il serait fautif d’utiliser un récipient isolé pour imposer la fonction de toute la pièce où il fut retrouvé.
+
+Les bols, coupes, cruches et récipients de cuisson contribuent à saisir l’articulation entre convivialité et sacrifice. La présence répétée de certains types soutient l’importance des repas ; elle ne restitue ni le menu complet ni la distinction toujours stable entre service sacré et service ordinaire.
+
+### 22. Lampes et temporalité rituelle
+
+Kathleen Warner Slane, *Corinth XVIII.2* (1990), a publié la céramique et les lampes de la période romaine. Les études ultérieures ont montré combien leur datation peut modifier la chronologie de l’abandon. Les lampes sont donc des indicateurs précieux de fréquentation, mais pas un moyen automatique d’identifier une cérémonie nocturne.
+
+Une lumière de sanctuaire peut servir à la circulation, au travail, à l’entretien ou à un rite. En l’absence d’une prescription littéraire locale, choisir une seule fonction serait réduire artificiellement le spectre des usages.
+
+## VIII. Les figurines votives : visibilité du genre et incertitude du rite
+
+### 23. Les figurines moulées, séries et ateliers
+
+**[M]** Le sanctuaire a livré de très nombreuses figurines de terre cuite, étudiées notamment par Gloria S. Merker dans *Corinth XVIII.4* (2000). Leur étude doit distinguer type iconographique, technique de production, époque, état du dépôt et localisation de découverte. Deux figurines de silhouette comparable ne prouvent pas deux gestes identiques.
+
+Les figures féminines, enfants, objets miniatures et représentations d’autres types constituent des catégories documentaires, non des portraits assurés des dédicants. Une jeune femme figurée peut être une image de divinité, de participante idéale ou de condition sociale ; l’absence d’inscription explicite interdit généralement de trancher.
+
+### 24. Un paradoxe : les grandes sculptures représentent surtout des garçons et des jeunes hommes
+
+**[M]** Nancy Bookidis, *Corinth XVIII.5* (2010), a publié les fragments de 132 à 147 sculptures de terre cuite, de demi-grandeur à une taille proche de la nature. Les représentations de garçons et de jeunes hommes habillés ou nus dominent très largement ce corpus de grande taille, alors que de nombreuses petites offrandes du sanctuaire appartiennent à des types traditionnellement associés aux femmes.
+
+Ce contraste impose un refus des simplifications. Il serait infondé de définir l’ensemble de l’établissement comme féminin au seul motif que Déméter et Korè sont deux déesses, mais il serait tout aussi infondé d’interpréter les grandes statues comme la preuve définitive d’une initiation collective masculine. Le corpus peut résulter d’offrandes de groupes sociaux différents, de choix artistiques et de changements chronologiques.
+
+### 25. La valeur des techniques
+
+La terre cuite de grande taille exige modelage, structures de soutien, cuisson et compétence artisanale. Son étude rapproche l’histoire religieuse de l’économie des ateliers corinthiens. La quantité et l’échelle de l’offrande peuvent manifester une dépense ou une ambition de visibilité, sans qu’on puisse déduire le statut légal de chaque donateur.
+
+Le contraste entre production moulée et sculpture ambitieuse ouvre aussi une interrogation sur la matérialisation des hiérarchies. Il ne faut toutefois pas traduire directement une différence de matériau ou de taille en différence de richesse ; un objet collectif, ancien ou hérité peut échapper à cette équation.
+
+## IX. Les pieds chaussés : rites de passage et interprétation nuptiale
+
+### 26. Quatre modèles et une hypothèse
+
+**[M/H]** Sonia Klinger a publié quatre modèles de pieds chaussés, datés de la fin du VIe ou du début du Ve siècle av. J.-C. (*Hesperia* 87, 2018, p. 429–449). Leur parenté avec certaines productions locales et l’histoire des chaussures dans les images grecques autorisent l’hypothèse qu’ils renvoient à un déplacement féminin lié aux noces et à des sandales de mariée, parfois nommées *nymphides*.
+
+La proposition ne transforme pas chaque pied modelé en preuve d’un mariage effectivement célébré dans le sanctuaire. L’identification d’une forme et la reconstruction de sa fonction rituelle relèvent de degrés de certitude différents. La symbolique du déplacement, du passage d’un foyer à un autre et de la transition d’âge est plausible, non exclusive.
+
+### 27. Le passage social comme problème, non comme solution toute faite
+
+Les rites de passage constituent une notion comparative issue de l’anthropologie. À Corinthe, les chaussures, les figurines et les installations montrent un champ de pratiques compatible avec des moments de transition personnelle. Mais il reste à démontrer qui accomplissait les rites, à quel âge, devant qui et selon quelle prescription.
+
+On évitera donc d’imaginer une procession de « jeunes initiées » en costumes reconstitués comme si un texte local en attestait les gestes. Une illustration pourra représenter les modèles de pieds sur fond neutre, accompagnés d’une légende exposant plusieurs interprétations.
+
+## X. Les inscriptions : donner un nom, fixer une demande
+
+### 28. Corpus et variétés de supports
+
+**[M/T]** Ronald S. Stroud, *Corinth XVIII.6* (2013), publie et interprète plus de 170 objets inscrits identifiés par les fouilles. Les catégories de l’édition comprennent inscriptions sur pierre, métal et os, *dipinti* et *graffiti* sur la poterie, *pinakes* en argile, tablettes magiques de plomb et inscriptions d’autres supports. Le catalogue édité distingue les numéros 1–14 (pierre, métal, os, mosaïque), 15–40 (*dipinti*), 41–97 (*graffiti*), 98–117 (*pinakes*) et 118–135 (tablettes magiques de plomb).
+
+Il est nécessaire de distinguer le nombre d’objets découverts du nombre de textes numérotés dans le catalogue, car exclusions éditoriales, fragments et séries particulières ne forment pas une identité arithmétique simple. Une référence précise doit renvoyer à une notice identifiée, sans inventer une cote d’inventaire.
+
+### 29. Les graffiti comme preuve locale
+
+Les inscriptions portées par des objets de consommation ou de dédicace permettent d’associer au lieu des noms divins et parfois des gestes individuels. Elles constituent une documentation plus directement locale que les grandes narrations éleusiniennes, sans pour autant donner un règlement complet du sanctuaire.
+
+La lettre corinthienne, la graphie du dialecte et les écarts orthographiques doivent être rapportés à des états chronologiques et à des supports. Une forme épigraphique n’est pas une illustration sans conséquence : elle peut renseigner la langue de la communauté et les modalités de l’adresse aux déesses.
+
+### 30. Dionysos dans un sanctuaire de Déméter et Korè
+
+La présence de certains *pinakes* et témoignages iconographiques liés à Dionysos rappelle que la vie religieuse antique ne suit pas les catégories exclusives d’un catalogue moderne. L’association d’objets au dieu ne prouve pas pour autant l’identité de toutes les cérémonies ni l’existence d’un unique rituel « dionysiaque-démétriaque ».
+
+Une juxtaposition votive peut traduire un geste individuel, une relation théologique locale ou une pluralité de pratiques dans le même espace. La prudence philologique commande de citer la catégorie documentaire avant de bâtir une synthèse religieuse.
+
+### 31. Les tablettes de plomb : une autre temporalité du sanctuaire
+
+Les tablettes d’exécration, particulièrement éclairantes pour certaines phases romaines, appartiennent à l’histoire des pratiques de contrainte symbolique. Elles attestent des conflits, demandes ou tensions que des individus ont choisi d’exprimer par l’écriture rituelle. Il ne faut ni les projeter vers l’époque archaïque ni présenter leur existence comme un changement démontré de la nature des déesses.
+
+Le contenu et la disposition d’une tablette, sa datation et sa provenance sont ici essentiels. Une inscription dirigée contre une personne atteste un acte écrit et déposé ; elle ne démontre pas que la déesse l’ait exécuté ni que l’ensemble des fidèles partageait une même conception de la magie.
+
+## XI. L’Hymne homérique à Déméter : comparaison contrôlée
+
+### 32. Le texte panhellénique et ses limites
+
+**[T]** L’*Hymne homérique à Déméter*, en particulier les vers 1–39 (l’enlèvement), 270–274 (la fondation du sanctuaire), 305–313 (l’arrêt des récoltes) et 473–482 (la transmission des rites), fournit un cadre puissant pour penser l’absence de Korè, la colère de sa mère et la restitution de la fécondité. Il appartient à une tradition poétique centrée sur Éleusis et ne décrit pas une procession corinthienne.
+
+Dans les vers consacrés à la famine, la suspension de la croissance végétale interrompt aussi le circuit sacrificiel entre humains et dieux. Il existe ici un langage mythique de l’interdépendance ; on peut le comparer à l’importance de la nourriture à Corinthe sans affirmer que chaque petite galette de terre cuite reproduit une scène de l’*Hymne*.
+
+### 33. La « fille disparue » ne doit pas tout absorber
+
+L’enlèvement de Perséphone est un récit majeur, mais les offrandes de Corinthe invitent à reconnaître d’autres dimensions : repas collectifs, représentation du corps, mobilier de transition, dépôt écrit et mémoire des générations. En déduire automatiquement le scénario d’une descente dans l’Hadès, d’une torche et d’un retour saisonnier pour chaque fête serait une reconstruction littéraire.
+
+La distinction des échelles est fondamentale : un mythe partagé peut organiser un horizon d’interprétation sans fixer tous les gestes d’un lieu. Les cultes grecs n’ont pas l’obligation de reproduire une version unique de la mythologie.
+
+## XII. Les mystères : une hypothèse exigeante
+
+### 34. Que signifierait démontrer une initiation ?
+
+Pour identifier une initiation, il faudrait idéalement des traces convergentes : une terminologie locale d’initiés, des inscriptions de statut, un parcours, des prescriptions, ou une source explicite sur les étapes. Des salles, des gradins et des objets votifs peuvent être compatibles avec des rassemblements dont une partie est réservée ; ils n’en prouvent pas le scénario.
+
+Le rapprochement avec Éleusis est important pour poser des questions, non pour les résoudre. L’histoire des religions a souvent attribué des « mystères » à tout sanctuaire chthonien dont certains usages sont inconnus. Or l’ignorance ne vaut pas preuve du secret.
+
+### 35. Pausanias et les images cachées : l’argument insuffisant
+
+La phrase de Pausanias au sujet des *agalmata* non visibles peut être lue en relation avec la rétention de certains objets sacrés. Elle ne livre pas de formule initiatique ni d’identité institutionnelle avec les mystères éleusiniens. On évitera de traduire « non visible » par « accessible aux seuls initiés », interprétation possible seulement si un dossier local complémentaire le confirme.
+
+### 36. Une archéologie du non-savoir
+
+**[P]** L’exigence universitaire implique de présenter positivement les limites de ce qui est connu. La restitution de l’inconnu n’est pas un vide honteux à remplir par de la fiction : elle établit le statut critique de l’étude. Toute exposition devrait séparer plans attestés, restitutions fondées et hypothèses ouvertes.
+
+## XIII. Genre, statuts et accès aux espaces
+
+### 37. Pourquoi le sanctuaire ne se réduit pas à « la religion des femmes »
+
+Une grande partie des modèles votifs et certaines analogies cultuelles indiquent que des pratiques féminines avaient une place importante. Mais la prédominance des jeunes hommes parmi les sculptures de grande taille montre que le site ne peut être reconstruit comme un espace réservé exclusivement aux femmes. Les deux séries matérielles ne s’annulent pas ; elles invitent à étudier le fonctionnement pluraliste du lieu.
+
+La représentation d’une femme n’identifie pas la personne qui a payé l’offrande. La représentation d’un homme ne prouve pas qu’il fût seul à accomplir le geste. Le sexe figuré, le genre social du dédicant et la fonction religieuse d’une image doivent demeurer distincts.
+
+### 38. Citoyens, métèques, esclaves : absence de registre complet
+
+Aucune documentation examinée ne permet de dresser une liste exhaustive des participants, de leur appartenance civique et de leur condition juridique. Une restitution qui montrerait seulement des citoyens libres réunis en un banquet unique ferait passer une convention picturale pour un fait social.
+
+La recherche peut néanmoins poser des questions : qui disposait des ressources nécessaires pour une grande statue ? Qui utilisait les petites figurines ? Qui préparait les repas ? Quels travaux invisibles, peut-être serviles, rendaient possibles les rites ? Ce sont des problèmes à documenter, non des réponses déjà acquises.
+
+## XIV. L’économie religieuse de la cité
+
+### 39. Les ateliers et les circuits d’approvisionnement
+
+La multiplication des terres cuites implique l’activité d’ateliers, le transport et la transformation de l’argile, des combustibles et du savoir-faire. Les poteries d’usage et les objets votifs font communiquer productions locales, échanges et dévotion. Le sanctuaire n’est ni hors marché ni réductible à un marché.
+
+La consommation de nourriture suppose également approvisionnement, préparation, nettoyage et dépôt de déchets. Les traces archéologiques peuvent attester les moyens d’une activité sans restituer les conditions contractuelles des personnes qui l’assuraient.
+
+### 40. La pérennité institutionnelle et ses ruptures
+
+L’existence de plusieurs phases, particulièrement après 146 av. J.-C., pose la question de la continuité des groupes qui se reconnaissent dans le sanctuaire. Une dénomination divine durable n’implique pas une communauté de desservants identique à travers les siècles. La comparaison des pratiques grecques et romaines montre l’intérêt de dissocier mémoire du lieu et reproduction exacte des institutions.
+
+## XV. Déméter, Korè et la pensée du commun
+
+### 41. Aristote : la communauté politique et ses limites
+
+**[P]** Dans les *Politiques* I, 2, 1253a, Aristote décrit la cité comme une association humaine dont la finalité excède la seule survie. Le sanctuaire corinthien peut servir d’objet pour réfléchir aux médiations matérielles du vivre-ensemble : prendre part à un repas, entretenir un espace, reconnaître un nom divin. Mais le fait de manger dans un sanctuaire n’est pas une preuve que les convives formaient une assemblée politiquement égale.
+
+La mise en commun rituelle peut coexister avec des hiérarchies sociales. L’analogie aristotélicienne aide à poser cette tension, non à démontrer les institutions propres à l’Acrocorinthe.
+
+### 42. Hegel : le religieux comme forme objective
+
+Une lecture hégélienne, inspirée de la *Phénoménologie de l’esprit* et de son analyse de la religion de l’art, s’attache à la manière dont une communauté reconnaît une puissance dans des formes sensibles : images, gestes, édifices. Le sanctuaire corinthien donne à cette question une matière particulièrement concrète, dans les nombreuses variations de formats de statues et dans le rôle de la présence ou de la dissimulation des images.
+
+Il serait anachronique de présenter les Corinthiens comme ayant consciemment suivi une dialectique hégélienne. La proposition consiste à utiliser un concept moderne pour réfléchir aux conditions de l’objectivation du sacré.
+
+### 43. Nietzsche : prudence devant l’opposition apollinien/dionysiaque
+
+La *Naissance de la tragédie* distingue des puissances artistiques apollinienne et dionysiaque. Rien ne permet de traduire les configurations cultuelles de Déméter et Korè par cette seule opposition. Les objets associés à Dionysos ne démontrent pas une institution « dionysiaque » dans le sens philosophique de Nietzsche.
+
+Le rapprochement le plus fécond est critique : les grands schémas interprétatifs peuvent rendre visibles des tensions, mais ils risquent d’effacer les céramiques, les textes et les pratiques locales qui résistent à leurs catégories.
+
+### 44. Castoriadis : institution et imaginaire
+
+La réflexion de Cornelius Castoriadis sur l’institution imaginaire de la société aide à comprendre comment une collectivité stabilise des significations partagées sans qu’elles existent seulement dans des textes. Un sanctuaire produit des habitudes, délimite des parcours et maintient des attentes envers les divinités. Cette approche souligne l’efficacité des représentations et des pratiques.
+
+Toutefois, la longue durée ne constitue pas la preuve d’un imaginaire homogène. La Corinthe archaïque, classique, hellénistique et romaine ne représente pas une société unique avançant sans rupture.
+
+### 45. Le problème de la nourriture commune
+
+**[P]** Le repas rassemble des corps soumis à la nécessité biologique, mais ses règles construisent des appartenances. Cette idée se trouve au croisement des analyses du sacrifice de Marcel Detienne et Jean-Pierre Vernant, de l’anthropologie du don et de la sociologie des rites. Le banquet rituel corinthien fournit un cas matériel exceptionnel pour examiner cette double dimension, sans réduire le culte à une fonction sociologique unique.
+
+## XVI. Comparaisons : Éleusis, Hermione, Lykosoura, Sicile
+
+### 46. Éleusis : identité divine, institutions non identiques
+
+Éleusis donne accès à une tradition poétique et institutionnelle beaucoup plus explicite sur la transmission des rites. À Corinthe, les repas et les figurines figurent au premier plan de la preuve. Dans les deux lieux, Déméter et Korè relient nutrition et continuité humaine ; pourtant, les architectures, la documentation et les formes d’accès ne se superposent pas.
+
+Un tableau comparatif doit présenter séparément : source littéraire, inscription, bâtiment attesté, objet diagnostique et degré de certitude sur les rituels. Il n’y a aucun intérêt scientifique à transformer des ressemblances en filiation directe non démontrée.
+
+### 47. Hermione et Déméter Chthonia
+
+Le dossier d’Hermione, notamment chez Pausanias II, 35, 4–8, atteste des pratiques locales et une épiclèse particulière. Son voisinage thématique avec Déméter et Korè à Corinthe ne permet pas d’assimiler leurs cérémonies ni de plaquer l’ensemble du dossier chthonien sur les terrasses corinthiennes.
+
+### 48. Despoina à Lykosoura
+
+À Lykosoura, Pausanias VIII, 37, fournit des traditions différentes, attachées à Despoina, aux généalogies arcadiennes et à une iconographie sculpturale propre. Le rapprochement permet d’interroger les appellations de la « fille » et les articulations du visible et du caché ; les différences de sources doivent rester au premier plan.
+
+### 49. Sélinonte et la pluralité démétriaque
+
+Le sanctuaire de Déméter Malophoros à Sélinonte illustre une configuration occidentale distincte. Les terres cuites et les pratiques votives rendent la comparaison possible, mais les caractères topographiques, les appellations et les institutions de la cité ne permettent aucun transfert mécanique des scénarios cérémoniels.
+
+### 50. Le risque d’une fausse « religion méditerranéenne de la mère »
+
+Comparer Déméter, d’autres déesses de fertilité et des maternités divines de la Méditerranée antique ne démontre pas une « Grande Mère » identique et intemporelle. Les langues, inscriptions et pratiques économiques divergent. Les comparaisons doivent rester précises, réversibles et testables, sans fusionner des noms divins sur la seule ressemblance des symboles.
+
+## XVII. Histoire de la recherche et corrections de méthode
+
+### 51. Découverte et fouilles
+
+L’École américaine d’études classiques à Athènes situe l’identification archéologique du sanctuaire dans les opérations commencées en 1961 sous Ronald S. Stroud ; les recherches de terrain se poursuivent durant les décennies suivantes. L’histoire de la découverte importe parce que les structures, fragmentées par la pente et les occupations postérieures, exigent des relevés et des concordances stratigraphiques.
+
+Les grandes publications de la série *Corinth XVIII* ont progressivement remplacé les premiers comptes rendus par une documentation spécialisée : poterie grecque, céramique et lampes romaines, topographie et architecture, figurines, sculpture, inscriptions, lampes grecques, autres terres cuites. Un exposé scientifique doit conserver cette pluralité éditoriale.
+
+### 52. L’illusion de la « preuve totale »
+
+Un site riche en objets peut susciter une restitution excessivement précise. Le volume matériel n’abolit pas les ruptures interprétatives. Plus de cent sculptures de grande taille ne livrent pas le nom d’une fête ; des milliers de fragments ne révèlent pas un emploi du temps ; une inscription de contrainte rituelle ne documente pas l’accord de la personne visée.
+
+La meilleure méthode est de produire une matrice : objet, contexte, datation, usage possible, contre-hypothèse et niveau de certitude. Cette discipline du doute n’affaiblit pas la compréhension du sanctuaire ; elle en rend les résultats contrôlables.
+
+### 53. Ne pas faire de l’Acrocorinthe le tout de Corinthe
+
+La ville comporte de multiples sanctuaires et traditions, dont les dossiers de Pausanias ne donnent pas une photographie exhaustive à toutes les époques. Le sanctuaire de Déméter et Korè appartient à cette constellation sans expliquer seul la vie religieuse corinthienne. Un lecteur doit pouvoir replacer les terrasses dans un plan plus large et dans les chronologies de l’Agora, des nécropoles, des ateliers et de la citadelle.
+
+## XVIII. Répertoire des sources primaires et contrôle des attestations
+
+### 54. Textes littéraires
+
+- **Pausanias, Description de la Grèce II, 4, 6–7** : itinéraire de l’ascension, sanctuaires voisins et images de Déméter et Korè non montrées.
+- **Pausanias II, 5, 1** : sanctuaire sommital d’Aphrodite, distinct des terrasses de Déméter ; légende de l’eau donnée à Sisyphe.
+- **Hymne homérique à Déméter 1–39** : séparation de la mère et de la fille, source comparative et non compte rendu corinthien.
+- **Hymne homérique à Déméter 270–274** : injonction de fonder un sanctuaire et transmission de la pratique cultuelle.
+- **Hymne homérique à Déméter 305–313** : menace de famine et rupture des échanges sacrificiels.
+- **Hymne homérique à Déméter 473–482** : transmission des rites ; horizon éleusinien, non attestation des mystères corinthiens.
+- **Hésiode, Théogonie 912–914** : généalogie de Perséphone et son enlèvement ; version poétique, non texte d’archive locale.
+- **Pausanias II, 35, 4–8** : Déméter Chthonia à Hermione, utilisé seulement en comparaison.
+- **Pausanias VIII, 37** : dossier de Despoina à Lykosoura ; autre contexte arcadien.
+- **Strabon, Géographie VIII, 6, 23** : Corinthe, sa destruction et sa refondation ; cadre historique général à confronter à la stratigraphie.
+
+### 55. Inscriptions et documentation archéologique
+
+Le corpus principal des inscriptions est édité par **Ronald S. Stroud, Corinth XVIII.6 (2013)**, et non simplement cité par un numéro IG générique inventé. Les objets sur supports variés appellent une transcription et un contrôle de notice. Les documents appartenant à la période romaine doivent être identifiés par leur chronologie propre et non déplacés dans la religion corinthienne archaïque.
+
+Les corps archéologiques majeurs sont les volumes **Corinth XVIII.1–XVIII.8**, détaillés ci-dessous. Ils permettent un contrôle croisé des relevés architecturaux, des couches, des figurines, de la céramique et des objets inscrits.
+
+## XIX. Bibliographie critique commentée
+
+### 56. Publications fondamentales du sanctuaire
+
+1. **Pemberton, Elizabeth G.** (1989), *The Sanctuary of Demeter and Kore: The Greek Pottery*, *Corinth* XVIII.1, Princeton, American School of Classical Studies at Athens. Étude fondamentale pour les assemblages céramiques grecs et leur datation.
+2. **Slane, Kathleen Warner** (1990), *The Sanctuary of Demeter and Kore: The Roman Pottery and Lamps*, *Corinth* XVIII.2, Princeton. Base de l’examen des horizons romains.
+3. **Bookidis, Nancy, et Ronald S. Stroud** (1997), *The Sanctuary of Demeter and Kore: Topography and Architecture*, *Corinth* XVIII.3, Princeton. Monographie principale sur les terrasses, les salles, les accès et les phases bâties.
+4. **Merker, Gloria S.** (2000), *The Sanctuary of Demeter and Kore: Terracotta Figurines of the Classical, Hellenistic, and Roman Periods*, *Corinth* XVIII.4. Étude des petites figurines et de leurs évolutions.
+5. **Bookidis, Nancy** (2010), *The Sanctuary of Demeter and Kore: The Terracotta Sculpture*, *Corinth* XVIII.5. Publication des sculptures de grandes dimensions, particulièrement des jeunes hommes.
+6. **Stroud, Ronald S.** (2013), *The Sanctuary of Demeter and Kore: The Inscriptions*, *Corinth* XVIII.6. Édition critique des objets inscrits.
+7. **Bookidis, Nancy, et Elizabeth G. Pemberton** (2015), *The Sanctuary of Demeter and Kore: The Greek Lamps and Offering Trays*, *Corinth* XVIII.7. Objets d’illumination et plateaux votifs.
+8. **Klinger, Sonia** (2021), *The Sanctuary of Demeter and Kore: Miscellaneous Finds of Terracotta*, *Corinth* XVIII.8. Série complémentaire des objets de terre cuite.
+
+### 57. Articles de référence
+
+9. **Bookidis, Nancy** (1990), « Ritual Dining in the Sanctuary of Demeter and Kore at Corinth: Some Questions », dans Oswyn Murray (dir.), *Sympotica: A Symposium on the Symposion*, p. 86–94. Réflexion méthodologique sur l’interprétation du banquet.
+10. **Brumfield, Allaire** (1997), « Cakes in the Liknon: Votives from the Sanctuary of Demeter and Kore on Acrocorinth », *Hesperia* 66.1, p. 147–172. Étude des offrandes alimentaires figurées.
+11. **Bookidis, Nancy, Julie Hansen, Lynn Snyder et Paul Goldberg** (1999), « Dining in the Sanctuary of Demeter and Kore at Corinth », *Hesperia* 68.1, p. 1–54. Étude interdisciplinaire des vestiges alimentaires et architecturaux.
+12. **Pfaff, Christopher A.** (1999), « The Early Iron Age Pottery from the Sanctuary of Demeter and Kore at Corinth », *Hesperia* 68.1, p. 55–134. Chronologie de la fréquentation ancienne.
+13. **Slane, Kathleen Warner** (2008), « The End of the Sanctuary of Demeter and Kore on Acrocorinth », *Hesperia* 77.3, p. 465–496. Réévaluation décisive de la fin du culte.
+14. **Klinger, Sonia** (2018), « Terracotta Models of Sandaled Feet: Votives from the Sanctuary of Demeter and Kore on Acrocorinth », *Hesperia* 87.3, p. 429–449. Interprétation nuptiale proposée pour les modèles de pieds.
+
+### 58. Études contextuelles et instruments critiques
+
+15. **Bookidis, Nancy, et Ronald S. Stroud** (1987), *Demeter and Persephone in Ancient Corinth*, *Corinth Notes* 2, American School of Classical Studies at Athens. Introduction synthétique aux fouilles, à lire avec les volumes ultérieurs.
+16. **Detienne, Marcel, et Jean-Pierre Vernant** (dir.) (1979), *La cuisine du sacrifice en pays grec*, Paris, Gallimard. Cadre comparatif sur le sacrifice et la nourriture ; ne documente pas à lui seul les rites du site.
+17. **de Polignac, François** (1984), *La naissance de la cité grecque*, Paris, La Découverte. Réflexion sur sanctuaires et formation territoriale des cités.
+18. **Mauss, Marcel** (1925), *Essai sur le don*. Instrument comparatif sur les relations et obligations, à utiliser sans identification mécanique.
+19. **Hegel, G. W. F.** (1807), *Phénoménologie de l’esprit*, section sur la religion de l’art. Lecture philosophique postérieure.
+20. **Nietzsche, Friedrich** (1872), *La Naissance de la tragédie*. Comparaison critique, non documentation du sanctuaire corinthien.
+21. **Castoriadis, Cornelius** (1975), *L’Institution imaginaire de la société*. Proposition théorique sur la production sociale du sens.
+22. **Aristote**, *Politiques* I, 2, 1253a. Question de la communauté politique ; aucune description directe du site.
+
+### 59. Accès contrôlables aux publications
+
+- Pausanias II, 4–5, *Center for Hellenic Studies* : https://chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/
+- *Hymne homérique à Déméter*, texte et traduction, *Center for Hellenic Studies* : https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/
+- *Corinth XVIII.3*, ASCSA : https://ascsa.org/publications/book/?i=9780876611838
+- Catalogue de la série *Corinth* : https://ascsa.org/publications/browse-by-series/corinth
+- *Corinth XVIII.6*, ASCSA : https://www.ascsa.edu.gr/publications/book/?i=9780876611869
+- Brumfield (1997), *Hesperia* : https://www.ascsa.edu.gr/publications/hesperia/article/66/1/147-172
+- Slane (2008), *Hesperia* : https://www.ascsa.edu.gr/publications/hesperia/article/77/3/465-496
+- Klinger (2018), *Hesperia* : https://www.ascsa.edu.gr/publications/hesperia/article/87/3/429-449
+- Photographie et notice archéologiques, ASCSA Metis : https://metis.ascsa.edu.gr/resource/a73b288be43b32c110da3976f711d042?image_id=258754f0cc9b9a83091dd4fad2d2afa1&tab=overview&view=preview
+
+## XX. Programme iconographique scientifique
+
+Les illustrations suivantes sont des **propositions**, non des médias déjà produits, téléchargés ou publiés. Toute insertion au site doit respecter ses droits de reproduction, son système de notices et la règle MYTHOS excluant toute image 2,5D. Les reconstitutions nouvelles doivent être photoréalistes et leur degré d’hypothèse explicitement noté dans la notice.
+
+1. **Carte du système topographique de Corinthe** : Agora, pente nord, Acrocorinthe, voies d’accès. Type : carte critique originale ; certitude forte sur le relief, à actualiser selon plan archéologique.
+2. **Plan phasé des trois terrasses du sanctuaire** : distinguer états archaïque, classique, hellénistique et romain, sans superposer les constructions. Source : Bookidis et Stroud, *Corinth XVIII.3*.
+3. **Photographie actuelle des vestiges des salles de banquet** : document de terrain légendé, sans restitution de mobilier.
+4. **Coupe scientifique de l’escalier et des terrasses** : relevé topographique dérivé de plans publiés, échelles apparentes.
+5. **Restitution 3D photoréaliste d’une salle de banquet classique** : banquettes, récipients attestés ; personnages et gestes explicitement hypothétiques ; aucune incrustation de titre dans l’image.
+6. **Planche de céramiques grecques** : profils et formes de service, selon Pemberton 1989 ; indiquer période et contexte.
+7. **Planche de modèles de *likna*** : photographies ou dessins autorisés des objets présentés par Brumfield ; ne pas inventer le contenu réel des recettes.
+8. **Sculptures de jeunes hommes en terre cuite** : fragments photographiés avec échelle et cartels de Bookidis, *Corinth XVIII.5* ; signaler que l’identification des dédicants reste inconnue.
+9. **Figurines féminines et statuettes moulées** : comparaison interne de séries typologiques, sans assimiler l’image à la personne qui offre.
+10. **Modèles de pieds chaussés** : documents de Klinger 2018, accompagnés de l’hypothèse nuptiale et de ses limites.
+11. **Inscriptions sur supports variés** : galerie d’exemples de *graffiti*, *pinakes* et tablettes de plomb avec transcription contrôlée sur *Corinth XVIII.6*.
+12. **Frise des transformations du sanctuaire** : de l’archaïsme aux réutilisations funéraires tardives, en séparant occupation, culte et abandon.
+13. **Tableau de comparaison Éleusis / Corinthe / Hermione / Lykosoura / Sélinonte** : noms divins, sources, bâtiments et degré d’attestation.
+14. **Restitution photoréaliste de la pente nord à une date choisie** : géométrie des terrasses fondée sur le plan archéologique ; restitutions des couvertures, textures et participants signalées comme hypothèses, sans menu ni texte incrusté.
+
+## XXI. Conclusion : une communauté religieuse observée à hauteur d’objet
+
+L’histoire de Déméter et Korè à l’Acrocorinthe ne se laisse réduire ni à l’enlèvement de Perséphone ni à un système initiatique entièrement reconstruit. Les données locales sont plus précises dans certaines directions et plus lacunaires dans d’autres : elles renseignent la vie des salles de repas, la fabrication des objets, la variété des formes humaines déposées, la langue des inscriptions, la pluralité des phases et les interruptions de l’usage cultuel.
+
+Trois résultats se dégagent. Premièrement, la relation à Déméter et à Korè fut une **pratique spatiale** : la pente, les terrasses et les chemins distribuaient les activités. Deuxièmement, ce fut une **pratique matérielle** : nourriture, miniature, sculpture et écriture inscrivaient dans le site des demandes souvent impossibles à restituer individuellement. Troisièmement, ce fut une **pratique historique** : les Grecs de l’époque archaïque et les habitants de la colonie romaine n’ont pas nécessairement reconnu dans les mêmes lieux les mêmes règles ou le même ensemble de puissances.
+
+La leçon philosophique est une leçon de limite. L’archéologie peut faire apparaître la densité sociale du sacré précisément parce qu’elle renonce à prétendre tout savoir de son contenu intérieur. Le sanctuaire fut un lieu de mise en commun, mais le commun ne signifiait ni l’unanimité ni l’égalité démontrée de tous les participants. Les vestiges disent la persistance de gestes et l’invention de formes ; les silences demeurent des objets légitimes de recherche.
+
+*Fin de la monographie. Texte intégral destiné à la file éditoriale MYTHOS, collection encyclopedie. Aucun numéro nouveau n’est revendiqué et aucune publication publique n’est présumée.*

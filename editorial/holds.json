@@ -188,6 +188,10 @@
     "3f6b9e21-4d85-4e8a-9bc1-1d7fe1c90a42": {
       "request_sha256": "8a6b37257a63fea0a2f2aa5d3449b2ff3545ef675c101352201b98a3131a431a",
       "reason": "Collision historique MC-117 vérifiée le 7 novembre 2026 : la présente monographie « Les os du sacré » (reliques, divination, sacrifice et mémoire en Égypte, Grèce, Chine Shang, Iran et bouddhisme), commit 0fdb57aa088b39fd2ae4676794a9eda9c153ddbe à 08:57:46 UTC, partage une cote historique déjà revendiquée par le manuscrit antérieur 52e03cb4-44ec-47c7-9506-f3f88fc240d1 sur les jumeaux du sacré (08:51:35 UTC). Les sujets sont scientifiquement distincts : NE PAS fusionner leurs contenus. Conserver intégralement la présente étude dans inbox, avec empreinte SHA-256, sans lui attribuer MC-117 ni un volume canonique avant réconciliation de son identité historique, à une éventuelle cote nouvelle vérifiée libre. Ne pas supprimer, dupliquer, renuméroter ni modifier les reçus attribués."
+    },
+    "97fb51ab-21a3-4e80-afbb-67fdad46aecb": {
+      "request_sha256": "4b3fdb9f058c8e585437eeea9d6302922944bbfce8966b2c86400718e3854815",
+      "reason": "Recouvrement éditorial constaté le 7 novembre 2026 avec le chapitre canonique 781, Kondoa et les abris peints du Rift tanzanien (UUID b4b59c61-0d7e-4b1a-a67c-202611070936), déjà doté de son reçu dans editorial/numbering.json. La présente soumission distincte sur Kondoa/Kolo (97fb51ab-21a3-4e80-afbb-67fdad46aecb) conserve intégralement son manuscrit et son empreinte, sans nouvelle numérotation autonome. Comparer les deux études et, si la seconde apporte des analyses originales, préparer un complément non numéroté ou une nouvelle étude scientifiquement différente. Ne supprimer ni ne réécrire aucune étude ni aucun reçu."
     }
   }
 }
