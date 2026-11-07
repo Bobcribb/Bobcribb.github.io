@@ -1,0 +1,134 @@
+# Chapitre 826 — Huaca de los Reyes et Caballo Muerto : visages d'argile, architecture collective et pouvoir cérémoniel
+
+*MYTHOS — Les Origines du sacré, volume DCCCXXVI. Étude archéologique et comparatiste. Vérification documentaire : 7 novembre 2026.*
+
+## Objet et précautions
+
+Huaca de los Reyes, au sein du complexe de Caballo Muerto dans la vallée du Moche, est un dossier décisif pour observer la naissance de formes de monumentalité sur la côte nord du Pérou pendant la période Initiale. Ses édifices, places, niches et reliefs modelés en argile permettent d'interroger les relations entre images, coordination du travail et différenciation sociale bien avant les archives coloniales en langues andines. Le mot « roi » porté par le nom moderne du lieu ne garantit aucun roi préhistorique ; les termes de « temple », « prêtre », « divinité » et « capitale » demandent chacun une définition probatoire.
+
+L'enquête distingue trois registres : **[A] vestiges et observations publiés**, **[B] conclusions historiques défendables mais discutées**, **[C] hypothèses comparatives sans preuve de filiation**. Elle refuse de considérer les frises comme des textes à traduire mot pour mot. Les sources principales sont les publications de Thomas Pozorski, spécialement l'article paru dans *American Antiquity* 45/1 (1980), 100–110, et son réexamen paru dans *Latin American Antiquity* 6/4. Il faut distinguer leur date imprimée et leur présence actuelle sur le portail Cambridge : la mention « publié en ligne en 2017 » désigne la mise en ligne d'archives anciennes et non une découverte réalisée en 2017.
+
+## I. L'espace du Moche : ressources, implantations, horizons chronologiques
+
+La vallée du Moche occupe la côte nord péruvienne : entre secteurs désertiques, agriculture de vallée et connexions aux ressources marines, l'implantation d'un complexe monumental suppose des choix durables d'approvisionnement [A pour la topographie générale ; B pour le détail des circuits anciens]. Les monticules de Caballo Muerto constituent un ensemble plutôt qu'un sanctuaire unique. Huaca de los Reyes doit être étudiée dans ce réseau, avec d'autres ensembles du même complexe et des occupations distinctes dans l'espace et dans le temps.
+
+Pour l'Initial Period côtier, les chercheurs emploient des cadres chronologiques de l'ordre de 1800 à 900 avant notre ère ; ces bornes sont des instruments de périodisation, non un certificat d'âge pour chaque frise [A pour la convention publiée]. Le récit qui pose une culture uniforme « Cupisnique » au début, suivie d'un « Chavín » entièrement constitué, peut masquer les continuités et les variations locales. Les étiquettes régionales désignent d'abord des assemblages et des affinités archéologiques. Elles ne prouvent pas une identité politique ou ethnique.
+
+Thomas Pozorski indique que des recherches furent conduites au complexe de Caballo Muerto en 1973–1974 et que Huaca de los Reyes se distingue par l'abondance de ses reliefs d'adobe, leur diversité et leur ancienneté [A : article de 1980]. Une enquête de chronologie doit partir des relations entre sols, remplissages, supports et décors, et non des ressemblances avec les sculptures plus tardives d'autres sites. Pour un objet précis, une datation n'est pleinement exploitable que si son association stratigraphique est fiable et si l'on distingue âge d'un charbon, date de construction et date d'utilisation.
+
+## II. Organisation monumentale et problème de la centralisation
+
+L'édifice comprend des ensembles architecturaux articulés selon des axes, des cours et des bâtiments surélevés [A]. Les formes en U, fréquemment décrites dans la région, commandent une distribution spatiale : elles rendent certains trajets plus probables, certains points plus visibles et certains recoins moins accessibles. Il serait toutefois simpliste d'en déduire qu'un plan en U est une preuve universelle de cérémonie d'État. D'un groupe à l'autre, une même morphologie peut correspondre à des calendriers d'utilisation et à des formes d'autorité différents.
+
+Le travail nécessaire à la réalisation de grandes masses bâties est important. Pozorski souligne dans son article de 1980 que l'investissement de main-d'œuvre, la planification et la distribution inégale des reliefs sont compatibles avec une organisation socialement hiérarchisée [B : interprétation archéologique appuyée sur l'architecture]. Cette proposition n'est pas la preuve indépendante d'une souveraineté monarchique. Les modèles alternatifs de mobilisation — coopération intercommunautaire, leadership rituel, compétitions de lignages, fêtes de travaux — doivent être confrontés aux données de résidence, de subsistance et de stockage.
+
+« Complexité » n'est pas un scalaire qui augmenterait nécessairement avec la quantité d'argile déplacée. Un édifice exigeant peut être le produit d'un programme relativement bref, ordonné et concentré ; un autre peut résulter de réfections accumulées pendant plusieurs siècles. Ces deux scénarios ont des conséquences sociales différentes. Ils doivent être départagés avant de reconstruire un pouvoir central unique pour tout Caballo Muerto.
+
+## III. Un désaccord scientifique réel : plusieurs phases ou grand programme cohérent ?
+
+Le débat sur les phases architecturales est essentiel, et il doit être présenté comme tel. Dans « Huaca de los Reyes Revisited: Clarification of the Archaeological Evidence », Pozorski réfute la reconstruction attribuée à Conklin (1985), selon laquelle la majorité des éléments de surface résulterait de huit phases distinctes. Il soutient, en s'appuyant sur les données de fouille depuis les années 1970, qu'une grande partie de l'architecture visible relève d'une phase intégrée [A : existence et contenu du désaccord ; B : arbitrage de la séquence]. Ce point n'est pas un simple conflit de détails : il transforme la signification historique des masses construites.
+
+Un édifice formé en peu de campagnes suppose une mobilisation fortement synchronisée ; une accumulation de petites phases prouverait surtout la durée d'un lieu et l'aptitude des générations à conserver certaines règles d'implantation. Il n'est donc pas légitime de combiner, sans le dire, les plans d'une reconstruction longue et les estimations de travail d'un programme bref. La prudence exige de nommer explicitement la reconstruction sur laquelle se fonde tout calcul, de donner ses hypothèses et de distinguer ce qui est mesuré de ce qui est extrapolé.
+
+Ce désaccord enseigne une règle générale de l'archéologie religieuse : un sanctuaire n'est pas une architecture au présent éternel. Les murs visibles sont le résultat d'opérations de construction, de réaffectation, de recouvrement, d'effondrement et de fouille. L'inférence d'une « réforme rituelle » à partir d'une reconfiguration architecturale requiert des indices concordants de changement dans les dépôts et l'accès [B]. Rien n'oblige à supposer qu'un plan nouveau signifie un dieu nouveau.
+
+## IV. Les reliefs d'argile comme dispositif matériel
+
+Les reliefs sont exécutés en argile ou adobe, dans une relation intime avec les murs, niches et façades. On rencontre des têtes à caractères anthropomorphes et félins, des figures bipèdes et d'autres compositions iconographiques [A]. L'important n'est pas seulement de dresser une liste de motifs, mais de relever leur distribution. Pozorski soutient que cette distribution différentielle contribue à son argument d'une société à statuts différenciés [B]. Il faut replacer chaque motif dans un secteur, dans une phase et dans un espace de vision, plutôt que l'extraire comme emblème intemporel.
+
+Un relief monumental n'est pas une petite effigie que l'on porte. Il peut gouverner l'environnement perceptif en occupant durablement un front de bâtiment. Une bouche dotée de crocs, placée au-dessus d'un lieu de passage, peut être ressentie comme surplombante [C, hypothèse perceptive]. Mais l'effet attendu sur les visiteurs n'est pas mesuré ; la taille du relief ne prouve ni peur rituelle ni obéissance politique. Les sources ne livrent pas les récits, les prières, les règles de regard ou les émotions de chaque participant.
+
+Les comparaisons avec l'imagerie de Chavín doivent respecter les écarts de contextes et de datations. Des traits à crocs peuvent être diffusés, transformés ou réinventés selon des voies différentes. La présence de formes comparables ne constitue pas, à elle seule, la preuve d'un culte panandin unifié. Pour soutenir une diffusion, il faudrait disposer d'une séquence cohérente de formes intermédiaires, de techniques partagées et de contextes chronologiques bien datés. L'histoire de l'art préhistorique ne peut être réduite à une succession de « centres inventeurs » et de « périphéries copieuses ».
+
+## V. Humanité, animalité et figures composites
+
+Certaines têtes présentent des traits associant visages humanisés et morphologie de prédateur [A]. Le mot « félin » est souvent commode pour décrire les canines ou le contour ; il devient problématique lorsqu'on lui ajoute sans médiation l'expression « dieu jaguar ». Un animal identifiable et un être composite ne sont pas les mêmes catégories iconographiques. Une tête monumentale peut représenter une puissance, un ancêtre, un masque, une créature mythique ou un type de personnage : ces propositions demeurent ouvertes tant que les dépôts et les séquences visuelles ne favorisent pas l'une d'elles.
+
+La comparaison avec des transformations rituelles connues ailleurs incite à demander si l'animalité est figurée comme attribut, état ou relation. Dans l'Égypte pharaonique, des figures hybrides sont associées à des noms et à des fonctions attestés dans des inscriptions ; à Caballo Muerto, ce contrepoint documentaire manque. En Grèce, les représentations figurées peuvent être associées à des récits diversifiés ; l'existence de mythes littéraires grecs ne doit pas être utilisée pour suppléer les mythes inconnus de la vallée du Moche. Il s'agit d'une opposition de régimes de preuve, non d'une hiérarchie des intelligences religieuses.
+
+La tentation de voir partout un « chaman » se heurte au même problème. Le port de traits animaux ne suffit pas pour reconstruire une séance de transe, une ingestion de substance psychoactive ou un spécialiste du voyage extatique. Aucune telle pratique précise n'est démontrée par une tête d'argile seule. L'iconographie doit être étudiée avec les sols d'occupation, les dépôts, les objets trouvés en place et les observations ostéologiques lorsqu'elles existent.
+
+## VI. Voir en public, agir à part : espaces et différenciations
+
+On peut proposer que les grandes cours servaient à des formes de rassemblement plus larges que les compartiments de petite dimension [B]. Le rapport entre place et niche pose alors un problème de socialité cérémonielle : qui a le droit de voir, qui entre dans l'espace le plus resserré, qui est exclu et pour quelle durée ? Une telle question ne doit pas être confondue avec sa réponse. Les enceintes ne prouvent pas automatiquement un interdit de caste ; des seuils pouvaient aussi organiser les déplacements, la conservation du décor ou les opérations techniques.
+
+La disposition des images peut signaler l'importance de certains secteurs [B]. Mais l'hypothèse d'un secret initiatique exigerait un faisceau spécifique : circulation contrainte, indices d'assemblées, différence nette des dépôts de consommation ou de manipulation, et répétition de ce régime sur plusieurs phases. L'archéologie ne livre pas nécessairement toutes ces pièces. La documentation des volumes et des parcours permet en revanche de poser une histoire de l'accès plus rigoureuse que les récits d'une « religion des prêtres-rois » sans sources.
+
+La construction collective et la mise en spectacle n'impliquent pas nécessairement une domination violente. Des communautés peuvent édifier des lieux monumentaux pour négocier des alliances, redistribuer des aliments, reconnaître des ancêtres ou accomplir des rites calendaires. L'analogie ethnographique peut aider à proposer des variables à examiner ; elle ne peut attribuer automatiquement à une communauté disparue les motivations d'une population observée ailleurs des millénaires plus tard.
+
+## VII. Matériaux, techniques et reproduction du monument
+
+L'argile est à la fois structure, support de sculpture, surface de finition et matériau susceptible d'être réparé. Le nombre de gestes incorporés à une façade dépasse de beaucoup sa forme finale. Obtenir une surface stable, y modeler une tête et l'entretenir demandent des savoir-faire transmis. Cette dimension technique nuance le clivage moderne entre « art », « architecture » et « rituel » : dans un bâtiment ancien, ces gestes peuvent être inséparables dans l'activité des bâtisseurs [B].
+
+Il faut toutefois éviter d'inventer une spécialisation artisanale héréditaire parce qu'une sculpture paraît habile. Une technique exigeante peut être exercée par des spécialistes permanents, des équipes temporaires ou des artisans itinérants. Des analyses des recettes d'argile, des inclusions, des marques de fabrication et des variations dimensionnelles seraient utiles pour reconnaître des ateliers. Un groupe d'œuvres semblables n'établit pas à lui seul la nature juridique ou sociale de son producteur.
+
+L'entretien d'un relief pourrait avoir constitué un moment rituel [C]. Pourtant la réparation courante de l'adobe répond aussi à l'usure des intempéries. On ne peut affirmer qu'un réenduit avait un sens cultuel précis sans son association répétée à des dépôts intentionnels ou à des modifications de l'espace. L'archéologue doit distinguer « geste effectué sur un lieu cérémoniel » et « geste cérémoniel directement attesté ».
+
+## VIII. Mobiliser le travail : mesurer sans naturaliser le pouvoir
+
+Les estimations de volume déplacé ou de jours de travail ne sont qu'un niveau d'analyse. Un nombre d'heures de travail exige des hypothèses sur la densité des matériaux, leur extraction, leur transport, l'organisation des équipes et la productivité. Les calculs doivent rendre publiques leurs plages de variation. Réduire le chantier à une preuve mécanique de domination laisserait dans l'ombre la coopération, la réputation, la redistribution et l'émulation qui peuvent aussi mobiliser des ressources.
+
+La distinction entre société « égalitaire » et société « stratifiée » n'est pas un interrupteur. Des différences de prestige, de contrôle de l'information, de droits d'accès ou de capacité de coordination peuvent exister sans monarchie ni institution sacerdotale fixe. L'article de Pozorski de 1980 défend une interprétation de divisions de rang à partir des bâtiments ; il ne démontre pas une constitution politique. Le dossier pourrait être enrichi par l'examen comparatif des maisons contemporaines, de leurs dimensions, de leur distribution et de leurs assemblages domestiques.
+
+Une hypothèse forte serait que les reliefs monumentaux rendent visibles des relations de pouvoir auparavant moins durables [B]. Cela demanderait d'observer une coïncidence chronologique entre augmentation de la monumentalité, changement des dépôts et différenciation des habitats. Les images pourraient alors avoir participé à une institutionnalisation de certaines autorités. En l'absence de l'ensemble de ces corrélations, le rapport entre sacré et pouvoir demeure une question, non une certitude.
+
+## IX. L'absence de philologie indigène contemporaine
+
+Aucun texte local déchiffré n'explique, pour la période de construction de Huaca de los Reyes, le nom des reliefs, le calendrier d'une fête ou la fonction d'un officiant. Les mots *huaca*, *adoration*, *sacrifice* et *temple* sont employés aujourd'hui pour organiser l'analyse, pas comme citations d'inscriptions découvertes en place sur ces murs. L'étymologie d'une dénomination moderne ne date pas les représentations qui se trouvent dessous.
+
+Cette limite n'est pas un argument pour affirmer que les populations ignoraient les récits, le chant ou la parole rituelle. Elle oblige à distinguer deux objets : la tradition orale vraisemblable mais non conservée dans une version contrôlable, et le corpus matériel lisible aujourd'hui. Une archéologie de l'oralité pourrait se tourner vers la distribution des assemblées et les conditions acoustiques, sans attribuer des hymnes inventés aux bâtisseurs.
+
+Les corpus grecs et mésopotamiens montrent ce que changent des sources textuelles. Dans l'*Iliade* I, 37–42, l'invocation de Chrysès à Apollon nomme le dieu et formule une demande : ce degré de précision est impossible à obtenir pour Caballo Muerto. Les inscriptions de fondation mésopotamiennes identifient parfois l'auteur, le destinataire divin et l'objet d'une construction. On ne peut ni nier la religiosité des bâtisseurs péruviens au motif qu'ils n'ont pas laissé de tels textes, ni leur prêter les contenus d'autres peuples.
+
+## X. Comparatisme géographique et refus des généalogies faciles
+
+Garagay et Huaca de los Reyes présentent des problèmes comparables de plan monumental et de reliefs, mais occupent des régions et des situations historiques propres. Leur mise en relation doit être contrôlée par chronologie, technologies d'enduit, disposition des figures et distribution des lieux de passage. Kotosh et La Galgada offrent un autre vocabulaire d'enceintes et de foyers, montrant que la religiosité architecturale andine ne peut être assimilée à un plan unique. Chavín de Huántar, enfin, associe des dispositifs lithiques et souterrains spécifiques qui n'autorisent aucune lecture rétrospective automatique de Huaca de los Reyes.
+
+Les grands temples mésopotamiens invitent à interroger la coordination des travaux ; les sanctuaires égyptiens, l'intégration de l'image à l'architecture ; les sanctuaires grecs, les parcours et la publicité des rites ; certains espaces rituels de Chine, la valeur des dépôts et de la segmentation des accès ; mais les sources, les langues et les échelles chronologiques sont distinctes [C]. Ni la forme en U ni les crocs d'une figure ne démontrent un héritage commun, un emprunt transocéanique ou une fonction humaine universelle du même symbole.
+
+Le comparatisme des mondes africains ou indiens doit éviter l'exotisme typologique. Des pratiques collectives de construction ou de mise en visibilité des ancêtres peuvent suggérer des questions pertinentes ; elles n'autorisent pas à convertir les sociétés documentées ethnographiquement en substituts vivants d'une société ancienne péruvienne. Le présent des autres ne reconstitue pas le passé andin.
+
+## XI. Vernant, Detienne, Durkheim, Hegel et Nietzsche : instruments critiques
+
+La leçon la plus utile de Vernant est d'intégrer le phénomène religieux aux institutions et aux modes de pensée qui le rendent intelligible. Il ne faut donc pas isoler l'image de sa cour et du travail qui l'a produite. Detienne incite à définir les catégories utilisées : le mot « sacrifice » n'est pas une étiquette universelle collée sur tout acte inhabituel. Durkheim propose de considérer la puissance des rassemblements collectifs ; appliquée ici, l'idée d'une intensification des solidarités est une interprétation générale [C], non une observation directe des cérémonies du Moche.
+
+Hegel fournit une interrogation sur la production historique d'une forme symbolique, mais ses hiérarchies philosophiques des religions sont impropres à classer les cultures sans écriture conservée. Nietzsche peut aider à réfléchir aux intensités de la fête, mais sa polarité apollinien/dionysiaque relève d'une construction à propos du monde grec et ne doit pas être projetée sur les reliefs péruviens. Eliade nomme « espace sacré » un lieu qualitativement distingué : il s'agit d'une hypothèse sur une expérience, non d'une mesure archéométrique. Girard fait du sacrifice un mécanisme social associé à la violence ; la présence de crocs dans une sculpture ne constitue pas une preuve de mise à mort rituelle.
+
+La grille trifonctionnelle de Dumézil ne peut pas être appliquée sérieusement faute de mythes locaux attestés dans une langue comparable à celles qu'il étudie. Toute tentative de répartir les reliefs en « souveraineté, guerre, fécondité » sur leur seule apparence serait un exercice arbitraire. La discipline comparatiste consiste précisément à savoir quand ne pas comparer.
+
+## XII. Vers une histoire non téléologique du sacré andin
+
+Les monuments formatifs ne sont pas les balbutiements d'une religion destinée nécessairement à devenir celle des Incas. Entre Huaca de los Reyes et les siècles suivants, il existe des ruptures, des transformations et des permanences partielles. Le nom d'une société historique ultérieure ne peut servir à expliquer une image plus ancienne de plus d'un millénaire. Une histoire non téléologique étudie le détail des séquences sans présumer un point d'aboutissement.
+
+L'examen du corpus permet néanmoins de formuler une proposition robuste : certains groupes de la côte nord ont investi des ressources importantes dans des architectures collectives et dans des images fixes monumentales [A]. Il est raisonnable de penser qu'ils organisaient des rencontres et différenciaient des emplacements [B]. Il serait excessif d'affirmer que ces rencontres mettaient en scène un mythe nommé, ou qu'une caste sacerdotale imposait une doctrine unique [C].
+
+Enjeux futurs : refaire une comparaison des phases architecturales à partir des dessins de fouille ; publier une matrice spatiale des motifs et des accès ; identifier les lieux de préparation des matériaux ; comparer les variantes de style en évitant de confondre synchronie stylistique et contemporanéité stratigraphique ; documenter les destructions et restaurations modernes afin que les images de synthèse signalent leurs lacunes.
+
+## XIII. Tableau de contrôle des propositions
+
+**Attesté [A] :** Caballo Muerto est un ensemble de monuments de la vallée du Moche ; Huaca de los Reyes livre des reliefs en adobe ; les travaux de fouille des années 1970 ont été publiés ; des motifs à figures humaines, animales et hybrides sont documentés ; un désaccord scientifique imprimé porte sur la succession des phases visibles.
+
+**Controversé [B] :** l'ampleur de la stratification sociale ; l'organisation de la main-d'œuvre ; la fonction de différents compartiments ; le rapport entre images, autorité et rassemblements ; la segmentation exacte des chantiers ; l'interprétation de motifs comme puissances surnaturelles.
+
+**Non attesté [C] :** nom d'une divinité, structure d'une prêtrise, texte des rituels, violence sacrificielle déduite des crocs, contrôle d'un État impérial, origine étrangère des motifs. Toutes ces propositions nécessiteraient des témoins indépendants.
+
+## XIV. Conclusion
+
+Huaca de los Reyes montre que le sacré peut être approché par une question d'organisation : comment édifier un lieu capable de rassembler, différencier et impressionner, et comment faire tenir des images dans la durée d'une architecture ? L'analyse des courants de travail et de regard est plus féconde que l'identification immédiate d'un « dieu félin ». Les reliefs ne constituent pas une religion en miniature : ils sont les restes d'une expérience située, irréductible à nos étiquettes.
+
+La contribution scientifique de ce cas à MYTHOS est double. Elle relie matérialité rituelle et organisation sociale, et elle impose de conserver les controverses de phasage au cœur de l'interprétation. Aucune bibliographie, même savante, n'autorise à supprimer l'incertitude des sources. L'étude doit pouvoir être corrigée si de nouveaux relevés, datations ou contextes redéfinissent la succession des chantiers.
+
+## Sources primaires archéologiques, textes comparatifs et bibliographie
+
+**Sources primaires du dossier :** plans, coupes, relevés et photographies des fouilles de Huaca de los Reyes ; frises modelées en argile documentées dans leurs niches et façades ; observations de séquences de construction des campagnes de 1973–1974. Ce sont des sources matérielles, non des inscriptions de langage rituel. Les deux publications ci-dessous sont la porte d'entrée scientifique principale ; l'étude présente leurs controverses sans prétendre avoir collationné chaque plan et annexe non librement accessibles.
+
+1. Pozorski, Thomas, « The Early Horizon Site of Huaca de los Reyes: Societal Implications », *American Antiquity* **45**, no 1 (1980), p. 100–110, DOI https://doi.org/10.2307/279663 ; notice de l'éditeur : https://www.cambridge.org/core/journals/american-antiquity/article/early-horizon-site-of-huaca-de-los-reyes-societal-implications/4F92EC04302E6568FFAB8B08C1FBF0C2 .
+2. Pozorski, Thomas, « Huaca de los Reyes Revisited: Clarification of the Archaeological Evidence », *Latin American Antiquity* **6**, no 4 (1995), DOI https://doi.org/10.2307/971835 ; notice et résumé de l'éditeur : https://www.cambridge.org/core/journals/latin-american-antiquity/article/huaca-de-los-reyes-revisited-clarification-of-the-archaeological-evidence/9350B8512B8E9D9E9D5E5FADB543E6D3 .
+3. Yale University, Human Relations Area Files, « Early social stratification and subsistence systems: the Caballo Muerto complex », fiche documentaire archéologique de synthèse, https://ehrafarchaeology.yale.edu/traditions/se41/documents/027 (source secondaire indexée, et non fouille autonome).
+4. Chauchat, Claude et Jean Guffroy, « Sepulturas intrusivas Salinar y Chimú en la Huaca Herederos Chica, valle de Moche, Perú », *Bulletin de l'Institut français d'études andines* **32** (2003), p. 293–315, DOI https://doi.org/10.4000/bifea.6204 (contextes plus tardifs de Caballo Muerto à ne pas confondre avec la phase principale de Huaca de los Reyes).
+5. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965 ; Marcel Detienne, *Les maîtres de vérité dans la Grèce archaïque*, Paris, Maspero, 1967 (outils de critique comparative, non sources péruviennes).
+6. Émile Durkheim, *Les formes élémentaires de la vie religieuse*, Paris, Alcan, 1912 ; Mircea Eliade, *Le Sacré et le Profane*, 1957 ; René Girard, *La Violence et le Sacré*, 1972 (théories à tester, non preuves).
+7. Georg Wilhelm Friedrich Hegel, *Vorlesungen über die Philosophie der Religion* (cours posthumes, différentes éditions) ; Friedrich Nietzsche, *Die Geburt der Tragödie*, 1872 ; Georges Dumézil, *Mythe et épopée*, 1968–1973 (corpus comparatifs externes).
+8. Homère, *Iliade* I, 37–42 : prière de Chrysès à Apollon (source antique grecque explicitement étrangère au site, utilisée pour montrer les possibilités propres à un corpus écrit).
+
+*Notice éditoriale : les variables 826 et DCCCXXVI concernent uniquement l'attribution canonique de cette étude. Ni l'intitulé moderne du site ni les dénominations stylistiques de périodes ultérieures ne sont traités comme des transcriptions de la pensée religieuse de ses constructeurs.*

@@ -1,0 +1,178 @@
+# Chapitre 815 — Makgabeng : peintures d’initiation, *koma*, corps sociaux et mémoire de la guerre ḥananwa
+
+**MYTHOS — Les Origines du sacré. Monographie universitaire.**  
+**Aire :** plateau du Makgabeng, Limpopo, Afrique du Sud.  
+**Mots-clés :** art rupestre, Northern Sotho, initiation, *koma*, genre, Hananwa, guerre de 1894, peinture de contact, Khoesan, histoire orale, patrimoine vivant.  
+**Statut scientifique :** synthèse critique à partir de publications vérifiables ; aucune photographie, archive orale ou peinture non reproduite dans les sources citées n'est présentée comme observée directement par le rédacteur.
+
+## Résumé
+
+Le Makgabeng ne se réduit ni à un répertoire de « dessins primitifs », ni à un ensemble d'illustrations de rites anciens. Ses parois constituent un document stratifié de relations entre chasseurs-cueilleurs, pasteurs, agriculteurs de langue sotho du Nord, institutions initiatiques, guerre coloniale et transmissions communautaires. Des peintures fines, naturalistes, voisinent avec des motifs géométriques peints au doigt, des compositions rattachées à l'initiation, et des images de la confrontation avec les nouveaux occupants blancs. La question centrale n'est pas de déterminer si « les peintures sont sacrées » en général, mais de préciser quand, pour quels acteurs, et suivant quelles procédures des figures, des lieux et des gestes deviennent opérateurs de transformation sociale.
+
+Les recherches de Benjamin W. Smith, Johan A. van Schalkwyk, Edward Eastwood, Catherine Namono, Shiona Moodley et Lourenço Casimiro Pinto montrent les limites des correspondances simples entre style graphique, groupe ethnique et fonction religieuse. Le panneau peut être à la fois mémoire d'un conflit, instrument d'enseignement initiatique et espace où les frontières entre âges et genres sont négociées. L'enquête développe une épistémologie de la preuve : distinguer l'objet peint, la datation proposée, le rapprochement ethnographique, l'attribution d'auteur et l'hypothèse d'une efficacité rituelle.
+
+## I. Délimiter le corpus : un paysage, plusieurs histoires
+
+Le plateau du Makgabeng se situe dans la province sud-africaine du Limpopo. Ses formations de grès, ses abris et ses points d'eau ont déterminé des possibilités de fréquentation différenciées. L'étude du site gagne à commencer par la topographie : l'abri n'est pas une feuille détachée du relief ; il exige une marche, un accès, des conditions d'éclairage, parfois un rassemblement ou une discrétion. La visibilité d'une peinture dépend de sa hauteur, de son orientation et de la distance depuis laquelle elle peut être regardée. Il serait pourtant abusif de déduire automatiquement du caractère difficile d'accès une interdiction cultuelle : une topographie contrainte résulte aussi de l'érosion, de la protection contre les intempéries et de la disponibilité des supports.
+
+Dans leur bilan du relevé commencé en mai 2001, Eastwood et Tlouamma annonçaient plus de 670 lieux documentés après cinq années d'enquête, sur quelque 22 000 hectares. Ce chiffre appartient à une phase précise du recensement : il ne constitue ni un inventaire définitif ni le décompte d'une catégorie culturelle homogène [1]. L'importance du Makgabeng tient précisément à la densité des témoignages figuratifs et à l'impossibilité de les rabattre sur un « âge » unique. L'Université du Witwatersrand signale qu'il s'agit d'un des plus grands ensembles régionaux de peintures attribuées à des agriculteurs africains, en particulier des locuteurs du sotho du Nord, et relie cette documentation aux pratiques d'initiation ainsi qu'aux épisodes de résistance et de protestation pendant la période coloniale [2].
+
+L'expression « art des agriculteurs » désigne ici une catégorie historico-archéologique utilisée par des chercheurs, non une identité exclusive et immuable des peintres. Une même région peut avoir vu circuler des groupes de langues, d'économies et de traditions distinctes. Les noms actuels ne sont pas des étiquettes ethniques automatiquement transposables aux siècles antérieurs. L'analyse doit donc privilégier les relations — échanges, voisinages, réappropriations, transmissions — plutôt qu'une cartographie fixiste des cultures.
+
+## II. Constitution documentaire et hiérarchie des sources
+
+Le premier niveau est le **document matériel** : pigment sur roche, traits, superpositions, altérations, contexte géologique. Le deuxième est le **document de recherche primaire** : photographie, relevé, carnet de site, plan, liste de panneaux, description contrôlable. Les volumes de relevés répertoriés par Eastwood, Tlouamma et van Schalkwyk, conservés en partie comme rapports non publiés, demandent un traitement archivistique particulier : leur existence bibliographique est attestée, mais leur contenu intégral n'est pas ici collationné [3]. Le troisième niveau est le **document historique** : écrits coloniaux, récits de guerre et traditions orales situées. Le quatrième est l'**interprétation scientifique**, qui articule les précédents sans les remplacer.
+
+Une enquête sur l'art rupestre rencontre un obstacle classique : il est souvent plus facile de dater un dépôt d'habitat qu'une image, et plus facile d'identifier un animal que d'expliquer sa fonction sociale. Les analogies ethnographiques peuvent construire une hypothèse forte lorsqu'elles rencontrent des motifs précisément définis et des traditions documentées ; elles ne sauraient se substituer à une analyse de pigments ni produire une date à partir d'une ressemblance graphique. Cette limite doit être répétée au moment d'interpréter des images où l'on suppose reconnaître une initiation.
+
+Pinto a consacré une thèse de doctorat à une comparaison stylistique et ethnographique de **44 sites** du Makgabeng [4]. Son résultat invite à récuser la distribution mécanique des styles entre deux « peuples » distincts. Il privilégie des continuités et des interactions historiques entre traditions khoesan, plutôt qu'un modèle où chaque nouvelle forme apparaîtrait nécessairement avec une migration autonome. La thèse ne signifie pas que tous les tableaux auraient un auteur identique ; elle démontre surtout que le raisonnement « deux styles = deux ethnies » ne résiste pas sans qualification aux données comparées.
+
+## III. Décrire avant d'interpréter : naturalisme, traits de doigts, géométries
+
+La distinction d'images naturalistes à ligne fine et de formes géométriques peintes au doigt est utile pour **décrire** des techniques. Elle devient trompeuse lorsqu'on la transforme immédiatement en hiérarchie de qualité ou de spiritualité. Les figures d'animaux demandent une détermination morphologique attentive : une silhouette ne suffit pas à identifier une espèce, et une espèce identifiée ne donne pas automatiquement la clé d'un rituel. Eastwood, Bristow et van Schalkwyk ont montré l'intérêt de l'éthologie — en particulier dans des représentations de koudous — comme procédure de contrôle de l'identification avant toute lecture symbolique [5].
+
+Les images géométriques ne sont pas « sans signification » parce qu'elles ne représentent pas un corps humain ou animal reconnaissable. Elles peuvent représenter des objets portés, des surfaces textiles, des signes, des emplacements, des catégories corporelles ou des relations entre acteurs. Le contexte d'ensemble compte : groupement, répétition, échelle et superposition constituent des relations formelles qui conditionnent l'hypothèse. Un motif isolé ne signifie pas la même chose qu'un motif inséré dans une séquence d'images ou accompagné d'une performance mémorisée.
+
+Dans plusieurs traditions de l'Afrique australe, le terme de « peinture blanche tardive » a été employé pour décrire des figures tracées au doigt par des groupes de langue bantoue. Il s'agit d'un vocabulaire historiographique, non d'un jugement esthétique. Shiona Moodley rappelle que des lectures anciennes qualifiaient ce corpus de maladroit, faute de reconnaître les systèmes locaux de représentation [6]. L'histoire de l'archéologie fait elle-même partie du dossier : il faut écrire l'histoire d'une dévalorisation savante autant que celle des images dévalorisées.
+
+## IV. L'initiation comme transformation réglée du statut
+
+L'initiation n'est pas seulement un événement « religieux » au sens d'une croyance intérieure. Elle est un dispositif qui ordonne les corps, les savoirs, les classes d'âge et l'accès à des responsabilités. Dans l'analyse de Moodley, le motif *koma*, associé à l'initiation de garçons dans certains corpus sotho du Nord, fonctionne comme signe d'une transformation de l'identité masculine [6]. Son importance vient de ce qu'il apparaît aussi dans une phase picturale liée au conflit du XIXe siècle : l'image rend alors pensable un déplacement de sens entre formation initiatique et mémoire collective de la résistance.
+
+Il convient de ne pas traiter *koma* comme un pictogramme doté d'une traduction unique, valable en tout site. La valeur d'un signe dépend des usages qui lui sont attachés et des conditions dans lesquelles il est reconnu. Si un dessin transmet un savoir à des initiés, la transmission peut être partiellement verbale, corporelle, musicale et relationnelle. Un relevé photographique donne la forme ; il ne restitue ni la durée de l'enseignement, ni ses règles de divulgation, ni l'expérience des acteurs.
+
+À partir de l'étude du Makgabeng, on peut formuler une définition opératoire de la sacralisation : **rendre certains gestes, lieux et signes capables de modifier légitimement le statut d'une personne au sein d'un groupe**. Cette définition est une proposition analytique ; elle ne prétend pas traduire mot pour mot un concept sotho. Elle a l'avantage de rendre observables les conséquences sociales des rites sans inventer un panthéon local à partir d'un panneau peint.
+
+## V. Dikgaatwane tša Basadi et l'archive des filles
+
+La contribution de Catherine Namono et Edward Eastwood, publiée en 2005, a un effet historiographique décisif. Là où des catégories plus anciennes opposaient surtout art d'initiation des garçons et art de contact colonial, leur étude de **Dikgaatwane tša Basadi** identifie des peintures associées aux préoccupations des filles et des femmes [7]. Ce résultat modifie la question posée aux parois : il ne suffit plus de demander comment un motif exprime la masculinité ; il faut examiner les opérations initiatiques parallèles, les savoirs féminins et les conditions de leur invisibilisation dans les archives scientifiques.
+
+Les objets représentés ne doivent pas être ramenés à un code sexualisé universel. Les comparaisons avec des tabliers, vêtements, ornements ou formes corporelles sont pertinentes quand elles reposent sur la documentation iconographique et ethnographique. Le symbolisme n'est pas réductible à l'anatomie. Une figure peut traiter de travail, de fécondité, d'alliance, de respectabilité, d'apprentissage ou d'appartenance ; aucune de ces fonctions ne se déduit par simple association graphique.
+
+La mise en évidence d'un corpus relatif aux filles oblige également à critiquer la fabrique des collections : qui a relevé les parois ? Qui a été autorisé à commenter un rite ? Quel témoin a pu parler en présence de quel enquêteur ? Les silences documentaires ne prouvent pas l'absence de pratiques. Ils peuvent témoigner d'un accès inégal au savoir et de conditions coloniales de l'enquête. L'anthropologie du sacré ne peut être sérieuse sans analyse de ses propres médiations.
+
+## VI. Mélanges et frontières de genre : le correctif de 2023
+
+Dans son article de 2023, Namono réévalue l'association univoque de chaque motif à un sexe et à une seule catégorie de cérémonie. Elle observe que des images qui paraissent renvoyer à des initiations féminines et masculines peuvent être rapprochées ou superposées sur les mêmes panneaux ; elle propose de penser des **catégories de genre mêlées ou traversées pendant les transitions rituelles** [8]. Cela ne signifie pas que les sociétés concernées ignoraient les distinctions de genre. La thèse est plus précise : les frontières socialement reconnues peuvent être temporairement mises en jeu, réordonnées et communiquées par des symboles partagés.
+
+La conséquence méthodologique est importante. On ne doit pas labelliser automatiquement un abri comme « masculin » ou « féminin » à partir d'une seule image, puis attribuer toutes les autres au même usage. La superposition doit être examinée techniquement : deux peintures proches peuvent avoir été faites à des moments différents. Un panneau partagé n'est pas nécessairement le produit d'une réunion mixte simultanée. L'hypothèse de pluralité d'usages est plus prudente que celle d'une cérémonie reconstituée de toutes pièces.
+
+En termes de philosophie sociale, l'initiation produit un paradoxe : elle marque des identités tout en ouvrant un intervalle pendant lequel elles sont travaillées. Le rite ne représente pas simplement une structure préexistante ; il peut agir sur les personnes et sur la manière dont elles se conçoivent. Cette performativité peut être rapprochée, à titre comparatif et sans filiation historique, des analyses du passage par Arnold van Gennep (*Les Rites de passage*, 1909) et du liminaire chez Victor Turner (*The Ritual Process*, 1969). Les textes de Namono demeurent cependant prioritaires pour le Makgabeng : une catégorie théorique générale ne doit jamais effacer la description locale.
+
+## VII. La guerre de 1894 : des signes initiatiques à la mémoire politique
+
+Le conflit appelé guerre des Boers et des Hananwa en **1894**, associé à la figure historique du chef Maleboho, appartient à une autre couche du dossier. Moodley étudie la possibilité d'une continuité du signe *koma* entre les peintures initiatiques et les compositions qui affrontent la violence et les transformations coloniales [6]. La guerre ne constitue pas une « origine » intemporelle du sacré : elle reconfigure des pratiques visuelles préexistantes et leurs emplois pour interpréter l'humiliation, l'épreuve et la résistance.
+
+L'opposition commode entre religion et politique devient ici insuffisante. Un langage d'initiation peut fournir des ressources pour raconter la guerre ; inversement, la mémoire de la guerre peut renforcer la valeur publique de signes utilisés dans la formation des personnes. Nous ne disposons pas, à partir des seules synthèses consultées, d'un calendrier exact d'exécution pour chaque panneau. La chronologie du conflit est attestée ; la datation de toutes ses images, panneau par panneau, demeure une question distincte.
+
+L'analyse de ces peintures de contact doit intégrer la dissymétrie coloniale : déplacement, surveillance, coercition et inégalités d'accès à l'écriture officielle. Une peinture rupestre peut être une archive politique dont le support et le langage ne sont pas ceux de l'administration coloniale. Pour autant, il faut éviter de la présenter comme une transcription immédiate de la voix « du peuple » : des artistes, des groupes et des mémoires ont pu rivaliser sur son interprétation.
+
+## VIII. Le « chameau blanc » : humour, ironie et attribution historique
+
+L'article de Smith et van Schalkwyk, *The White Camel of the Makgabeng* (2002), repose sur un cas particulièrement précieux [9]. Une représentation inattendue de chameau permet aux auteurs de croiser analyse du motif, contexte d'image et documentation archivistique. Leur travail attribue la peinture à un artiste sotho du Nord actif durant la première décennie du XXe siècle et la situe dans un ensemble moquant les nouveaux arrivants blancs. Le lien entre image et sens est donc argumenté historiquement ; ce n'est pas l'illustration d'un grand mythe animal présumé universel.
+
+L'ironie elle-même doit entrer dans l'histoire des puissances du signe. Un objet exotique peint par un artiste local ne marque pas nécessairement fascination pour la nouveauté ; il peut inverser le regard dominant et réduire symboliquement l'autorité de celui qui prétend classer les autres. L'humour devient un mode de travail de la mémoire collective. Mais rien ne permet d'affirmer que toute plaisanterie politique soit un rite : l'article est précieux justement parce qu'il invite à sortir du réflexe qui appelle « religieux » tout art ancien.
+
+Une comparaison avec les formes grecques de la dérision — la satire, la comédie ancienne, les inversions festives — peut éclairer le lien entre rire et pouvoir. Elle ne doit pas transférer la scène athénienne classique au Limpopo de 1900. Les contextes de représentation, les institutions et les relations de domination diffèrent profondément. La comparaison porte sur une question générale : comment une image ou une performance peut-elle rendre le pouvoir représentable, contestable et moins redoutable ?
+
+## IX. Costumes coloniaux, silhouettes et appropriation
+
+Catherine Namono et Johan van Schalkwyk ont étudié l'appropriation du vêtement colonial dans les peintures du Makgabeng, dans un chapitre publié en 2020 au sein du volume dirigé par Wingfield, Giblin et King [10]. On ne peut lire ces silhouettes comme de simples indices de « modernisation ». Un vêtement dessiné peut servir à désigner une personne, un rapport de force, une distance, une menace ou un jeu d'inversion. La technique picturale ancienne accueille ainsi des objets historiques nouveaux.
+
+L'intérêt anthropologique est de séparer **objet représenté** et **position énonciative de l'image**. Une figure portant un habit occidental n'est pas nécessairement la célébration de l'Occident. L'appropriation graphique peut retourner l'objet contre ceux qui en revendiquent l'autorité. La chaîne d'indices devrait être explicite : forme reconnaissable, association à d'autres figures, datation relative, comparaison avec des archives, prudence sur l'intention.
+
+Ce dossier suggère une histoire du sacré qui ne s'arrête pas à l'arrivée des Européens. Les systèmes de signes continuent à travailler l'identité, les rapports de genre et la souveraineté locale en situation coloniale. Il serait historiquement faux de réserver le « sacré authentique » à un passé précolonial immobile ; les traditions de sens peuvent persister en se modifiant. Il serait tout aussi faux de qualifier de rituel tout commentaire pictural sur la colonisation.
+
+## X. Surfaces, corps et phénoménologie
+
+Pinto a recours à une analyse attentive des catégories de motif et des expériences corporelles [4]. Cette perspective permet de demander comment une paroi fonctionne : est-elle une scène regardée à distance, un passage, un lieu où l'on apprend, une surface que l'on touche, un signe que l'on commente ? Toutes ces possibilités ne sont pas attestées pour chaque peinture. Elles constituent un programme d'enquête, dont les réponses dépendraient de relevés précis, de récits situés et, lorsque c'est approprié, d'observations ethnographiques conduites avec le consentement des communautés.
+
+Le corps apparaît à trois niveaux : **corps dessiné**, **corps du peintre** qui atteint la surface et y applique des pigments, **corps du spectateur ou de l'initié** qui se déplace devant les images. Les théories de l'embodiment sont utiles pour empêcher que l'analyse ne réduise le panneau à une langue de symboles abstraits. Elles risquent toutefois de devenir invérifiables si l'on invente des gestes sans source. La proximité entre le mur et une danse n'est pas en elle-même un fait archéologique : il faut un indice indépendant.
+
+Le rapport entre pigment, peau et costume est particulièrement riche. La peinture au doigt rend visible une gestuelle de production différente de celle d'une ligne fine ; elle ne prouve pas à elle seule le sexe, l'âge ou le statut du peintre. L'analogie entre marquage du mur et marquage du corps est philosophiquement suggestive mais doit rester au rang d'hypothèse, sauf lorsqu'une source locale documente cette articulation.
+
+## XI. Du sacré vécu au patrimoine inventorié
+
+Le **Makgabeng Community Rock Art Project**, présenté par l'Université du Witwatersrand, associe recherche, participation locale, transmission des récits, chants, danses et poèmes, et attention aux anciens détenteurs de mémoire [2]. Cette orientation rappelle que les inscriptions rupestres ne sont pas seulement des informations sur des populations éteintes : elles peuvent être des biens communs dont les communautés voisines portent des histoires et des revendications présentes. Le dispositif patrimonial a lui-même une dimension politique, car il détermine qui contrôle l'accès, qui parle comme expert et qui bénéficie des retombées.
+
+Il faut distinguer documentation numérique et dépossession numérique. Numériser un récit ne confère pas automatiquement le droit de le rendre public sans restriction. Les usages rituels sensibles, les connaissances réservées et l'autorité des détenteurs locaux ne se résument pas à une licence photographique. Un traitement universitaire rigoureux doit faire place au consentement, aux règles d'accès, à la provenance et à la reconnaissance des co-auteurs ou collaborateurs des enquêtes de terrain.
+
+La présence des noms d'Eastwood et Tlouamma côte à côte dans les rapports de prospection [1, 3] permet aussi d'interroger l'invisibilisation fréquente des collaborateurs locaux dans les généalogies savantes. La question n'est pas seulement morale : leur connaissance du territoire influence ce qui a pu être retrouvé et décrit. Une histoire critique des relevés ne peut dissocier découverte scientifique et géographie sociale de la recherche.
+
+## XII. Confronter le Makgabeng aux autres corpus africains
+
+Au **Maloti-Drakensberg**, les peintures san d'élands et certaines représentations humaines ont été étudiées en lien avec les théories de la transformation et de l'expérience rituelle. Le dossier MYTHOS consacré à cet ensemble est conservé au chapitre historique 804. Une différence est essentielle : la force d'une analogie san ne permet pas d'attribuer mécaniquement des signes d'initiation sotho du Nord à des états de transe san. De même, le Cederberg, étudié au chapitre 807, offre des parallèles utiles pour la circulation de motifs et la critique des reconstructions à partir de témoignages ethnographiques tardifs, mais il ne livre pas le dictionnaire universel de toutes les peintures d'Afrique australe.
+
+Le corpus de **Kondoa** (MYTHOS, chapitre historique 781) permet une autre comparaison : peintures, lieux abrités, usages territoriaux, cérémonies de pluie et réinterprétations successives. La convergence réside moins dans un motif identique que dans la pluralité temporelle des usages d'un même abri. Une géographie de la sacralité doit expliquer comment un lieu conserve une autorité alors que changent ses usagers, ses images et ses rapports de pouvoir.
+
+Dans l'Afrique centrale et orientale, les motifs géométriques ont parfois été attribués à des auteurs supposés « Twa » ou à des catégories vagues de « Pygmées ». Ces termes demandent une critique historique précise : ils regroupent des populations distinctes et peuvent masquer les relations de voisinage, de langue et d'économie. Les recherches de Namono en Ouganda rappellent qu'une parenté de style n'autorise ni identité ethnique sûre ni croyance partagée reconstruite à volonté.
+
+## XIII. Comparer sans fabriquer des origines communes : Grèce et Inde
+
+Le comparatisme grec propose un bon exercice de contrôle. Dans **Aristophane, *Lysistrata*, vers 641–647**, le chœur évoque des étapes institutionnalisées de la participation féminine au culte athénien : service rituel, rôle lié à Artémis à Brauron et fonction de canéphore. Le texte est comique, daté, lié à la cité d'Athènes et à son imaginaire religieux ; il ne fournit aucun témoignage sur le Makgabeng. Sa valeur comparative porte sur la relation entre âge, apprentissage, rite et visibilité des filles dans un ordre social.
+
+Dans les traditions brahmaniques indiennes, les discussions autour de l'*upanayana* et des marqueurs de l'élève, telles qu'elles sont réglées dans divers *Dharmasūtra*, offrent un autre problème comparatif : une initiation rend publiquement reconnaissable l'accès à une compétence ou à un statut. Il faut préserver les différences : corpus textuel normatif d'une part, panneaux peints et traditions ethnographiques de l'autre ; régimes de genre, de transmission et de hiérarchie non superposables. Ce rapprochement n'implique aucune origine indo-africaine commune du rite.
+
+Ces parallèles ont une fonction strictement heuristique : poser des questions vérifiables. Qui accomplit le rite ? Qui le reconnaît ? Quel objet porte la mémoire de la transformation ? Existe-t-il une inscription, une image, un costume, un chant ? À chaque étape, le Makgabeng réclame ses propres preuves.
+
+## XIV. Théories du sacré : utilité et limites de huit lectures
+
+**Émile Durkheim**, dans *Les Formes élémentaires de la vie religieuse* (1912), attire l'attention sur la formation collective de catégories et de frontières. Pour le Makgabeng, l'intérêt est de demander comment les signes d'initiation font reconnaître un statut. La faiblesse possible du modèle serait de supposer une seule société unifiée alors que l'archive indique conflits, contacts et réemplois.
+
+**Mircea Eliade**, dans *Le Sacré et le profane* (1957), met en avant la différence entre un espace ordinaire et un espace qualifié. La grille invite à observer les accès aux abris, mais elle ne permet pas de proclamer que tout rocher peint serait une hiérophanie. Les usages attestés doivent précéder le vocabulaire philosophique.
+
+**Jean-Pierre Vernant** a montré, pour la Grèce, combien pratiques religieuses et formes politiques sont situées historiquement. Son exigence contextualiste est ici plus féconde qu'une équivalence terme à terme entre une institution athénienne et une institution sotho. **Marcel Detienne**, dans une pratique comparatiste soucieuse des opérations de classement, aide à poser des questions transférables plutôt qu'à ériger les ressemblances en preuves.
+
+**Georges Dumézil** ne fournit pas de clef pour les figures du Makgabeng. La tripartition qu'il a étudiée dans des corpus indo-européens ne doit pas être importée dans l'Afrique australe à partir d'une ressemblance de scènes. Une conclusion négative est scientifiquement productive : certaines analogies sont invalides ou sans portée.
+
+**Hegel**, dans ses *Leçons sur la philosophie de la religion*, invite à réfléchir aux médiations par lesquelles une collectivité donne forme au sens. Mais ses typologies historiques des religions contiennent des hiérarchies eurocentriques qui ne peuvent servir à classer les auteurs des peintures. **Nietzsche**, dans *La Naissance de la tragédie* (1872), ouvre une réflexion sur les forces du corps et de la performance ; il ne décrit pas des rites sotho et son opposition apollinien/dionysiaque ne doit pas être plaquée sur l'iconographie.
+
+**René Girard**, dans *La Violence et le sacré* (1972), peut aider à interroger les rapports entre crise collective et médiations symboliques. Son modèle sacrificiel ne démontre ni l'existence d'un bouc émissaire ni celle d'un sacrifice dans les images de la guerre des Hananwa. La violence historique attestée et sa réélaboration picturale n'autorisent pas une étiologie sacrificielle universelle.
+
+## XV. Faits, controverses, hypothèses : tableau de contrôle
+
+| Proposition | Statut | Fondement ou contrôle requis |
+|---|---|---|
+| Le Makgabeng réunit de nombreux sites peints étudiés depuis 2001 | Attesté | Bilans de prospection Eastwood–Tlouamma [1] |
+| Des peintures sont attribuées à des locuteurs du sotho du Nord et à l'initiation | Fortement étayé | Wits [2], Namono–Eastwood [7], Moodley [6] |
+| Des compositions représentent des expériences de la période coloniale | Attesté/interprété historiquement | Smith–van Schalkwyk [9], Namono–van Schalkwyk [10] |
+| Le motif *koma* traverse initiation et guerre | Interprétation argumentée | Moodley [6] |
+| Un motif correspond toujours au même genre et au même rite | Non démontré | Critique Namono [8] |
+| Les deux grandes familles stylistiques appartiennent nécessairement à deux ethnies distinctes | Contesté | Pinto, comparaison de 44 sites [4] |
+| Chaque peinture a une datation absolue sûre | Non établi | Datations à contrôler panneau par panneau |
+| Toute image géométrique est religieuse | Hypothèse excessive | Absence de preuve suffisante |
+| Les peintures constituent la survivance intacte d'une religion précoloniale | Non démontré | Changement historique et réinterprétations documentées |
+| Un même abri a pu servir à plusieurs traditions et à différentes époques | Hypothèse plausible, variable selon le site | Superpositions, prospection, ethnographie et datation à confronter |
+
+## XVI. Programme de recherche : ce qui manque encore
+
+Une étude plus complète supposerait un inventaire géoréférencé accessible sous des conditions compatibles avec les droits des communautés ; des photographies étalonnées ; une description technique des superpositions ; des analyses non destructives de pigments ; un protocole explicite de datation ; la consultation critique des rapports de relevés et des archives de la guerre ; l'étude comparée des récits oraux avec indication des conditions d'enquête ; et une discussion avec des détenteurs de patrimoine sur les limites de publication. Il faudra également distinguer les modifications récentes, le graffiti, les pertes de pigments et les nettoyages éventuels afin de ne pas construire une chronologie à partir d'altérations.
+
+Le chantier scientifique peut être enrichi par les archives locales de l'enseignement initiatique, lorsque leurs détenteurs consentent à la discussion. Les textes religieux grecs, indiens ou iraniens ne sauraient suppléer à ce qui manque. Le refus de combler une lacune par invention n'est pas une faiblesse rédactionnelle ; il constitue une forme positive de méthode.
+
+## Conclusion
+
+Le Makgabeng montre que le sacré n'est ni une matière invisible que l'on pourrait extraire des pierres, ni une propriété inhérente à tout dessin ancien. Les images deviennent des médiations lorsqu'elles interviennent dans des opérations documentées de transmission, de reconnaissance, de mémoire et de contestation. Les initiations, loin d'être de simples survivances figées, mobilisent des motifs aux significations situées ; les conflits coloniaux peuvent déplacer ces ressources vers la dérision et la résistance ; les usages contemporains transforment l'abri en lieu de négociation patrimoniale.
+
+L'apport majeur de ce dossier est méthodologique : **la lecture religieuse doit rester une conclusion étayée, non le point de départ d'une histoire des images**. Les données du Makgabeng invitent à écrire des histoires plurielles du sacré, capables de décrire des régimes d'expérience sans les réduire à un schéma universel.
+
+## Sources primaires, archives et rapports de terrain identifiés
+
+1. **Eastwood, Edward B., et Ngoako J. Tlouamma**, « The Makgabeng Plateau Rock Art Survey — Five Years On », *The Digging Stick*, 23(1), avril 2006, p. 9 et suiv. — Bilan de prospection, plus de 670 sites recensés à cette phase ; fichier hébergé par la South African Archaeological Society : https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/28/vol_23_no_1.pdf.
+2. **Rock Art Research Institute, University of the Witwatersrand**, « Makgabeng Community Rock Art Project », notice de programme dirigé par Catherine Namono : https://www.wits.ac.za/rockart/research/makgabeng-community-rock-art-project/.
+3. **Eastwood, Edward B., et collaborateurs**, série *The Rock Art of the Makgabeng Plateau*, rapports de prospection vol. 1–10 (2001–2006) ; titres et statuts de rapports non publiés relevés dans la bibliographie de Namono (2023), https://njas.fi/njas/article/view/1088. **Précaution :** ces volumes ne sont pas cités ici comme intégralement lus.
+4. **Pinto, Lourenço Casimiro**, *Understanding Variation: A Stylistic Ethnographic Analysis of Rock Art from the Makgabeng Plateau, Limpopo Province, South Africa*, thèse de doctorat, University of the Witwatersrand, 2019, hdl:10539/28803 : https://wiredspace.wits.ac.za/items/d19ec612-1c06-44b5-a15c-8f4348630c5f.
+
+## Bibliographie scientifique vérifiée
+
+5. **Eastwood, Edward B., Colin Bristow et J. A. van Schalkwyk**, « Animal Behaviour and Interpretation in San Rock Art: A Study in the Makgabeng Plateau and Limpopo-Shashi Confluence Area », *Southern African Field Archaeology*, 8, 1999, p. 60–75 : https://journals.uj.ac.za/pdf/safa/1999_2%20UJ%20FIELD%20Archive/08_60-75%20Eastwood%201999%20Animal%20behaviour%20in%20San%20rock%20art%2C%20Makgabeng%2C%20Limpopo-Shashe%20Confluence.pdf.
+6. **Moodley, Shiona**, « Soldiers of the Koma », *Indago*, 33, 2017, p. 13–21, National Museum Publications : https://nationalmuseumpublications.co.za/soldiers-of-the-koma/.
+7. **Namono, Catherine, et Edward B. Eastwood**, « Art, Authorship and Female Issues in a Northern Sotho Rock Painting Site », *Goodwin Series*, 9, 2005, p. 77–85, DOI : https://doi.org/10.2307/3858036.
+8. **Namono, Catherine**, « Shared Symbols, Different Symbolism? Blending Gender Categories in Northern Sotho Initiation Rock Art, Makgabeng, South Africa », *Nordic Journal of African Studies*, 32(3), 2023, p. 248–266, DOI : https://doi.org/10.53228/njas.v32i3.1088.
+9. **Smith, Benjamin W., et Johan A. van Schalkwyk**, « The White Camel of the Makgabeng », *The Journal of African History*, 43(2), 2002, p. 235–254 : https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/white-camel-of-the-makgabeng/0D479C423304AD583D2291DE100E4662.
+10. **Namono, Catherine, et Johan van Schalkwyk**, « Appropriating Colonial Dress in the Rock Art of the Makgabeng Plateau, South Africa », dans Chris Wingfield, John Giblin et Rachel King (dir.), *The Pasts and Presence of Art in South Africa: Technologies, Ontologies and Agents*, McDonald Institute, 2020, chap. 5, DOI : https://doi.org/10.17863/CAM.59960.
+11. **Van Gennep, Arnold**, *Les Rites de passage*, Paris, Émile Nourry, 1909 ; **Turner, Victor**, *The Ritual Process: Structure and Anti-Structure*, Chicago, Aldine, 1969 ; ouvrages de comparaison théorique, non sources primaires du Makgabeng.
+12. **Durkheim, Émile**, *Les Formes élémentaires de la vie religieuse*, 1912 ; **Eliade, Mircea**, *Le Sacré et le profane*, 1957 ; **Girard, René**, *La Violence et le sacré*, 1972 ; **Dumézil, Georges**, *Mythe et épopée*, 1968–1973 ; **Detienne, Marcel**, *Comparer l'incomparable*, 2000 ; **Vernant, Jean-Pierre**, *Mythe et pensée chez les Grecs*, 1965 ; **Nietzsche, Friedrich**, *Die Geburt der Tragödie*, 1872 ; **Hegel, G. W. F.**, *Vorlesungen über die Philosophie der Religion*, cours édités après sa mort. Textes critiques : leur mobilisation ne vaut pas preuve archéologique locale.
+13. **Aristophane**, *Lysistrata*, v. 641–647, source grecque primaire utilisée exclusivement comme comparaison contrôlée d'institutions féminines et civiques.
+
+**Note éditoriale.** Le numéro de cette étude doit être attribué exclusivement par la file transactionnelle MYTHOS ; aucune annonce d'un numéro futur n'a valeur de réservation. Les chapitres historiques 781, 804 et 807, cités ci-dessus comme parallèles, conservent leurs numéros attestés.

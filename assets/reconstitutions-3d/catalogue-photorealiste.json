@@ -2,7 +2,7 @@
   "generated_at": "2026-11-07",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 95,
+  "count": 96,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -3128,6 +3128,53 @@
         "Pausanias, Description de la Grèce, livre VII (Achaïe), évoque la cité et ses sanctuaires, mais ne fournit pas de description architecturale exploitable du théâtre dans cet état."
       ],
       "methodology": "Création originale photoréaliste issue d’une synthèse critique des sources archéologiques : datation conventionnelle, distinction du réel documenté et des compléments interprétatifs, sans prétention à la précision métrique ni validation scientifique du rendu."
+    },
+    {
+      "id": "MEG-THR-001",
+      "slug": "megalopolis-theatre-thersilion-vers-330-av-jc",
+      "title": "Mégalopolis (Arcadie) — théâtre monumental et portique du Thersilion, vers 330 av. J.-C.",
+      "period": "Évocation vers 330 av. J.-C., deuxième moitié du IVe siècle av. J.-C.; théâtre initial vers 370–368 av. J.-C.; la séquence des gradins, proédries et aménagements demeure complexe.",
+      "caption": "Restitution photoréaliste interprétative de Mégalopolis : vaste koilon de pierre, orchestra et portique du Thersilion au fond, sans proskenion romain; scène non métrique.",
+      "commentary": "Mégalopolis, dans la plaine d'Arcadie, fut fondée après la victoire thébaine de Leuctres (371 av. J.-C.) comme centre fédéral et urbain d'un nouvel ordre politique arcadien. Le théâtre monumental est situé au sud de la ville antique, sur la rive gauche de l'Élisson selon le dossier présenté dans la liste indicative des théâtres grecs de l'UNESCO. Sa construction initiale est généralement placée vers 370–368 av. J.-C., peu après la fondation de la cité. Le koilon (cavea), développé sur une pente naturelle et progressivement doté de gradins en pierre, donne sur une orchestra de très grandes dimensions, d'environ 30 mètres de diamètre. La capacité estimée dans la littérature patrimoniale est de l'ordre de 17 000 à 21 000 spectateurs, mais il ne s'agit pas d'un nombre de places démontrable individuellement à partir de cette image; Pausanias, écrivant plusieurs siècles plus tard, qualifiait le théâtre de Mégalopolis de plus grand de Grèce (VIII, 32, 1).\n\nLa singularité du complexe réside dans l'articulation directe entre le théâtre et le Thersilion, vaste salle d'assemblée de la Ligue arcadienne au sud de l'orchestra. Le portique à colonnes du Thersilion formait un fond architectural côté scène. Le théâtre du IVe siècle ne possédait pas le proskenion fixe à façade monumentale des transformations ultérieures : une scène en bois mobile pouvait être installée pour les représentations, puis rangée dans une skénothèkè. L'administration grecque du patrimoine souligne explicitement l'absence de scène permanente à cette période, en raison de la circulation entre l'orchestra et le Thersilion. La restitution choisit donc une orchestra ouverte, sans scène romaine ni ornement scénique anachronique.\n\nLa vue adopte un point de vue surélevé depuis les gradins vers le sud. Elle rassemble un koilon semi-circulaire à sièges de pierre, un espace d'orchestra en terre compactée et une façade de portique donnant sur un grand bâtiment couvert évoquant le Thersilion. L'alignement général du portique en bordure de l'orchestra et la coexistence de l'édifice de réunions et du théâtre sont fondés sur les recherches; les proportions précises de la façade, son profil supérieur, le plan exact de la toiture et le rapport dimensionnel entre bâtiment, colonnade et orchestra ne sont pas issus d'un levé géométrique. La salle postérieure du Thersilion est montrée comme un volume de pierre à toiture de tuiles : il s'agit d'une proposition iconographique, et non d'une élévation archéologiquement reconstituée à l'identique. Les rangées de sièges, les escaliers, les couloirs horizontaux, l'accès aux parodoi et la disposition des gradins sont schématiques à l'échelle du panorama : les nombres de rangs et de sections ne doivent pas être déduits des pixels.\n\nLa présence de visiteurs, leurs vêtements, la nature des sols, la mise en œuvre de la maçonnerie, la couleur des tuiles, les arbres et l'horizon montagneux traduisent une ambiance possible de l'Arcadie de la seconde moitié du IVe siècle, mais ne constituent aucune preuve de la végétation, de l'habitat ou de l'usage exact du monument à la date choisie. L'image peut sous-représenter l'étendue effective du koilon et simplifier le volume du Thersilion. Il faut distinguer le théâtre tel qu'il pouvait fonctionner vers 330 av. J.-C. du site visible aujourd'hui, témoin de multiples remaniements et des fouilles modernes. L'illustration ne peut servir de relevé à l'échelle, de source d'archéométrie ou de démonstration de l'architecture intérieure du Thersilion.\n\nMégalopolis, ville nouvelle et siège d'une grande fédération, offre ainsi un cas remarquable où la monumentalité théâtrale accompagne le développement d'un espace politique. Les assemblées et les représentations sont des usages historiquement documentés pour le complexe, mais la répartition précise des spectateurs et des délégations dans l'édifice, comme la chronologie d'achèvement de chacun des éléments visibles, demeure ouverte à la discussion. Aucune institution citée n'a été associée à la conception de ce visuel ni n'en certifie les détails.",
+      "certainty": "Élevé : Existence du théâtre de Mégalopolis et son insertion dans le contexte de la cité arcadienne fondée au IVe siècle av. J.-C. ; orchestra de l'ordre de 30 mètres ; proximité immédiate du Thersilion ; utilisation de son portique comme fond de scène ; absence de scène fixe dans la phase ancienne ; présence de gradins en pierre à la fin du IVe siècle. Moyen : Restitution générale du koilon, valeur estimée de capacité (17 000–21 000, selon auteurs), forme de la colonnade devant le Thersilion, état complet simultané du théâtre et de la salle vers 330 av. J.-C. ; traitement de l'orchestra et des accès. Faible : Hauteurs et proportions exactes de la salle du Thersilion, modules de colonnes individualisés, couvrement et couleurs des tuiles, rangées visibles et détails de la proédrie, pavements, costumes, voisinage urbain, végétation, relief à l'arrière-plan, angle de caméra et éclairage.",
+      "source_url": "https://whc.unesco.org/en/tentativelists/5869/",
+      "secondary_sources": [
+        "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=5056",
+        "https://diazoma.gr/en/theaters/14561/",
+        "https://megalopoli.gov.gr/arxaio-theatro-megalopolis/"
+      ],
+      "src": "/assets/reconstitutions-3d/megalopolis-theatre-thersilion-vers-330-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/megalopolis-theatre-thersilion-vers-330-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution visuelle numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Génération originale pour MYTHOS, livrée avec contrôle SHA-256; aucun texte ou menu incrusté.",
+      "sha256": "cd75ef1b79712c1ecf4f0a88a016e99add0ea716c1a7668362e15a9bb7643a99",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/megalopolis-theatre-thersilion-vers-330-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "UNESCO, Centre du patrimoine mondial — Liste indicative « Ancient Greek Theatres », section 4 : Theatre of Megalopolis (liste indicative et non inscription au patrimoine mondial)",
+          "url": "https://whc.unesco.org/en/tentativelists/5869/"
+        },
+        {
+          "label": "Ministère hellénique de la Culture / Éphorie des Antiquités d'Arcadie — Conservation et valorisation du théâtre antique de Mégalopolis (programme 2021–2024)",
+          "url": "https://www.culture.gov.gr/el/service/SitePages/view.aspx?iID=5056"
+        },
+        {
+          "label": "Association DIAZOMA — The Theater of Megalopolis",
+          "url": "https://diazoma.gr/en/theaters/14561/"
+        },
+        {
+          "label": "Municipalité de Mégalopolis — Ancien théâtre, histoire et fouilles",
+          "url": "https://megalopoli.gov.gr/arxaio-theatro-megalopolis/"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce, VIII, 32, 1 : témoignage du IIe siècle de notre ère sur la grandeur du théâtre ; ne doit pas être traité comme une description architecturale du IVe siècle av. J.-C."
+      ],
+      "methodology": "Visuel numérique original généré avec une assistance par IA. Restitution de synthèse non métrique, non photogrammétrique et non validée par une institution scientifique. Aucun élément architectural inventé ne doit être exploité comme donnée d'archéologie du bâti. Absence de menus, titres, étiquettes, filigranes et schémas 2,5D dans les pixels.",
+      "publication_status": "fichier_GitHub_en_attente_deploiement_public_https"
     },
     {
       "id": "PAE-ATH-001",
