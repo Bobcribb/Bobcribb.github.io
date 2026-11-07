@@ -159,3 +159,14 @@ Le *tākultu* laisse voir, plus fortement que la seule administration de l’Ean
 8. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Detienne et Jean-Pierre Vernant** (dir.), *La Cuisine du sacrifice en pays grec* ; **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse* ; **G. W. F. Hegel**, *Principes de la philosophie du droit* ; **Friedrich Nietzsche**, *La Généalogie de la morale* ; **René Girard**, *La Violence et le Sacré* ; **Mircea Eliade**, *Le Sacré et le profane*. Sources conceptuelles, et non éditions des textes néo-assyriens.
 
 *Délimitation : aucune collation originale du cunéiforme, reconstitution de cuisine antique ou nouvelle analyse archéométrique n’est revendiquée. Les conclusions descriptives sont indexées sur les éditions et les sources explicitement nommées.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Édition cunéiforme.** *State Archives of Assyria Online* (**SAAo/ORACC**), [SAA **20**, chapitre 8](https://oracc.museum.upenn.edu/saao/saa20/corpus), **textes 037–048**, intitulé éditorial « Temple Service and Takultu Manuals ». Exemple contrôlable : [SAA **20 039**, CDLI **P338689**, **STT 374**](https://oracc.museum.upenn.edu/saao/saa20/P338689), tablette de **Sultantepe (Ḫuzirina)**, datée à titre éditorial **« Esarhaddon(?) »** ; obv. **1'–9'**, suite lacunaire de noms divins incluant Ištar d'Égypte et Ḫumbaba. **La datation incertaine et les lacunes sont à conserver**, sans inventer les mots absents.
+
+**Nature de la preuve.** Des instructions et énumérations cultuelles décrivent les programmes offerts aux dieux ; elles ne sont ni des reçus matériels démontrant chaque livraison de viande, ni une preuve que tous les sanctuaires assyriens suivaient un menu identique. Les rituels de l'Assyrie et les comptes d'offrandes de l'Eanna d'Uruk sont des genres documentaires distincts.
+
+**Historiographie française.** Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux*, Gallimard **1987**, [BnF cb37506214w](https://catalogue.bnf.fr/ark:/12148/cb37506214w) et [bibliographie EPHE](https://prosopo.ephe.psl.eu/jean-bott%C3%A9ro) : cadre de l'histoire religieuse mésopotamienne, **édition des tablettes SAA 20 non imputable à Bottéro** ; ouvrage non intégralement collationné.

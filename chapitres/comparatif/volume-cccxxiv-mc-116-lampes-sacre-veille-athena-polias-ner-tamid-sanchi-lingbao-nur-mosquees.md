@@ -863,3 +863,14 @@ Une lampe peut éclairer une salle, rendre possible une veille nocturne, être d
 [N] Ne modifier ni les autres séries automatiques MYTHOS, ni leurs horaires, ni les archives, ni les registres d'attributions antérieurs, ni les images photoréalistes, ni la charte graphique. Les illustrations suggérées ici sont des **notices de programme**, non des fichiers publiés ni des images auxquelles serait attribuée une autorisation implicite de reproduction.
 
 **Fin de la monographie intégrale MC-116.**
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Texte grec contrôlé.** Pausanias, *Description de la Grèce* **I, 26, 7** : lampe à huile associée au sanctuaire d'**Athéna Polias**, attribuée à l'artisan **Kallimachos**, remplie à l'année et allumée jour et nuit ; [traduction commentée Harvard CHS](https://www-current.chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/). **Témoignage du IIe siècle apr. J.-C.**, pas une description contemporaine de la construction de l'Érechthéion. L'emplacement exact de la lampe reste **discuté** ([étude d'architecture sur une niche possible, DOI 10.2307/504739](https://www.journals.uchicago.edu/doi/10.2307/504739), résumé consulté).
+
+**Objet comparatif réel.** Metropolitan Museum of Art, [*Mosque Lamp*](https://www.metmuseum.org/art/collection/search/444718), inventaire **91.1.1539**, verre soufflé émaillé et doré, **XIVe siècle**, provenant **probablement d'Égypte (Le Caire) ou de Syrie** ; inscription dédicatoire sans nom du commanditaire. L'étiquette muséale n'établit ni un emplacement certain ni une continuité avec la lampe d'Athéna ou les prescriptions bibliques.
+
+**Recherche française pertinente.** Philippe Bruneau, *Les lampes*, *Exploration archéologique de Délos* **XXVI (1965)**, corpus de lampes grecques, [compte rendu de Pierre Lévêque, *REG* 84 (1971), p. 558](https://www.persee.fr/doc/reg_0035-2039_1971_num_84_401_1193_t2_0558_0000_1) : **compte rendu consulté, monographie non intégralement collationnée**. Il éclaire la typologie matérielle délienne, **pas l'origine génétique des lampes religieuses d'autres civilisations**.

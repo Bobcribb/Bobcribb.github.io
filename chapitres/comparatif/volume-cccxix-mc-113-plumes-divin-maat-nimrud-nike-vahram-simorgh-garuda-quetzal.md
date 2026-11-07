@@ -451,3 +451,14 @@ Un tableau philologique peut réunir **mꜣꜥt**, **νίκη**, **πτερόν*
 
 [I] La plume dans ce corpus n'est pas une « substance sacrée » universelle : elle peut signaler la justesse d'un mort, protéger un palais, identifier une victoire, qualifier l'âme philosophique, appeler un secours mythique, manifester la grandeur d'un oiseau, figurer un roi ou former une parure fragile. [P] Le résultat central est que les cultures transforment diversement une propriété naturelle de l'oiseau en formes de reconnaissance, de mémoire ou d'action. [N] Ce rapprochement ne démontre aucun emprunt transcontinental, et n'autorise aucune publication publique revendiquée avant contrôle HTTPS. Les autres séries MYTHOS et leurs planifications doivent être conservées sans modification.
 
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 13
+
+**Témoin avestique exact.** *Vərəθraγna Yašt* / *Yašt* **14, 19–21** : forme d'**oiseau de proie** parmi les dix manifestations du dieu ; *Yašt* **14, 34–46** : efficacité protectrice d'une **plume ou d'un os** d'oiseau, dans la tradition textuelle, non efficacité matériellement vérifiée. [*Encyclopaedia Iranica*, « Avesta », présentation du Yašt 14](https://www.iranicaonline.org/articles/avesta-holy-book/) ; [« Bahrām (Vərəθraγna) », dossier philologique](https://www.iranicaonline.org/articles/bahram-deity/bahram-v%C9%99r%C9%99%CE%B8ra%CE%B3na-i-in-old-and-middle-iranian-texts/). **Édition ancienne d'accès :** K. F. Geldner, *Avesta*, **1896**, et traduction J. Darmesteter **1898**, transmise [dans l'édition documentaire](https://avesta.org/ka/yt14_bi.htm) ; la détermination zoologique précise du terme *vārəγna-* peut varier selon l'éditeur.
+
+**Contexte français.** Jean Kellens, études de la liturgie et de la philologie avestiques au [Collège de France](https://www.college-de-france.fr/fr/agenda/cours/vingt-ans-etudes-avestiques-et-mazdeennes/consequences-de-la-nouvelle-representation-ii) : cadre savant identifié, **pas de citation de passage non collationné**. Pierre Briant, *Histoire de l'Empire perse* (**1996**) : contexte politique achéménide, **ne prouve pas la pratique exacte du Yašt 14 à la cour perse**.
+
+**Limites comparatives.** Ne pas assimiler *Vərəθraγna*, *Sīmorḡ*, Garuḍa et l'image de Maât à une « plume universelle » par simple analogie ; cultures, textes, âges et fonctions différents.
