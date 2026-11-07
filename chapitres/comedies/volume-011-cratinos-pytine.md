@@ -211,3 +211,17 @@ Le problème philosophique qu'elle nous laisse est durable : **l'artiste possèd
 - [Catalogue des comédies perdues](https://bobmythos.fr/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
 *Fin du volume XI. Le volume XII ne sera attribué qu'après vérification de la progression réelle du dépôt.*
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Date et source du concours :** Kenneth Dover, notice « Cratinus », *Oxford Classical Dictionary* (22 décembre 2015), DOI 10.1093/acrefore/9780199381135.013.1916, identifie *Pytinē* comme vainqueur aux **Grandes Dionysies de 423 av. n. è.**, sur le témoignage de l'hypothèse VI des *Nuées* d'Aristophane ; ne pas confondre ce concours avec les Lénéennes. https://academic.oup.com/edited-volume/61673/chapter-abstract/548724057 .
+
+**Étude spécialisée consultée au niveau de son résumé et de sa notice :** Emmanuela Bakola, *Cratinus and the Art of Comedy*, Oxford University Press, publication en ligne du 17 décembre 2009, chap. 1, p. 13–80, « Poetic Persona and Poetic Voice in Cratinus' Comedy », DOI **10.1093/acprof:oso/9780199569359.003.0002**. Le résumé signale l'expérimentation de Cratinos avec la voix poétique et *Pytinē* ; il n'autorise aucune restitution mot à mot des scènes : https://academic.oup.com/book/284/chapter-abstract/134855022 .
+
+**Étude récente :** Peter Meineck, « The enactive pytine: Cratinus and the riddling agency of comic things », *Bulletin of the Institute of Classical Studies*, publié le **6 août 2026**, DOI **10.1093/bics/qbag033** : hypothèse sur l'agentivité de l'objet-cruche, à distinguer du témoignage antique. Seul le résumé public a été consulté : https://academic.oup.com/bics/advance-article-abstract/doi/10.1093/bics/qbag033/8753298 .
+
+**Cadre français :** François Lissarrague, *La Cité des satyres* (2013), est utile pour l'histoire de l'iconographie comique, non comme édition du texte fragmentaire de *Pytinē*. Les scènes [C] du manuscrit restent des créations de MYTHOS.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->
