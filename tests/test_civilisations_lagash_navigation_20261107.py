@@ -31,7 +31,7 @@ class LagashStudyNavigationTests(unittest.TestCase):
         self.assertGreaterEqual(len(page.get_text(" ", strip=True).split()), 2500)
         for toc_link in page.select(".mythos-reading-toc a[href^='#']"):
             self.assertIn(toc_link["href"][1:], ids)
-        self.assertGreaterEqual(len(page.select("#references li")), 10)
+        self.assertGreaterEqual(len(page.select("#references + ol > li")), 10)
         self.assertIn("degrés de certitude", page.get_text(" ", strip=True))
         for a in page.select("a[href]"):
             self.assertFalse(a["href"].startswith("http://"))
