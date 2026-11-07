@@ -160,3 +160,11 @@ Ricœur relie temps, action et mémoire sans confondre histoire et fiction. L'é
 **Attestés :** titres, années d'édition, références des textes anciens. **Interprétations :** triple mimèsis, identité narrative, visée de fidélité de la mémoire. **Hypothèses comparatives :** lectures ricœuriennes des épopées, des tragédies et des archives proche-orientales. Aucune citation littérale non vérifiée n'est reproduite.
 
 **Continuité :** CXI Koselleck ; CXII Dosse ; CXIII Ricœur. Prochain volume proposé : CXIV — Hans-Georg Gadamer, vérité, tradition et herméneutique historique.
+
+### Annotation scientifique documentaire — 7 novembre 2026 (lot 05)
+
+**Vérification d'édition [attesté bibliographiquement].** Paul Ricœur, *Temps et récit. 1*, Paris, **Éditions du Seuil, 1983**, collection **L'Ordre philosophique**, **319 pages** pour l'exemplaire catalogué ; [BnF, ARK **cb34713254j**](https://catalogue.bnf.fr/ark:/12148/cb34713254j). Le [Fonds Ricœur](https://fondsricoeur.ipt-edu.fr/ressources-papier/bibliographies-paul-ricoeur/) confirme la publication du tome 1 en **1983**. Attention à distinguer les trois tomes, leurs différentes réimpressions et paginations : le titre d'ensemble [BnF **cb34308467r**](https://catalogue.bnf.fr/ark:/12148/cb34308467r) **ne vaut pas numéro de page d'une édition déterminée**.
+
+**Méthode de lecture [limite de preuve].** La notion d'« intrigue » ou de configuration narrative est une **proposition philosophique sur la mise en forme du temps**, et non un procédé par lequel une source tardive serait déclarée historiquement contemporaine des faits racontés. Les applications à Homère, aux récits égyptiens ou aux archives babyloniennes dans cette monographie constituent un **rapprochement herméneutique propre à MYTHOS**, non une étude spécifique publiée par Ricœur sur chacun de ces dossiers.
+
+**Collation restante.** Les éditions et métadonnées ont été consultées ; **les passages exacts sur la triple mimèsis et l'identité narrative n'ont pas été relus dans l'édition originale**. Aucune citation entre guillemets ni pagination de ces passages n'est proposée avant contrôle direct.
