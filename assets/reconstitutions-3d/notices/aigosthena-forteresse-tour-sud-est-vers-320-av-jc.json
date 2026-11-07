@@ -1,0 +1,44 @@
+{
+  "id": "AIGOS-FOR-001",
+  "slug": "aigosthena-forteresse-tour-sud-est-vers-320-av-jc",
+  "title": "Égosthènes (Aigosthena) — forteresse grecque, rempart oriental et tour sud-est, vers 320 av. J.-C.",
+  "period": "Seconde moitié du IVe siècle av. J.-C. ; évocation conventionnelle vers 320 av. J.-C. (datation absolue de construction non établie au jour près).",
+  "caption": "Vue photoréaliste interprétative du front oriental de la citadelle d’Égosthènes vers le golfe de Corinthe, avec quatre tours carrées, avant les réfections de l’époque chrétienne et byzantine.",
+  "commentary": "La place fortifiée d’Égosthènes (en grec Αἰγόσθενα), à proximité du village moderne de Porto Germeno, occupe une position stratégique à l’est d’une baie du golfe de Corinthe, aux confins de la Mégaride et de la Béotie. Le site contrôlait un itinéraire de liaison entre Péloponnèse et Béotie ainsi qu’un accès maritime. L’Éphorie des antiquités d’Attique occidentale (EFADA) date les fortifications de la seconde moitié du IVe siècle av. J.-C. et distingue l’acropole supérieure de la ville basse, reliées par des murailles. L’acropole se situe sur une hauteur à quelque 450 m de la mer ; l’enceinte est approximativement rectangulaire. Son puissant côté est, conservé sur une grande hauteur, présente quatre tours et une poterne. La tour d’angle sud-est, restaurée après les dommages du séisme de 1981, est de plan carré, d’environ neuf mètres de côté et de trois niveaux pour une hauteur voisine de dix-huit mètres. Le dossier patrimonial consacré à sa restauration décrit une couverture à deux versants et des éléments en bois, qui ne doivent pas être confondus avec des pièces antiques intactes. Le mur nord descendant vers le port conservait au moins sept tours et deux portes d’après EFADA ; le tracé et l’état de toutes les courtines ne sont pas également visibles. La recherche doctorale d’Aliki Milioti (École polytechnique nationale d’Athènes, 2014) propose 306 av. J.-C. comme terminus ante quem de la construction sur la base de l’analyse architecturale et topographique ; la date proposée pour cette image, vers 320 av. J.-C., est donc une hypothèse de visualisation située au sein de cette chronologie, non un millésime archéologiquement attesté. La restitution montre à l’est un rempart de grand appareil en pierre locale, rythmé par des tours carrées, et, à l’ouest en contrebas, une zone d’habitat et une baie. Les quatre tours du front oriental et la massivité de la tour sud-est sont archéologiquement fondées ; en revanche, la géométrie complète des élévations, les créneaux, les chemins de ronde, l’état de fonctionnement simultané de toutes les tours et la nature des toitures sont des choix de restitution. Le bâti résidentiel, les terrasses, les embarcations, la végétation, les habitants et l’éclairage reconstituent une atmosphère plausible, sans prétendre reproduire des assemblages fouillés ou une scène documentée. La perspective compresse visuellement les distances : on ne doit pas en déduire des cotes topographiques précises ni un plan cadastral. Les périodes d’occupation ultérieures, notamment paléochrétienne et byzantine, ont laissé des vestiges (église, monastère, réparations des murailles) volontairement exclus de cette vue située à la fin du IVe siècle av. J.-C. Il s’agit d’une évocation numérique originale générée par intelligence artificielle, d’apparence 3D photoréaliste, non d’un modèle tridimensionnel métrique, d’une photographie d’époque ou d’une restitution validée officiellement par les institutions citées. Les sources, incertitudes et datations figurent dans la notice extérieure à l’image, qui ne comporte ni texte incrusté, ni panneau de navigation, ni présentation 2,5D.",
+  "certainty": "Élevé — localisation de la forteresse sur la baie d’Égosthènes ; enceinte de la seconde moitié du IVe siècle av. J.-C. ; acropole rectangulaire et ville basse ; front oriental et quatre tours ; emplacement et gabarit général de la tour sud-est ; rôle défensif du couloir côtier. Moyen — datation conventionnelle de la scène vers 320 av. J.-C. ; volume général de la tour restaurée et couverture à deux versants, que les restaurations modernes éclairent sans les rendre matériellement antiques ; tronçons suggérés de l’enceinte descendant vers le port ; silhouette des bâtiments du site. Faible — hauteur et forme exactes des parapets, créneaux et portes dans l’état retenu ; placement et profil des toitures des autres tours ; cheminements et architectures domestiques ; navires, personnes, végétation, couleurs, relief de détail et point de vue exact.",
+  "source_url": "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/archaeological-site-of-aigosthena-porto-germeno-municipality-of-mandra-eidyllia",
+  "secondary_sources": [
+    "https://efaathculture.gr/en/ower-of-the-ancient-fortress-of-aegosthenes/",
+    "https://www.didaktorika.gr/eadd/handle/10442/41613?locale=en",
+    "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5757"
+  ],
+  "src": "/assets/reconstitutions-3d/aigosthena-forteresse-tour-sud-est-vers-320-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/aigosthena-forteresse-tour-sud-est-vers-320-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-07",
+  "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Visuel original généré par IA pour MYTHOS ; pas de copie de vue photographique ni de maquette métrique ; sans texte incrusté.",
+  "sha256": "f37e64de0a00ba3863730675888012f86a2423b9f8642584810b2c60a73fef13",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/aigosthena-forteresse-tour-sud-est-vers-320-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Éphorie des antiquités d’Attique occidentale (EFADA), site archéologique d’Égosthènes, notice officielle",
+      "url": "https://www.efada.gr/en-us/Archaeological-Sites-Monuments/Eleusis/Archaeological-Site-of-Eleusis/archaeological-site-of-aigosthena-porto-germeno-municipality-of-mandra-eidyllia"
+    },
+    {
+      "label": "Éphorie des antiquités, conservation et restauration de la tour sud-est (2019)",
+      "url": "https://efaathculture.gr/en/ower-of-the-ancient-fortress-of-aegosthenes/"
+    },
+    {
+      "label": "Aliki Milioti, Το αρχαίο φρούριο των Αιγοσθένων, thèse d’architecture et d’archéologie, NTUA, 2014, DOI 10.12681/eadd/41613",
+      "url": "https://www.didaktorika.gr/eadd/handle/10442/41613?locale=en"
+    },
+    {
+      "label": "Ministère hellénique de la Culture, Égosthènes : visite de conservation et état patrimonial (2026)",
+      "url": "https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5757"
+    }
+  ],
+  "primary_texts": [],
+  "methodology": "Évocation artistique critique d’après les vestiges, la publication officielle de l’EFADA et les travaux de recherche ; distinction attesté / interprété / conjectural. Le point de vue et le tracé des bâtiments annexes ne sont pas issus d’une photogrammétrie."
+}
