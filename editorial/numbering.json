@@ -1431,6 +1431,12 @@
           "path": "chapitres/origines-du-sacre/810-apollo-11-huns-namibie-plaquettes-peintes-30000-ans-pigments-images.md",
           "request_sha256": "0df1ee1990122ba59f8ddcf283aa78151df7a8981660ed9863544471ae9f6496",
           "initial_source_sha256": "aac9ab01c8c53599efae847cc50b92d07aef12239a5e6a42946ea01a494db0e0"
+        },
+        "f50d7418-c4bd-4fb6-94a0-2b342acda6bb": {
+          "number": 811,
+          "path": "chapitres/origines-du-sacre/811-wonderwerk-kuruman-afrique-sud-gravures-holocene-feu-pleistocene-stratigraphie.md",
+          "request_sha256": "164043407e8c39ca7de9c8232748e3973165a70f6ceea6321ea63812cfe41caf",
+          "initial_source_sha256": "11cf10fb6dd257d0bc39968e481d895a8c0bd72c92d53b667ad69c2819f6763e"
         }
       }
     },
