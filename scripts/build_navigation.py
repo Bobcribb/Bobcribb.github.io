@@ -1014,6 +1014,29 @@ def create_civilisations(entries, groups):
               ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Hudhud des Ifugao — Aliguyon et les chants du riz","Le texte intégral du volume historique XV, ses performances, ses variantes et ses sources.","TEXTE INTÉGRAL"),
               ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi : La Galigo","Autre épopée insulaire conservée et étudiée à partir des sources et des témoins manuscrits.","ÉTUDE ASSOCIÉE")
             ],"portal-grid-compact"))
+        # Parcours continental conditionné par le vrai catalogue : aucun lien mort
+        # vers des contributions encore non fusionnées. Complète (sans remplacer)
+        # les deux autres sections asiatiques déjà existantes.
+        if key == "asie":
+            southeast_routes = [
+                ("/bibliotheque-mythologies-du-monde/civilisations-dvaravati-si-thep/",
+                 "Dvāravatī et Si Thep : villes et arts bouddhiques",
+                 "VIe–XIe siècles ; archéologie, inscriptions, sīma, sources UNESCO.", "ASIE DU SUD-EST"),
+                ("/bibliotheque-mythologies-du-monde/civilisations-histoire-khmers-angkor/",
+                 "Khmers : histoire et sanctuaires d'Angkor",
+                 "Contexte historique continental et sources archéologiques.", "HISTOIRE"),
+                ("/bibliotheque-mythologies-du-monde/civilisations-srivijaya-sumatra/",
+                 "Śrīvijaya : ports et bouddhisme de Sumatra",
+                 "Réseaux insulaires distincts, comparaisons prudentes.", "HISTOIRE"),
+            ]
+            published_urls = {doc["url"] for doc in docs}
+            if southeast_routes[0][0] in published_urls:
+                routes = [item for item in southeast_routes if item[0] in published_urls]
+                related += section(
+                    "Asie du Sud-Est — villes, sanctuaires et réseaux",
+                    "Études intégrales réellement indexées : trajectoires distinctes, "
+                    "sans assimilation de Dvāravatī aux Khmers ou à Śrīvijaya.",
+                    cards(routes, "portal-grid-compact"))
         write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+related+section("Poursuivre l’exploration","",hub_cards)))
 
 def renovate_catalog(total):
