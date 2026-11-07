@@ -70,6 +70,9 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Mélampous : devin héroïque à classer parmi les héros après attribution
+    # du numéro par le workflow ; jamais de lien anticipé vers la file inbox.
+    (r'^melampous\b', 'heros', 'Mélampous — mantique, animaux et pouvoir argien'),
     # Monographies intégrales déjà déposées en file : leur classement
     # ne s'applique qu'après attribution par Actions et création du chapitre.
     # Jamais de numéro inventé, jamais de lien vers un manuscrit non publié.
