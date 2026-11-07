@@ -3226,6 +3226,12 @@
           "path": "chapitres/tragedies/volume-cclxxxix-ion-de-chios-mega-drama-fragments-19-21-genre-promethee-critique.md",
           "request_sha256": "992fcca42cd7748dc399be21589eac27d11151b9e17788ece15021d502e1f2c9",
           "initial_source_sha256": "7e44d112318109373c4cf5a24cc3c2ab6194b0262dd1ca34f25fc54db9c6711c"
+        },
+        "7a84cad5-17f1-4c18-9598-6b0fe3d9fc02": {
+          "number": 290,
+          "path": "chapitres/tragedies/volume-ccxc-ion-de-chios-omphale-satyrique-heracles-lydie-servitude-inversion.md",
+          "request_sha256": "fdb65ffc3ac439d8739e5ff75e57b85f1069222087775f9c57cbbe03d6022fdc",
+          "initial_source_sha256": "82503230371f813c3b31fff5dc807b4ce60f4d385f933ac69ba7eda04ad4e11d"
         }
       }
     },
