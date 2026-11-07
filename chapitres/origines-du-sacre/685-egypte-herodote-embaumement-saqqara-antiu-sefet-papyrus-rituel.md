@@ -308,3 +308,13 @@ L'étude de Saqqara montre que les progrès de l'archéométrie peuvent modifier
 - Girard, René, *La Violence et le Sacré*, 1972.
 
 *Statut et continuité : monographie autonome sur l'embaumement égyptien, ses témoins grecs, ses papyrus et la chimie des récipients de Saqqara ; elle ne réécrit pas les dossiers précédents sur le culte des morts, Nombres 19, Lévitique 21, le Vidēvdād, le deuil brahmanique ou les cinq grades chinois. Les seuls marqueurs d'attribution pour le présent chapitre sont 685 et DCLXXXV ; tous les autres numéros désignent des sources ou périodes attestées.*
+
+---
+
+### Note éditoriale scientifique — François Hartog et le témoignage d'Hérodote (7 novembre 2026)
+
+**Auteur français et référence vérifiée.** François Hartog, *Le Miroir d'Hérodote. Essai sur la représentation de l'autre*, Paris, Gallimard, **1980**, [exemplaire du Mucem](https://mucem.org/notice/b/oai%3APMB%3A88642/) et [compte rendu universitaire d'Alain Le Boulluec, *Revue des Études Grecques* 94 (1981), p. 563–564](https://www.persee.fr/doc/reg_0035-2039_1981_num_94_447_1302_t2_0563_0000_2).
+
+**Apport méthodologique.** L'étude de Hartog s'intéresse à la manière dont l'*Enquête* d'Hérodote construit et met en récit l'altérité ; elle ne constitue **ni un traité égyptologique d'embaumement ni une nouvelle fouille de Saqqara**. Dans le chapitre 685, cette référence aide à évaluer le statut du narrateur grec d'Hérodote II, 85–90 : description de coutumes, sélection des comportements remarquables et médiation des informations recueillies. On doit traiter cette analyse des procédés narratifs **en parallèle**, et non à la place, des papyrus égyptiens, des récipients fouillés et des résultats de chimie organique.
+
+**Échelle de preuve.** Hérodote est une source primaire sur ce qu'il transmet et sur son regard grec du Ve siècle av. J.-C. ; son récit ne garantit pas qu'un protocole identique d'embaumement se soit appliqué pendant trois millénaires. L'ouvrage de Hartog fournit une grille historiographique générale, sans commentaire ici attribué à une page non consultée. Aucune approbation de MYTHOS par Hartog, Gallimard, le Mucem ou la *REG* n'est affirmée.
