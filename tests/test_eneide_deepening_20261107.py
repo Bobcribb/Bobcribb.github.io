@@ -253,5 +253,33 @@ class EneideDeepeningTest(unittest.TestCase):
         self.assertIn("10.1017/S000983881800023X",
                       (CORPUS / "17-reperes-et-sources.md").read_text(encoding="utf-8"))
 
+
+    def test_nouvelles_microlectures_didon_junon_20261107(self):
+        """Cinq ajouts sans supprimer aucun des dix-huit manuscrits."""
+        import re
+        doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
+        chapters = doc.select("section.philo-chapter")
+        self.assertEqual(len(chapters), 18)
+        sections = {
+            1: ("01-chant-i.md", "Didon jugée avant d'être aimée", "iura dabat legesque viris"),
+            4: ("04-chant-iv.md", "La nuit sans repos", "ingeminant curae"),
+            12: ("12-chant-xii.md", "La négociation des noms", "Sermonem Ausonii patrium moresque tenebunt"),
+            14: ("14-empire-memoire.md", "Fonder par l'assimilation ou par la composition", "ritusque sacrorum"),
+            17: ("17-reperes-et-sources.md", "Contrôle philologique du 7 novembre", "dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-xii-791-842"),
+        }
+        for i, (filename, title, lemma) in sections.items():
+            raw = (CORPUS / filename).read_text(encoding="utf-8")
+            title_matches = [line for line in raw.splitlines() if line.startswith("## ") and title in line]
+            self.assertEqual(len(title_matches), 1, filename)
+            h3 = [h.get_text(" ", strip=True) for h in chapters[i].select("h3[id]")]
+            self.assertEqual(h3, re.findall(r"^## (.+)$", raw, flags=re.M), filename)
+            self.assertTrue(any(title in item for item in h3), filename)
+            self.assertIn(lemma, raw, filename)
+            self.assertIn(lemma, chapters[i].get_text(" ", strip=True), filename)
+        ids = [tag["id"] for tag in doc.select("[id]")]
+        self.assertEqual(len(ids), len(set(ids)))
+        self.assertEqual(len(list(CORPUS.glob("*.md"))), 18)
+        self.assertIn("Le PDF de 84 pages", doc.get_text(" ", strip=True))
+
 if __name__ == "__main__":
     unittest.main()

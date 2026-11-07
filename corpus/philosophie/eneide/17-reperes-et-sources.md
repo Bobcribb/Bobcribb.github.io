@@ -202,3 +202,16 @@ Bibliographie attestée : Philip R. Hardie, Virgil's Aeneid: Cosmos and Imperium
 
 Les sources en ligne permettent de vérifier les vers et les données bibliographiques. Les monographies ne sont pas déclarées intégralement collationnées ; les rapprochements concernant la mémoire et les trois régimes de parole sont des hypothèses interprétatives MYTHOS. L'ancien PDF de 84 pages n'incorpore pas ces compléments.
 
+## Contrôle philologique du 7 novembre : Didon, l'insomnie et l'identité latine
+
+Texte primaire : Virgile, Énéide I, 494–519 (comparaison de Didon et de Diane, puis exercice de la justice), édition et annotations de Dickinson College Commentaries, https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-i-494-519 ; Énéide IV, 522–552 (nuit et délibération de Didon), même collection, https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-iv-522-552 ; Énéide XII, 791–842 (entretien de Jupiter et Junon), même collection, https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-xii-791-842 . Les numéros de vers et les lemmes latins discutés dans ces trois nouvelles microlectures ont été contrôlés sur ces pages. Les traductions françaises sont des traductions de travail propres à MYTHOS.
+
+Comparaison homérique : Odyssée VI, 102–109, comparaison de Nausicaa à Artémis ; dossier philologique « Book 6 Essays », Dickinson College Commentaries, https://dcc.dickinson.edu/homer-odyssey/intro/essays-book-6 . Virgile adapte le même dispositif comparatif au cas très différent d'une reine veuve en train de gouverner. Cette parenté intertextuelle est attestée par les rapprochements de textes ; les inférences sur l'autonomie de Didon et sur les institutions appartiennent à notre analyse.
+
+Étude universitaire accessible : Meghan Reedy, « Aeneid 1.494–578 essay », Dickinson College Commentaries, https://dcc.dickinson.edu/vergil-aeneid/essay/i-494-578 . Reedy met en discussion un point de focalisation souvent négligé, à savoir l'absence d'un verbe déclarant qu'Énée observe effectivement Didon lors de son entrée. Cette proposition est attribuée explicitement à son essai ; les conclusions comparatives de MYTHOS ne lui sont pas imputées.
+
+Orientation historiographique : Richard Tarrant, Virgil: Aeneid Book XII, Cambridge University Press, 2012, déjà cité dans l'étude du chant XII. Sa notice bibliographique sert de repère de commentaire savant ; cette livraison n'affirme pas une collation intégrale du volume. L'interprétation des noms, de la langue et de l'addition des rites à partir de XII, 819–842 est fondée ici directement sur les vers contrôlés. Elle n'est pas présentée comme la thèse démontrée de Tarrant.
+
+Méthode : le passage de l'institution carthaginoise à la composition des peuples italiens est une comparaison interprétative, non une filiation historique documentée entre Carthage et Rome. Les formules du mythe ne sont pas des données archéologiques sur l'Italie protohistorique. Le PDF antérieur de 84 pages ne contient pas les compléments récents ; le nombre de pages A4 ne doit être actualisé qu'après régénération contrôlée de l'analyse complète et de son manifeste.
+
+
