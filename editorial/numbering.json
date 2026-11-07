@@ -1515,6 +1515,18 @@
           "path": "chapitres/origines-du-sacre/824-ventarron-cerf-peint-pigments-archeometrie-incendie-patrimoine.md",
           "request_sha256": "5caa32cb78dcd06e6635b26f28020ea7498a47719d7aeb96ebe616d7d0dbf917",
           "initial_source_sha256": "bfe88d67c7e93d97361592b69182e8037705463bf8b54c6a0bbb9bf8382a07d4"
+        },
+        "29c4f6b2-3f12-4f9a-8d5d-202611071716": {
+          "number": 825,
+          "path": "chapitres/origines-du-sacre/825-garagay-temples-en-u-reliefs-polychromes-espaces-rituels.md",
+          "request_sha256": "52b9f476f3f85d0ec2264d4007225878097cdfccf8fe997e8e061e46d1d46b9c",
+          "initial_source_sha256": "218b82b6db011e418e23411e9b629e5e15974be6e5b91df2a10bf21e41e74ffe"
+        },
+        "7e9b7c34-bd22-41fd-9ef7-202611071717": {
+          "number": 826,
+          "path": "chapitres/origines-du-sacre/826-huaca-de-los-reyes-caballo-muerto-reliefs-argile-pouvoir-ceremoniel.md",
+          "request_sha256": "844b81eff7539341bb12f23d3c80255542529be320a81abd401881ad48318486",
+          "initial_source_sha256": "f34fe9a4e472d0bce7bf3b7f3ad5a5b878174cb250c0915b0fe3b35ac46ca50b"
         }
       }
     },
@@ -2380,6 +2392,12 @@
           "path": "chapitres/encyclopedie/chapitre-491-hylas-nymphes-mysie-heracles-argonautes-kios-echo-cultes-poetique.md",
           "request_sha256": "b650b69c284cf158cfbc4fcb743539e1b20c54ece9731684daa8fb0a8dbfd0e1",
           "initial_source_sha256": "d3edc14f2c8e915af5720f00d1ec43b49134d7cda5cb452b6d9265d42a235bd3"
+        },
+        "80e49271-7c4f-43fd-92c6-202611071659": {
+          "number": 492,
+          "path": "chapitres/encyclopedie/chapitre-492-harpyes-thaumas-electre-phinee-boreades-strophades-pandareos-virgile-iconographie.md",
+          "request_sha256": "47dbf03c718aa9a614af8da2e529b81c28a1bbd0376fc79cbfe28dda44319365",
+          "initial_source_sha256": "ae294ec716739b34105f88ab9c9aa6dcbafed84582a023e8022e4cf3d568bf24"
         }
       }
     },
@@ -3022,6 +3040,12 @@
           "path": "chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant.md",
           "request_sha256": "d415fcb3cc73cedca70245ac11c0c768f0b02fad2feebc23fdb697556aed2f42",
           "initial_source_sha256": "c1f6a6770c6e142232717a8b024a3cce89fcef0d3148c5cff6487a65975dadeb"
+        },
+        "913d62ae-5c70-4f7d-93a9-5a791c9d4b3e": {
+          "number": 156,
+          "path": "chapitres/comedies/volume-156-callias-grammatike-tragodia-tragedie-lettres-alphabet-choros.md",
+          "request_sha256": "8446f414c1287d6f4cb67ac3bf1350e73277b64fcfebd507a90c6e9ae98550e7",
+          "initial_source_sha256": "ecf72c9cf2699d34858f9417b0ba3267ec87779cc95868dace2d746ab81d7818"
         }
       }
     },
@@ -5029,6 +5053,12 @@
           "path": "chapitres/comparatif/volume-ccclvii-mc-130-ailes-sacre-disque-soleil-genies-cherubins-nike-ahuramazda-garuda.md",
           "request_sha256": "6519e102d937e2a711197f6f2c9e119254f75d0fcceff7684533619843e9b4bd",
           "initial_source_sha256": "dfe384fe9ac84645d42e1f741e50fe32ec09a48af83146def4e4e1796ac009da"
+        },
+        "f1317a29-5c4e-4e4d-a7b5-202611071655": {
+          "number": 358,
+          "path": "chapitres/comparatif/volume-ccclviii-mc-131-grenades-sacre-persephone-rimmon-nimrud-egypte-chypre.md",
+          "request_sha256": "ce90bfab19c8919da3a3dd5681eb5346c53b37013c12a5cb2622e512bd14faf1",
+          "initial_source_sha256": "ec45bbf6c09dfa718bb31ce682b23da551445313b152d4fa493fa5739ee436b3"
         }
       }
     }
