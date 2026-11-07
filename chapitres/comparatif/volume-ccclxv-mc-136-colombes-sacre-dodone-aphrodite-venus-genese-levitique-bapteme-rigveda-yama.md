@@ -1,0 +1,322 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCCLXV (365)
+
+## MC-136 — Les colombes du sacré : voix oraculaire, médiation divine, sacrifice et présage, de Dodone au Ṛgveda
+
+*Monographie universitaire originale, 7 novembre 2026. Disciplines : histoire des religions, philologies grecque, latine, hébraïque et sanskrite, archéologie méditerranéenne, histoire comparée de l'iconographie, anthropologie et philosophie du signe.*
+
+**Identité historique : MC-136.** Les marques CCCLXV et 365 sont des espaces réservés à l'attribution automatique du numéro canonique ; elles ne préjugent ni d'un volume ni de sa publication. Ce texte est soumis à la procédure de réception et de contrôle anti-collision de MYTHOS.
+
+### Résumé analytique
+
+Dans les cultures antiques, la colombe n'est pas intrinsèquement « la paix ». Les noms et les espèces diffèrent ; les actions qui la rendent significative diffèrent davantage encore. À Dodone, une tradition transmise par Hérodote fait parler des colombes sur un chêne pour fonder un oracle. Dans l'*Odyssée*, des colombes apportent de l'ambroisie à Zeus à travers un espace dangereux. À Chypre et dans le monde gréco-romain, des objets votifs et des récits associent l'oiseau à Aphrodite ou Vénus ; chez Virgile, deux colombes guident Énée vers le rameau d'or. Dans la *Genèse*, une colombe indique à Noé la réapparition de la terre ; dans le *Lévitique*, des tourterelles ou jeunes pigeons constituent des victimes rituelles réglementées. Les évangiles comparent une manifestation de l'Esprit à une colombe. Enfin, le *Ṛgveda* X, 165 dépeint un pigeon/colombe associé à un présage inquiétant et à Yama.
+
+**Thèse :** le caractère religieux de l'oiseau se construit dans une procédure d'interprétation, un genre textuel ou un acte rituel déterminé ; il ne se déduit ni de la biologie ni d'une prétendue symbolique universelle. **Hypothèse :** la capacité de l'oiseau à franchir des limites spatiales favorise son emploi comme médiateur, mais ne fixe jamais la valeur, bénéfique ou maléfique, de sa présence. **Lecture philosophique :** le signe n'est pas une chose dotée d'un sens immuable ; il met en relation un événement, une question, un code et un interprète.
+
+### I. Corpus, limites et statut des preuves
+
+Le noyau primaire comprend : Homère, *Odyssée* XII, 59–72, surtout 62–65 ; Hérodote, *Histoires* II, 54–57 ; Virgile, *Énéide* VI, 185–211 ; *Genèse* VIII, 6–12 ; *Lévitique* I, 14–17, V, 7 et XII, 8 ; *Osée* VII, 11 ; *Cantique des cantiques* II, 14 et IV, 1 ; *Marc* I, 9–11, *Matthieu* III, 16, *Luc* III, 21–22 et *Jean* I, 32–34 ; *Ṛgveda* X, 165, strophes 1–5. Les dossiers matériels comprennent des sculptures chypriotes conservées au Metropolitan Museum of Art, avec inventaires contrôlables. La tablette XI de Gilgameš constitue un parallèle additionnel à examiner par collation.
+
+« Fait textuel » signifie qu'une source formule effectivement une assertion ; cela ne prouve pas sa factualité historique. « Fait matériel » renvoie à un objet inventorié et décrit, sans garantie de reconstituer entièrement son contexte de fouille. « Hypothèse » qualifie une filiation, une causalité, une origine ou une fonction non attestée directement. « Lecture philosophique » désigne une formalisation contemporaine ; elle ne doit pas être réattribuée aux Anciens comme pensée explicite. Une datation d'œuvre désigne un horizon de composition, non l'âge de chaque manuscrit conservé.
+
+La comparaison croise six dimensions : le mot ancien et l'identification de l'espèce ; le type de document ; l'acteur qui prend l'initiative ; le geste effectué ; l'opération d'interprétation ; les conséquences sociales, politiques ou cultuelles. Cette grille privilégie les différences vérifiables, à côté des analogies.
+
+### II. Philologie grecque : πελειάς, πέλεια, περιστερά, τρυγών
+
+Les *πέλειαι* de l'*Odyssée* XII, 62–65 sont les oiseaux qui portent l'ambroisie au père Zeus. L'épithète *τρήρωνες*, souvent comprise comme « tremblantes » ou « craintives », invite à lire leur vulnérabilité. Le terme *Πελειάδες* appartient aussi au dossier des prophétesses de Dodone et des colombes merveilleuses évoquées par Hérodote. Les ressemblances entre *Peleiades* et *Pléiades* astronomiques ne doivent pas servir de preuve étymologique ou d'identité mythologique.
+
+Le grec *περιστερά* sert dans les évangiles à l'image de l'Esprit « comme une colombe », tandis que *τρυγών* peut correspondre spécifiquement à la tourterelle des traductions bibliques grecques. Traduire tous les termes par « pigeon » ou « colombe » efface parfois l'opposition d'espèces ou d'usages. À l'inverse, il est imprudent de leur attribuer systématiquement des identifications biologiques modernes : un mot de poésie n'est pas une notice taxinomique.
+
+### III. Philologie latine : la colombe de Vénus n'est pas une preuve d'auspice public
+
+Virgile emploie *columbae* en *Énéide* VI, 190 ; Énée reconnaît les oiseaux comme *maternas ... aves* au vers 193, puis demande *este duces* au vers 194. La différence entre *columba* et *turtur* doit être préservée, sans faire du latin un système zoologique moderne. Le poème fait d'une reconnaissance familiale un acte de lecture des signes. Il n'atteste, par cette seule scène, ni un règlement romain de consultation officielle par colombes ni une divination courante identique à celle de Dodone.
+
+Le latin *forte* dans l'apparition des oiseaux, au vers 190, produit un jeu entre hasard raconté et interprétation providentielle. Une lecture théologique de la scène est possible ; elle doit expliquer la prière et la reconnaissance d'Énée plutôt que supprimer la nuance narrative de ce mot.
+
+### IV. Philologie hébraïque : יוֹנָה, תֹּר et les jeunes pigeons
+
+Dans *Genèse* VIII, l'oiseau de Noé est *yônāh*. Dans le code sacrificiel, *tôrîm* désigne les tourterelles, et *benê-yônāh* les jeunes pigeons ou colombes. Le texte ne se contente pas d'un symbole : il définit une possibilité d'offrande, des substituts et des gestes sacerdotaux. La distinction intéresse jusqu'à l'exégèse d'Ibn Ezra sur *Lévitique* I, 14, qui discute l'âge de l'oiseau désigné. Ce témoignage médiéval documente une réception philologique ; il ne devient pas automatiquement la définition certaine d'une pratique du premier millénaire avant notre ère.
+
+Dans *Genèse* VIII, 11, le mot *ʿāleh* correspond à une feuille, ici d'olivier ; la substitution fréquente du « rameau » dans l'imagerie moderne est une évolution iconographique qui ne doit pas effacer l'objet précis du récit hébreu.
+
+### V. Philologie sanskrite : kapota, dūta, Nirṛti, Yama
+
+Le *Ṛgveda* X, 165 fait intervenir *kapota*, habituellement traduit par « pigeon » ou « colombe ». Le langage de l'envoyé, *dūta*, qualifie la relation à une puissance dangereuse ; la quatrième strophe nomme Yama, associé à la mort. *Nirṛti* renvoie au champ du malheur ou de la destruction. Le texte demande la neutralisation du présage et la protection du foyer. La traduction « colombe de paix » est donc inacceptable ici.
+
+Il faut contrôler l'accentuation, la segmentation et les variantes par une édition sanskrite et par Jamison–Brereton, plutôt que d'adopter la version victorienne de Griffith comme interprétation définitive. Les parallèles de l'*Atharvaveda* VI, 27–29 appellent un relevé systématique des variantes avant de construire une généalogie des hymnes.
+
+### VI. Dodone, première narration : deux femmes du temple de Thèbes
+
+Hérodote (*Histoires* II, 54) donne une version qu'il attribue aux prêtres de Thèbes d'Égypte : deux femmes attachées au temple y auraient été enlevées par des Phéniciens ; l'une vendue en Libye, l'autre en Grèce, elles auraient fondé des sièges divinatoires. Le récit s'inscrit dans la discussion hérodotéenne sur la provenance des pratiques et des noms divins (II, 50–53). Il ne possède pas la force d'une inscription égyptienne indépendante qui certifierait le rapt, la vente et la fondation.
+
+Il faut garder la triple médiation : des informateurs égyptiens, la composition d'un historien grec, puis les traductions modernes. La tentation de transformer la thèse d'Hérodote en chronologie factuelle de la migration de prêtresses égyptiennes en Épire doit être refusée. C'est une tradition antique sur l'origine des sanctuaires et, à ce titre, un fait historiographique majeur.
+
+### VII. Dodone, seconde narration : deux colombes noires parlantes
+
+Dans II, 55, les prophétesses de Dodone racontent deux colombes noires venues de Thèbes. L'une gagnerait la Libye pour faire instituer l'oracle d'Ammon ; l'autre se poserait sur un chêne à Dodone et énoncerait, en langage humain, l'ordre de fonder un oracle de Zeus. Hérodote donne les noms de trois prêtresses : Promeneia, Timarete et Nicandra. Ce sont des noms attestés par son témoignage ; leur chronologie biographique et leur rôle historique exact ne se déduisent pas du seul passage.
+
+Le chêne situe la voix divine et l'oiseau formule une légitimation institutionnelle. Il s'agit d'un mythe d'origine : aucune fouille ne saurait « prouver » qu'une colombe humaine-parlante s'y posa. L'intérêt du document est d'articuler déplacement, lieu consacré, parole et institution. La symétrie Dodone–Ammon concerne une généalogie religieuse revendiquée ; elle ne suffit pas à établir une filiation rituelle ou administrative.
+
+### VIII. Dodone, troisième niveau : Hérodote interprète le récit
+
+Dans II, 56–57, l'historien propose une lecture rationalisante. Les deux femmes auraient été nommées colombes parce que leur langue étrangère semblait comparable à des cris d'oiseaux ; lorsque l'une s'exprima en grec, on aurait raconté que la colombe parlait. La noirceur serait le souvenir de son origine égyptienne. C'est la conjecture d'Hérodote, et non une démonstration philologique moderne.
+
+La lecture est précieuse parce qu'elle met en scène un problème de traduction : une voix jugée inintelligible par un groupe devient, dans un récit d'origine, une voix non humaine ; puis elle acquiert la valeur d'une autorité divine. La comparaison peut y voir un modèle ancien d'interprétation des traditions étrangères, mais elle doit aussi laisser ouverte la possibilité que l'étiologie de l'historien réorganise librement une tradition cultuelle antérieure.
+
+### IX. Dodone, quatrième niveau : les tablettes et le contrôle de l'histoire
+
+Les lamelles oraculaires inscrites de Dodone attestent des questions précises posées par des consultants à l'époque classique et hellénistique. Elles documentent des préoccupations personnelles et civiques, une pratique d'inscription et les formes particulières de l'adresse aux divinités. Elles ne confirment pas le récit des deux colombes fondatrices : elles imposent plutôt un contrôle indépendant sur les activités effectives du lieu.
+
+L'édition d'Éric Lhôte, *Les lamelles oraculaires de Dodone* (2006), et la recherche récente sur les consultants sont nécessaires pour éviter de fabriquer des procédures de réponse oraculaire non documentées. Il ne faut pas non plus assimiler un ensemble d'inscriptions à une « archive » consultable par date sans établir son mode antique de conservation. Les récits de fondation et les matériaux épigraphiques constituent deux dossiers complémentaires, non interchangeables.
+
+### X. Homère : convoyer l'ambroisie dans une zone mortelle
+
+Dans l'*Odyssée* XII, 59–72, Circé décrit les Planctes, roches dangereuses que nul navire ne passe aisément. Même les colombes qui apportent l'ambroisie au père Zeus y perdent une des leurs ; le dieu la remplace pour maintenir le nombre (XII, 62–65). L'oiseau n'est pas oraculaire : il est convoyeur d'une matière divine dans un espace où le déplacement menace de mort. L'ambroisie relève du monde des immortels, mais ceux qui l'apportent restent exposés au péril.
+
+L'épisode peut être lu comme mise en scène d'un seuil cosmographique. Il participe surtout aux instructions de navigation et à la distinction entre voies possibles pour Ulysse ; la mention de l'Argo, sauvée par Héra, souligne le caractère extraordinaire du franchissement. Le rôle des colombes est narratif. Inférer un ancien rituel d'approvisionnement des autels de Zeus à partir de cette image serait faire violence au genre de la source.
+
+Le contraste avec Dodone est instructif : parler pour fonder une institution et transporter l'ambroisie sont deux opérations différentes. Le seul oiseau commun ne prouve ni tradition unique ni diffusion cultuelle.
+
+### XI. Chypre : les figurines entre attribut et geste votif
+
+Plusieurs sculptures chypriotes conservées au Metropolitan Museum of Art figurent des colombes ou des offrants qui les tiennent. Les inventaires contrôlables comprennent **74.51.2686** (garçon tenant une colombe, seconde moitié du Ve siècle avant notre ère), **74.51.2722** (statuette de colombe en calcaire, IVe siècle avant notre ère), **74.51.2725** (offrant masculin tenant colombe et pomme, IIIe–Ier siècle avant notre ère) et **74.51.2719** (main tenant une colombe, datation à vérifier).
+
+La lecture exige d'abord de distinguer ce qui est figuré de ce qui est supposé. Une statuette ornithomorphe n'atteste pas seule le nom du dieu destinataire. Une figure humaine tenant un oiseau peut traduire un geste de présentation ou une convention votive ; il faut toutefois examiner provenance, contexte, ensemble et iconographie associée. Les limites documentaires de certaines acquisitions anciennes de la collection Cesnola interdisent de convertir sans preuve chaque pièce en découverte d'un sanctuaire précis d'Aphrodite.
+
+### XII. Aphrodite, figure explicitement associée à la colombe
+
+Le Metropolitan Museum conserve une figurine hellénistique d'Aphrodite assise avec patère et colombe sur le genou, **12.232.12** (Italie méridionale, IIIe siècle avant notre ère). La notice muséale relie directement l'oiseau à la figure divine. Ici, l'attribut est iconographiquement documenté. Cela ne signifie pas que toutes les colombes de Chypre soient des images d'Aphrodite, ni que l'on possède automatiquement le détail des pratiques sacrificiales et oraculaires liées à cette déesse.
+
+Élien, *De natura animalium* X, 33, rapporte que des tourterelles blanches sont tenues pour consacrées à Aphrodite et Déméter. Le texte impérial témoigne d'un langage religieux qui classe certaines espèces parmi les oiseaux associés aux déesses ; il ne décrit pas chaque usage votif des siècles antérieurs. Ovide et Apulée, plus tardifs encore par rapport aux objets archaïques et classiques, enrichissent la représentation poétique de Vénus entourée de colombes. La continuité iconographique est une hypothèse à documenter à chaque étape.
+
+### XIII. Virgile : le signe reconnu par Énée dans la forêt
+
+Dans *Énéide* VI, 185–204, Énée cherche le rameau d'or nécessaire pour gagner le séjour des morts. Après une prière, deux colombes apparaissent (*geminae ... columbae*, vers 190). Il reconnaît les oiseaux de sa mère (*maternas agnoscit aves*, vers 193), les prie de le guider (*este duces*, vers 194) et suit leurs déplacements jusqu'à l'arbre du rameau. Une relation de filiation rend l'oiseau lisible : il ne suffit pas qu'il vole, il faut qu'Énée l'identifie et le situe dans sa mission.
+
+La séquence est remarquablement structurée : inquiétude, prière, événement, reconnaissance, demande de guidance, suivi du mouvement, découverte. Le poème note l'arrivée des oiseaux avec *forte*, ce qui maintient un jeu entre coïncidence diégétique et providence perçue. L'historien de la religion n'a pas à éliminer cette complexité par une formule telle que « Vénus envoie une colombe parce que la colombe est la paix ».
+
+Le signe n'est pas un oracle institutionnel. Le rapprochement avec Dodone porte sur une fonction générale de médiation, mais les conditions de reconnaissance, les agents, les lieux et les résultats sont différents.
+
+### XIV. Le seuil des morts : les colombes de Vénus et la traversée d'Énée
+
+Énée approche d'une descente au monde des morts ; le rameau d'or autorise un franchissement impossible aux vivants ordinaires. Les colombes indiquent le lieu de l'objet requis. Elles sont associées à sa mère Vénus ; elles ne s'identifient ni à la Sibylle ni aux puissances infernales. Leur fonction est de rendre réalisable un parcours, en orientant un héros dont la quête engage aussi les origines de Rome.
+
+Comparer les colombes homériques et virgiliennes permet de dégager une analogie limitée : des oiseaux traversent ou balisent des lieux dangereux à la frontière des régimes divin et humain. Cependant, chez Homère elles portent une substance immortelle, chez Virgile elles dirigent un homme vers un objet ouvrant le monde des morts. La différence est aussi structurante que l'analogie.
+
+La lecture philosophique peut formuler l'idée d'un savoir relationnel : Énée reconnaît parce qu'il sait à qui appartiennent les oiseaux. Il ne s'agit pas d'une théorie antique universelle des oiseaux messagers, mais d'une propriété narrative explicite de ce passage.
+
+### XV. Virgile, Ovide, Apulée : littérature et pratique ne se confondent pas
+
+Ovide, *Métamorphoses* XIV, autour du vers 597, et Apulée, *Métamorphoses* VI, 6, font également place aux colombes de Vénus. Cette récurrence soutient l'histoire d'un attribut poétique et iconographique de la déesse. Elle ne suffit pas à reconstituer une cérémonie romaine où l'on aurait obligatoirement interprété le vol des colombes en présence de Vénus. L'ornithomancie, l'auspice, le rêve et l'apparition littéraire appartiennent à des régimes de preuve différents.
+
+Les études de R. G. Austin et de Nicholas Horsfall sur le livre VI de l'*Énéide* sont nécessaires pour discuter les parallèles, le lexique et la signification du rameau sans isoler les colombes de la composition générale de l'épopée. La culture religieuse romaine requiert en outre la confrontation aux pratiques civiques, aux collèges sacerdotaux et aux inscriptions, ce dont un passage épique ne saurait tenir lieu.
+
+### XVI. Noé : expérience narrative, retours et indice environnemental
+
+Dans *Genèse* VIII, 6–12, après l'ouverture de la fenêtre de l'arche, Noé envoie un corbeau, puis une colombe. Celle-ci revient d'abord sans avoir trouvé où reposer le pied ; à la sortie suivante, elle rapporte une feuille d'olivier ; enfin, elle ne revient plus. Le récit met en scène une enquête par observation du comportement d'un animal. Noé cherche à savoir si les eaux ont diminué et si un milieu habitable réapparaît.
+
+La feuille d'olivier est donc un indice du retrait des eaux avant d'être un symbole moral. L'image moderne de la « colombe de la paix au rameau d'olivier » rassemble des développements ultérieurs et la réception d'un récit biblique ; elle ne restitue pas littéralement la seule finalité de VIII, 11. Il serait méthodologiquement plus juste de distinguer le signe écologique, la théologie du recommencement et la représentation iconographique élaborée après coup.
+
+La différence avec Virgile est essentielle : Noé choisit lui-même d'envoyer l'animal et lit son retour ; Énée reçoit une apparition et décide de la suivre. L'un teste un état du monde, l'autre cherche un chemin. La présence commune d'un oiseau guide ne doit pas effacer le sens de l'initiative.
+
+### XVII. Le déluge mésopotamien : parallèle vérifiable, filiation à discuter
+
+Le récit d'Uta-napišti dans la tablette XI de l'*Épopée de Gilgameš* comporte également l'envoi d'oiseaux après le déluge, afin de déterminer si la terre est à nouveau accessible. Le dossier relève d'un véritable problème de comparaison textuelle entre récits mésopotamiens et hébreux. Il ne suffit pas d'énoncer que « tous les peuples ont une colombe salvatrice » : la liste des oiseaux, leur ordre et les modalités de leurs retours doivent être examinés selon les versions et manuscrits.
+
+Les relations entre la tradition biblique et les compositions mésopotamiennes font l'objet d'une recherche historique importante ; l'existence de comparables narratifs étroits est plus solide qu'une explication par une symbolique ornithologique universelle. La reconstruction des voies exactes d'emprunt et de rédaction exige cependant une étude des textes akkadiens et des couches du récit hébreu. Les débats sur la composition du Pentateuque, représentés notamment par les analyses documentaires et leurs critiques, ne sont pas clos par la seule analogie.
+
+Cette étude ne fabrique pas une citation en akkadien ni des numéros de ligne de tablette XI non collationnés. Elle indique ce parallèle comme axe d'approfondissement à sources critiques obligatoires.
+
+### XVIII. Lévitique : une victime rituelle et un dispositif de ressources
+
+*Lévitique* I, 14–17 décrit la procédure de l'holocauste aviaire. *Lévitique* V, 7 autorise deux tourterelles ou deux jeunes pigeons lorsque la personne ne dispose pas des moyens d'offrir une victime plus coûteuse. *Lévitique* XII, 8 énonce pareillement un régime adapté aux ressources après l'accouchement. L'oiseau intervient dans une norme opératoire : il n'est ni un oracle ni un pur pictogramme de douceur, mais un corps offert selon un ordre liturgique.
+
+La distinction *tôrîm* / *benê-yônāh* est significative, et les prescriptions de gestes doivent être lues dans leur contexte de purification ou de sacrifice, sans harmonisation moderne de toutes les offrandes. Le fait qu'une alternative de moindre coût soit prévue constitue un fait social textuel ; on ne peut en déduire à lui seul ni l'abolition des hiérarchies économiques ni l'application uniforme des prescriptions dans toutes les communautés de l'Antiquité.
+
+La comparaison avec les statuettes chypriotes pose une question, non une identité : dans les deux ensembles, un oiseau peut être associé à un geste d'offrande. Pourtant une image votive et une règle sacerdotale ne sont pas deux témoignages interchangeables sur le même rite.
+
+### XIX. Osée et Cantique des cantiques : un symbole biblique contradictoire ?
+
+*Osée* VII, 11 assimile Éphraïm à une colombe dépourvue de discernement, dans une critique de décisions politiques. *Cantique des cantiques* II, 14 appelle la colombe cachée dans les fissures du rocher à montrer son visage et à faire entendre sa voix ; IV, 1 compare les yeux de la bien-aimée à des colombes. Les textes exploitent des propriétés affectives ou comportementales sans édicter une doctrine unique de l'animal.
+
+Il n'y a pas contradiction théologique à résoudre, mais pluralité de genres : oracles prophétiques, poésie amoureuse, loi cultuelle et récit de survie. Une monographie qui ferait de la colombe « le symbole biblique de pureté et de paix » effacerait la critique d'Osée et les prescriptions du Lévitique. La lecture comparée doit conserver le caractère situé et parfois polémique des images.
+
+### XX. Le baptême de Jésus : une comparaison grecque et ses variations
+
+*Marc* I, 10 emploie *ὡς περιστερὰν*, « comme une colombe », pour décrire la descente de l'Esprit. *Matthieu* III, 16 et *Jean* I, 32 utilisent également une comparaison, avec des configurations narratives propres. *Luc* III, 22 précise *σωματικῷ εἴδει ὡς περιστερὰν*, « sous une apparence corporelle comme une colombe ». La différence est philologiquement réelle : il faut éviter de substituer silencieusement l'expression développée de Luc au texte plus sobre de Marc.
+
+La réception chrétienne a stabilisé une iconographie de l'Esprit représenté comme colombe ; c'est un dossier d'histoire de l'art et de théologie. Le rapprochement du baptême avec la colombe du déluge est une lecture typologique possible et souvent pratiquée, mais aucun auteur ne peut l'attribuer comme citation explicite à chaque évangéliste sans montrer le passage et le mécanisme. L'iconographie postérieure ne prouve pas qu'un oiseau vivant soit historiquement descendu lors du baptême.
+
+Les textes permettent de séparer événement narré, comparaison de la manifestation, témoignage de l'identité de Jésus et développement artistique. Une prétendue continuité automatique « Noé = baptême = paix » serait beaucoup trop pauvre.
+
+### XXI. Ṛgveda X, 165 : la colombe est un présage inquiétant
+
+Le *Ṛgveda* X, 165 est constitué de cinq strophes portant sur un *kapota* venu au voisinage de l'habitation. L'arrivée est traitée comme l'envoi d'une puissance destructrice ; le texte cherche l'apaisement et souhaite préserver les êtres humains, le bétail et le foyer. Il invoque la relation de l'oiseau à Yama et formule une expulsion rituelle par des paroles hymniques. Le registre n'est pas celui d'une victoire pacificatrice, mais celui d'une dangerosité qu'on tente de détourner.
+
+L'original sanskrit et les traductions modernes sont essentiels, en particulier pour *dūta* et les formes qui entourent la ruine ou la mort. La quatrième strophe associe l'oiseau au messager de Yama ; la cinquième appelle à repousser le pigeon/colombe. Cet exemple contredit de manière nette toute proposition selon laquelle une colombe serait toujours un messager favorable.
+
+**Établi :** le texte hymnique traite l'oiseau comme possible menace. **Non démontré :** la fréquence réelle de ce présage dans tous les foyers védiques, ou l'existence d'un culte autonome du pigeon. **Lecture philosophique :** le signe de malheur procède d'une interprétation et d'une réponse collective normée, non d'une qualité mystérieuse mesurable chez l'animal.
+
+### XXII. Quand les colombes apprennent, conduisent ou inquiètent
+
+Dans la *Genèse*, Noé envoie et recueille l'oiseau pour se renseigner ; dans l'*Énéide*, Énée interprète et suit le vol ; dans l'hymne védique, une arrivée non sollicitée appelle une réaction de protection ; à Dodone, l'oiseau mythique parle pour instituer un oracle. On peut définir quatre opérations : observation d'un indice, guidance par un attribut reconnu, neutralisation d'un présage et autorisation par une voix merveilleuse.
+
+Cette typologie est contemporaine ; ce n'est ni le vocabulaire des traditions étudiées ni une essence universelle. Son utilité est de rendre la comparaison falsifiable. Un nouveau texte qui ferait agir la colombe autrement obligerait à modifier la classification. Un rapprochement non contrôlé qui rangerait tout sous le terme « messager » manquerait précisément ce que les documents révèlent de différent.
+
+### XXIII. Le problème de l'agent : oiseau, dieu ou humain ?
+
+Qui envoie l'oiseau ? Dans la *Genèse*, l'initiative vient de Noé ; chez Virgile, l'apparition est reconnue comme assistance de la mère divine ; à Dodone, selon le mythe, l'oiseau porte une injonction fondatrice ; dans le *Ṛgveda*, le foyer redoute la puissance qui l'a envoyé. Qui interprète ? Noé, Énée, les habitants de Dodone ou les récitants védiques. Quel résultat en découle ? Information écologique, découverte d'un objet, fondation d'une institution ou rite de conjuration.
+
+Une analyse centrée sur l'oiseau sans prendre en compte l'agent humain échoue à saisir l'objet historique : les communautés font des actes d'interprétation, de mémoire et de réglementation. On ne peut parler d'une divinité de la colombe sans textes ou objets attestant une telle figure. La notion d'agentivité doit rester descriptive, et non introduire une personnalité invisible dans les animaux.
+
+### XXIV. Les cadres spatiaux ne sont pas interchangeables
+
+Le chêne de Dodone ancre la voix fondatrice ; les roches de l'*Odyssée* exposent la fragilité du convoyeur d'ambroisie ; la forêt d'Énée est un lieu d'orientation vers le monde des morts ; l'arche de Noé met l'oiseau en relation avec la terre et l'eau ; l'autel du Lévitique impose la transformation sacrificielle ; le foyer de l'hymne védique devient l'espace d'une menace. Les mêmes gestes ornithologiques n'ont pas le même statut selon l'espace religieux.
+
+Le risque des comparaisons iconographiques panoramiques est de supprimer ces différences de site et de dispositif. Une photographie d'oiseau ne permet pas de remplacer le chêne, l'arche ou la forêt. Le contexte est une composante explicative, pas une décoration autour d'un symbole supposé constant.
+
+### XXV. La colombe de la paix : une histoire de réception et de sélection
+
+La modernité a fortement privilégié la figure de l'oiseau revenu à Noé avec l'olivier pour construire un signe de réconciliation. La réception chrétienne de la comparaison baptismale a également contribué au prestige de la figure. Il serait anachronique de projeter cette signification sur l'ensemble du monde ancien. Dans la *Genèse*, la feuille renseigne d'abord sur le retrait des eaux ; dans le *Ṛgveda*, l'oiseau constitue un signe d'alarme ; dans l'*Odyssée*, il peut mourir en accomplissant un service divin.
+
+L'histoire des symboles doit donc être aussi une histoire des oublis : pourquoi une image bénéfique devient-elle dominante, tandis que les lectures funestes et les emplois économiques ou matériels sont minimisés ? Répondre suppose une étude des usages postérieurs par périodes et supports, non une essence intemporelle du motif.
+
+### XXVI. Histoire comparée des religions : diffusion ou analogie ?
+
+L'existence de réseaux d'échange en Méditerranée et de traductions entre communautés ne permet pas de présumer un transfert unique du « culte de la colombe ». Pour démontrer une filiation précise, il faudrait un faisceau de preuves datées : forme rare commune, contacts vérifiables, succession chronologique compatible, transformations identifiables, exclusion raisonnable d'autres explications.
+
+Entre l'iconographie grecque d'Aphrodite et Vénus romaine, l'histoire des correspondances divines et des transmissions littéraires rend plausible une continuité à détailler. Entre les colombes de Dodone et l'Égypte, Hérodote fournit une tradition de transfert, non une preuve indépendante. Entre les récits de déluge mésopotamiens et bibliques, des parallèles narratifs serrés appellent une recherche philologique spécialisée. Entre la colombe de Noé et le *kapota* védique, la seule identité approximative de l'oiseau n'établit aucune généalogie.
+
+Les convergences liées aux comportements visibles des oiseaux sont une hypothèse possible ; elles ne démontrent ni emprunt ni signification unique.
+
+### XXVII. La sémiotique comme modèle philosophique, non comme source antique
+
+Charles S. Peirce distingue, dans une théorie moderne, icône, indice et symbole. La feuille portée par l'oiseau de Noé est interprétée comme indice d'un changement du milieu ; les oiseaux reconnus par Énée fonctionnent comme attributs d'une puissance maternelle ; la colombe de Dodone est personnage parlant d'une étiologie cultuelle. Ces distinctions éclairent les textes, mais il serait abusif d'affirmer que les Anciens les ont conçues en termes peirciens.
+
+Ernst Cassirer peut aider à étudier la formation de régimes symboliques ; Jean-Pierre Vernant, les rapports entre récit, action et institution grecque ; Walter Burkert, les pratiques religieuses ; Mary Douglas, les systèmes de classement et la pureté. Ces auteurs forment un outillage analytique. Ils ne remplacent pas la traduction des lignes d'Hérodote ou de l'*Énéide*, ni une collation sanskrite.
+
+La conclusion philosophique ne porte pas sur la « spiritualité de la colombe », mais sur la transformation d'un comportement, d'une image ou d'un objet en élément d'un langage social doté de règles.
+
+### XXVIII. L'économie rituelle et la distinction entre voir et offrir
+
+Le dossier chypriote montre des gestes figurés ; les passages lévitiques prescrivent des opérations d'offrande. Les rapprocher est pertinent à condition d'expliciter les médiations : une statuette n'est pas un registre de sacrifices, et une norme juridique n'est pas un inventaire de pratiques réalisées. Les deux attestent néanmoins que l'oiseau peut être impliqué dans une relation réglée entre humains et divinités.
+
+Dans la littérature, la présence est plutôt médiée par la perception : lire la direction d'un vol, entendre une voix, déchiffrer un retour. L'historien a ainsi affaire à deux modalités irréductibles : l'oiseau manipulé et l'oiseau interprété. La même espèce peut relever des deux, mais les preuves diffèrent selon les corpus.
+
+### XXIX. Limites d'archéologie et documentation muséale
+
+Les pièces du Metropolitan Museum of Art donnent une prise matérielle à l'enquête, avec datation et numéro d'objet. Mais une provenance géographique « Chypre » n'est pas forcément un contexte de fouille suffisamment précis pour identifier un sanctuaire, un autel ou une cérémonie. La collection Cesnola, assemblée au XIXe siècle, doit être interrogée sur les trajectoires de collecte et les incertitudes documentaires. La mise en ligne d'une photo en domaine public ne résout pas ces questions historiques.
+
+La figurine d'Aphrodite (12.232.12) porte une association iconographique explicite. Une colombe isolée (74.51.2722) prouve la production d'une image ornithomorphe, non son destinataire divin certain. Le geste d'un offrant (74.51.2686 ou 74.51.2725) ne prouve pas, sans dossier contextuel, que tous les oiseaux aient été immolés. Cette discipline évite de construire une liturgie imaginaire à partir de photographies d'objets.
+
+### XXX. Tableau épistémique de synthèse
+
+| Dossier | Source située | Ce qui est assuré | Ce qui reste ouvert |
+|---|---|---|---|
+| Dodone et Ammon | Hérodote II, 54–57 | Deux récits de fondation et une explication rationalisante | Origine historique des oracles, transfert réel de prêtresses |
+| Homère | *Odyssée* XII, 62–65 | Colombes porteuses d'ambroisie, exposées à la perte | Origine du motif, rapport à un rituel réel |
+| Aphrodite | Met 12.232.12 ; 74.51.2722 | Association représentée ; objet inventorié | Destinataire de chaque objet sans contexte |
+| Virgile | *Énéide* VI, 190–204 | Deux colombes guident Énée après reconnaissance | Modèle rituel éventuel derrière la scène poétique |
+| Noé | *Genèse* VIII, 8–12 | Retours successifs ; feuille d'olivier comme indice | Généalogie rédactionnelle exacte et réception iconographique |
+| Offrandes | *Lévitique* I, V et XII | Alternatives de victimes et règles économiques | Degré d'application historique |
+| Baptême | *Marc* I, 10 ; *Luc* III, 22 | Descente de l'Esprit comparée à une colombe | Modalités historiques de l'événement ; genèse iconographique |
+| Inde védique | *Ṛgveda* X, 165 | Oiseau lié à un présage négatif et à Yama | Diffusion sociale précise et variantes de réception |
+
+Le tableau ne doit pas être lu comme échelle évolutionniste où l'Inde serait un « archaïsme » et le christianisme un « accomplissement ». Les sources sont historiquement situées et leurs valeurs ne sont pas ordonnées dans une progression de la conscience humaine.
+
+### XXXI. Dossier de lecture : courts passages à collationner
+
+**A. Hérodote II, 55.** La version dodonéenne fait parler une colombe noire posée sur un chêne. Lire également II, 54 et II, 56–57 pour ne pas citer le prodige en supprimant le contre-récit et l'explication de l'historien.
+
+**B. *Odyssée* XII, 62–65.** Les *peleiai* portent l'ambroisie destinée à Zeus et peuvent être perdues dans le passage des roches. Le qualificatif de peur et la substitution d'un oiseau sont essentiels.
+
+**C. Virgile VI, 190–204.** *Geminae ... columbae*, *maternas ... aves*, *este duces* : trois formulations courtes qui articulent présence, reconnaissance et acte de suivre.
+
+**D. *Genèse* VIII, 8–12.** Retours et non-retour de la colombe : la séquence complète distingue recherche, découverte d'un indice et absence finale de retour.
+
+**E. *Lévitique* XII, 8.** Le critère « si ses ressources ne suffisent pas » interdit d'interpréter les oiseaux sacrificiels seulement comme signes décoratifs.
+
+**F. *Marc* I, 10 et *Luc* III, 22.** *ὡς περιστερὰν* face à *σωματικῷ εἴδει ὡς περιστερὰν* : distinguer les choix rédactionnels.
+
+**G. *Ṛgveda* X, 165, 1–5.** Relever *kapota*, les termes du messager et les désignations du malheur ; confronter à l'adresse à Yama et au renvoi de l'oiseau.
+
+### XXXII. Bibliographie primaire et éditions de référence
+
+1. Homère, *Odyssée* XII, 59–72 ; grec consultable : https://www.homericgreek.com/odyssey/12 .
+2. Hérodote, *Histoires* II, 50–57 ; texte et traduction consultables : https://adfonteslibrary.org/herodotus-1 .
+3. Virgile, *Énéide* VI, 185–211 ; texte latin de VI, 185–204 sur une ressource du département des Classics de Harvard : https://classics.fas.harvard.edu/publications/virgil-aeneid-6185%E2%80%93204-read-latin-wendell-clausen .
+4. Ovide, *Métamorphoses* XIV, autour du vers 597, association de Vénus et de ses colombes ; contrôler l'édition utilisée.
+5. Apulée, *Métamorphoses* VI, 6, cortège de Vénus.
+6. Élien, *De natura animalium* X, 33, tourterelles attribuées à Aphrodite et Déméter.
+7. Bible hébraïque, *Genèse* VIII, 6–12 ; https://www.sefaria.org/Genesis.8 .
+8. Bible hébraïque, *Lévitique* I, 14–17 ; V, 7 ; XII, 8 ; https://www.sefaria.org/Leviticus.12.8 .
+9. Bible hébraïque, *Osée* VII, 11 ; *Cantique des cantiques* II, 14 et IV, 1.
+10. *Évangile selon Marc* I, 9–11 ; *Matthieu* III, 16 ; *Luc* III, 21–22 ; *Jean* I, 32–34. Texte grec de Luc : https://www.greekbible.com/luke/3/22 .
+11. *Ṛgveda* X, 165, strophes 1–5, texte sanskrit et traduction historique : https://vmlt.in/rigveda/10/165 .
+12. *Épopée de Gilgameš*, tablette XI, envois des oiseaux après le déluge ; établir les variantes sur édition akkadienne critique avant citation détaillée de lignes.
+13. Ibn Ezra, commentaire de *Lévitique* I, 14, témoin de réception philologique : https://www.sefaria.org/Ibn_Ezra_on_Leviticus.1.14 .
+
+### XXXIII. Bibliographie scientifique et historiographie critique
+
+14. H. W. Parke, *The Oracles of Zeus: Dodona, Olympia, Ammon*, Oxford, Blackwell, 1967.
+15. Éric Lhôte, *Les lamelles oraculaires de Dodone*, Genève, Droz, 2006.
+16. Walter Burkert, *Greek Religion*, Cambridge (Mass.), Harvard University Press, 1985 ; original allemand de 1977.
+17. Robert Parker, *On Greek Religion*, Ithaca, Cornell University Press, 2011.
+18. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, Paris, Maspero, 1965.
+19. Étude académique récente sur les consultations de Dodone, dépôt institutionnel UCL : https://discovery.ucl.ac.uk/10134703/1/Frank_Oracular%20inquiries%20and%20daily%20life.%20The%20oracle%20of%20Dodona%20in%20the%20Classical%20and%20Hellenistic%20period.pdf .
+20. R. G. Austin, *P. Vergili Maronis Aeneidos Liber Sextus*, Oxford, Clarendon Press, 1977.
+21. Nicholas Horsfall, *Virgil, Aeneid 6: A Commentary*, Berlin/Boston, De Gruyter, 2013.
+22. Philip Hardie, *Virgil's Aeneid: Cosmos and Imperium*, Oxford, Clarendon Press, 1986.
+23. John Scheid, *La religion des Romains*, Paris, Armand Colin, 1998.
+24. Gordon J. Wenham, *Genesis 1–15*, Word Biblical Commentary 1, Waco, Word Books, 1987.
+25. Jacob Milgrom, *Leviticus 1–16: A New Translation with Introduction and Commentary*, Anchor Bible 3, New York, Doubleday, 1991.
+26. Mary Douglas, *Leviticus as Literature*, Oxford, Oxford University Press, 1999.
+27. John J. Collins, *Introduction to the Hebrew Bible*, Minneapolis, Fortress Press, 2004.
+28. Joel Marcus, *Mark 1–8*, Anchor Bible 27, New York, Doubleday, 2000.
+29. Joseph A. Fitzmyer, *The Gospel According to Luke I–IX*, Anchor Bible 28, Garden City, Doubleday, 1981.
+30. Joel S. Baden, *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*, New Haven, Yale University Press, 2012.
+31. Stephanie W. Jamison et Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India*, trois volumes, New York, Oxford University Press, 2014.
+32. R. T. H. Griffith, *The Hymns of the Rigveda*, traduction anglaise historique, 1896 ; à confronter avec les traductions contemporaines.
+33. Charles S. Peirce, *Collected Papers of Charles Sanders Peirce*, volume II, éd. Charles Hartshorne et Paul Weiss, Cambridge (Mass.), Harvard University Press, 1932.
+34. Ernst Cassirer, *Philosophie der symbolischen Formen*, II, *Das mythische Denken*, Berlin, Bruno Cassirer, 1925.
+35. Claude Lévi-Strauss, *Le totémisme aujourd'hui*, Paris, PUF, 1962.
+36. Mary Douglas, *Purity and Danger*, Londres, Routledge & Kegan Paul, 1966.
+37. Philippe Descola, *Par-delà nature et culture*, Paris, Gallimard, 2005.
+
+Cette bibliographie est un programme contrôlable de lecture et non une attestation que chaque édition savante a été intégralement collationnée lors de cette livraison. L'appareil philologique distingue les passages repérés et vérifiés des compléments d'analyse qui requièrent encore confrontation aux éditions critiques.
+
+### XXXIV. Programme iconographique : objets identifiés et droits à vérifier
+
+**Illustration A — Aphrodite assise, avec patère et colombe sur le genou.** Metropolitan Museum of Art, terre cuite d'Italie méridionale, IIIe siècle avant notre ère, **12.232.12**, https://www.metmuseum.org/art/collection/search/248711 . C'est la pièce principale du corpus iconographique parce que la figure divine est identifiée par la notice et le motif est explicite.
+
+**Illustration B — Statuette de colombe en calcaire.** Metropolitan Museum of Art, Chypre, IVe siècle avant notre ère, **74.51.2722**, https://www.metmuseum.org/art/collection/search/242273 . La notice signale des traits de couleur rouge figurant les plumes. La colombe isolée n'identifie pas à elle seule une déesse.
+
+**Illustration C — Offrant tenant une colombe.** Metropolitan Museum of Art, Chypre, seconde moitié du Ve siècle avant notre ère, **74.51.2686**, https://www.metmuseum.org/art/collection/search/242237 . Éviter l'invention d'un lieu de fouille ou d'un acte sacrificiel précis.
+
+**Illustration D — Offrant masculin avec colombe et pomme.** Metropolitan Museum of Art, époque hellénistique, IIIe–Ier siècle avant notre ère, **74.51.2725**, https://www.metmuseum.org/art/collection/search/242276 . Identifier l'état de conservation avant de rédiger la légende.
+
+**Illustration E — Main sculptée tenant une colombe.** Metropolitan Museum of Art, calcaire chypriote, **74.51.2719**, https://www.metmuseum.org/art/collection/search/242270 . Ne pas attribuer de datation non fournie par le catalogue.
+
+**Illustration F — Planche philologique originale.** Composer sur le site, sans faux fac-similé, quatre courts extraits sourcés : *peleiai* (Homère XII, 62–65), *columbae* (Virgile VI, 190), *yônāh* (Genèse VIII, 11), *kapota* (Ṛgveda X, 165). Donner graphies exactes, translittérations et traductions nouvelles.
+
+**Illustration G — Carte raisonnée des sources.** Situer Dodone, Thèbes d'Égypte, l'oasis d'Ammon, Chypre, Rome et l'aire des textes védiques, sans dessiner de flèches de diffusion culturelle non attestée. Une carte documentaire n'est pas une démonstration de transfert.
+
+**Illustration H — Dodone aujourd'hui.** Photographie récente du sanctuaire provenant d'une institution archéologique grecque, créditée avec date, droits et lieu exacts après vérification. Ne pas présenter un chêne actuel comme le chêne historique de l'oracle.
+
+Aucune de ces images n'est prétendue intégrée ou déployée. Les fiches du Metropolitan Museum constituent des sources d'inventaire vérifiables ; vérifier séparément la licence de chaque fichier et la conservation des métadonnées avant toute réutilisation, y compris lorsqu'un objet est indiqué « Public Domain ».
+
+### XXXV. Audit scientifique final, objections et suite de la recherche
+
+Le programme de relecture prioritaire comporte : la collation des trois passages d'Hérodote II, 54–57 et le problème des *Peleiades* ; l'analyse de *τρήρωνες* en *Odyssée* XII ; la valeur de *forte*, *maternas aves* et *este duces* dans l'*Énéide* ; la comparaison hébraïque de *yônāh*, *tôr* et *benê-yônāh* ; la composition et les variantes du récit du déluge ; la comparaison textuelle entre Marc et Luc sur l'apparence de la colombe ; l'examen sanskrit de *kapota* et des termes de mauvais présage en Ṛgveda X, 165 ; le contrôle des provenances de la collection Cesnola.
+
+L'objection majeure à la thèse est que des comportements aviaires communs pourraient, indépendamment de tout code, rendre l'oiseau universellement médiateur. La comparaison accepte cette possibilité limitée mais constate qu'elle ne prédit aucunement si le signe rassure, condamne, guide, renseigne, est sacrifié ou institue un sanctuaire. L'hypothèse écologique peut expliquer pourquoi un oiseau est disponible pour la symbolisation ; seule l'histoire des textes et des pratiques explique, dans chaque dossier, ce qu'il signifie.
+
+Autre objection : certaines analogies méditerranéennes découlent peut-être de transferts précis. C'est vraisemblable dans des domaines liés à la diffusion des figures d'Aphrodite/Vénus ou aux traditions de déluge, mais la preuve doit se faire dans chaque chaîne documentaire et non au prix d'une origine unique inventée.
+
+### XXXVI. Conclusion
+
+L'histoire religieuse des colombes est d'abord une histoire des interprètes, des institutions et des genres. Le dossier de Dodone fait réfléchir aux langues et aux fondations oraculaires ; Homère à la fragilité de serviteurs ailés de Zeus ; l'iconographie d'Aphrodite aux gestes votifs ; Virgile à la reconnaissance du secours maternel ; la *Genèse* à l'inférence d'un retour de la terre ; le *Lévitique* aux conditions économiques d'un sacrifice ; les évangiles à une représentation de l'Esprit ; le *Ṛgveda* à une menace domestique qu'on cherche à neutraliser.
+
+**Établi** : les formulations primaires localisées et les objets muséaux inventoriés. **Hypothétique** : les transferts précis, les origines réelles de l'oracle et les fonctions des objets sans contexte certain. **Philosophique** : la distinction entre fait naturel, indice, attribut, interprétation et institution. Le résultat n'est pas une colombe religieuse universelle, mais une comparaison scientifique de fonctions irréductiblement plurielles.
+
+---
+*Note de continuité : MC-136 constitue un projet distinct des études déjà vérifiées de la série, notamment MC-051 (oracles), MC-086 (empreintes), MC-092 (miroirs), MC-097 (cheveux), MC-099 (abeilles), MC-121 (poissons) et MC-135 (échelles). La cote historique est soumise au garde anti-collision ; aucun numéro canonique n'est choisi depuis la conversation. Aucune autre série, planification, demande ni fichier existant n'est modifié par le dépôt de ce seul manuscrit.*

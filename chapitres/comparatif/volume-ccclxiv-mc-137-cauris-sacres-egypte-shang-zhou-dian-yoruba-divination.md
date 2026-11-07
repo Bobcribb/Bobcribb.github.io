@@ -1,0 +1,364 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCCLXIV (364)
+
+## MC-137 — Les cauris du sacré : richesse, divination, protection et souveraineté de l’Égypte aux mondes chinois et africains
+
+**Monographie universitaire originale en français — 7 novembre 2026.**
+
+**Domaines :** égyptologie, numismatique, épigraphie chinoise, archéologie Dian, études yoruba, philologie et anthropologie des rites, histoire économique, philosophie et muséologie.
+
+**Résumé.** Un même mollusque, ou son imitation, peut être porté autour des hanches, utilisé comme unité de compte, déposé dans une tombe, offert dans un sanctuaire ou jeté lors d'une consultation. Ce dossier montre pourquoi la valeur d'un cauri est historiquement construite, non biologiquement fixée. Les sources primaires sont distinguées des inférences et des lectures philosophiques.
+
+
+## I. Introduction, épistémologie et limites
+
+### 001. Définir un cauri
+
+[A] Les cauris sont des coquilles de gastéropodes marins de la famille des Cypraeidae. Selon les sociétés, ils peuvent être conservés dans des tombes, portés, échangés, imités, consacrés ou utilisés pour consulter un oracle. [N] Une coquille ne possède pas par nature une signification religieuse universelle. [I] La comparaison doit distinguer l'objet biologique, sa représentation en métal ou en pierre, ses usages économiques, sa place dans le rituel et son classement muséal. La ressemblance de deux cauris ne prouve jamais l'identité de deux institutions.
+
+### 002. Du mollusque à la valeur
+
+[I] Les qualités de surface, régularité, taille et facilité d'enfilage peuvent rendre un cauri reconnaissable et transportable. Mais ces propriétés ne constituent qu'une disponibilité matérielle. Une société peut lui attribuer un prix, une fonction ornementale ou une capacité d'interrogation ; la convention se construit historiquement. [N] Le mot « monnaie » exige plus que la rareté ou la présence d'un objet en tombe. [P] La valeur n'est pas un contenu naturel de la coquille mais une relation entre êtres humains, institutions et choses.
+
+### 003. Les espèces et les faux noms
+
+[A] Certaines notices anciennes emploient le taxon *Cypraea moneta* ; des classifications récentes utilisent *Monetaria moneta*. Le terme générique « cowrie » ne désigne pas nécessairement un seul taxon. [I] Il faut confronter chaque pièce identifiable à la zoologie et à la provenance. [N] Une imitation en cuivre, or, faïence ou pierre ne permet pas d'établir une espèce marine déterminée, et le lieu d'extraction de la matière n'est pas le lieu où l'objet a acquis son sens culturel.
+
+### 004. Une méthode à quatre niveaux
+
+[A] La première strate est matérielle : objet, inventaire, contexte, état. La seconde est textuelle : inscription ou récit réellement transmis. La troisième est historique : interprétation d'un chercheur ou d'un musée. La quatrième est philosophique : réflexion contemporaine sur valeur et représentation. [N] Les quatre doivent rester distinctes dans la rédaction. Une attestation de cauri en tombe ne prouve pas un rite de fécondité ; une notice qui propose « probablement » une fonction ne doit pas être transformée en affirmation indiscutable.
+
+### 005. Étiquettes épistémiques
+
+[A] = document primaire, objet ou formulation attestée ; [I] = inférence argumentée ; [H] = hypothèse discutée ; [P] = lecture philosophique moderne ; [N] = limite, réfutation ou correction. Quand un texte religieux atteste une croyance, son existence comme parole est établie, pas son efficacité surnaturelle comme phénomène physique. Les inventaires de musée sont des témoins privilégiés de matériaux et de lieux proposés, mais leurs propres interprétations restent ouvertes à révision.
+
+### 006. Une pluralité de temporalités
+
+[A] Le dossier réunit des parures égyptiennes des deuxième et premier millénaires avant notre ère, des inscriptions de la Chine Shang et Zhou, des bronzes du royaume de Dian, des objets yoruba et fali des XIXe–XXe siècles et des enquêtes de divination publiées au XXe. [I] Ces témoins n'ont pas le même genre ni le même régime de conservation. [N] Un objet récent peut documenter une tradition vivante mais ne prouve pas sa présence à l'âge du Bronze.
+
+### 007. Cinq opérations comparables
+
+Porter, compter, imiter, déposer et consulter sont des verbes utiles pour distribuer le corpus. [I] Une ceinture de cauris peut marquer un rang et produire un léger bruit ; un lot lié peut compter une valeur ; une imitation minérale conserve la silhouette ; un contenant de tombe garde une richesse ; un tirage rend visible une figure à interpréter. [N] Ces opérations ne sont pas équivalentes. L'étude s'interdit d'appeler « amulette » chaque cauri ou « monnaie » chaque dépôt funéraire.
+
+### 008. Le piège de la déesse-mère universelle
+
+[H] La ressemblance du cauri avec une ouverture anatomique a parfois suscité une lecture de fécondité, pertinente dans certains contextes. [N] Cette interprétation est impropre à expliquer sans preuve les récompenses royales chinoises, les contenants de Dian ou toutes les opérations de divination yoruba. [P] L'analogie corporelle est une hypothèse locale à tester, non une archéologie imaginée d'une religion mondiale des coquilles. La comparaison sera falsifiable par ses contre-exemples.
+
+### 009. Les autres séries MYTHOS
+
+Les études précédentes sur les conques musicales, sur les poissons, sur les gemmes et sur le royaume de Dian dans *Les Origines du sacré* restent autonomes. Le présent dossier porte spécifiquement sur les **cauris comme matière d'ornementation, de valeur, de consultation et d'offrande**. [N] Il ne répète pas un chapitre local de fouilles : il juxtapose des systèmes dont les sources, fonctions et chronologies ne se recouvrent pas. Les manuscrits et reçus préexistants ne sont pas modifiés.
+
+
+## II. Égypte : ceintures sonores et imitations précieuses
+
+### 010. Lahun, la tombe de Sithathoryunet
+
+[A] La ceinture à cauris de la princesse Sithathoryunet, **Met 16.1.5**, vient de Lahun, tombe fouillée en 1914. Datée environ **1887–1813 av. notre ère**, elle comprend de l'or, des perles colorées et des éléments en forme de coquilles. Notice : https://www.metmuseum.org/art/collection/search/545533. [I] La parure permet d'étudier le prestige de cour et la matérialité de l'habillement. [N] Son contexte funéraire n'établit pas automatiquement l'usage identique de ces objets par toutes les femmes égyptiennes.
+
+### 011. Huit formes d'or
+
+[A] Les **huit** formes de cauris de la ceinture de Sithathoryunet sont réalisées en feuille d'or. **Sept** comportent de petites billes métalliques qui pouvaient produire un tintement, le huitième servant de fermoir coulissant. [I] L'objet associe imitation d'un organisme, bijouterie, mobilité et acoustique potentielle. [N] Le musée peut expliquer comment le bruit serait produit, sans restituer la chorégraphie ni la durée d'une cérémonie. Une ceinture sonore n'est pas une preuve automatique d'un culte de danse.
+
+### 012. La position des hanches
+
+[A] Le Metropolitan Museum rappelle des ceintures de cauris figurées aux hanches de statuettes féminines nues du Moyen et du Nouvel Empire, et évoque des associations érotiques. [I] L'hypothèse de rapports à la sexualité et à la fécondité mérite d'être étudiée à partir des séries d'images, positions corporelles et contextes d'utilisation. [N] Une iconographie féminine ne suffit pas à affirmer que chaque cauri égyptien était un emblème de procréation ni que les mêmes significations valent ailleurs.
+
+### 013. L'ensemble des bijoux de Lahun
+
+[A] La notice d'ensemble **Met 16.1.5–.13-related** rassemble ceinture, bracelets de lions, bracelets au nom d'Amenemhat III et chevillières. Les pièces furent trouvées dans des boîtes dégradées, puis reconstituées en musée : https://www.metmuseum.org/art/collection/search/698627. [I] Une présentation muséale organise des éléments anciens réels en une forme intelligible. [N] Elle ne démontre pas que chaque bijou a été fabriqué ou porté simultanément, et la datation d'un nom royal n'épuise pas l'histoire de l'objet.
+
+### 014. Asasif : le cauri en électrum sur plâtre
+
+[A] La ceinture du Met **13.180.11**, issue d'une chambre funéraire d'Asasif à Thèbes explorée en 1912–1913, possède des cauris **en électrum sur plâtre**, avec cornaline et améthyste. Sa date proposée est **1850–1700 av. notre ère** : https://www.metmuseum.org/art/collection/search/544420. [I] La coquille est ici imitée sans conserver la matière organique. [N] La tombe était perturbée ; les associations entre objets et les datations de chaque élément doivent être examinées séparément.
+
+### 015. Hepy et le prestige de Lisht
+
+[A] Une ceinture de Hepy, **Met 34.1.154 et 34.1.156**, provenant de Lisht Sud, mêle or, lapis-lazuli et éléments en forme de cauris ; le musée propose une date vers **1950–1885 av. notre ère**, https://www.metmuseum.org/art/collection/search/545152. [I] Une comparaison technique avec Lahun montre une famille de bijoux mais ne fixe pas le nom d'un rite partagé. [N] Le matériau, la provenance et le contexte de chaque exemplaire importent davantage qu'une histoire spéculative d'un symbole éternel.
+
+### 016. Un cauri d'or de Lisht Nord
+
+[A] Le petit élément **Met 09.180.1200**, en or et en forme de cauri, a été trouvé dans le cimetière de Lisht Nord. Le catalogue le date approximativement **1850–1640 av. notre ère** et envisage une provenance de ceinture féminine : https://www.metmuseum.org/art/collection/search/544114. [I] La technique métallurgique transpose une forme marine dans un bijou précieux. [N] « Peut avoir appartenu à une ceinture » n'est pas équivalent à une identification définitive de la fonction.
+
+### 017. Un cauri en diorite
+
+[A] Le Met conserve **30.8.343**, amulette en forme de cauri sculptée dans de la **diorite**, datée largement entre Moyen Empire et Deuxième Période intermédiaire : https://www.metmuseum.org/art/collection/search/556049. [I] L'objet constitue un excellent contre-exemple à toute théorie selon laquelle la puissance supposée d'un cauri dépendait nécessairement de la présence d'une vraie coquille. [N] « Amulette » est une qualification curatoriale ; elle n'établit pas toutes les paroles et gestes de son utilisation.
+
+### 018. La faïence de Malqata et la plume de Maât
+
+[A] Le sceau-amulette **Met 11.215.32**, Malqata, règne d'Amenhotep III, est **en faïence**, en forme de cauri ; sa base porte la plume d'autruche associée à Maât. Date proposée **1386–1347 av. notre ère** : https://www.metmuseum.org/art/collection/search/551430. [I] Une forme de coquillage et un signe graphique peuvent se superposer dans un objet sans devenir une seule divinité. [N] Le cas ne prouve pas que tous les cauris signifiaient Maât.
+
+### 019. Les limites de la fécondité égyptienne
+
+[H] La forme du cauri et son emplacement corporel peuvent contribuer à des lectures d'érotisme, fécondité et protection. Mais un cauri de faïence associé à Maât n'a pas nécessairement cette fonction, et une ceinture en électrum ne transmet pas une substance animale. [I] Les interprétations doivent suivre les images et textes particuliers. [P] Une forme empruntée à la nature peut être adaptée aux besoins d'une institution sociale sans transporter un sens fixe.
+
+### 020. Conclusion égyptienne
+
+[A] Les pièces de Lahun, Asasif, Lisht et Malqata montrent des cauris imités par différentes techniques et insérés dans des bijoux ou amulettes. [I] Leur distribution couvre plusieurs siècles et milieux. [N] On ne connaît pas un rite unique que tous ces objets auraient réalisé. Il faut conserver les différences entre or, électrum sur plâtre, diorite et faïence, entre tombe et palais, entre objet sonore et sceau.
+
+
+## III. Chine ancienne : shell money et prudence épigraphique
+
+### 021. Le signe 貝
+
+[A] Le chinois **貝**, *bèi*, renvoie à la coquille et entre dans des graphèmes associés aux échanges. Des textes sur os et bronzes des dynasties Shang et Zhou mentionnent des cadeaux, réserves et récompenses de cauris. Source institutionnelle : British Museum, objet **1988,0809.14**, https://artsandculture.google.com/asset/cowrie-shells/egHbI6kc10-jOQ. [I] Le vocabulaire et le comptage sont des indices de pratiques politiques et économiques. [N] Une origine graphique ne signifie pas qu'un culte de la coquille se serait transmis sans changement jusqu'à aujourd'hui.
+
+### 022. Quand la coquille devient-elle monnaie ?
+
+[I] L'existence de cauris en contexte économique ne prouve pas toujours une monnaie générale. Une récompense d'aristocrate, un objet dans un trésor et une transaction quotidienne ne sont pas des actes identiques. *Shell Money: A Comparative Study* (Cambridge University Press), section Chine, discute ces distinctions, https://www.cambridge.org/core/elements/shell-money/59F5D361C6CA7C596A8C168C84A960D0. [N] Il faut distinguer les Shang et les Zhou et ne pas projeter des institutions monétaires modernes sur toutes les inscriptions.
+
+### 023. La faveur du souverain
+
+[A] Des inscriptions Shang et Zhou décrivent des transferts de cauris comme récompenses ou biens remis. [I] Un transfert peut signifier l'autorité du donneur autant que la valeur matérielle du lot. [P] Le don rend visible la dépendance de la richesse à une relation de reconnaissance. [N] Une récompense dans un contexte royal n'est pas une offrande à une divinité, même si les deux peuvent engager des objets précieux.
+
+### 024. Le *péng* 朋 comme unité
+
+[A] La documentation épigraphique Zhou connaît des unités de cauris nommées **朋**, *péng*. Certains ensembles sont compris comme deux rangs de cinq coquilles, mais la valeur doit être contrôlée selon contexte. [I] L'unité permet le transfert et le compte. [N] Elle ne constitue pas une preuve que tous les groupes de cauris du monde ont des quantités comparables, ni que le nombre dix possède une signification cultuelle partagée avec la ceinture égyptienne de huit cauris.
+
+### 025. Le cauri chinois imité en pierre
+
+[A] Un objet chinois du British Museum, **1988,0809.14**, est une imitation de cauri en **pierre**, non une coquille naturelle. Le musée évoque aussi des substituts en os, corne, céramique, métal et autres matières. [I] Le changement de matière peut permettre une nouvelle circulation de la forme. [N] Une imitation peut être parure ou dépôt funéraire plutôt que monnaie ; il faut identifier le contexte de découverte avant d'assigner une fonction.
+
+### 026. Tombe, vêtement et échange
+
+[A] Le British Museum précise que tous les cauris anciens et leurs imitations n'ont pas servi de monnaie : certains ornaient des vêtements et d'autres accompagnaient les morts. [I] Ce témoignage rend nécessaire une typologie des gestes et des lieux. [N] La présence d'un objet dans une tombe ne prouve pas un « prix du passage vers l'au-delà » ; cette fonction devrait être attestée par d'autres indices. [P] La même chose peut être durablement précieuse sans être un équivalent d'échange quotidien.
+
+### 027. Du cauri au métal
+
+[I] Le passage à des formes métalliques imitant la coquille et l'évolution ultérieure vers d'autres monnaies appartient à l'histoire des techniques et conventions chinoises. Le Bank of Canada Museum présente des objets des Royaumes combattants et leur contexte monétaire, https://www.bankofcanadamuseum.ca/collection/artefact/view/2000.0040.01678.000/china-400-bc. [N] Une imitation de cauri n'est pas par définition une contrefaçon : son statut dépend de règles locales. L'histoire de la monnaie ne se réduit pas à l'invention d'un seul objet.
+
+### 028. Le contre-exemple chinois
+
+[A] Les inscriptions chinoises concernent notamment des transferts, récompenses et décomptes. [I] Ces usages invalident une théorie qui ferait du cauri un signe universel de fécondité féminine. [N] La similarité physique avec un bijou égyptien n'établit aucune transmission d'une cérémonie. [P] Le comparatisme s'affine par l'examen de l'écart : ici une unité d'échange, ailleurs un objet de parure ou une présence offerte.
+
+
+## IV. Royaume de Dian : contenants de richesse et mémoire funéraire
+
+### 029. Un royaume à documenter par ses objets
+
+[A] Les nécropoles de **Shizhaishan** et de **Lijiashan**, dans le Yunnan, ont livré des bronzes et récipients à cauris associés à des élites locales. Le Hong Kong Museum of History a présenté ces collections dans *Hunting and Rituals: Treasures from the Ancient Dian Kingdom of Yunnan* (2004–2005), https://hk.history.museum/en/web/mh/exhibition/2004_past_01.html. [I] Les objets ouvrent un dialogue critique avec le *Shiji* de Sima Qian. [N] Une source impériale ne décrit pas automatiquement toute la vie religieuse d'une population locale.
+
+### 030. Le tambour retourné
+
+[A] L'étude « The Southwest Silk Road: artistic exchange and transmission in early China », *Bulletin of the School of Oriental and African Studies*, rapporte que certains tambours de bronze de type Heger I furent retournés dans des tombes Dian afin de contenir des cauris : https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/southwest-silk-road-artistic-exchange-and-transmission-in-early-china/52A6FFFC54AD12882A1657CB32BBE485. [I] Cette conversion technique transforme un instrument sonore en récipient. [N] Tous les récipients à cauris Dian ne sont pas des tambours réemployés.
+
+### 031. Lijiashan : un récipient et huit yaks
+
+[A] Le Shanghai Museum conserve un récipient à cauris des Han occidentaux découvert à **Lijiashan**, présentant **huit yaks** sur le couvercle : un grand au centre et sept autour. Bronze, hauteur **51 cm**, poids **15,2 kg** : https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00004220. [I] Le couvercle met en scène les animaux en relation avec un contenant de richesse. [N] La pièce ne vient pas de Shizhaishan et le chiffre huit ne prouve pas automatiquement une cosmologie des directions.
+
+### 032. Anses-tigres et sculpture du prestige
+
+[A] Le récipient de Lijiashan comporte deux anses en forme de tigre et une construction de bronze complexe. [I] La richesse des matériaux peut tenir à l'artisanat, à la technique de fonte et aux signes de prestige tout autant qu'aux coquilles contenues. [N] L'ornementation d'un couvercle ne décrit pas nécessairement un rituel sacrificiel ; une scène animale exige une étude iconographique détaillée avant d'être nommée.
+
+### 033. Scènes d'offrande, scènes de marché
+
+[A] Des contenants à cauris du royaume de Dian présentent des figures humaines et animales, parfois interprétées comme processions, marchés, cérémonies ou sacrifices. [H] Leur identification exacte peut être discutée à partir de la disposition des acteurs et de séries comparables. [N] Un animal représenté ne prouve pas qu'il était tué dans la cérémonie. [I] Ces scènes restent des documents sur les formes du pouvoir et du spectacle social, non des photographies de pratiques.
+
+### 034. Conserver la provenance
+
+[I] Shizhaishan et Lijiashan appartiennent à des corpus apparentés, mais leurs objets ne doivent pas être intervertis. La chronologie des tombes, les dépôts particuliers et les lieux de conservation des bronzes sont des informations primaires. [N] Une image de tambour du Yunnan présentée sans provenance précise ou un récipient attribué au mauvais site risquerait de faire naître de fausses hypothèses de diffusion. Le comparatisme repose sur la qualité des identifications locales.
+
+### 035. L'écart avec Lahun
+
+[P] Une ceinture métallique qui tinte sur le corps et un tambour renversé contenant des coquilles dans une sépulture mettent différemment la matière et le son au service de la mémoire sociale. [I] On peut comparer l'opération de transformation d'un objet, non les relier généalogiquement. [N] Rien dans ces documents n'atteste un emprunt direct des artisans Dian aux bijoux du Moyen Empire égyptien.
+
+### 036. Ce que Dian apporte au dossier
+
+[A] Le royaume de Dian fournit des preuves matérielles de stockage des cauris dans des contenants de bronze parfois monumentaux et figurés. [I] Le dépôt funéraire et l'iconographie de cour montrent une place de la richesse dans la représentation des hiérarchies. [N] Cette section ne remplace pas la monographie *Origines du sacré* consacrée à l'archéologie détaillée de Dian ; elle en utilise un contrepoint typologique pour le comparer à d'autres institutions.
+
+
+## V. Yoruba : seize cauris, offrandes et culte de l'orí
+
+### 037. Une tradition à lire dans sa propre langue
+
+[A] Les objets yoruba et les enquêtes ethnographiques documentent des usages des cauris dans la consultation, la richesse, la parure, les sanctuaires et la mémoire. [I] L'histoire religieuse yoruba se déploie sur ses propres lieux, langues et transformations. [N] Une pièce du XXe siècle n'est pas une survivance automatiquement identique à un objet de Lahun. Les notions d'òrìṣà, d'orí et les noms de techniques de divination doivent être expliqués plutôt que remplacés par des catégories occidentales uniformes.
+
+### 038. William Bascom et les seize cauris
+
+[A] *Sixteen Cowries: Yoruba Divination from Africa to the New World*, William Bascom, **1980**, Indiana University Press, rassemble des paroles et des descriptions de pratiques divinatoires relatives au système **ẹ̀rìndínlógún** : https://www.jstor.org/stable/j.ctt16xwcgx. [I] L'étude est un corpus ethnographique de la fin du XXe siècle, pas un document de l'âge du Bronze. [N] Le nombre seize ne rend pas oraculaire tout collier composé de seize cauris : la fonction dépend d'un ensemble de gestes et d'interprétations.
+
+### 039. Ifá et ẹ̀rìndínlógún
+
+[A] La consultation d'**Ifá** mobilise, selon contextes, des noix de palme, une chaîne divinatoire et une surface de traçage ; le dispositif à seize cauris constitue une autre technique. Le Smithsonian décrit un plateau d'Ifá, **84-15-1**, https://africa.si.edu/collection/object/nmafa_84-15-1. [I] Les systèmes peuvent partager un univers religieux sans avoir les mêmes instruments. [N] Des coquilles figurées en décor sur le plateau ne prouvent pas qu'elles sont jetées lors de la procédure décrite dans cette notice.
+
+### 040. Tirage et interprétation
+
+[I] La lecture divinatoire ne consiste pas simplement à compter des coquilles. Des conventions définissent les configurations, les récits et les recommandations qu'un spécialiste associe à la consultation. [P] Un événement matériel contingent est transformé en occasion réglée de parole et de décision. [N] Il serait trompeur de donner un « algorithme yoruba universel » sans relever les variantes locales et les particularités de la documentation de Bascom.
+
+### 041. Hommes, femmes et savoir rituel
+
+[A] Bascom note que le système de seize cauris peut être pratiqué par des hommes et des femmes et que sa position par rapport à l'Ifá varie selon les milieux africains et diasporiques. [I] Une consultation suppose des compétences et une reconnaissance sociale. [N] Le sexe d'un praticien ne se déduit pas de la forme des coquilles, et une description ethnographique localisée ne peut être généralisée à toute l'histoire des Yoruba.
+
+### 042. Une prêtresse d'Ọ̀ṣun avec des cauris
+
+[A] Le masque yoruba du Smithsonian **94-12-1** présente une figure de prêtresse d'**Ọ̀ṣun** et une assistante ; la prêtresse tient des cordons de cauris. L'institution évoque richesse, importation depuis les Maldives et divination : https://africa.si.edu/collection/object/nmafa_94-12-1. [I] Il s'agit d'une sculpture de cauris portés, non d'un ensemble réellement lancé sous les yeux du spectateur. [N] Le masque ne fournit pas à lui seul toutes les étapes d'une consultation à seize cauris.
+
+### 043. Osi-Ilorin et les fêtes de mémoire
+
+[A] Le masque **94-12-1** relève d'un contexte local d'Osi-Ilorin, avec des fêtes honorant Baba Osi et des rapprochements avec des usages Epa, selon le Smithsonian. [I] Les cauris font partie d'une composition qui inclut figures humaines, mouvement et mémoire collective. [N] Il serait inexact de légender cette pièce « masque rituel africain générique » sans mentionner lieu, tradition, auteur éventuel et histoire de collecte.
+
+### 044. Orí et orí inú
+
+[A] La tradition yoruba donne à **orí** le sens de tête et aussi de dimension de la personne et de son destin ; **orí inú**, souvent traduit « tête intérieure », appartient à un ensemble conceptuel propre. [I] Un sanctuaire matériel peut contribuer à la relation entre une personne et ce principe. [N] La traduction directe par « âme » ou « cerveau » ne restitue pas toute la complexité de ces emplois. [P] La tête rend possible une réflexion sur les médiations entre identité personnelle et objets offerts.
+
+### 045. Ilé-orí et ìbọrí au Met
+
+[A] L'ensemble **Met 1978.412.459a–c**, œuvre yoruba des XIXe–XXe siècles, associe **ilé-orí** (« maison de la tête ») et **ìbọrí**, matériaux comprenant cauris, cuir, coton et matières consacrées : https://www.metmuseum.org/art/collection/search/310459. [I] La densité de cauris représente une valeur offerte dans une relation spirituelle, pas simplement une somme d'argent immobilisée. [N] Le contenu rituel ne peut être déduit de la forme externe seulement.
+
+### 046. Les douze mille cauris symboliques
+
+[A] Le Met rapporte que la parure de l'ilé-orí symbolise **douze mille** cauris. [I] Le nombre représente une abondance honorifique qui ne doit pas être interprétée comme inventaire photographique d'un comptage certain. [N] Il ne saurait être mis sur le même plan que le *péng* chinois ou les seize cauris divinatoires. [P] La profusion visible peut qualifier une relation sans être une unité économique standardisée.
+
+### 047. Nourrir et défaire le sanctuaire
+
+[A] Le musée décrit des offrandes à l'ilé-orí et indique qu'à la mort du propriétaire les rangées de cauris peuvent être défaites et l'ìbọrí couché. [I] L'assemblage comme le démontage peuvent participer à la vie rituelle de l'objet. [P] La valeur ne se limite pas au maintien d'une forme intacte. [N] Cette procédure ne doit pas être déclarée universelle pour tous les sanctuaires yoruba, et sa description contemporaine ne prouve pas une pratique identique dans l'Égypte du Moyen Empire.
+
+### 048. Un petit sanctuaire en cuir et cauris
+
+[A] Le Smithsonian conserve **2013-14-1**, figure de sanctuaire yoruba en cuir, textile et cauris, région d'Oyo, datée du XXe siècle : https://africa.si.edu/collection/object/nmafa_2013-14-1. [I] Le rapprochement matériel avec l'ilé-orí du Met est pertinent, mais les formes et dimensions diffèrent. [N] Le musée ne peut être utilisé comme un substitut à une étude des variations d'atelier et des histoires des propriétaires.
+
+### 049. Èṣù-Elégbá, le marché et le changement
+
+[A] Le Smithsonian conserve une petite figure yoruba **2010-13-1** portant cauris et monnaie métallique, rattachée à **Èṣù-Elégbá**, divinité messagère associée au changement, aux marchés et carrefours. L'objet était porté par un fidèle lors de danses et demandes d'argent : https://africa.si.edu/collection/object/nmafa_2010-13-1. [I] Il matérialise un lien entre économie et présence divine. [N] Réduire Èṣù à un « dieu de l'argent » serait aussi trompeur que l'identifier automatiquement à Hermès.
+
+### 050. Ẹrẹ ìbejì : une autre relation à la richesse
+
+[A] Le Smithsonian conserve une figure yoruba de jumeau, **73-7-253**, ornée de cauris ; elle est liée à une mémoire familiale et à des pratiques de soin envers la représentation d'un enfant disparu. La notice évoque aussi Ṣàngó : https://africa.si.edu/collection/object/nmafa_73-7-253. [I] Les cauris peuvent devenir offrande et marqueur de mémoire sans servir d'instrument de tirage. [N] Cette section ne remplace pas le cycle MC-117 consacré aux jumeaux : elle examine seulement la matière des ornements.
+
+### 051. La diaspora comme transformation
+
+[A] Bascom réunit des matériaux de consultation en Afrique et dans les Amériques. [I] Leur évolution a été modelée par les migrations, les déplacements forcés, les changements de langues et d'institutions. [N] Il est interdit de projeter une pratique contemporaine sur l'Égypte ancienne sans médiations vérifiables. [P] La portabilité de coquilles identifiables peut aider une tradition à se transmettre, tout en laissant ses significations être renégociées.
+
+### 052. Le bilan yoruba
+
+[A] Les cauris apparaissent dans des instruments de divination, des parures figurées de prêtresse, des sanctuaires d'orí, des objets liés à Èṣù et des figures commémoratives. [I] Cette pluralité montre que la richesse du matériau n'efface pas les fonctions locales. [N] Il serait scientifiquement pauvre de parler d'un « culte des cauris » comme si toutes les pièces étaient équivalentes. L'étude doit suivre agents, gestes, paroles et histoire de conservation.
+
+
+## VI. Fali, Chin et circulation transocéanique
+
+### 053. Fali : mariage et fécondité
+
+[A] La figure **ham pilu** fali du Met, inventaire **2000.620.1**, XXe siècle, combine bois, perles et cauris et appartient à un horizon social de mariage et de fécondité : https://www.metmuseum.org/art/collection/search/318686. [I] Ce témoin fournit un cas pertinent pour l'association de cauris à la descendance. [N] Il ne justifie pas de lire tous les cauris Shang, Zhou ou Dian comme symboles génériques de reproduction.
+
+### 054. Les couleurs qu'on ne sait plus lire
+
+[A] Les conservateurs signalent parfois que les significations détaillées des couleurs utilisées sur les œuvres fali n'ont pas été enregistrées lors de la collecte. [N] Une légende contemporaine ne doit pas inventer le sens d'un rouge ou d'un blanc dont l'explication locale manque. [I] Reconnaître l'incertitude documentaire est une marque de rigueur et oriente le besoin de recherches de terrain ou d'archives de collection.
+
+### 055. Une ceinture Chin de la fin du XIXe siècle
+
+[A] Le British Museum documente un ensemble de ceinture chin à cauris et fourreau, **As1926.0409.3**, collecté dans le contexte des Chin Hills et daté approximativement 1870–1890, exposition *Burma to Myanmar*, https://www.britishmuseum.org/exhibitions/burma-myanmar. [I] Les cauris visibles sur le vêtement peuvent signaler statut et réserve de richesse. [N] Cette pièce moderne ne constitue pas une preuve de l'existence d'un même rite chez les Shang ou les princesses de Lahun.
+
+### 056. Les Maldives et le transport des coquilles
+
+[A] Le Smithsonian rattache certains cauris yoruba aux échanges depuis les Maldives, et le Met décrit des circuits d'importation sur l'océan Indien vers plusieurs régions africaines. [I] Le matériau peut donc traverser de grandes distances sans que le sens religieux soit transporté inchangé. [N] Une carte de commerce ne peut se transformer en carte de diffusion d'une religion commune : il faut dater séparément les marchands, les produits et les institutions locales.
+
+### 057. Histoire coloniale et notice de musée
+
+[I] Des œuvres yoruba, fali et chin furent déplacées dans des contextes de collecte complexes, qui ont pu modifier leur usage et leur interprétation. [P] La biographie des objets comprend leur période de fabrication, leur utilisation, leur collecte et leur présentation muséale. [N] Une mention d'achat ou de don dans l'inventaire ne reconstitue pas automatiquement le consentement ou la chaîne de propriété de toutes les étapes antérieures.
+
+### 058. Le XXe siècle n'est pas un vestige du IIIe millénaire
+
+[N] Une figure fali ou yoruba tardive doit être datée selon sa propre histoire. Les objets récents documentent des pratiques et des valeurs qui peuvent être décrites plus finement que celles de l'âge du Bronze, mais ils n'apportent pas la preuve d'une continuité directe depuis les pharaons. [I] Le comparatisme devient légitime lorsqu'il accepte la dissymétrie des sources et l'inscrit explicitement dans ses conclusions.
+
+
+## VII. Tableau comparatif, philosophie et objections
+
+### 059. La matrice de comparaison
+
+| Contexte | Support attesté | Opération | Limite |
+|---|---|---|---|
+| Lahun | Or, 16.1.5 | Porter, tinter | Rite incertain |
+| Asasif | Électrum sur plâtre | Parure de tombe | Contexte perturbé |
+| Malqata | Faïence, 11.215.32 | Sceau-amulette | Fonction spécifique |
+| Shang/Zhou | Coquilles et inscriptions | Récompenses, décompte | Pas tout monnaie |
+| Dian | Bronze et cauris | Stockage funéraire | Images discutées |
+| Yoruba | Seize cauris, Bascom | Consultation | Distinct d'Ifá |
+| Yoruba | Ilé-orí du Met | Offrande, mémoire | Pas monnaie quotidienne |
+| Fali | Ham pilu du Met | Fécondité | XXe siècle |
+| Chin | Ceinture du British Museum | Prestige porté | Collecte coloniale |
+
+### 060. Le piège des nombres
+
+[A] Une ceinture égyptienne porte huit cauris en or, des unités de cauris sont comptées en *péng* dans certains contextes chinois, un oracle yoruba emploie seize coquilles, et un ilé-orí évoque une abondance symbolique de douze mille. [I] Les nombres ont des fonctions hétérogènes : composition, comptage, instrument et profusion. [N] Une numérologie transcontinentale fondée sur ces chiffres serait une invention dépourvue de témoins intermédiaires.
+
+### 061. L'objet et son substitut
+
+[I] Les cauris façonnés en or ou en pierre montrent que la forme peut être conservée alors que le matériau change. [P] Cette capacité de substitution révèle une institution qui reconnaît un objet, plutôt qu'une essence biologique toujours transmise. [N] Une imitation n'est pas nécessairement frauduleuse, et son usage ne peut être déduit de la seule forme. La notion de valeur doit être testée dans les relations réelles entre producteurs, porteurs et bénéficiaires.
+
+### 062. La différence entre hasard et oracle
+
+[P] Le lancer des cauris peut transformer une configuration contingente en occasion de parole et d'interprétation institutionnelle. [I] Le résultat acquiert un sens par la compétence du spécialiste et les textes de référence, non par le déplacement matériel seul. [N] Une mécanique de hasard ne décrit pas toute la procédure et n'établit aucun effet surnaturel comme phénomène observé. Bascom demeure un témoin moderne essentiel pour restituer les paroles au lieu de les inventer.
+
+### 063. La valeur n'est pas l'identité
+
+[I] Un cauri échangeable et un cauri offert peuvent se ressembler mais être pris dans des systèmes de reconnaissance distincts. [P] La valeur marchande permet le transfert ; l'offrande peut réaliser une relation de mémoire ou d'autorisation ; la parure rend visible une dignité. [N] Une même coquille ne prouve pas une institution économique et religieuse unique. La confusion entre paiement, don et consécration appauvrirait les trois dossiers.
+
+### 064. Marcel Mauss : la question du don
+
+[P] L'*Essai sur le don* de Marcel Mauss (1925) permet de demander qui donne les cauris, qui les reçoit, et quelles obligations l'échange instaure. [I] La récompense chinoise, l'offrande yoruba et le dépôt de tombe appellent des réponses historiques différentes. [N] Mauss n'est pas une source égyptienne ou yoruba ; sa théorie ouvre une interrogation et ne constitue pas une validation universelle de la réciprocité rituelle.
+
+### 065. Hegel : reconnaissance et support matériel
+
+[P] La reconnaissance chez Hegel aide à penser pourquoi une matière peut signaler un rang, une valeur ou une relation spirituelle. [I] Un transfert royal chinois n'a pas le même sens qu'un cauri offert à l'orí ; tous deux exigent pourtant des interlocuteurs qui reconnaissent le geste. [N] Cette idée philosophique ne doit pas être attribuée aux anciens fabricants comme leur doctrine explicite. La catégorie européenne ne se substitue pas aux mots du corpus.
+
+### 066. Nietzsche : une généalogie sans origine fictive
+
+[P] La méthode critique inspirée de la *Généalogie de la morale* invite à reconstituer la formation des valeurs au lieu de leur donner une essence éternelle. [I] Les cauris peuvent devenir monnaie, bijou, instrument de tirage ou bien offert selon l'histoire des groupes. [N] Nietzsche ne fournit ni chronologie des objets chinois ni analyse religieuse yoruba ; son emploi est philosophique, non documentaire.
+
+### 067. Detienne : comparer les différences
+
+[P] Dans *Comparer l'incomparable*, Marcel Detienne propose une démarche qui construit explicitement les comparables et accepte les écarts. [I] Le cauri convient à cet exercice : son aspect reste reconnaissable, mais ses opérations sont diverses et parfois opposées. [N] Déduire une unique religion des cauris de l'Égypte à l'Afrique moderne confondrait apparence des matériaux et généalogie de leurs usages.
+
+### 068. Quatre hypothèses à falsifier
+
+[H1] La substitution de matière peut conserver l'identité d'un objet : comparer Égypte et Chine. [H2] L'accumulation visible peut traduire un prestige : objets Dian et ilé-orí, mais pas de même façon. [H3] La coquille peut devenir outil de décision lorsqu'une convention de lecture est instituée : enquête de Bascom. [H4] Les réseaux marchands expliquent la circulation des choses sans imposer les mêmes croyances. [N] Chaque hypothèse doit être soumise à la chronologie et aux sources locales.
+
+### 069. Conclusions et degrés de preuve
+
+**[A]** Existence, matériaux et dates proposées des objets inventoriés, inscriptions de transferts en Chine, descriptions ethnographiques publiées. **[I]** Fonctions de prestige, parure, réserve, divination et offrandes, à l'échelle de chaque contexte. **[H]** Sens de fécondité de tout objet, provenance de chaque coquille, rite ancien disparu, transmission transcontinentale. **[P]** Valeur relationnelle, reconnaissance, biographie sociale. **[N]** Aucune essence sacrée universelle ni publication HTTPS non contrôlée.
+
+### 070. Conclusion universitaire
+
+Le cauri apparaît comme l'exemple d'une forme capable de traverser les matériaux et les institutions sans conserver une signification constante. L'Égypte présente des bijoux et substituts ; les inscriptions de Chine montrent des transferts et du comptage ; Dian donne des contenants et des images de prestige ; les traditions yoruba situent les coquilles dans des relations de consultation, d'offrande et de mémoire. [I] L'apport historique est une cartographie de différences vérifiables. [P] La même forme peut être reconnue sans être comprise de la même manière. [N] Cette étude ne prétend pas reconstituer une généalogie commune de toutes les religions.
+
+
+## VIII. Sources, bibliographie, iconographie et statut éditorial
+
+### 071. Inventaires égyptiens
+
+Met **16.1.5**, Lahun, https://www.metmuseum.org/art/collection/search/545533 ; ensemble **16.1.5–.13-related**, https://www.metmuseum.org/art/collection/search/698627 ; **13.180.11**, Asasif, https://www.metmuseum.org/art/collection/search/544420 ; **34.1.154/156**, Hepy, https://www.metmuseum.org/art/collection/search/545152 ; **09.180.1200**, Lisht Nord, https://www.metmuseum.org/art/collection/search/544114 ; amulette en diorite **30.8.343**, https://www.metmuseum.org/art/collection/search/556049 ; sceau-amulette de Malqata **11.215.32**, https://www.metmuseum.org/art/collection/search/551430.
+
+### 072. Sources Chine et Dian
+
+British Museum **1988,0809.14**, https://artsandculture.google.com/asset/cowrie-shells/egHbI6kc10-jOQ ; *Shell Money: A Comparative Study*, Cambridge University Press, section sur la Chine, https://www.cambridge.org/core/elements/shell-money/59F5D361C6CA7C596A8C168C84A960D0 ; Shanghai Museum, contenant à huit yaks de Lijiashan, https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00004220 ; Hong Kong Museum of History, exposition de Dian, https://hk.history.museum/en/web/mh/exhibition/2004_past_01.html ; *Bulletin of the School of Oriental and African Studies*, article sur la Route du sud-ouest, https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/southwest-silk-road-artistic-exchange-and-transmission-in-early-china/52A6FFFC54AD12882A1657CB32BBE485.
+
+### 073. Collections yoruba et Fali
+
+William Bascom, *Sixteen Cowries*, 1980, https://www.jstor.org/stable/j.ctt16xwcgx ; Smithsonian **84-15-1**, https://africa.si.edu/collection/object/nmafa_84-15-1 ; **94-12-1**, https://africa.si.edu/collection/object/nmafa_94-12-1 ; **2013-14-1**, https://africa.si.edu/collection/object/nmafa_2013-14-1 ; **2010-13-1**, https://africa.si.edu/collection/object/nmafa_2010-13-1 ; **73-7-253**, https://africa.si.edu/collection/object/nmafa_73-7-253 ; Met **1978.412.459a–c**, https://www.metmuseum.org/art/collection/search/310459 ; Met **2000.620.1**, https://www.metmuseum.org/art/collection/search/318686.
+
+### 074. Bibliographie d'égyptologie, histoire chinoise et art africain
+
+Adela Oppenheim et al. (dir.), *Ancient Egypt Transformed: The Middle Kingdom*, Metropolitan Museum, 2015 ; Wolfram Grajetzki, *The Middle Kingdom of Ancient Egypt*, 2006 ; William C. Hayes, *The Scepter of Egypt*, II, 1959 ; William Bascom, *Sixteen Cowries: Yoruba Divination from Africa to the New World*, Indiana University Press, 1980 ; Henry John Drewal, « Art and Divination among the Yoruba », *Africana Journal* 14, 1987 ; Henry John Drewal, *Beads, Body, and Soul*, 1998 ; Alisa LaGamma (dir.), *Art and Oracle*, Met, 2000 ; Rowland Abiodun, *Yoruba Art and Language*, Cambridge University Press, 2014. Les ouvrages secondaires ne remplacent pas les numéros d'inventaire.
+
+### 075. Bibliographie philosophique et méthodologique
+
+Marcel Mauss, *Essai sur le don*, 1925 ; Arjun Appadurai (dir.), *The Social Life of Things*, Cambridge University Press, 1986 ; Igor Kopytoff, « The Cultural Biography of Things », 1986 ; Claude Lévi-Strauss, *La pensée sauvage*, Plon, 1962 ; Marcel Detienne, *Comparer l'incomparable*, Seuil, 2000 ; Friedrich Nietzsche, *La Généalogie de la morale*, 1887 ; G. W. F. Hegel, *Phénoménologie de l'esprit*, 1807. [P] Ces références éclairent des problèmes de valeur et de circulation ; elles ne sont pas des témoignages primaires sur les cultes et monnaies étudiés.
+
+### 076. Propositions iconographiques : Égypte
+
+**Figure 1** — ceinture de Sithathoryunet (Met 16.1.5) : préciser que les cauris sont en or et que les billes métalliques pouvaient tinter. **Figure 2** — ceinture de l'Asasif (Met 13.180.11) : préciser « électrum sur plâtre » et le contexte de tombe perturbée. **Figure 3** — sceau de Malqata (Met 11.215.32), faïence avec plume de Maât. Les légendes doivent citer exactement les inventaires, éviter les coquilles naturelles substituées et contrôler les licences des images institutionnelles.
+
+### 077. Propositions iconographiques : Chine et Dian
+
+**Figure 4** — British Museum **1988,0809.14**, cauri chinois **en pierre**, à ne pas légender comme véritable coquille. **Figure 5** — Shanghai Museum, contenant à huit yaks de Lijiashan, bronze des Han occidentaux, 51 cm : expliciter les anses en tigre et la fonction de contenant. **Figure 6** — diagramme moderne d'un tambour de bronze retourné servant de récipient ; le qualifier de reconstruction pédagogique, non de photographie de fouille.
+
+### 078. Propositions iconographiques : Yoruba et Fali
+
+**Figure 7** — Smithsonian **94-12-1**, masque d'Osi-Ilorin, prêtresse d'Ọ̀ṣun tenant des cordons de cauris ; ne pas le décrire comme un tirage en cours. **Figure 8** — Met **1978.412.459a–c**, ilé-orí avec ìbọrí ; préciser qu'il s'agit d'un sanctuaire. **Figure 9** — Smithsonian **2010-13-1**, figure d'Èṣù avec cauris et pièce métallique. **Figure 10** — Met **2000.620.1**, figure fali du XXe siècle ; ne pas la rétrodater à l'Antiquité.
+
+### 079. Droits et carte des sources
+
+Aucune photographie n'est incorporée automatiquement dans le manuscrit. Les licences du Met, du Smithsonian, du British Museum et du Shanghai Museum doivent être contrôlées pour chaque fichier avant diffusion. Une carte des sites peut situer Lahun, Lisht, Asasif, Malqata, Shizhaishan, Lijiashan, Oyo et Osi-Ilorin sans dessiner une route de diffusion universelle. Les reconstitutions scientifiques seront signalées comme modernes. Aucune illustration 2,5D ni menu ou texte incrusté dans une photographie patrimoniale.
+
+### 080. Numérotation et publication distinctes
+
+Ce manuscrit conserve **364** et **CCCLXIV** comme marqueurs de numérotation canonique à attribuer transactionnellement par GitHub Actions. Son identifiant historique proposé est **MC-137**, sous réserve d'une vérification de cote. Un dépôt dans **editorial/inbox** ne prouve ni intégration de volume dans **chapitres/comparatif/**, ni succès du déploiement, ni présence sur **bobmythos.fr**. Les autres séries MYTHOS, leurs manuscrits, les registres, les images et toutes les automatisations restent sans modification.
+

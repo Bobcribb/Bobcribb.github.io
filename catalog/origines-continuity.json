@@ -394,7 +394,11 @@
     "841": "/chapitres/origines-du-sacre/841-huaca-prieta-chicama-pleistocene-monticule-textiles-indigo-sepultures/",
     "842": "/chapitres/origines-du-sacre/842-bandurria-huaura-preceramique-monticules-plaza-circulaire-figurines-menages/",
     "843": "/chapitres/origines-du-sacre/843-watson-brake-louisiane-tertres-archaique-moyen-subsistance-espaces-collectifs/",
-    "844": "/chapitres/origines-du-sacre/844-teouma-vanuatu-lapita-necropole-cranes-oiseaux-ceramiques-migrations/"
+    "844": "/chapitres/origines-du-sacre/844-teouma-vanuatu-lapita-necropole-cranes-oiseaux-ceramiques-migrations/",
+    "845": "/chapitres/origines-du-sacre/845-juxtlahuaca-guerrero-grotte-peintures-felins-maiz-captif-archives/",
+    "846": "/chapitres/origines-du-sacre/846-teopantecuanitlan-guerrero-patio-hundido-monolitos-agua-astronomia/",
+    "847": "/chapitres/origines-du-sacre/847-tlatilco-bassin-mexique-sepultures-figurines-contorsionniste-memoire/",
+    "848": "/chapitres/origines-du-sacre/848-teopantecuanitlan-guerrero-patio-enfoui-monolithes-eau-equinoxes/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -448,7 +452,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 844,
+  "last_numbered_chapter": 848,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",

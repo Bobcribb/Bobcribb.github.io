@@ -1,0 +1,434 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CLIX (159)
+
+## Amphis, *Athamas* (Ἀθάμας) : épouse, hétaïre et pouvoir des mots — le mariage comme paradoxe dans la comédie moyenne
+
+*Étude philologique, historique, philosophique et comparatiste originale en français. Édition critique commentée d'un dossier fragmentaire, sans attribution de répliques fictives au poète antique.*
+
+**Protocole constant.** [A] = texte, titre, fragment ou témoignage antique **attesté**, avec référence précise ; un parallèle indépendant ne constitue jamais un fragment d'Amphis. [B] = analyse, déduction, proposition de lecture ou reconstruction **hypothétique** ; aucune hypothèse n'est déguisée en citation. [C] = **création dramatique moderne et originale**, non reconstitution de paroles perdues, sans prétention à l'authenticité. Toute phrase dialoguée inventée est incluse exclusivement dans la partie [C].
+
+**État du dossier.** *Athamas* d'Amphis est perdu. Son **fragment 1 Kassel–Austin**, cinq trimètres iambiques transmis par **Athénée XIII, 559a–b**, est authentiquement attribué à ce titre dans le témoin principal. Il oppose, du point de vue d'un locuteur non identifié, le statut apparemment assuré d'une épouse à l'effort relationnel exigé d'une hétaïre. Cette argumentation provocatrice ne décrit pas nécessairement les idées de l'auteur, encore moins la condition de toutes les femmes grecques. Nous ignorons l'année, le concours, les personnages, la distribution, le dénouement et même la place exacte de ces cinq vers dans la pièce.
+
+**Éditions consultables et contrôlées pour le passage :** R. Kassel et C. Austin, *Poetae Comici Graeci* (PCG), II, 1991, pp. 213–214, fr. 1 (référence canonique bibliographique) ; A. Papachrysostomou, *Fragmenta comica*, vol. 20, *Amphis: Introduction, Translation, Commentary*, Heidelberg, 2016, pp. 20–26, édition et commentaire consultables intégralement par la bibliothèque numérique de Heidelberg : https://digi.hadw-bw.de/view/frc20/0024 (titre, contexte), https://digi.hadw-bw.de/view/frc20/0025 (texte p. 21), https://digi.hadw-bw.de/view/frc20/0026 (apparat et contexte p. 22), https://digi.hadw-bw.de/view/frc20/0027 (droit et statut p. 23), https://digi.hadw-bw.de/view/frc20/0028 (parallèles p. 24), https://digi.hadw-bw.de/view/frc20/0029 (rhétorique p. 25), https://digi.hadw-bw.de/view/frc20/0030 (lexique p. 26). Ces références sont **des localisations vérifiables**, non une reproduction de leur commentaire.
+
+---
+
+### 1. [A] Attestation : Athénée et cinq vers d'une œuvre perdue
+
+Athénée de Naucratis, *Deipnosophistes* XIII, 559a–b, signale explicitement « Amphis, dans *Athamas* » avant de transmettre une courte intervention sur l'épouse et l'hétaïre. La tradition éditoriale rassemble ces cinq vers comme **Amphis fr. 1 K.-A.** Le témoin conservé ne nous donne pas l'interlocuteur, les didascalies, les réactions éventuelles ni la suite du dialogue. L'ancien numéro de fragment ne correspond ni à un acte antique ni au numéro d'une collection MYTHOS.
+
+Athénée rédige une œuvre de banquet érudit, plus tardive de plusieurs siècles que la comédie moyenne. Son propos est thématique : le livre XIII s'intéresse aux amours et à diverses catégories de relations entre hommes et femmes. Son acte d'extraction transmet l'argument rhétorique d'un personnage, non l'intégralité du spectacle. Le fait que le passage ait été choisi pour une discussion sur les hétaïres explique sa survie possible, mais n'autorise pas à faire de l'opposition épouse/hétaïre le seul sujet d'*Athamas*.
+
+**Témoin :** Athénée XIII, 559a–b, version ancienne anglaise de C. D. Yonge consultable à https://www.attalus.org/old/athenaeus13a.html ; texte grec et apparat dans Papachrysostomou 2016, pp. 21–22. L'édition du XIXe siècle de Yonge sert ici de contrôle de localisation et non d'autorité sur les leçons grecques.
+
+### 2. [A] Le contenu exact du fragment, en paraphrase française
+
+Le propos s'ouvre sur une question presque affirmative : une hétaïre n'est-elle pas plus bienveillante qu'une femme épousée ? Une réponse renforce immédiatement ce jugement. Le locuteur fournit ensuite sa justification : l'épouse demeure au foyer en vertu d'un statut établi, même lorsqu'elle méprise son conjoint ; la femme dont le lien n'est pas garanti doit obtenir la faveur de l'homme par sa conduite ou le quitter pour un autre. **Ce sont les assertions de la voix dramatique**, et non les conclusions historiques de cette monographie.
+
+Cette paraphrase tient compte de la disposition en **cinq trimètres iambiques** indiquée par l'édition de 2016. Aucune autre réplique n'est ajoutée. Il n'est pas attesté qu'Athamas lui-même parle ; l'un des intérêts majeurs du fragment consiste au contraire à séparer la figure du titre de la voix que le compilateur a rendue anonyme.
+
+### 3. [A] Micro-lexique : *gametē* et *hetaira*
+
+Le syntagme **γαμετὴ γυνή** désigne une épouse liée par le mariage ; l'adjectif vient du domaine de l'union reconnue. En face, **ἑταίρα** désigne littéralement une compagne, mais, dans le contexte du fragment et de la compilation d'Athénée, renvoie aux relations masculines avec une femme qui n'occupe pas la position civique d'une épouse. Le terme ne doit pas être assimilé mécaniquement à chaque statut, activité ou situation économique des femmes non mariées.
+
+Le raisonnement du locuteur repose sur une opposition de **positions institutionnelles** : un lien consolidé par la norme et un lien susceptible de rupture. Il ne démontre pas que toutes les épouses étaient indifférentes ou que toutes les hétaïres éprouvaient une affection sincère. L'énoncé relève d'une caractérisation comique polarisée : le contraste sert d'abord à produire un raisonnement inattendu.
+
+### 4. [A] *Eunoïkōteron* : l'étrange comparatif de la bienveillance
+
+Le premier vers oppose une valeur de disposition favorable, notée dans l'apparat par **εὐνοϊκώτερον**. L'édition de Papachrysostomou explique l'accord au neutre d'un comparatif appliqué à un référent féminin et mentionne la variante féminine **εὐνοϊκωτέρα** présente dans des témoins de l'épitomé. Kassel et Austin adoptent la lecture de la grande tradition du manuscrit A. Le choix est grammatical, non un caprice de traduction.
+
+La présence d'un terme de bienveillance, relativement inattendu dans ce registre comique pour désigner une hétaïre, fait partie de l'argument. On peut traduire par « mieux disposée », « plus bienveillante » ou, selon le contexte, « plus favorable ». Le passage ne permet pas d'identifier une affection désintéressée : un mot de sentiment peut y être subordonné à un calcul de stabilité de la relation.
+
+**Contrôle :** *FrC* 20, pp. 21–22, puis p. 26, commentaire sur le comparatif et la syntaxe.
+
+### 5. [A] *Nomōi* : la sécurité du statut juridique dans une voix comique
+
+Le mot grec **νόμῳ** est central : le locuteur explique la résidence de l'épouse par la norme ou la coutume ayant force réglée. Le raisonnement comique oppose une situation garantie et une situation non garantie. Le contexte peut conduire un lecteur moderne à traduire par « en vertu du droit », mais une telle traduction appelle prudence : aucun article de loi n'est cité dans la pièce.
+
+L'histoire du mariage athénien suppose de distinguer l'union reconnue, les arrangements familiaux, les obligations patrimoniales et les effets de la citoyenneté. Le fragment n'est **pas** une source juridique normative, parce qu'il n'énonce pas une loi datée ni les voies exactes d'une séparation. Ce qu'il atteste directement, c'est qu'un personnage pouvait transformer le statut marital en argument comique.
+
+### 6. [A] *Tropos* : l'argument du comportement
+
+Le fragment construit l'obligation attribuée à l'hétaïre autour de **τοῖς τρόποις** — les manières, dispositions, habitudes de comportement. Cette idée est essentielle : la comparaison ne dit pas simplement « l'hétaïre est plus belle » ou « elle possède davantage de richesses ». Elle déplace la compétition vers la façon de se conduire avec un partenaire.
+
+Cela ne signifie pas que la pièce prônait un traité moral sur les conduites féminines. Le terme appartient à un plaidoyer comique dont nous ignorons l'objectif scénique. Un personnage pourrait chercher à persuader un ami d'abandonner son épouse, se justifier à lui-même, plaisanter, provoquer une dispute ou tenir un discours dont la suite révèle l'absurdité. Aucune option n'est attestée.
+
+### 7. [A] *Ōnēteos* : l'économie contenue dans un verbe
+
+L'apparat de Papachrysostomou s'arrête sur **ὠνητέος** et une conjecture de Cobet touchant le texte transmis. Le sens retenu associe la nécessité, pour l'hétaïre, de gagner ou « acheter » la faveur d'un homme par ses manières. L'image de l'achat surprend, parce que la relation que le locuteur veut valoriser est présentée au moyen d'un raisonnement intéressé.
+
+Cobet proposait une autre articulation verbale ; la commentatrice de 2016 explique pourquoi la tradition manuscrite transmise est grammaticalement acceptable et pourquoi une correction n'est pas nécessaire. Nous retenons la lecture conservatrice de l'édition critique, en distinguant le mot grec transmis, les choix d'établissement du texte et les traductions philosophiques que l'on pourrait en faire.
+
+### 8. [A] Les manuscrits d'Athénée et la perte possible du titre
+
+La tradition du livre XIII n'est pas uniforme : l'édition de 2016 signale que les manuscrits abrégés **C** et **E** omettent une partie de la formule d'introduction, notamment le titre de la comédie, alors que la tradition principale le conserve. Les témoins abrégés n'invalident pas mécaniquement l'attribution ; ils rappellent que le texte d'Athénée a circulé en formes différentes.
+
+L'épitomé raccourcit également un élément de la deuxième ligne. Il serait donc dangereux de placer les apparentes différences de longueur de traduction au niveau du poète lui-même. Il faut regarder la **transmission d'Athénée**, avant de transformer une lacune de copiste en décision dramaturgique attribuée à Amphis.
+
+### 9. [A] La formule de commencement : l'interrogation insistante
+
+Les mots **εἶτ’ οὐ** introduisent un énoncé où la question suggère la réponse souhaitée. La violence peut être légère, mais le mécanisme est rhétorique : l'auditeur est invité à adhérer à une proposition d'autant plus séduisante qu'elle semble contester l'opinion dominante. Le deuxième vers confirme aussitôt la réponse favorable et annonce une explication.
+
+Papachrysostomou rapproche cette pratique d'expressions utilisées par des orateurs et des poètes comiques : les auditeurs reconnaissent le geste du raisonnement qui veut emporter leur accord. Ce tour de force ne permet cependant pas de qualifier avec certitude le locuteur de sophiste professionnel, d'Athamas déguisé ou de juriste. C'est **une posture verbale**, pas une fiche de personnage.
+
+### 10. [A] Le mètre : cinq trimètres iambiques
+
+L'édition critique donne au fragment la forme de cinq trimètres iambiques, mètre du dialogue dramatique grec. Une suite métriquement organisée n'indique ni l'identité de l'acteur, ni le lieu de la scène, ni les paroles qui la précèdent. L'absence de marques de répartition des voix dans le fragment transmis empêche de trancher entre monologue et échange bref à partir du seul texte.
+
+La tentation de répartir le premier vers à l'homme marié, le second à un ami, puis la suite à un troisième personnage appartient à la pratique de la scène moderne et doit être signalée [C]. Une édition qui ajouterait les noms de personnages sans crochets ou sans avertissement introduirait une attribution fictive.
+
+### 11. [A] La place du fragment dans le banquet d'Athénée
+
+Le livre XIII juxtapose de nombreux passages sur les épouses, les compagnes, les courtisanes et les pratiques amoureuses. Juste avant notre extrait figurent des textes attribués notamment à **Xénarque** et **Philétaire** ; après lui, Athénée cite **Euboulos** et d'autres comiques. Ce voisinage n'est pas celui d'un acte théâtral : c'est le résultat d'une sélection savante argumentant tantôt contre les femmes mariées, tantôt pour les hétaïres, selon les besoins de la discussion.
+
+Une conséquence méthodologique suit : un texte placé avant celui d'Amphis chez Athénée ne doit pas être cité comme son prologue ; un texte placé après ne peut être présenté comme sa conclusion. Les *Deipnosophistes* constituent un **contexte de transmission**, non le script d'un spectacle reconstituable par assemblage.
+
+### 12. [A] Amphis et la comédie moyenne
+
+Amphis est classé parmi les poètes de la **comédie moyenne**, période commode de l'histoire littéraire attique comprise grossièrement entre la vieille comédie et la nouvelle. Cette désignation est une construction historiographique ; elle n'implique pas que tous les auteurs aient revendiqué la même école ou les mêmes techniques. Le corpus d'Amphis est fragmentaire, transmis en grande partie par des citations postérieures.
+
+Les références antiques relatives à sa personne comprennent Athénée, Diogène Laërce et la *Souda* ; les renseignements biographiques présentent leurs propres difficultés. Sans document de concours fiable pour *Athamas*, une date précise de création serait une fabrication. De même, le fait qu'Amphis puisse recourir à une figure mythique n'autorise pas à reconstituer un chœur ni une parabasis.
+
+### 13. [A] Athamas : une figure des traditions mythiques béotiennes
+
+Athamas, fils d'Éole, est lié aux histoires de **Néphélé**, de **Phrixos et Hellé**, d'**Inô**, de **Thémisto** et de plusieurs enfants. Les généalogies et l'ordre des unions varient dans les témoignages antiques. Le cycle mythique mêle couples successifs, jalousies, tentatives de mise à mort, folie et pertes familiales ; il fut abondamment repris par la tragédie.
+
+La *Bibliothèque* attribuée à Apollodore fournit des versions à **I, 9, 1–2** et **III, 4, 3**. Ces passages sont utiles pour construire une **carte du mythe** mais ne sont pas des résumés de la comédie d'Amphis. Aucune phrase d'Apollodore ne peut être introduite sous le sigle « fr. 1 d'Amphis ». Les noms d'Inô et de Thémisto sont historiquement reliés à Athamas, mais le fragment comique ne les prononce pas.
+
+### 14. [A] Multiplicité des pièces portant le nom d'Athamas
+
+Des pièces intitulées *Athamas* sont attribuées à plusieurs tragiques — notamment **Eschyle**, **Sophocle** et **Astydamas** — et à un autre comique, **Antiphane** ; **Xénoclès** est associé à un drame satyrique homonyme. Le dossier d'Amphis ne doit être nourri d'aucun de leurs fragments. L'existence de ces titres parallèles prouve l'attractivité du personnage, pas une identité de scènes.
+
+Papachrysostomou 2016, p. 20, récapitule cette constellation d'œuvres et renvoie aux répertoires *TrGF* et *PCG*. Le nom partagé est le premier niveau de comparaison ; le critère décisif de l'édition demeure le **témoin avec son attribution explicite**, sa tradition et son numéro de fragment.
+
+### 15. [A] Le mythe n'est pas la pièce : sources de Phrixos et de Dionysos
+
+La fuite de Phrixos et d'Hellé sur le bélier à toison d'or, la traversée de l'Hellespont, la protection du jeune Dionysos par Inô et Athamas, puis les catastrophes familiales appartiennent à plusieurs états du mythe. Ces épisodes existent dans des œuvres historiques, mythographiques et poétiques distinctes. Il n'est pas démontré qu'ils figuraient tous dans le spectacle d'Amphis.
+
+Ce dossier distingue donc le **titre antique attesté** et les intrigues **possibles**. Même si un dramaturge pouvait parodier des tragédies connues du public, une matière disponible n'est pas une scène assurée. Le rire pouvait naître des malheurs conjugaux d'Athamas ; il pouvait tout aussi bien utiliser ce nom pour une construction plus libre dont nous ne connaissons presque rien.
+
+### 16. [B] L'hypothèse du locuteur Athamas : recevable, non prouvée
+
+La thèse la plus intuitive attribue le discours à Athamas, vieil époux malheureux de la tradition mythique. Il aurait de quoi se plaindre des unions successives et pourrait vanter une hétaïre moins dangereuse que ses épouses légendaires. Cette lecture bénéficie du titre ; elle offre une plaisanterie fondée sur la collision de la catastrophe mythique et de la rationalisation quotidienne du désir.
+
+Pourtant, le passage n'énonce aucun nom propre. Le même discours pourrait être prononcé par un valet, un parasite, un voisin, un homme venu conseiller le roi ou un protagoniste sans rapport direct avec l'histoire d'Athamas. Il faut conserver les deux phrases simultanément : **Athamas est le personnage du titre** ; **l'attribution de ces vers à sa voix demeure hypothétique**.
+
+### 17. [B] Le ridicule naît d'un raisonnement parfaitement construit
+
+La force du fragment tient à ce qu'il ne repose pas simplement sur une invective. Il offre une démonstration : prémisse sociale, conséquence comportementale, conclusion en faveur de l'hétaïre. Ce dispositif peut susciter le rire par la cohérence déployée pour soutenir une préférence discutable. Le locuteur ne s'abandonne pas au chaos ; il multiplie les raisons.
+
+Le comique est alors moins une absence de logique qu'un **excès de logique appliqué à un jugement biaisé**. On peut analyser cette tension sans attribuer à Amphis une doctrine sociologique. La pièce est perdue et pouvait contredire l'orateur à la scène suivante. Un argument convaincant sur le papier peut être l'instrument d'un personnage peu fiable au théâtre.
+
+### 18. [B] Inversion des valeurs : une hétaïre vantée contre l'épouse
+
+Dans nombre de textes anciens, l'hétaïre est représentée comme intéressée ou dépensière, l'épouse comme gardienne légitime de la maison. Ici, le locuteur inverse la hiérarchie : la femme non assurée de rester est décrite comme plus attentionnée. La **valorisation comique d'un groupe régulièrement stigmatisé** peut être l'effet d'un discours de défense paradoxale.
+
+Mais la phrase n'efface pas les hiérarchies : l'hétaïre serait aimable parce que sa place dépend de l'homme. Le compliment peut donc masquer une logique de subordination. C'est précisément l'ambivalence critique du fragment : sous une apparente louange de l'attention affective, il transforme la précarité relationnelle en vertu attendue.
+
+### 19. [B] Les limites de la description d'une épouse athénienne
+
+La voix prétend qu'une épouse pourrait rester chez elle à l'abri de sa position. Or le mariage athénien comportait plusieurs arrangements, la dot jouait un rôle essentiel, et les possibilités de séparation dépendaient des circonstances et des mécanismes familiaux. Une femme mariée n'était pas simplement propriétaire de son statut de façon indépendante de tout contexte.
+
+L'historien doit donc séparer les **normes sociales discutées** par le comique, les **règles juridiques attestées ailleurs** et la **caricature** qu'il prononce. Les liens entre dot, divorce, tutelle et descendance font partie de l'histoire du droit, mais aucun registre judiciaire n'est conservé au nom de l'épouse d'Athamas dans cette pièce.
+
+### 20. [A] Une source juridique indépendante : Pseudo-Démosthène 59
+
+Le discours connu sous le titre **Contre Nééra**, 59, attribué dans la tradition manuscrite à Démosthène mais généralement rapporté à Apollodore d'Acharnes, distingue dans une formule célèbre des catégories féminines et leurs places dans la reproduction sociale. Son §122 est fréquemment mobilisé dans les études du mariage et de la citoyenneté. Il ne doit pas être utilisé comme dictionnaire fixe de toutes les relations réellement vécues.
+
+Le discours relève de l'accusation judiciaire : il construit une image utile à une cause. Comme le fragment comique, il est **situé**. Comparer ces deux voix permet d'observer l'importance des catégories sociales dans les argumentaires masculins ; cela ne prouve pas que le procès et la pièce décrivaient tous les foyers athéniens ni que leurs auteurs se connaissaient.
+
+### 21. [A] Xénophon, *Économique* : un contrepoint domestique
+
+Dans l'*Économique* de **Xénophon**, notamment la conversation d'Ischomaque sur l'organisation du foyer au livre VII, l'épouse participe au fonctionnement et à l'administration de la maison selon des normes de genre exposées par les interlocuteurs. Ce texte est utile pour mesurer que le mariage était aussi représenté comme une relation de tâches, d'apprentissage et de gestion.
+
+Cette comparaison n'efface pas la domination masculine du cadre social. Elle empêche simplement de réduire toutes les conceptions grecques de l'épouse au mépris supposé que dénonce un personnage d'Amphis. La pluralité des genres — dialogue philosophique, plaidoyer judiciaire, comédie fragmentaire — offre des points de vue différents, non une vérité unique obtenue par addition.
+
+### 22. [A] La *Médée* d'Euripide : une critique de l'asymétrie conjugale
+
+Dans la *Médée* d'Euripide, **230–251**, la condition conjugale est interrogée du point de vue de l'épouse, qui souligne l'inégalité des positions et la difficulté de quitter une maison sans honte ni risque. Ce discours dramatique existe indépendamment de la comédie d'Amphis ; il témoigne d'une autre façon théâtrale de réfléchir au mariage.
+
+Le rapprochement est substantiel : là où le locuteur d'Amphis trouve que la femme mariée est trop assurée de sa position, Médée décrit la contrainte de l'épouse. La tension entre les deux voix doit rester visible. Ce n'est pas une controverse attestée entre les deux auteurs ni une preuve qu'Amphis répondait précisément au passage d'Euripide.
+
+### 23. [B] L'hétaïre est-elle libre parce qu'elle peut partir ?
+
+Le fragment paraît proposer une alternative : séduire par sa conduite ou chercher un autre homme. Dans sa bouche, cette mobilité constitue une raison de préférer l'hétaïre. Cependant le fait de pouvoir changer de relation n'implique pas automatiquement une véritable autonomie. La dépendance économique et la vulnérabilité sociale peuvent réduire l'éventail des choix réels.
+
+Le paradoxe est donc double. D'un côté, une femme sans lien marital établi possède peut-être une marge de mouvement ; de l'autre, son besoin de retenir une protection masculine peut l'exposer à une contrainte plus grande. La comédie ne résout pas la question : elle la dramatise en la recouvrant d'un raisonnement flatteur pour son destinataire.
+
+### 24. [B] *Eunoia* et affection : l'impossibilité de contrôler l'intérieur
+
+Le discours prétend déduire la bienveillance d'un comportement visible. Or l'attention peut être sincère, contrainte, calculée ou simplement mise en scène. Le fragment ne donne pas accès aux sentiments de l'épouse ni de l'hétaïre ; il décrit ce qu'un locuteur masculin croit pouvoir observer. L'historien du langage ne peut transformer une comparaison de postures en psychologie féminine.
+
+L'intérêt philosophique réside dans la distinction entre **acte extérieur** et **intention intérieure** : la bonne conduite est-elle preuve d'un attachement, ou produit d'un rapport de dépendance ? Le texte antique est assez net pour poser la question, pas assez complet pour connaître la réponse que la pièce en aurait donnée.
+
+### 25. [B] Une machine rhétorique : le paradoxe sous apparence de naturel
+
+Le locuteur présente une proposition surprenante, puis ajoute que la conclusion est « naturelle ». La stratégie relève du **paradoxe défendu comme évidence**. L'effet naît de l'assurance de l'orateur ; l'auditeur doit choisir entre adhésion à une démonstration brève et soupçon envers l'intérêt du raisonneur.
+
+Le contexte sophistique du IVe siècle fournit des comparaisons pertinentes : éloges inattendus, retournement d'une accusation, raisonnement sur un sujet jugé indéfendable. Cela ne permet pas d'inscrire Amphis dans une école philosophique. Nous pouvons identifier une **forme de persuasion**, mais non un enseignement disciplinaire ou un maître personnel.
+
+### 26. [A] Isocrate, *Éloge d'Hélène*, et l'art d'argumenter le paradoxal
+
+Le prologue de l'**Éloge d'Hélène** d'Isocrate (discours 10, §1) évoque des auteurs fiers de soutenir des thèmes étonnants et paradoxaux. Le texte constitue un parallèle rhétorique indépendant, utile pour comprendre un environnement culturel où la valeur d'un orateur se manifeste aussi dans sa capacité à faire paraître raisonnable une thèse déroutante.
+
+Dans le fragment d'Amphis, la thèse favorable à l'hétaïre est défendue par un petit raisonnement de dépendance sociale. Le rapport avec Isocrate est **analytique**, non génétique : nous n'avons aucune preuve qu'Amphis imite un passage précis de ce discours. La chronologie de l'ensemble des œuvres manque pour conclure à une transmission.
+
+### 27. [A] Gorgias, *Éloge d'Hélène*, et la distinction entre défense et vérité
+
+L'**Éloge d'Hélène** de Gorgias met en question la responsabilité et les causes de l'action au moyen d'une démonstration séduisante. Son usage comparatif ici est de montrer comment un texte peut mettre la virtuosité argumentative au premier plan, sans que le lecteur doive accepter immédiatement les conclusions proposées.
+
+La comparaison est limitée : Hélène n'est pas une hétaïre de la pièce d'Amphis, et la défense de Gorgias ne donne aucun vers supplémentaire d'*Athamas*. L'exercice consiste à repérer l'**énergie de la persuasion** : inverser la réputation d'un personnage ou d'une catégorie relève d'une pratique intellectuelle dont la comédie pouvait jouer.
+
+### 28. [A] Une autre défense paradoxale : la Pauvreté d'Aristophane
+
+Dans le *Ploutos* d'Aristophane, **418–609**, la figure de Pauvreté entreprend une défense inattendue de sa propre valeur face à des personnages qui pensent spontanément l'inverse. Le dialogue illustre le ressort théâtral d'une cause apparemment perdue d'avance. Cette procédure fournit un comparatif utile au plaidoyer en faveur de l'hétaïre.
+
+Il serait absurde de présenter ces vers comme un morceau d'Amphis. Les deux œuvres appartiennent à des auteurs et à des constructions dramatiques distinctes. Leur mise en parallèle permet seulement d'étudier la **fonction comique du désaccord initial** : une contradiction force à écouter un argument qu'on n'aurait peut-être pas entendu hors de scène.
+
+### 29. [B] L'effet de sélection d'Athénée : ni la pièce ni son auteur ne sont « misogynes » en bloc
+
+Athénée extrait un fragment pour l'insérer dans une conversation savante sur les femmes, après d'autres propos souvent hostiles aux épouses. Cette configuration risque de réduire l'œuvre d'Amphis à un jugement global contre les femmes mariées. Or le poète pourrait avoir construit une riposte, un contre-argument ou une inversion scénique que le compilateur n'a pas transmise.
+
+La seule proposition absolument vérifiable est qu'**un argument de ce type figurait dans une comédie attribuée à Amphis**. La monographie refuse d'apposer automatiquement les étiquettes « auteur misogyne », « défenseur des hétaïres » ou « critique du mariage » à partir de cinq vers. Un texte dramatique fait parler des personnages ; c'est une erreur de l'aplatir en profession de foi de l'écrivain.
+
+### 30. [B] La relecture avec Hegel : institution et reconnaissance
+
+Une lecture inspirée de l'esthétique et de la philosophie de Hegel peut confronter l'existence d'un lien **reconnu institutionnellement** à une relation dépendant sans cesse de signes d'approbation. Le mariage est présenté, par le locuteur antique, comme un cadre qui garantirait une place ; l'hétaïre est décrite comme devant gagner cette place à chaque instant. La comédie fait apparaître le contraste entre stabilité formelle et précarité de la reconnaissance affective.
+
+Cette analyse relève d'une interprétation moderne : elle ne démontre ni que Hegel ait commenté *Athamas*, ni que le poète grec défende une dialectique de la reconnaissance. Une meilleure formule consiste à **mettre le fragment en question avec des concepts hégéliens**, sans introduire de citation forgée du philosophe.
+
+### 31. [B] Nietzsche : faire vaciller les valeurs par une parole qui rit
+
+Chez Nietzsche, l'interrogation sur les valeurs est inséparable du problème des forces, des masques et des renversements de perspective. La voix comique d'Amphis fait la démonstration d'une préférence contraire au prestige ordinaire de l'épouse légitime ; elle transforme un rapport de dépendance en éloge de l'attention. Un lecteur nietzschéen peut demander : à qui profite cette hiérarchie renversée, et quel intérêt se cache dans la prétendue évidence ?
+
+On doit résister à une lecture simpliste qui qualifierait la scène de « dionysiaque » ou qui prétendrait y reconnaître une volonté de puissance définie avant la lettre. Aucune référence à Nietzsche n'est un témoignage antique. Le rapprochement permet de poser des questions sur **l'intérêt du locuteur**, non de donner un sens définitif à une pièce perdue.
+
+### 32. [B] Vernant et Nicole Loraux : la maison et la cité ne se confondent pas
+
+Les travaux de Jean-Pierre Vernant sur la pensée sociale grecque et de **Nicole Loraux** sur la division des sexes et les représentations civiques invitent à ne pas prendre les mots « épouse », « maison », « loi » pour de simples identités privées. Le mariage est inscrit dans une organisation des descendances et des places sociales dont les discours masculins peuvent masquer la violence symbolique.
+
+Le texte d'Amphis ne dit rien d'une assemblée, d'un débat politique ni d'une réforme du statut des femmes. La lecture historienne observe que **la maison est pensée à partir de normes collectives**, puis évite de transformer le monologue en résolution civique. Il s'agit d'une mise en contexte, pas d'une explication fournie par Athamas lui-même.
+
+### 33. [B] Détienne et la prudence comparatiste
+
+Marcel Détienne a montré l'intérêt de construire les comparaisons à partir de problèmes précisément définis plutôt que de rechercher des identités mythiques universelles. Ici le problème pertinent est le rapport entre **personnages mythiques réutilisés et catégories sociales d'une cité**. Comment une pièce portant le nom d'un héros légendaire peut-elle faire rire avec les mots de l'ordre domestique contemporain ?
+
+Il n'existe pas, dans le fragment, de sacrifice, de partage rituel de la viande, de repas sacré ou d'opposition religieuse permettant d'appliquer directement les modèles de la cuisine sacrificielle. Les recherches de Vernant et Détienne sur ces sujets peuvent intéresser la tradition d'Athamas et de Phrixos, mais ne doivent pas être présentées comme une exégèse des cinq vers transmis par Athénée.
+
+### 34. [B] Dumézil : pourquoi la comparaison trifonctionnelle est écartée
+
+La présence d'un roi mythique, d'une épouse et d'une compagne pourrait donner lieu à des analogies arbitraires avec les fonctions souveraine, guerrière et productive des schémas comparatistes associés à Georges Dumézil. Pourtant ni le fragment ni son contexte d'attribution ne présentent une triade structurée de fonctions. Nul ne peut assigner une signification indo-européenne à ces personnages par simple ressemblance numérique.
+
+La bonne comparaison suit les attestations textuelles : auteur comique, témoin d'Athénée, titres homonymes, normes sociales et genres de discours. Le rejet d'une analogie non probante n'est pas un jugement global sur l'œuvre de Dumézil, mais une **discipline locale de l'interprétation**.
+
+### 35. [B] Une perspective française d'histoire des femmes
+
+Les travaux de **Claude Mossé**, *La Femme dans la Grèce antique*, et de **Nicole Loraux**, *Les Enfants d'Athéna*, rendent utile un déplacement de la question. Au lieu de demander si les épouses étaient « vraiment » moins aimables, il faut examiner les conditions qui rendent possible et intelligible une telle opposition masculine dans les textes. Quelles obligations associe-t-on à la maison ? Quelles femmes peuvent être perçues comme parlant librement ? Quelles catégories sont invisibilisées ?
+
+Le passage est une parole d'homme dans une tradition textuelle essentiellement masculine. Il ne livre pas l'opinion des femmes auxquelles il fait allusion. La recherche contemporaine doit mettre en regard les sources juridiques, les épitaphes, les images, les données matérielles et les textes littéraires ; ici, faute de dossier iconographique associé à la pièce, seules les sources textuelles permettent un travail direct.
+
+### 36. [B] La dimension économique de la relation
+
+Le vocabulaire de « gagner » un partenaire évoque une économie de la faveur. Mais l'échange relationnel ne doit pas être réduit à une transaction tarifaire clairement décrite. Le texte ne nomme ni somme d'argent ni contrat de services ; il met en scène une obligation de comportement. La métaphore marchande est suffisamment forte pour interroger le coût de l'affection, sans inventer un prix de la courtisane.
+
+La dot joue ailleurs un rôle structurant dans le mariage athénien ; ce dossier distingue les **sources permettant d'en parler historiquement** et les **cinq vers où elle n'est pas citée**. Insérer un montant ou un inventaire de biens dans une prétendue scène antique serait une fabrication. Les scènes [C] peuvent exploiter cette question, à condition d'être explicitement originales.
+
+### 37. [B] Pourquoi une comédie peut soutenir la mauvaise cause
+
+Une thèse socialement contestable peut devenir objet de rire sans qu'une pièce en fasse son manifeste. Un mauvais conseiller peut parler avec virtuosité ; une victime peut produire un argument contradictoire ; un personnage peut persuader au premier acte et être démenti ensuite. L'œuvre ne nous est pas parvenue assez intégralement pour mesurer ces jeux de distances.
+
+La méthode universitaire doit donc garder une place ouverte pour **l'ironie**. Nous savons le sens local du raisonnement : il préfère la compagne non mariée pour des raisons de comportement intéressé. Nous ne savons pas si le public le trouvait convaincant, scandaleux, drôle parce que faux, drôle parce qu'il ressemblait à une expérience vécue, ou drôle parce qu'un héros légendaire se mettait à parler comme un plaideur athénien.
+
+### 38. [B] Trois hypothèses dramatiques non cumulables
+
+**Hypothèse I — plaidoyer conjugal.** Athamas lui-même exprimerait sa lassitude devant des unions devenues dangereuses, et un personnage l'écouterait. Cela s'accorde avec le titre mythique, sans autre preuve. **Hypothèse II — sophiste domestique.** Un personnage secondaire proposerait une théorie des compagnes et provoquerait une réponse contradictoire. Cela s'accorde avec le ton argumentatif, sans preuve de distribution. **Hypothèse III — proverbe déplacé.** Une remarque d'allure générale servirait de respiration comique dans une intrigue mythologique d'une autre nature.
+
+Aucune hypothèse n'a priorité documentaire. Les présenter comme trois **possibilités concurrentes** vaut mieux que les fusionner en une intrigue continue que l'on ferait passer pour reconstituée.
+
+---
+
+## [C] Trois scènes contemporaines originales — non attribuées à Amphis
+
+**Avertissement.** Le texte ci-dessous est une création du XXIe siècle pour MYTHOS. Nulle réplique, didascalie, identité du locuteur ni situation scénique ne provient d'un papyrus antique d'*Athamas*. Les personnages peuvent porter des noms traditionnels, mais leurs discours sont entièrement neufs. Aucune ligne ne doit être versée dans un répertoire de fragments sous le nom d'Amphis.
+
+### 39. [C] Première scène — Le contrat de bienveillance
+
+*Un espace vide. Sur une table, deux rouleaux de papier portent les mentions « Statut » et « Promesse ». L'Homme des règles tente de les remplir. Une Hétaïre et une Épouse l'observent.*
+
+**L'HOMME DES RÈGLES.** Je voudrais un document simple : que chacune soit aimable tant que je l'apprécie.
+
+**L'ÉPOUSE.** Et vous ? À quel endroit promettez-vous d'être aimable ?
+
+**L'HOMME DES RÈGLES.** Le document ne concerne pas mes obligations.
+
+**L'HÉTAÏRE.** Alors il s'agit d'une liste d'ordres, non d'un accord.
+
+**L'HOMME DES RÈGLES.** Ne jouez pas sur les mots. On sait qu'une femme qui peut être quittée se montre plus attentive.
+
+**L'HÉTAÏRE.** Vous appelez attention ce que vous obtenez en menaçant de retirer votre aide. Si j'ai froid et que vous possédez le manteau, me remercierez-vous de sourire ?
+
+**L'ÉPOUSE.** Et vous appelez insolence le fait que je puisse répondre. Vous me reprochez un statut qui m'empêcherait de devenir une servante.
+
+**L'HOMME DES RÈGLES.** Je ne vous reproche rien. Je fais seulement de la philosophie.
+
+**L'ÉPOUSE.** La philosophie aurait dû commencer par une question à laquelle nous avions droit de répondre.
+
+**L'HÉTAÏRE.** Ajoutez une troisième colonne : « Liberté de dire non ».
+
+**L'HOMME DES RÈGLES.** Cela compliquerait tout.
+
+**L'ÉPOUSE.** Oui. C'est sans doute pourquoi vous préfériez votre simple théorie.
+
+*L'Homme des règles déchire le premier rouleau et conserve le second, qu'il n'ose plus signer.*
+
+**L'HÉTAÏRE.** Vous pourrez toujours écrire une pièce. Dans une pièce, au moins, chacun peut répliquer.
+
+*Fin de la première scène originale [C].*
+
+### 40. [C] Deuxième scène — Athamas demande une preuve
+
+*Athamas, figure imaginée pour cette création moderne, se tient devant une Bibliothécaire. Elle possède un titre et cinq lignes recopiées. La scène est un débat sur le droit de compléter les lacunes.*
+
+**ATHAMAS.** On me répète que j'aurais préféré les hétaïres à mes épouses. Est-ce donc tout ce qui restera de moi ?
+
+**LA BIBLIOTHÉCAIRE.** Ce qui reste d'une comédie qui porte votre nom est plus modeste que les récits qui vous entourent. Nous avons un passage, et nous ne savons pas qui le disait.
+
+**ATHAMAS.** Alors rendez-moi ma voix. J'ai traversé des mariages, des pertes et des récits qui ne se rejoignent pas. Je pourrais expliquer.
+
+**LA BIBLIOTHÉCAIRE.** Vous pourriez expliquer aujourd'hui, sur cette scène nouvelle. Mais vous ne pouvez prétendre que les Anciens ont écrit votre explication.
+
+**ATHAMAS.** Si un poète connaît mon nom, pourquoi ne connaît-il pas mes intentions ?
+
+**LA BIBLIOTHÉCAIRE.** Le nom et l'intention ne survivent pas dans le même tiroir de l'histoire.
+
+**ATHAMAS.** Je voudrais au moins apprendre pourquoi je suis devenu le titre d'une pièce dont nous ne savons presque rien.
+
+**LA BIBLIOTHÉCAIRE.** Peut-être pour permettre aux spectateurs de reconnaître un malheur devenu risible. Peut-être pour les tromper sur ce qu'ils allaient voir. Peut-être pour une raison entièrement perdue.
+
+**ATHAMAS.** Vous avez trois réponses et vous ne m'en donnez aucune.
+
+**LA BIBLIOTHÉCAIRE.** Ce sont trois hypothèses. Une seule certitude : votre nom a circulé avec des paroles qui ne nous racontent pas toute votre histoire.
+
+**ATHAMAS.** Que pouvez-vous donc offrir à ceux qui me lisent ?
+
+**LA BIBLIOTHÉCAIRE.** La distinction entre la mémoire et l'invention. Elle ne remplit pas les livres, mais elle leur évite de mentir.
+
+*Athamas pose une main sur le titre, sans toucher au texte.*
+
+*Fin de la deuxième scène originale [C].*
+
+### 41. [C] Troisième scène — La contradiction au banquet
+
+*Un Compilateur prépare une anthologie. Un Comédien veut jouer Amphis. Une Chercheuse examine l'étiquette d'une boîte : « Mariage — citations plaisantes ». Un fauteuil reste vide.*
+
+**LE COMPILATEUR.** Ici je mets les propos contre les épouses. Là ceux qui célèbrent les hétaïres. Ainsi mon banquet aura une belle ordonnance.
+
+**LA CHERCHEUSE.** Vous allez retirer les réponses, les silences, les situations et les malentendus ?
+
+**LE COMPILATEUR.** Je garde seulement les paroles qui plaisent à mes convives.
+
+**LE COMÉDIEN.** Si je joue ces paroles sur scène, le public rira. Mais de qui rira-t-il ?
+
+**LE COMPILATEUR.** De l'épouse, évidemment.
+
+**LA CHERCHEUSE.** Ou de l'homme assez sûr de lui pour expliquer les sentiments d'autrui par un calcul. Ou du raisonneur qui confond bienveillance et nécessité. Vous avez conservé une thèse, pas l'effet complet de sa représentation.
+
+**LE COMÉDIEN.** Je veux ajouter une femme qui lui réponde.
+
+**LA CHERCHEUSE.** Faites-le. Mais dites que vous en êtes l'auteur.
+
+**LE COMPILATEUR.** Cela ruinera mon catalogue. Les lecteurs pourraient ne plus savoir quelle phrase est ancienne.
+
+**LA CHERCHEUSE.** C'est justement pourquoi vous devez l'indiquer clairement.
+
+**LE COMÉDIEN.** Et si je n'ajoute personne, ma scène sera-t-elle plus fidèle ?
+
+**LA CHERCHEUSE.** Pas nécessairement. Une fidélité silencieuse à cinq lignes n'est pas l'illusion d'une pièce entière. Vous pouvez les réciter avec prudence ; vous ne pouvez pas garantir ce qu'il y avait autour.
+
+**LE COMPILATEUR.** Alors je laisserai un fauteuil vide.
+
+**LE COMÉDIEN.** Pour le personnage qui ne nous a pas été transmis ?
+
+**LA CHERCHEUSE.** Pour le spectateur qui saura que l'absence est une donnée de l'histoire.
+
+*Le Comédien prend un siège, puis le repose. Les convives imaginaires entrent et s'arrêtent devant le fauteuil inoccupé.*
+
+**LE COMPILATEUR.** N'avez-vous pas une réplique pour conclure ?
+
+**LA CHERCHEUSE.** Non. Et celle-ci, au moins, je ne l'attribuerai pas à Amphis.
+
+*Fin de la troisième scène originale [C].*
+
+---
+
+### 42. [B] Leçons des créations [C] et éthique de l'attribution
+
+La première scène invente une réplique des femmes à la certitude masculine du fragment ; la deuxième montre le personnage mythique face à la limite des connaissances ; la troisième met au jour la responsabilité du compilateur. Ces expérimentations n'ajoutent aucun témoin antique. Leur intérêt est de **rendre visible l'impossibilité d'une restitution sûre** tout en démontrant qu'une scène moderne peut être construite avec rigueur à partir d'une question philologique.
+
+La transmission d'une comédie perdue n'est pas améliorée en remplaçant les vides par des répliques écrites aujourd'hui et présentées sous les noms antiques. Il faut pouvoir lire dans la même monographie une attestation [A], un raisonnement [B] et une invention [C], sans que le lecteur confonde leur statut.
+
+### 43. [A] Matrice de vérification documentaire
+
+| Proposition | Témoin ou travail | Statut | Ce qui n'est **pas** prouvé |
+| --- | --- | --- | --- |
+| *Athamas* d'Amphis est cité avec cinq vers sur l'épouse et l'hétaïre | Athénée XIII, 559a–b ; Amphis fr. 1 K.-A. | [A] attesté | Identité du personnage qui parle |
+| La tradition abrégée d'Athénée omet certains éléments de l'introduction | Papachrysostomou 2016, pp. 21–22, collation A/C/E | [A] apparat critique | Version scénique parallèle |
+| Les mots *gametē*, *hetaira*, *nomōi*, *tropos* organisent l'opposition | Athénée fr. 1, texte grec édité | [A] attesté | Loi détaillée de mariage |
+| Le titre Athamas renvoie à un réseau de mythes familiaux | Pseudo-Apollodore I, 9, 1–2 ; III, 4, 3 | [A] récit indépendant | Intrigue d'Amphis |
+| D'autres dramaturges ont écrit un *Athamas* | Catalogues antiques et dossiers PCG/TrGF récapitulés dans FrC 20, p. 20 | [A] auteurs et titres distincts | Identité des textes perdus |
+| L'opposition entre épouse et hétaïre relève d'un plaidoyer paradoxal | Analyse de la construction et des parallèles oratoires | [B] argument | Intention doctrinale de l'auteur |
+| Athamas prononce lui-même le fragment | Hypothèse fondée sur le titre | [B] fragile | Distribution de la pièce |
+| Un débat féminin a suivi ce propos | Trois scènes contemporaines de la présente étude | [C] invention | Aucune réplique féminine antique supplémentaire |
+
+### 44. [A] Bibliographie des sources primaires et éditions
+
+1. **Athénée de Naucratis**, *Deipnosophistes*, **XIII, 559a–b**. Texte transmis du fragment d'Amphis : https://www.attalus.org/old/athenaeus13a.html (traduction de C. D. Yonge, 1854 ; ancienne et non retenue pour l'apparat grec).
+2. **Amphis**, *Athamas*, **fr. 1 K.-A.**, dans **R. Kassel et C. Austin** (éd.), *Poetae Comici Graeci*, **II : Agathenor–Aristonymus**, Berlin/New York, de Gruyter, **1991**, pp. **213–214**. Édition de référence pour la cote et les variantes.
+3. **Athēna Papachrysostomou**, *Amphis: Introduction, Translation, Commentary*, **Fragmenta comica**, vol. **20**, Heidelberg, Verlag Antike, **2016**, p. **20** (titre), pp. **21–26** (texte, constitution, interprétation, lexique). **Édition savante consultée dans la numérisation institutionnelle** : https://doi.org/10.11588/diglit.53736#0025 à https://doi.org/10.11588/diglit.53736#0030.
+4. **Pseudo-Apollodore**, *Bibliothèque* **I, 9, 1–2 ; III, 4, 3**. Sources du mythe, indépendantes de la comédie d'Amphis ; aucun vers de cette œuvre n'est attribué ici au poète.
+5. **Pseudo-Démosthène**, *Contre Nééra*, discours **59, §122**. Source de catégories juridiques et rhétoriques liées au statut des femmes, à lire comme document d'accusation situé.
+6. **Xénophon**, *Économique* **VII**. Témoignage philosophico-domestique indépendant.
+7. **Euripide**, *Médée* **230–251**. Témoignage dramatique indépendant sur la position conjugale, non source de la comédie moyenne.
+8. **Isocrate**, *Éloge d'Hélène* **§1** ; **Gorgias**, *Éloge d'Hélène*. Références indépendantes pour l'argumentation paradoxale.
+9. **Aristophane**, *Ploutos* **418–609**, autre usage dramatique de l'argumentation inattendue ; ne constitue pas un fragment d'Amphis.
+10. **Pausanias**, *Description de la Grèce* I, 44, 7–10, et IX, 34, 7, repères complémentaires de la circulation du mythe d'Athamas et de la mémoire locale, sans attribution comique.
+
+### 45. [B] Bibliographie critique et outils français
+
+11. **Heinz-Günther Nesselrath**, *Die attische Mittlere Komödie: ihre Stellung in der antiken Literaturkritik und Literaturgeschichte*, Berlin/New York, **1990**. Repère pour la comédie moyenne, non reconstruction de l'intrigue d'*Athamas*.
+12. **T. B. L. Webster**, *Studies in Later Greek Comedy*, Manchester, deuxième édition **1970**. Histoire des pratiques comiques à contrôler contre les éditions récentes.
+13. **Timothy Gantz**, *Early Greek Myth: A Guide to Literary and Artistic Sources*, **1993**, section sur Athamas et sa famille. Instrument comparatif, non témoin dramatique direct.
+14. **Sarah B. Pomeroy**, *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, **1975**. Étude d'histoire sociale à mettre en dialogue critique avec les stéréotypes textuels.
+15. **Kathleen M. Glazebrook et Madeleine M. Henry** (dir.), *Greek Prostitutes in the Ancient Mediterranean, 800 BCE–200 CE*, Madison, **2011**. Enquêtes sur les catégories et expériences féminines qui empêchent de lire *hetaira* comme catégorie absolument homogène.
+16. **Nicole Loraux**, *Les Enfants d'Athéna. Idées athéniennes sur la citoyenneté et la division des sexes*, **1981** ; rééditions ultérieures. Approche critique des imaginaires civiques et de la différence des sexes.
+17. **Claude Mossé**, *La Femme dans la Grèce antique*, première édition **1983**, réédition Albin Michel **2014**. Perspective historiographique française sur les conditions féminines et les biais du témoignage.
+18. **Pauline Schmitt Pantel**, *La Cité au banquet : histoire des repas publics dans les cités grecques*, Rome, École française de Rome, **1992**, réédition 2011. Méthode de contextualisation des scènes de banquet ; le fragment ne présente pas de banquet antique d'Amphis.
+19. **G. W. F. Hegel**, *Cours d'esthétique* ; **Friedrich Nietzsche**, *La Naissance de la tragédie*, **1872** ; **Jean-Pierre Vernant**, travaux sur la cité et la pensée mythique ; **Marcel Détienne**, *L'Invention de la mythologie*, **1981**. **Outils de problématisation modernes**, ne fournissant aucun fragment et ne devant pas recevoir de citations inventées.
+20. **Georges Dumézil**, *Mythe et épopée*, **1968–1973**. Référence discutée pour justifier ici le refus d'une lecture trifonctionnelle non étayée.
+
+**Note méthodologique bibliographique.** Pour les cinq vers, la collation et les observations textuelles sont vérifiées à partir du commentaire institutionnel de Heidelberg, pages numérisées 0024–0030, et de la localisation chez Athénée. La présence d'un titre dans la liste des ouvrages critiques ne signifie ni qu'un ouvrage soit la source de chaque analyse rédigée ici, ni qu'un auteur ait tenu les propos que l'on pourrait lui prêter. Aucun numéro de fragment hors de **fr. 1 K.-A.** n'a été inventé pour cette étude.
+
+### 46. [B] Continuité des volumes MYTHOS déjà attribués
+
+Pour conserver les œuvres, distinguer la présente étude des dossiers suivants **déjà numérotés sur main** et les lire comme comparaisons, sans confusion des attributions :
+
+- [Volume CXLVI (146) — Ménandre, *Samia* : Chrysis, Déméas et les relations domestiques](/chapitres/comedies/volume-146-menandre-samia-chrysis-demeas-moschion-papyrus-caire-bodmer-fausse-filiation/) : un autre contexte dramatique permet de comparer l'hétaïre cohabitante et le pouvoir masculin.
+- [Volume CXLVIII (148) — Anaxilas, *Neottis* : hétaïres et catalogue des monstres](/chapitres/comedies/volume-148-anaxilas-neottis-hetaires-monstres-sphinx-enigme-contre-discours/) : l'invective inverse l'argument valorisant d'Amphis ; ne pas confondre les fragments voisins chez Athénée.
+- [Volume CXLII (142) — Anaxandridès, *Gerontomania* : vieillesse, désir et discours](/chapitres/comedies/volume-142-anaxandrides-gerontomania-vieillesse-desir-hetaires-rhadamanthe-palamedes-rhetorique/) : autre étude de la mise en scène comique du désir.
+- [Volume CLV (155) — Euboulos, *Stephanopōlides* : femmes, apparence et cosmétique](/chapitres/comedies/volume-155-euboulos-stephanopolides-vendeuses-couronnes-fleurs-parfums-cosmetiques-chant/) : contexte des citations juxtaposées dans le livre XIII d'Athénée.
+- [Volume CXLIX (149) — Aristophon, *Pythagoristai* : exercice de la norme et épreuve du corps](/chapitres/comedies/volume-149-aristophon-pythagoristes-ascese-pauvrete-banquet-hades/) : comparaison de la prétention normative, non d'une intrigue identique.
+
+Les liens ci-dessus sont **sortants** et visent exclusivement des chemins confirmés avant dépôt. Le nouveau manuscrit ne se donne aucun chemin numéroté anticipé et n'exige pas de modification des volumes historiques. Les renvois réciproques ne pourront être établis qu'après attribution effective de son numéro et contrôle de son chemin généré.
+
+### 47. [B] Conclusions : une vertu sous contrainte, cinq vers sans dénouement
+
+La petite unité conservée d'*Athamas* ne raconte ni une histoire complète de mariages successifs ni une théorie sociale d'Amphis. Elle montre une intelligence comique au travail : la possibilité de **faire passer la dépendance pour un avantage affectif**. Une femme dont la place n'est pas institutionnellement garantie serait « plus bienveillante », parce qu'elle doit conquérir la faveur de l'autre. À cette apparente louange répond une inquiétude critique : ce qui est présenté comme une vertu n'est peut-être qu'un comportement obtenu sous menace de rupture.
+
+L'analyse historique identifie un langage de statut, de mariage et de faveur. L'analyse philologique examine les témoins, les variantes et l'argumentation en trimètres. L'analyse philosophique fait apparaître une tension entre reconnaissance et contrainte, sans imposer les concepts des penseurs modernes au texte grec. L'analyse comparatiste oppose plusieurs œuvres **distinctes** portant le nom d'Athamas, puis rapproche les pratiques rhétoriques d'Isocrate, de Gorgias et d'Aristophane, sans transformer leurs textes en répliques d'Amphis.
+
+Ce que nous savons doit demeurer net : **Athénée XIII, 559a–b transmet cinq trimètres attribués à Amphis, *Athamas*, fr. 1 K.-A.** Ce que nous ne savons pas l'est tout autant : le nom du locuteur, le destinataire, la date, la distribution, l'action et le dénouement. Les hypothèses [B] font travailler cette ignorance ; les scènes [C] assument de la combler pour une représentation d'aujourd'hui. L'archive [A] reste intacte.
+
+### 48. Attestation éditoriale de la présente livraison
+
+Ce manuscrit est une livraison intégrale autonome de la collection **comedies**, déposée sous un **UUID stable** sans choisir de numéro. Les seuls emplacements du numéro éditorial propre à cette étude sont les variables **159** et **CLIX** ; les cotes **fr. 1**, les pages, les dates antiques ou éditoriales et les numéros historiques des volumes existants restent inchangés. Le numéro définitif, le chemin public et les renvois entrants dépendent exclusivement du reçu transactionnel calculé par GitHub Actions depuis la source de vérité **main**. Ni brouillon privé ni faux fragment ne figure dans cette livraison.
+
+*Fin de la monographie. [A] Témoignages attestés. [B] Hypothèses argumentées. [C] Créations dramaturgiques originales séparées.*

@@ -1635,6 +1635,30 @@
           "path": "chapitres/origines-du-sacre/844-teouma-vanuatu-lapita-necropole-cranes-oiseaux-ceramiques-migrations.md",
           "request_sha256": "a9b069ba8a5f97becdf8d7b11e30d592c0e854ffef442420a2686495783d96da",
           "initial_source_sha256": "c97fecc0ed76960f71d9e161841972a79ecc9755c651093729cc2834a7ee1f78"
+        },
+        "91b73e8d-52c1-4be4-a2e9-ef6c4a92bd50": {
+          "number": 845,
+          "path": "chapitres/origines-du-sacre/845-juxtlahuaca-guerrero-grotte-peintures-felins-maiz-captif-archives.md",
+          "request_sha256": "bbe02e4d84e6ad5ad912217849c0f1a93b4cd715614bff15f7e1a477b67c8095",
+          "initial_source_sha256": "65f1579094e75d5612ef9c6312a8d0d2cda17e0b6bc3d57359a2b234d086f851"
+        },
+        "9a7bd6e3-3b95-43a7-bf87-e2a8d97c1931": {
+          "number": 846,
+          "path": "chapitres/origines-du-sacre/846-teopantecuanitlan-guerrero-patio-hundido-monolitos-agua-astronomia.md",
+          "request_sha256": "6e7bf6297af110197af3abd09f45418923965e70a7d9bafb5e0a3ba1fe5be925",
+          "initial_source_sha256": "5a67e9db9697e1df7bac5209e75e26ac2c4dc3c9eb86e3b4184fc532bed34805"
+        },
+        "a3e2bc75-d7f4-4a89-ae6e-65a579f91dc4": {
+          "number": 847,
+          "path": "chapitres/origines-du-sacre/847-tlatilco-bassin-mexique-sepultures-figurines-contorsionniste-memoire.md",
+          "request_sha256": "1fe9db2e4958db0ecde8fd906e2d93c887aad162af380b869ae23149ccda16c1",
+          "initial_source_sha256": "484ece86637ee364cb925a812de18bab90ce57b8c7fe4dee239180f9a4010bb6"
+        },
+        "db7a6b9e-6f41-4f38-a174-8c6a8d7cbec2": {
+          "number": 848,
+          "path": "chapitres/origines-du-sacre/848-teopantecuanitlan-guerrero-patio-enfoui-monolithes-eau-equinoxes.md",
+          "request_sha256": "e6cc00d9fc4779b052c67891c4cf8394b61f7c1df3327ce1e67e10a34e999e0d",
+          "initial_source_sha256": "83efe4a891986f0a9ae1684858dd365d1968af464d6e77f89e4da3e6a8b4c0eb"
         }
       }
     },
@@ -3196,6 +3220,12 @@
           "path": "chapitres/comedies/volume-158-epicharme-bousiris-heracles-egypte-sacrifice-hospitalite-gloutonnerie.md",
           "request_sha256": "48a9f95cf7b10ad3cc26b06f35637653802daa3833953bfa4e76569ea7d7ae09",
           "initial_source_sha256": "1f979b6c6516b18e33f5eaa2e2be2bcbb9c61c3eca6336f7d2c62f0fe541fffd"
+        },
+        "9eb48a73-2a7d-4b1c-9c50-61e27f34d0ab": {
+          "number": 159,
+          "path": "chapitres/comedies/volume-159-amphis-athamas-hetaire-epouse-mariage-droit-paradoxe-rhetorique.md",
+          "request_sha256": "b895a6ca361897cfc75dcf96db3318d81870daba03776ded40bc6a38194fe876",
+          "initial_source_sha256": "837236be12583b7c4553a0ee1e3c81a8d16219a9ce0d39b1e884ffa370ed5e3c"
         }
       }
     },
@@ -3916,6 +3946,18 @@
           "path": "chapitres/tragedies/volume-ccciii-melanthios-melanthius-medee-medea-aristophane-paix-monodie-attribution-morsimos.md",
           "request_sha256": "c7190dee5c1b386169c28624940e72af7113be4d4a905642f3b8dd99caa532f4",
           "initial_source_sha256": "8fe38dd5b7dced4be5ea0b35e9006e83dd6b1dc032473d51932f5ab376cdf7bd"
+        },
+        "941eb857-71bc-4cd7-823e-9f4a05e13c76": {
+          "number": 304,
+          "path": "chapitres/tragedies/volume-ccciv-philocles-ancien-nauplios-palamedes-capharee-justice-vengeance-tragedie-perdue.md",
+          "request_sha256": "21176778c6bb47efe2c53ab85c2387682e0af22092ca82ccea53b1d7e912c926",
+          "initial_source_sha256": "9f52f85000be550ea2b830391e1ef499b3976f3e6c8de4621e04634dfea2544d"
+        },
+        "e77b413c-3c16-44da-91bc-07e26f1e8f52": {
+          "number": 305,
+          "path": "chapitres/tragedies/volume-cccv-philocles-ancien-erigone-icarios-egisthe-aiora-anthesteries-tragedie-perdue.md",
+          "request_sha256": "dc0597d6a71e919fe059cb9b4db0b03ac235e7432a45713fbc0cf4a76a36b44f",
+          "initial_source_sha256": "b22b0cdfc52123f8112b67f72bcecaeecc86be20cd6ce9d48f0e42859d77274b"
         }
       }
     },
@@ -5251,6 +5293,18 @@
           "path": "chapitres/comparatif/volume-ccclxiii-oiseaux-ailes-parricide-cinesias-sycophante-normes-pouvoirs-414.md",
           "request_sha256": "86167fbf53427122ac7e54c4111e3f3c89d5ab988f3b17aa562b95df06f51c39",
           "initial_source_sha256": "74b57c065c5e6c9be3373795dab89ae2e042bcfd7567306a7eb2f03e0991a7d0"
+        },
+        "4d7f96ae-87d2-45f3-9137-202611071948": {
+          "number": 364,
+          "path": "chapitres/comparatif/volume-ccclxiv-mc-137-cauris-sacres-egypte-shang-zhou-dian-yoruba-divination.md",
+          "request_sha256": "0c384542efe292b1ae209f1fdbcb390514e02b1cf90f451ad5d0582fbefbe093",
+          "initial_source_sha256": "4412a0d2b931c0f540cb3bc82e1da3f659a09998be14eb7d8f53705f410abe28"
+        },
+        "d1a36c0e-7b91-4c6f-8e3d-202611071929": {
+          "number": 365,
+          "path": "chapitres/comparatif/volume-ccclxv-mc-136-colombes-sacre-dodone-aphrodite-venus-genese-levitique-bapteme-rigveda-yama.md",
+          "request_sha256": "8eb79f6d1d55e6a611789fe5a47a2b3358f69e5f9fbff674293435f0109c2798",
+          "initial_source_sha256": "3709d55f1fe0ea406d8eb1a9de5e506fda89b55b0aff93787b697d760984111d"
         }
       }
     }
