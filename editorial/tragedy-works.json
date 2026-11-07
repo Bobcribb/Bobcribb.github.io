@@ -39,6 +39,60 @@
           "git_blob_sha": "ea2dfe545717f016919a5702c7616b33fe15d9f9"
         }
       ]
+    },
+    "acheos-eretrie:iris-satyrique": {
+      "author": "Achéos d’Érétrie",
+      "title": "Iris satyrique",
+      "greek_title": "Ἴρις Σατυρική",
+      "transliteration": "Iris satyrique",
+      "aliases": [
+        "Iris satyrique",
+        "Iris et les satyres",
+        "Ἴρις Σατυρική",
+        "Ἶρις Σατυρική",
+        "Iris Satyrikē"
+      ],
+      "reference": "Athénée, Deipnosophistes X, 451c–d ; TrGF I, 20 F 19–23 ; FragTrag.1, Achaeus I, titre 10, fr. 20–23 et rep. 4",
+      "study_relation": "de l’Iris satyrique",
+      "administrative_notice": "Les mentions d’attribution encore « en attente » dans les états historiques des manuscrits, notamment des volumes 271 et 272, sont caduques : les reçus GitHub établissent désormais les volumes CCLXXI (271) et CCLXXII (272). Les manuscrits originaux et leurs anciennes formulations sont conservés sans réécriture.",
+      "primary_url": "/chapitres/tragedies/volume-cclxx-acheos-eretrie-iris-satyrique-scytale-enigme-satyres-athenee-451/",
+      "guide_url": "/theatre/acheos-iris-satyrique/",
+      "notice_source": "editorial/acheos-iris-satyrique-concordance.md",
+      "members": [
+        {
+          "uuid": "5c6840fd-2fbd-4c92-a84f-5a0af2d64df3",
+          "number": 270,
+          "roman": "CCLXX",
+          "role": "primary",
+          "label": "Monographie de référence — Iris satyrique",
+          "study_title": "Iris satyrique : scytale, énigme et reconstitution",
+          "focus": "Critique des fragments et d’Athénée X, 451c–d, langage énigmatique, iconographie comparée et prudence dramaturgique",
+          "source": "chapitres/tragedies/volume-cclxx-acheos-eretrie-iris-satyrique-scytale-enigme-satyres-athenee-451.md",
+          "git_blob_sha": "dd056cc5d680653be36e65b65568dfb90e02a847"
+        },
+        {
+          "uuid": "b0f49db7-3a46-430a-a423-1a9cf4b017f6",
+          "number": 271,
+          "roman": "CCLXXI",
+          "role": "complement",
+          "label": "Étude complémentaire — Iris satyrique, parole divine et philologie",
+          "study_title": "Iris satyrique : parole divine et philologie",
+          "focus": "Athénée, scytale et supports d’écriture, traditions homériques, parole divine, vases, Platon et Aristote",
+          "source": "chapitres/tragedies/volume-cclxxi-acheos-eretrie-iris-satyrique-scytale-athenee-satyres-messagere.md",
+          "git_blob_sha": "db1e4fb6e12984acec7cb0fe9da4ff11510ce3ae"
+        },
+        {
+          "uuid": "ce7b92a4-4e1c-47d0-9a31-84f40d8bd276",
+          "number": 272,
+          "roman": "CCLXXII",
+          "role": "complement",
+          "label": "Étude complémentaire — Iris satyrique, sacrifices et frontières",
+          "study_title": "Iris satyrique : sacrifices et frontières divines",
+          "focus": "Frontières olympiennes, rites et offrandes, violence satyrique, alternatives iconographiques et limites épistémologiques",
+          "source": "chapitres/tragedies/volume-cclxxii-acheos-eretrie-iris-satyrique-messagere-satyres-sacrifices-frontieres-trgf19-23.md",
+          "git_blob_sha": "e793c9e8d106790db4880764c85a5f32bb9606d4"
+        }
+      ]
     }
   }
 }
