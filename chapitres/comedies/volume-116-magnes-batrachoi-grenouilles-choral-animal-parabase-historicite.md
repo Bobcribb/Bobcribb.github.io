@@ -367,3 +367,11 @@ Ce dossier est distinct des études déjà attribuées sur **Magnès, *Lydoi*** 
 Les anciens repères XIII et XIV ne réservent aucun numéro. L'identifiant décimal et le volume romain de **la présente étude exclusivement** seront introduits par le mécanisme atomique de publication, après lecture de l'état effectif de `main`. La publication d'une demande sur GitHub et son attribution par reçu sont deux actes différents. Un lien vers une page publique ne pourra être certifié qu'après contrôle du rendu et du déploiement.
 
 **Conclusion éditoriale.** [A] Titre traditionnel et témoignages encadrés par la philologie ; [B] interprétations conditionnelles ; [C] trois créations dramatiques originales et signalées. Aucun vers n'est inventé sous le nom de Magnès ; aucun contenu d'une œuvre homonyme n'est présenté comme son texte.
+
+---
+
+### Note critique documentaire — LO03-CO-116 (7 novembre 2026)
+
+**Témoin primaire effectivement examiné.** Aristophane, *Cavaliers*, v. 518–525, notamment 520–525 : l'éloge rétrospectif de Magnès énumère diverses transformations vocales et scéniques, dont la séquence grecque *βαπτόμενος βατραχείοις* ; [texte grec et traduction juxtaposés, v. 498–623](https://www.greekmythology.com/sources/aristophanes/knights/parabasis) et [texte grec avec repères 520–525](https://classics.andrewgadsden.com/library/aristophanes/knights/5). L'expression ne livre **ni le texte de la comédie perdue ni une distribution certaine**, et sa traduction exacte demande un contrôle philologique ; elle ne prouve pas que les procédés énumérés correspondent à autant de titres distincts.
+
+**Appareil à collationner.** Rudolf Kassel et Colin Austin (éd.), *Poetae Comici Graeci*, pour la numérotation des témoignages et les titres transmis : mention d'édition, **sans consultation directe de son apparat lors de ce lot**. Perspective française possible à examiner ultérieurement : François Lissarrague, *La Cité des satyres* (2013), limitée aux pratiques visuelles de la scène et de l'iconographie, non une preuve concernant *Batrachoi*. **Statut :** témoignage d'Aristophane repéré ; attribution et fragments de Magnès non établis par la seule parabasis.

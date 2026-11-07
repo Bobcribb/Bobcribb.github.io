@@ -492,3 +492,11 @@ Renvois thématiques à construire seulement après contrôle des chemins réels
 ### 092. Contrôle de publication
 
 Le texte est une monographie approuvée à destination de la file GitHub **editorial/inbox**, collection **comparatif**, identifiant historique **MC-112**, sans numéro canonique réservé. Son enregistrement dans la file n’est pas un reçu d’attribution ; la réussite d’un workflow n’est pas encore une preuve d’affichage public. La publication définitive exige la présence du reçu dans **editorial/numbering.json**, du texte numéroté sur **main**, puis le contrôle de son URL HTTPS sur **bobmythos.fr**. Les autres séries automatiques MYTHOS, leurs manuscrits, leurs horaires et la galerie archéologique ne sont pas modifiés.
+
+---
+
+### Note critique documentaire — LO03-MC-112 (7 novembre 2026)
+
+**Contrôle du témoin matériel égyptien.** Papyrus funéraire de Hounefer (*Livre des morts*), **British Museum EA 9901**, XIXe dynastie : notice philologique [*Thesaurus Linguae Aegyptiae*, identifiant GMJ33KYDUBEIVDJM4EIGCIRRYA](https://thesaurus-linguae-aegyptiae.de/object/GMJ33KYDUBEIVDJM4EIGCIRRYA), version de l'application datée du **20 août 2026**, révision du dossier au **6 septembre 2025**. La base renvoie aux fragments BM EA9901-1 à -8 et à Trismegistos **134351**. La scène de la pesée du cœur associée à la feuille **EA9901-3** doit être distinguée de l'ensemble de la copie du *Livre des morts* ; la fiche TLA d'objet **ne fournit pas à elle seule l'édition critique de toutes les formules**.
+
+**Cadre comparatif français.** Françoise Dunand et Christiane Zivie-Coche, *Hommes et dieux en Égypte*, Cybèle, 2006 ([BnF](https://catalogue.bnf.fr/ark:/12148/cb409647187.public)) : ressource pour l'anthropologie religieuse et la chronologie des croyances ; aucune page de l'ouvrage n'est attribuée sans lecture. La balance égyptienne **ne prouve pas** par ressemblance seule une filiation avec les balances d'Homère, de Rashn ou d'autres traditions ; identifier séparément chaque source et sa date. **Statut :** inventaire TLA consulté, collation directe des vignette(s) du papyrus et des autres traditions non achevée.

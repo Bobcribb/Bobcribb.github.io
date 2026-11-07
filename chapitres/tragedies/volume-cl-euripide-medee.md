@@ -263,3 +263,11 @@ Une image de Médée sur un vase ne représente pas nécessairement la scène eu
 *Médée* expose la faillite d'une communauté d'obligations : Jason transforme son mariage en calcul politique, Créon répond à la menace par l'exil, Égée garantit un refuge sans connaître l'ensemble du projet, et Médée fait de sa propre intelligence l'instrument d'une destruction irréparable. La tragédie ne se réduit ni à l'explosion d'une passion ni au triomphe d'une victime. Elle montre que la lucidité peut coexister avec la cruauté, que l'injustice subie ne légitime pas toutes les représailles et que la parole donnée engage une responsabilité que le calcul ne dissout pas.
 
 **Continuité éditoriale :** volume CL (150), après CXLIX (149) *Hécube*. Texte destiné au corpus public MYTHOS, sans brouillon privé, sans modification de WordPress et sans réécriture des volumes antérieurs.
+
+---
+
+### Note critique documentaire — LO03-TR-150 (7 novembre 2026)
+
+**Témoin primaire consulté.** Euripide, *Médée*, v. 1040–1080 : hésitation de la mère, évocation des enfants, puis conflit exprimé entre *thymos* et *bouleumata* aux v. 1078–1080 ; [texte grec avec numérotation](https://ancientlibrary.net/euripides-medea/), à contrôler ultérieurement sur une édition critique imprimée (apparat et variantes non collationnés). Le passage ne prouve pas une opposition philosophique simple entre « raison » et « passion », les termes étant intégrés à une situation dramatique.
+
+**Chercheuse française, cadrage historiographique.** Nicole Loraux, *Les Mères en deuil*, Paris, Seuil, 1990 : [compte rendu dans la *Revue des études grecques* (1993)](https://www.persee.fr/doc/reg_0035-2039_1993_num_106_504_2583_t1_0270_0000_2). L'étude éclaire les problèmes du deuil maternel et de sa mise en scène civique ; elle ne doit pas être présentée comme une annotation ligne à ligne de la *Médée* ni comme une justification du meurtre des enfants. Référence étrangère conservée : la traduction de la pièce [Ad Fontes](https://adfonteslibrary.org/work-euripides-medea/), utile à la comparaison, sans statut d'apparat critique. **Statut :** passage grec contrôlé en ligne ; édition critique et pages exactes de Loraux non consultées intégralement ; aucune expertise personnelle attribuée à l'autrice.

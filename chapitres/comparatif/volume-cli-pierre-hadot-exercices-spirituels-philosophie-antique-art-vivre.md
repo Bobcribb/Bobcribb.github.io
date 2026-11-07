@@ -161,3 +161,11 @@ Hadot renouvelle l'histoire de la philosophie en articulant doctrines, genres li
 **Attesté :** titres, dates, passages identifiés et cours. **Interprétation :** portée existentielle des pratiques philosophiques. **Hypothèses comparatives :** rapprochements avec Nietzsche, Hegel, Vernant et Detienne. Aucune équivalence automatique entre exercices anciens et techniques modernes n'est postulée.
 
 **Continuité :** CXLIX Foucault ; CLI Hadot. Prochain volume proposé : CLII Martha Nussbaum, thérapie du désir, émotions et éthique hellénistique.
+
+---
+
+### Note critique documentaire — LO03-PH-151 (7 novembre 2026)
+
+**Texte du philosophe français consulté.** Pierre Hadot, « [Exercices spirituels](https://www.persee.fr/doc/ephe_0000-0002_1974_num_88_84_17023) », *Annuaire de l'École pratique des hautes études*, section des sciences religieuses, **1974**, vol. 84, p. **25–70**, DOI [10.3406/ephe.1974.17023](https://doi.org/10.3406/ephe.1974.17023). Dès les **p. 25–27**, Hadot distingue les exercices spirituels de simples activités intellectuelles et les rapporte à la transformation de l'existence ; il introduit aussi la discussion de l'usage antérieur du terme dans le christianisme. **Avertissement éditorial :** la transcription OCR Persée est annoncée comme non corrigée ; vérifier le fac-similé et la graphie avant toute citation littérale.
+
+**Discussion universitaire indépendante consultée.** Matthew Sharpe, « [Spiritual Exercises and the Question of Religion in the Work of Pierre Hadot](https://www.mdpi.com/2077-1444/14/8/998) », *Religions* **14** (2023), article **998**, DOI [10.3390/rel14080998](https://doi.org/10.3390/rel14080998). Cet article discute des objections contemporaines au statut du mot « spirituel », notamment la distinction entre philosophie et religion : il ne constitue ni une réfutation totale de Hadot ni un mandat de l'auteur sur MYTHOS. **Statut :** article original et étude critique consultés ; dossier sans altération des œuvres antiques.
