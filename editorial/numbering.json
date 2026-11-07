@@ -3196,6 +3196,12 @@
           "path": "chapitres/tragedies/volume-cclxxxviii-ion-de-chios-laertes-oikos-esclavage-portes-reconnaissance.md",
           "request_sha256": "e8d0ac54dee6dc37aae1dc39dbcdf6995dd5da6d4dc241993d65e540544ef0b4",
           "initial_source_sha256": "8c5d4725322358afd8117fe78dd0dd6a2e2e9c7cb6ce5d2dce50292f1ac3d327"
+        },
+        "1bd6bc21-0ae3-4130-b3bd-202611070722": {
+          "number": 289,
+          "path": "chapitres/tragedies/volume-cclxxxix-ion-de-chios-mega-drama-fragments-19-21-genre-promethee-critique.md",
+          "request_sha256": "992fcca42cd7748dc399be21589eac27d11151b9e17788ece15021d502e1f2c9",
+          "initial_source_sha256": "7e44d112318109373c4cf5a24cc3c2ab6194b0262dd1ca34f25fc54db9c6711c"
         }
       }
     },
@@ -4375,6 +4381,12 @@
           "path": "chapitres/comparatif/volume-cccxxxvii-paix-hierocles-bacis-oracles-sacrifice-autorite-publique-421.md",
           "request_sha256": "530098507f57b23eac965b353d2eb89e29cc04812745d8b7978033fa6eb8ee42",
           "initial_source_sha256": "1ac1703d09f85c31b3190cd7b5a102d086b94a5d2db0f63ec2637630e6e39828"
+        },
+        "77a8f9c1-42de-4afb-9d56-248c12e7b095": {
+          "number": 338,
+          "path": "chapitres/comparatif/volume-cccxxxviii-paix-corde-traction-cites-grecques-georgoi-coordination-panhellenique-421.md",
+          "request_sha256": "14aff4d44dec07569ea67d47a2558fabe23d16b12a368171f8d8b84f775df06b",
+          "initial_source_sha256": "c0b1a6e24cade14e0ffaa219855279679f9850936a503446120a14f61a4ae5e0"
         }
       }
     }

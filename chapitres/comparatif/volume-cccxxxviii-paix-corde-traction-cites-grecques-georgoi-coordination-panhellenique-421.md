@@ -1,0 +1,329 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXXXVIII (338)
+
+## Tirer ensemble, tirer contre : la corde de la paix, les cités grecques et les limites de l'action collective dans *La Paix* d'Aristophane (421 av. n. è.)
+
+*Monographie universitaire autonome — comédie attique, philologie des gestes et des impératifs, histoire politique de la guerre du Péloponnèse, économie des coalitions, anthropologie des chœurs, philosophie de la coopération. Texte original intégral destiné à la file transactionnelle de MYTHOS. Aucune numérotation n'est anticipée : seules les variables 338 et CCCXXXVIII désignent le présent volume.*
+
+**Corpus principal :** Aristophane, *Eirènè* (*La Paix*), v. 296–519, avec contrôles aux v. 177–235, 236–295, 520–602 et 603–728. **Sources de contextualisation :** Thucydide, *Guerre du Péloponnèse*, II, 14–17 et V, 13–20 ; Pseudo-Xénophon, *Constitution des Athéniens*, I, 1–3, comme contrepoint idéologique et non commentaire direct de la scène. **Édition de référence consultée :** F. W. Hall et W. M. Geldart (éd.), *Aristophanis Comoediae*, Oxford, 1906–1907, texte grec diffusé par Perseus ; confrontation ponctuelle avec la traduction anglaise de Benjamin Bickley Rogers (1913). Les traductions analytiques françaises sont proposées ici, sans prétendre constituer une édition critique nouvelle.
+
+### Résumé scientifique
+
+Au moment où Trygée prétend délivrer la déesse Paix, la comédie ne montre pas un peuple spontanément uni. Elle construit une épreuve de coopération. Un appel qui embrasse cultivateurs, commerçants, artisans, métèques, étrangers et insulaires se transforme, lorsqu'il faut tirer, en conflit de directions, de rythmes, de statuts, de métiers et d'intérêts politiques. Les Béotiens sont accusés de feindre l'effort ; les Argiens de profiter de la guerre ; les Lacédémoniens ne sont qu'imparfaitement disponibles ; les Mégariens souffrent de la faim et essuient une exclusion injurieuse ; les Athéniens se laissent détourner par les procès. La corde finit entre les mains des cultivateurs. Cette sélection n'est pas un détail pittoresque : la scène met à l'épreuve la possibilité même d'un bien commun entre cités qui n'occupent pas la même position dans la guerre.
+
+L'hypothèse directrice est qu'Aristophane substitue à une démonstration diplomatique une **expérience publique d'action discordante**. La paix exige un agir collectif, mais le collectif n'existe pas d'abord comme volonté unifiée ; il doit être composé, corrigé et, dans la fiction comique, rétréci. Le spectacle contient ainsi une critique de l'impuissance panhellénique et, en même temps, les limites de sa solution rurale. Il ne constitue ni le programme d'une constitution fédérale, ni un traité pacifiste universel.
+
+### 1. Objet, périmètre et nouveauté du dossier
+
+L'enquête porte sur la dynamique qui mène de l'appel aux volontaires (v. 296–311) à l'extraction de Paix (v. 459–519), après les négociations avec Hermès (v. 361–458). La question spécifique est moins « pourquoi faut-il sortir de la guerre ? » que « comment rendre possibles des gestes convergents quand les intérêts sont divergents ? ». La distinction est substantielle. Une étude de l'économie de la démobilisation observe les bénéficiaires de la paix ; une étude du mortier de Guerre examine la possibilité politique née de la disparition de deux chefs ; celle-ci analyse le *processus dramatique* qui transforme une multitude en équipe — et le prix politique de cette transformation.
+
+La continuité MYTHOS est assumée sans refaire les démonstrations antérieures. Le volume CCVIII (208) de la collection aborde déjà les rites, l'économie et la démobilisation ; le volume CCCXXXIV (334) traite l'ascension fabuleuse et la contestation de Zeus ; le volume CCCXXXV (335) étudie Guerre et son mortier ; le volume CCCXXXVI (336) analyse Théôria et le Conseil ; le volume CCCXXXVII (337) examine Hiéroclès et les oracles. Le présent commentaire ne duplique aucun de ces objets centraux. Il dialogue aussi avec les études MYTHOS sur le Pseudo-Xénophon et sur les institutions judiciaires sans leur substituer un nouvel exposé général.
+
+### 2. Convention d'administration de la preuve
+
+Les mentions **[A]** identifient une donnée directement attestée par le passage antique ou par le document historique cité. **[P]** indique une analyse philologique discutable : portée d'un terme, valeur pragmatique d'un impératif ou segmentation d'une réplique. **[I]** désigne une interprétation de l'agencement dramatique dont le texte fournit les éléments sans l'énoncer comme thèse. **[H]** signale une hypothèse de mise en scène ou de contexte qui dépend de données perdues. Ces catégories évitent une faute fréquente : traiter la plaisanterie d'un protagoniste comme un compte rendu neutre de la situation internationale.
+
+Les numéros de vers suivent l'usage de l'édition Hall–Geldart. Les citations grecques sont limitées à des mots ou groupes de mots vérifiés dans les passages concernés. Nous ne reconstituons ni un scénario d'orchestre, ni des mouvements de chœur, ni une réponse du public comme s'ils étaient transmis par les manuscrits. Les ouvrages modernes vérifiés bibliographiquement fournissent des instruments de lecture ; ils ne sont pas convoqués comme témoins directs des faits du Ve siècle.
+
+### 3. 421 avant notre ère : une ouverture, non la fin de l'histoire
+
+La première représentation de *La Paix* appartient à l'année 421, au moment où la fin de la phase archidamique de la guerre devient négociable. [A] Thucydide V, 13–16 examine les circonstances conduisant les deux principaux adversaires à envisager une transaction après la mort de Brasidas et de Cléon ; V, 18–19 présente les clauses de l'accord. La proximité chronologique entre comédie et paix dite de Nicias fait de la scène une intervention dans un présent instable, et non une célébration rétrospective d'une paix durable.
+
+La signature ne garantit pas la restauration d'une communauté politique grecque cohérente. Les obligations de restitution, les alliés et les serments compliquent au contraire la stabilisation du traité. La comédie anticipe en fiction une délivrance immédiate ; l'historien relate des négociations incomplètes. Nous devons garder simultanément ces deux temporalités : l'efficacité joyeuse du théâtre et la lenteur litigieuse de la diplomatie. Dire que les spectateurs « savaient que la paix serait rompue » serait anachronique : ils ne connaissaient pas la suite du conflit.
+
+### 4. Une déesse enfouie : topologie de la paix empêchée
+
+Au début de l'épisode, Hermès a révélé que les dieux se sont retirés et que Guerre a placé Paix hors d'atteinte (v. 177–235). [A] La déesse n'est pas vaincue par un argument opposé ; elle est matériellement inaccessible. Un espace est bouché, et il faut enlever des pierres. Le problème politique prend la forme d'un problème de manutention. La verticalité initiale — Trygée montant vers les dieux — devient une opération horizontale de transport et d'effort concerté.
+
+L'image n'implique pas que les Athéniens croyaient littéralement à une déesse enterrée dans l'Olympe. Une personnification théâtrale doit être distinguée de toute description de rituel civique attesté. Elle sert à rendre perceptible l'énigme d'une paix dont chacun peut proclamer le désir sans disposer d'une pratique commune pour la faire revenir. La figure divine, silencieuse pendant sa délivrance, demeure l'objet d'une activité humaine bruyante.
+
+### 5. L'adresse initiale : le pluralisme des destinataires
+
+Le vers 296 et les vers suivants convoquent les *geôrgoi* (cultivateurs), les *emporoi* (commerçants), les *tektones* (artisans du travail de fabrication), les *dêmiourgoi*, les *metoikoi*, les *xenoi* et les *nêsiôtai* (insulaires). [A] Le catalogue ouvre l'action au-delà du corps des seuls citoyens athéniens. La liste est importante précisément parce que le dénouement ne maintiendra pas tous ces groupes à la corde.
+
+Le lexique ne permet pas de dire que métèques ou étrangers obtiennent ici un suffrage politique. [P] L'inclusion dans l'appel à une tâche scénique n'est pas une extension du droit de cité. Elle définit d'abord une communauté provisoire du travail. [I] Cette dissociation entre l'appel large et la solution étroite construit une tension plutôt qu'un idéal réalisé. La paix requiert des agents dont la démocratie athénienne ne fait pas tous des décideurs égaux. Le chœur incarne une alliance imaginaire, mais son vocabulaire laisse entrevoir des divisions que l'imaginaire ne supprime pas.
+
+### 6. Panhellènes : un grand nom, des volontés séparées
+
+Le terme *Panhellênes* intervient dans l'exhortation du chœur (v. 302–304). [A] Il ne désigne pas une institution fédérale en activité. Sa fonction est performative : nommer les Grecs comme totalité susceptible de secours mutuel. L'expression se déploie au moment même où la scène va montrer combien cette totalité manque d'unité. L'appel va de la communauté proclamée à l'examen de ses membres.
+
+L'écart est politique. La communauté religieuse, linguistique ou mémorielle ne donne pas automatiquement une volonté de paix commune. Argos, Mégare, les cités béotiennes, Sparte et Athènes n'ont pas la même relation à la guerre. [I] Le mot « Panhellènes » sert donc à éprouver une représentation collective en la confrontant à sa réalisation corporelle. La représentation existe par la parole ; l'action partagée reste à produire. Cette lecture ne suppose aucune théorie antique explicite de la souveraineté européenne ou du fédéralisme moderne.
+
+### 7. Les instruments : de l'outil au langage politique
+
+Les v. 298–299 mentionnent des *hamai* (pelles), *mochloi* (leviers) et *schoinia* (cordes). [A] La scène demande une transformation technique de l'espace. Il ne suffit pas d'invoquer Paix ou de la proclamer désirée : il faut déplacer des obstacles, fixer des moyens et fournir une force. La matérialité est constitutive du comique, parce que les citoyens et alliés doivent prouver leur désir dans des gestes visibles.
+
+[H] Les vestiges disponibles ne renseignent pas avec certitude le nombre de cordes, l'agencement exact d'un système de levage ou le poids du dispositif. L'édition moderne et les traductions comportent des didascalies explicatives qui ne sont pas toutes des instructions antiques conservées. Les pelles, leviers et cordes sont attestés verbalement ; une reconstruction technique déterminée de la machine ne l'est pas. L'analyse ne doit pas transformer un détail de régie possible en fait archéologique.
+
+### 8. Le chœur joyeux : l'enthousiasme n'est pas encore l'accord
+
+Dans l'entrée du chœur, la joie déborde et Trygée impose la discrétion afin que Guerre ne soit pas alertée (v. 301–321). [A] Ce conflit mineur anticipe la contradiction principale. Chanter et danser ensemble ne signifie pas immédiatement être capable d'obéir à un rythme opératoire. La comédie fait se heurter deux temporalités : celle du plaisir de la délivrance annoncée et celle d'un travail qui ne peut pas commencer dans le désordre.
+
+L'enthousiasme ne reçoit donc pas une valeur simplement négative. Sans lui, aucun effort ne serait entrepris ; laissé à lui-même, il empêche la prudence. [I] L'enjeu est d'ordonner une énergie commune plutôt que de la réprimer. La difficulté ne vient pas de l'absence de passion politique, mais de la forme collective à donner à cette passion. Cette interrogation est particulière à une comédie où les mêmes corps deviennent chanteurs, exécutants et figures de communautés rivales.
+
+### 9. « Architectoner » : organiser sans constituer un gouvernement
+
+Au v. 305, le chœur demande à Trygée de guider l'action, utilisant le verbe *architektonê* dans sa valeur d'organisation pratique. [A/P] Le mot renvoie à l'art de diriger une construction ou une opération, non à l'existence d'une magistrature de « chef de chantier panhellénique ». Un groupe doit accepter une coordination pour que les instruments servent à quelque chose.
+
+L'autorité de Trygée est comique et circonstancielle. Il est un cultivateur devenu personnage exceptionnel, non le détenteur d'un commandement constitutionnel. [I] L'analogie du chantier permet d'examiner une autorité justifiée par l'objet à réaliser plutôt que par le prestige militaire. Elle ne supprime pourtant pas le fait que Trygée donne des ordres et menace certaines catégories. La paix n'apparaît donc pas comme absence de direction : elle suppose un commandement dont l'acceptation reste fragile.
+
+### 10. Le « plein pouvoir » comique : une autorité reçue de la chance
+
+Lorsque le chœur se soumet aux instructions de Trygée, il lui attribue une capacité exceptionnelle liée à la bonne fortune (v. 357–360). [A] Une tournure rappelant la *pleine autorité* rapproche le héros d'un chef investi pour l'action, sans qu'on puisse identifier ce langage à une procédure civique réelle. Le jeu fonctionne par transfert : l'espace du travail se colore du vocabulaire public.
+
+[I] Le pouvoir ne naît pas ici d'un programme électoral, mais de la capacité à faire advenir l'impossible. Cette forme d'autorité est typiquement comique : elle est à la fois irrégulière et provisoirement efficace. L'analyser comme une adhésion sans réserve d'Aristophane à l'homme providentiel serait réducteur. Les scènes suivantes démontrent que l'impératif du héros ne résout pas à lui seul les résistances collectives.
+
+### 11. Hermès, d'abord obstacle institutionnel
+
+Aux v. 361–380, Hermès avertit Trygée de la sanction divine promise à celui qui exhumerait la déesse. [A] Le serviteur des dieux incarne la persistance d'une interdiction alors que l'intérêt terrestre semble exiger de la braver. La scène ne dissout pas la religion ; elle négocie avec un dieu susceptible de se laisser convaincre. Le déplacement est décisif : le même personnage qui bloque l'opération en deviendra le chef de rythme.
+
+Le dieu n'est pas une figure abstraite de l'État. Ses compétences mythiques et cultuelles sont mobilisées par la fiction. [I] On peut néanmoins distinguer une logique d'obéissance à la règle et une logique d'évaluation des conséquences. Le conflit fait apparaître qu'une autorité sans capacité de révision peut maintenir un ordre devenu nuisible. Il ne prouve pas que la démocratie aurait historiquement subordonné les oracles à une compétence administrative moderne.
+
+### 12. Une persuasion intéressée : sacrifices, dons et ruse
+
+Dans les v. 381–427, Trygée et le chœur flattent Hermès ; le héros propose une explication fantaisiste d'un complot du Soleil et de la Lune avec les « barbares » et annonce des honneurs cultuels. Un objet de valeur destiné aux libations contribue à son changement d'attitude. [A] L'argument décisif n'est pas une déduction impartiale. Il articule menace, intérêt et gratification, ce qui convient au portrait comique d'un dieu sensible aux avantages matériels.
+
+Les propos sur les puissances célestes ne constituent **aucun témoignage historique** sur une coalition orientale contre les cités grecques. [P] Leur extravagance marque une ruse de persuasion et fait écho au langage polémique de la menace étrangère. [I] Il est possible d'y lire un miroir de la vie politique où l'obtention d'un concours passe par la distribution de bénéfices. Mais la scène ne justifie pas d'inventer une affaire de corruption réelle d'Hermès, ni d'assimiler purement la religion civique à un marché.
+
+### 13. Le rite ne remplace pas l'effort : il le précède
+
+Aux v. 431–458, la libation et les prières préparent la traction. [A] L'ordre dramatique est précis : on obtient l'assistance d'Hermès, on accomplit un acte religieux, on formule des vœux, puis on tire. La libation ne se substitue pas aux pelles et aux cordes ; elle les inscrit dans une finalité partagée. La distinction est utile pour éviter d'opposer artificiellement rationalité technique et tradition rituelle.
+
+Une différence apparaît entre le rite sérieux et ses déformations comiques. La cérémonie inclut des souhaits de prospérité et des imprécations adressées aux amateurs de guerre. La mise en ordre des corps reste donc mêlée de violence verbale. [I] Cette pluralité est fondamentale : une coopération n'est pas pure dès lors qu'elle se dit sacrée. Le texte met en présence un désir de sauvegarde, la satire des intéressés et la possibilité d'une contrainte contre ceux qui refusent.
+
+### 14. Le souhait de n'avoir plus à porter le bouclier
+
+L'un des vœux (v. 435–439) associe une participation active aux cordes à la délivrance future des obligations militaires. [A] L'objet attendu n'est pas uniquement la cessation abstraite de la violence : il se traduit par des vies privées moins exposées, la chaleur du foyer et la possibilité de poursuivre des activités ordinaires. La paix n'est pas seulement un traité ; elle est une redistribution du temps et des usages du corps.
+
+[P] Les désirs exprimés par le chœur ne décrivent pas une réforme d'exemption militaire juridiquement instituée. Ils produisent une récompense imaginaire et immédiatement compréhensible par les spectateurs. [I] Le principe de réciprocité est néanmoins sensible : qui donne son effort à la paix peut espérer en recevoir les conditions matérielles. Ce rapport entre coopération présente et sécurité future est au cœur de la scène, avant toute opposition doctrinale entre « civils » et « militaires ».
+
+### 15. La face punitive de l'unité : chefs, marchands d'armes, esclaves
+
+Les imprécations des v. 440–453 s'en prennent à ceux qui cherchent grades et profits dans les combats ; elles mentionnent également l'esclave qui voudrait déserter vers l'ennemi. [A] L'inclusion de ce dernier dans la malédiction interdit de transformer la scène en manifeste moderne pour la liberté de tous. Le chœur n'abolit pas la hiérarchie servile lorsqu'il réclame la fin de la guerre.
+
+La paix du groupe demeure compatible, dans la fiction, avec la coercition exercée sur certaines personnes. Il faut séparer le sujet individuel de la liberté civique. [I] La comédie révèle malgré elle — ou délibérément — une faille de l'idéal d'unanimité : un travail présenté comme bénéfique à l'ensemble peut consolider des rapports de domination. Cette limite ne dispense pas d'analyser les conditions dramatiques particulières du comique d'injure ; elle interdit de blanchir les violences de la cité au nom de la bonne intention pacifique.
+
+### 16. Le chant de traction : de la parole au geste rythmé
+
+L'épisode des v. 459–519 s'ouvre sur une alternance de cris brefs et d'encouragements, en particulier *eia*. [A] Ces appels font partie de l'action et ne servent pas seulement d'intermède décoratif. Le même son peut soutenir le rythme ou, répété sans coordination efficace, rendre visible l'écart entre dépense d'énergie et progrès du travail.
+
+[P] Une lecture philologique doit distinguer la notation verbale conservée des propriétés acoustiques perdues : tempo exact, hauteur, intensité des voix. [H] La scène pouvait faire rire par des chutes, décalages de gestes ou tensions visibles ; aucun montage contemporain ne doit être présenté comme la mise en scène originelle certaine. [I] Le dispositif a une force politique sans être allégorisé mot à mot : le chœur réalise par le corps la difficulté d'agir sous un ordre commun.
+
+### 17. Le refus de la symétrie : ne pas tirer « pareillement »
+
+Trygée constate au v. 463–465 que les hommes ne tirent pas de façon identique. [A] Le problème est élémentaire : un effort, même considérable, devient improductif lorsque les directions ou les moments d'application ne sont pas compatibles. Le texte en tire un comique d'organisation qui serait impossible dans un simple discours sur la paix. Il transforme la contradiction entre les cités en résistance mécanique immédiatement perceptible.
+
+[I] La corde pourrait être qualifiée de « test de coopération » parce qu'elle ne récompense pas l'affichage individuel de bonne volonté : le résultat dépend d'un mouvement composé. Mais l'analogie reste notre vocabulaire analytique. Aristophane n'expose aucune théorie formalisée des jeux répétés, des équilibres ou des incitations. L'intérêt du passage tient à une intuition dramatique : la somme des intentions proclamées n'égale pas un ouvrage commun.
+
+### 18. L'œuvre qui ne progresse pas : le mot *ergon*
+
+La question du chœur aux environs du v. 471 porte sur le travail (*ergon*) qui n'avance pas. [A] Cette expression revient dans le champ sémantique de l'exécution, de l'accomplissement et du mouvement effectif. Les personnages ne se demandent pas qui possède la plus belle doctrine ; ils veulent constater une modification de la situation. Le contraste avec les paroles exhortatives des premiers vers est construit.
+
+[P] Le terme *ergon* peut signifier « action », « tâche » ou « ouvrage » selon le contexte. L'équivalence avec l'« œuvre » au sens philosophique moderne ne doit pas être forcée. [I] Il reste légitime de parler d'un critère pragmatique de l'action politique : elle n'est pas évaluée seulement par la qualité du discours, mais par ce qui advient. La scène esquisse une critique du volontarisme verbal sans convertir l'ouvrage rural en principe absolu de gouvernement.
+
+### 19. Les Béotiens : le grief théâtral n'est pas un dossier d'archives
+
+Trygée reproche aux Béotiens un comportement qui gêne la traction (v. 464–466). [A] La plaisanterie utilise leur provenance comme marque distinctive d'un groupe placé dans une alliance réputée nécessaire. Elle vise une communauté avec laquelle Athènes entretient alors des rapports compliqués. Le mot de scène fonctionne parce que les spectateurs peuvent associer un nom de peuple à une situation de conflit.
+
+Mais la réplique ne suffit pas à établir la position exacte de chaque cité béotienne pendant les négociations du printemps 421. [P] Elle relève de la caricature attique. [I] Ce qui importe est l'instrumentalisation d'une identité extérieure pour figurer la défaillance commune. L'appel panhellénique autorise les Béotiens comme participants ; le travail collectif les rend immédiatement suspects. Une communauté projetée peut échouer non faute de membres, mais par incapacité de reconnaître à ses membres une confiance comparable.
+
+### 20. Lamachos : le soldat devenu obstacle matériel
+
+Au v. 473–474, Trygée apostrophe Lamachos et son équipement guerrier, associé à une tête de Gorgone ou à un épouvantail. [A] Le nom n'apparaît pas comme détail quelconque : il personnifie la gloire militaire devenue inutile au chantier de la paix. Le comique de la position assise, ou de l'obstacle figuré, met en crise une capacité de protection dès lors qu'elle empêche l'objet collectif recherché.
+
+[H] Il est possible qu'un acteur ait porté un accessoire caractéristique, mais l'apparence précise de la scène n'est pas conservée. [I] La cible n'est pas nécessairement tout homme ayant combattu ; ce serait un contresens de faire de chaque vétéran un ennemi de Paix. Le mécanisme est plus précis : une valeur adaptée à la guerre, le prestige armé, devient une incapacité à aider dans une entreprise différente. La comédie redéfinit temporairement le mérite civique.
+
+### 21. Les Argiens : neutralité moquée et profit du conflit
+
+Hermès reproche aux Argiens de rire de l'effort des autres tout en recevant des ressources des deux côtés (v. 475–477). [A] L'accusation décrit une position avantageuse attribuée à un tiers et sert à dramatiser les conflits d'incitation : certains peuvent trouver plus rentable la poursuite du désordre que le succès d'une entente. Il serait cependant abusif d'identifier cette accusation satirique à un relevé comptable d'Argos.
+
+[I] Le rire argien, dans la bouche d'Hermès, constitue un second théâtre : pendant qu'un groupe souffre, un autre assiste et se moque. La solidarité panhellénique s'effondre lorsque l'effort des uns devient le spectacle des autres. On touche ici à une politique du spectateur intéressé. [P] Le jeu de mots, les références à l'argent et à la subsistance sont inséparables du contexte comique ; leur interprétation doit être rapportée au vers plutôt qu'à une généralisation sur le caractère supposé « argien ».
+
+### 22. Les Lacédémoniens : consentement fragmenté
+
+Trygée accorde au v. 478 une ardeur remarquable aux Lacédémoniens ; le chœur nuance aussitôt cette appréciation en distinguant les participants concernés et un artisan du métal qui gêne l'entreprise (v. 479–480). [A] Il n'y a pas une Sparte unanime, mais une cité représentée par des intérêts incompatibles. Les métiers symbolisent alors des dispositions divergentes devant la paix.
+
+La tentation serait de prendre ces figures professionnelles pour un relevé sociologique des factions spartiates. Or les données conservées ne permettent pas une telle identification. [I] La valeur interprétative réside dans le refus de représenter les adversaires de la guerre comme des blocs sans contradiction. Même la cité réputée capable de tirer ne tire pas entièrement. La paix exige des recompositions internes aux cités autant que des négociations entre cités. Le texte ne propose aucune classification complète des classes lacédémoniennes.
+
+### 23. Les Mégariens : faim, ressentiment et exclusion
+
+Aux v. 481–483, Hermès raille l'effort maigre des Mégariens, en rapprochant leur comportement de petits chiens affamés. Puis, aux v. 500–502, il les renvoie en invoquant une histoire grotesque de frottement à l'ail. [A] La plaisanterie associe une situation de privation à une offense culinaire. Elle est d'autant plus mordante que Mégare appartient au paysage politique de la guerre et des restrictions économiques.
+
+[P] Le passage ne suffit pas pour dater ou quantifier la famine mégarienne. Il ne constitue pas non plus une analyse objective des effets précis des décrets mégariens. [I] La force critique de la scène tient au paradoxe suivant : ceux qui ont pu souffrir de la guerre sont aussi humiliés et chassés du travail de la paix. Le rire qui vise le manque de nourriture expose les limites de la compassion panhellénique. La paix chantée n'efface pas instantanément les haines héritées.
+
+### 24. Les Athéniens : procès et résistance au déplacement
+
+Aux v. 503–507, Hermès reproche aux Athéniens leur fixation sur les procès (*dikazete*) et leur ordonne de se déplacer un peu « vers la mer ». [A] Cette directive a une valeur comique parce qu'elle met en relation une pratique civique bien identifiée, la justice populaire, et une géographie politique sensible, la mer. On ne doit pourtant pas considérer que les spectateurs auraient entendu une instruction technique univoque : le geste scénique demeure perdu.
+
+L'association entre l'espace maritime, la cité et son pouvoir n'est pas gratuite. Athènes est une puissance navale et judiciaire, et les tribunaux sont l'un de ses signes d'identité. [I] La comédie présente alors une communauté qui doit **changer de prise** pour participer efficacement. Ce n'est pas un rejet certain de toute juridiction démocratique. C'est une satire circonstanciée d'une énergie civique dépensée en procès plutôt qu'en collaboration. La critique du pouvoir athénien passe par un impératif de déplacement corporel.
+
+### 25. Mer et terre : un conflit de temporalités économiques
+
+Le v. 507 provoque une lecture difficile : pourquoi « vers la mer », au moment où la solution finale sera rurale ? [P] Il peut s'agir d'une instruction liée à la place des acteurs ou d'une pointe politique sur l'orientation maritime d'Athènes ; les deux dimensions ne s'excluent pas, mais aucune ne doit devenir un fait assuré en l'absence de didascalie explicite. Le passage joue sur la différence des prises et des positions.
+
+[I] Une opposition entre la terre labourée et la mer des expéditions reste suggestive, non exhaustive. Les paysans athéniens ne sont pas tous étrangers à la navigation, et les rameurs ne sont pas tous des adversaires de la paix. De même, l'importance de la flotte pour le fonctionnement démocratique interdit de qualifier la mer d'essence oligarchique. La pièce arrange des contrastes comiques ; elle ne fournit pas la géographie économique complète de la cité.
+
+### 26. Les cultivateurs seuls : la fermeture d'un appel universel
+
+Au v. 508, le chœur demande que les *geôrgoi* prennent seuls la corde. Trygée déclare aux v. 511–512 qu'ils réalisent le travail, à l'exclusion des autres. [A] Le renversement est radical : au début, tous les métiers et statuts sont appelés ; à la fin, un groupe restreint reçoit le mérite exclusif. Une lecture qui ne retiendrait que la joie de délivrer Paix manquerait cette restriction.
+
+[I] Le choix des paysans n'est pas seulement la consécration d'un groupe « moralement meilleur ». Il reflète le lien entre l'économie de la culture et les dommages de l'occupation militaire de l'Attique. En même temps, il déplace la promesse panhellénique vers un intérêt particulier considéré comme paradigmatique du bien commun. La question critique devient donc : une communauté politique peut-elle se construire en désignant comme exemplaires ceux qui ont le plus manifestement à gagner à sa solution ?
+
+### 27. Une cohésion efficace, mais pas totalement égalitaire
+
+La scène démontre une capacité à accomplir une tâche après l'élimination de certains participants. [A] La déesse est extraite, et les efforts conjoints des cultivateurs se révèlent efficaces. Mais l'unanimité obtenue est en partie une unanimité par réduction du nombre des acteurs. [I] Il est difficile de célébrer ce résultat comme un modèle de consensus absolument inclusif.
+
+Ce mécanisme rapproche le comique politique d'un problème permanent : l'accord peut être atteint parce que les obstacles ont été résolus, ou parce que ceux qui les expriment ont été écartés. Dans les v. 459–519, les deux processus semblent coexister : coordination effective et exclusion. Les personnages ne théorisent pas cette tension ; c'est la succession des répliques qui la rend visible. Elle invite à distinguer, dans l'analyse politique, l'efficacité immédiate d'une coalition et la légitimité de sa composition.
+
+### 28. Une communauté de gestes : pluralité des fonctions dramatiques
+
+Le chœur occupe simultanément plusieurs fonctions. Il exprime un désir de paix, figure des groupes grecs, accomplit un travail matériel et garantit par son énergie la conclusion heureuse de la séquence. [A/I] Aucune de ces dimensions ne suffit isolément à expliquer la scène. Le chant est action ; l'action est représentation des cités ; la représentation est jugement comique sur leurs dispositions.
+
+[H] Une mise en scène contemporaine pourrait choisir des tractions contradictoires, un nombre visible de cordes ou une distribution colorée des groupes. Ce sont des propositions, non une restitution documentaire du théâtre de Dionysos en 421. La prudence est particulièrement nécessaire lorsque le lecteur consulte une traduction qui insère des commentaires scéniques entre crochets. L'attestation première demeure la parole conservée ; les solutions techniques demandent une reconstruction argumentée et toujours révisable.
+
+### 29. L'économie de la fatigue : qui consent à peiner ?
+
+Les vers 459–519 font revenir l'idée que certains souffrent et d'autres profitent ou entravent. La distinction entre fatigue productive et résistance intéressée est l'un des ressorts du rire. [I] Dans une cité en guerre, les coûts ne sont pas distribués identiquement : le paysan touché par la destruction des cultures, le marchand d'armes et l'homme qui vit de responsabilités militaires n'attendent pas les mêmes avantages d'un accord.
+
+Mais le passage n'est pas un sondage de revenus. Les groupes sont figurés par types, et le comique simplifie leur diversité. Il serait faux de prétendre que tous les artisans de métal souhaitaient la guerre ou que tous les cultivateurs étaient pacifistes. L'intérêt du texte est d'imaginer la coopération comme dépendant des expériences différenciées de l'effort. Le corps laborieux est l'argument le plus visible ; sa prétention à parler pour le tout reste ouverte à la discussion.
+
+### 30. Chœur et démocratie : ni assemblée reproduite ni simple divertissement
+
+Le chœur des cultivateurs n'est pas l'Ekklesia, et les ordres de Trygée ne valent pas décret. [A] On ne trouve dans cette séquence ni procédure de vote attestée ni recensement des citoyens. Pourtant le théâtre est un lieu athénien où la cité voit et entend des formes imaginaires de décision et de division. L'analyse politique ne consiste donc pas à nier la différence des institutions, mais à observer ce que leur voisinage permet de faire penser.
+
+[I] La corde met en scène un paradoxe de la démocratie : la collectivité ne peut agir sans faire place aux divergences, mais les divergences peuvent rendre vaine toute résolution pratique. Ici, la comédie ne résout pas le problème par une théorie du débat rationnel ; elle met en avant les gestes, les rythmes, les capacités et les intérêts. C'est pourquoi une lecture strictement rhétorique manquerait une partie essentielle du dispositif.
+
+### 31. La coopération panhellénique comme épreuve de confiance
+
+Pour tirer dans la même direction, chacun doit croire que les autres contribuent et ne sabotent pas l'entreprise. Dans la scène, la défiance surgit constamment : faux effort des Béotiens, calcul des Argiens, résistance des métiers guerriers, obsession judiciaire des Athéniens. [A] Le rire fait circuler des imputations qui mettent en doute l'engagement des partenaires.
+
+[I] Nous pouvons parler de confiance sans imaginer une notion grecque unique qui recouvrirait la théorie contemporaine du capital social. La confiance ici s'infère des jugements et des accusations des personnages. Elle est fragile parce que chacun juge les autres depuis une position située. L'opposition entre acte et déclaration devient cruciale : on n'apprend la coopération d'une cité qu'en la voyant tirer. Le théâtre substitue une vérification par performance à la simple proclamation d'une alliance.
+
+### 32. La peur du parasite : profit sans contribution
+
+L'Argien qui rirait tout en recevant du grain des deux camps et le marchand attiré par la guerre composent deux figures différentes : celui qui tire avantage de la crise sans aider et celui dont le revenu dépend de sa continuation. [I] Leur voisinage dramatique permet de poser la question des bénéficiaires d'un ordre nuisible au collectif. Le texte ne définit aucune catégorie économique abstraite ; il rend sensibles des discordances d'intérêts.
+
+Le terme moderne de « passager clandestin » peut servir d'analogie pédagogique, à condition d'être marqué comme anachronique. Il ne faut pas attribuer à Aristophane une anticipation de la théorie des biens publics formulée au XXe siècle. L'analogie éclaire la scène sans constituer une preuve d'influence ou de doctrine. Le poète compose des types de la vie politique ; c'est le lecteur qui, secondairement, les compare à des outils contemporains.
+
+### 33. Les paysans attiques et la mémoire de la guerre
+
+Thucydide II, 14–17 rapporte le déplacement vers Athènes d'habitants ruraux à l'approche de l'invasion, ainsi que les difficultés matérielles et affectives de l'abandon des maisons et sanctuaires locaux. [A] Ce témoignage explique que l'identité agricole puisse compter autant dans une comédie de guerre. Le désir de revoir vignes et domaines constitue une expérience intelligible pour les spectateurs.
+
+Toutefois, la description de Thucydide ne se confond pas avec la position politique de chaque habitant de l'Attique. [P] Elle ne mesure ni le nombre exact de spectateurs paysans présents à la représentation, ni leurs réactions. [I] Mettre les cultivateurs à la corde permet à Aristophane de représenter un intérêt à la paix qui paraît incarné dans les corps et dans une mémoire d'exil intérieur. La valeur de cette perspective s'étend au-delà de l'économie ; elle touche l'habitation du territoire.
+
+### 34. Thucydide V : du geste comique au traité contesté
+
+Thucydide V, 18–19 transmet les termes du traité entre Athènes, Sparte et leurs alliés. [A] Le texte est organisé par clauses, restitutions, serments, obligations entre parties et dispositifs de garantie. À la scène comique du geste instantanément efficace répond un document qui traite la paix comme répartition minutieuse de droits et de charges. Les deux sources éclairent différemment l'urgence de 421.
+
+[I] Le contraste ne signifie pas que l'une serait vraie et l'autre fausse. La comédie donne forme à un désir et dramatise les obstacles ; l'historien expose les conditions d'un compromis qui reste soumis à des acteurs multiples. La comparaison fait comprendre que l'action collective ne peut être réduite à un mot d'ordre. Le traité atteste des mécanismes de coordination formels ; la corde montre, en fiction, une coordination affective et corporelle dont l'existence ne saurait être constatée par le seul accord diplomatique.
+
+### 35. La mer athénienne et le Pseudo-Xénophon : comparaison sous réserve
+
+Le Pseudo-Xénophon, *Constitution des Athéniens* I, 1–3, soutient, d'une manière polémique, que la puissance navale renforce la position politique du peuple. [A] Cette perspective est utile pour empêcher un contresens : la critique des Athéniens absorbés par les procès (Aristophane, *Paix* 503–507) ne saurait être comprise comme la preuve que la mer et les institutions populaires seraient sans lien.
+
+L'auteur de la *Constitution* est un adversaire de la démocratie ; son discours ne représente pas l'opinion consensuelle des Athéniens. [P] La chronologie exacte du traité reste discutée. [I] Le rapprochement invite plutôt à penser la compétition entre deux images civiques : la cité terrienne que la comédie rend exemplaire pour l'effort pacifique, et la cité navale dont l'essor politique accompagne la démocratie. Les deux ne sont pas des peuples séparés : leurs activités et identités peuvent se chevaucher.
+
+### 36. Une critique qui n'efface ni les rameurs ni les dépendants
+
+La place héroïque des cultivateurs est moralement puissante, mais sa conversion en modèle exclusif serait problématique. Ceux qui servent sur la flotte, les personnes non citoyennes, les esclaves et de nombreux artisans participent eux aussi à la vie matérielle de la cité. [I] La liste large des v. 296–299 révèle une nécessité de coopération ; la solution des v. 508–512 efface provisoirement cette diversité.
+
+Il ne faut pas reprocher à la pièce de n'être pas un programme de justice sociale du XXIe siècle. Il faut néanmoins analyser ce que sa dramaturgie exclut ou minimise. En ce sens, la critique historique n'annule pas la force poétique de la libération : elle met en évidence la condition d'une joie commune qui ne se confond pas avec une égalité politique universelle. La précision philologique empêche ici l'enthousiasme interprétatif de devenir une idéalisation du monde grec.
+
+### 37. Hegel : l'universalité à l'épreuve des intérêts particuliers
+
+Un rapprochement avec Hegel est possible dans la mesure où l'on distingue volonté particulière et forme de l'universel dans l'action collective. Les *Principes de la philosophie du droit* (1821) examinent les rapports entre intérêts privés, société civile et institutions de la vie éthique. **Il ne s'agit pas d'une interprétation de la scène d'Aristophane écrite par Hegel.** [I] Le contraste entre l'appel panhellénique et l'opposition des groupes peut être rendu intelligible par cette grille.
+
+Mais la lecture hégélienne impose une réserve décisive. Le chœur parvient à un acte sans instituer durablement un ordre capable de concilier tous les intérêts. Une unité par élimination des contradicteurs n'est pas une médiation complète. L'analogie rend donc visible ce qui manque à la solution comique : la stabilité d'institutions de coopération. Il serait inadmissible de présenter la corde comme réalisation anticipée de l'État rationnel ou de la société civile moderne.
+
+### 38. Nietzsche : le chœur, le rire et le danger de l'unité esthétique
+
+Dans *La Naissance de la tragédie* (1872), Nietzsche pense la relation entre musique, chœur, apparence scénique et expérience collective, mais son objet principal n'est pas *La Paix*. [I] Une comparaison prudente peut partir de la répétition chantée qui soutient la traction. Une communauté se constitue momentanément dans un rythme partagé ; l'expérience sensible précède ici tout exposé de doctrine.
+
+La distance générique est indispensable. Le chœur comique n'est pas le chœur tragique nietzschéen transposé sans modification. Là où le philosophe examine notamment l'expérience dionysiaque et les formes de l'apparence, Aristophane déploie des noms de cités, des accusations politiques et des gestes de travail. L'analogie permet de mesurer l'énergie esthétique de la coopération, mais l'analyse doit maintenir la spécificité de l'injure, de la farce et du contexte de 421. Le rire distribue aussi des exclusions : il ne garantit pas une réconciliation véritable.
+
+### 39. Vernant : penser la forme sociale à travers les gestes
+
+Jean-Pierre Vernant, notamment dans *Mythe et pensée chez les Grecs* (1965), a montré l'intérêt d'étudier ensemble représentations, pratiques sociales et catégories de pensée. [I] Son approche encourage à ne pas extraire une « doctrine de la paix » de la comédie sans examiner le travail, l'espace, les rites et les distinctions entre membres de la cité. La corde devient analytiquement intéressante parce qu'elle noue un objet concret à la distribution des places.
+
+La comparaison ne prétend pas que Vernant aurait proposé cette lecture particulière des v. 296–519. Elle sert à construire une méthode : les sens du texte se forment dans une configuration sociale, et l'examen d'un verbe technique peut être aussi révélateur que celui d'un nom abstrait. Le monde grec ne se réduit ni à ses concepts philosophiques ni à ses institutions juridiques. La scène comique participe de l'élaboration imaginaire de cette totalité, tout en la mettant à l'épreuve du désaccord.
+
+### 40. Détienne : la parole efficace et la pluralité des autorités
+
+Marcel Détienne, dans *Les Maîtres de vérité dans la Grèce archaïque* (1967), explore historiquement des régimes de parole et de légitimité. [I] Ce programme incite à observer qui a le droit de commander, d'exhorter, de bénir ou de contester dans la scène : Trygée, Hermès et le chœur ne parlent pas depuis la même position. Chacun acquiert une efficacité différente selon le moment de l'action.
+
+L'analogie possède toutefois une borne. Les « maîtres de vérité » archaïques ne peuvent être identifiés aux partenaires d'une traction comique de 421. Détienne étudie des rapports historiquement situés entre parole, religion et pouvoir, non une théorie universelle du chœur. Ici, c'est précisément l'insuffisance de la parole seule qui frappe : les exhortations, prières et ordres n'ont d'effet que si le corps collectif leur répond. La scène dramatise une circulation de l'autorité entre celui qui ordonne, celui qui règle le rythme et ceux qui travaillent.
+
+### 41. Un contrepoint philosophique : le bien commun n'est pas une somme de biens privés
+
+L'échec répété de la traction permet de formuler un problème politique : la paix peut être désirable pour de nombreuses personnes sans que chacune ait intérêt à contribuer dans les mêmes conditions. [I] Cette proposition n'est pas un concept explicitement énoncé par le poète. Elle résulte de la confrontation entre l'appel général et les comportements imputés aux groupes. La comédie rend le conflit visible en mettant le résultat sous les yeux de tous.
+
+Un diagnostic strictement moral — « les mauvais empêchent les bons » — serait insuffisant. Le passage multiplie les raisons de l'obstacle : mémoire de guerre, intérêt commercial, jurisprudence, famine, méfiance entre adversaires. Cette diversité oblige à ne pas confondre toutes les oppositions. La solution paysanne simplifie en revanche brutalement cette complexité. Ainsi, la pièce pense peut-être plus loin que la victoire finale de ses cultivateurs : elle montre les ressorts de l'impasse tout en s'autorisant une sortie merveilleuse.
+
+### 42. L'étrange caractère de la victoire : sauver Paix sans dissoudre la politique
+
+À partir du v. 516, l'effort devient concluant et la déesse peut sortir de son lieu d'enfermement. [A] Le résultat appartient au registre de l'invraisemblance comique maîtrisée : des personnages humains récupèrent la condition divine d'une vie réconciliée. L'instant soulage les tensions sans supprimer les rivalités qui viennent d'être exposées. Le public voit une fin d'épisode, non une vérification internationale de la fin de toute guerre.
+
+[I] La victoire est donc doublement instable. Elle manifeste ce qu'une coordination réussie rend possible ; elle laisse intacte la question de la représentation des exclus. L'efficacité de la scène dépend de cette tension : une délivrance affective véritable, mais dont la construction demeure politiquement discutable. La poésie fait momentanément ce que les diplomaties ne savent pas garantir durablement. Ce caractère provisoire n'ôte rien à la valeur critique de l'invention.
+
+### 43. Comparaison interne : une différence avec les autres comédies
+
+Dans les *Acharniens* (425), Dicéopolis obtient une paix d'abord individuelle, à travers une figure de sécession comique ; dans *La Paix*, la délivrance demande au contraire des corps réunis. Ce contraste de dispositif, déjà étudié dans la tradition critique, mérite d'être retenu sans répéter toute l'analyse des marchés privés. Dans les *Cavaliers* (424), l'éducation du peuple et la compétition rhétorique organisent un autre théâtre de la souveraineté ; ici le geste est plus important que le concours verbal.
+
+Les *Guêpes* (422) donnent à voir la fascination du tribunal ; la remarque d'Hermès contre les Athéniens qui jugent sans fin introduit une allusion brève à ce même univers, sans reproduire l'enquête sur la justice populaire. Les *Oiseaux* (414) déplaceront encore le centre de gravité vers la création d'une communauté politique imaginaire, mais le motif du chantier y prendra un sens différent : non délivrer un bien commun enfoui, mais bâtir un nouvel ordre. [I] La série doit conserver ces écarts plutôt que multiplier des chapitres interchangeables sur « Aristophane et la démocratie ».
+
+### 44. Trois limites épistémologiques indispensables
+
+**Première limite :** les répliques des personnages ne sont pas des déclarations autobiographiques d'Aristophane. Affirmer que « le poète pensait que seuls les agriculteurs aimaient la paix » dépasserait le témoignage. **Deuxième limite :** les groupes représentés sont des types comiques, non des échantillons sociologiques de la Grèce de 421. **Troisième limite :** la scénographie précise ne se laisse pas déduire automatiquement du texte imprimé. [A/P/H]
+
+Ces limites ne rendent pas l'interprétation impossible. Elles invitent à hiérarchiser les affirmations. On peut dire que la pièce *montre* une extraction ralentie par des obstacles figurant différentes cités ; on peut soutenir qu'elle *interroge* la possibilité d'une solidarité malgré les intérêts ; on ne peut pas conclure sans autres témoins qu'une foule réelle de Béotiens, Argiens et Mégariens a participé à une cérémonie de délivrance de Paix. L'exactitude historique consiste ici à respecter la différence entre fiction efficace et description documentaire.
+
+### 45. Tableau de contrôle des attestations et hypothèses
+
+| Proposition | Statut | Appui et limite |
+| --- | --- | --- |
+| Trygée appelle plusieurs métiers et statuts | [A] | *Paix* 296–300 ; l'appel n'accorde aucun droit de vote. |
+| Le chœur invoque les Panhellènes | [A] | *Paix* 301–305 ; il ne crée pas un organe fédéral. |
+| Pelles, leviers et cordes sont demandés | [A] | *Paix* 298–299 ; le détail technique du levage reste inconnu. |
+| Hermès interdit d'abord de délivrer Paix | [A] | *Paix* 361–380 ; la sanction est celle de la fiction. |
+| La négociation implique dons et honneurs | [A] | *Paix* 381–427 ; aucune corruption religieuse réelle n'en résulte. |
+| La traction échoue parce que les efforts divergent | [A/I] | *Paix* 459–504 ; diagnostic politique formulé par l'analyse. |
+| Les Argiens sont accusés d'un avantage reçu des deux camps | [A] | *Paix* 475–477 ; invective, non comptabilité vérifiée. |
+| Les Mégariens sont moqués pour leur faim | [A] | *Paix* 481–483 ; pas de série quantitative sur les vivres. |
+| Hermès reproche aux Athéniens les procès | [A] | *Paix* 503–507 ; satire, non verdict général sur la justice. |
+| Le chœur laisse finalement tirer les cultivateurs | [A] | *Paix* 508–512 ; critère dramatique et non loi sociale. |
+| L'unité est acquise par une forme d'exclusion | [I] | Déduit de l'écart entre 296–300 et 508–512. |
+| Dispositif exact de traction sur la scène de 421 | [H] | Aucun plan scénique ancien conservé ne l'établit. |
+| La paix de Nicias comprend clauses et serments | [A] | Thucydide V, 18–19 ; texte diplomatique distinct de la comédie. |
+| La comparaison avec Hegel, Nietzsche, Vernant et Détienne est heuristique | [I] | Aucun de ces auteurs ne témoigne de la représentation de 421. |
+
+### 46. Conclusion : l'universel n'existe pas avant le travail de l'accord
+
+L'ingéniosité des v. 296–519 consiste à donner au désaccord une épaisseur physique. L'invocation des Panhellènes ne peut pas, par elle-même, hisser Paix hors de sa prison. La multiplicité des métiers et des cités fournit des corps et des intérêts qui tirent en des sens différents ; la corde concentre ce conflit en un geste perceptible. La sortie heureuse vient lorsque le mouvement devient cohérent, mais cette cohérence est obtenue par une réduction radicale à ceux qui vivent de la terre. L'œuvre atteint son but sur scène en même temps qu'elle ouvre une question plus large sur la légitimité de la coalition victorieuse.
+
+Le passage peut se lire comme une analyse comique de la difficulté de l'action collective, non comme l'énoncé d'une théorie institutionnelle anticipée. Il suggère que la paix ne se résume ni à un traité ni à une bonne intention : elle implique coordination, confiance, répartition des coûts, conflit des positions et décision sur les personnes reconnues comme membres du « nous ». En cela, l'épisode ne se contente pas d'exalter les cultivateurs. Il oblige à se demander ce que toute communauté perd lorsqu'elle parvient à son unité en écartant ceux dont les intérêts, les voix ou les gestes dérangent.
+
+### 47. Sources primaires : passages contrôlés
+
+1. **Aristophane**, *La Paix*, 296–360 (appel aux groupes, v. 296–305 ; désordre enthousiaste, v. 308–321), texte grec Hall–Geldart dans Perseus, consulté en transcription alignée : https://www.greekmythology.com/sources/aristophanes/peace/call-to-farmers ; accès à l'œuvre et à ses divisions : https://www.greekmythology.com/sources/aristophanes/peace .
+2. **Aristophane**, *La Paix*, 361–458 (Hermès, menace, persuasion, libations, prières), texte grec : https://www.greekmythology.com/sources/aristophanes/peace/hermes-bribed .
+3. **Aristophane**, *La Paix*, 459–519 (traction, cités, travail des cultivateurs), texte grec : https://www.greekmythology.com/sources/aristophanes/peace/pulling-peace . Contrôle avec la bibliothèque Perseus, édition Hall–Geldart : https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0019.tlg005.perseus-grc2:346-656/ .
+4. **Aristophane**, *La Paix*, 520–602 (apparition de Paix, retour aux travaux ruraux) et 603–728 (récit rétrospectif des conflits), accès depuis le sommaire grec de la pièce.
+5. **Thucydide**, *Guerre du Péloponnèse*, II, 14–17 (déplacement des populations rurales), V, 13–20 (négociation et clauses de paix) ; pour V, 18–19, texte du traité accessible notamment à https://test.livius.org/sources/content/thucydides-historian/peace-of-nicias .
+6. **Pseudo-Xénophon**, *Constitution des Athéniens*, I, 1–3, à confronter au dossier moderne sur le caractère polémique de ce texte ; référence comparative, non source de la mise en scène.
+
+**Note de méthode sur les traductions :** le témoin grec, sa numérotation et le sens contextuel commandent les analyses. L'anglais de Rogers (1913) sert de contrôle de lecture, non d'autorité unique ; les traductions françaises de termes isolés dans ce chapitre sont interprétatives. Une traduction publiée ne constitue pas un témoin indépendant du texte antique.
+
+### 48. Bibliographie scientifique sélective et contrôles
+
+- **Olson, S. Douglas**, *Aristophanes: Peace*, édition et commentaire, Oxford, Clarendon Press, 1998. Existence et caractéristiques vérifiées par les comptes rendus dans *Journal of Hellenic Studies* 120 (2000), 159–160, et *Classical Review* 53/1 (2003), 19–21. Références : https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/aristophanes-peace-ed-and-comm-sd-olson-oxford-clarendon-press-1998-pp-lxxiv-330-55-0198140819/032C0B020652B4ECD6DE0D2DC0A7772C ; https://www.cambridge.org/core/journals/classical-review/article/abs/new-commentary-on-peace/EE64EDAF9671F30F60D794EB49A54E09 .
+- **Halliwell, Stephen**, *Greek Laughter: A Study of Cultural Psychology from Homer to Early Christianity*, Cambridge, Cambridge University Press, 2008. Pour la question du rire comme pratique sociale et des risques de l'injure. Éditeur : https://www.cambridge.org/core/books/abs/greek-laughter/frontmatter/693347BB28F93A3AA6C7C42A94EFE8E3 .
+- **Vernant, Jean-Pierre**, *Mythe et pensée chez les Grecs : études de psychologie historique*, Paris, François Maspero, 1965 ; éd. augmentée et réimpressions, La Découverte. Présentation éditoriale : https://www.editionsladecouverte.fr/mythe_et_pensee_chez_les_grecs-9782707146502 .
+- **Détienne, Marcel**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, François Maspero, 1967 ; recension par J.-P. Vernant, *Archives de sociologie des religions* 28 (1969), 194–196, https://www.persee.fr/doc/assr_0003-9659_1969_num_28_1_1830_t1_0194_0000_3 .
+- **Hegel, G. W. F.**, *Grundlinien der Philosophie des Rechts*, Berlin, 1821 ; comparaison philosophique contrôlée au niveau des concepts d'intérêt particulier, société civile et vie éthique, sans attribution de commentaire direct sur la scène.
+- **Nietzsche, Friedrich**, *Die Geburt der Tragödie aus dem Geiste der Musik*, Leipzig, 1872 ; utilisation critique des notions de chœur et d'expérience esthétique, sans assimilation de la comédie au chœur tragique.
+- **Ceccarelli, Stefano**, « Una comicità dissonante. Qualche riflessione sui finali di Aristofane (425–421 a.C.) », article paru le 31 décembre 2020, DOI 10.13135/2612-3908/5705 ; utilisé comme indication bibliographique sur l'étude comparée des finales, non comme preuve d'une scénographie précise : https://ojs.unito.it/index.php/fss/article/view/5705 .
+
+### 49. Continuité éditoriale, renvois et protocole de publication
+
+Ce chapitre apporte à la série sur la démocratie athénienne et Aristophane une **micro-histoire philologique du travail collectif**. Son périmètre exclut les monographies déjà consacrées à l'image animale du héros, au mortier de Guerre, à la remise de Théôria au Conseil et à Hiéroclès. Pour la comparaison intertextuelle, les renvois sûrs concernent le volume CXC (190) sur le Pseudo-Xénophon, le volume CCVIII (208) sur l'économie civile de la paix et les volumes CCCXXXIV–CCCXXXVII (334–337) de la présente séquence, sans réécriture de leur contenu et sans promesse d'un nouveau numéro à venir.
+
+Le présent texte est **une soumission éditoriale publique originale**. Il doit être conservé intégralement sous son UUID de demande, avec la collection *comparatif* ; seul GitHub Actions peut attribuer son numéro transactionnel et produire le manuscrit canonique et le reçu. L'existence d'un JSON sous *editorial/inbox/* n'établit ni une attribution ni une publication sur bobmythos.fr. Aucun passage n'est à verser sur WordPress. Les hypothèses de représentation doivent demeurer identifiées comme telles, et aucune étude déjà attribuée ne doit être renumérotée pour intégrer ce dossier.
