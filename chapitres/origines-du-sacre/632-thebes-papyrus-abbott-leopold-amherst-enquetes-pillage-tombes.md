@@ -352,3 +352,12 @@ La comparaison avec les protections inscrites sur les tombes d'Asie Mineure met 
 - **[R6] Émile Durkheim**, *Les Formes élémentaires de la vie religieuse*, 1912 ; **G. W. F. Hegel**, *Principes de la philosophie du droit*, 1821 ; **Friedrich Nietzsche**, *La Généalogie de la morale*, 1887 ; **Mircea Eliade**, *Le Sacré et le Profane*, 1957 ; **René Girard**, *La Violence et le Sacré*, 1972 ; **Jean-Pierre Vernant** et **Marcel Detienne** : cadres théoriques comparatifs, non substituts aux sources ramessides.
 
 *Appareil critique : l'édition de Peet constitue une référence de base, mais les corrections et outils numériques modernes doivent être utilisés pour la philologie et la prosopographie. Aucune ligne égyptienne n'est citée comme transcription originale sans contrôle ; la nature coercitive de certains interrogatoires est prise en compte avant toute interprétation d'un « aveu ».*
+
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Objet et documentation contrôlés :** papyrus Abbott, British Museum **EA 10221**, texte hiératique sur les inspections de tombes à Thèbes sous Ramsès IX (an 16). La [Hieratic Database de l'université de Tsukuba](https://wdb.jinsha.tsukuba.ac.jp/en/wdb/hdb/gallery/bm10221) répertorie le document, son identifiant BM EA10221 et ses neuf pages numériques : **identification matérielle et documentaire**, non édition de toutes les dépositions. Pour l'établissement du texte : Thomas Eric Peet, *The Great Tomb-Robberies of the Twentieth Egyptian Dynasty*, 2 vol. (texte et planches), Oxford, Clarendon Press, **1930**, [catalogue bibliographique](https://ci.nii.ac.jp/ncid/BA78410478). L'ouvrage n'a pas été intégralement collationné dans cette séance.
+
+**Chercheurs français (cadrage seulement) :** Nicolas Grimal, *Histoire de l'Égypte ancienne* (Fayard, 1991), pour le contexte ramesside ; Françoise Dunand et Christiane Zivie-Coche, *Hommes et dieux en Égypte* (Cybèle, 2006), pour l'histoire sociale et religieuse, sans leur attribuer une lecture précise de chaque interrogatoire.
+
+**Degrés de preuve :** le papyrus témoigne d'une procédure administrative et de constats enregistrés ; les responsabilités pénales, aveux obtenus sous contrainte et reconstitutions des faits restent à discuter document par document. Les mentions de Léopold II–Amherst et des Mayer ne doivent pas être confondues avec les lignes du papyrus Abbott. Pas de transcription hiératique fabriquée.
