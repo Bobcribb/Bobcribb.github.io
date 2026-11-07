@@ -1215,6 +1215,18 @@
           "path": "chapitres/origines-du-sacre/774-kilwa-kisiwani-grande-mosquee-chroniques-souverainete-monnaies-patrimoine.md",
           "request_sha256": "34337387dbc7435c7b28a550b457f90fd3067990a36fa42753b298a1c9a1e1a4",
           "initial_source_sha256": "d64db1f977b3a0bbb46c8577cde35c939ab30dcbfa8fbc8b24f42f1a3f2678f0"
+        },
+        "92f370d4-4d06-40b1-9ccf-11a30754c7b8": {
+          "number": 775,
+          "path": "chapitres/origines-du-sacre/775-sanje-ya-kati-kilwa-mosquee-fortifications-shirazi-debat-islamisation.md",
+          "request_sha256": "e322c87b22dd5f4ad4a9cac1a192b43fdb1b194d365a7c6be859e9d79c95e089",
+          "initial_source_sha256": "ac77be721f436a7c3ead97f7cd89e3c867a2995d05cf8f500a13e7153ef59ff0"
+        },
+        "a0427e19-03a8-4ca6-b9e0-565c4e11b7af": {
+          "number": 776,
+          "path": "chapitres/origines-du-sacre/776-kua-juani-mafia-mosquees-necropoles-urbanisme-chronologie-conservation.md",
+          "request_sha256": "d8bf5d11e8db29226bcf8741fdcf07608782a0518b85b38ef2b19ce9c02b580d",
+          "initial_source_sha256": "770c09237ee0b0657bef447adcb98626d9885ef0cb5dc74e813e94fd6c7c3b35"
         }
       }
     },
@@ -2548,6 +2560,12 @@
           "path": "chapitres/comedies/volume-141-alexis-linos-heracles-bibliotheque-livres-cuisine-simos-paideia.md",
           "request_sha256": "cac5d3356f9612b3e3f1b4f18262471e5f98d3678efd56ccd9ebaa762a7df5cd",
           "initial_source_sha256": "6db19f35bf594a8e27f25d8521c2b68b861d287b28d2331a617a2925bc769952"
+        },
+        "4d27b906-9c1e-4fd0-a55f-43a6ce9571f2": {
+          "number": 142,
+          "path": "chapitres/comedies/volume-142-anaxandrides-gerontomania-vieillesse-desir-hetaires-rhadamanthe-palamedes-rhetorique.md",
+          "request_sha256": "5a6fcb0c4145f59414a4b8c5cc3ba54b0f31189cd236aa3d7af52346646b82ad",
+          "initial_source_sha256": "efa590630661dd5bc61b5e20303f1c5e82cac0d6678ca05a34ad284d2d073ada"
         }
       }
     },

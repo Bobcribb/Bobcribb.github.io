@@ -1,0 +1,359 @@
+# Chapitre 776 — Kua, île de Juani : les mosquées, les maisons, les cimetières et la mémoire d'une ville swahilie
+
+*MYTHOS — Les Origines du sacré. Monographie universitaire d'archéologie urbaine, archéologie funéraire, histoire de l'islam africain, anthropologie des lieux, philologie et conservation du patrimoine.*
+
+**Cadre géographique.** Kua, côte sud-ouest de l'île de Juani, archipel de Mafia, Tanzanie. **Échelles de temps.** Les structures bâties encore visibles sont principalement discutées pour les XVIe–XVIIIe siècles ; les preuves matérielles et les datations radiocarbone imposent une histoire plus complexe, qui ne se laisse pas ramener à une date unique de fondation ou d'abandon. **Principe de preuve.** Les observations architecturales, les dates radiométriques, les textes portugais, les traditions orales et les politiques contemporaines de conservation sont traités comme cinq catégories distinctes.
+
+## Résumé
+
+Kua est une agglomération swahilie dont les ruines de pierre corallienne permettent de suivre l'organisation du culte musulman à l'échelle d'un paysage urbain, et non d'un sanctuaire unique. Plusieurs mosquées, des cimetières associés, des tombes à pilier, des ensembles de pièces construites, des cours enclos, des équipements hydrauliques et des latrines composent le dossier. Les enquêtes d'Annalisa Christie, notamment les articles de 2013 et de 2019, ont reconsidéré la chronologie et restitué une organisation complexe de l'espace, longtemps disqualifiée par la préférence des chercheurs pour les phases les plus anciennes et les monuments les plus impressionnants. Les traditions d'une destruction du site par des groupes venus de Madagascar ne doivent pas être confondues avec un fait de fouille certifié ; les mesures radiocarbone invitent à nuancer les chronologies. Depuis les années 2010, le World Monuments Fund et les équipes de conservation documentent la menace de l'érosion, de la végétation, des dégradations et des activités humaines. L'enquête propose une histoire du sacré comme relation entre prière, déplacement, mémoire funéraire, politique urbaine et responsabilité patrimoniale.
+
+## I. Pourquoi une ville tardive importe à une histoire des origines
+
+Le titre « Les origines du sacré » ne signifie pas que seuls les tout premiers sanctuaires d'une région méritent l'étude. Il implique de comprendre les processus par lesquels une pratique se constitue, se transmet, se reconfigure puis laisse des traces. À Kua, l'architecture religieuse conservée est souvent plus tardive que celle des premières mosquées du littoral ; cette différence permet d'observer une société où l'islam est une réalité urbaine durable, diversement inscrite dans les quartiers.
+
+L'intérêt scientifique réside précisément dans la pluralité des institutions matérielles. Les fidèles ne disposent pas d'un seul lieu ; les morts ne sont pas déposés dans un cimetière unique ; les maisons, les cours et les espaces d'eau renvoient à des rapports sociaux inégaux. Kua permet d'étudier la manière dont le sacré devient une géographie quotidienne, même lorsque les textes ne nous ont pas conservé le nom des fondateurs des bâtiments.
+
+## II. Juani et l'archipel de Mafia
+
+L'île de Juani appartient à l'archipel de Mafia, sur la façade tanzanienne de l'océan Indien. Le site de Kua est situé dans sa partie sud-ouest. Cette localisation commande des relations avec les chenaux, les mangroves, les zones de pêche, les débarcadères et les mouvements de population entre îles. La géographie doit être prise dans son état historique : un chemin obstrué par la végétation actuelle n'était pas nécessairement obstrué au XVIIIe siècle.
+
+Une interprétation qui partirait seulement des ruines visibles sous les arbres manquerait la relation entre les quartiers bâtis et les zones de vie quotidienne. Les activités maritimes soutiennent l'économie d'une agglomération insulaire ; elles ne produisent pas à elles seules sa forme religieuse. Celle-ci dépend aussi d'investissements collectifs, de liens familiaux et de l'entretien des édifices.
+
+## III. Une archéologie longtemps dominée par d'autres périodes
+
+L'archéologie swahilie s'est souvent concentrée sur les siècles de grand commerce islamique médiéval et sur les plus célèbres villes de pierre. Les établissements des XVIe–XVIIIe siècles pouvaient paraître secondaires, voire décrits comme des vestiges d'un déclin. Annalisa C. Christie a explicitement contesté cette dévaluation dans « Structures and Settlement Organization at Kua Ruins, Juani », *African Archaeological Review* 36/2 (2019), p. 249–269.
+
+L'expression « déclin » doit être soumise à l'épreuve des données. La réorientation des réseaux du commerce de l'océan Indien n'implique pas nécessairement la disparition de l'innovation architecturale locale ou des institutions religieuses. Une ville peut posséder de nombreuses mosquées et formes complexes d'habitat dans une période que l'historiographie classe trop vite comme tardive. La mesure de sa vitalité ne doit pas dépendre uniquement de comparaisons avec Kilwa à son apogée.
+
+## IV. Les campagnes de terrain : 2009 et 2010
+
+Les travaux de terrain de Christie ont associé prospection, relevé de bâtiments et fouilles ponctuelles en 2009–2010. L'article de 2019 insiste sur l'enregistrement systématique des structures dans une perspective d'organisation de l'espace ; celui de 2013 rend compte de datations radiométriques issues des travaux de 2009. Ces deux publications n'ont pas le même objet et doivent être croisées.
+
+Un inventaire de murs n'est pas la même chose qu'une stratigraphie fermée ; la datation d'un échantillon n'est pas celle de toutes les salles voisines. L'intérêt de leur confrontation est de corriger la confiance excessive placée dans les traditions orales ou les descriptions anciennes. Le terrain devient une archive dotée de ses propres incertitudes, et non le simple décor matériel d'un récit déjà rédigé.
+
+## V. La chronologie radiocarbone : le résultat le plus important de 2013
+
+Christie a publié « Refining the chronology of Kua Ruins: radiocarbon dates from the Mafia Archipelago, Tanzania », *Azania* 48/4 (2013), p. 521–533, DOI 10.1080/0067270X.2013.842666. L'étude signale que les échantillons datés n'ont pas fixé définitivement les moments de fondation et d'abandon, mais rendent probable une séquence d'occupation plus complexe que celle transmise par certaines sources historiques.
+
+Il faut expliquer ce résultat sans le forcer. Un intervalle radiocarbone date un matériau organique et requiert calibration ; il ne date pas nécessairement le jour où une mosquée fut inaugurée. Le bois peut être plus vieux que sa réutilisation ; des charbons peuvent être redeposés. S'il existe des séries concordantes dans des contextes contrôlés, elles affinent la chronologie, sans abolir la diversité de phases d'une ville étendue.
+
+## VI. Le XVIe–XVIIIe siècle : un cadre utile, non un verrou
+
+La documentation architecturale de 2019 porte principalement sur un paysage bâti des XVIe–XVIIIe siècles. Les sites de l'archipel offrent néanmoins des indices d'occupations et d'échanges antérieurs. Le World Monuments Fund signale des céramiques islamiques et chinoises des XIIIe–XIVe siècles ; la présence de ces objets n'établit pas que toutes les mosquées actuellement visibles aient existé aux mêmes dates.
+
+L'erreur serait d'appliquer la datation du plus ancien tesson à tout le plan de la ville, puis de raconter une continuité parfaite jusqu'à l'abandon. La chronologie doit être établie bâtiment par bâtiment, et les méthodes disponibles ne fournissent pas toujours cette résolution. L'important est de distinguer l'âge d'un objet, la période d'usage d'une couche et l'époque de la maçonnerie qui la borde.
+
+## VII. Le « Pompéi d'Afrique orientale » : puissance et danger d'une métaphore
+
+La littérature a parfois présenté Kua comme une sorte de « Pompéi d'Afrique orientale ». L'expression signale l'impression produite par les ruines, mais risque d'introduire une fausse analogie. Pompéi doit une part de la conservation de sa vie domestique à une catastrophe volcanique précisément datée ; Kua n'offre pas un événement de scellement équivalent documenté pour l'ensemble des bâtiments.
+
+La métaphore peut attirer l'attention du public, mais elle peut aussi laisser croire que toutes les constructions ont été abandonnées simultanément. L'archéologie de Kua invite au contraire à une succession d'occupations, de modifications et d'abandons. Une comparaison monumentale n'est légitime que si elle n'efface pas les différences de formation du site.
+
+## VIII. La ville de pierre : un fragment de la ville réelle
+
+Les maçonneries coralliennes sont la partie la plus visible de Kua, car elles résistent mieux que les toitures, cloisons et habitations en matériaux périssables. Les cours enclos peuvent avoir été associées à des bâtiments dont les traces sont peu conservées. Cette asymétrie documentaire empêche d'identifier les maisons à partir des seuls volumes maçonnés.
+
+On ne sait pas quelle proportion des habitants résidait dans des constructions non durables. Les surfaces des enclos et des bâtiments conservés ne peuvent servir directement de recensement. Pour comprendre les pratiques religieuses de la population, il faut donc étudier les mosquées et les cimetières, mais aussi les espaces moins visibles où les familles travaillaient, mangeaient et transmettaient leurs savoirs.
+
+## IX. Cartographier les édifices et les vides
+
+L'étude de Christie (2019) présente des relevés et des photographies des structures, permettant d'examiner leur distribution, les espaces ouverts et les circulations. Le vide entre deux bâtiments n'est pas nécessairement un espace « sans fonction » : il peut correspondre à un trajet, une cour, un jardin ou une zone collective temporairement utilisée.
+
+L'archéologie urbaine distingue donc les bâtiments remarquables des systèmes d'accès qui les rendent praticables. Une mosquée placée près d'un chemin n'est pas seulement une salle fermée ; elle reçoit des flux de personnes et peut servir de repère dans les déplacements. Mais la valeur symbolique d'un parcours ne peut être affirmée à partir d'une ligne sur un plan sans observation supplémentaire.
+
+## X. Les mosquées multiples : une géographie religieuse décentrée
+
+Les relevés modernes et les programmes de conservation recensent plusieurs mosquées à Kua. Les inventaires anciens et récents ne coïncident pas toujours parfaitement, car la végétation masque des structures et le dégagement peut en faire apparaître de nouvelles. Le World Monuments Fund indique que six mosquées ont été traitées lors d'une première phase de conservation, et qu'une autre fut mise en évidence au cours de ces travaux.
+
+La multiplicité des édifices interdit de réduire la ville à une mosquée principale autour de laquelle tout serait organisé. Différents quartiers peuvent posséder des espaces de prière adaptés à leurs besoins ; certains édifices peuvent succéder à d'autres. Cependant, plusieurs mosquées ne signifient pas nécessairement plusieurs confessions : des différences de taille, de fonction ou de localisation peuvent suffire à expliquer leur coexistence.
+
+## XI. Les identifiants de monuments : une précaution contre les confusions
+
+Christie utilise des codes de relevé pour distinguer les constructions, notamment les mosquées identifiées par K001, K002, K018 et d'autres numéros. Ces codes sont des instruments de documentation, non des noms médiévaux. Ils permettent de rapporter une niche, une tombe ou un dispositif d'accès à un bâtiment précis.
+
+Une analyse rigoureuse s'interdit de transférer sans justification une inscription funéraire observée auprès d'une mosquée à une autre construction. Le même principe vaut pour les dates radiocarbone. La numérotation des archéologues n'est pas une chronologie : K001 ne signifie pas « première mosquée construite » et K018 ne signifie pas « dix-huitième mosquée ». Respecter les conventions du relevé évite la fabrication de fausses séquences historiques.
+
+## XII. Le mihrab : orientation et unité du culte
+
+La niche de prière (*miḥrāb*) permet de reconnaître la direction rituelle du culte musulman. Les photographies de Christie (2019) montrent plusieurs niches appartenant à des bâtiments différents, ce qui autorise une comparaison de leurs formes. La prescription d'orientation vers La Mecque, formulée dans le Coran 2:144, fournit la référence normative pertinente.
+
+L'observation d'une niche ne permet pas d'identifier un prédicateur, une école juridique ou la date précise de l'entrée en usage du bâtiment. Les formes du mihrab peuvent varier au sein d'une même tradition religieuse. Pour les interpréter, il faut tenir compte des matériaux, du plan général, des réparations et de la comparaison avec les mosquées de l'archipel.
+
+## XIII. Le minbar et l'autorité de la parole
+
+Christie publie notamment la documentation d'un *minbar* dans la mosquée K001. Le minbar est associé à la prédication et à la prise de parole liturgique dans les mosquées. Sa présence architecturale constitue un indice plus spécifique des conditions matérielles du sermon qu'une simple cour extérieure. Elle ne nous renseigne pourtant pas sur les sermons particuliers prononcés à Kua.
+
+L'étude d'un minbar oblige à articuler religion et autorité. L'espace élevé de parole organise une relation entre l'officiant et l'assemblée ; l'accès à cette fonction peut avoir été socialement régulé. Mais ni l'identité des desservants ni les procédures de nomination ne sont connues par la forme du meuble ou du bâti. Il faut maintenir ouvertes les questions de patronage et de compétition entre groupes locaux.
+
+## XIV. La prière du vendredi et les quartiers
+
+La présence de plusieurs bâtiments cultuels invite à distinguer les usages de voisinage et les grandes assemblées. Le Coran 62:9 donne un repère pour la prière du vendredi, mais il n'indique pas comment la ville de Kua répartissait effectivement ses fidèles. Une grande salle pouvait accueillir une assemblée plus large, sans rendre les autres mosquées secondaires dans toutes les pratiques.
+
+La division de l'espace urbain en quartiers ne se superpose pas automatiquement à un plan confessionnel. Les différences d'accès selon l'âge, le genre, l'origine familiale ou le statut économique doivent être envisagées comme des hypothèses à documenter. Une histoire des pratiques repose sur les circulations et les architectures, pas sur la supposition d'une population uniforme.
+
+## XV. L'eau des ablutions et les sanitaires
+
+Les équipements associés à l'eau et à l'évacuation sont particulièrement intéressants à Kua. Les relevés mentionnent de nombreuses latrines à l'intérieur ou à proximité des ensembles bâtis, ainsi que des installations que l'on peut examiner par rapport aux pratiques de purification. L'importance de ces aménagements réside dans leur capacité à dévoiler l'articulation entre quotidien domestique et usages cultuels.
+
+Il serait abusif de considérer toute latrine comme une annexe de mosquée. Les habitants ont besoin d'installations sanitaires indépendamment des rituels. La proximité spatiale, les conduites, les seuils et les traces d'usage peuvent guider l'interprétation. Le Coran 5:6 est une source normative pour les ablutions, non un inventaire des équipements de Juani.
+
+## XVI. Les cours enclos : maisons ou espaces ouverts ?
+
+Les grandes enceintes de pierre de Kua constituent une énigme majeure. Certaines n'ont pas conservé les divisions intérieures attendues d'une maison entièrement maçonnée. Elles peuvent avoir encadré des habitats en matériaux périssables, des espaces de travail ou des cours collectives. Les dimensions et les rapports aux chemins permettent de discuter ces fonctions sans les établir automatiquement.
+
+Christie (2019) invite à ne pas traduire chaque enclos par « demeure ». La ville aurait pu comporter un mélange de formes résidentielles dans lesquelles l'enceinte de pierre avait pour fonction de définir une parcelle, une cour ou une frontière de propriété. Une histoire de l'espace sacré doit tenir compte de cette variété, car les trajets vers les mosquées et les cimetières traversent aussi les territoires domestiques.
+
+## XVII. Les habitations complexes et les inégalités de visibilité
+
+Certains ensembles conservent plusieurs pièces, seuils et cours, et semblent avoir demandé davantage de ressources que des structures plus simples. Une typologie architecturale peut décrire ces différences, mais non attribuer à chaque demeure un rang exact dans une hiérarchie juridique. La construction en pierre n'est pas la preuve universelle d'un patrimoine marchand.
+
+Les rapports entre maisons et mosquées ont pourtant un potentiel historique important. Des groupes disposant de moyens matériels peuvent avoir financé des édifices religieux voisins, ou au contraire choisi d'afficher leur prestige dans l'habitat. En l'absence d'archives de fondation, la proximité constitue un indice pour formuler des questions, pas une preuve de patronage direct.
+
+## XVIII. Coral rag, chaux et mangrove : un assemblage technique
+
+Le World Monuments Fund décrit des bâtiments utilisant corail, chaux et bois, avec des couvertures adaptées à l'environnement local. Ces matériaux sont le produit d'une économie technique : extraction de la pierre, préparation des liants, récolte et transport du bois, entretien des éléments exposés à l'humidité. Leur assemblage n'est pas exclusivement religieux, mais il rend possible la durée des mosquées et des monuments funéraires.
+
+Une comparaison avec la côte d'Arabie ou le golfe Persique peut chercher des parentés de procédés. Elle ne doit jamais conclure que le bâtiment est « étranger » parce qu'il possède une technique présente ailleurs. Les artisans africains peuvent emprunter, transformer et transmettre leurs propres solutions architecturales au sein de communautés multilingues et commerciales.
+
+## XIX. Le franchissement des seuils
+
+Les portes dessinent des séquences d'accès entre rue, cour et salle fermée. Pour les lieux de culte, elles régulent l'entrée d'une assemblée ; pour les maisons, elles peuvent séparer vie publique et domaines domestiques. L'archéologie peut comparer leurs dimensions, leurs orientations et les modifications de maçonnerie.
+
+Elle ne possède pas la liste des personnes autorisées à franchir chaque seuil. Une petite porte ne signifie pas automatiquement une entrée féminine, un accès d'esclaves ou une fonction de purification. Ces catégories ne peuvent être attribuées que si d'autres documents les étayent. L'organisation spatiale est une condition de la pratique sociale, pas une transcription complète des normes.
+
+## XX. Les cimetières : la ville des vivants et celle des morts
+
+Plusieurs ensembles funéraires occupent des positions importantes autour des édifices de Kua. Les tombes maçonnées et les pierres marquant la tête ou les pieds d'un défunt témoignent d'investissements mémoriels différenciés. Leur distribution peut renseigner l'organisation de groupes de parenté, mais les relations exactes entre personnes ne sont pas directement inscrites dans le plan.
+
+La proximité de certaines tombes avec les mosquées est une donnée majeure : l'accès au lieu de prière rapproche les habitants de la mémoire des disparus. Pourtant, les pratiques de visite, les invocations et la place théologique des morts doivent être examinées avec prudence. Les sépultures ne prouvent pas à elles seules un culte des ancêtres identique à celui d'autres sociétés africaines.
+
+## XXI. Les monuments funéraires à pilier
+
+Les tombes à pilier appartiennent au répertoire matériel de plusieurs villes swahilies. Kua conserve des monuments qui permettent d'examiner les relations entre verticalité, prestige et visibilité. La pierre transforme la durée du souvenir ; elle demeure après la mort de ceux qui l'ont commandée. Les formes et les positions des piliers donnent des indices sur la hiérarchisation de l'espace.
+
+L'identité des personnes inhumées ne peut être déduite du seul type monumental. Il serait erroné de les nommer toutes « sultans » ou « saints ». Les inscriptions, lorsqu'elles existent, permettent d'aller plus loin ; leur présence est rare au regard de la multitude de sépultures. Le monument ouvre une enquête sur la mémoire sociale sans livrer une biographie certaine.
+
+## XXII. Épigraphie funéraire et prudence philologique
+
+Christie (2019) documente notamment des pierres tombales inscrites, dont certaines sont associées à des mosquées identifiées par leur code archéologique. La lecture d'une inscription requiert photographie, contrôle paléographique, identification des formules, traitement des lacunes et vérification de la date éventuelle. Une translittération produite à partir d'une notice non photographique doit être présentée comme secondaire.
+
+Le vocabulaire arabe de noblesse, de filiation et de dévotion est un matériau d'histoire sociale, mais sa présence n'autorise pas à reconstruire une dynastie complète. Un nom peut se répéter sur plusieurs générations. Un titre honorifique ne désigne pas nécessairement une fonction politique exclusive. Les inscriptions doivent être reliées aux bâtiments et aux couches, non utilisées comme sources autonomes de prestige.
+
+## XXIII. Une tombe datée et les limites de l'échantillon
+
+Des notices dérivées de la documentation architecturale évoquent une pierre datée de 1175 de l'hégire, correspondant approximativement à 1761–1762 de notre ère selon le mois. Une telle indication, si elle est confirmée par la lecture épigraphique, serait une preuve exceptionnelle pour la présence d'un défunt commémoré à cette époque. Elle ne daterait pas automatiquement l'ensemble de la mosquée voisine.
+
+Les calendriers ne sont pas interchangeables par simple soustraction : la date de l'hégire suit un calendrier lunaire. Le contrôle d'une inscription exige de respecter la formule et les chiffres exacts, les lacunes et les risques d'erreur. La prudence demeure de mise lorsqu'une date circule dans plusieurs résumés sans reproduction de l'inscription originale.
+
+## XXIV. Réemploi d'une mosquée comme zone funéraire : une possibilité
+
+Certaines pierres tombales et certaines sépultures semblent se trouver à l'intérieur d'anciens emplacements de culte. Un tel arrangement peut indiquer qu'une mosquée hors d'usage fut ensuite intégrée à un espace funéraire. Il faut néanmoins prouver l'ordre des phases : si le mur a été reconstruit, la relation actuelle n'était pas forcément celle d'origine.
+
+L'hypothèse est importante pour une anthropologie du temps sacré. Un bâtiment peut cesser de recevoir une assemblée tout en conservant une valeur mémorielle. La continuité du lieu n'est pas nécessairement celle de la pratique. L'archéologue doit distinguer édifice actif, édifice abandonné, cimetière et ruine investie de nouveaux usages.
+
+## XXV. Le rivage et les mosquées visibles depuis la mer
+
+Quelques édifices proches de la côte peuvent avoir marqué l'arrivée des voyageurs et les sorties de pêcheurs. Leur implantation pose la question de la visibilité maritime, particulièrement importante dans les villes swahilies. Mais la distance actuelle entre le bâtiment et l'eau peut avoir changé sous l'effet de l'érosion et des dépôts de mangrove.
+
+Une mosquée aperçue depuis une barque ne s'adresse pas au même public que celle située au cœur d'un ensemble de maisons. Cela ne signifie pas que la première ait été construite uniquement comme enseigne commerciale. La prière, l'accueil et la représentation publique peuvent se combiner sans qu'une fonction unique domine systématiquement.
+
+## XXVI. Les mangroves : ressources et transformation des parcours
+
+Le paysage côtier de Juani associe eaux intertidales, mangroves et chenaux. La végétation fournit des matériaux, participe à l'écologie des pêcheries et peut changer les possibilités de navigation et de circulation. Le passage d'une zone de débarquement ouverte à une zone encombrée de racines modifie la manière dont les ruines sont aujourd'hui perçues.
+
+Il serait erroné de reconstruire le port ancien à partir d'une photographie actuelle sans enquête paléoenvironnementale. Les bateliers médiévaux utilisaient des lignes d'accès qui peuvent avoir disparu. Les chercheurs doivent donc mettre en relation les bâtiments et les transformations du rivage, afin d'éviter de tirer des conclusions sociales de distances modernes trompeuses.
+
+## XXVII. Les objets importés : céramiques islamiques et chinoises
+
+Le World Monuments Fund mentionne des céramiques associées aux réseaux islamiques et chinois, certaines datées des XIIIe–XIVe siècles. Ces objets donnent un contexte d'échanges plus ancien que plusieurs édifices monumentaux. Ils ne sont ni la preuve que toute la ville fut fondée au XIIIe siècle, ni la signature directe d'habitants venus de leurs lieux de production.
+
+Une céramique peut circuler, être héritée, réparée, réutilisée et finalement rejetée. Le contexte stratigraphique demeure décisif pour dater son dernier usage observé. Elle peut également avoir été employée hors de toute fonction rituelle. La comparaison des provenances doit éclairer l'économie des objets, sans présumer la diffusion mécanique de croyances avec chaque cargaison.
+
+## XXVIII. Les monnaies de l'intérieur et les circulations régionales
+
+La présence signalée de monnaies provenant des réseaux tanzaniens rappelle que le commerce de Kua n'était pas seulement tourné vers les ports lointains de l'océan Indien. Les relations avec la côte, l'arrière-pays et d'autres îles ont pu compter dans le fonctionnement quotidien de l'établissement. Une monnaie renseigne une circulation, et parfois une autorité émettrice, mais pas la religion privée de son dernier détenteur.
+
+Un objet numismatique peut rester en usage bien après sa frappe. Pour construire une chronologie, il faut distinguer la date de production, la période probable de circulation et la date du dépôt. La monnaie peut financer des travaux ou des dons religieux, mais rien ne permet d'affecter chaque pièce retrouvée à un chantier de mosquée particulier.
+
+## XXIX. Les Portugais et les transformations du monde indien
+
+Les sources portugaises du XVIe siècle constituent un corpus externe sur les activités et les pouvoirs côtiers. Le World Monuments Fund signale que certaines descriptions attribuent à Kua une prospérité notable. Il faut confronter ces récits à leur contexte d'écriture : les chroniqueurs peuvent dramatiser les richesses, les conflits et les intentions des acteurs pour justifier leurs propres entreprises.
+
+Leur présence dans la région ne signifie pas que la ville fut organisée uniquement par les Portugais. La société swahilie possédait des réseaux et des institutions préexistants. Le fait religieux local doit être suivi au travers des phases de contrôle, de négociation et d'autonomie, sans déduire directement une continuité politique d'une continuité architecturale.
+
+## XXX. Le monde omanais et les changements du XVIIIe siècle
+
+L'influence du pouvoir omanais sur la côte orientale africaine modifie progressivement les équilibres politiques et commerciaux de l'océan Indien. Pour Kua, la documentation patrimoniale situe son histoire dans un monde traversé par ces transformations. Une interprétation sérieuse doit toutefois distinguer un cadre régional de l'administration concrète de chaque île.
+
+La présence d'une mosquée en activité ne suffit pas à prouver une sujétion permanente à Oman. Les communautés musulmanes littorales existent selon des relations multiples de parenté, de fiscalité et d'alliance. L'histoire des pouvoirs et celle de la foi se croisent sans se confondre : la circulation de juristes ou de biens est différente de l'exercice d'un pouvoir administratif.
+
+## XXXI. Le commerce des personnes et l'esclavage : ne pas effacer le problème
+
+L'archipel de Mafia appartient à un espace historique où des formes de dépendance et l'esclavage ont existé à différentes périodes. Il serait tout aussi abusif de les ignorer que de prétendre identifier la condition juridique de chaque habitant à partir d'une maison ou d'une tombe. Le sujet exige la lecture des archives disponibles, la comparaison régionale et une histoire sociale attentive aux rapports de domination.
+
+La présence de grandes demeures n'implique pas que tous leurs occupants étaient libres ; l'absence d'une tombe monumentale n'indique pas automatiquement une condition servile. Le travail de construction, de pêche, de transport et d'entretien pourrait avoir été accompli selon des statuts différents. Les vestiges seuls ne permettent pas de dresser un registre du travail forcé, mais ils imposent des questions.
+
+## XXXII. Les Sakalava et la mémoire d'une destruction
+
+Une tradition largement répétée attribue l'abandon de Kua à des raids de groupes sakalava venus de Madagascar, parfois situés à la fin du XVIIIe siècle. Cette tradition est historiquement significative comme récit de fin, mais sa récurrence ne constitue pas une preuve stratigraphique d'un événement unique et précisément daté.
+
+Christie (2013) insiste justement sur le décalage entre chronologies historiques, traditions orales et résultats radiocarbone. Une population peut quitter un site progressivement, à la suite de crises cumulées ; un raid peut avoir eu lieu sans expliquer chaque abandon architectural. Pour départager les hypothèses, il faudrait confronter les niveaux de destruction, les datations, les textes et les témoignages transmis.
+
+## XXXIII. L'abandon comme processus, non comme spectacle
+
+Une ville peut perdre sa population sans être entièrement détruite. L'entretien des toitures cesse, l'eau pénètre dans les murs, les plantes s'installent et les pierres deviennent disponibles pour d'autres usages. Les traces d'abandon sont donc souvent l'effet de décennies, voire de siècles, plutôt que d'une seule journée catastrophique.
+
+La métaphore de « Pompéi » rend parfois invisible cette temporalité. Elle fige les ruines dans l'instant supposé d'une fin dramatique. Une histoire responsable de Kua doit au contraire s'interroger sur les occupations secondaires, les visites, la récupération des matériaux et la survie de certains lieux de mémoire. La fin d'une agglomération est rarement celle de toutes les relations que ses habitants avaient nouées.
+
+## XXXIV. L'inscription funéraire comme témoignage primaire
+
+Quand une inscription est conservée, elle peut donner un nom, une formule de dévotion, une filiation ou une date. C'est une source primaire locale d'une qualité différente d'un récit compilé longtemps après les événements. Mais l'objet est soumis à des détériorations et des lectures concurrentes. Il faut reproduire fidèlement les graphies, signaler les lacunes et fournir la photographie ou le relevé de référence.
+
+Les translittérations arabes peuvent varier selon les conventions scientifiques. Un titre comme *sharīf* doit être traduit avec soin : ses usages sociaux peuvent être honorifiques et ne disent pas à eux seuls une généalogie vérifiée jusqu'à la famille du Prophète. La philologie ne gagne rien à transformer une expression prestigieuse en arbre dynastique complet.
+
+## XXXV. *Msikiti*, *miḥrāb* et *qibla* : circulation des mots
+
+Le swahili *msikiti* renvoie à l'arabe *masjid*, lié à la prosternation ; *miḥrāb* désigne une niche associée à la direction de la prière ; *qibla* nomme cette direction. Les emprunts témoignent de l'intégration de notions religieuses à une langue africaine. Ils ne datent pas l'édification d'une mosquée précise ni l'installation d'une famille nommée.
+
+Le mot d'origine étrangère peut recevoir une vie locale autonome. Une communauté swahilie peut parler sa langue, prier et construire ses lieux dans une tradition islamique sans cesser d'être une société africaine. Confondre l'étymologie avec l'origine des personnes aboutirait à une histoire erronée de l'islamisation.
+
+## XXXVI. La communauté musulmane et la pluralité des statuts
+
+Les mosquées donnent des formes matérielles au rassemblement et à l'appartenance religieuse ; les cimetières inscrivent des réputations, des parentés et des inégalités de mémoire. La société qui les produit peut être traversée de différences d'accès aux ressources, de juridictions et de droits. L'existence du religieux collectif ne suppose pas l'effacement de ces distinctions.
+
+Une sociologie historique attentive à Kua doit distinguer les obligations normatives de la religion, les pratiques effectivement attestées et les possibilités d'action des groupes sociaux. Les femmes, les enfants, les travailleurs et les personnes dépendantes sont souvent moins visibles que les donateurs de tombes ; leur absence relative du corpus épigraphique ne saurait être interprétée comme leur inexistence historique.
+
+## XXXVII. Rites et quotidien : sortir de l'opposition entre sacré et profane
+
+Une mosquée impose des usages du temps, de l'espace, de l'eau et de la parole. Son entretien dépend de tâches ordinaires : nettoyer les sols, réparer les murs, apporter des matériaux et garantir l'accès. Le religieux ne se tient donc pas hors de la société pratique. À Kua, la proximité des habitations, des latrines et des cimetières rend cette imbrication particulièrement visible.
+
+Cependant, cette interdépendance ne justifie pas de réduire la foi à un simple système d'hygiène ou de relations de pouvoir. La direction de la prière, les textes appris et la valeur attribuée au rassemblement doivent conserver une place propre dans l'analyse. L'histoire du sacré exige de respecter la pluralité des registres d'expérience.
+
+## XXXVIII. La référence coranique : ce qu'elle éclaire, ce qu'elle ne décrit pas
+
+Pour l'étude architecturale, les références coraniques pertinentes comprennent 2:144 pour l'orientation, 5:6 pour les ablutions, 9:18 pour les lieux de prière et 62:9 pour le vendredi. Ces textes constituent des sources primaires de la norme islamique ; ils ne sont pas des comptes rendus de pratiques observées à Kua au XVIIe siècle.
+
+L'historien ne peut donc remplir les vides documentaires en citant un verset comme preuve directe d'un geste survenu dans une pièce précise. La relation entre norme et architecture demeure une hypothèse située : le type du bâtiment peut rendre un rite plausible, tandis que l'exécution locale reste partiellement inaccessible.
+
+## XXXIX. Comparaison avec Sanjé ya Kati : deux mondes temporels
+
+Sanjé ya Kati possède un corpus archéologique centré surtout sur 950–1250 et une réflexion sur l'islamisation et les réseaux du golfe Persique. Kua fournit un paysage urbain plus tardif, dont les mosquées multiples et les maisons s'étudient principalement dans le cadre des XVIe–XVIIIe siècles. La différence permet de comparer des problèmes de transmission et de réorganisation plutôt que de forcer une généalogie directe.
+
+On ne peut dire que Kua « descend » de Sanjé parce que les deux sites possèdent des murs coralliens. Des techniques communes circulent dans de vastes régions. La comparaison porte sur les rapports entre religion et urbanisation : édifice unique et fortifications d'un côté, pluralité des quartiers, des mosquées et des cimetières de l'autre.
+
+## XL. Comparaison avec Kilwa Kisiwani et Songo Mnara
+
+Les grandes mosquées et les espaces de prestige de Kilwa et de Songo Mnara offrent des points de comparaison pour les maisons, les tombes et les pratiques monétaires. Mais le développement de ces centres ne constitue pas une norme devant laquelle Kua serait « déficiente ». Les phases de Kua illustrent une autre organisation sociale et une autre conjoncture des échanges.
+
+La bonne comparaison exige des séries d'édifices, des datations contrôlées et une attention aux matières périssables. La densité plus ou moins forte des maisons de pierre peut refléter la richesse, les préférences architecturales, la conservation ou l'état de la recherche. Sans analyse de ces facteurs, les classements de « villes plus ou moins avancées » restent arbitraires.
+
+## XLI. Comparaison grecque : agora, maisons et sanctuaires
+
+Les recherches de Jean-Pierre Vernant et Marcel Detienne aident à poser la question des rapports entre la forme des villes et les pratiques religieuses dans le monde grec. Les sanctuaires grecs et les mosquées swahilies appartiennent pourtant à des régimes rituels différents : la *thysia* n'est pas l'équivalent de la prière islamique. Les concepts de cité, de voisinage et d'espace public peuvent servir d'outils critiques à condition d'éviter les identités factices.
+
+La comparaison pertinente concerne les trajets et les seuils. Où la communauté se rassemble-t-elle ? Comment les morts sont-ils situés par rapport aux vivants ? Comment un édifice religieux devient-il visible ? Ces questions traversent plusieurs cultures, tandis que les réponses demeurent historiquement singulières.
+
+## XLII. Égypte et Mésopotamie : les limites du modèle du temple institutionnel
+
+Dans l'Égypte et la Mésopotamie antiques, certains temples disposent de domaines, de personnel et de circuits de redistribution. La comparaison avec les mosquées de Kua peut porter sur les investissements matériels et la place de la religion dans les paysages urbains. Elle ne doit pas impliquer que les structures fiscales ou sacrificielles des temples antiques se retrouvent automatiquement dans l'islam littoral.
+
+Le mot « temple » ne doit pas non plus servir de traduction universelle de *masjid*. À Kua, la prière, la prédication et les prescriptions propres à l'islam définissent des usages distincts. Le comparatisme contrôlé aide à identifier des problèmes communs d'organisation, non une substance religieuse uniforme.
+
+## XLIII. Iran, Inde et Chine : provenances et appropriations
+
+La circulation d'objets de provenance persique, indienne ou chinoise contribue à l'histoire des échanges de l'archipel de Mafia. Les céramiques chinoises et islamiques mentionnées par les institutions patrimoniales attestent des réseaux sans déterminer l'identité familiale de tous les habitants. Un contenant importé peut être intégré à une maison ou offert comme marque de prestige sans transmettre la religion de son fabricant.
+
+La comparaison avec les villes portuaires de l'Iran ou de l'Inde doit donc se faire au niveau de la circulation et de l'appropriation. Il serait erroné de voir dans tout fragment de porcelaine une pratique chinoise ou dans tout mot arabe une colonisation. La matérialité témoigne de contacts : leur portée sociale doit être démontrée séparément.
+
+## XLIV. Durkheim : l'assemblée comme fait social
+
+Émile Durkheim a montré que les rites sont inséparables des formes de vie collective. La pluralité des mosquées de Kua permet de se demander comment plusieurs communautés de voisinage pouvaient composer une ville plus large. Les rassemblements imposent des rythmes et peuvent créer des solidarités ; ils peuvent aussi être traversés de hiérarchies et de frontières d'accès.
+
+Le concept sociologique n'autorise pas à reconstituer les états affectifs des fidèles à partir d'une cour ou d'un minbar. Il aide à formuler une question vérifiable sur l'architecture : quelles possibilités de rencontre le bâti rendait-il concrètement disponibles ? Le reste demeure du domaine de l'inférence.
+
+## XLV. Eliade, Nietzsche et Hegel : espace sacré et temps historique
+
+La pensée d'Eliade sur l'orientation du sacré peut éclairer le mihrab, mais elle risque de figer les lieux hors du temps. Kua est précisément un ensemble historique dont les bâtiments furent construits, remaniés, abandonnés et sauvés partiellement de l'effondrement. Nietzsche peut aider à critiquer les catégories de « grandeur » et de « décadence » employées par l'historiographie ; Hegel peut être interrogé sur les récits de progrès qui transforment les villes médiévales en étapes nécessaires d'une histoire universelle.
+
+Aucun de ces philosophes ne livre une donnée sur le terrain de Juani. Leur usage est réflexif et critique : ils permettent de débusquer des présupposés, mais les dates restent celles des fouilles, non celles d'un système philosophique.
+
+## XLVI. Girard et Dumézil : refuser les applications mécaniques
+
+La théorie girardienne de la violence et du sacré ne peut être appliquée aux traditions de raids et d'abandon de Kua sans preuve d'un mécanisme victimaire. Le simple fait qu'un récit de destruction existe ne suffit pas. Les figures de pouvoir, les spécialistes religieux et les artisans ne doivent pas davantage être classés dans une trifonctionnalité dumézilienne présentée comme universelle.
+
+Ces limites méthodologiques sont essentielles pour une encyclopédie comparative. Les systèmes théoriques servent à interroger les données, non à les remplacer. Dans le cas de Kua, l'archéologie, la chronologie radiométrique et les sources historiques doivent conserver la priorité sur toute mise en correspondance abstraite.
+
+## XLVII. Une conservation devenue un fait d'histoire
+
+Le World Monuments Fund a inscrit Kua dans son programme de vigilance patrimoniale en 2016, en raison notamment du climat, des effondrements, des recherches clandestines de prétendus trésors et des risques d'un tourisme non maîtrisé. Le programme de conservation lancé à partir de 2017 a impliqué des habitants de Juani. Une première phase achevée en janvier 2019 a permis de dégager et de consolider plusieurs structures.
+
+La protection n'est pas extérieure à l'histoire du sacré. Une ruine restaurée devient accessible à de nouveaux publics, et la façon de la décrire influence la mémoire du lieu. La conservation modifie les conditions de lecture sans constituer une reconstitution automatique de son état d'origine.
+
+## XLVIII. Les résultats concrets des travaux communautaires
+
+Selon la documentation du World Monuments Fund, la première phase de conservation a concerné treize structures : six mosquées avec tombes associées, six habitations et un cimetière. Le dégagement de la végétation a rendu perceptibles d'autres structures, dont une mosquée supplémentaire. Le programme indique également une large mobilisation de travailleurs et la création d'une organisation patrimoniale locale.
+
+Ces chiffres doivent être interprétés comme des résultats de campagne, non comme le recensement définitif de tous les monuments anciens. Une structure nouvellement reconnue ne date pas du chantier de conservation ; elle devient simplement visible pour la documentation moderne. La conservation est un travail de connaissance et de responsabilité sociale autant qu'une réparation de maçonnerie.
+
+## XLIX. Le Zamani Project : scanner sans confondre image et preuve
+
+Le Zamani Project a documenté en 2018 certains monuments de Kua par des méthodes spatiales et des restitutions numériques. Plans, photographies, relevés et modèles tridimensionnels permettent d'enregistrer des états de conservation qui peuvent disparaître. La conservation numérique est particulièrement précieuse là où la mer, l'humidité et la végétation mettent en danger les structures.
+
+Un modèle géométrique numérisé représente l'état observé au moment du relevé. Il ne démontre pas l'apparence exacte de la ville au XVIIe siècle. Les élévations perdues, les couleurs, les couvertures et les personnes représentées dans une éventuelle reconstitution immersive doivent être distinguées des données mesurées. La précision graphique n'est pas une garantie d'exactitude historique.
+
+## L. La menace climatique et les destructions humaines
+
+Kua subit des risques complexes : conditions littorales, humidité, végétation, fragilité des maçonneries, prélèvements de matériaux, fouilles non autorisées et pression potentielle du développement touristique. Les causalités ne sont pas identiques : l'érosion marine ne se traite pas comme une dégradation volontaire, et une restauration mal conçue peut elle-même altérer l'information archéologique.
+
+Une stratégie doit donc associer diagnostic des matériaux, cartographie des risques, suivi des déplacements de côte, protection des contextes non fouillés et formation locale. La conservation ne consiste pas à rendre toutes les ruines neuves ; elle vise à stabiliser des traces, à enregistrer leur état et à préserver leur intelligibilité pour les chercheurs et les communautés futures.
+
+## LI. Les habitants contemporains et l'éthique de la restitution
+
+Le patrimoine de Kua existe dans un territoire vivant. Les résidents de Juani ne sont pas des figurants de l'histoire médiévale ; ils ont leurs intérêts, leurs mémoires, leurs besoins économiques et leur droit de participer aux décisions qui concernent le site. Les projets documentés par le World Monuments Fund ont cherché à associer formation, emplois locaux et protection, orientation qui doit être évaluée par ses résultats à long terme.
+
+Une publication scientifique doit expliquer clairement ce qui a été trouvé, ce qui reste incertain et ce qui résulte des opérations de conservation. Elle devrait également éviter d'exploiter les sépultures comme un décor spectaculaire ou de transformer les traditions orales en curiosités anonymes. L'archéologie religieuse exige une responsabilité envers les morts et les vivants.
+
+## LII. Les faits attestés, hypothèses défendables et récits discutés
+
+**Attesté :** existence de Kua sur Juani ; mosquées, enclos, maisons complexes, latrines et cimetières ; relevés de Christie ; datations radiocarbone publiées en 2013 ; documentation de structures par le Zamani Project en 2018 ; campagnes de conservation du World Monuments Fund ; objets d'échange provenant de réseaux extérieurs.
+
+**Interprétations discutées :** fonctions des grands enclos ; relations entre mosquées et groupes de voisinage ; chronologie exacte de certains édifices ; réaffectation possible de bâtiments cultuels à un usage funéraire ; rapport des installations d'eau aux ablutions ; causes de la baisse d'occupation.
+
+**Hypothèses non prouvées à ce stade :** abandon général en une journée après une attaque sakalava ; identification de toutes les tombes monumentales à des souverains ; certitude sur la fondation du site à partir de céramiques isolées ; appartenance de chaque mosquée à une école juridique distincte ; continuité sans rupture des pratiques du XIIIe au XIXe siècle.
+
+## LIII. Propositions de recherche : des relevés à l'histoire sociale
+
+Les priorités scientifiques comprennent la publication de plans géoréférencés des édifices et des enclos, l'étude stratigraphique des relations entre cours et maisons, l'analyse architecturale des mihrabs, la documentation photographique et paléographique des épitaphes, l'examen des matériaux de construction et la multiplication prudente des datations absolues dans des contextes contrôlés.
+
+Les travaux devraient également intégrer une histoire environnementale de Juani, des enquêtes sur les déplacements de côte et une étude critique des archives portugaises, arabes et swahilies. Il faut éviter une accumulation de mesures déconnectées de questions historiques : chaque méthode doit éclairer une hypothèse explicite sur les pratiques, l'habitat ou la mémoire.
+
+## LIV. Synthèse générale : plusieurs mosquées, plusieurs temporalités
+
+Kua montre une société musulmane urbaine dont l'architecture sacrée est distribuée dans des quartiers, des voisinages et des espaces funéraires. L'étude des mosquées éclaire l'orientation et le rassemblement ; les cimetières rendent visibles des hiérarchies de mémoire ; les maisons et les latrines replacent ces pratiques dans le quotidien. La ville tardive ne doit pas être jugée comme une simple version appauvrie des cités médiévales plus anciennes.
+
+Les enquêtes de Christie ont montré que la chronologie devait être construite par preuves plutôt que répétée à partir de traditions de fondation et de destruction. La conservation contemporaine ajoute une dimension : les vestiges sont une ressource scientifique fragile et un patrimoine vivant. L'histoire du sacré gagne à reconnaître que des pratiques religieuses peuvent perdurer, changer de bâtiments, être commémorées et finalement devenir objets de soin collectif.
+
+## Sources primaires et documentation archéologique
+
+1. **Structures et plans de Kua** : observations architecturales réalisées par Annalisa C. Christie lors des prospections de 2009–2010, présentées dans « Structures and Settlement Organization at Kua Ruins, Juani (Mafia Archipelago, Tanzania) », *African Archaeological Review* 36/2 (2019), p. 249–269. Les vestiges sont des sources primaires ; l'article est leur publication scientifique.
+2. **Échantillons radiocarbone de Kua** : éléments prélevés lors des recherches de 2009 et publiés dans Christie (2013). Les dates sont des mesures radiométriques accompagnées de contextes, et ne se substituent pas à des actes de fondation.
+3. **Épitaphes et pierres tombales** : documentation photographique de Christie (2019). Les lectures exactes doivent être vérifiées sur les reproductions avant toute nouvelle édition, traduction ou attribution personnelle.
+4. **Coran**, 2:144 ; 5:6 ; 9:18 ; 62:9, références normatives par sourate et verset : https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/9/18 ; https://quran.com/62/9.
+5. **Archives historiques et traditions orales de Kua** : corpus discuté par Christie (2013) pour la chronologie de l'établissement ; ne pas assimiler un récit d'abandon à un relevé stratigraphique.
+6. **Dossier matériel moderne** : World Monuments Fund, « Kua Ruins », https://www.wmf.org/projects/kua-ruins, et Zamani Project, « Kua Monuments », https://zamaniproject.org/site-tanzania-juani-island-kua-ruins.html. Sources directes pour les interventions patrimoniales des années 2010, non sources des intentions des habitants médiévaux.
+
+## Bibliographie scientifique vérifiée
+
+- **Christie, Annalisa C.**, 2013. « Refining the chronology of Kua Ruins: radiocarbon dates from the Mafia Archipelago, Tanzania ». *Azania: Archaeological Research in Africa* 48/4, p. 521–533. https://doi.org/10.1080/0067270X.2013.842666. Notice institutionnelle : https://ueaeprints.uea.ac.uk/id/eprint/58303/.
+- **Christie, Annalisa C.**, 2019. « Structures and Settlement Organization at Kua Ruins, Juani (Mafia Archipelago, Tanzania) ». *African Archaeological Review* 36/2, p. 249–269. https://doi.org/10.1007/s10437-019-09333-1. Base de la présente analyse architecturale.
+- **Chami, Felix A.**, 2000. « Further archaeological research on Mafia Island ». *Azania* 35, p. 208–214. Contexte d'archéologie régionale.
+- **Garlake, Peter S.**, 1966. *The Early Islamic Architecture of the East African Coast*. British Institute of History and Archaeology in East Africa, mémoire 1. Corpus d'architecture comparée.
+- **Wynne-Jones, Stephanie et Adria LaViolette (dir.)**, 2018. *The Swahili World*. Routledge. Synthèse interdisciplinaire de l'histoire régionale.
+- **Pradines, Stéphane**, 2022. *Historic Mosques in Sub-Saharan Africa: From Timbuktu to Zanzibar*. Brill, pour les comparaisons d'architecture islamique et de conservation.
+- **World Monuments Fund**, « Kua Ruins », dossier de conservation et compte rendu des actions à partir de 2016, https://www.wmf.org/projects/kua-ruins.
+- **Zamani Project**, « Kua Monuments », relevés spatiaux de certains édifices réalisés en 2018, https://zamaniproject.org/site-tanzania-juani-island-kua-ruins.html.
+- **Brielle, Esther S., et al.**, 2023. « Entwined African and Asian genetic roots of medieval peoples of the Swahili coast ». *Nature* 615, p. 866–873. https://doi.org/10.1038/s41586-023-05754-w. Comparaison régionale uniquement, et non données d'ADN extraites de Kua.
+- **Vernant, Jean-Pierre**, 1962. *Les Origines de la pensée grecque* ; **Detienne, Marcel et Jean-Pierre Vernant (dir.)**, 1979. *La Cuisine du sacrifice en pays grec* ; **Durkheim, Émile**, 1912. *Les Formes élémentaires de la vie religieuse* ; **Eliade, Mircea**, 1957. *Le Sacré et le Profane* ; **Girard, René**, 1972. *La Violence et le sacré* ; **Nietzsche, Friedrich**, 1872. *La Naissance de la tragédie* ; **Hegel, G. W. F.**, leçons de philosophie de l'histoire ; **Dumézil, Georges**, 1968–1973. *Mythe et épopée*. Références théoriques destinées aux comparaisons critiques, sans prétention documentaire sur l'archipel de Mafia.
+
+**Conclusion éditoriale :** Kua constitue un dossier autonome sur une ville et un patrimoine du sud de l'archipel de Mafia. Il n'anticipe ni ne réserve aucun numéro de la série ; seul le reçu transactionnel de GitHub établit l'attribution.
