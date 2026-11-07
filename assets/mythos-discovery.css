@@ -103,3 +103,21 @@ body.mythos-design .mythos-gallery-toc li>a:hover{
 @media print{
   body.mythos-design .mythos-gallery-toc{display:none!important}
 }
+
+
+/* Lecture scientifique 3D : atteindre l'ancre sans masquer le titre par
+   le bandeau de navigation. Le chapitre et sa bibliographie restent intacts. */
+body.mythos-design .r3d-science h2[id^="lecture-section-"] {
+  scroll-margin-top: clamp(5rem, 12vh, 7rem);
+}
+body.mythos-design .r3d-science h2[id^="lecture-section-"]:target {
+  color: #ffe1ad;
+  text-decoration: underline;
+  text-decoration-color: #b79b62;
+  text-underline-offset: .22em;
+}
+@media (max-width: 700px) {
+  body.mythos-design .r3d-science h2[id^="lecture-section-"] {
+    scroll-margin-top: 6.5rem;
+  }
+}
