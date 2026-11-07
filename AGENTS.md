@@ -51,6 +51,17 @@ réinitialiser un checkout contenant des modifications locales.
   file refuse les collisions historiques avant toute attribution. Les notices
   et renvois se construisent sans réécriture des trois manuscrits protégés.
 
+- Recouvrement des *Grenouilles* (issue #58) : les volumes comparatifs 269
+  (purification politique) et 273 (politique de l'écoute), tous deux consacrés
+  principalement aux vers 312–459, sont deux monographies intégrales distinctes,
+  conservées à leurs UUID et URL d'origine. Avant toute troisième livraison
+  autonome sur ce périmètre, relire les deux textes et la concordance
+  `docs/CONCORDANCE_IACCHOS_GRENOUILLES_269_273.md`, documenter l'apport
+  original (sources ou variantes nouvelles, problématique et résultats non
+  redondants) et obtenir une revue éditoriale. Sinon, préférer un complément
+  aux volumes existants, sans créer un nouveau numéro pour reformuler ces acquis.
+  Ne pas affecter les études déjà attribuées sur d'autres passages d'Aristophane.
+
 - Une collision entre soumissions non attribuées peut être mise en attente explicite
   dans `editorial/holds.json`, avec empreinte de chaque demande et motif. Les
   manuscrits restent intacts dans inbox, sans reçu ni numéro. Réconcilier leurs

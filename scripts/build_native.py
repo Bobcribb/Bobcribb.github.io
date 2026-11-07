@@ -253,6 +253,26 @@ def annotate_lindia_search(entries):
     return entries
 
 
+def annotate_iacchos_search(entries):
+    """Issue #58 : deux interprétations, deux URL canoniques, sans doublon."""
+    distinctions = {
+        "/chapitres/comparatif/volume-cclxix-grenouilles-iacchos-choeur-inities-purete-rituelle-citoyennete-405/": (
+            "Volume 269 · Grenouilles 316–459 : purification politique, stasis, "
+            "corruption, limites du jugement civique et droit de contester. "
+            "Complément acoustique : volume 273."
+        ),
+        "/chapitres/comparatif/volume-cclxxiii-grenouilles-iacchos-inities-purete-exclusions-politiques-memoire-eleusis-405/": (
+            "Volume 273 · Grenouilles 312–459 : auloi, Iacchos, mémoire "
+            "processionnelle, reconnaissance des initiés et politique de l'écoute. "
+            "Complément civique : volume 269."
+        ),
+    }
+    for entry in entries:
+        if entry["url"] in distinctions:
+            entry["excerpt"] = distinctions[entry["url"]][:190]
+    return entries
+
+
 def reindex(chapters):
     index_path=OUT/"search.json"
     if not index_path.exists():
@@ -331,6 +351,7 @@ def reindex(chapters):
     from tragedy_work_identity import annotate_search
     annotate_search(ROOT, entries)
     annotate_lindia_search(entries)
+    annotate_iacchos_search(entries)
     write("search.json",json.dumps(entries,ensure_ascii=False,separators=(",",":")))
     listing='<ul class="listing">'+''.join('<li><a href="'+html.escape(e["url"],quote=True)+'">'+html.escape(e["title"])+'</a></li>' for e in entries)+'</ul>'
     write("rubriques/index.html",render("Tous les dossiers","<h1>Tous les dossiers</h1><p>"+str(len(entries))+" dossiers publics indexés.</p>"+listing))
