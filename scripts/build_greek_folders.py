@@ -70,6 +70,9 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Damia et Auxésia : cultes locaux, variantes épigraphiques et rites féminins.
+    # Appliquer uniquement au chapitre attribué par Actions.
+    (r'^damia auxesia\b', 'sanctuaires', 'Égine, Épidaure et Trézène — Damia et Auxésia'),
     # Mélampous : devin héroïque à classer parmi les héros après attribution
     # du numéro par le workflow ; jamais de lien anticipé vers la file inbox.
     (r'^melampous\b', 'heros', 'Mélampous — mantique, animaux et pouvoir argien'),

@@ -2,7 +2,7 @@
   "generated_at": "2026-11-07",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 92,
+  "count": 94,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -3004,6 +3004,114 @@
       ],
       "methodology": "Image 2D photoréaliste à apparence 3D, artistique, non mesurable et non géoréférencée ; voir notice pour les degrés d’incertitude. La documentation institutionnelle décrit les vestiges, pas les détails produits par génération.",
       "publication_status": "fichier_prepare_non_publie_verification_https_requise"
+    },
+    {
+      "id": "OIN-NEO-001",
+      "slug": "oiniades-neoria-cales-navires-vers-320-av-jc",
+      "title": "Oiniades (Acarnanie) — néoria et hangars navals creusés dans le roc, vers 320 av. J.-C.",
+      "period": "Fin du IVe siècle av. J.-C., évocation vers 320 av. J.-C. ; premières installations situées au début du IVe siècle, avec usage prolongé pendant l’époque hellénistique.",
+      "caption": "Reconstitution visuelle photoréaliste des néoria d’Oiniades : rampes à navires creusées dans la falaise et anciens bassins portuaires. Toitures, bateaux et rivage restent hypothétiques.",
+      "commentary": "Les néoria (νεώρια) d’Oiniades sont situés près du port septentrional de cette cité grecque d’Acarnanie, dans la basse vallée de l’Achéloos. Ce complexe de hangars à navires est creusé dans le calcaire : des rampes longues et inclinées permettaient de tirer des bâtiments de guerre hors de l’eau pour les abriter, les réparer et les entretenir. Le ministère grec de la Culture décrit six neosoikoi et des parois rocheuses d’une hauteur atteignant approximativement onze mètres. Il situe les premières constructions au début du IVe siècle av. J.-C. La littérature archéologique mentionne aussi cinq rampes regroupées dans une chambre ; ce comptage différent peut dépendre du sens donné à « hangar », « abri » ou « cale » et des états de construction. La photographie des ruines ne permet pas de trancher cette question sans étude des plans. Les recherches de J. M. Sears (1904) et de Lazaros Kolonas documentent les structures, tandis que l’étude de la céramique par Vasiliki Tsantila atteste une activité jusqu’à la fin du IIe ou au début du Ier siècle av. J.-C. L’année 320 av. J.-C. est donc une **date d’évocation** au sein d’une longue période d’usage : ce n’est pas une datation stratigraphique propre à chaque toiture. L’image représente un port encore navigable avec des rampes rocheuses, une superstructure de poteaux et de toitures en tuiles, des ouvriers tirant une embarcation à rames et des outils de manutention. Les couvertures réelles, leur nombre, leur géométrie, leurs matériaux et les engins de halage ne sont pas conservés ; ces parties sont librement interprétées. Le navire n’est pas une épave documentée à Oiniades ; sa longueur, son étrave, sa peinture et ses équipements sont artistiques. La paléogéographie demande une vigilance supplémentaire : l’ensablement, l’évolution des bras de l’Achéloos et les environnements lagunaires ont profondément modifié les bassins. L’image représente une eau bleue dégagée pour rendre le fonctionnement du port intelligible ; elle ne vaut pas restitution de la salinité, des niveaux d’eau ni du dessin exact du littoral au IVe siècle. Les costumes, végétaux, outils et personnages sont interprétatifs. Aucune des institutions citées n’a conçu ni approuvé cette image. Il ne s’agit ni d’un relevé géoréférencé, ni d’une photographie, ni d’un modèle 3D archéométrique.",
+      "certainty": "Élevé : implantation à Oiniades en Acarnanie, usage naval, rampes rocheuses, abris taillés dans le calcaire et utilisation à l’époque classique puis hellénistique. Moyen : comptage de six abris (source ministérielle), organisation des rampes, chronologie des premières phases et connexion avec le bassin portuaire du IVe siècle. Faible : silhouette et couverture des hangars, architecture des charpentes et piliers, disposition exacte des abris, bateaux, poulies et gestes de halage, littoral antique, couleurs, objets, costumes, végétation et lumière.",
+      "source_url": "https://allofgreeceone.culture.gov.gr/en/venues/ancient-oeniadae/",
+      "secondary_sources": [
+        "https://doi.org/10.2307/496963",
+        "https://www.grissh.gr/article/54ad043fd36a36c46c00049b",
+        "https://www.didaktorika.gr/eadd/handle/10442/26322?locale=en",
+        "https://journals.openedition.org/geomorphologie/645?lang=en",
+        "https://www.ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/Blackman1982-AncientHarbours.pdf"
+      ],
+      "src": "/assets/reconstitutions-3d/oiniades-neoria-cales-navires-vers-320-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/oiniades-neoria-cales-navires-vers-320-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, interprétative et non métrique",
+      "provenance": "Création originale assistée par génération d'image pour MYTHOS ; sans interface, logo, légende ni schéma 2,5D dans les pixels. Sources scientifiques non cautionnantes.",
+      "sha256": "935b322ce24f1fdcf7924246655d7e36a2a264db27b793638cb37b95b75f97b4",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/oiniades-neoria-cales-navires-vers-320-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Ministère grec de la Culture — Néoria d’Oiniades : six abris à navires, datation et conservation",
+          "url": "https://allofgreeceone.culture.gov.gr/en/venues/ancient-oeniadae/"
+        },
+        {
+          "label": "J. M. Sears, « Oeniadae: VI. The Ship-Sheds », American Journal of Archaeology 8 (1904), 227–237",
+          "url": "https://doi.org/10.2307/496963"
+        },
+        {
+          "label": "L. Kolonas, « Excavations at Oiniadai: the shipsheds », Archaiognosia 6 (1989), 153–159",
+          "url": "https://www.grissh.gr/article/54ad043fd36a36c46c00049b"
+        },
+        {
+          "label": "V. Tsantila, étude des céramiques hellénistiques des néoria (thèse, 2012)",
+          "url": "https://www.didaktorika.gr/eadd/handle/10442/26322?locale=en"
+        },
+        {
+          "label": "Étude géoarchéologique — « Silting up Oiniadai’s harbours »",
+          "url": "https://journals.openedition.org/geomorphologie/645?lang=en"
+        },
+        {
+          "label": "D. J. Blackman, « Ancient Harbours in the Mediterranean », 1982",
+          "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/Blackman1982-AncientHarbours.pdf"
+        }
+      ],
+      "primary_texts": [
+        "Le rendu repose sur les vestiges archéologiques et des études géomorphologiques, non sur une description antique de l’élévation précise des néoria."
+      ],
+      "methodology": "Visualisation interprétative de synthèse. Ne pas inférer de métriques architecturales ou de paléogéographie à partir des pixels.",
+      "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+    },
+    {
+      "id": "AIE-THE-001",
+      "slug": "aigeira-theatre-cavea-proskenion-vers-250-av-jc",
+      "title": "Aigeira (Achaïe) — théâtre hellénistique, koilon et proskènion, vers 250 av. J.-C.",
+      "period": "Première moitié du IIIe siècle av. J.-C. ; construction estimée vers 280–250 ; évocation conventionnelle vers 250 av. J.-C.",
+      "caption": "Reconstitution numérique photoréaliste interprétative depuis le koilon du théâtre grec d’Aigeira vers son orchestra, un proskènion et le golfe de Corinthe ; architecture scénique, gradins complétés et personnages conjecturaux.",
+      "commentary": "L'ancienne Aigeira (Aigeira/Aigira), en Achaïe sur la rive méridionale du golfe de Corinthe, est documentée par les fouilles systématiques de l'Institut archéologique autrichien depuis 1972 et par les services archéologiques grecs. La ville, connue aussi des sources littéraires grecques, connaît une forte monumentalisation à l'époque hellénistique, notamment autour du théâtre et de plusieurs édifices cultuels. Le koilon du théâtre occupe une pente rocheuse, au nord de l'acropole, avec une vue remarquable sur le golfe de Corinthe, vers 350 mètres au-dessus de la mer. L'Éphorie des Antiquités d'Achaïe attribue la construction du théâtre à la première moitié du IIIe siècle av. J.-C., vers 280–250 av. J.-C., en parallèle à l'affirmation de la Confédération achéenne. L'année 250 av. J.-C. retenue dans cette visualisation désigne un horizon possible d'usage de l'édifice et non une date de chantier attestée au millésime près. Le théâtre comporte un koilon en fer à cheval, en partie creusé dans le calcaire et complété de sièges de pierre, divisé en secteurs par des escaliers et en deux zones par un diazoma. Les résultats des fouilles mentionnent onze kerkides et douze escaliers, une capacité évaluée à environ trois mille spectateurs, ainsi qu'une orchestra largement taillée dans le rocher, entourée d'un caniveau de drainage. Le diamètre d'environ 14,40 mètres donné dans les études de restitution ne constitue pas une mesure que l'on puisse déduire de notre image. Des restes architecturaux documentent un bâtiment de scène hellénistique, avec un proskènion d'ordre dorique ; des restitutions savantes proposent une longueur d'environ 15,40 mètres pour le proskènion et un dispositif de circulation latérale. L'organisation fine des rampes et de la scène, les superstructures et leur chronologie précise ont fait l'objet de discussions dans la littérature spécialisée. La présente scène ne montre volontairement pas la monumentale scaenae frons de la période impériale, attribuée à une phase romaine ultérieure, notamment à l'époque d'Hadrien. L'image propose une vue depuis les gradins hauts vers une orchestra en contrebas et un bâtiment de scène grec, avec un horizon marin comparable au paysage du site. Il ne s'agit ni d'une reconstitution métrique de la cavea, ni d'une maquette élaborée à partir de chaque bloc mesuré : l'alternance des sièges, la couverture de tuiles, les hauteurs de mur, le nombre de colonnes, les ouvertures et la texture des pierres sont produits par interprétation artistique. Certaines assises et surfaces sont figurées comme intactes alors que leur état fouillé est lacunaire ; les personnes, vêtements, attitudes, couleurs, arbres et éclairages sont fictifs. La position réelle du golfe, la perspective du paysage et la relation topographique exacte des constructions sont simplifiées dans le rendu. Le secteur voisin du théâtre comprend au cours des IIIe–IIe siècles plusieurs petits monuments cultuels et un temple périptère, mais leurs phases ne doivent pas être artificiellement additionnées à une date unique ; c'est pourquoi ils ne sont pas décrits dans cette image comme un ensemble restitué avec certitude en 250 av. J.-C. Les publications de l'Institut archéologique autrichien et de l'Éphorie permettent de distinguer des éléments attestés, des propositions de restitution et de simples détails d'ambiance. Cette création originale d'apparence 3D photoréaliste générée pour MYTHOS est un support de médiation, non un relevé photogrammétrique, un rendu géoréférencé ou un résultat validé par les institutions citées. Aucun menu, texte explicatif, infographie 2,5D ni filigrane n'est incrusté dans les pixels.",
+      "certainty": "Élevé — présence du théâtre à Aigeira en Achaïe, implantation sur versant rocheux dominant le golfe de Corinthe ; construction au IIIe siècle av. J.-C. ; koilon en fer à cheval, gradins taillés dans le roc et complétés en pierre ; orchestra, drainage, vestiges d’un bâtiment de scène et remaniements romains ultérieurs. Moyen — division du koilon en onze secteurs et douze escaliers, restitution des sièges manquants, existence et forme générale du proskènion dorique, capacité d’environ 3 000 spectateurs, apparence d’un état en service vers 250 av. J.-C. Faible — hauteur et détails des deux étages du bâtiment de scène, position exacte des portes et colonnes, murs et toitures reconstruits, teintes, éléments de décor, dimensions perceptibles en perspective, personnages, paysage lointain, végétation et épisode représenté.",
+      "source_url": "https://efaacha.culture.gov.gr/archaiologikos-choros-aigeiras/",
+      "secondary_sources": [
+        "https://www.oeaw.ac.at/en/oeai/institute/branches/athens/excavations-projects/aigeira",
+        "https://chronique.efa.gr/?id=21756&r=report",
+        "https://www.persee.fr/doc/topoi_1161-9473_1991_num_1_1_1454",
+        "https://www.oeaw.ac.at/en/oeai/research/historical-archaeology/historical-archaeology-in-the-mediterranean/aigeira-urbanism"
+      ],
+      "src": "/assets/reconstitutions-3d/aigeira-theatre-cavea-proskenion-vers-250-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/aigeira-theatre-cavea-proskenion-vers-250-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+      "provenance": "Image 2D originale générée par intelligence artificielle pour MYTHOS. Sans incrustation de menu, titre, infographie 2,5D, texte ni logo ; aucune validation institutionnelle de la restitution n’est revendiquée.",
+      "sha256": "114cfcc93c49b745461125a4478afd8b00bc61033d75d1a5e5f6339e3ae28017",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/aigeira-theatre-cavea-proskenion-vers-250-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Éphorie des Antiquités d'Achaïe (ministère hellénique de la Culture) — site du théâtre antique d'Aigeira, datation et architecture",
+          "url": "https://efaacha.culture.gov.gr/archaiologikos-choros-aigeiras/"
+        },
+        {
+          "label": "Institut archéologique autrichien / Académie autrichienne des sciences — Aigeira, fouilles et ensemble monumental hellénistique",
+          "url": "https://www.oeaw.ac.at/en/oeai/institute/branches/athens/excavations-projects/aigeira"
+        },
+        {
+          "label": "Chronique des fouilles en ligne, École française d'Athènes — Aigeira, campagne de 1976 (G. Touchais, BCH 101, 1977, p. 568–569)",
+          "url": "https://chronique.efa.gr/?id=21756&r=report"
+        },
+        {
+          "label": "Revue Topoi (1991), L'architecture des théâtres en Grèce (1980–1989) — restitution du théâtre d'Aigeira et discussions autour de Gogos",
+          "url": "https://www.persee.fr/doc/topoi_1161-9473_1991_num_1_1_1454"
+        },
+        {
+          "label": "Institut archéologique autrichien — Recherches sur l'urbanisme d'Aigeira, prospection et chronologie",
+          "url": "https://www.oeaw.ac.at/en/oeai/research/historical-archaeology/historical-archaeology-in-the-mediterranean/aigeira-urbanism"
+        }
+      ],
+      "primary_texts": [
+        "Pausanias, Description de la Grèce, livre VII (Achaïe), évoque la cité et ses sanctuaires, mais ne fournit pas de description architecturale exploitable du théâtre dans cet état."
+      ],
+      "methodology": "Création originale photoréaliste issue d’une synthèse critique des sources archéologiques : datation conventionnelle, distinction du réel documenté et des compléments interprétatifs, sans prétention à la précision métrique ni validation scientifique du rendu."
     }
   ]
 }
