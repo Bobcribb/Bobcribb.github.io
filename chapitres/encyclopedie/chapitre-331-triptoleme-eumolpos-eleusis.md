@@ -119,3 +119,14 @@ Première divergence : le rôle de Triptolème est relativement discret dans l'h
 **Attesté :** existence du sanctuaire et de ses monuments ; culte de Déméter et Korè ; traditions littéraires dès l'époque archaïque ; rôle des familles religieuses et des processions dans les périodes documentées. **Récits mythiques :** Déméter nourrice de Démophon ; char de Triptolème ; conflit d'Eumolpos et d'Érechthée. **Hypothèses :** valeur politique de la diffusion du blé ; interprétation des récits comme mémoire de l'intégration d'Éleusis ; significations particulières des serpents dans chaque image.
 
 **Index de navigation :** Grèce antique → Déméter et Korè → Éleusis → Triptolème / Eumolpos ; Héros → Triptolème ; Cultes → Mystères d'Éleusis ; Institutions → Eumolpides et Kérykes ; Archéologie → Télestérion ; Iconographie → Grand Relief d'Éleusis. **Chapitre antérieur :** 330, Hippothoon, Alopé et Cercyon. **Chapitre suivant envisagé :** 332, Érechthée, Praxithéa et les Hyacinthides : sacrifice familial et défense d'Athènes (à vérifier contre la progression réelle avant rédaction).
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Passage antique contrôlé.** *Hymne homérique à Déméter*, vers **473–480** : Déméter transmet des prescriptions rituelles à **Triptolème, Dioclès, Eumolpos et Céléos** ; l'hymne insiste également sur la réserve entourant les mystères. Edition/traduction pédagogique du **Center for Hellenic Studies, Harvard** : https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/. Cette attestation **n'est pas un récit historique vérifié de l'origine institutionnelle des Eumolpides**, et ne permet pas de restituer le rituel initiatique lui-même.
+
+**Deux objets matériels distincts :** hydrie attique à figures rouges attribuée au **Peintre des Niobides**, v. **460–450 av. J.-C.**, représentant Triptolème, Déméter et Perséphone, **Metropolitan Museum 41.162.98**, https://www.metmuseum.org/art/collection/search/254270 ; **dix fragments romains** d'une copie du grand relief éleusinien, époque augustéenne, **Met 14.130.9**, https://www.metmuseum.org/art/collection/search/248899. Dans le second cas, les fragments sont montés dans un **moulage** de l'original grec, conservé à Athènes : ne jamais présenter l'ensemble comme l'original classique.
+
+**Cadrage français :** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* (**1990**), lecture des mythes et institutions sans réduction à une simple chronique. Référence de méthode, **pas de commentaire spécifique attribué sans passage contrôlé**. **Statuts :** hymne et objets attestés ; identification de l'adolescent du relief comme Triptolème discutée selon la notice du musée ; généalogies sacerdotales inférées ou reconstruites.

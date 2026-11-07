@@ -319,3 +319,14 @@ Les textes grecs et anglais ne sont pas cités littéralement sans collation ; l
 **Précédents :** CXXIII James, CXXIV Ostrom, CXXV Pitkin. **Présent :** CXXVI Mead. **Suite suggérée sous réserve d'un contrôle des doublons :** CXXVII Erving Goffman, présentation de soi, ordre de l'interaction et rites sociaux.
 
 **Statut :** texte destiné à la branche main du dépôt GitHub public MYTHOS ; aucune affirmation de déploiement sur bobmythos.fr n'est déduite du seul commit. WordPress et Floot restent intacts.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Histoire éditoriale indispensable.** George Herbert Mead, *Mind, Self, and Society: From the Standpoint of a Social Behaviorist*, Chicago, University of Chicago Press, **1934**, est un **ouvrage édité après la mort du philosophe** par **Charles W. Morris**, à partir de notes et cours : la leçon imprimée ne doit pas être automatiquement traitée comme un manuscrit autographe définitif. Catalogue de l'Université de Chicago : https://www.lib.uchicago.edu/collex/exhibits/university-chicago-centennial-catalogues/university-chicago-faculty-centennial-view/george-herbert-mead-1863-1931-philosophy/ ; bibliographie critique : https://plato.stanford.edu/archives/spr2020/entries/mead/.
+
+**Édition française vérifiée :** *L'Esprit, le soi et la société*, Presses universitaires de France, **2006**, nouvelle traduction et introduction de **Daniel Cefaï et Louis Quéré**, collection *Le Lien social*, ISBN **9782130554165**, https://mediatheque.philharmoniedeparis.fr/edutheque/doc/ALOES/1098989/l-esprit-le-soi-et-la-societe-george-herbert-mead. **Compte rendu français identifié :** Pierre Tripier, *Sociologie du travail* **50/1 (2008)**, p. **100–102**, DOI **10.1016/j.soctra.2007.12.007**, https://www.em-consulte.com/article/127606/george-herbert-mead-l-esprit-le-soi-et-la-societe-.
+
+**Limites :** la version anglaise de 1934, la traduction française de 2006 et l'édition critique de 2015 ne sont **pas des éditions strictement équivalentes** ; aucune pagination interne ni citation verbatim n'est imputée ici sans collation. La comparaison avec la *polis* grecque reste une lecture philosophique contemporaine et non une thèse historique de Mead.

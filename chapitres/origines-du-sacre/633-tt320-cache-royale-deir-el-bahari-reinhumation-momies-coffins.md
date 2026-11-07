@@ -256,3 +256,14 @@ La cache permet de comprendre un principe historique essentiel pour l'encyclopé
 - [R9] Émile Durkheim, *Les Formes élémentaires de la vie religieuse*, 1912 ; G. W. F. Hegel, *Phénoménologie de l'esprit*, 1807 ; Friedrich Nietzsche, *La Généalogie de la morale*, 1887 ; Mircea Eliade, *Le Sacré et le Profane*, 1957. Lectures philosophiques présentées comme comparaisons, non comme témoignages anciens.
 
 **Notice méthodologique.** Les sources bibliographiques et descriptions institutionnelles ci-dessus ont été contrôlées ; la consultation directe des photographies de chaque *docket* et la collation des signes hiératiques restent nécessaires avant toute édition philologique ligne à ligne. Aucun numéro de ligne ni citation égyptienne n'a été inventé. Le chapitre demeure indépendant du dossier consacré au tombeau KV35 et du précédent chapitre sur les procès de pillage ramessides.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Identifiant archéologique :** tombe thébaine **TT320**, également **DB320**, cachette royale de **Deir el-Bahari**. L'ensemble réunit des corps royaux réinhumés et du matériel de la famille des grands prêtres d'Amon, dans une séquence de transferts et de réutilisations complexe. Il ne représente ni une tombe construite pour tous ses occupants ni un dépôt unique.
+
+**Publication française directement examinée :** Michel Dewachter, « Contribution à l'histoire de la cachette royale de Deir el-Bahari », *Bulletin de la Société française d'égyptologie* **74 (1975)**, p. **19–32**, DOI **10.3406/bsfe.1975.1570**, https://www.persee.fr/doc/bsfe_0037-9379_1975_num_74_1_1570. **Page 19** : rappel que l'enlèvement accéléré du contenu en **juillet 1881** ne constitue pas une fouille avec relevé systématique des positions. La majorité des positions originelles d'objets reste donc incertaine et les transferts antiques multiples ne peuvent pas être reconstitués sans les étiquettes hiératiques.
+
+**Bibliographie de contexte :** Nicolas Grimal, *Histoire de l'Égypte ancienne* (1991), et Françoise Dunand / Christiane Zivie-Coche, *Hommes et dieux en Égypte* (2006), **passages précis non collationnés**. **État de preuve :** provenance du cache attestée, réinhumations documentées, ordre précis de dépôt et itinéraires individuels souvent inférés. Les inventaires de momies et inscriptions particulières requièrent confrontation objet par objet ; aucun numéro non contrôlé n'est ajouté.

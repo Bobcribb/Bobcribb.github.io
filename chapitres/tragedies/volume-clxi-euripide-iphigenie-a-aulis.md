@@ -307,3 +307,14 @@ Toute image devra être accompagnée de son inventaire, de sa datation, de sa pr
 L'incertitude du dénouement transmis ne doit pas être cachée. Elle renforce au contraire l'exigence critique : le salut mythique d'Iphigénie et les vers précis qui racontent ce salut ne possèdent pas le même statut documentaire. La tragédie demeure une réflexion fondamentale sur la responsabilité, la violence du sacré et les usages politiques de la nécessité.
 
 **Protection éditoriale :** volume CLXI autonome ; aucune suppression ni modification des chapitres antérieurs ; doublons de numérotation conservés pour audit ; aucune donnée privée ni intervention WordPress.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Passage ancien problématique.** Dans Euripide, *Iphigénie à Aulis*, la séquence **1475–1532** précède la conclusion transmise et fait partie du débat sur l'état du texte : une attribution certaine de tous les vers finaux à Euripide serait injustifiée. La pièce fut créée **après la mort d'Euripide**, dans un contexte de remaniements dont l'extension reste débattue. Le texte grec des vers précis devra être collationné contre les éditions critiques ; ce dossier ne propose aucune traduction nouvelle.
+
+**Recherche internationale réellement identifiée (résumé de l'éditeur consulté, chapitre intégral non collationné).** David Kovacs, « Euripides’ Iphigenia Aulidensis », dans *The Oxford Handbook of Greek and Latin Textual Criticism*, **3 avril 2026**, p. **507–516**, DOI **10.1093/9780191841392.003.0045**, https://academic.oup.com/edited-volume/62564/chapter-abstract/560048697. Kovacs **propose** de distinguer le texte laissé par le poète, les interventions d'Euripide le Jeune et des révisions de reprises au IVe siècle : cette stratification est une thèse critique, non un fait matériel intégralement démontré pour chaque vers.
+
+**Chercheuse française :** Nicole Loraux, *Façons tragiques de tuer une femme* (1985), cadre de réflexion sur les violences et la mortalité féminine dans la tragédie ; **ouvrage et passages pertinents non intégralement collationnés ici**. Il serait abusif de lui attribuer une prise de position sur l'authenticité de 1475–1532. **Preuve :** transmission textuelle ; **hypothèse :** attribution stratifiée ; **interprétation :** lecture éthique du sacrifice.
