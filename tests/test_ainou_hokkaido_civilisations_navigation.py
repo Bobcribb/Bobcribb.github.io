@@ -16,6 +16,7 @@ SLUG = "civilisations-ainou-hokkaido-sakhaline-cultures-vivantes"
 URL = f"/bibliotheque-mythologies-du-monde/{SLUG}/"
 SOURCE = COLLECTION / SLUG / "index.html"
 JOMON = COLLECTION / "civilisations-jomon-japon" / "index.html"
+JAPAN = COLLECTION / "civilisations-histoire-japon-coree" / "index.html"
 
 
 class AinouCulturesTest(unittest.TestCase):
@@ -99,6 +100,27 @@ class AinouCulturesTest(unittest.TestCase):
             'nav.reader-bottom[data-reading-owned="true"]')), 1)
         self.assertEqual(self.jomon.select_one('link[rel="canonical"]')["href"],
                          "https://bobmythos.fr/bibliotheque-mythologies-du-monde/civilisations-jomon-japon/")
+
+    def test_japan_korea_general_study_links_back_without_rewriting_it(self):
+        source = JAPAN.read_text(encoding="utf-8")
+        page = BeautifulSoup(source, "html.parser")
+        block = page.select_one("#japon-coree-ainou-parcours")
+        self.assertIsNotNone(block)
+        self.assertEqual(len(block.select('a[href="' + URL + '"]')), 1)
+        self.assertEqual(source.count('href="' + URL + '"'), 1)
+        self.assertIn("Satsumon", block.get_text(" ", strip=True))
+        self.assertIn("Okhotsk", block.get_text(" ", strip=True))
+        self.assertIn("Yamato", block.get_text(" ", strip=True))
+        self.assertEqual(
+            page.select_one('link[rel="canonical"]')["href"],
+            "https://bobmythos.fr/bibliotheque-mythologies-du-monde/civilisations-histoire-japon-coree/"
+        )
+        self.assertEqual(
+            len(page.select('nav.reader-bottom[data-reading-owned="true"]')), 1
+        )
+        self.assertEqual(
+            len(page.select("h2.wp-block-heading")), 9
+        )
 
     def test_classification_auto_in_asia_without_shared_generator_edit(self):
         groups = get_civilisations([{"url": URL, "title": "Cultures aïnoues"}])
