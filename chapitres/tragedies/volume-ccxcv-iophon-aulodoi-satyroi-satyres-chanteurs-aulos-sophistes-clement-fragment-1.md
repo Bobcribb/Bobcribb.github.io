@@ -1,0 +1,530 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXCV (295)
+
+# Iophon, *Les Satyres chanteurs à l’aulos* (Αὐλῳδοὶ Σάτυροι) : musique, compétence poétique et invention satyrique de la scène
+
+**Monographie universitaire intégrale — étude philologique, dramatique, musicale, philosophique et iconographique.** État documentaire : 7 novembre 2026. Collection MYTHOS « tragédies grecques », comprenant dans sa progression les drames satyriques composés par les poètes tragiques. Texte public destiné exclusivement à la file transactionnelle GitHub. Le volume propre à cette étude sera fixé par le reçu de publication ; les variables CCXCV et 295 ne réservent aucun numéro.
+
+**Auteur :** Iophon (Ἰοφῶν), fils de Sophocle, poète dramatique athénien actif dans le dernier tiers du Ve siècle av. J.-C.  
+**Titre antique :** Αὐλῳδοὶ Σάτυροι, littéralement « Satyres chanteurs accompagnés de l’aulos » ; formes abrégées *Αὐλῳδοί*, *Aulodoi*, « Les chanteurs à l’aulos ».  
+**Genre :** drame satyrique perdu, et non tragédie sérieuse conservée ; son inclusion suit le répertoire des concours et des auteurs tragiques.  
+**Fragment assigné :** FragTrag.1, **Iophon, fr. 1** = *Tragicorum Graecorum Fragmenta* I, **Iophon 22 F 1**.  
+**Source transmettrice :** Clément d’Alexandrie, *Stromates* I, 3, 24, 3 ; la ponctuation détaillée varie selon l’édition.  
+**Niveau de certitude :** le titre et la citation sont attestés dans leur tradition éditoriale ; l’identité du chœur, le concours éventuel, les personnages, l’intrigue, la mythologie choisie et les circonstances de représentation sont conjecturaux.  
+**Principe :** aucun dialogue, épisode ou vers grec supplémentaire n’est présenté comme ancien. Les commentaires de Platon, Aristote, Hegel et Nietzsche sont des outils de lecture distincts de la documentation propre à Iophon.
+
+---
+
+## I. Pourquoi une œuvre satyrique dans l’encyclopédie des tragédies ?
+
+La progression savante doit commencer par une correction des catégories. Les *Satyres chanteurs à l’aulos* ne sont pas une « tragédie » à laquelle on aurait ajouté par hasard des personnages comiques ; ils relèvent du **drame satyrique**. Dans l’Athènes classique, ce genre fut longtemps associé à la compétition tragique : les poètes tragiques présentaient des ensembles dont le drame satyrique constituait traditionnellement un complément. Il existe ainsi des raisons historiques de le traiter dans la même collection, tout en respectant son identité.
+
+À la différence de la comédie ancienne, le drame satyrique met généralement en contact des héros ou des personnages de récits mythiques avec un chœur de satyres, souvent sous l’autorité de Silène. Le registre comporte mouvements choraux, renversements corporels, désirs, peurs, musique, jeux d’apparence. Il ne se définit pas simplement par une absence de gravité : la rencontre d’un monde mythique prestigieux et d’un collectif satyrique dérange les hiérarchies et peut rendre visible le mécanisme même de la représentation.
+
+De l’œuvre d’Iophon, il reste un titre et un bref passage. Cela exclut toute restitution ferme d’une fable, mais rend possible une monographie de l’objet textuel lui-même : pourquoi qualifier les satyres par une pratique musicale ? Quel sens possède le mot « sophistes » à l’époque ? Une troupe de virtuoses arrive-t-elle ou les satyres se prétendent-ils virtuoses ? Quelle part de l’action pourrait relever de la parodie de concours et quelle part demeure indécidable ?
+
+Cette étude entend répondre exactement à cette dernière exigence : montrer les problèmes, hiérarchiser les solutions et conserver les vides. Pour ce cas particulièrement fragmentaire, l’approfondissement philologique est plus précieux qu’un synopsis artificiel.
+
+## II. Contrôle de continuité : l’œuvre après *Actéon*
+
+La concordance scientifique du projet **FragTrag.1** (Université de Patras) situe, dans le dossier d’Iophon, **1. Ἀκταίων**, puis **2. Αὐλῳδοὶ Σάτυροι**, suivis immédiatement de **Iophon, fr. 1**, puis **3. Ἀχιλλεύς**. Il ne faut donc pas sauter le drame satyrique pour passer directement au titre d’Achille ; l’ordre des œuvres est celui de cette concordance de travail, non une chronologie de représentations que les textes ne permettent pas d’établir.
+
+La monographie antérieure sur *Actéon*, enregistrée dans la file publique sous son UUID propre, reste indépendante. Son sujet porte sur le chasseur et Artémis, avec des versions mythographiques dont aucun vers ne peut être attribué à Iophon. Les *Satyres chanteurs à l’aulos* présentent une autre matière : un titre collectif et **un fragment verbal**, lié à l’arrivée d’un groupe qualifié de « sophistes ». Les textes ne sont pas deux épisodes d’un même drame.
+
+Par la même méthode, le titre *Achille* doit demeurer réservé à son étude future, lorsque la file en prendra réellement possession. Il ne s’agit pas d’une promesse de numéro. L’ordre dans FragTrag.1 sert uniquement à empêcher les lacunes et les doubles soumissions.
+
+La recherche documentaire a également distingué les titres attribués à **Cléophon**, autre poète dont la liste antique peut recouper celle d’Iophon. La proximité de certains intitulés ne constitue pas un droit de fusionner les notices. Même le nom propre d’Iophon peut être confondu par un lecteur avec celui d’Ion de Chios ; ce sont deux auteurs différents, présents dans une compétition tragique ancienne, et leurs œuvres doivent rester distinctes.
+
+## III. Échelles de preuve et terminologie
+
+Nous utiliserons quatre indicateurs. **[A] Attesté** : le passage conservé, sa citation par Clément, le titre dans l’édition et les correspondances critiques. **[B] Inférence** : hypothèse soutenue par les usages linguistiques ou les parallèles formels. **[C] Reconstruction possible** : modèle de situation compatible avec le passage mais non attesté comme scène d’Iophon. **[D] Comparaison** : texte d’un autre auteur, vase, représentation, théorie philosophique ou rituel servant à comprendre un phénomène sans prouver une influence directe.
+
+La distinction fondamentale est celle du **fragment** et de son **contexte de transmission**. Clément d’Alexandrie ne résumait pas l’intrigue d’Iophon. Son propos concerne les noms donnés aux hommes réputés compétents, les *sophistes*, les poètes et les professionnels de la parole ; il cite Iophon à côté de Cratinos pour éclairer un usage. Le contexte étymologique ou polémique de Clément est tardif par rapport au Ve siècle av. J.-C.
+
+Un titre pluriel ne prouve pas mécaniquement l’identité du chœur ; un terme technique ne prouve pas l’existence d’un concours dans la pièce ; le fait qu’un aulète accompagnait les représentations n’implique pas un instrument manipulé sur scène par les satyres. Nous distinguerons l’activité performative de l’acteur, la figure fictive incarnée et le musicien professionnel.
+
+Cette méthode impose de signaler les limites d’une traduction. Une phrase isolée ne permet pas d’attribuer une intention ironique à son locuteur ; elle en permet seulement l’examen conditionnel.
+
+## IV. Iophon dans les concours athéniens : ce que l’on sait de l’auteur
+
+Iophon est traditionnellement présenté comme le fils de Sophocle et de Nicostratè. Les testimonia rassemblés dans FragTrag.1 récapitulent les sources anciennes et leurs variantes. Sa carrière est située dans la seconde moitié du Ve siècle. Il obtint le deuxième prix dans un concours de 428 av. J.-C. où Euripide fut premier et Ion de Chios troisième, selon la tradition didascalique ; les détails des œuvres jouées ne sont pas conservés dans un dossier complet pour Iophon.
+
+Dans les *Grenouilles* d’Aristophane, vers 73–78, Dionysos évoque Iophon parmi les auteurs tragiques encore vivants après la disparition des grands poètes, mais le ton comique laisse planer une interrogation sur son autonomie. La formulation ancienne est satirique, non un rapport d’expertise littéraire. Ce témoignage prouve que le nom était reconnaissable à une partie du public en 405, non que nous puissions attribuer certaines pièces à Sophocle sous un autre nom.
+
+Une anecdote tardive, chez Cicéron (*De senectute* 7, 22), prétend qu’Iophon aurait demandé l’interdiction ou la mise sous tutelle de son père en raison de son âge et que Sophocle aurait répondu par la lecture de vers d’*Œdipe à Colone*. La tradition est célèbre, mais sa fonction exemplaire rend son historicité difficile à établir. Elle n’éclaire en rien le sujet des *Aulodoi*.
+
+Le chiffre d’une cinquantaine de pièces transmis par la tradition lexicographique est également à traiter avec précaution : nous ne possédons pas une liste sûre de toutes ces œuvres, ni le calendrier des tétralogies. L’œuvre étudiée ne peut être datée à partir de la seule biographie présumée de l’auteur.
+
+## V. Un auteur presque totalement perdu
+
+L’état du corpus d’Iophon est extrême. Plusieurs titres sont connus, quelques citations sont conservées, et certains dossiers n’ont pour tout support qu’un intitulé. La distribution matérielle de ces vestiges ne correspond probablement pas à la réception antique : les citations sauvées par les grammairiens et les auteurs chrétiens favorisent les expressions utiles à leurs démonstrations, non les passages qui résumaient le mieux une œuvre.
+
+Dans le cas présent, Clément sauve deux petits vers parce qu’il veut illustrer l’extension sémantique de *sophistês*. Ainsi, l’une des rares phrases anciennes nous arrive par un argument de classification intellectuelle. La pièce pouvait traiter de musique de manière constante, ou n’en faire qu’un ressort comique ; la source ne permet pas de mesurer cette fréquence.
+
+Cette fragmentation impose d’interroger les conditions qui fabriquent notre image d’un poète. Iophon a été comparé à son père dans l’histoire littéraire ; pourtant, faute de textes conservés, les jugements de supériorité ou d’infériorité stylistiques sont peu contrôlables. Le fragment des *Satyres chanteurs* offre une occasion de corriger ce déséquilibre : examiner d’abord ce qu’il dit et ce que son titre veut dire, plutôt que de chercher partout la « main » de Sophocle.
+
+## VI. Le titre grec : Αὐλῳδοὶ Σάτυροι
+
+**[A]** La concordance de Patras transmet l’intitulé **Αὐλῳδοὶ Σάτυροι** et le classe comme deuxième œuvre connue du dossier. La seconde partie désigne les satyres ; la première qualifie leur activité vocale. Elle est beaucoup moins anodine que des traductions rapides telles que « Satyres flûtistes ».
+
+Le terme **αὐλῳδός** est construit sur l’aulos et le chant : il désigne un **chanteur accompagné par l’aulos**, non, normalement, celui qui souffle dans l’instrument. L’**αὐλητής** est l’instrumentiste ; l’**αὐλῳδός** chante sur son accompagnement. Les traductions « joueur de flûte » et « chanteur à la flûte » ne sont donc pas interchangeables.
+
+Un aulos grec comporte en général des anches, et l’image moderne de « flûte traversière » ne rend pas correctement sa famille acoustique. Le mot « flûte » subsiste dans plusieurs traductions traditionnelles, mais le nom grec doit être préféré lorsqu’on étudie le métier. Une personne qui souffle dans un instrument à anche ne peut pas simultanément chanter avec sa bouche de la manière habituelle ; le titre pointe donc, au moins dans l’usage technique, vers une pratique collective où le chanteur et son accompagnateur ont des tâches distinctes.
+
+**[B]** Appliquer ce métier aux satyres peut créer un effet de déplacement : des êtres généralement représentés comme turbulents revendiqueraient une discipline artistique. Mais un sens ironique précis n’est pas contenu dans le titre lui-même ; celui-ci indique d’abord une identité de rôle.
+
+## VII. L’aulos, la voix et la distinction des compétences
+
+Pour comprendre la portée du titre, il faut reconstituer non pas la scène perdue, mais le **champ des pratiques musicales** du monde grec. L’aulos intervient dans des circonstances variées : sacrifices, processions, concours, banquets, entraînements et théâtre. Les usages diffèrent selon les régions, les époques et les contextes sociaux. Il ne s’agit pas d’un instrument exclusivement dionysiaque.
+
+Le théâtre du Ve siècle comportait une pratique d’accompagnement musical, notamment pour le chœur. La référence possible à l’aulète professionnel devient intéressante parce que les spectateurs pouvaient distinguer matériellement, pendant la représentation, la voix collective et le musicien qui soutenait celle-ci. Le drame satyrique pouvait donc jouer avec une réalité immédiatement sensible de sa propre production.
+
+Andrew Barker, *Greek Musical Writings*, vol. I (1984), et M. L. West, *Ancient Greek Music* (1992), fournissent les outils fondamentaux pour distinguer pratiques et catégories. Maarit Kaimio et ses coauteurs insistent précisément, à propos d’Iophon, sur la différence entre chanteurs et instrumentistes.
+
+**[B]** Une étude de l’aspiration des satyres à devenir chanteurs réputés reste plausible. On ne peut cependant déduire de cette compétence l’existence d’une scène de répétition, d’un concours, d’un maître de chant ou d’un aulète nommé. Ce sont des possibles, pas des données.
+
+## VIII. Transmission : Clément d’Alexandrie, *Stromates* I, 3, 24, 3
+
+**[A]** Le témoignage de Clément est la voie de conservation du fragment. Dans un raisonnement sur les mots « sages » et « sophistes », il cite d’abord Cratinos, *Archiloques*, puis Iophon, qui aurait employé un vocable analogue à propos de rhapsodes et d’autres personnes appartenant au monde des spécialistes.
+
+Une traduction de travail du contexte de Clément serait : les Grecs étendent l’appellation de « sophistes » à des hommes habiles dans une activité ; Cratinos use de ce nom pour les poètes ; Iophon en fait de même dans son drame satyrique. L’auteur chrétien discute ensuite les prétentions de la sagesse mondaine en les confrontant à l’Écriture. Le sens théologique de son argument n’est pas nécessairement celui de la pièce ancienne.
+
+L’énoncé retenu par Clément apparaît au sein d’un discours de plusieurs siècles postérieur à Iophon. Nous ignorons si Clément citait de mémoire, à travers un intermédiaire florilégique ou depuis un exemplaire dramatique ; rien ne permet de préciser cette chaîne. Les éditions savantes tiennent compte des variantes et des difficultés de ponctuation.
+
+Il importe aussi de comprendre l’expression « comme le comique » dans le passage du transmetteur : elle renvoie naturellement à la comparaison avec le comique Cratinos qui précède. Elle ne suffit pas à reclasser l’auteur Iophon comme poète de la comédie ancienne ni à annuler l’attribution du titre satyrique.
+
+## IX. Le fragment unique : transcription, traduction, segmentation
+
+**[A]** Le fragment cité dans la bibliographie savante sous **TrGF I, 22 F 1** est le suivant, réparti en deux lignes dans l’étude de Kaimio et collaborateurs :
+
+> καὶ γὰρ εἰσελήλυθεν  
+> πολλῶν σοφιστῶν ὄχλος ἐξηρτυμένος.
+
+**Traduction de travail :** « Car voici qu’est entré un groupe nombreux de spécialistes, tout équipé et prêt. »
+
+La traduction maintient une réserve sur **σοφισταί**, qu’il serait trop simple de rendre systématiquement par « sophistes » dans le sens platonicien de maîtres de rhétorique. Le nom peut désigner ici des hommes de métier, experts de la parole, de la poésie et du chant ; la source précise les rhapsodes et des spécialistes apparentés.
+
+Le groupe nominal ne permet pas de savoir qui prononce les mots ni à qui il s’adresse. Le parfait verbal **εἰσελήλυθεν** présente une arrivée comme accomplie et pertinente pour la situation ; il ne localise pas cette arrivée à un seuil précis du théâtre. Le participe **ἐξηρτυμένος** indique la préparation ou l’équipement du groupe ; rien n’assure qu’il s’agisse d’armes, d’instruments, d’habits, de discours ou d’accessoires de concours.
+
+**[A]** La citation s’arrête là. Toutes les répliques imaginables avant et après sont perdues. Aucune indication ne nomme Hermès, Apollon, Dionysos, Marsyas, Silène, le lieu de la rencontre ou le dénouement. Une édition scientifique doit conserver explicitement ce silence.
+
+## X. Syntaxe : la foule préparée
+
+La syntaxe du passage exige de résister à la paraphrase libre. **ὄχλος** (« foule », « groupe », « multitude ») est au nominatif singulier ; il se combine avec le parfait singulier **εἰσελήλυθεν** (« est entré »). **πολλῶν σοφιστῶν** est un génitif pluriel susceptible de préciser la composition du groupe. L’adjectif verbal **ἐξηρτυμένος**, participe au nominatif masculin singulier, se rapporte naturellement à **ὄχλος**. La foule se présente ainsi comme un sujet grammatical unifié, malgré la pluralité de ses membres.
+
+Cette condensation a une valeur expressive possible : une entrée collective devient une action unique, « une foule est arrivée ». Il est toutefois impossible d’affirmer que la phrase constituait une annonce scénique de parodos ou une description d’entrée chorale. Le vocabulaire décrit une arrivée ; le théâtre dispose de plusieurs moyens de l’évoquer, directement ou indirectement.
+
+Le **καὶ γάρ** initial (« car, en effet », avec valeur additive selon le contexte) suppose une continuité discursive perdue. Nous ne savons pas à quel argument le locuteur ajoutait l’arrivée, ni pourquoi il y trouvait une justification. Ce petit connecteur empêche une restitution sûre de l’ouverture du drame : le fragment ne donne pas nécessairement la première réplique.
+
+La métrique doit être discutée à partir d’une édition critique et de son apparat. La seule répartition en deux lignes ne permet pas de reconstituer une séquence chorale, son rythme musical ni la durée de la scène. Un texte philologique précis est préférable à un rythme inventé.
+
+## XI. Le mot σοφιστής avant la caricature scolaire
+
+L’un des risques majeurs serait de projeter immédiatement sur **σοφιστής** l’image d’un professeur professionnel vendant des leçons de persuasion. Le mot, au Ve siècle et dans des traditions poétiques, a un champ plus souple : habileté, expertise, savoir-faire dans une activité, pratique de la parole, compétence artistique. La nuance peut être admirative, descriptive ou ironique selon la situation.
+
+Clément lui-même cite Cratinos, qui applique le terme aux poètes ; il se sert ensuite d’Iophon pour élargir la catégorie à des rhapsodes. L’interprétation de Kaimio et collaborateurs, p. 48, retient précisément le sens d’**expert en un art**. Des historiens de la philosophie étudient cette ancienne amplitude du mot avant ses spécialisations philosophiques et polémiques.
+
+Dans une phrase dramatique, la réunion de plusieurs experts peut faire apparaître de la concurrence, de l’excès ou du désordre. Toutefois le fragment n’exprime ni admiration explicite ni mépris assuré. L’adjectif « nombreux » et le collectif « foule » peuvent contribuer à un effet comique ; ils ne prouvent pas l’existence d’une caricature de Protagoras, de Gorgias ou de Socrate.
+
+Nous traduirons donc « spécialistes » ou « hommes habiles » lorsqu’il faut éviter l’anachronisme, tout en conservant **sophistes** dans l’apparat et les commentaires lexicaux.
+
+## XII. Les rhapsodes : un groupe nommé par la source secondaire
+
+Clément parle « des rhapsodes et autres » pour éclairer le fragment d’Iophon. Le **rhapsode** est l’interprète de vers épiques, avec des modalités de récitation et de concours qui varient selon la période. Les pratiques rhapsodiques entretenaient un rapport privilégié à Homère, mais il serait trop rapide de réduire tous les rhapsodes à un rôle unique et immuable.
+
+**[A]** La précision « rhapsodes et autres » appartient au contexte de transmission chez Clément ; elle n’est pas un deuxième vers d’Iophon. La phrase citée ne nomme aucun rhapsode, aucun auteur épique et aucune poésie précise. La distinction est décisive : l’historien peut dire que le transmetteur lit ici des spécialistes de la performance poétique ; il ne peut garantir la composition exacte du groupe de la pièce.
+
+**[B]** L’arrivée d’une troupe d’experts devant des satyres qui souhaitent eux-mêmes montrer leur art serait une situation cohérente avec un drame musical. Mais il manque toutes les circonstances : la présence effective des satyres au moment de cette arrivée, le motif d’un rassemblement et la nature de l’épreuve éventuelle.
+
+Parler de rhapsodes permet aussi d’étudier le rapport entre **mémoire d’un poème** et **incarnation spectaculaire**. Un concours de chants suppose une forme de maîtrise héritée ; la satyricité peut déplacer cette compétence vers des corps masqués, mobiles, exposés au rire. Il s’agit ici d’une comparaison dramaturgique, non d’un fragment retrouvé.
+
+## XIII. Cratinos comme premier parallèle : *Archiloques*
+
+La citation de Cratinos par Clément fournit un parallèle plus proche du fragment qu’une comparaison abstraite avec les sophistes philosophiques. Cratinos, poète de la comédie ancienne, mettait en scène des figures et des traditions poétiques ; le contexte de ses *Archiloques* relève d’une réflexion comique sur les auteurs et leurs réputations.
+
+**[A/D]** Le rapprochement dans *Stromates* est textuellement attesté. Il prouve une similitude de vocabulaire vue par Clément ; il ne prouve ni que Cratinos ait imité Iophon, ni l’inverse, ni que leurs pièces aient été contemporaines dans un même programme de concours. Rien n’autorise à transporter dans *Les Satyres chanteurs* les personnages des *Archiloques*.
+
+Le fragment de Cratinos est répertorié dans les éditions de la comédie grecque (*Poetae Comici Graeci*, Cratinus, *Archilochoi*). L’existence d’une formule qui qualifie plusieurs poètes de sophistes montre que le mot peut appartenir à une scène de classement ou de satire littéraire.
+
+**[B]** Les satyres pourraient se confronter à une profession du chant comme les comiques se confrontent aux poètes ; ce modèle explique pourquoi Clément a mis les deux citations à côté. Mais le transmetteur poursuivait une démonstration lexicale personnelle et a pu réunir deux exemples très différents.
+
+Ce paragraphe montre la différence entre **parallèle de langue** et **reconstitution d’une intrigue**.
+
+## XIV. Le problème du genre : ni comédie autonome, ni tragédie sérieuse
+
+Le drame satyrique occupe une zone institutionnelle spécifique : il est composé par des auteurs tragiques, inscrit à un spectacle rituellement marqué et doté d’un collectif choral de satyres. Il peut emprunter aux mythes héroïques, à la danse et aux gestes burlesques, mais son système ne se confond pas avec la satire politique de la comédie ancienne.
+
+La présence de « sophistes », si elle était ironique dans la pièce, ne transformerait pas automatiquement Iophon en Aristophane. Un jeu de ridiculisation des spécialistes est compatible avec plusieurs genres. Inversement, l’absence d’une figure héroïque dans le fragment ne réfute pas un drame satyrique : nous ne possédons que deux vers.
+
+Le titre **Αὐλῳδοὶ Σάτυροι** rend très probable l’appartenance au répertoire satyrique ; la notion de « Satyres chanteurs » peut désigner la fonction d’un chœur, selon l’usage fréquent des titres pluriels. Le terme « satyres » est toutefois inclus au titre et n’apporte pas un argument supplémentaire sur un héros particulier.
+
+Rappelons que seul le *Cyclope* d’Euripide nous est parvenu complet parmi les drames satyriques classiques, tandis que les *Limiers* (*Ichneutai*) de Sophocle sont conservés en partie. Les autres œuvres demandent une méthode par fragments et comparaisons, non la transplantation mécanique des étapes du *Cyclope*.
+
+## XV. Un titre pluriel suffit-il à identifier le chœur ?
+
+Une grande partie du théâtre grec emploie des titres pluriels qui désignent le chœur. Dans le drame satyrique, cette convergence est particulièrement plausible, puisque les satyres constituent une présence chorale caractéristique du genre. **[B]** Il est donc raisonnable d’envisager un chœur de satyres chanteurs.
+
+Cependant, il faut isoler les questions que ce raisonnement ne résout pas. Le nom peut définir un rôle auquel les personnages aspirent, qu’ils usurpent, qu’ils essaient d’imiter ou qu’ils possèdent effectivement dans la fiction. Nous ne savons pas s’ils réussissent leur prestation, si Silène les dirige, si Dionysos les encourage, ni si une autre troupe leur fait concurrence.
+
+La ressemblance des intitulés « Satyres chasseurs », « Satyres athlètes » ou « Satyres forgerons » dans le répertoire comparatif souligne surtout la possibilité de faire exercer aux satyres des métiers inattendus. Elle ne fixe pas la forme précise d’une entrée ni d’un chant.
+
+**[C]** Une hypothèse minimale serait celle d’une troupe qui se présente comme experte en chant, tandis que l’arrivée de véritables spécialistes trouble sa prétention. Ce n’est pas un synopsis d’Iophon, mais une manière de relier titre et fragment sans leur faire dire davantage qu’ils ne disent.
+
+## XVI. L’arrivée : entrée chorale, annonce ou récit ?
+
+Le verbe **εἰσελήλυθεν** donne l’une des rares indications d’action verbale disponibles. Il signifie qu’un groupe est entré ou est arrivé. Mais ce parfait peut être prononcé par quelqu’un qui voit une entrée, par un messager la rapportant, par un personnage la rappelant ou même par un membre du groupe la constatant. La grammaire ne choisit pas entre ces voix.
+
+**[B]** Si le groupe apparaissait à ce moment devant le public, la phrase pouvait tirer son humour de l’écart entre le nom prestigieux d’« experts » et le spectacle réel des arrivants. Si le groupe restait hors scène, une annonce pouvait installer l’attente d’une épreuve de chant. Les deux dispositifs sont compatibles avec l’unique témoin.
+
+Il serait plus difficile de soutenir que la phrase est forcément celle d’un prologue : le « car » initial suggère une réponse, une justification ou un ajout. Mais une citation extraite de son contexte n’autorise pas davantage à fixer la phase dramaturgique. Le fragment peut être prélevé au milieu d’une scène.
+
+Le texte critique ne doit pas dessiner les portes du théâtre ou le passage d’un cortège à partir de cette seule ligne. L’apparence matérielle du lieu et l’identité des entrants ne nous sont pas connues.
+
+## XVII. Compétition musicale : une hypothèse raisonnable, pas un fait
+
+Les études du drame satyrique ont proposé que les satyres se confrontent à des musiciens, rhapsodes ou chanteurs professionnels. Une compétition pourrait expliquer l’intérêt d’un groupe « tout équipé » et la présence de satyres se désignant par un métier musical. Cette possibilité s’accorde avec les pratiques de concours qui caractérisaient la culture agonistique grecque.
+
+**[B]** Kaimio et ses collègues envisagent la rencontre d’experts de l’art et de satyres désireux d’obtenir un statut analogue ; ils reconnaissent simultanément la pauvreté des données. Dans le commentaire collectif de Krumeich, Pechstein et Seidensticker, on discute des possibilités voisines, avec une réserve sur les modèles qui voient dans les « sophistes » une désignation ironique des satyres eux-mêmes.
+
+**[C]** Deux configurations principales méritent donc d’être conservées : un affrontement entre satyres amateurs et professionnels reconnus ; ou une autoparodie des satyres qui se réclament collectivement de la sophistication artistique. Une troisième configuration, une procession sans affrontement, n’est pas exclue.
+
+Aucun jury, prix, concours dithyrambique, mesure de rythme, duel d’aulos ou hymne nommé n’apparaît dans le fragment. Les reconstruire serait substituer une pièce moderne à Iophon. La recherche doit s’arrêter au cadre des possibilités.
+
+## XVIII. Sens politique du concours : une cité qui écoute et juge
+
+Le concours musical est un phénomène civique de première importance. Il institue un public, un temps de prestation, des normes de compétence, un système de reconnaissance et des prix. Il donne forme à la différence entre amateur et professionnel, mais peut également l’exposer au rire et à la contestation.
+
+**[D]** Dans une lecture comparative des *Satyres chanteurs*, la prétention de satyres à recevoir le même jugement que les experts pourrait interroger le privilège culturel : qui mérite de monter sur scène ? Qui attribue les noms d’« artiste » ou de « sophiste » ? De quelle autorité le vainqueur est-il investi ?
+
+La formulation de cette question est moderne ; le fragment ne contient aucune prise de position civique explicite. En particulier, on ne peut transformer les satyres en porte-parole du dêmos ni les experts en allégorie d’une oligarchie. De telles équivalences ont besoin de paroles, de personnages et d’actions qui nous manquent.
+
+L’intérêt de l’hypothèse demeure méthodique. Le titre est à la fois une catégorie de représentation et un vocabulaire social ; sa portée possible dépasse une simple plaisanterie sur les instruments. Il rattache la musique à la détermination publique d’une compétence.
+
+## XIX. Le comique des corps : chant et mouvement chorégraphique
+
+La tradition figurée du drame satyrique montre des acteurs portant des attributs satyriques, des masques, parfois des accessoires et des costumes particuliers. Les satyres peuvent se voir affectés à des tâches éloignées de leur comportement attendu. Cette distance est une source fréquente d’effets burlesques et de réflexions sur la maîtrise du corps.
+
+Une prestation vocale demande souffle, stabilité, écoute, mémoire de la mélodie et coordination avec un accompagnateur. La rencontre avec le corps satyrique peut donc construire une tension entre la discipline de l’art et le mouvement excessif que l’iconographie et les drames conservés associent souvent à ces figures.
+
+**[B]** Si les satyres se présentaient comme virtuoses, leur succès ou leur échec pourrait devenir la matière du rire. Mais l’échec n’est pas inscrit dans le titre. Le fragment ne décrit pas un chant faux, une chute, une gesticulation, un instrument cassé ou l’arrivée de Silène. Aucun de ces gestes ne doit être affirmé à propos d’Iophon.
+
+La comparaison avec les satyres d’Euripide permet de comprendre un système d’attentes du public ; elle ne donne pas la chorégraphie de cette œuvre perdue. Nous ne disposons d’aucune mesure ancienne de son tempo ni de son intensité sonore.
+
+## XX. Le musicien réel : une possibilité métathéâtrale
+
+L’article de **Maarit Kaimio et alii**, « Metatheatricality in the Greek Satyr-Play », *Arctos* **35** (2001), p. **35–78**, s’arrête aux *Aulodoi* p. **48**. Les auteurs y proposent que le titre permette d’évoquer simultanément la fiction de satyres chanteurs et la musique réellement présente dans le spectacle. Cette lecture est importante parce qu’elle ne réclame pas une scène précise.
+
+La **métathéâtralité** n’est pas seulement la rupture de l’illusion dramatique. Elle peut exister lorsqu’un geste fictif attire l’attention sur les moyens matériels qui permettent au spectacle d’exister. Ainsi, lorsqu’un chœur représente une troupe de chanteurs, le public entend effectivement une troupe chantante. Le dédoublement de l’expérience peut produire un effet comique même si les personnages ne s’adressent pas directement aux spectateurs.
+
+**[B]** La présence d’un aulète accompagnant le chœur fournirait un second niveau : dans la fiction, les satyres cherchent peut-être à devenir d’excellents chanteurs ; dans la réalité, ils sont des choristes formés et soutenus par un musicien. Le contraste entre compétence réelle et compétence fictive pourrait devenir sensible.
+
+Cependant la source ne prouve ni une allusion verbale à l’aulète installé dans l’orchestra, ni un appel du chœur à cet instrumentiste, ni l’existence d’une parabase comique. La métathéâtralité demeure un modèle explicatif et non un détail attesté d’Iophon.
+
+## XXI. Pourquoi l’« aulète » ne doit pas être confondu avec le chanteur
+
+La traduction fautive « Satyres joueurs de flûte » modifie l’interprétation d’une manière disproportionnée. Un satyre qui **joue** d’un instrument a les mains et la bouche occupées ; un satyre qui **chante accompagné** peut exécuter une danse, prendre la parole et interagir avec les autres membres du chœur. La distinction influe sur les hypothèses de performance.
+
+**[A]** Le lexique spécialisé distingue **αὐλητής** (« joueur d’aulos ») et **αὐλῳδός** (« chanteur sur l’aulos »). Les chercheurs de Kaimio et collègues rappellent que le fait de jouer et chanter simultanément avec un instrument à anche ne ressemble pas à la pratique du citharède qui peut pincer les cordes de sa cithare tout en chantant.
+
+**[B]** Cette distinction a des conséquences pour une éventuelle scénographie : les satyres n’auraient pas besoin de tenir des auloi pour que le titre soit exact. Elle empêche donc de composer une reconstitution visuelle montrant tous les satyres soufflant dans des doubles tuyaux en prétendant suivre le texte.
+
+La pluralité des pratiques musicales antiques invite par ailleurs à ne pas transformer cette distinction en règle physique absolue sur toute forme d’accompagnement, mais elle définit l’usage technique pertinent pour notre titre.
+
+## XXII. Hermès, la lyre et les *Limiers* de Sophocle
+
+Dans les *Ichneutai* (*Limiers*) de Sophocle, les satyres, partis à la recherche de troupeaux volés, sont confrontés à une musique nouvelle associée à l’invention de la lyre par Hermès. Le texte fragmentaire, conservé notamment par les papyrus, permet de lire davantage de structure dramatique que les deux lignes des *Aulodoi*.
+
+**[D]** Le rapprochement est particulièrement pertinent : dans les deux cas, un drame satyrique met des satyres à proximité du monde musical, mais l’instrument et l’enjeu ne sont pas identiques. Chez Sophocle, l’étrangeté d’un son nouveau est liée à un mythe d’invention ; chez Iophon, le titre annonce une compétence vocale, et nous ignorons si l’œuvre racontait une invention.
+
+Une hypothèse ancienne a tenté d’associer les *Aulodoi* à l’*Inachos* de Sophocle ou à des récits d’Hermès où apparaissent des effets de contre-musique. La convergence est suggestive mais non démonstrative ; elle est précisément présentée comme une possibilité, non comme une attribution de scène.
+
+La musique peut être un événement dans le mythe ou le medium du spectacle lui-même. Une monographie cohérente doit garder ces deux niveaux distincts.
+
+## XXIII. *Cyclope* d’Euripide : le comparable et l’incomparable
+
+Le *Cyclope* d’Euripide est un drame satyrique conservé intégralement. Des satyres y servent Polyphème, Silène est présent, et l’action insère la rencontre d’Ulysse avec le Cyclope dans un monde de contraintes, de ruses, de beuverie et de rythmes choraux. Les chants et les interventions chorales montrent comment le drame satyrique fait vivre sa communauté de personnages.
+
+**[D]** Comparer le *Cyclope* aux *Satyres chanteurs* permet d’interroger le statut du chœur, la circulation entre paroles et chant, les moqueries adressées aux figures d’autorité et l’épreuve d’une compétence nouvelle. Cela ne signifie pas qu’Iophon a traité l’épisode d’Ulysse ni que son drame possédait un Cyclope, une grotte ou du vin.
+
+Dans le *Cyclope*, les satyres sont volontiers accusés de lâcheté ou d’instabilité ; ces qualités créent une mémoire de genre à laquelle une audience pouvait être sensible. Mais le fragment unique d’Iophon n’en dit rien. Il est préférable de comparer les **possibilités formelles** plutôt que de copier la distribution de personnages.
+
+L’édition commentée de Richard Seaford (*Euripides: Cyclops*, Oxford, 1984) demeure un instrument essentiel de ce travail comparatif.
+
+## XXIV. L’*Omphale* satyrique d’Ion de Chios : autre auteur, autre dossier
+
+La confusion entre **Ion de Chios** et **Iophon** est particulièrement dangereuse parce que leurs activités appartiennent au même milieu et que le répertoire satyrique d’Ion est riche. L’*Omphale* d’Ion montre une exploitation d’Héraclès et de sa servitude dans un cadre satyrique ; les fragments conservés ont servi à commenter le goût, la musique et les situations de renversement.
+
+**[D]** Le rapport est un rapport de genre. Les deux poètes ont pu explorer l’écart entre une figure héroïque et la vie du chœur ; les documents ne prouvent aucun emprunt réciproque. Les notices universitaires de MYTHOS consacrées à Ion demeurent indépendantes de celle d’Iophon.
+
+Il est important de ne pas attribuer à Iophon les fragments plus nombreux de l’*Omphale* ni les instruments ou les motifs d’autres pièces satyriques d’Ion. Une ressemblance de pratique ne remplace jamais une attribution textuelle.
+
+La comparaison donne néanmoins de l’épaisseur historique au projet : autour de 450–400 av. J.-C., le genre satyrique n’est pas un simple appendice uniforme. Il constitue un laboratoire de registres, de situations et de langues. Les deux vers d’Iophon peuvent être situés dans ce paysage sans que son œuvre soit reconstruite.
+
+## XXV. Pratinas et la tradition dionysiaque de la musique
+
+Pratinas est souvent associé par les témoignages anciens à une histoire précoce du drame satyrique. Un passage musical discuté, transmis dans le corpus des fragments tragiques sous son nom, présente un rapport tendu entre la voix chorale et l’accompagnement de l’aulos. Il invite à réfléchir aux rivalités de timbres, de rythmes et de fonctions.
+
+**[D]** Cette comparaison aide à mesurer la valeur dramatique d’un chœur qui revendique le chant. Elle ne prouve ni une réponse d’Iophon à Pratinas ni une histoire linéaire dans laquelle tous les poètes satyriques auraient traité une même querelle des instruments. La datation et l’identité de certains fragments anciens eux-mêmes suscitent des débats.
+
+Un danger historiographique consiste à transformer les témoignages musicaux en théorie générale de l’affrontement d’Apollon et de Dionysos, puis à projeter cette théorie sur chaque drame satyrique. Les arts dionysiaques ont des composantes complexes ; les concours, le chant, la flûte à anche et les chœurs peuvent réunir des ressources que nos oppositions abstraites séparent artificiellement.
+
+Le dossier d’Iophon autorise surtout à parler d’une compétence musicale revendiquée. Le reste dépend du cadre comparatif et doit être nommé comme tel.
+
+## XXVI. Dionysos : dieu du genre, personnage non attesté
+
+La place de Dionysos est indissociable des fêtes et des conditions de la représentation dramatique athénienne. Les satyres forment son entourage mythologique dans une multitude de récits et d’images. Le drame satyrique porte cette association dans son corps choral.
+
+**[D]** On peut dès lors demander si la prétention de satyres à chanter de manière professionnelle devait faire entendre une parodie d’un chant dionysiaque. Cette question convient au genre. Mais aucune ligne conservée des *Aulodoi* ne nomme Dionysos ou n’atteste son apparition sur scène. L’y installer comme protagoniste serait un ajout fictif.
+
+L’opposition entre un ordre apollinien de la technique musicale et une exubérance dionysiaque des satyres est philosophiquement suggestive, mais trop schématique pour être donnée comme un programme de la pièce. L’aulos lui-même traverse des cultes et des pratiques ; le chant accompagné n’est pas un signe exclusif du dieu.
+
+Nous distinguons donc clairement **Dionysos comme horizon institutionnel et mythologique** et **Dionysos comme personnage d’une pièce particulière**. Le premier est documentaire ; le second reste inconnu.
+
+## XXVII. Marsyas : rivalité d’aulos et anachronisme tentant
+
+Marsyas, figure satyrique associée à l’aulos et à une confrontation musicale avec Apollon dans plusieurs traditions, offre un parallèle presque irrésistible. Un lecteur moderne pourrait croire qu’un titre sur des satyres musiciens renvoie nécessairement au conflit du Phrygien et du dieu de la cithare.
+
+**[D]** Le mythe de Marsyas connaît pourtant des versions multiples. Les récits de concours, de jugement et de supplice sont transmis par des sources d’époques différentes. Rien n’atteste Marsyas dans le fragment des *Aulodoi*. Le titre fait même plutôt référence aux chanteurs accompagnés par l’aulos qu’aux joueurs d’aulos, ce qui rend la déduction encore moins solide.
+
+La comparaison peut éclairer une question commune : la compétition musicale engage-t-elle seulement la technique ou aussi le statut des participants ? Chez Marsyas, le concours peut toucher à une différence entre mortalité et divinité, à l’orgueil et à la punition. Chez Iophon, faute de fable, on ne peut nommer ni un juge ni un vainqueur.
+
+La leçon méthodologique est capitale : une tradition mythologique très connue peut faire écran à un texte peu conservé. Il faut alors reconstruire les limites de l’analogie plutôt qu’en utiliser le prestige pour remplir le vide.
+
+## XXVIII. Silène comme chef : forte vraisemblance générique, aucune preuve directe
+
+Silène ou Papposilène apparaît souvent à la tête des satyres, en père, tuteur ou chef de groupe. Les drames conservés et l’iconographie confirment cette possibilité générique. Il est donc légitime de le considérer comme un personnage que la dramaturgie satyrique pourrait mobiliser.
+
+**[C]** Un Silène donnant des instructions musicales à des satyres serait une hypothèse de situation compatible avec le titre. Mais le fragment ne lui attribue aucun des mots cités par Clément ; l’identifier comme locuteur serait une invention. De même, un Silène ivre ou incapable de chanter serait un motif comique plausible, non une scène antique retrouvée.
+
+Il n’existe pas de distribution pour les *Aulodoi* d’Iophon. Il faut éviter les listes de personnages présentées sans point d’interrogation : « Silène — les satyres — Dionysos — un aulète — des rhapsodes » serait un catalogue de possibilités confondu avec un document.
+
+La prudence n’empêche pas de comprendre pourquoi la tentation est forte : le genre possède des types visuels et vocaux suffisamment stables pour créer un horizon d’attente chez le spectateur. Mais un horizon d’attente n’est pas un livret.
+
+## XXIX. Philosophie du savoir-faire : de la *technê* à l’habileté scénique
+
+La notion grecque de **technê** permet de poser des questions précises sur la compétence. Une technê implique des procédés appris, des critères de réussite et des modalités de transmission. La musique chorale est inséparable d’une discipline collective. Le terme « sophiste » dans le fragment peut désigner des individus dont on reconnaît une habileté professionnelle.
+
+**[B]** Si les satyres veulent rivaliser avec les spécialistes, leur entreprise pourrait exposer le décalage entre désir d’excellence et possession réelle d’un savoir-faire. Cette lecture est cohérente avec l’orientation proposée par les historiens de la métathéâtralité, mais elle dépend d’un scénario non assuré.
+
+Les études modernes opposent parfois, de manière trop simple, la spontanéité dionysiaque et une technique savante. En réalité, le chœur satyrique sur la scène est l’une des productions les plus maîtrisées de la fête : ses mouvements supposent une préparation et une compétence artistique réelles. L’acteur qui joue l’incompétent peut être un interprète remarquable.
+
+Cette dissociation de la compétence fictive et de la virtuosité réelle fait du drame satyrique un objet philosophique intéressant. Elle ne signifie pas que le poète avait conçu une doctrine explicite de l’art.
+
+## XXX. Platon, *Ion* : l’inspiration du rhapsode et son art
+
+Dans le dialogue **Ion** de Platon, Socrate interroge un rhapsode sur le rapport de son activité à un savoir technique. Les passages **530a–535a** conduisent à une réflexion célèbre sur l’inspiration, la spécialisation des compétences et la capacité à expliquer les poèmes. Le problème est étroitement relié au monde des rhapsodes que Clément mentionne à propos d’Iophon.
+
+**[D]** L’intérêt de Platon n’est pas de fournir un commentaire contemporain des *Aulodoi* — ce dialogue est postérieur et d’une autre nature — mais de rendre visibles des distinctions utiles. Le rhapsode récite ou interprète le discours d’autrui ; est-il lui-même un spécialiste des domaines dont le poète parle ? Dans un drame où « des sophistes » sont annoncés, la même interrogation générale pourrait conduire à distinguer l’autorité de la performance de celle du savoir.
+
+La différence est cruciale : parler avec brio, chanter parfaitement et posséder une science ne sont pas des opérations identiques. Le terme *sophistês* est suffisamment large pour que son emploi dans une pièce puisse jouer de cette ambiguïté.
+
+Il serait toutefois injustifié de faire des *Aulodoi* une attaque anticipée contre les arguments de Socrate ou une démonstration du magnétisme de l’inspiration. Nous comparons ici **des questions**, non des réponses ni une filiation prouvée.
+
+## XXXI. Platon, *République* et *Lois* : forme musicale et éducation
+
+Les livres II–III de la *République* discutent les récits, l’imitation et le rôle éducatif de la musique. Le livre III, notamment autour de **398c–403c**, examine les modes et les rythmes convenant à la formation. Les *Lois*, livre II, mettent les pratiques musicales en relation avec des chœurs et des normes de jugement. Les deux dialogues appartiennent à des débats plus tardifs et ne décrivent pas l’œuvre d’Iophon.
+
+**[D]** Ils aident néanmoins à préciser la valeur culturelle d’une ambition de chant : la compétence artistique est aussi un rapport au jugement, à l’habitude et à la forme collective. Une troupe satyrique qui revendique l’excellence pourrait faire rire précisément parce qu’elle défie les catégories de convenance appliquées à la musique.
+
+L’erreur serait de transformer cette comparaison en opposition directe de la pièce aux normes platoniciennes. Nous ne possédons ni le style musical des *Aulodoi*, ni ses rythmes, ni ses harmonies, ni le texte de ses chants. Le fragment conservé peut relever d’un discours d’arrivée sans portée musicale explicite.
+
+Les dialogues de Platon permettent de penser la séparation du chant, de l’enseignement et de la vertu ; ils ne prêtent aucune thèse philosophique à Iophon.
+
+## XXXII. Aristote : le satyrique dans l’histoire de la tragédie
+
+La *Poétique* **1449a** décrit les transformations qui conduisent à la tragédie et évoque une origine liée au satyrique, avant une élaboration plus grave du langage et du genre. Ce passage ne fournit pas une histoire complète et non controversée du drame satyrique des Dionysies : il s’agit d’une construction théorique antique qu’il faut interpréter.
+
+**[D]** Aristote nous aide à ne pas dessiner des cloisons étanches entre sérieux et ludique. Un même système de concours peut mobiliser une pratique tragique et une pratique satyrique, avec des effets contrastés. L’association des poètes tragiques à un drame satyrique constitue une caractéristique institutionnelle, sans effacer la diversité des œuvres.
+
+Le vocabulaire aristotélicien de la **mimêsis** offre aussi un éclairage sur la représentation d’un chanteur : l’acteur imite une personne qui exerce un art alors que, par son propre chant, il exerce réellement cet art devant les spectateurs. Cette tension peut être un ressort de réflexivité. Rien ne prouve qu’Iophon la thématisait expressément.
+
+On ne peut appliquer à ses deux vers les critères de reconnaissance, péripétie et dénouement que la *Poétique* analyse pour des actions tragiques entières. Une architecture de l’intrigue serait une extrapolation sans support.
+
+## XXXIII. Hegel : l’art comme production de l’esprit et la figure satyrique
+
+Les *Leçons sur l’esthétique* de Hegel envisagent les formes de l’art comme des expressions historiques de la relation entre l’esprit, les institutions et leur monde sensible. Hegel réfléchit aussi au tragique et au comique, à l’objectivité des puissances éthiques et à la manière dont les personnages s’inscrivent dans un conflit.
+
+**[D]** Dans le cas des *Aulodoi*, une lecture hégélienne prudente ne consiste pas à décréter un « conflit tragique » : nous n’avons aucun personnage doté d’un droit explicite opposé à un autre. Elle peut plutôt demander ce que signifie **faire reconnaître comme art** une prestation produite par une figure que le genre présente sous un aspect non héroïque. Le satyre, corps hybride et figure de plaisir, prétendrait peut-être à la dignité du métier musical.
+
+La différence entre art vécu, compétence instituée et reconnaissance publique s’accorde avec la philosophie hégélienne de l’expression historique. Toutefois les matériaux ne permettent pas d’attribuer à Iophon une dialectique de maître et disciple, une lutte des classes de musiciens ou une critique achevée de la cité.
+
+La meilleure contribution d’Hegel est négative : il nous rappelle qu’une forme artistique n’est pas seulement une juxtaposition d’objets, mais un rapport entre pratique et sens social. L’intrigue particulière reste cependant inconnue.
+
+## XXXIV. Nietzsche : le chœur satyrique et la naissance de la tragédie
+
+Nietzsche, dans *La Naissance de la tragédie* (**1872**), particulièrement aux **§ 7–8**, donne au chœur des satyres un rôle central dans sa lecture de l’origine dionysiaque du tragique. Le satyre y figure une forme de vie autre que l’individu ordinaire soumis aux conventions, et le chœur joue un rôle essentiel dans la constitution de la vision dramatique.
+
+**[D]** Cette perspective rencontre directement notre dossier parce qu’il s’agit de satyres chanteurs. Elle ne doit pas se substituer à l’histoire institutionnelle du Ve siècle. Nietzsche développe une philosophie moderne et controversée, informée par les recherches de son époque, non un procès-verbal des représentations d’Iophon.
+
+Le paradoxe intéressant serait le suivant : si les satyres se présentent comme chanteurs professionnels, ils semblent soumettre leur force collective à un régime d’expertise et de jugement. Le dionysiaque, chez Nietzsche, n’est pas assimilable sans reste à une habileté scolairement certifiée. On pourrait donc lire une tension entre un chant comme expression collective et un chant comme prestation évaluée.
+
+Mais cette tension appartient à l’interprétation. Aucune réplique d’Iophon ne décrit l’opposition de l’apollinien et du dionysiaque ; aucun fragment ne prouve l’emploi d’une harmonie particulière. Nietzsche doit rester un interlocuteur philosophique, non un témoin ancien.
+
+## XXXV. Le travail de l’acteur : apparence d’improvisation et technique réelle
+
+Le drame satyrique peut donner l’impression d’une liberté corporelle extrême, presque contraire à l’ordre chorégraphique. Pourtant il se réalise dans un dispositif exigeant : entraînement de l’ensemble, coordination de gestes, gestion des entrées, adaptation aux rythmes, articulation des chants et relations avec le musicien.
+
+**[B]** Les *Satyres chanteurs* pourraient avoir joué sur cette contradiction : les personnages de fiction se disent experts ou aspirent à le devenir, tandis que les choristes accomplissent sous le masque un travail déjà réglé. Le spectateur peut rire d’une incompétence représentée tout en admirant la compétence qui permet de la montrer.
+
+Le commentaire ne peut identifier la chorégraphie de la pièce ni la qualité de ses interprètes ; il n’existe pas d’enregistrement, de partition ou de description de son spectacle. Les images de l’époque offrent des indices sur des masques et des costumes, mais ne sont pas des photographies d’un épisode d’Iophon.
+
+L’histoire de l’art scénique devient plus précise quand elle distingue la **technique derrière le masque** de l’**action montrée par le masque**. C’est un principe utile au dossier, non une reconstruction narrative.
+
+## XXXVI. Culture du classement : qui mérite le nom de « sophiste » ?
+
+Dans le passage de Clément, la catégorie « sophistes » réunit des producteurs de discours, des poètes et des rhapsodes. Le mot devient lui-même un objet de concurrence : peut-on être appelé « savant » parce que l’on sait chanter, parce que l’on connaît une tradition ou parce que l’on convainc un public ?
+
+**[B]** La présence du nom dans un drame satyrique pourrait lui donner une valeur comique, notamment si des figures souvent dépeintes comme impulsives revendiquent une compétence évaluée selon les critères de la culture civique. Mais le fragment ne comporte ni adjectif péjoratif ni rire rapporté. Son sens dépend du locuteur et du contexte manquants.
+
+La lecture moderne doit donc éviter deux anachronismes. D’abord, assimiler les « sophistes » à une école philosophique tardivement définie et accusée de tromperie ; ensuite, assimiler tout professionnel du chant à un intellectuel contestataire. Les catégories artistiques, éducatives et politiques se recoupent sans être identiques.
+
+Ce débat s’inscrit dans l’histoire longue de la **sophia**, intelligence ou habileté, et de la **technê**, art réglé. Le fragment constitue une donnée lexicale précieuse, précisément parce qu’il n’enferme pas cette relation dans une doctrine connue.
+
+## XXXVII. Un modèle de reconstruction sans scène inventée
+
+Toute tentative de restitution doit être formulée comme **matrice** et non comme livret. **Modèle A [C] : confrontation.** Des spécialistes du chant ou de la récitation arrivent ; des satyres aspirant à une reconnaissance musicale se trouvent face à eux. Le fragment annonce le groupe, tandis que le titre définit les satyres. Ce modèle possède deux appuis textuels, mais la relation entre les groupes reste une hypothèse.
+
+**Modèle B [C] : autoqualification ironique.** L’expression « foule de sophistes » pourrait qualifier les satyres eux-mêmes, présentés comme des artistes « équipés » à la manière d’une troupe professionnelle. Le modèle explique l’écart entre un mot prestigieux et les corps satyriques ; il ne peut établir que la réplique était ironique.
+
+**Modèle C [C] : entrée de performeurs sans compétition.** Un groupe apparaît dans le cadre d’une cérémonie ou d’une rencontre mythique ; la musique structure l’action sans jury ni défi. Ce modèle est plus minimal, mais reste compatible avec l’unique citation.
+
+**Modèle D [C] : réflexion sur les formes de performance.** L’œuvre pourrait alterner chant des satyres et allusions aux rhapsodes, mettant en scène la diversité des pratiques poétiques. L’intérêt métathéâtral est réel ; la preuve directe n’existe pas.
+
+Aucun modèle ne permet d’affirmer une ouverture, un acte central, une crise, une victoire ou une conclusion. Les quatre modèles ont un statut égal de conjectures organisées, avec des degrés d’économie différents.
+
+## XXXVIII. Les limites de la reconstruction mythologique
+
+L’une des difficultés de cette œuvre est l’absence de personnage mythologique nommé dans le fragment. Il serait tentant d’identifier Hermès, Marsyas, Apollon ou Dionysos en fonction des instruments et du genre. Chacune de ces figures peut servir de parallèle ; aucune n’a été conservée comme personnage d’Iophon.
+
+Une monographie mythologique approfondie doit expliquer pourquoi le nom du mythe central manque. Un titre collectif pourrait désigner la conduite des satyres sans référence à une figure héroïque connue ; ou bien la pièce pouvait utiliser un récit célèbre dont le témoin lexical n’a rien conservé. Les deux possibilités demeurent ouvertes.
+
+**[D]** Les traditions d’invention musicale, d’épreuve contre un dieu, de concours d’artistes ou d’éducation d’un chœur sont attestées ailleurs. Elles forment un champ comparatif dans lequel les *Aulodoi* deviennent intelligibles, non un faisceau démontrant une intrigue unique.
+
+La règle adoptée ici est de ne jamais convertir **« un tel mythe aurait été approprié »** en **« tel était le mythe d’Iophon »**. Le manque de fragments n’autorise pas une narration plus libre ; il exige au contraire une définition plus stricte des propositions.
+
+## XXXIX. Iconographie I : le vase de Pronomos, un document sur le spectacle
+
+Le **cratère en volutes attique à figures rouges dit « vase de Pronomos »**, vers **410–400 av. J.-C.**, trouvé à Ruvo di Puglia, est conservé au **Musée archéologique national de Naples**, inventaire **81673** (également H 3240). Il représente notamment un ensemble de personnes liées à un spectacle satyrique : Dionysos et Ariane, acteurs, satyres portant parfois des masques et le joueur d’aulos Pronomos.
+
+La notice universitaire **Utpictura18**, Aix-Marseille Université, référence **20602**, permet de contrôler l’identification de plusieurs figures et la place du musicien. Source : https://utpictura18.univ-amu.fr/notice/20602-acteurs-tenant-leur-masque-vase-pronomos. Un dossier photographique catalogué : https://commons.wikimedia.org/wiki/File:Pronomos_Painter_-_ARV_1336_1_-_satyr_play_with_Herakles_-_Dionysos_and_Ariadne_with_satyrs_and_maenads_-_Napoli_MAN_81673_-_03.jpg.
+
+**[A/D]** Cet objet atteste une iconographie de l’univers théâtral satyrique, et non une représentation de la pièce d’Iophon. Aucune inscription sur le vase ne nomme les *Aulodoi* comme titre du spectacle. La présence de Pronomos, aulète réel figuré, aide à visualiser la différence entre instrumentiste et satyres ; elle ne dit pas qui accompagnait Iophon.
+
+La notice et l’URL sont fournies sans reproduire une photographie susceptible de comporter des restrictions de droits. Une éventuelle insertion future sur le site nécessiterait une vérification des crédits, de la licence propre à l’image choisie et de sa conformité à la charte éditoriale.
+
+## XL. Iconographie II : un satyre jouant de la lyre au Metropolitan Museum
+
+Une **amphore attique à col dite de Nola**, attribuée au **peintre d’Oionoklès**, datée **vers 480–470 av. J.-C.**, est conservée au **Metropolitan Museum of Art**, New York, numéro **09.221.41**. Sa face principale représente un satyre jouant de la lyre et l’autre un satyre portant une outre. La notice du musée associe expressément l’image musicale à l’évolution des représentations de satyres au Ve siècle : https://www.metmuseum.org/art/collection/search/248179.
+
+**[D]** L’objet ne représente ni un aulos ni des satyres chanteurs au sens du titre d’Iophon. Il est toutefois une comparaison visuelle sûre : il atteste que les peintres pouvaient donner à un satyre une activité musicale associée à la culture des musiciens. L’image rappelle donc la possibilité, dans la fiction artistique grecque, d’un satyre exerçant un art sans qu’il soit nécessaire de le réduire au seul boire ou à la sexualité.
+
+À ce titre, l’objet constitue un contrepoids documentaire utile aux reconstructions caricaturales. Son rapport à la pièce est thématique ; aucune influence directe ni identité de représentation n’est attestée.
+
+## XLI. Iconographie III : une joueuse d’aulos et les limites d’un parallèle technique
+
+Le **lécythe attique à figures rouges** attribué au **peintre de Brygos**, vers **480 av. J.-C.**, conservé au Metropolitan Museum sous le numéro **24.97.28**, montre une jeune femme jouant de l’aulos. Notice : https://www.metmuseum.org/art/collection/search/251489.
+
+L’image documente la posture d’une instrumentiste et l’existence d’un étui suspendu pour ses instruments. Mais ce vase n’est pas une scène de théâtre ; il ne montre ni un chœur satyrique, ni des chanteurs accompagnés, ni Iophon. Son utilité est précisément de souligner que l’**aulète** tient un instrument en bouche, alors que l’**aulode** du titre doit être compris comme chanteur.
+
+Les musées publient des représentations d’usages variés de l’aulos dans les banquets, cérémonies ou exercices. On ne saurait ramener toutes ces images à une pratique scénique unique. L’iconographie doit compléter le lexique, et non l’abolir.
+
+## XLII. Historiographie : pourquoi le dossier a été mal compris
+
+Plusieurs résumés modernes ont rendu *Aulodoi* par « The Flute-Players », « flûtistes », ce qui induit une image scénique et instrumentale que le grec ne rend pas nécessaire. Le commentaire de Kaimio et alii met en garde contre cette traduction, et cite à ce propos les interprétations du grand corpus satyrique allemand.
+
+Le volume collectif de **Ralf Krumeich, Nikolaus Pechstein et Bernd Seidensticker**, *Das griechische Satyrspiel* (**1999**), consacre les pages **546–551** environ à Iophon et à ses *Aulodoi* : introduction à l’auteur et commentaire du texte. L’ouvrage explique combien l’enquête doit combiner édition de fragments, matériel iconographique et compréhension des conventions satyriques. On peut diverger sur le sens le plus probable de « chanteurs » ou sur l’identité du groupe de sophistes, mais il faut exposer les arguments au lieu de réifier la première conjecture.
+
+Une autre confusion historiographique provient de la transmission de Clément, qui juxtapose un poète comique et un poète tragique. Les éditions et les paraphrases de cette phrase peuvent donner l’impression qu’Iophon aurait été présenté comme comique. Il faut distinguer la syntaxe du témoignage et le statut de l’auteur dans les listes de tragiques.
+
+Le troisième problème touche les titres : la mention explicite « Satyres » encourage une reconstruction du chœur ; mais la relation entre le titre et la citation peut être médiatisée par une scène perdue. Nous ne savons pas si le groupe d’experts est celui des satyres ou celui d’un concurrent.
+
+## XLIII. Table critique des attestations et conjectures
+
+| Proposition | Statut | Justification et limite |
+|---|---|---|
+| Le titre *Αὐλῳδοὶ Σάτυροι* est attribué à Iophon | **A** | FragTrag.1, catalogue d’Iophon ; titre conservé dans la tradition |
+| La pièce appartient au corpus satyrique | **A/B** | Le titre nomme les satyres ; tradition du genre, mais spectacle perdu |
+| Un fragment verbal est assigné à l’œuvre | **A** | FragTrag.1 Iophon fr. 1 = TrGF I 22 F 1 |
+| Clément conserve l’expression sur une « foule de sophistes » | **A** | *Stromates* I 3,24,3 |
+| « Sophistes » peut désigner des spécialistes de l’art | **A/B** | Usage expliqué par Clément et commenté par la recherche |
+| *αὐλῳδός* signifie chanteur accompagné par l’aulos | **A** | Distinction lexicale avec *αὐλητής* |
+| Les satyres constituent probablement le chœur | **B** | Genre et titre pluriel ; aucune liste de rôles |
+| Le groupe arrivé est un groupe de rhapsodes | **B** | Explication de Clément ; fragment ne nomme aucun rhapsode |
+| La pièce comportait un concours musical | **C** | Modèle moderne, non cité par une source antique |
+| L’aulète officiel était directement apostrophé | **C** | Hypothèse métathéâtrale, pas une ligne conservée |
+| Dionysos, Silène, Marsyas ou Hermès jouaient un rôle | **C** | Simple possibilité générique ou mythologique |
+| La pièce tournait les musiciens en ridicule | **C** | Effet possible, ton de la réplique inconnu |
+| Le vase de Pronomos représente cette pièce | **Non démontré** | Objet satyrique documenté, aucune attribution à Iophon |
+| La pièce avait un dénouement heureux et un vainqueur | **Non démontré** | Généralisation abusive à partir du genre |
+
+Cette table est le cœur du contrôle de reconstruction. Les hypothèses peuvent être discutées et remplacées si la documentation s’enrichit ; le texte transmis doit rester isolé de ces modèles.
+
+## XLIV. À quoi ressemblerait une découverte décisive ?
+
+Un papyrus portant une séquence de répliques attribuées explicitement aux *Aulodoi* pourrait fixer le locuteur, la présence de satyres, la relation entre entrants et chœur, et une partie de la structure. Une inscription didascalique complète pourrait renseigner sur la date ou la place de la pièce dans une tétralogie. Un nouveau lexicographe pourrait citer un mot supplémentaire, mais sa valeur dramatique resterait limitée sans contexte.
+
+Aucune des pièces de ce type n’est connue pour les *Aulodoi* dans le dossier consulté. Il serait trompeur de présenter des papyrus d’autres drames comme des témoins nouvellement attribués. Même les rapprochements entre Iophon et Sophocle doivent être pesés avant de déplacer une attribution.
+
+Le travail de critique garde néanmoins un intérêt prospectif : en fixant aujourd’hui les concordances, les leçons et le degré des inférences, il facilite l’examen d’un nouveau témoin. Une hypothèse correctement formulée doit pouvoir être abandonnée si les sources la contredisent.
+
+La possibilité de falsification est une vertu de la recherche sur les œuvres perdues. Elle interdit le récit séduisant mais invérifiable qui ne dit jamais à quel endroit une nouvelle preuve pourrait le remettre en cause.
+
+## XLV. Appareil critique des témoins et des numérotations
+
+**T1. Concordance moderne.** Université de Patras, FragTrag.1, *Concordance*, section « Iophon » : **2. Αὐλῳδοὶ Σάτυροι** ; **Iophon : fr. 1 = Iophon : fr. 1** dans la colonne de correspondance *TGRF*. URL : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html. Le fragment suit immédiatement le titre dans le classement. **Le numéro éditorial d’Iophon n’est pas celui des chapitres MYTHOS.**
+
+**T2. Numérotation critique imprimée.** **TrGF I, Iophon 22 F 1** : le nombre **22** est l’identifiant de l’auteur dans la collection ; **F 1** celui du fragment. Il n’existe pas de « fragment 22 » de la pièce sur cette base. La concordance de FragTrag distingue cet F 1 du fragment **F 2**, placé sous le titre *Bacchantes* et donc étranger au dossier présent.
+
+**T3. Source primaire de la citation.** Clément d’Alexandrie, *Stromates* I, 3, **24, 3**, avec le fragment « καὶ γὰρ εἰσελήλυθεν / πολλῶν σοφιστῶν ὄχλος ἐξηρτυμένος ». Texte et traduction de travail accessibles sous https://www.sophiascriptura.com/fathers/clement-stromata/1-1-1/#p-1-3-24. Contrôle de la citation grecque également dans la littérature philologique : Kaimio et alii (2001), p. 48.
+
+**T4. Parallèle de Clément.** Cratinos, *Archiloques*, fragment conservé par le même passage des *Stromates*, à distinguer du texte d’Iophon. La source chrétienne établit un rapprochement lexical, non un ordre dramatique ni une influence démontrée.
+
+**T5. Testimonia de l’auteur.** FragTrag.1 donne treize entrées de témoignages pour Iophon, avec concordance aux *TrGF* ; parmi les sources anciennes à examiner séparément figurent Aristophane, *Grenouilles* **73–78** ; la documentation didascalique ; Cicéron, *De senectute* **7,22** ; la *Souda*. Leurs informations sont de genres et d’époques différents.
+
+**T6. Comparaison de genre.** Euripide, *Cyclope*, œuvre intégrale ; Sophocle, *Ichneutai*, fragments papyrologiques ; Pratinas, fragments satyriques ; Ion de Chios, *Omphale satyrique*. Aucun de ces textes ne doit être ajouté aux fragments d’Iophon.
+
+**T7. Philosophie.** Platon, *Ion* **530a–535a**, *République* III **398c–403c**, *Lois* II ; Aristote, *Poétique* **1449a** ; Hegel, *Leçons sur l’esthétique* ; Nietzsche, *La Naissance de la tragédie* **§§ 7–8**. Ces sources sont comparatives et ne sont jamais citées comme témoins d’une scène d’Iophon.
+
+## XLVI. Bibliographie scientifique vérifiée : textes et éditions
+
+1. **Clément d’Alexandrie**, *Stromates*, I, 3, 24, 3. Citation grecque des *Aulodoi* ; consulter une édition critique avec apparat et confronter à https://www.sophiascriptura.com/fathers/clement-stromata/1-1-1/#p-1-3-24. La ressource en ligne est une aide de consultation, non un substitut à l’examen manuscrit.
+2. **Bruno Snell et collaborateurs**, *Tragicorum Graecorum Fragmenta*, vol. **I**, *Didascaliae tragicae, Catalogi tragicorum et tragoediarum, Testimonia et fragmenta tragicorum minorum*, Göttingen, Vandenhoeck & Ruprecht ; Iophon **22 F 1**. Les rééditions successives doivent être identifiées dans l’appareil lorsqu’une variante est citée.
+3. **FragTrag.1**, Université de Patras, « Iophon », œuvre **2. Αὐλῳδοὶ Σάτυροι**, **fr. 1**, concordance avec l’édition TrGF : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html.
+4. **August Nauck**, *Tragicorum Graecorum Fragmenta*, **2e édition**, Leipzig, Teubner, **1889**, dossier d’Iophon **p. 761–762** environ. Edition historique à confronter à TrGF I plutôt qu’à utiliser comme numérotation actuelle.
+5. **Ralf Krumeich, Nikolaus Pechstein, Bernd Seidensticker** (dir.), *Das griechische Satyrspiel*, Darmstadt, Wissenschaftliche Buchgesellschaft, **1999**, **676 p.**, « Iophon » p. **546–551**, « Aulodoi » p. **549–551** ; ISBN **978-3-534-14593-5**. Compte rendu de Peter Burian, *Bryn Mawr Classical Review* **2000.11.05** : https://bmcr.brynmawr.edu/2000/2000.11.05/.
+6. **Maarit Kaimio et alii**, « Metatheatricality in the Greek Satyr-Play », *Arctos: Acta Philologica Fennica* **35** (**2001**), p. **35–78**, notamment **p. 48** et notes **50–53** pour Iophon, le fragment, la profession d’aulode et les hypothèses concurrentes. Revue en accès : https://journal.fi/arctos/issue/download/5915/Arctos%252035%2520%25282001%2529.
+7. **Andrew Barker**, *Greek Musical Writings*, vol. **I**, *The Musician and His Art*, Cambridge University Press, **1984** : terminologie des métiers musicaux et pratiques de chant.
+8. **M. L. West**, *Ancient Greek Music*, Oxford, Clarendon Press, **1992** : organologie et rapports entre voix et accompagnement ; ne pas utiliser ce manuel pour inventer une partition.
+9. **Richard Seaford** (éd.), *Euripides: Cyclops*, Oxford, Clarendon Press, **1984** : édition et commentaire d’un drame satyrique intégral. Référence du compte rendu savant : https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/euripides-cyclops-ed-r-seaford-oxford-clarendon-press-1984-pp-x-229-1250/2B4D2698CDDB5665F68DD2B3E0DB608D.
+10. **Euripide**, *Cyclope*, texte intégral ; utile à la comparaison des conventions satyriques, sans attribution à Iophon.
+11. **Sophocle**, *Ichneutai* (*Limiers*), fragments édités dans les recueils de Sophocle ; relation entre satyres, Hermès et invention musicale, parallèle de genre.
+12. **Aristophane**, *Grenouilles*, **73–78**, pour la réception du nom d’Iophon ; les remarques comiques ne doivent pas être lues comme un certificat d’attribution.
+
+## XLVII. Bibliographie scientifique vérifiée : philosophie et images
+
+13. **Platon**, *Ion* **530a–535a** : rhapsode, compétence et inspiration. Développements de la *République*, livres II–III, sur la musique et la formation ; *Lois*, livre II, pour le jugement choral.
+14. **Aristote**, *Poétique* **1449a**, rapport entre évolution de la tragédie et satyrique ; comparaison théorique, non témoignage sur les *Aulodoi*.
+15. **G. W. F. Hegel**, *Leçons sur l’esthétique*, sections sur les formes artistiques, le tragique et le comique : philosophie moderne de l’art et de la reconnaissance, appliquée avec réserve.
+16. **Friedrich Nietzsche**, *Die Geburt der Tragödie* / *La Naissance de la tragédie* (**1872**), **§§ 7–8** : conception moderne du chœur satyrique et du dionysiaque ; aucun fait scénographique d’Iophon n’en est tiré.
+17. **Peter Burian**, « Das griechische Satyrspiel », compte rendu, *Bryn Mawr Classical Review* **2000.11.05**, https://bmcr.brynmawr.edu/2000/2000.11.05/ ; discussion du corpus du drame satyrique et de sa conservation.
+18. **Metropolitan Museum of Art**, « Terracotta Nolan neck-amphora », peintre d’Oionoklès, **09.221.41**, vers 480–470 av. J.-C. : https://www.metmuseum.org/art/collection/search/248179 ; satyre et lyre, comparandum visuel.
+19. **Metropolitan Museum of Art**, « Terracotta lekythos », peintre de Brygos, **24.97.28**, vers 480 av. J.-C. : https://www.metmuseum.org/art/collection/search/251489 ; joueuse d’aulos, comparaison technique.
+20. **Musée archéologique national de Naples**, cratère en volutes du peintre de Pronomos, **inv. 81673**, vers 410–400 av. J.-C. ; notice critique et crédits photographiques dans la base **Utpictura18**, Aix-Marseille Université, https://utpictura18.univ-amu.fr/notice/20602-acteurs-tenant-leur-masque-vase-pronomos.
+21. **John D. Beazley**, *Attic Red-Figure Vase-Painters*, **2e éd.**, Oxford, **1963**, **1336.1** : référence de catalogue pour le cratère de Pronomos ; Beazley Archive Pottery Database, entrée **217500**, pour identification du peintre et de l’objet.
+22. **Oliver Taplin**, *Pots & Plays: Interactions between Tragedy and Greek Vase-Painting of the Fourth Century B.C.*, Los Angeles, J. Paul Getty Museum, **2007** : méthode prudente de comparaison entre images et représentations.
+23. **François Lissarrague**, *The Aesthetics of the Greek Banquet: Images of Wine and Ritual*, Princeton University Press, **1990** (version anglaise) : utile pour situer les satyres figurés et les contextes rituels, sans transformer un décor vase en scène d’Iophon.
+
+Les références citées désignent des sources de nature distincte. Les deux lignes de Clément et la concordance critique portent la preuve de l’œuvre ; les traités, représentations figurées et lectures modernes n’ajoutent aucun fragment verbal.
+
+## XLVIII. Synthèse : le savoir musical mis à l’épreuve du rire
+
+Les *Satyres chanteurs à l’aulos* nous laissent un fragment exceptionnellement dense par les questions qu’il soulève. Une « foule de sophistes » est arrivée ; le titre qualifie un groupe de satyres par un métier vocal. Ce sont des points d’appui réels. Ils invitent à comprendre un genre dans lequel les compétences de la scène, les hiérarchies de la culture et les attributs des personnages peuvent se confronter.
+
+Le trait décisif est le mot **αὐλῳδός** : il ne signifie pas simplement « flûtiste ». L’aulode **chante accompagné** ; l’aulète **joue**. Cette distinction rend possible une réflexion sur la métathéâtralité du spectacle, dans lequel des choristes accomplissent réellement l’art qu’ils pourraient être réputés apprendre ou mal pratiquer dans la fiction.
+
+Le terme **σοφιστής** renvoie vraisemblablement ici à l’expertise artistique, non exclusivement à la sophistique philosophique tardivement définie. Clément a conservé la formule à cause de cette extension lexicale. La lecture de Platon met en lumière les questions d’inspiration, de technique et de jugement ; Hegel invite à considérer les formes historiques de reconnaissance de l’art ; Nietzsche offre une conception du chœur satyrique qui aide à comprendre la valeur philosophique du chant. Aucune de ces lectures ne restitue la pièce.
+
+Les comparaisons avec le *Cyclope*, les *Limiers*, l’*Omphale* satyrique et la peinture du vase de Pronomos montrent comment situer Iophon sans absorber son œuvre dans une autre. Le projet de reconstruction demeure volontairement ouvert : concours, procession et auto-parodie sont des **modèles**, pas des épisodes retrouvés.
+
+L’honnêteté de la monographie tient ainsi à trois engagements : **citer exactement le fragment disponible**, **déclarer les degrés de certitude** et **ne pas remplacer l’absence de sources par une création rétrospectivement attribuée à Iophon**. Dans une encyclopédie des tragiques grecs et de leurs drames satyriques, cet engagement est lui-même un résultat scientifique.
+
+**Fin du manuscrit intégral. Attribution du numéro exclusivement par le workflow et son reçu. Aucune action sur WordPress, aucun manuscrit numéroté ajouté directement et aucune autre automatisation modifiée.**

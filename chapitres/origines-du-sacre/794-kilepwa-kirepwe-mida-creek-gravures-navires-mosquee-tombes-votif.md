@@ -1,0 +1,346 @@
+# MYTHOS — Les Origines du sacré — Chapitre 794
+
+# Kilepwa–Kirepwe et Mida Creek : gravures de navires, mosquée, tombes à pilier et hypothèses de protection maritime
+
+*Monographie universitaire originale : archéologie de l'océan Indien, histoire des techniques nautiques, épigraphie et anthropologie des images, pratiques musulmanes, philosophie comparée et patrimoine.*
+
+**Site :** île de Kilepwa, également désignée Kirepwe dans plusieurs notices, dans l'estuaire de Mida Creek, côte du Kenya, au sud de Gedi. **Chronologie :** séquences médiévales approximativement des XIIe–XVIIe siècles selon les synthèses archéologiques ; maison aux gravures étudiée comme structure du XVe siècle. **Position épistémologique :** les navires gravés sont attestés, mais leur fonction de protection, de charme ou d'ex-voto reste une possibilité discutée, jamais une certitude rituelle. Les données de Kilepwa ne sont pas celles de Gedi, Shaka ou Chafisi.
+
+## Résumé analytique
+
+Kilepwa est l'une des petites îles de Mida Creek, au sud de Gedi. James S. Kirkman y entreprit des fouilles limitées qu'il publia en 1952 dans *The Antiquaries Journal* : il décrivait un établissement ruiné comprenant notamment des structures domestiques, un lieu de prière et des éléments funéraires. Une documentation régionale ultérieure situe son occupation entre les XIIIe et XVIIe siècles, avec un horizon plus ancien suggéré par les typologies du XIIe siècle dans certaines notices. En 2017, Edward Pollard et Caesar Bita publièrent la découverte de gravures de navires incisées dans l'enduit intérieur d'une maison du XVe siècle. Les dessins représentent des embarcations de l'océan Indien, dont certaines rappellent les *mitepe* : mâts, voiles, extrémités de coque et détails de bordage sont reconnaissables. Leur valeur documentaire pour les techniques nautiques est considérable ; les chercheurs discutent une possible fonction votive ou protectrice sans pouvoir l'imposer comme interprétation unique. En 2023, Caesar Bita et Wes Forsythe replacèrent Mida Creek dans une géographie plus vaste des débarcadères et sites d'habitat, soulignant la relation probable entre certains points du chenal et la ville de Gedi, située plus loin à l'intérieur. Kilepwa permet d'étudier comment une société musulmane et maritime articule les espaces de prière, les lieux de mémoire et les pratiques ordinaires de navigation, sans réduire toute image de navire à une divinité ni toute relation commerciale à une transmission religieuse.
+
+## I. Problématique : une image de bateau peut-elle être sacrée ?
+
+La découverte de dessins de navires dans une maison médiévale pose une question différente de celle suscitée par une mosquée ou une tombe. Le bâtiment de prière possède des signes architecturaux relativement diagnostiques : direction de la qibla, niche, plan et contexte. Un dessin de bateau peut être un essai d'artisan, une marque d'identité, une démonstration technique, un souvenir de voyage, un signe protecteur ou une offrande figurée. L'archéologie ne peut choisir entre ces fonctions par préférence esthétique.
+
+Le dossier privilégie donc le problème du degré de preuve. Pollard et Bita décrivent la gravure et proposent plusieurs interprétations, dont l'hypothèse d'une fonction votive ou de charme. Le rôle de l'historien du sacré n'est pas de déclarer l'ex-voto prouvé ; il est d'examiner ce qui pourrait l'appuyer : localisation, répétition, association avec d'autres objets, pratiques de marins et textes contextualisés. Le possible n'est pas le probable et le probable n'est pas le démontré.
+
+## II. Kilepwa ou Kirepwe : une question de toponymie
+
+Les sources savantes emploient principalement Kilepwa, tandis que des descriptions locales et patrimoniales utilisent aussi Kirepwe. Ces deux désignations renvoient à l'île concernée par les recherches, mais leur rapport historique précis demanderait une enquête linguistique et cartographique. La différence de graphie n'autorise pas à créer deux sites distincts ni à attribuer à chacun la même mosquée.
+
+Les noms de lieux sont des archives de usages humains. Ils peuvent refléter des pratiques de prononciation, des relevés coloniaux ou des choix de translittération. Une monographie universitaire doit conserver les variantes dans ses index, puis travailler à partir des coordonnées, des plans et des campagnes de terrain plutôt qu'à partir d'une identité supposée des sons.
+
+## III. Mida Creek : le chenal et ses deux îles
+
+Dans l'ouverture de son article de 1952, Kirkman situe Mida Creek à environ deux miles au sud de Gedi et décrit deux îles bordées de mangroves dans le chenal. Les ruines de Kilepwa se trouvaient à l'extrémité sud-est de la plus petite mais plus élevée des îles, au-dessus d'un passage vers le bassin intérieur. Cette description topographique est un document majeur pour la localisation historique des fouilles.
+
+L'estuaire offre des avantages et des contraintes. Les marées ouvrent et ferment certains accès ; les mangroves fournissent des ressources et modifient les perspectives ; les zones vaseuses peuvent compliquer les accostages. Une histoire de la navigation doit confronter les restes archéologiques à cette géomorphologie plutôt qu'imaginer une mer libre et uniforme entourant la ville.
+
+## IV. Un petit établissement dans un grand réseau
+
+Les fouilles de Kilepwa furent menées dans le cadre d'un ensemble de recherches sur Gedi. Cette relation initiale a influencé l'histoire des interprétations : le petit établissement était parfois regardé comme un appendice du grand centre. Or la proximité d'une ville puissante ne signifie pas qu'une île lui appartenait institutionnellement à chaque période.
+
+Kilepwa possédait ses habitants, ses maisons, ses pratiques funéraires et des activités en relation avec la mer. La complémentarité avec Gedi est plausible, mais elle nécessite de distinguer échange, transport, dépendance et autorité. Une relation économique n'implique pas identité des institutions religieuses.
+
+## V. Kirkman, 1952 : une fouille limitée mais fondatrice
+
+James S. Kirkman publia « The Excavations at Kilepwa: An Introduction to the Medieval Archaeology of the Kenya Coast », dans *The Antiquaries Journal*, volume 32, fascicules 3–4, octobre 1952, pages 168–184. L'article fut mis en ligne rétrospectivement en 2011 par Cambridge University Press ; cette date numérique ne doit pas être confondue avec la date de la fouille ni avec l'année de publication originelle.
+
+Le texte explicite les limites d'une exploration menée en relation avec les recherches à Gedi. Les catégories employées par l'auteur, notamment dans l'historiographie ancienne des « villes arabes », doivent être soumises à la critique. Les plans, coupes et trouvailles restent néanmoins des sources de premier ordre pour l'état documentaire des années 1950.
+
+## VI. Reconstruire la chronologie sans forcer les dates
+
+Des synthèses fondées sur les fouilles de Kirkman situent la vie de Kilepwa de la seconde moitié du XIIe siècle jusqu'au XVIIe, tout en distinguant plusieurs périodes et phases d'occupation. Bita et Forsythe (2023) retiennent prudemment des occupations principalement des XIIIe–XVIIe siècles lorsque les recherches postérieures sont prises en compte. Ces formulations ne sont pas contradictoires par principe : elles peuvent correspondre à des critères distincts de datation des vestiges.
+
+Un fragment de céramique importée offre souvent un intervalle typologique. Une tombe monumentale peut avoir une date d'édification différente de celle d'une maison voisine. Il faut donc bannir toute expression suggérant que « toute la ville fut fondée en 1200 » ou « toute la ville disparut en 1600 » sans preuves spécifiques.
+
+## VII. La succession des occupations : plusieurs rythmes
+
+Une histoire longue de Kilepwa comprend probablement des phases d'extension, de réparation, de réorganisation des circulations et d'abandon partiel. Les structures visibles à la surface peuvent appartenir à des périodes différentes. La même parcelle peut accueillir une maison reconstruite et une installation postérieure sans que tous les murs aient fonctionné ensemble.
+
+Les descriptions anciennes évoquent des subdivisions chronologiques que de nouvelles fouilles doivent confronter aux datations disponibles. Le rôle de l'encyclopédie n'est pas de reproduire artificiellement un plan unique de la ville à son « apogée » ; il est de distinguer les ensembles qui peuvent être attribués avec confiance à une phase donnée.
+
+## VIII. Architecture domestique en pierre et matériaux fragiles
+
+La ville comprend des restes de maisons bâties en maçonnerie corallienne. L'état de conservation favorise ces bâtiments, tandis que les structures de terre et de bois peuvent avoir disparu. Cette asymétrie déforme la perception de l'habitat : les quartiers de pierre donnent l'impression d'une société constituée seulement de notables et de maisons durables.
+
+Les habitants devaient cuisiner, entreposer des biens, réparer des outils et entretenir des embarcations. Une étude du sacré centrée uniquement sur la mosquée manquerait ces activités ordinaires qui rendaient matériellement possible la communauté religieuse. La forme de la maison aux gravures est ainsi aussi importante que les images qu'elle conserve.
+
+## IX. La mosquée : indices matériels d'un islam vécu
+
+Les travaux archéologiques signalent un bâtiment de mosquée à Kilepwa. L'identification d'une mosquée repose sur l'orientation, le plan et les caractéristiques architecturales, non sur une affirmation générale selon laquelle toute ville swahilie serait nécessairement entièrement musulmane dès sa fondation. Les transformations du bâtiment et les périodes de son usage doivent être établies à partir de son histoire propre.
+
+Le Coran 2:144 fournit une référence normative à la direction de la prière. Mais il ne décrit pas la construction de Kilepwa. L'étude distingue les textes généraux du rituel musulman et les murs spécifiques de l'île, dont les datations sont élaborées archéologiquement.
+
+## X. La qibla et le mihrab : géographie du geste
+
+La *qibla* oriente les fidèles vers La Mecque ; le *miḥrāb* indique cette direction dans de nombreux édifices musulmans. Les formes de la niche et les choix de matériaux appartiennent à une histoire régionale, discutée par Stéphane Pradines dans ses travaux sur le mihrab swahili. Une niche conservée renseigne l'architecture, mais ne restitue pas à elle seule les sermons, les responsables religieux ni la fréquentation.
+
+Le lieu de prière organise des gestes corporels répétés, en relation avec les seuils et les chemins. Une mosquée dans un petit établissement insulaire peut constituer un lieu de rassemblement important. Sa présence ne donne cependant aucun recensement des croyants et ne prouve pas que tous les habitants participaient à chaque assemblée.
+
+## XI. La prière du vendredi et les institutions locales
+
+Le Coran 62:9 évoque le rassemblement du vendredi. Sur la côte swahilie, les mosquées de congrégation ont pu fonctionner comme des infrastructures de visibilité et de sociabilité. Mais l'archéologie de Kilepwa ne livre aucun procès-verbal du contenu d'un sermon, de l'école juridique du prédicateur ou d'une décision politique particulière.
+
+L'existence d'un lieu de prière et d'un port peut favoriser la rencontre entre habitants et voyageurs, sans que la mosquée devienne par définition un bureau commercial. La complémentarité des espaces constitue une hypothèse de fonctionnement social qui réclame des données propres.
+
+## XII. Les eaux et les besoins de purification
+
+Une île habitée a besoin d'eau douce. Les inventaires de Kilepwa incluent un puits, renseignement repris par la synthèse de Bita et Forsythe (2023). Le Coran 5:6 décrit les ablutions dans un cadre normatif, mais la seule présence d'un puits ne démontre ni sa fonction exclusivement liturgique ni la forme exacte des installations de purification associées à la mosquée.
+
+L'approvisionnement en eau conditionne la cuisine, la conservation de certaines matières et l'entretien des habitants. Les mêmes réseaux matériels peuvent rendre possible des gestes ordinaires et des obligations religieuses. Une étude précise devrait documenter la proximité des ouvrages, leurs reconstructions et leurs dépôts.
+
+## XIII. Les tombes à pilier : monument et sélection sociale
+
+La documentation signale des tombeaux à pilier à Kilepwa. Ces structures sont importantes pour l'histoire des mémoires urbaines : elles rendent visibles certaines sépultures et engagent un travail considérable de maçonnerie. Un monument funéraire peut lier une famille, un groupe de fidèles ou un quartier à un défunt prestigieux ; il ne révèle pas automatiquement son nom.
+
+Monika Baumanová (2018) a montré, sur un vaste corpus swahili, que les tombes à pilier peuvent participer à la formation d'identités collectives. L'analogie éclaire les questions posées à Kilepwa, mais ne permet pas d'imposer un système uniforme de sainteté ou de patronage.
+
+## XIV. Les chronologies des tombeaux
+
+Certaines notices dérivées de Kirkman suggèrent qu'un tombeau à pilier de Kilepwa pourrait remonter aux environs du XIVe siècle. Cette datation doit rester une proposition historique fondée sur la typologie ou les contextes disponibles, non la mention d'une épitaphe précisément connue. Les rapports entre tombe, mosquée et maison ne peuvent être établis sans séquence de construction.
+
+Une sépulture peut rester un repère longtemps après sa création. Elle peut également être réparée, ornée ou réinterprétée. Une histoire du sacré attentive aux monuments doit accepter ces temporalités plurielles au lieu d'enfermer tous les gestes dans l'année de fondation du site.
+
+## XV. La maison aux gravures : un document exceptionnel
+
+Edward Pollard et Caesar Bita ont publié en 2017 des gravures incisées dans l'enduit intérieur d'une maison du XVe siècle à Kilepwa. L'article, « Ship engravings at Kilepwa, Mida Creek, Kenya », paraît dans *Azania*, 52/2, pages 173–191. L'emplacement intérieur des images est déterminant : il s'agit d'un geste effectué dans un environnement bâti, et non d'une inscription naturellement exposée à tous les navigateurs.
+
+La datation de la maison fournit un cadre à l'interprétation ; elle ne prouve pas que tous les dessins furent produits la même journée. L'enduit peut avoir été gravé pendant la vie du bâtiment, éventuellement par plusieurs mains. Une analyse complète devrait distinguer les superpositions et la profondeur des incisions.
+
+## XVI. Les images de navires : ce qui est effectivement figuré
+
+L'étude de 2017 identifie des embarcations de l'océan Indien représentées au repos ou à la voile. Plusieurs dessins permettent de distinguer mât, voile, proue et détails du bordage. Les auteurs les rapprochent du type de navire connu sous le nom de *mtepe* au singulier, *mitepe* au pluriel. Cette comparaison fournit un vocabulaire technique, mais ne garantit pas que chaque dessin représente un exemplaire parfaitement identifiable.
+
+Les images ne sont pas des photographies ni des plans d'ingénieur. Elles peuvent simplifier les proportions et privilégier des caractères immédiatement reconnaissables. Leur valeur est précisément de révéler ce que des acteurs d'une société maritime choisissaient de montrer dans la représentation d'un bateau.
+
+## XVII. Le terme *mtepe* : technique, langue et précautions
+
+Le *mtepe* appartient aux traditions nautiques historiques de l'océan Indien occidental, avec des caractéristiques de coque et de voile étudiées dans l'ethnographie maritime. L'identification des gravures de Kilepwa avec des *mitepe* est une comparaison technique proposée par Pollard et Bita, non un terme inscrit à côté des dessins. La prudence exige de distinguer le mot swahili attesté par des sources ultérieures de la dénomination employée par les graveurs médiévaux.
+
+Une archéologie philologique confronte formes représentées, textes sur les bateaux, récits de voyageurs et construction observée. Elle ne remplace pas une lacune de langue par une supposition. Le dessin peut témoigner d'une connaissance nautique même si nous ignorons le nom que son auteur donnait à l'embarcation.
+
+## XVIII. Les voiles : geste technique et circulation des savoirs
+
+Une voile figurée sur l'enduit peut conserver un indice sur les pratiques de navigation et la manière de représenter les gréements. La comparaison avec des bateaux historiques doit porter sur l'orientation, l'attache au mât et la silhouette, en tenant compte des simplifications de l'artiste. L'image ne permet pas d'établir seule les dimensions réelles du navire, sa cargaison ou son itinéraire.
+
+Les technologies nautiques circulent entre régions par apprentissage et contact. Mais un détail formel d'un bateau ne donne pas l'identité ethnique de son constructeur. Les communautés africaines de la côte participèrent à ces innovations comme utilisateurs et artisans, non comme simples récepteurs passifs.
+
+## XIX. Les bordages et la question des assemblages
+
+Les détails de planches et de bordages intéressent l'archéologie maritime parce que les épaves anciennes de la côte sont moins nombreuses que les représentations et textes. Pollard et Bita signalent ces éléments comme des indices sur l'apparence des embarcations. Il serait néanmoins excessif d'en déduire une technique de couture précise des planches sans confrontation avec des restes de coque et des sources techniques.
+
+L'image est un indice de perception et de mémoire : elle montre ce qui semblait caractéristique à un observateur. Elle peut différer d'une description normative de charpentier. Une reconstruction 3D devrait signaler les caractères directement visibles dans le dessin et ceux proposés à partir de parallèles.
+
+## XX. La fonction de la pièce gravée : chantier, habitation, réunion ?
+
+L'article de 2017 discute le bâtiment qui porte les gravures. Son identification comme maison appartient à une analyse des murs et de la disposition spatiale. La présence de bateaux figurés ne suffit pas à transformer la pièce en chapelle de marins, en salle d'armateurs ou en atelier de construction navale. Ces propositions exigeraient d'autres indices, comme des outils, des dépôts spécialisés ou des inscriptions.
+
+L'environnement domestique offre plusieurs possibilités : une personne a pu dessiner un bateau connu, marquer une expérience de traversée ou produire une image destinée à d'autres occupants. Il faut conserver l'éventail des explications plutôt qu'en privilégier une parce qu'elle paraît plus frappante.
+
+## XXI. L'hypothèse votive : que signifierait-elle ?
+
+Une image votive correspondrait à un geste de dédicace ou d'appel à une puissance, éventuellement lié au retour d'une traversée ou à une demande de protection. Pollard et Bita évoquent cette possibilité parmi d'autres. Elle serait rendue plus solide par une inscription, une disposition rituelle répétée ou une tradition locale directement documentée, mais ces éléments ne sont pas démontrés pour les gravures dans le résumé accessible de l'étude.
+
+Parler d'« ex-voto marin » comme d'une conclusion certaine serait donc trompeur. Il faut distinguer trois niveaux : les traits incisés sont observés, leur identification nautique est fortement étayée, leur fonction religieuse demeure conjecturale. La force scientifique du dossier tient précisément à cette distinction.
+
+## XXII. Une fonction de charme ou de protection ?
+
+Une autre possibilité serait celle d'une image protectrice : dessiner un navire pour favoriser une navigation sûre, éloigner un danger ou maintenir la mémoire d'un trajet. La notion de « charme » n'est pas un diagnostic archéologique ; c'est une hypothèse d'anthropologie des pratiques. Elle n'autorise aucune reconstitution de formule prononcée, de nom divin ou de cérémonie accomplie au moment de l'incision.
+
+Les sociétés maritimes développent souvent des pratiques visant à négocier l'incertitude des voyages. Mais cette généralité comparative ne prouve pas la fonction de l'image particulière de Kilepwa. Il faut aussi envisager la décoration, l'apprentissage et le loisir de dessiner.
+
+## XXIII. Les dangers de la mer : contexte sans superstition automatique
+
+La navigation dans les estuaires à marées comporte des risques : hauts-fonds, vents, courants et variations de visibilité. Les marins peuvent élaborer des savoirs techniques et des réponses religieuses à ces dangers. Cependant, une représentation de bateau n'est pas automatiquement « magique » parce qu'elle apparaît dans un monde dangereux. Elle peut célébrer une compétence sans adresser de demande à une puissance surnaturelle.
+
+Une histoire équilibrée refuse l'opposition artificielle entre science nautique et croyance. Les mêmes acteurs peuvent connaître les vents et accomplir des prières. L'archéologie doit établir séparément les traces de ces comportements plutôt que projeter sur eux un modèle d'irrationalité.
+
+## XXIV. Le rapport à l'islam : une image dans une société musulmane
+
+La présence de mosquées à Kilepwa inscrit l'établissement dans une histoire locale de l'islam. La représentation de navires dans une maison ne contredit pas par principe cette appartenance. Les attitudes envers les images ont varié selon les espaces, les époques et les interprétations juridiques ; aucune règle unique déduite d'une controverse postérieure ne peut être attribuée automatiquement aux habitants du XVe siècle.
+
+Les gravures de bateaux ne représentent pas nécessairement des êtres animés ; les discussions sur les images anthropomorphes ne permettent donc pas de déterminer leur fonction. Il faut respecter les pratiques locales telles qu'elles sont attestées, sans fabriquer un conflit doctrinal.
+
+## XXV. L'eau du Coran et les eaux de Mida Creek
+
+Le Coran 5:6 concerne les ablutions ; 2:144 l'orientation de prière. Les deux passages sont des sources normatives pour le monde musulman, non des descriptions de l'eau de Mida Creek. La mer et le chenal offrent des voies de déplacement, mais la purification implique des gestes et des qualités d'eau qui doivent être examinés selon les pratiques religieuses et les conditions matérielles.
+
+L'existence d'un puits sur l'île contribue à une histoire de l'approvisionnement. Le fait qu'une mosquée et des marins partagent le même espace ne signifie pas que toutes les eaux du lieu avaient un statut rituel identique.
+
+## XXVI. Les tombes et les navigateurs : rapprochement prudent
+
+Une ville maritime possède des morts comme toute société. Les tombes à pilier de Kilepwa témoignent de monuments funéraires et probablement de différenciations de mémoire. Il serait séduisant d'y voir des sépultures de capitaines, mais aucun relevé utilisé ici ne permet d'établir cette identification. Les images de navires dans une maison ne prouvent pas que les individus inhumés possédaient les bateaux représentés.
+
+Le rapprochement est donc d'abord spatial et social : une même communauté pouvait construire des mosquées, faire naviguer des embarcations et monumentaliser certains morts. L'attribution de relations individuelles réclame des inscriptions, une chaîne généalogique ou des objets contextuellement associés.
+
+## XXVII. Les tombes à pilier dans l'urbanisme swahili
+
+Monika Baumanová, dans *Archaeologies* (2018), analyse les tombes à pilier comme des manifestations possibles de mémoire partagée et de hiérarchies spatiales. Les monuments peuvent organiser la visibilité de certains défunts dans l'espace urbain. La variation de formes et de décors indique cependant que l'on ne peut les réduire à un modèle architectural uniforme ou à un statut social unique.
+
+Kilepwa est un cas d'étude utile pour examiner la coexistence de prière, d'habitat, de paysage funéraire et de navigation. Mais les plans nécessaires pour déterminer tous les parcours des habitants restent partiels ; l'analyse ne doit pas inventer un circuit cérémoniel qui passerait nécessairement par chaque monument.
+
+## XXVIII. La baie intérieure et les points de débarquement
+
+Les travaux de Bita et Forsythe (2023) proposent une lecture de Mida Creek à l'échelle du paysage maritime. Leur prospection a reconnu différents types de vestiges : maisons, concentrations de céramiques, amas de coquillages et installations de rivage. Kilepwa est ainsi replacée dans un système de chenaux, de débarcadères possibles et de connexions avec des centres plus importants.
+
+Un lieu de débarquement n'est pas automatiquement un port de haute mer. Les capacités d'accès diffèrent selon les marées et les tailles des bateaux. L'enquête doit confronter la morphologie du chenal aux objets retrouvés plutôt qu'attribuer à toute maison riveraine une fonction d'entrepôt.
+
+## XXIX. Gedi : ville majeure, port éventuel et dépendances contestées
+
+Gedi est établie à l'intérieur des terres par rapport à l'océan et à Mida Creek. Bita et Forsythe (2023) rappellent qu'un centre urbain participant aux échanges transocéaniques avait besoin d'un accès aux voies maritimes. Leur étude suggère que des habitats proches de Chafisi ont pu fonctionner comme avant-port pour Gedi, mais n'identifie pas un monopole certain de Kilepwa sur ces échanges.
+
+La distinction est capitale. On ne peut affirmer que les gravures de Kilepwa montrent des bateaux appartenant au pouvoir de Gedi ou destinés à transporter les revenus de ses mosquées. Le réseau est plausible ; les propriétaires et leurs trajets demeurent inconnus.
+
+## XXX. Chafisi, Shaka, Vigaeni : un paysage pluriel
+
+La prospection récente de Mida Creek a reconnu différents secteurs associés à des maisons, objets de plage et occupations anciennes. Shaka Point possède notamment des traces de mosquée et de tombes, avec des indications nouvelles de présence au XVe siècle. Chafisi est discuté comme possible lieu de débarquement lié à Gedi. Ces toponymes désignent d'autres sites et ne doivent pas être confondus avec Kilepwa.
+
+Une histoire comparative peut les rapprocher pour examiner des fonctions complémentaires, mais ne peut déplacer leurs trouvailles vers le corpus de Kilepwa. Les collections de céramiques, les puits et les images de navires doivent conserver leur attribution géographique.
+
+## XXXI. La recherche « MUCH to Discover in Mida Creek »
+
+Bita et Forsythe (2023) présentent les résultats d'une prospection réalisée dans le cadre du projet « MUCH to Discover in Mida Creek », associant notamment les National Museums of Kenya, Ulster University et le British Institute in Eastern Africa. La campagne de terrain principale évoquée dans l'article eut lieu en août et septembre 2019, dans un programme plus large de 2018 à 2021.
+
+La recherche visait à dépasser une histoire limitée aux bâtiments monumentaux et à identifier les ressources, sites de débarquement et circulations du rivage. Cette évolution méthodologique bénéficie à l'étude du sacré : elle relie les mosquées aux activités quotidiennes et au travail maritime sans décréter religieux chaque objet du bord de mer.
+
+## XXXII. La cuisine, les coquillages et les ménages
+
+Les amas de coquillages et de céramiques présents dans le paysage de Mida Creek renseignent des activités alimentaires et économiques. Ils doivent être étudiés selon leurs espèces, leurs contextes et les processus de dépôt. Un assemblage de coquilles dans un dépotoir ne constitue pas une offrande marine. Il pourrait acquérir une valeur rituelle dans une situation particulière, mais celle-ci doit être reconnue par d'autres indices.
+
+Le quotidien est une condition de la vie religieuse. Les fidèles se nourrissaient, entretenaient leurs maisons et soutenaient les circulations avant et après la prière. Cette approche corrige le biais des histoires purement monumentales qui décrivent la mosquée mais oublient la communauté qui la faisait fonctionner.
+
+## XXXIII. La circulation des objets importés
+
+La côte swahilie participe à des réseaux de céramiques, perles et objets provenant de régions variées. Les dépôts importés peuvent contribuer à construire une chronologie relative des sites, à condition de respecter les dates de production et les contextes d'enfouissement. Une porcelaine chinoise peut avoir été fabriquée loin de Kilepwa et transmise par plusieurs intermédiaires.
+
+Son origine matérielle ne prouve pas l'origine religieuse ou ethnique de la personne qui l'a utilisée. L'histoire des biens et celle des croyances se croisent, mais ne se superposent pas nécessairement. Les réseaux maritimes offrent des possibilités de contact sans imposer des filiations simples.
+
+## XXXIV. Les monnaies : preuve de circulation, non carte confessionnelle
+
+Les monnaies retrouvées dans les villes swahilies peuvent éclairer les autorités émettrices, les valeurs et les réseaux commerciaux. Mais la présence d'une pièce étrangère dans un contexte domestique ne signifie pas que son utilisateur adhérait au culte du souverain qui l'avait frappée. Une monnaie circule précisément parce qu'elle peut être acceptée au-delà de la communauté qui l'a créée.
+
+Aucune collection monétaire numériquement détaillée n'est reconstruite ici pour Kilepwa sans rapport de fouille complet. La méthode exige un inventaire, des couches, l'identification des métaux et des légendes avant toute conclusion sur le statut politique du site.
+
+## XXXV. Les images maritimes comme archives techniques
+
+Les gravures de 2017 constituent une source majeure parce qu'elles montrent des bateaux dans une société qui naviguait, et non seulement des objets transportés. Elles ouvrent une histoire des techniques locales, de la représentation des mâts, des voiles et des coques. L'anthropologie des images permet aussi de demander qui dessine, pour qui et dans quelle pièce.
+
+Il n'existe aucune raison de supposer que la pratique du dessin était réservée à des prêtres ou à des marchands de haut rang. Les graveurs demeurent anonymes. Les images peuvent exprimer un savoir transmis oralement et par les gestes sans qu'un traité de navigation ait été écrit.
+
+## XXXVI. Un dessin de bateau n'est pas un navire retrouvé
+
+Une gravure donne des informations sur les traits privilégiés par celui qui la réalise, mais ses proportions et son style peuvent être approximatifs. Il serait dangereux de produire une reconstitution 3D rigoureusement métrique à partir du seul tracé. Les détails des coques doivent être comparés à des données archéologiques et ethnographiques indépendantes.
+
+L'honnêteté documentaire est cruciale. Une image générée d'un navire en mer peut aider à comprendre une hypothèse de construction, mais elle doit annoncer clairement les parties inférées et celles que les traits gravés permettent effectivement d'observer.
+
+## XXXVII. Une image de protection serait-elle un ex-voto ?
+
+Le terme *ex-voto* est historiquement associé à des pratiques de don et de reconnaissance d'un engagement religieux ; il possède des usages comparatistes plus larges. L'appliquer à Kilepwa peut être utile pour construire une hypothèse sur les images, mais il faut éviter de transférer automatiquement les usages des marins grecs ou chrétiens à une maison swahilie du XVe siècle.
+
+Si l'image avait une fonction protectrice, sa signification dépendrait d'un environnement local de croyances et de pratiques musulmanes. Or aucune dédicace vérifiée ne précise l'intention du graveur. L'expression « éventuelle image votive » demeure acceptable ; l'expression « ex-voto islamique prouvé » ne l'est pas.
+
+## XXXVIII. Vernant et Detienne : les comparaisons avec les marins grecs
+
+Dans le monde grec antique, des marins ont offert des objets et des inscriptions à des divinités ou conservé des récits de salut en mer. Les travaux de Vernant et Detienne aident à comprendre comment les pratiques religieuses se situent dans des relations sociales concrètes. La comparaison avec Kilepwa peut porter sur les conditions de la navigation et sur l'usage possible d'une image comme mémoire du risque.
+
+Elle ne prouve aucune filiation cultuelle directe. Le dessin de navire n'est pas automatiquement l'équivalent d'une offrande à Poséidon ou à Aphrodite Euploia. Les traditions, les siècles et les institutions diffèrent. L'analogie n'a de valeur que si ses limites sont clairement exposées.
+
+## XXXIX. Durkheim : le navire comme signe de collectif ?
+
+Durkheim analyse le rôle des représentations et rites dans la constitution des groupes. Un bateau peut, dans certaines communautés, symboliser un travail partagé, des liens de confiance et une aventure collective. Mais une gravure isolée ne prouve pas que l'embarcation était un emblème rituel de toute la ville de Kilepwa.
+
+La théorie suggère des questions sur l'identité sociale des navigateurs ; elle ne donne pas accès à leurs émotions ou à leurs cérémonies. Un savoir technique et un lien collectif peuvent être transmis sans que le dessin soit lui-même un objet sacré.
+
+## XL. Eliade : la mer comme espace de puissance et ses limites
+
+Mircea Eliade a traité de la signification symbolique des eaux et de certains seuils. Mida Creek pourrait inviter à une réflexion phénoménologique sur le passage entre terre et océan. Cependant, les marées sont d'abord un fait physique, et le chenal n'est pas attesté comme un fleuve divin. Il faut distinguer les conditions environnementales des interprétations spirituelles que des habitants ont pu leur attribuer.
+
+Le risque d'une lecture trop générale est d'effacer l'histoire : les gravures appartiennent à une maison du XVe siècle, dans une ville islamisée et maritime. Leur possible fonction de charme doit être examinée dans ce contexte, non absorbée dans une mythologie universelle des eaux.
+
+## XLI. Dumézil et la prudence face aux schémas transcontinentaux
+
+Les travaux de Georges Dumézil sur les systèmes indo-européens ne justifient pas l'attribution d'une structure trifonctionnelle aux habitants de Kilepwa. La présence de marins, de responsables religieux et d'artisans ne suffit pas à établir une idéologie du même type que celle reconstituée pour certains corpus anciens.
+
+Une histoire comparée rigoureuse accepte de ne pas trouver partout les catégories qu'elle connaît ailleurs. Les ressemblances de professions ne démontrent pas une ressemblance de cosmologie. Le vocabulaire analytique doit rester proportionné aux sources.
+
+## XLII. Hegel, Nietzsche et les récits de « diffusion civilisatrice »
+
+L'ancienne historiographie a parfois réduit la côte swahilie à une civilisation apportée par des marchands extérieurs. Le rapprochement des gravures, de la maçonnerie et des objets d'importation impose au contraire de reconnaître la capacité des communautés africaines à construire, naviguer, représenter et interpréter leur monde. La philosophie critique de l'histoire peut servir à examiner les présupposés hiérarchiques des récits de progrès.
+
+Hegel et Nietzsche ne sont pas des témoins du site et ne doivent pas être invoqués pour expliquer une formule précise prononcée par un marin. Leur utilité est de mettre en question les catégories modernes de valeur et de devenir, non de remplacer les fouilles.
+
+## XLIII. Girard : les dangers de la mer ne démontrent aucun sacrifice
+
+René Girard a proposé une théorie de la violence et du sacré centrée sur des mécanismes de crise et de victime. Le risque de naufrage et le désir éventuel de protection ne suffisent pas à établir un rite sacrificiel. Aucune trace de mise à mort fondatrice ou de bouc émissaire n'est identifiée dans les gravures par l'article de 2017.
+
+La théorie peut inspirer des questions sur les récits de catastrophe, mais aucun de ces récits précis n'est disponible pour les graveurs de Kilepwa. L'archéologie doit refuser la fabrication d'un événement pour satisfaire une grille philosophique.
+
+## XLIV. Égypte et Mésopotamie : images de bateaux et institutions distinctes
+
+Les mondes égyptien et mésopotamien ont transmis de nombreuses représentations de navires, parfois en contextes funéraires ou rituels. Ces corpus permettent de comparer les méthodes d'identification d'un dessin technique et d'une image consacrée. Mais la présence d'un bateau dessiné dans une maison swahilie n'établit aucune transmission depuis le Nil ou l'Euphrate.
+
+Les différences de textes, d'architecture et de fonction doivent rester premières. L'histoire de l'océan Indien possède ses propres réseaux ; les rapprochements avec les civilisations antiques sont ici typologiques, non généalogiques.
+
+## XLV. Iran, Inde et Chine : les mers reliées, les rites distincts
+
+Les réseaux de navigation de l'océan Indien ont mis en contact des sociétés africaines avec des régions d'Arabie, d'Iran, d'Inde et, par plusieurs intermédiaires, de Chine. Des techniques de coque et des céramiques peuvent circuler sans que les croyances se transmettent mécaniquement. Les marins pouvaient partager un savoir des vents tout en pratiquant des religions différentes.
+
+L'origine d'une technique navale ne se déduit pas d'une seule forme de proue ; elle exige une chronologie des constructions, des textes et des artefacts. Une comparaison avec des bateaux indiens ou persans demeure intéressante lorsque les ressemblances sont mesurables, mais elle ne signifie pas que les images de Kilepwa décrivent un navire d'une nationalité moderne déterminée.
+
+## XLVI. Les Amériques : images de navigation et risque de fausse filiation
+
+Des cultures des Amériques anciennes ont représenté des embarcations et construit des espaces de mémoire. Ces exemples peuvent aider à réfléchir à la manière dont une image représente un métier, un rite ou un trajet. Ils ne fournissent aucune preuve de relations avec Kilepwa ni avec les graveurs de Mida Creek.
+
+La comparaison est méthodologique lorsqu'elle pose la question des critères permettant de distinguer dessin technique et offrande. Elle devient pseudohistorique lorsqu'elle prétend démontrer un contact transocéanique sur la seule base d'une silhouette de bateau.
+
+## XLVII. Le patrimoine maritime et les communautés actuelles
+
+Le projet « MUCH to Discover in Mida Creek » s'inscrit dans une coopération scientifique qui a associé des partenaires locaux à la recherche sur le patrimoine maritime. La conservation ne doit pas se limiter à une documentation d'objets isolés ; elle concerne les chemins, mangroves, lieux de pêche et mémoires que les habitants connaissent et utilisent. Une gravure protégée dans une ruine peut être historiquement précieuse et culturellement importante sans qu'on invente son sens.
+
+Les actions de médiation devraient préciser la date des fouilles, rendre accessibles les images des gravures et expliquer les hypothèses concurrentes. Il convient également de distinguer les droits des communautés, les politiques patrimoniales et les interprétations universitaires.
+
+## XLVIII. Archéologie des surfaces fragiles
+
+Les gravures incisées dans l'enduit sont vulnérables : abrasion, humidité, croissance biologique et manipulation peuvent effacer les traits. Leur conservation exige relevés photographiques à haute résolution, mesures des incisions et limitation des interventions non documentées. Un moulage ou une restauration pourrait altérer une information si ses effets ne sont pas anticipés.
+
+Une restitution numérique devrait conserver les détails du support, y compris les lacunes, et ne pas compléter les traits perdus comme s'ils étaient connus. La meilleure image n'est pas nécessairement la plus spectaculaire, mais celle qui laisse le lecteur distinguer la trace originale de l'hypothèse de l'archéologue.
+
+## XLIX. Programme de recherches supplémentaires
+
+Le dossier appelle une confrontation systématique des plans de Kirkman avec les relevés récents, ainsi qu'une analyse des murs de la maison gravée : phases d'enduit, superpositions de traits, orientation des dessins et relations avec portes et fenêtres. La provenance des matériaux pourrait être examinée avec des méthodes non destructives. Les vestiges maritimes devraient être confrontés à la géomorphologie des chenaux et à une étude des points d'accostage.
+
+Pour l'hypothèse votive, il faudrait rechercher des comparaisons documentées dans le même espace culturel et chronologique, plutôt que mobiliser des exemples éloignés sans lien historique. Les traditions orales doivent être recueillies et datées dans leur forme actuelle, non utilisées pour inventer une transmission millénaire.
+
+## L. Certitudes, interprétations, hypothèses non démontrées
+
+**Faits attestés :** des fouilles furent menées par Kirkman à Kilepwa ; il publia un article en 1952 ; une ville de pierre comprenant maisons, mosquée, puits et tombeaux à pilier est reconnue dans les synthèses ; Pollard et Bita ont documenté en 2017 des gravures de navires dans une maison du XVe siècle ; les images représentent des éléments de gréement et de coque ; Bita et Forsythe ont publié en 2023 une prospection du paysage de Mida Creek.
+
+**Interprétations étayées :** plusieurs embarcations représentées ressemblent à des *mitepe* ; les dessins peuvent témoigner de connaissances de navigateurs impliqués dans l'économie maritime ; Kilepwa possédait une relation importante avec les chenaux navigables et les autres établissements de Mida Creek.
+
+**Hypothèses non établies :** fonction systématiquement votive des gravures ; identité des graveurs ; dédicace à un saint marin ; signification magique précise ; appartenance des navires à un souverain nommé ; rôle exclusif de Kilepwa comme avant-port de Gedi ; identité des personnes enterrées sous chaque pilier ; permanence d'un rite de protection maritime du XVe siècle à nos jours.
+
+## LI. Conclusion : une image de bateau entre technique et religion
+
+Kilepwa donne à l'histoire des origines du sacré un problème particulièrement fécond. L'île présente des monuments religieux identifiables et des mémoires funéraires ; elle conserve aussi, dans une maison, des représentations de navires dont le sens n'est pas évident. Ces images permettent de documenter les savoirs nautiques d'une société africaine et de discuter la place des incertitudes de la mer dans les expériences de ses habitants.
+
+La conclusion la plus rigoureuse refuse de choisir entre une lecture exclusivement profane et un caractère sacré démontré. Les gravures pouvaient être destinées à instruire, à commémorer, à décorer ou à protéger ; les sources ne désignent pas une fonction unique. La science des religions progresse ici par une distinction nette entre l'image attestée et l'interprétation possible. La mer n'est ni un décor ni une divinité supposée ; elle est un milieu dans lequel les habitants ont construit des techniques, des institutions et des gestes dont certaines traces restent à découvrir.
+
+## Sources primaires et archives de terrain
+
+1. **James S. Kirkman**, « The Excavations at Kilepwa: An Introduction to the Medieval Archaeology of the Kenya Coast », *The Antiquaries Journal*, 32(3–4), 1952, p. 168–184. Première documentation archéologique ; édition universitaire et notice : https://doi.org/10.1017/S0003581500076812. La mise en ligne Cambridge de 2011 ne change pas l'année de publication.
+2. **Edward Pollard et Caesar Bita**, « Ship engravings at Kilepwa, Mida Creek, Kenya », *Azania*, 52(2), 2017, p. 173–191, DOI 10.1080/0067270X.2017.1283096. Relevés et analyse directe des gravures, avec interprétations concurrentes ; https://doi.org/10.1080/0067270X.2017.1283096.
+3. **Caesar Bita et Wes Forsythe**, « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6(12), 2023, p. 7366–7380. Prospection du paysage de Mida Creek et relation possible avec Gedi ; https://doi.org/10.3390/heritage6120386.
+4. **Coran**, 2:144 (orientation de la prière), 5:6 (ablutions), 9:18 (entretien des mosquées), 62:9 (rassemblement du vendredi). Source scripturaire normative, sans mention de Kilepwa : https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/9/18 ; https://quran.com/62/9.
+5. **Kirepwe Ruins, AbiriKenya**, notice patrimoniale secondaire : https://abirikenya.com/counties/kilifi-county/kirepwe-ruins/. Utile pour l'identification toponymique et l'état public du site, mais ne remplace pas une publication de fouilles.
+
+## Bibliographie universitaire critique
+
+- Kirkman, James S. (1952), « The Excavations at Kilepwa: An Introduction to the Medieval Archaeology of the Kenya Coast », *The Antiquaries Journal*, 32(3–4), p. 168–184. DOI : https://doi.org/10.1017/S0003581500076812.
+- Pollard, Edward et Caesar Bita (2017), « Ship engravings at Kilepwa, Mida Creek, Kenya », *Azania: Archaeological Research in Africa*, 52(2), p. 173–191. DOI : https://doi.org/10.1080/0067270X.2017.1283096.
+- Bita, Caesar et Wes Forsythe (2023), « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6(12), p. 7366–7380. DOI : https://doi.org/10.3390/heritage6120386.
+- Garlake, Peter S. (1966), *The Early Islamic Architecture of the East African Coast*, British Institute of History and Archaeology in East Africa, mémoire 1, 207 p. Référence pour les formes régionales d'architecture religieuse.
+- Baumanová, Monika (2018), « Pillar Tombs and the City: Creating a Sense of Shared Identity in Swahili Urban Space », *Archaeologies*, 14, p. 377–411. DOI : https://doi.org/10.1007/s11759-018-9338-x.
+- Pradines, Stéphane (2003), « Le mihrâb swahili : l'évolution d'une architecture islamique en Afrique subsaharienne », *Annales islamologiques*, 37, p. 355–381. DOI : https://doi.org/10.3406/anisl.2003.1332.
+- Wynne-Jones, Stephanie et Adria LaViolette (dir.) (2018), *The Swahili World*, Londres et New York, Routledge. Synthèse comparative ; aucune donnée de Kilepwa n'est attribuée au livre sans indication.
+- Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse*, Paris, Félix Alcan.
+- Detienne, Marcel et Jean-Pierre Vernant (dir.) (1979), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard.
+- Eliade, Mircea (1957), *Le Sacré et le Profane*, édition allemande d'origine.
+- Dumézil, Georges (1968–1973), *Mythe et épopée*, Paris, Gallimard, trois volumes.
+- Nietzsche, Friedrich (1872), *La Naissance de la tragédie*.
+- Girard, René (1972), *La Violence et le sacré*, Paris, Grasset.
+- Hegel, G. W. F., leçons sur la philosophie de l'histoire, éditions posthumes. Ces auteurs sont utilisés comme cadres de réflexion critiques et non comme sources des faits archéologiques de Kilepwa.
+
+**Clause éditoriale :** étude publique intégrale destinée à la file transactionnelle de MYTHOS. Le numéro propre reste 794 jusqu'à attribution par GitHub Actions. Pas de manuscrit direct numéroté dans la collection, pas de modification des registres et pas de publication WordPress.

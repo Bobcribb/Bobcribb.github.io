@@ -1,0 +1,390 @@
+# MYTHOS — Les Origines du sacré — Chapitre 805
+
+# Chafisi et l'estuaire de Mida : maisons de corail, mosquée ruinée, circulations portuaires et sacralité de la ville swahilie
+
+*Monographie universitaire originale. Archéologie de l'habitat, topographie religieuse, histoire des techniques maritimes, céramologie, anthropologie du lieu, philologie et philosophie comparée.*
+
+**Site.** Chafisi, anse nord-orientale de Mida Creek, comté de Kilifi, Kenya ; proximité de la ville médiévale de Gedi. **Principale période étudiée.** Deuxième millénaire de notre ère, avec indices plus particuliers des XIVe–XVe siècles et possibles prolongements tardifs ; la chronologie est fondée principalement sur les céramiques de surface, pas sur une série complète de radiocarbones propre au site. **Précaution.** La fonction d'avant-port de Gedi est une hypothèse argumentée, non un statut politique, fiscal ou administratif démontré. Chafisi ne se confond ni avec Shaka Point, ni avec Kilepwa, ni avec Gedi.
+
+## Résumé analytique
+
+Chafisi se situe sur la bordure orientale de la branche nord-est de Mida Creek, à proximité du point de la crique le plus directement accessible depuis la grande ville de Gedi. Une prospection du projet MUCH to Discover in Mida Creek, publiée par Caesar Bita et Wes Forsythe en 2023, a identifié huit tertres d'habitations non inventoriés auparavant, associés à une mosquée ruinée, un puits et un assemblage de 95 tessons de surface. Les maisons sont enregistrées sous les numéros MC19-16 à MC19-23 et la mosquée sous MC19-14 ; les tessons comprennent 82 fragments de traditions céramiques locales et treize importations, dont des céladons, des monochromes et un fragment de noir sur jaune du Moyen-Orient. Leur typologie révèle une occupation largement contemporaine de Gedi et de Kilepwa. Les auteurs envisagent, compte tenu de la position du site, des possibilités de navigation dans le chenal et des matériaux recueillis, que Chafisi ait servi de point de débarquement et de transbordement vers Gedi. Leur conclusion est expressément hypothétique : aucun quai monumental, registre douanier ou acte de fondation ne prouve une institution d'avant-port dépendante de la ville. Pour l'histoire du sacré, la mosquée, les maisons et l'eau disponible ouvrent une réflexion sur les communautés musulmanes inscrites dans un territoire de travail et de commerce ; elles ne permettent pas de réinventer un sermon, une dynastie ou une biographie de saint. L'étude articule preuves de terrain, comparaisons contrôlées et programmes de recherche.
+
+## I. Une communauté à l'interface de la ville et de la mer
+
+La vieille image d'une cité swahilie comme un noyau de maisons en pierre délimité par un mur ne suffit plus à rendre compte des réseaux économiques, sociaux et religieux de la côte. Les habitants des grandes villes dépendaient de lieux de pêche, de cultures, de fabriques et de passages vers les voies maritimes. Chafisi permet de suivre cette infrastructure urbaine au-delà de la ville la plus spectaculaire de la région, Gedi. Un village ou un petit établissement littoral peut occuper une place fondamentale dans un réseau sans posséder de palais ni de grandes portes.
+
+Le problème religieux se situe au même niveau. Une mosquée ruinée ne livre pas la totalité des convictions des habitants ; elle indique néanmoins que des pratiques de prière ont été inscrites dans cet espace. La relation entre communauté, bâtiment et réseau de commerce peut être étudiée sans réduire la foi à un instrument mercantile ni nier les contraintes économiques de son exercice.
+
+## II. Gedi et la mer : un paradoxe apparent
+
+Gedi est localisée à plusieurs kilomètres de la côte ouverte. Bita et Forsythe (2023) donnent environ six kilomètres jusqu'à l'océan au sud-est et trois kilomètres jusqu'à Mida Creek au sud-ouest. La ville participa pourtant à des échanges étendus à l'échelle de l'océan Indien. Le lien entre le centre urbain et les voies maritimes exige donc de reconstruire des chemins terrestres, des lieux de débarquement et des relations entre établissements.
+
+L'absence de port monumental dans les murs de Gedi ne prouve pas l'absence de commerce maritime. Inversement, la découverte d'un site près du chenal ne permet pas d'affirmer automatiquement qu'il était administré par le pouvoir de Gedi. Les recherches doivent confronter les distances, les courants, les objets et les possibilités de déplacement avant de choisir un modèle institutionnel.
+
+## III. La position de Chafisi dans Mida Creek
+
+Chafisi occupe la rive orientale de l'anse la plus septentrionale de Mida Creek. Cette situation le rend particulièrement intéressant pour un trajet entre Gedi et les eaux du chenal, en supposant que les voies terrestres médiévales facilitaient ce passage. Les auteurs de 2023 présentent le site comme un candidat possible à l'organisation du transbordement. Cette possibilité résulte de la topographie et de la présence d'habitations et d'une mosquée, non d'une charte portuaire connue.
+
+Les marées, bancs de sable et mangroves modifient la facilité d'accès. Le fait qu'un lieu soit aujourd'hui proche du point d'eau navigable le plus voisin ne démontre pas que les profondeurs et trajectoires du XVe siècle étaient identiques. Une histoire paléoenvironnementale reste à construire pour tester le modèle de façon plus complète.
+
+## IV. Le projet MUCH et sa méthode
+
+La campagne MUCH to Discover in Mida Creek associa les National Museums of Kenya, Ulster University et le British Institute in Eastern Africa. Les chercheurs travaillèrent avec des communautés riveraines et des partenaires du réseau Rising from the Depths. Le programme dura de 2018 à 2021, et les données principales étudiées par Bita et Forsythe furent recueillies notamment en août et septembre 2019.
+
+La prospection combina marches le long des rivages, descriptions architecturales, photographies, positionnement GPS, consultation de cartes, entretiens avec des habitants et prélèvement sélectif de poteries de surface. Une partie des mangroves était difficilement accessible. Le projet ne prétend donc pas avoir excavé intégralement tous les tertres reconnus à Chafisi. Cette distinction conditionne la solidité des conclusions.
+
+## V. Une prospection de trente kilomètres et ses limites
+
+L'équipe parcourut approximativement trente kilomètres de rivage autour des secteurs nord et est de Mida, ainsi que certaines zones occidentales et des îles. La reconnaissance privilégia l'arrière-plage et les terrains proches, plus accessibles que la forêt de mangrove. Elle releva des maisons, des puits, des passages, des épandages de céramiques et des sites à coquillages.
+
+Une carte de prospection ne reflète pas la distribution exhaustive des vestiges. Les terres cultivées peuvent rendre visibles des tessons, les constructions modernes détruire des murs et la végétation cacher d'autres structures. Le nombre de sites reconnus dépend des possibilités d'observation. Toute inférence sur la taille ou le caractère « central » de Chafisi doit donc conserver cette incertitude.
+
+## VI. La mosquée MC19-14 : une attestation sans plan complet
+
+La prospection de 2019 signale une mosquée ruinée, enregistrée MC19-14. Les auteurs précisent qu'elle ne subsiste pas suffisamment pour permettre une analyse architecturale détaillée. Cette formulation est capitale : l'existence et la désignation de l'édifice dans les inventaires ne donnent ni la largeur de la salle, ni le profil de son mihrab, ni sa datation certaine. Une reconstruction tridimensionnelle qui fournirait ces détails sans source serait une fiction.
+
+La mosquée contribue néanmoins à l'identification d'une communauté musulmane à l'échelle du secteur. Elle rend plausible la pratique de prières collectives et la présence de personnes chargées de l'entretien, sans en révéler les noms ou l'organisation juridique. Le lieu de prière atteste une présence religieuse ; il ne livre pas un inventaire de croyants.
+
+## VII. Le puits au sud-est de la mosquée
+
+Le rapport situe un puits à quelque 150 mètres au sud-est de la mosquée. La distance est une mesure topographique moderne, qui ne révèle pas automatiquement la chronologie commune des deux installations. Le puits atteste un dispositif d'approvisionnement en eau, élément essentiel pour des maisons côtières et les activités domestiques. Sa fonction n'était pas nécessairement exclusivement rituelle.
+
+Le Coran 5:6 offre un cadre normatif concernant la purification avant la prière ; il ne constitue pas une description des puits de Chafisi. Une interprétation de bassin d'ablution exigerait des aménagements spécifiques, des connexions ou des positions diagnostiques. Le dossier actuel ne permet pas d'en inventer.
+
+## VIII. Huit tertres auparavant non inventoriés
+
+Bita et Forsythe recensent huit tertres de maisons, sous les numéros MC19-16 à MC19-23. Ils se situent sur des terrains ouverts ou cultivés à moins d'environ 110 mètres du rivage. Quatre présentent des éléments de maçonnerie partiellement visibles ; les autres se manifestent davantage par des blocs de corail non taillés et des dépôts de surface. La notion de « tertre » renvoie au relief et aux restes observés, non à un sanctuaire funéraire.
+
+La découverte élargit considérablement le tableau de l'établissement. Elle montre que la mosquée n'était pas une construction isolée au bord de l'eau, mais voisine d'un ensemble de bâtiments dont la forme et les fonctions méritent une fouille. Le caractère résidentiel est étayé par des indices de murs et de mobilier, mais le détail de chaque pièce demeure inconnu.
+
+## IX. L'organisation spatiale des maisons
+
+Les tertres sont plus ou moins rectangulaires ou subcirculaires, et certains ont des limites difficiles à définir. Les différences de niveau du sol à l'intérieur de MC19-16 et MC19-19 suggèrent des subdivisions internes. Toutefois, sans relevé complet et stratigraphie des sols, on ne peut attribuer aux zones basses ou hautes une fonction précise de chambre, réserve, salle de réception ou cuisine.
+
+Le vocabulaire architectural doit éviter les certitudes non fondées. Une maison peut être reconstruite, sa cour agrandie et ses murs récupérés. La surface visible résulte de son usage et de son abandon, non d'un plan conservé intact. La morphologie actuelle est donc une première donnée, pas une photographie du bâtiment médiéval.
+
+## X. Dimensions visibles et dimensions originales
+
+Les auteurs donnent des longueurs moyennes d'environ 19,6 mètres, allant de 9,4 à 26,8 mètres, et des largeurs moyennes d'environ 15,6 mètres, allant de 9,3 à 17,6 mètres. Ils soulignent expressément que ces mesures reflètent souvent l'effondrement des constructions et la difficulté de fixer leurs limites. Présenter ces nombres comme des dimensions de salles intactes serait erroné.
+
+L'étude des fondations apporte une précision : pour MC19-23, des traces suggèrent un bâtiment d'environ 6 × 5 mètres dans une zone de vestiges de 18 × 15 mètres ; pour MC19-22, les éléments de murs internes correspondent à approximativement 14 × 9 mètres, au sein d'un tertre mesurant environ 23 × 17,3 mètres. Ces chiffres permettent de comparer le relief visible au volume architectural inféré.
+
+## XI. Le remploi des blocs coralliens
+
+Plusieurs structures sont perturbées par des fosses interprétées comme des prélèvements de blocs de corail. La récupération de pierres après l'abandon constitue une pratique fréquente dans des régions où la maçonnerie exige du travail et des matériaux. Elle modifie profondément l'état des plans, et peut transformer une maison rectangulaire en ensemble irrégulier de blocs épars.
+
+Le remploi ne prouve ni iconoclasme ni attaque religieuse. Une pierre de mosquée ou de maison peut être retirée pour construire ailleurs sans que son ancienne fonction ait été visée. Il est nécessaire de distinguer abandon, récupération, destruction accidentelle et destruction intentionnelle, au lieu de les réduire à un récit unique.
+
+## XII. MC19-16 : un ensemble de 18 tessons
+
+Le tableau 1 de Bita et Forsythe enregistre 18 tessons pour MC19-16. La plupart sont des fragments swahilis non décorés, auxquels s'ajoute un fragment de bord moyen-oriental à glaçure monochrome verte. Cet ensemble est modeste et issu de la surface, mais il confirme l'association de céramiques locales et importées dans le secteur d'habitat.
+
+Il serait excessif de calculer à partir de ce seul échantillon la richesse du ménage ou le nombre de marchands étrangers. Un vase importé peut avoir circulé longtemps et changé de propriétaire plusieurs fois. Il témoigne d'un réseau d'accès aux biens, non d'une identité ethnique.
+
+## XIII. MC19-17 : 13 fragments et des importations chinoises
+
+La zone MC19-17 a livré treize tessons dans l'échantillon de 2019. Les céramiques locales comprennent des éléments décorés et non décorés, tandis que les importations mentionnées incluent un céladon et des monochromes chinois de tonalité bleue ou bleu-vert. La présence de ces pièces permet de poser des hypothèses chronologiques et commerciales, mais l'échantillon reste trop petit pour déduire une fonction spécialisée de la maison.
+
+Les imports peuvent être des récipients de service, des objets conservés ou des fragments remaniés. Leur interprétation comme offrandes ou trésors familiaux exige un contexte de dépôt diagnostique. La surface érodée ne livre pas cette garantie.
+
+## XIV. MC19-18 : 22 fragments, majorité locale
+
+MC19-18 représente le plus grand sous-ensemble du tableau, avec 22 tessons. Les fragments swahilis dominent, dont quelques bords décorés ; une céramique moyen-orientale bleu-vert monochrome est recensée. L'écart numérique entre matériaux locaux et étrangers rappelle que les réseaux transocéaniques ne remplacèrent pas la production et la consommation de poteries régionales.
+
+Une histoire exclusivement fondée sur les importations donnerait une image déformée de l'économie de la maison. Les récipients ordinaires, moins prestigieux, sont indispensables pour comprendre les activités quotidiennes. Ils peuvent également être transmis, réparés et employés dans des contextes familiaux dont la fouille de surface n'éclaire pas les détails.
+
+## XV. MC19-19 : noir sur jaune et chronologie
+
+MC19-19 a livré quatorze tessons dans l'échantillon, dont onze fragments locaux non décorés et trois importations décrites comme céladon chinois, monochrome moyen-oriental bleu-vert et céramique à décor noir sur jaune. Cette dernière catégorie, souvent associée au Yémen et à d'autres réseaux de l'océan Indien, est historiquement pertinente pour les XIIIe–XVe siècles.
+
+Les auteurs de 2023 indiquent que les céramiques noires sur jaune sont courantes dans les sites swahilis du milieu du XIIIe siècle à la fin du XVe environ, avant leur recul relatif au profit d'autres catégories. Cela fournit un cadre de comparaison, non une date d'occupation de la seule maison MC19-19.
+
+## XVI. MC19-20 : six fragments locaux et quatre importations
+
+Le tableau 1 attribue dix fragments au secteur MC19-20 : six locaux, dont bords et bases non décorés, et quatre importations, comprenant deux fragments de céladon chinois ainsi que deux monochromes moyen-orientaux. L'échantillon illustre la circulation de productions variées dans un petit espace, sans fournir des statistiques robustes sur l'ensemble des années d'occupation.
+
+La concentration relative d'importations sur une surface peut résulter de hasards de collecte, de la profondeur de l'érosion ou de la réutilisation des récipients. L'archéologue ne doit pas en faire une « maison de riches étrangers » sans étude des sols et de l'architecture.
+
+## XVII. MC19-21 et MC19-22 : petits ensembles
+
+MC19-21 comprend huit tessons, dont sept locaux et un bord moyen-oriental à glaçure verte. MC19-22 livre également huit fragments, tous classés comme swahilis dans l'échantillon, avec des éléments décorés et non décorés. L'absence d'importations dans le prélèvement de MC19-22 ne prouve pas que ses habitants n'en aient jamais possédé.
+
+Les différences de prélèvement et de conservation empêchent de comparer les ménages comme si ces chiffres représentaient des stocks complets. Un secteur fouillé stratigraphiquement pourrait révéler une distribution différente. Les données de surface sont particulièrement utiles pour orienter de futures enquêtes, moins pour déterminer le patrimoine d'une personne.
+
+## XVIII. MC19-14 : deux tessons près de la mosquée
+
+Le site de la mosquée MC19-14 a livré deux tessons classés comme céramiques swahilies non décorées dans le tableau de 2023. Ce faible nombre n'est pas une estimation des objets employés dans toutes les cérémonies du lieu. Il ne fournit ni datation sûre de l'édifice ni preuve de vaisselle liturgique.
+
+Une erreur serait de convertir la proximité d'un objet avec la mosquée en qualification rituelle. Des tessons peuvent provenir de déblais, de passages ou d'activités de voisinage. La localisation d'un fragment en surface et sa relation à un mur doivent être documentées avant toute interprétation cultuelle.
+
+## XIX. Les 95 tessons : ce que permettent réellement les nombres
+
+L'échantillon de Chafisi réunit 95 fragments, dont 82 céramiques locales de tradition swahilie et treize importations. La part locale, environ 86 %, montre le poids de la production régionale dans le matériel recueilli. Mais le chiffre ne représente ni 86 % des ustensiles utilisés au XVe siècle ni 86 % des échanges économiques. Un tesson n'est pas un vase, et les procédures de collecte influencent les proportions.
+
+Le petit corpus est précieux parce qu'il est publié avec des localisations. Il permet d'observer des rapprochements de types entre plusieurs maisons, d'identifier des horizons commerciaux et de proposer des fouilles ciblées. Sa puissance statistique demeure limitée, ce que les auteurs reconnaissent eux-mêmes.
+
+## XX. Céramiques de tradition swahilie et identité sociale
+
+Les auteurs évoquent la Tana Ware et la Swahili Tradition Ware comme des catégories diffusées largement sur la côte du deuxième millénaire. Leurs périodes d'emploi couvrent plusieurs siècles : elles ne peuvent produire seules une datation à dix ans près. Les pâtes, décors incisés et formes peuvent contribuer à situer des réseaux d'apprentissage et de consommation.
+
+Une tradition céramique ne recouvre pas exactement une identité ethnique ou une religion. Des personnes de statuts différents peuvent utiliser des récipients comparables, et les objets circulent entre communautés. La catégorie « swahili » est ici archéologique et régionale ; elle ne prouve pas l'appartenance doctrinale individuelle du potier.
+
+## XXI. Céladons de Longquan : une provenance étudiable
+
+Les céladons chinois, produits notamment dans les ateliers de Longquan, figurent parmi les importations de Chafisi. Bita et Forsythe lient certains types à la période Yuan autour du XIVe siècle. Une telle attribution typologique peut éclairer les échanges et fournir des repères chronologiques, mais il faut tenir compte du délai entre fabrication, arrivée en Afrique, usage et dépôt.
+
+Un fragment de céladon n'indique pas que son utilisateur parlait chinois ni qu'il pratiquait une religion asiatique. La circulation matérielle ne constitue pas une transmission automatique de croyances. Il faut suivre les objets dans leur contexte africain d'usage.
+
+## XXII. Les monochromes islamiques
+
+Le corpus comprend des céramiques monochromes vertes et bleu-vert attribuées au Moyen-Orient. Les auteurs situent l'apparition et la diffusion de plusieurs de ces catégories sur la côte à partir du XIVe siècle, avec des usages se poursuivant tardivement. Il serait donc erroné d'en faire la preuve exclusive d'une occupation au XIVe siècle.
+
+La chronologie relative dépend d'une comparaison de typologies, pas de la couleur seule. Une analyse plus précise pourrait mobiliser la pâte, la glaçure et les formes. L'étude de surface présente déjà un intérêt historique important tout en laissant ouverte la durée de circulation de chaque objet.
+
+## XXIII. Le blanc et bleu absent : limite d'une inférence
+
+Les auteurs notent que l'échantillon de Chafisi ne comporte pas de porcelaine chinoise bleu et blanc, catégorie fréquente sur d'autres sites à partir du XVe siècle. Cette absence mérite discussion, mais elle ne constitue pas une preuve que Chafisi fut abandonné avant le XVe, ni que ses habitants ne possédaient aucun objet de cette classe.
+
+Un échantillon de 95 tessons répartis entre plusieurs maisons est trop limité pour fixer de tels seuils. Des pièces peuvent demeurer enfouies, avoir été emportées ou ne pas avoir été reconnues lors de la collecte. Une étude de chronologie négative doit mesurer la représentativité des observations.
+
+## XXIV. Comparer les céramiques de Gedi : la nécessité d'une échelle commune
+
+Les données de Chafisi sont rapprochées par Bita et Forsythe des séries analysées à partir des recherches de Lynn Koplin autour de Gedi et des travaux de Matthew Pawlowicz. Dans les quartiers en matériaux périssables, les poteries locales dominent également, tandis que des importations monochromes, céladons et noir sur jaune complètent les assemblages. Les ressemblances autorisent l'hypothèse de relations contemporaines entre les sites.
+
+Mais les échelles de collecte diffèrent. Une prospection de surface n'est pas comparable sans correction à des sondages ou fouilles stratigraphiques. Les proportions d'importations peuvent refléter la méthode autant que les activités. Une publication rigoureuse doit indiquer cette différence au lieu d'utiliser les pourcentages comme une mesure absolue de richesse.
+
+## XXV. Les habitats en terre autour de Gedi : sortir du monopole des murs de pierre
+
+Les travaux sur l'environnement de Gedi ont déplacé l'attention des seuls palais et mosquées vers les maisons de terre, de bois et de végétaux. Les quartiers sans architecture durable ont pu accueillir une population importante dont la vie économique et sociale demeure moins visible dans les inventaires de monuments. Chafisi pose un problème comparable : plusieurs tertres sont conservés par des blocs coralliens, mais les dimensions et les matériaux des logements doivent être étudiés sans supposer un modèle unique.
+
+La vieille distinction entre élites « arabes » en pierre et populations « africaines » en terre n'est pas un fait archéologique. Les pratiques de construction et de consommation sont plus complexes, et l'histoire régionale a montré le rôle essentiel des communautés africaines dans le développement swahili.
+
+## XXVI. L'estuaire de 32 km² : milieu et histoire
+
+Mida Creek couvre environ 32 km² selon la publication de 2023. Il est soumis à des marées qui assèchent largement les zones peu profondes. L'absence de grande alimentation fluviale permanente accentue la dépendance aux processus marins et à l'accumulation des sédiments. Cette configuration est importante pour la navigation : le point de débarquement le plus utile peut évoluer avec les bancs de sable.
+
+Il serait pourtant abusif de projeter l'état actuel des chenaux sur le XIVe siècle. Les auteurs demandent expressément davantage de géomorphologie historique. La carte de Chafisi est une donnée d'aujourd'hui appliquée à un problème ancien, non une preuve que les quais médiévaux se trouvaient à l'endroit exact des passages contemporains.
+
+## XXVII. Les profondeurs : du chenal principal à l'anse septentrionale
+
+La synthèse de Bita et Forsythe indique que le chenal principal peut atteindre entre quatre et onze mètres dans certains secteurs jusqu'au nord de Kilepwa, avant de s'amincir fortement vers la branche de Chafisi. Les mesures actuelles citées pour le secteur opposé à Chafisi atteignent environ 0,5 mètre à la pleine mer de vive-eau. Ces chiffres expliquent l'importance du tirant d'eau et du transbordement dans les modèles proposés.
+
+Ils ne suffisent pas à décrire les profondeurs médiévales. L'accumulation sédimentaire pourrait avoir été plus ou moins importante selon les siècles. Les auteurs évoquent une accumulation lente dans plusieurs secteurs, mais demandent une enquête complémentaire. La prudence interdit de déterminer la taille exacte du navire qui accostait à Chafisi au XVe siècle.
+
+## XXVIII. Petites embarcations, grands réseaux
+
+Des navires de haute mer peuvent transporter des marchandises jusqu'à des points suffisamment profonds, puis les transférer sur des embarcations plus petites. Bita et Forsythe discutent des traditions nautiques swahilies et des avantages des coques cousues, notamment leur capacité à échouer sur un fond peu profond sans subir les mêmes contraintes que des bordages cloués. Le *mtepe*, connu par les traditions maritimes et des représentations, constitue un exemple historique utile.
+
+Mais aucun bateau ancien complet de Chafisi n'est présenté dans le rapport. La mention d'un type nautique régional ne prouve pas qu'il fut employé à cet endroit à chaque siècle. Il faut distinguer capacité technique, vraisemblance topographique et découverte archéologique directe.
+
+## XXIX. Débarquement, stockage et transport terrestre
+
+L'hypothèse d'un avant-port suppose une série d'opérations : approche d'un navire, accostage ou échouage, déchargement, stockage temporaire éventuel et acheminement vers Gedi par des routes terrestres. La position de Chafisi près du rivage en fait un bon candidat. Les huit maisons et la céramique importée renforcent l'intérêt de cette proposition.
+
+Cependant, le rapport n'a pas découvert une administration portuaire, un registre de marchandises ou un entrepôt dont la fonction serait établie sans ambiguïté. Les maisons peuvent être des résidences, des lieux de réception ou des espaces de travail. Leur statut exact exige des fouilles. L'avant-port est un modèle interprétatif, non une institution démontrée.
+
+## XXX. Chafisi et Magangani : deux candidats non équivalents
+
+Sur la rive opposée de l'anse, Magangani a été signalé comme autre candidat à un point de débarquement vers Gedi. Le site comprend une mosquée, un puits et des tertres possibles. Mais Garlake avait rapproché l'architecture de sa mosquée de parallèles somaliens considérés comme typiques du XVIIIe siècle, ce qui pourrait placer le bâtiment conservé plus tard que la période majeure de Gedi.
+
+Cette différence rappelle que la proximité géographique ne crée pas automatiquement une contemporanéité. Un lieu peut être utilisé à plusieurs siècles de distance. Il faut comparer les bâtiments en fonction de leurs propres dates, et non les unifier sous une seule « ville portuaire » reconstruite.
+
+## XXXI. Sita et les chemins au sud de Chafisi
+
+À environ 1,5 kilomètre au sud-ouest de Chafisi, Bita et Forsythe décrivent à Sita un passage dans les mangroves utilisé comme lieu de débarquement, noté MC19-11. Deux tertres de maisons se trouvent dans l'arrière-pays, à proximité d'un puits. Un informateur évoquait une structure de corail avec deux pièces de mémoire récente, mais aucun artefact diagnostique ne permettait d'en fixer la date dans la prospection.
+
+Ce cas rappelle que toutes les maisons visibles près du chenal ne sont pas nécessairement médiévales. Une communauté peut entretenir ou reconstruire des lieux de passage. L'existence d'un chemin actuel montre une possibilité d'accès, non une continuité inchangée depuis le XVe siècle.
+
+## XXXII. Kilepwa, Kisiwani et Vigaeni : une géographie d'objets
+
+Les recherches dans Mida Creek reconnaissent sur Kilepwa et Kisiwani des occupations et des distributions de céramiques. Vigaeni, dont le nom est expliqué comme « lieu des tessons », présente une abondance remarquable de fragments locaux. Les chercheurs discutent l'alternative entre un dépôt de rejet et un lieu où la poterie ou son contenu aurait pu être échangé, notamment si la position du chenal ancien différait.
+
+Ce débat n'appartient pas directement à Chafisi mais permet de comprendre la prudence requise pour les interprétations d'activité portuaire. Un amas de poteries peut résulter de plusieurs pratiques. L'emplacement et l'état du matériel ne livrent pas une fonction commerciale unique sans investigation.
+
+## XXXIII. Le bois de mangrove et la construction
+
+Les mangroves de Mida constituent une ressource de construction et de navigation. Les travaux de Bita et Forsythe évoquent notamment le rôle des bois de *Rhizophora mucronata* dans les réseaux d'exportation régionaux. La proximité des mangroves offrait aux habitants des ressources susceptibles d'être utilisées dans les maisons et les embarcations.
+
+L'appartenance d'un bois à une mosquée spécifique de Chafisi ne peut être établie sans découverte et analyse. Une histoire des techniques ne doit pas inventer les matériaux de toiture de MC19-14 sur la base des pratiques connues ailleurs. Elle peut néanmoins proposer des questions à tester au cours de futures fouilles.
+
+## XXXIV. Ressources marines et alimentation
+
+Mida Creek fournit des poissons et des coquillages, tandis que l'environnement de Gedi a livré des restes fauniques permettant d'étudier les régimes alimentaires. Bita et Forsythe rappellent que les analyses de Lynn Koplin témoignent de la forte présence de poissons parmi les restes animaux des environs de Gedi. Cela souligne l'importance des eaux peu profondes, mais ne fournit pas un pourcentage propre à Chafisi.
+
+Une céramique domestique et des restes de coquillages ne sont pas en eux-mêmes des instruments de culte. Leur rôle peut devenir rituel dans un contexte documenté, mais aucune offrande marine spécifique n'est établie par les données de Chafisi discutées ici. La distinction entre économie alimentaire et rituel demeure première.
+
+## XXXV. Une mosquée dans un réseau d'hospitalité
+
+La mosquée MC19-14 se trouvait au voisinage de plusieurs maisons et d'un puits. Dans l'histoire des villes swahilies, les recherches sur les maisons de pierre ont mis en évidence des espaces susceptibles d'accueillir des voyageurs, de faciliter l'échange et d'incarner la réputation de familles commerçantes. Chafisi peut être étudié avec ces questions, surtout si l'hypothèse d'avant-port est explorée.
+
+Mais le plan d'aucune des huit maisons n'a été fouillé complètement dans la publication de 2023. Il serait donc erroné de désigner un espace précis comme salle d'hospitalité, bureau de marchand ou école coranique. L'archéologie dispose de relations spatiales, non d'une description détaillée des usages.
+
+## XXXVI. La mosquée et la visibilité du rivage
+
+Une mosquée sur un petit établissement littoral peut servir de repère public et de lieu de réunion. Son implantation rend possible une articulation entre communauté locale et visiteurs partageant certaines pratiques islamiques. Elle ne démontre pas à elle seule l'existence d'une politique de recrutement de commerçants ni la présence d'une autorité politique nommée.
+
+Pour étudier la visibilité d'un monument, il faudrait connaître ses élévations originales, la végétation, les chemins et les vues depuis l'eau. La ruine de MC19-14 ne permet pas un modèle visuel sûr. Une restitution devra signaler les volumes hypothétiques.
+
+## XXXVII. Le Coran 2:144 : norme d'orientation, pas plan de Chafisi
+
+La *qibla* désigne la direction de la prière ; le Coran 2:144 en constitue un fondement scripturaire. Dans de nombreuses mosquées, le mihrab architectural indique cette orientation. L'édifice de Chafisi étant trop ruiné pour une analyse détaillée selon le rapport de 2023, il serait abusif de donner la taille ou la forme de son mihrab, ou un azimut précis.
+
+La lecture du Coran aide à comprendre une catégorie de bâtiments musulmans, non à remplacer les observations manquantes. Les pratiques réelles ont pu varier au cours de l'occupation. Aucun registre de sermons ni de responsables religieux n'est connu pour MC19-14.
+
+## XXXVIII. L'eau, l'ablution et les limites de l'inférence
+
+Le Coran 5:6 traite de purification avant la prière. Le puits situé près des ruines de Chafisi peut rendre plausible l'approvisionnement en eau pour une communauté musulmane. Il ne prouve pas que les ablutions avaient lieu exactement à son bord, ni qu'un bassin spécialisé était associé à l'édifice.
+
+Les installations hydrauliques de Jumba la Mtwana, plus précisément étudiées par Baumanová, montrent ce que peut apporter une analyse topographique de l'eau. Cette comparaison aide à définir un protocole pour Chafisi, sans lui transférer les puits, citernes et grattoirs de pieds d'un autre site.
+
+## XXXIX. La prière du vendredi et l'espace public
+
+Le Coran 62:9 évoque le rassemblement du vendredi. La présence d'une mosquée rend envisageable une vie collective de prière ; le caractère strictement congregational du bâtiment, sa capacité et la proportion des habitants qui le fréquentaient demeurent inconnus. Une salle trop ruinée pour être mesurée ne peut être la base d'un calcul de population.
+
+Les pratiques islamiques peuvent contribuer à organiser les rythmes sociaux et les relations d'autorité, mais leurs modalités locales demandent une documentation. L'enquête anthropologique doit distinguer le principe général d'une prière et le fonctionnement d'une communauté historiquement située.
+
+## XL. Philologie : *msikiti*, *masjid* et les institutions africaines
+
+Le mot swahili *msikiti* est lié à l'arabe *masjid*, de la racine s-j-d, associée à la prosternation. Cet emprunt linguistique témoigne des interactions de longue durée entre les sociétés africaines et des réseaux musulmans. Il ne signifie pas que les habitants de Chafisi étaient nécessairement arabophones dans leurs échanges quotidiens.
+
+La langue swahilie est une langue bantoue aux contacts multiples. Une inscription arabe, si elle était découverte sur le site, serait un témoin d'écriture à étudier selon son support ; aucune transcription spécifique à Chafisi ne sera inventée. Les mots et les objets doivent être replacés dans leurs histoires propres.
+
+## XLI. La ville de Gedi et la question de l'autorité
+
+Stéphane Pradines, dans sa monographie *Gedi, une cité portuaire swahilie. Islam médiéval en Afrique orientale* (IFAO, 2010), a renouvelé l'étude des premières phases de Gedi et des relations entre architecture, religion et urbanisation. Les travaux de Bita et Forsythe situent Chafisi à une position favorable au transport vers ce centre, mais ne démontrent pas que chaque maison relevait de son administration.
+
+Le terme « avant-port » peut être compris de manière fonctionnelle : un point facilitant l'accès à un centre intérieur. Il ne faut pas le transformer sans preuve en poste fiscal, forteresse d'État ou territoire juridique précisément délimité.
+
+## XLII. Pradines et l'ancien lien de Gedi à l'océan
+
+Pradines a défendu une histoire de Gedi qui commence avant les grands monuments de pierre, avec des phases d'habitat africain et des mosquées anciennes. Cette perspective permet de poser la question des relations entre une ville intérieure et un chenal navigable. Cependant, le fait que la ville se soit développée près de Mida ne fournit pas le nom de son premier port ni l'emplacement fixe d'un débarcadère au XIe siècle.
+
+Chafisi possède des indications céramiques plus tardives. Les relier à l'urbanisation initiale de Gedi exigerait une démonstration chronologique ; aucun simple rapprochement de distance ne suffit. La proposition d'avant-port peut avoir été valide à certaines périodes seulement.
+
+## XLIII. La critique de l'ancienne origine « arabe » des Swahilis
+
+Les premières études coloniales décrivaient souvent la civilisation swahilie comme une culture exogène, supposément apportée par des commerçants arabes. Les recherches archéologiques des dernières décennies ont documenté l'importance des populations africaines, de la production locale et des transformations internes. Chafisi, avec ses 82 tessons locaux sur 95, rappelle que la culture matérielle quotidienne n'était pas réductible aux importations prestigieuses.
+
+Mais la proportion de tessons ne peut servir de mesure directe d'ascendance ou de langue. Le modèle historique doit combiner preuves d'échange, continuités locales et mobilités humaines sans restaurer un schéma de « pureté » culturelle opposée à l'influence étrangère.
+
+## XLIV. La domestication de la mer par les espaces bâtis
+
+Fleisher et ses collaborateurs (2015) analysent la croissance des formes architecturales maritimes des villes swahilies à partir du deuxième millénaire. Les maisons, les mosquées déplacées vers des rivages et les espaces de réception manifestent une relation de plus en plus explicite aux déplacements. Chafisi offre un cas de possible interface urbaine, avec une mosquée et des maisons proches d'un chenal de marée.
+
+Il serait cependant abusif d'y voir la preuve d'un programme unique de « conquête sacrée » du littoral. Les bâtiments répondent à des fonctions multiples. Leur interprétation exige des phases de construction, non une grande narration téléologique.
+
+## XLV. Durkheim : un petit collectif et ses frontières
+
+Durkheim souligne le rôle des pratiques collectives dans la formation des représentations sociales. Une communauté réunie dans une mosquée peut, en principe, entretenir une identité partagée. Mais la ruine de Chafisi ne restitue ni les gestes exacts de chaque personne ni les exclusions sociales. La théorie ne remplace pas une histoire locale des familles.
+
+Une monographie archéologique doit aussi rechercher les relations entre habitants de maisons différentes, la distribution des objets et l'accès aux lieux de réunion. Les distinctions de richesse ou de statut ne sont pas quantifiables à partir du seul dénombrement des maisons.
+
+## XLVI. Eliade : eau sacrée ou infrastructure ?
+
+La phénoménologie du sacré développée par Mircea Eliade donne une place importante aux lieux séparés, aux seuils et à l'eau. Chafisi occupe une anse, mais aucune donnée ne permet d'affirmer que l'anse entière était tenue pour une hiérophanie. L'eau du chenal est d'abord un milieu de navigation et de ressources ; l'eau du puits pouvait servir aux besoins domestiques et à des gestes de purification.
+
+La comparaison pertinente distingue les pratiques qui donnent une signification particulière à un élément de la nature. Elle ne réduit pas toute relation à la mer à un culte de l'eau. Le sacré doit être expliqué par des usages attestés ou précisément argumentés.
+
+## XLVII. Vernant et Detienne : les institutions plutôt qu'un sacré abstrait
+
+Jean-Pierre Vernant et Marcel Detienne ont montré pour le monde grec que les pratiques religieuses devaient être comprises dans leurs configurations politiques et sociales. Cette méthode incite à examiner la mosquée de Chafisi au voisinage de maisons, de trajets et de lieux de travail. Mais l'islam swahili n'est pas un culte sacrificiel grec, et la prière collective ne correspond pas à la *thysia*.
+
+La comparaison est structurale : comment une collectivité organise-t-elle des gestes, des calendriers et des espaces ? Aucune filiation historique avec la Grèce antique n'est démontrée par cette question commune.
+
+## XLVIII. Dumézil : la limite de l'analogie trifonctionnelle
+
+Les travaux de Georges Dumézil concernent des comparaisons de traditions indo-européennes. Rien à Chafisi ne permet de déduire une organisation religieuse entre trois fonctions équivalentes à celles qu'il étudie. Une société de pêcheurs, marchands et responsables de prière n'est pas automatiquement le reflet d'une idéologie mythologique universelle.
+
+Cette retenue est importante : la comparaison académique doit pouvoir conclure qu'un modèle ne s'applique pas. Une analogie de professions ne constitue pas une preuve de structure cultuelle.
+
+## XLIX. Hegel et Nietzsche : contre le récit du port « civilisateur »
+
+Les philosophies de l'histoire peuvent être interrogées pour comprendre les biais des historiographies anciennes. L'idée selon laquelle l'histoire africaine commencerait avec les marchands étrangers est incompatible avec les séries archéologiques documentant les productions locales et les sociétés côtières antérieures. Les importations de Chafisi ne doivent pas devenir une mesure de degré de civilisation.
+
+Hegel et Nietzsche ne donnent aucune information directe sur l'urbanisme de Mida Creek ; ils servent uniquement à poser des questions critiques sur le progrès, la valeur et la représentation du passé. L'histoire des habitants doit rester fondée sur leurs traces et les travaux portant sur elles.
+
+## L. Girard : aucune violence fondatrice démontrée
+
+Une fonction portuaire possible pourrait impliquer négociations, rivalités et conflits, mais aucune source ici ne prouve une violence fondatrice ou un sacrifice collectif au sens de la théorie de René Girard. Une mosquée ruinée ne témoigne pas nécessairement d'une persécution ; une maison démontée peut résulter de la récupération ordinaire des matériaux.
+
+Il faut éviter de dramatiser le passé sans preuve. La valeur critique des théories de la violence est de rappeler que les récits d'identité peuvent être construits autour de conflits, non d'inventer un épisode de mise à mort à Chafisi.
+
+## LI. Égypte et Mésopotamie : institutions et comparaisons prudentes
+
+Dans l'Égypte et la Mésopotamie anciennes, les temples ont souvent produit des archives administratives et des inscriptions, qui permettent d'étudier des pratiques et des institutions avec une précision différente. Chafisi est principalement connu par des ruines, maisons et céramiques de surface. Cette asymétrie documentaire doit être prise en compte avant de comparer des formes de pouvoir ou de culte.
+
+Il serait abusif de faire de la mosquée un équivalent fonctionnel complet d'un temple nilotique ou mésopotamien. Les comparaisons peuvent porter sur les ressources affectées au bâti, les circulations et les mémoires institutionnelles, sans supposer des théologies identiques.
+
+## LII. Iran, Inde et Chine : la mobilité des choses
+
+Les céramiques moyen-orientales et chinoises de Chafisi attestent des chaînes d'approvisionnement qui dépassent l'Afrique orientale. Leur provenance ne dit pourtant rien de sûr sur la confession, la langue ou l'origine de la personne qui les a utilisées. Un fragment de céladon peut être transmis de marchand en marchand et finir dans une maison swahilie sans que son fabricant ait jamais connu Mida Creek.
+
+Une étude des connexions culturelles devrait employer aussi les textes, les inscriptions et les analyses de provenance. L'histoire religieuse ne se déduit pas d'une carte de production céramique.
+
+## LIII. Les Amériques : les ports comme comparaison méthodologique
+
+Les sociétés anciennes des Amériques ont connu des centres intérieurs connectés à des ports ou des routes fluviales. On peut comparer les méthodes utilisées pour identifier une installation de transbordement, distinguer habitat et entrepôt, ou reconstruire des flux à partir d'objets importés. Ces comparaisons ne démontrent aucune transmission entre Chafisi et l'Amérique précolombienne.
+
+L'intérêt de l'analogie réside dans la question des preuves : comment reconnaître un port sans quai monumental ? Comment associer des objets de surface à une fonction ? Ce sont des problèmes transversaux, non des signes d'une religion mondiale unique.
+
+## LIV. Ethnographie du paysage contemporain
+
+Bita et Forsythe ont travaillé avec les habitants et les partenaires du projet MUCH afin de comprendre les lieux, chemins et ressources. Ces informations sont importantes pour localiser des vestiges et documenter la mémoire contemporaine. Elles doivent être enregistrées avec date et attribution ; le savoir d'un riverain actuel n'est ni négligeable ni automatiquement un témoignage inchangé du XIVe siècle.
+
+Les communautés vivent dans un territoire où les mangroves, les cultures et les routes possèdent des usages actuels. Une protection du patrimoine qui ignorerait ces pratiques créerait des conflits et pourrait compromettre l'accès aux sites. La recherche doit être responsable et réciproque.
+
+## LV. L'érosion, l'agriculture et le prélèvement de pierre
+
+Les tertres de maisons sont perturbés par l'effondrement, les cultures et la récupération de blocs de corail. L'érosion peut révéler des objets mais détruire leurs contextes. Une conservation efficace suppose de relever précisément les limites des structures, de suivre leur évolution et de documenter les interventions humaines sans accuser indistinctement les habitants actuels de toutes les dégradations.
+
+Les changements de terre et d'eau doivent être étudiés avec les personnes concernées. Les droits d'accès, les besoins agricoles et la conservation des ruines sont des questions sociales concrètes, pas seulement techniques.
+
+## LVI. Un programme de fouilles qui testerait l'hypothèse d'avant-port
+
+L'enquête future devrait pratiquer des sondages ciblés dans les huit tertres afin d'identifier sols, seuils, espaces de stockage et éventuels ateliers. Les céramiques doivent être publiées avec leurs contextes stratigraphiques. Une étude des chemins entre Chafisi et Gedi pourrait associer cartographie, géophysique et données topographiques, tandis qu'une analyse des dépôts littoraux préciserait l'histoire du chenal.
+
+Pour tester la fonction d'avant-port, il faudrait rechercher traces de chargement et de débarquement, concentration de poids, outillage, zones de stockage et chronologie des circulations. Un résultat négatif ne prouverait pas l'absence d'échanges, mais contribuerait à reconsidérer les modèles. L'hypothèse doit demeurer falsifiable.
+
+## LVII. Un programme propre à l'histoire du sacré
+
+La mosquée MC19-14 demanderait une étude architecturale si des fondations lisibles subsistent, avec relevé de son orientation et des matériaux, recherche d'éventuels niveaux de sol, d'installations hydrauliques et d'inscriptions. Une éventuelle découverte de sépultures devrait être traitée dans un cadre éthique et scientifique approprié. Aucune tombe n'est inventée à Chafisi dans le corpus actuellement décrit.
+
+Les traditions orales et documents d'archives méritent une enquête philologique indépendante. Il faudrait distinguer les pratiques islamiques attestées, les usages domestiques et les souvenirs postérieurs au peuplement médiéval. Une reconstitution visuelle devra signaler l'incertitude des murs et des élévations.
+
+## LVIII. Synthèse des niveaux de preuve
+
+**Observations attestées :** une mosquée ruinée MC19-14, un puits à environ 150 mètres au sud-est, huit tertres de maisons MC19-16 à MC19-23 à moins d'environ 110 mètres du rivage, quatre avec maçonnerie partiellement exposée, des traces d'organisation interne dans certaines maisons, un échantillon de 95 tessons dont 82 locaux et treize importés, des céramiques chinoises et moyen-orientales et une topographie proche de Gedi.
+
+**Interprétations étayées mais révisables :** contemporanéité approximative de Chafisi avec une partie de la prospérité de Gedi et Kilepwa ; rôle possible de point de débarquement ou de transbordement ; importance de l'hospitalité et de l'eau ; utilisation potentielle de petites embarcations pour atteindre les zones peu profondes.
+
+**Hypothèses non établies :** statut politique officiel d'avant-port de Gedi, nom d'un souverain ou d'un imam, année de fondation de la mosquée, identité de propriétaires de maisons, répartition confessionnelle des habitants, dimensions précises du bâtiment religieux, date de destruction unique, fonction rituelle de tous les récipients, présence d'un quai monumental ou d'une administration douanière.
+
+## LIX. Conclusion générale : le port possible et la communauté certaine dans ses traces
+
+Chafisi oblige à reconstituer la ville swahilie à partir de ses marges. Huit tertres d'habitat, une mosquée ruinée, un puits et un petit corpus de céramiques donnent une image d'établissement inséré dans les circulations de Mida Creek. La proximité de Gedi et la correspondance chronologique des objets rendent plausible une fonction de liaison commerciale, mais aucune preuve n'autorise à transformer cette possibilité en fait politique définitivement établi.
+
+Pour l'histoire des origines du sacré, le site montre que la religion se situe au sein d'une économie du travail, de l'eau, de la circulation et de la mémoire. Les vestiges de la mosquée sont réels, leurs dimensions originales et les pratiques détaillées demeurent obscures. La rigueur consiste à préserver cette différence, à refuser les anecdotes non sourcées et à définir les observations futures qui pourront réellement faire progresser la connaissance.
+
+## Corpus primaire et documents d'observation
+
+1. **Bita, Caesar, et Wes Forsythe (2023)**, « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6(12), p. 7366–7380, DOI 10.3390/heritage6120386. La section 3 et le tableau 1 contiennent les loci MC19-14, MC19-16 à MC19-23, la distribution des 95 tessons et les photographies des matériaux. Relevés et données primaires publiés par les chercheurs, accompagnés de leurs interprétations. https://doi.org/10.3390/heritage6120386.
+2. **Kirkman, James S. (1952)**, « The Excavations at Kilepwa », *The Antiquaries Journal*, 32(3–4), p. 168–184, DOI 10.1017/S0003581500076812. Document d'observation historique de la région ; ne pas attribuer ses objets de Kilepwa aux maisons de Chafisi. https://doi.org/10.1017/S0003581500076812.
+3. **Coran**, 2:144 (direction de prière), 5:6 (ablutions), 9:18 (lieux de prière), 62:9 (réunion du vendredi). Sources normatives primaires pour la tradition musulmane, non archives de Chafisi. https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/9/18 ; https://quran.com/62/9.
+4. **Figures et tableaux de Bita et Forsythe (2023)** : figure 3 (localisation des habitats), figure 4 (MC19-22), figures 5–6 (décors de céramiques et monochrome), tableau 1 (tessons par locus). Les dimensions et nombres rapportés sont issus de ces relevés et non de mesures réalisées par MYTHOS.
+
+## Bibliographie universitaire vérifiée
+
+- Bita, Caesar, et Wes Forsythe (2023), « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6(12), p. 7366–7380. DOI : https://doi.org/10.3390/heritage6120386.
+- Pradines, Stéphane (2010), *Gedi, une cité portuaire swahilie. Islam médiéval en Afrique orientale*, Le Caire, Institut français d'archéologie orientale, collection FIFAO Archéologie islamique, 302 p. ISBN 9782724705430. Éditeur : https://www.ifao.egnet.net/publications/catalogue/FIFAO-ArchIsl/. L'ouvrage porte sur Gedi, et non sur une fouille autonome de Chafisi.
+- Hardy-Guilbert, Claire (2011), compte rendu de la monographie de Pradines, *Bulletin critique des Annales islamologiques*, 26, p. 57–59. https://www.persee.fr/doc/bcai_0259-7373_2011_num_26_1_1049_t5_0057_0000_1.
+- Fleisher, Jeffrey B., et al. (2015), « When Did the Swahili Become Maritime? », *American Anthropologist*, 117(1), p. 100–115. DOI : https://doi.org/10.1111/aman.12171.
+- Wynne-Jones, Stephanie (2020), « The Archaeology of the Swahili World », *Oxford Research Encyclopedia of African History*. DOI : https://doi.org/10.1093/acrefore/9780190277734.013.257.
+- Wynne-Jones, Stephanie, et Jeffrey Fleisher (2016), « The multiple territories of Swahili urban landscapes », *World Archaeology*, 48(3), p. 349–362. DOI : https://doi.org/10.1080/00438243.2016.1179128. Cadre comparatif fondé principalement sur Songo Mnara.
+- Kirkman, James S. (1952), « The Excavations at Kilepwa: An Introduction to the Medieval Archaeology of the Kenya Coast », *The Antiquaries Journal*, 32(3–4), p. 168–184. https://doi.org/10.1017/S0003581500076812.
+- Pollard, Edward, et Caesar Bita (2017), « Ship engravings at Kilepwa, Mida Creek, Kenya », *Azania*, 52(2), p. 173–191. DOI : https://doi.org/10.1080/0067270X.2017.1283096. Gravures de Kilepwa, non de Chafisi.
+- Wynne-Jones, Stephanie, et Adria LaViolette (dir.) (2018), *The Swahili World*, Routledge, synthèse régionale, sans attribution fictive de mesures à Chafisi.
+- Pradines, Stéphane (2003), « Le mihrâb swahili : l'évolution d'une architecture islamique en Afrique subsaharienne », *Annales islamologiques*, 37, p. 355–381. DOI : https://doi.org/10.3406/anisl.2003.1332. Comparaison architecturale, et non relevé du mihrab de MC19-14.
+- Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse* ; Detienne, Marcel, et Jean-Pierre Vernant (dir.) (1979), *La Cuisine du sacrifice en pays grec* ; Eliade, Mircea (1957), *Le Sacré et le Profane* ; Dumézil, Georges (1968–1973), *Mythe et épopée* ; Nietzsche, Friedrich (1872), *La Naissance de la tragédie* ; Girard, René (1972), *La Violence et le sacré* ; Hegel, G. W. F., cours sur la philosophie de l'histoire, publiés après sa mort. Références théoriques utilisées comme instruments critiques et non comme témoignages sur Chafisi.
+
+**Note éditoriale.** Le seul numéro propre à cette étude est la variable 805, à remplacer par la file de publication. Les dates des sources et les numéros de locus MC19 restent inchangés. Aucun fichier numéroté, registre, archive, planification ou installation WordPress ne doit être modifié par le dépôt de cette demande.
