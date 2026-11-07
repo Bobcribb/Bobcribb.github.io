@@ -44,7 +44,7 @@
 
 ### 007. La tombe 67 de Gerzeh : un objet précisément localisé
 
-[A] Le cimetière prédynastique de Gerzeh, à quelque 70 km au sud du Caire, fut fouillé au début du XXe siècle. Une série de petites perles tubulaires de fer provenait des tombes 67 et 133. L'étude de **Diane Johnson, Joyce Tyldesley, Thomas Lowe, Philip Withers et Monica Grady** (2013) porte spécialement sur une perle de la tombe 67 conservée au **Manchester Museum, inv. 5303**. Le métal fut associé dans la sépulture à d'autres matériaux de parure, dont des perles précieuses, et non exposé dans un sanctuaire où son culte serait documenté. DOI : https://doi.org/10.1111/maps.12120 . [N] Le contexte funéraire ne livre pas les mots que les utilisateurs donnaient à la matière, ni une théologie explicite des météorites.
+[A] Le cimetière prédynastique de Gerzeh, à quelque 70 km au sud du Caire, fut fouillé au début du XXe siècle. Une série de petites perles tubulaires de fer provenait des tombes 67 et 133. L'étude de **Diane Johnson, Joyce Tyldesley, Tristan Lowe, Philip Withers et Monica Grady** (2013) porte spécialement sur une perle de la tombe 67 conservée au **Manchester Museum, inv. 5303**. Le métal fut associé dans la sépulture à d'autres matériaux de parure, dont des perles précieuses, et non exposé dans un sanctuaire où son culte serait documenté. DOI : https://doi.org/10.1111/maps.12120 . [N] Le contexte funéraire ne livre pas les mots que les utilisateurs donnaient à la matière, ni une théologie explicite des météorites.
 
 ### 008. Pourquoi le nickel seul aurait été insuffisant
 
@@ -395,7 +395,7 @@
 
 ### 087. Égypte : objets et analyses publiées
 
-**E1.** Johnson, Diane, Joyce Tyldesley, Thomas Lowe, Philip J. Withers et Monica M. Grady, « Analysis of a prehistoric Egyptian iron bead with implications for the use and perception of meteorite iron in ancient Egypt », *Meteoritics & Planetary Science* 48/6 (2013), p. 997–1006, DOI : https://doi.org/10.1111/maps.12120 . Appui principal pour Gerzeh, tombe 67, Manchester Museum no 5303.
+**E1.** Johnson, Diane, Joyce Tyldesley, Tristan Lowe, Philip J. Withers et Monica M. Grady, « Analysis of a prehistoric Egyptian iron bead with implications for the use and perception of meteorite iron in ancient Egypt », *Meteoritics & Planetary Science* 48/6 (2013), p. 997–1006, DOI : https://doi.org/10.1111/maps.12120 . Appui principal pour Gerzeh, tombe 67, Manchester Museum no 5303.
 
 **E2.** Comelli, Daniela, et al., « The meteoritic origin of Tutankhamun's iron dagger blade », *Meteoritics & Planetary Science* 51/7 (2016), p. 1301–1309, DOI : https://doi.org/10.1111/maps.12664 . Mesures 10,8 % Ni / 0,58 % Co ; limites de provenance.
 
