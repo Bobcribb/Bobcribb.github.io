@@ -1,0 +1,386 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXX (320)
+
+## Peut-on être initié à une fausse sagesse ? Socrate, Strepsiade, le lit sacré, les Nuées et la concurrence des autorités religieuses dans les *Nuées* d’Aristophane
+
+*Monographie universitaire autonome — Athènes classique, 423 av. n. è. (première représentation), texte conservé révisé ; philologie grecque, poétique de la comédie ancienne, histoire des cultes et initiations, théorie de la connaissance, anthropologie du rire et philosophie politique. État du dossier : 6 novembre 2026. Numérotation réservée au circuit transactionnel GitHub ; aucune publication publique n'est présumée.*
+
+**Corpus principal :** Aristophane, *Nuées* 218–328 (surtout 247–313), 329–425, 429–445, 478–518 et 1452–1511. **Contrôles documentaires :** Platon, *Apologie* 18b–19c ; Aristophane, *Guêpes* 1043–1050 (réception comique de l'échec) ; Pausanias IX, 39 (témoignage beaucoup plus tardif sur Trophonios) ; Platon, *Phèdre* 244d–245a et *Lois* VII, 790d–791a (comparaisons sur l'enthousiasme et les rites, non preuves sur 423). **Cadres savants :** A. W. H. Adkins (1970), A. M. Bowie (1993), Pierre Bonnechere (1998), Simon Byl (2000), Radcliffe G. Edmonds III (2006), Jeffrey Henderson (bibliographie Oxford, état 2026), Elena Langella (2023).
+
+**Règle de vérification et de preuve :** [A] = texte ancien ou renseignement documentaire directement attesté ; [É] = constat lexical ou métrique contrôlé, susceptible de discussion dans une édition critique ; [I] = interprétation argumentée, imputable à cette étude ; [H] = hypothèse documentaire ou scénique non démontrée ; [P] = comparaison philosophique rétrospective ; [L] = limite du témoignage ou réfutation d'une inférence abusive. Le *Socrate des Nuées* n'est pas un substitut de la biographie du Socrate historique. Les scholies et témoignages tardifs ne sont pas contemporains de la représentation de 423. Les rares mots grecs reproduits comme tels ont été vérifiés dans le texte de F. W. Hall et W. M. Geldart, accessible dans Perseus et dans la transcription parallèle de Gadsden Classics. Aucune traduction moderne n'est introduite comme si elle était un fragment original.
+
+### Résumé scientifique
+
+Un paysan endetté cherche un instrument de défense judiciaire. Il entre dans le *Phrontistērion*, voit un maître suspendu dans un panier, apprend qu'il ne doit plus compter sur les dieux habituels pour garantir un serment, et se laisse installer sur une couche prétendument sacrée. Socrate lui donne une couronne ; Strepsiade croit qu'il va être sacrifié comme Athamas. Le maître réplique que ces opérations sont faites à ceux qu'on initie. Une prière solennelle à l'Air, à l'Éther et aux Nuées se transforme en épiphanie chorale. L'élève attend des secrets capables de le sauver de ses créanciers ; les déesses promettent une puissance de discours. Mais leur voix célèbre simultanément les temples, fêtes, mystères et sacrifices de la cité, puis se révèle, au terme de la comédie, partie prenante d'une punition. La scène se prête donc à une lecture strictement institutionnelle : **qui peut revendiquer une initiation, consacrer un savoir, créer une autorité de vérité et en vendre les fruits à un citoyen ?**
+
+L'interprétation doit échapper à trois réductions : « Aristophane attaque seulement la religion », alors que son chœur célèbre aussi les pratiques religieuses d'Athènes ; « le poète dénonce simplement la philosophie », alors que son Socrate est une construction de farce aux attributs hétérogènes ; « la scène reproduit exactement les rites d'Éleusis », alors que les spécialistes contestent l'identification du siège, des gestes et des modèles cultuels. Pierre Bonnechere rapproche une partie de la dramaturgie des consultations de Trophonios à Lébadée ; Simon Byl objecte que la preuve textuelle contemporaine est insuffisante pour généraliser ce modèle ; Radcliffe Edmonds différencie soigneusement la *thronosis* corybantique du siège silencieux éleusinien. Les désaccords savants ne sont pas des obstacles accessoires : ils sont constitutifs du statut scientifique de l'image d'« initiation ».
+
+Cette étude ne reprend pas les dossiers MYTHOS déjà attribués sur les *Nuées* : CCXX (220), causalité météorologique, serment et preuve ; CCLXVI (266), éducation, deux Discours et violence familiale ; CCLXXXV (285), calendrier et dettes ; CCCXII (312), géométrie, cartes et représentation politique. Elle ne reconduit pas non plus l'étude CCIII (203) sur les parabases. Elle isole, dans la partie centrale de la première rencontre, l'**invention scénique d'une souveraineté rituelle qui prétend authentifier un savoir**. Les autres passages ne servent qu'à éprouver les limites de cette thèse.
+
+### Proposition centrale
+
+L'initiation parodique est un **procédé de légitimation avant d'être un enseignement**. Le personnage de Socrate substitue à la démonstration publique d'une compétence un dispositif de seuil : place réservée, siège, couronne, silence, prière, apparition et hiérarchie entre maître et novice. Il promet ainsi de produire de l'intelligence par une relation exclusive à des puissances réputées supérieures. Pourtant les Nuées, en chantant la religiosité civique et en déjouant le calcul du disciple, ruinent la prétention du maître à monopoliser leur sens. L'enjeu politique n'est pas de condamner toute initiation comme irrationnelle : il est d'examiner le moment où un savoir particulier réclame une **obéissance sacrée** tout en se soustrayant à la vérification et à la discussion.
+
+---
+
+## I. Construire un objet distinct : ni une biographie de Socrate, ni une répétition du procès des sophistes
+
+### 1. Une pièce datée, un texte conservé remanié [A/L]
+
+Les *Nuées* sont données aux Grandes Dionysies de 423 avant notre ère et n'obtiennent que le troisième prix. Le texte intégral que nous lisons est toutefois une révision ultérieure, vraisemblablement préparée entre 419 et 416, et qui ne fut pas représentée sous cette forme comme un spectacle assuré. Jeffrey Henderson, dans la notice *Oxford Bibliographies in Classics* mise à jour le 5 octobre 2026, rappelle que les deux états circulaient dans l'Antiquité, tandis que seul l'état révisé subsiste. Il faut donc distinguer la date du spectacle initial, la date incertaine de la révision et l'horizon de réception d'un texte conservé. L'initiation du novice appartient au drame transmis ; le degré exact d'identité de chaque réplique avec la représentation de 423 ne peut être établi. Une philologie prudente ne projette pas le texte révisé sur l'ensemble des spectateurs de 423.
+
+### 2. Pourquoi entrer par le rituel plutôt que par l'accusation d'athéisme ? [I]
+
+La question souvent posée — « Aristophane annonçait-il le procès de Socrate ? » — amène à traiter toute scène du *Phrontistērion* comme un indice judiciaire. Notre objet est plus circonscrit : comment une institution fictive fait-elle reconnaître la valeur de son savoir, et pourquoi emprunte-t-elle les formes d'un rite ? Il importe de commencer non par le jugement de 399, mais par la circulation des gestes dans la comédie. La solennité de la couronne, le siège et la prière ne servent pas à enseigner un syllogisme ; ils donnent à percevoir l'entrée dans un ordre où certaines personnes sont réputées savoir. C'est la fabrication d'un statut qui est examinée.
+
+### 3. Le maître, son élève et le chœur ne représentent pas trois doctrines transparentes [A/I]
+
+Socrate proclame l'efficacité de nouveaux dieux ; Strepsiade ne cherche initialement qu'à éviter de payer ; le chœur s'adresse à la fois à eux, au public et à la cité. Le spectateur doit arbitrer entre ces niveaux de parole. Il serait faux de traiter l'invocation du maître comme une profession de foi historique, l'espoir du disciple comme une donnée sur les Athéniens endettés, ou le chant du chœur comme un communiqué d'Aristophane sans ironie. Une comédie institue des voix qui ne coïncident pas. C'est pourquoi la religion du *Phrontistērion* est d'abord un objet de représentation critique.
+
+### 4. Le mot « école » est déjà une traduction approximative [É/L]
+
+Le composé *phrontistērion*, formé autour de *phrontis*, le souci et la pensée, renvoie comiquement au lieu où l'on pense ; il ne désigne pas nécessairement une école socratique historique, dotée de bâtiments et d'un cursus. Le terme peut désigner un atelier de spéculation autant qu'un espace pédagogique. Les disciples courbés sur leurs recherches, le maître suspendu et les objets d'étude sont les marques d'un décor satirique. L'appeler « université » serait anachronique ; nier toute relation aux nouvelles pratiques de savoir serait tout aussi excessif. La pièce fait reconnaître un type social — le maître de savoir rare — et en déforme les signes.
+
+### 5. Une économie de la dette précède le désir de révélation [A]
+
+Avant d'être « initié », Strepsiade expose ce qui l'amène : intérêts, poursuites, créanciers et confiscations. Au vers 239, il souhaite apprendre à parler ; vers 244–245, il demande le moyen qui permettrait de ne rien rembourser. Cette intention est explicitement attachée à l'économie domestique et au recours à la justice. On ne peut en faire un chercheur désintéressé de cosmologie. La relation maître-disciple est dès l'origine traversée par un contrat implicite : donner un enseignement en échange d'un prix, puis utiliser cet enseignement pour échapper à une obligation. Une initiation qui promet la supériorité verbale peut donc être désirée par celui qui ne cherche aucunement la vérité.
+
+### 6. L'autorité du savoir naît de l'inégalité d'accès [I]
+
+Le maître occupe une place à laquelle l'autre doit accéder. Cette asymétrie n'est pas condamnable par principe : toute formation suppose des différences de compétence. La comédie la rend suspecte lorsqu'elle transforme la distance intellectuelle en distance ontologique entre un « mortel éphémère » au sol et un sage suspendu au ciel. Le refus de discuter les objectifs du disciple précède la création de signes sacrés. Le problème politique que l'on peut en déduire est celui d'une expertise qui demande reconnaissance avant de montrer ce qu'elle sait réellement faire.
+
+### 7. Le besoin de croire n'est pas la foi religieuse [I/L]
+
+Strepsiade est disposé à accepter un nouveau maître parce qu'il attend une efficacité immédiate. Sa crédulité n'est pas nécessairement le résultat d'une tradition religieuse forte ; elle naît de la recherche d'une solution pratique. Inversement, le fait que Socrate exploite le rite ne démontre pas qu'il croit lui-même à toutes les puissances qu'il invoque. La parodie oppose ainsi des attentes différentes : le novice cherche un gain ; le maître exige une discipline ; les déesses exhibent un horizon de sens que ni l'un ni l'autre ne contrôlent. Les catégories modernes « croyant » et « athée » ne suffisent pas à classifier la scène.
+
+## II. Une préparation en deux temps : du panier cosmologique à la couche sacrée (218–261)
+
+### 8. Le panier : la hauteur se fait argument [A/É]
+
+Vers 218–230, le personnage de Socrate se tient en l'air dans un dispositif généralement compris comme un panier suspendu. À l'interrogation de Strepsiade, il explique qu'il faut rapprocher la pensée de l'air pour explorer les choses célestes. Le langage de la hauteur fait coïncider élévation physique et supériorité intellectuelle. Le spectateur n'a pas besoin de croire à cette théorie pour voir le paradoxe : une posture spectaculaire produit l'apparence d'une méthode. Le panier n'est pas encore un objet initiatique attesté ; il prépare toutefois la division scénique entre celui qui sait « au-dessus » et celui qui attend « au-dessous ».
+
+### 9. D'une explication physico-comique à un commandement cérémoniel [I]
+
+Socrate descend de sa position et interroge le disciple, mais la mobilité du maître ne supprime pas l'asymétrie. Quand Strepsiade veut accéder aux « choses divines », le langage passe de la spéculation à une succession d'impératifs. L'épreuve de savoir se présente comme un franchissement : il faut s'asseoir, recevoir un objet et garder le silence. Cette transformation constitue la véritable originalité locale de la scène. Le discours sur le ciel ne débouche pas immédiatement sur une observation des phénomènes ; il réclame d'abord la docilité d'un corps placé.
+
+### 10. *Ta theia pragmata* : le divin comme domaine de connaissance [A/É]
+
+Au vers 250, Socrate promet de rendre clairement intelligibles les *ta theia pragmata*, « choses divines ». La formulation n'oppose pas simplement religion et physique ; elle réunit dans un même lexique la compréhension du monde et l'identification de puissances divines. Le qualificatif *saphôs* implique la clarté de ce savoir, mais l'épisode qui suit donne une autre forme de certitude : une révélation chorale. Il ne faut pas appeler cela une théologie systématique. Il s'agit d'une promesse performative : « Je peux te faire entrer dans le cercle de ceux qui connaissent vraiment. »
+
+### 11. *Xyngenesthai* et l'accès privilégié aux Nuées [A/É]
+
+La proposition de Socrate, vers 252–253, est de converser avec les Nuées, ses puissances divines. Le verbe composé autour de *gignesthai* évoque le fait d'entrer en relation ou de fréquenter. Strepsiade n'est donc pas invité uniquement à entendre un exposé sur la pluie ; il doit rencontrer des agents du monde que le maître revendique comme familiers. Le nouveau savoir est garanti par la proximité avec des êtres supérieurs. C'est une structure fréquente dans les récits de révélation : ce qui distingue l'initié n'est pas seulement le contenu d'une proposition, mais le droit d'approcher son garant.
+
+### 12. *Skimpous* : un lit de fortune sanctifié par la parole [A/É]
+
+Le texte grec du vers 254 commande : *κάθιζε τοίνυν ἐπὶ τὸν ἱερὸν σκίμποδα*. Le substantif *skimpous* renvoie à une couche, un lit rudimentaire ou une civière selon le contexte ; il ne suffit pas à identifier un trône cultuel précis. L'adjectif *hieros* lui donne un statut sacré dans la bouche de Socrate. Cette association déclenche l'effet comique : un mobilier pauvre du *Phrontistērion* est promu au rang d'instrument de consécration. Dire que le lit était réellement sacré serait prendre pour preuve une déclaration de personnage. Dire qu'il ne peut évoquer aucun rite serait oublier le mot choisi pour le qualifier.
+
+### 13. Assis : une position du corps avant une connaissance [A/I]
+
+Strepsiade s'assied immédiatement. L'action a peu de complexité, mais elle condense une relation d'obéissance. Celui qui prétend apprendre doit accepter qu'on lui attribue une place et qu'on règle son comportement. Le savoir est présenté comme le terme d'un processus rituellement préparé plutôt que comme une proposition à examiner. Une telle position n'est pas caractéristique d'un seul culte grec ; le siège peut être quotidien, honorifique ou religieux. La comédie fonctionne par combinaison de signaux suffisants pour évoquer le religieux sans fournir un manuel de cérémonie.
+
+### 14. *Stephanos* : couronne, consécration et faux risque sacrificiel [A/É]
+
+Au vers 255–256, Socrate ordonne de prendre une couronne, *stephanos*. La couronne peut appartenir au vocabulaire des fêtes, des sacrifices, des concours, des banquets et de multiples pratiques civiques. Elle signale ici que le participant change de statut. Mais Strepsiade interprète le geste comme l'annonce d'un sacrifice dont il serait la victime. La scène renverse la logique de l'honneur : ce qui marque normalement une participation privilégiée devient la preuve possible d'une mise à mort. L'ambivalence est propre au théâtre comique, qui exploite l'écart entre sens rituel attendu et peur intéressée du destinataire.
+
+### 15. Athamas : une allusion tragique, non le récit intégral d'un culte [A/L]
+
+Le novice craint d'être sacrifié « comme Athamas », vers 257. La tradition mythique d'Athamas, d'Ino, de Phrixos, d'Hellé et de Néphélé comporte des variantes sur le sacrifice, le danger et l'intervention salvatrice ; aucun modèle unique ne doit être plaqué sur cette réplique. Le rapprochement avec Néphélé, dont le nom recoupe celui des Nuées, enrichit le jeu mythologique. Mais les vers ne reconstituent ni un rituel réel de sacrifice humain à Athènes ni une scène complète de la tragédie d'Athamas. Il s'agit d'une référence condensée capable de transformer une couronne honorifique en présage inquiétant.
+
+### 16. *Teleumenoi* : des personnes qui subissent une initiation [A/É]
+
+Socrate répond au vers 258 que ces choses sont faites à ceux qui « sont initiés », *tois teloumenois*. Le participe passif indique une action rituelle dont le sujet est le bénéficiaire ou l'objet. Le champ de *telein* inclut l'accomplissement d'un rite et la participation à une initiation ; il ne suffit pas à nommer un culte déterminé. La précision décisive est grammaticale : le novice devient celui sur qui l'on agit. Le maître peut transformer l'absence de justification en règle : si cela se fait aux initiés, Strepsiade doit l'accepter. Le statut d'initié sert à prévenir l'objection plutôt qu'à fournir une preuve.
+
+### 17. *Ti kerdanô ?* : l'initié demande son profit [A/É]
+
+Après l'explication, Strepsiade demande ce qu'il gagnera. Le verbe de gain, *kerdainô*, réintroduit le calcul de profit dans la séquence sacrée. C'est l'un des ressorts politiques les plus incisifs de l'épisode. Le novice n'ignore pas entièrement le dispositif ; il l'évalue comme une prestation. La nouvelle relation religieuse n'éteint pas l'intérêt privé. Elle devient l'instrument possible d'une opération prédatrice contre les créanciers. Une initiation dont le résultat demandé est l'art de gagner des procès déplace le religieux vers le commerce de la parole.
+
+### 18. La récompense : être expert en discours, mais dans quel sens ? [A/É]
+
+Socrate promet une capacité à parler, avec une accumulation de noms comiques qui évoquent l'habileté, le bruit et la pulvérisation. Les mots *trimma*, *krotalon* et *paipalê* au vers 260 jouent sur la répétition sonore, l'écrasement et la finesse. On ne doit pas en faire un certificat de dialectique philosophique rigoureuse. La promesse est à la fois une réclame d'habileté et une dégradation de la parole en effets de percussion. Le candidat entre dans une religion du discours dont le résultat annoncé est proche de la virtuosité suspecte plutôt que de la recherche du juste.
+
+### 19. La farine : Strepsiade transforme sa propre transformation en plaisanterie [A/É]
+
+La réponse du novice associe sa préparation à une substance pulvérisée, *paipalê*. Le corps devient objet de broyage, comme si l'opération intellectuelle devait l'écraser en farine. La parodie refuse de laisser le rite entièrement à son registre noble : le sacré est réinterprété selon les préoccupations de la cuisine, de l'argent et de la peur. On peut y voir un sabotage du sérieux du maître. Cependant le disciple ne quitte pas la scène : le rire n'annule pas la dépendance qu'il a consentie. Cette coexistence est importante : un sujet peut reconnaître l'absurdité d'un rituel tout en continuant à lui demander des bénéfices.
+
+### 20. *Euphêmein* : le silence bien réglé comme technique d'autorité [A/É]
+
+Au vers 263, Socrate exige que le vieillard garde le bon silence et écoute la prière. *Euphêmein* n'est pas un simple « tais-toi » ; dans le cadre d'un rite, il demande un silence ou des paroles de bon augure, excluant le mauvais présage. Or le novice vient de plaisanter sur le broyage et le sacrifice. La discipline verbale est nécessaire à la performance d'autorité. Le maître veut instituer une différence entre la parole de celui qui sait prier et le bruit inconvenant de celui qui doit recevoir le sens. La comédie révèle que la forme religieuse peut fonctionner comme un droit de fermer momentanément la bouche à un interlocuteur.
+
+## III. La prière à l'Air et la venue des Nuées : une révélation qui se joue devant le public
+
+### 21. *Aêr*, *Aithêr*, *Nephelai* : la nouvelle triade n'est pas la totalité d'un credo [A]
+
+Socrate invoque l'Air immense, l'Éther lumineux et les Nuées vénérables dans les vers 264–266. Les puissances atmosphériques apparaissent non comme de simples phénomènes inertes, mais sous la forme de destinataires auxquels on parle. Il n'est pas rigoureux d'en conclure que le personnage possède une doctrine philosophique stable identique à celle de Diogène d'Apollonie, d'Anaximène ou d'un sophiste particulier. Le texte accumule des éléments disponibles dans le débat sur les causes naturelles et les rituels. La comédie tire son effet de ce syncrétisme satirique, non d'un exposé que l'on pourrait attribuer à un auteur historique.
+
+### 22. Une prière structurée par l'invocation et l'impératif [A/É]
+
+L'adresse place les puissances en position supérieure et leur demande de se lever et d'apparaître. La syntaxe emprunte une forme traditionnelle de prière, mais l'objet est un spectacle requis pour un novice. Le rite est simultanément un appel à une divinité et une démonstration publique de l'autorité du maître. Il promet à Strepsiade une preuve sensible : si les Nuées viennent, le sage semble disposer d'un accès extraordinaire. Le mécanisme repose sur la participation du chœur théâtral, élément que le personnage peut traiter comme une épiphanie, tandis que le spectateur sait qu'il assiste à une convention dramatique.
+
+### 23. Les destinations de l'invocation : un monde traversé par les dieux [A]
+
+La prière évoque l'Olympe, les jardins d'Océan, le Nil, la Méotide et le mont Mimas (vers 269–274). Ce déploiement géographique sert à produire l'immensité des puissances appelées. Il n'autorise pas à retracer une carte exacte de voyages sacerdotaux ni un réseau institutionnel de cultes de Nuées. L'effet est cosmographique : le divin atmosphérique apparaît partout et peut surgir ici. La scène peut ainsi rire des prétentions cosmopolites du savoir spécialisé tout en mobilisant une poésie de la grandeur du monde.
+
+### 24. Le rite est adressé à une personne mais produit devant une assemblée de spectateurs [I]
+
+Le maître semble prier pour un élève particulier. Or la prière est chantée et montrée au théâtre, devant un collectif civique réuni pour une fête de Dionysos. La même action possède donc deux publics : le novice intérieur à la fiction et les spectateurs qui savent que le chœur a été préparé par un poète et des acteurs. Ce dédoublement est central. La preuve de Socrate est performative, puisqu'elle se vérifie dans le monde théâtral ; elle est aussi suspecte, puisque les spectateurs connaissent le dispositif qui la rend possible. La comédie met en scène une « vérité » constituée par l'adhésion à une représentation.
+
+### 25. L'eau du ciel devient une inquiétude domestique [A/I]
+
+Strepsiade veut protéger son vêtement de la pluie et regrette de ne pas avoir apporté de couvre-chef (vers 267–268). La crainte du novice fait tomber l'invocation de la cosmologie dans la gestion élémentaire du corps. Une épiphanie majestueuse devient un problème d'humidité et de confort. Ce n'est pas seulement une plaisanterie physiologique. La distance entre la grandeur des mots et l'expérience matérielle des humains réapparaît. Le maître parle de l'Air qui soutient la terre ; le paysan imagine son manteau trempé. Le savoir qui méprise l'ordinaire s'expose à l'épreuve des besoins que l'ordinaire maintient.
+
+### 26. Les Nuées ne sont pas d'abord des mensonges : une hymne à la nature [A/I]
+
+Vers 275–290, le chœur se présente comme un groupe de puissances immortelles qui parcourent la mer, les montagnes et les terres fécondes. Le chant évoque le regard de l'Éther et la terre observée d'en haut. L'écriture ne se limite pas à une caricature de discours sophistiqué. Elle reprend des ressources de la poésie religieuse et épique. Elena Langella (2023) souligne, dans son étude de cette première strophe, des affinités formelles avec l'imagerie épique des êtres capables de surveiller les actions des hommes. On ne peut donc décider de la nature du chœur en prenant pour argent comptant la seule présentation de Socrate comme patron des bavards.
+
+### 27. *Aenaoi Nephelai* : la permanence des Nuées et l'instabilité de leurs formes [A/É]
+
+Le début lyrique *ἀέναοι Νεφέλαι*, « Nuées toujours présentes » ou « perpétuelles », fait se rencontrer la durée et la métamorphose. Une nuée est par nature changeante ; le chœur se nomme pourtant permanent. La forme poétique produit un paradoxe apte à caractériser une autorité instable : les mêmes puissances peuvent paraître majestueuses, se transformer et tromper celui qui juge leur forme suffisante pour leur attribuer une nature. Il faut cependant éviter l'étymologie à vocation universelle : le mot seul ne prouve pas une doctrine de l'instabilité de toutes les valeurs.
+
+### 28. Les yeux qui voient les hommes : une surveillance divine [A/É/I]
+
+Dans les vers 285–290, l'œil de l'Éther et le regard étendu sur la terre placent le chœur dans une position de connaissance supérieure. Langella insiste sur les ressemblances avec des images poétiques traditionnelles de puissances qui surveillent les actions humaines et soutiennent l'ordre de justice. Le rapprochement est suggestif parce qu'il contredit la prétendue opposition simple entre « nouveaux dieux » et « vieille justice ». Mais cette lecture n'autorise pas à réduire le chœur à une allégorie explicite de Zeus. Il est plus sûr de constater que son langage déborde celui du maître et incorpore des marques de vigilance morale familières à la culture religieuse grecque.
+
+### 29. Un dieu que le public voit peut encore tromper le personnage [I]
+
+L'un des mécanismes les plus féconds de la scène tient à la différence entre visibilité et compréhension. Strepsiade entend la voix avant de discerner le chœur, puis réclame qu'on le lui montre. Une manifestation sensible n'établit pas à elle seule ce qu'est une puissance, encore moins ce qu'elle exige moralement. Le maître garantit la révélation en parlant comme si la venue des Nuées confirmait tout son enseignement ; le public peut déduire une conclusion plus limitée : il a réussi à les faire paraître dans la fiction. Une épiphanie est une donnée dramaturgique, pas une validation de toutes les propositions du prêtre improvisé.
+
+### 30. Le tonnerre : de la majesté à l'excrétion [A]
+
+Vers 291–295, Socrate sollicite l'adoration devant la voix et le tonnerre ; Strepsiade répond par des remarques sur son corps terrorisé, évoquant flatulence et défécation. Il serait insuffisant de qualifier la scène de grossièreté gratuite. La parole rituelle cherche à maintenir l'élévation ; le corps du novice impose une matérialité que les règles de bonne parole excluent. La puissance intimidante du tonnerre est ainsi ramenée aux bruits d'un ventre effrayé. Le rire détruit la distance sociale que l'invocation venait de créer. Cela ne signifie pas que le chœur cesse d'être divin dans la logique fictionnelle ; l'autorité devient contestable par les moyens mêmes de la comédie.
+
+### 31. *Euphêmei* contre la voix comique [A/É]
+
+Socrate réitère l'exigence de parole correcte et reproche au disciple d'agir comme les poètes comiques. L'ironie est structurelle : un personnage de comédie condamne des procédés comiques au sein d'une comédie. Il veut réserver la scène à l'attitude cérémonielle dont il serait le spécialiste, tandis que le spectateur reconnaît l'art qui produit le conflit. C'est presque une dispute sur la compétence à gouverner le rire. L'interdiction ne réduit pas seulement la parole individuelle ; elle prétend établir quel type de parole vaut dans le lieu où le savoir sacré se présente.
+
+### 32. Le chœur célèbre Athènes et ses mystères [A]
+
+Vers 298–313, les Nuées souhaitent voir le pays d'Athéna et évoquent la maison des mystères, des rites qu'on ne divulgue pas, des statues, des temples, des sacrifices et les fêtes printanières associées à Dionysos. Le passage est capital pour la lecture politique. Ces déesses dites nouvelles rendent hommage aux formes religieuses de la cité. On peut y lire une divergence entre l'idéologie que Socrate leur attribue et la manière dont elles se décrivent elles-mêmes. On ne peut y voir une reproduction documentaire complète d'Éleusis : le chant inventorie les signes de sacralité athénienne plutôt qu'il ne divulgue les procédures initiatiques.
+
+### 33. *Arrhêta* : l'indicible est nommé sans être dévoilé [A/É]
+
+Le terme qui renvoie aux choses sacrées non dites marque l'existence de pratiques dont la transmission est réservée. Sa présence dans un théâtre public crée une situation subtile : on célèbre des rites secrets en en parlant à tous, mais sans en représenter l'instruction complète. La comédie mobilise une frontière entre parole permise et parole interdite. Le maître du *Phrontistērion* prétend gérer une frontière comparable ; le chœur renvoie à des cultes publics connus et à leurs pratiques protégées. L'analogie ne prouve pas que l'école soit un sanctuaire éleusinien ; elle rend sensible l'existence de plusieurs autorités capables de régler la révélation.
+
+### 34. Dionysos et la fête : le rituel réel entoure la fiction [A/I]
+
+Le chant évoque le temps printanier et les concours choraux, devant un public réuni dans un cadre religieux. La comédie se produit elle-même comme événement inscrit dans un festival où la communauté honore Dionysos. Cette donnée rend impossible une opposition binaire entre « théâtre profane » et « religion sérieuse ». Le spectacle est un concours, une fête et une performance où l'on peut parodier d'autres rituels sans se situer hors de tout rituel. La critique ne se construit donc pas nécessairement comme une laïcisation moderne ; elle oppose des usages concurrents du sacré dans une même culture civique.
+
+### 35. La question de la *theôria* : voir n'est pas accéder sans médiation [I/P]
+
+Le langage de voir et de faire voir revient constamment. Socrate promet une révélation, puis conduit Strepsiade à regarder. La connaissance commence-t-elle par l'œil ou par la confiance en celui qui montre ? Dans une réflexion philosophique rétrospective, on peut rapprocher ce problème de l'écart entre perception, témoignage et preuve. L'initiation donne accès à un spectacle ; le vrai sens du spectacle demeure disputé. Le chœur fait voir les contradictions de la position du maître sans qu'aucun traité de logique explicite soit nécessaire.
+
+## IV. Trophonios, Éleusis et les Corybantes : débattre sans uniformiser les cultes
+
+### 36. Un rapprochement direct existe : Trophonios au vers 508 [A]
+
+Quand Strepsiade s'apprête à entrer dans l'intérieur de l'établissement, il demande un gâteau au miel et compare cette descente à celle qu'on accomplit vers Trophonios. Le texte nomme donc une tradition oraculaire de Lébadée en Béotie. Cette allusion est distincte du siège et de la couronne des vers 254–258, mais elle les relie rétrospectivement dans une dramaturgie de la peur. Un lecteur peut proposer un réseau de motifs de descente, de consécration, d'épreuve et de révélation. Le rapprochement bénéficie d'une attestation explicite à un endroit du texte ; la reconstruction de toute la scène comme rituel trophoniaque reste cependant une hypothèse [H].
+
+### 37. Pierre Bonnechere : une parodie partielle des rites de Lébadée [H]
+
+Dans « La scène d'initiation des *Nuées* d'Aristophane et Trophonios : nouvelles lumières sur le culte lébadéen » (*Revue des Études Grecques* 111, 1998, p. 436–480), Pierre Bonnechere rapproche la comédie de traditions sur les consultations de Trophonios. Son hypothèse est explicitement une parenté *partielle et non exclusive* des motifs. L'intérêt de cette proposition est de ne pas tenir pour nécessairement inventés à l'époque romaine tous les traits dont Pausanias et Plutarque témoignent plus tard. Le risque est symétrique : utiliser un texte tardif pour fixer trop précisément une cérémonie du Ve siècle. La présence de Trophonios au vers 508 soutient la pertinence d'un rapprochement, mais ne date pas chaque usage rituel.
+
+### 38. Simon Byl : la limite probatoire d'une allusion tardive dans la pièce [H/L]
+
+Simon Byl, dans « Les *Nuées* d'Aristophane : parodie d'une initiation à Lébadée ? » (*Revue belge de philologie et d'histoire* 78/1, 2000, p. 19–29), discute les conclusions de Bonnechere. Il rappelle notamment que le nom de Trophonios apparaît au vers 508 et que les témoignages détaillés sur certaines formes d'initiation sont tardifs. Son objection ne revient pas à nier les affinités de la comédie avec des expériences initiatiques ; elle conteste le passage de ressemblances à une identification historique trop assurée. La controverse est exemplaire : le texte confirme une comparaison rituelle, mais la nature exacte de ce qu'elle évoquait pour le public ne s'obtient pas par extrapolation automatique.
+
+### 39. Edmonds : ne pas appeler tout siège rituel une *thronosis* éleusinienne [A/H]
+
+Radcliffe G. Edmonds III, « To Sit in Solemn Silence? *Thronosis* in Ritual, Myth, and Iconography », *American Journal of Philology* 127/3 (2006), p. 347–366, insiste sur la différence entre les sièges associés aux rites d'Éleusis et la *thronosis* proprement corybantique. Selon son résumé institutionnel, certaines reconstructions assimilent abusivement une immobilité purificatrice silencieuse à une expérience corybantique effrayante. La scène des *Nuées* offre justement les gestes ambigus d'un novice assis, couronné, effrayé et soumis à une puissance supérieure. On peut parler de détournement de signes initiatiques ; on ne peut identifier une technique rituelle précise sans examiner lexique, iconographie et contexte de chaque culte.
+
+### 40. L'homogénéisation moderne des « mystères grecs » est un contresens [I/L]
+
+Éleusis, les Corybantes, les consultations de Trophonios et les traditions orphiques ne constituent pas un système unique aux mêmes procédures. Ils peuvent partager des fonctions de rupture, de préparation, de peur ou de révélation, mais les gestes attestés et leurs objectifs ne coïncident pas nécessairement. Le mot « initiation » possède une utilité comparatiste à condition d'être suivi d'une question : initiation à quoi, par qui, dans quelle institution, avec quel témoin, à quelle date ? La comédie agit précisément sur une convergence de signes reconnaissables. L'analyse historique doit ensuite défaire cette convergence pour rendre aux rites leur singularité.
+
+### 41. Pausanias IX, 39 : une source riche, mais postérieure de plusieurs siècles [A/L]
+
+Pausanias décrit la consultation de Trophonios à Lébadée, avec ses préparations et son accès à l'oracle, à l'époque impériale. Son témoignage est indispensable pour connaître ce qu'il rapporte, mais il ne représente pas une caméra placée à Lébadée en 423. Lorsque l'on rapproche le gâteau au miel d'Aristophane des provisions religieuses ou des rencontres redoutées du récit tardif, la parenté des images est intelligible ; la permanence ininterrompue de chaque détail doit être démontrée séparément. La différence de chronologie n'annule pas la comparaison ; elle change son statut de preuve.
+
+### 42. Athamas, les Corybantes et la peur du novice : ressemblances sans équivalence [I]
+
+Le novice craint d'être sacrifié ; il subit le silence imposé ; il tremble lorsque les divinités viennent. Ces traits peuvent rappeler plusieurs expériences rituelles où l'effroi est un mécanisme de transformation. Mais il serait trompeur de dire que l'angoisse de Strepsiade reproduit celle d'un initié corybantique ou celle d'un suppliant trophoniaque avec des gestes identiques. Le théâtre amplifie la peur et la convertit en ridicule. L'hypothèse comparatiste s'évalue donc moins à la quantité des parallèles qu'à la précision de chacun et à la résistance aux contre-exemples.
+
+### 43. Un rituel fictif peut être fabriqué à partir de gestes réels [I]
+
+La parodie ne suppose pas nécessairement l'existence d'une cérémonie identique à la fiction. Elle sélectionne des signes socialement reconnaissables — s'asseoir, se couronner, faire silence, invoquer, apparaître — et les combine au sein d'un programme didactique invraisemblable. C'est ce que la théâtralité ajoute à l'histoire des religions : un récit peut créer un objet rituel sans qu'un culte réel l'ait jamais institué. Ce constat interdit aussi de décrire l'initiation des *Nuées* comme une « religion secrète de Socrate » historiquement établie.
+
+## V. Une initiation sans éthique : l'argent, la langue et le pouvoir de décider
+
+### 44. Le contrat de formation résiste-t-il à l'intérêt frauduleux ? [I]
+
+Le maître sait que son élève souhaite utiliser la parole contre les créanciers. La scène de consécration ne vérifie pas la légitimité de ce projet. Elle promet au contraire une transformation de la capacité de parler. L'initiation vient donc investir de prestige un désir dont la moralité a déjà été rendue douteuse. C'est un problème de philosophie pratique : l'excellence d'une technique peut-elle se transmettre sans examen de ses fins ? Le fait qu'une habileté fonctionne ne prouve pas qu'elle doive être utilisée. La pièce n'en donne pas un exposé systématique, mais son agencement dramatique place l'éthique avant le progrès allégué du savoir.
+
+### 45. Le serment et la monnaie : une autorité religieuse contournée [A/É]
+
+Aux vers 247–249, Socrate affirme que les dieux ne sont pas monnaie courante chez lui. Le jeu sur *nomisma*, proche du champ de la coutume, de la reconnaissance et de la monnaie, permet à Strepsiade de ramener une proposition religieuse à des espèces monétaires. Cette équivoque montre la plasticité du vocabulaire du croire : une puissance est reconnue dans une communauté, comme une monnaie dans un marché, mais les formes de cette reconnaissance ne sont pas identiques. La scène ne fournit pas une théorie moderne de la convention ; elle expose par le rire l'instabilité des garanties invoquées par un maître dont l'élève veut échapper précisément à une obligation financière.
+
+### 46. Une religion qui fabrique le langage comme puissance [A/I]
+
+Après l'initiation, la série des puissances privilégiées inclut le Chaos, les Nuées et la Langue, au vers 424. La *glôtta* cesse d'être seulement un organe ; elle est installée parmi les principes que le disciple devra honorer. La relation à la parole prend une forme religieuse. Le danger ne vient pas de la capacité d'argumenter en elle-même, mais de sa promotion au rang de puissance autosuffisante, indifférente à la justice de ce qui est demandé. La comédie pose ainsi un problème toujours intelligible : lorsque les moyens de persuasion deviennent la fin suprême, les promesses de vérité peuvent servir des intérêts antagonistes.
+
+### 47. Le chœur promet l'éloquence politique, mais le disciple veut seulement éviter ses créanciers [A/I]
+
+Vers 429–435, les Nuées laissent entrevoir un rayonnement de l'habileté verbale dans le *dêmos* ; Strepsiade refuse d'être entraîné vers les grandes affaires et rappelle son objectif étroit de procès et de dettes. Cette discordance est capitale. L'initiation déploie une rhétorique de grandeur civique ; l'initié en réduit immédiatement l'usage à une stratégie d'évitement personnel. Les techniques dont une démocratie pourrait avoir besoin dans ses assemblées deviennent ainsi des instruments privés susceptibles de parasiter la confiance publique. L'opposition n'est pas entre parole et silence, mais entre conditions communes de la parole et capture privée de son efficacité.
+
+### 48. Le *dêmos* est présent comme horizon de prestige, non comme autorité qui valide le rite [A/I]
+
+Le succès dans l'assemblée est évoqué, mais aucun vote des citoyens ne consacre l'initiation. La reconnaissance est produite dans un lieu privé, par un maître qui construit son propre public et son propre ordre cérémoniel. La comédie met en tension deux régimes de validation : la pratique politique dans la cité et l'approbation d'un cercle de spécialistes. On peut y lire la question de savoir si l'expertise savante peut acquérir une légitimité politique sans se soumettre à une publicité de ses raisons. Le texte ne propose pas de réforme institutionnelle ; il met l'opacité du prestige à l'épreuve de sa finalité.
+
+### 49. L'exclusion des femmes et des esclaves : ne pas fabriquer une démocratie universelle [A/L]
+
+La représentation a lieu dans une cité dont la participation ordinaire à l'assemblée et aux tribunaux est réservée aux citoyens masculins. La scène met en jeu un homme d'âge mûr, un maître masculin et une communauté de spectateurs dont la composition exacte ne peut être reconstituée par le seul texte. Les Nuées sont mises en scène comme des déesses, mais ce fait ne convertit pas les femmes réelles en citoyennes votantes. Une analyse critique peut noter le contraste entre les déesses qui offrent une autorité et les femmes exclues du pouvoir ordinaire, sans attribuer à la pièce une déclaration égalitaire inexistante.
+
+### 50. Le silence rituel ne peut servir de modèle général à la délibération [I]
+
+La prière demande à Strepsiade de se taire pour que le maître et les puissances parlent. Dans une initiation, le silence peut figurer l'attention ou le respect ; dans une délibération, l'exigence de ne jamais répondre peut devenir une technique de domination. La pièce ne condamne pas l'écoute ; elle montre le glissement possible d'une discipline temporaire vers un monopole du sens. Le chœur lui-même introduit finalement des significations que le maître n'avait pas contrôlées. L'autorité du rite se retourne contre sa prétention à être la seule source de l'explication.
+
+## VI. Socrate historique, mémoire du procès et contre-preuves
+
+### 51. Platon, *Apologie* 18b–19c : un témoignage sur l'accusation, non sur la biographie [A/L]
+
+Dans l'*Apologie*, Socrate rappelle les accusations anciennes qui le présentent comme examinant ce qui se trouve dans le ciel et sous la terre et rendant le mauvais argument plus fort. Il désigne explicitement la comédie d'Aristophane et l'image de sa suspension dans les airs. Ce passage atteste que la représentation comique était devenue une référence possible dans les accusations dirigées contre le philosophe. Il ne garantit pas que celui-ci pratiquait réellement la cérémonie du siège et de la couronne. Le témoignage platonicien porte sur la réputation et sur la nécessité de s'en défendre, dans un texte apologétique postérieur au procès.
+
+### 52. La distance entre 423 et 399 doit être maintenue [A/L]
+
+La première représentation des *Nuées* précède de vingt-quatre années le procès de Socrate. Entre les deux dates, la cité a connu de nouvelles phases de guerre, les crises oligarchiques et la restauration démocratique. Il serait historiographiquement fragile d'expliquer l'exécution de 399 par une causalité linéaire qui partirait du seul spectacle de 423. Le souvenir de la comédie a pu contribuer à un ensemble de représentations hostiles ; l'étendue exacte de cet effet n'est pas mesurable. La scène d'initiation constitue un document sur la satire de l'autorité intellectuelle dans un contexte théâtral, pas une preuve que les jurés de 399 auraient observé un rite socratique.
+
+### 53. Le Socrate de Xénophon, celui de Platon et celui d'Aristophane [L]
+
+Les sources socratiques sont hétérogènes. Platon construit des dialogues philosophiques et une défense ; Xénophon donne des souvenirs et des reconstructions à visée apologétique ; Aristophane produit une figure comique capable d'absorber plusieurs caractéristiques des « nouveaux penseurs ». La comparaison peut repérer des divergences dans les pratiques attribuées au personnage, mais elle ne permet pas de sélectionner automatiquement le portrait vrai en écartant tous les autres. Une monographie sur une scène doit donc distinguer l'homme, les traditions biographiques, les personnages et les usages polémiques de leur nom.
+
+### 54. Le feu final : punition, connaissance et violence [A/I]
+
+À la fin de la comédie, Strepsiade participe à la destruction du *Phrontistērion*. La scène est une réponse violente à l'échec de son projet d'acquisition du savoir rentable. Elle peut être lue comme le retour d'une sanction, mais la destruction d'un bâtiment et la mise en danger de personnes ne doivent pas être valorisées comme une justice civique incontestable. Les Nuées ont contribué à détromper l'homme par l'expérience de ses propres désirs ; le rire final ne dispense pas le public de juger la brutalité du résultat. Il ne constitue pas non plus une incitation historiquement attestée à attaquer de véritables philosophes.
+
+### 55. L'initiation n'est ni simplement une escroquerie ni une révélation authentique [I]
+
+Le maître promet une transformation qui n'aboutit pas comme le souhaite son élève. Cette défaillance peut suggérer une supercherie. Mais les puissances invoquées ne restent pas entièrement fictives à l'intérieur de la pièce : elles parlent, agissent et organisent un sens moral du dénouement. Toute lecture qui assimilerait les Nuées à de simples mannequins au service de Socrate manquerait cette autonomie dramatique. Inversement, leur action ne prouve pas que le maître transmet une vraie science. L'originalité de la comédie tient à la coexistence d'une efficacité théâtrale de la révélation et de l'inefficacité de la doctrine sociale que le disciple en tire.
+
+## VII. Quatre comparaisons philosophiques, et leurs limites
+
+### 56. Hegel : la liberté comique contre la prétention au sérieux [P]
+
+Les développements de Hegel sur la comédie dans l'*Esthétique* permettent de lire l'épisode comme un conflit entre la fermeté de la subjectivité comique et l'autorité qu'une institution se donne. Le maître veut commander en invoquant des puissances ; l'élève fait valoir son corps, ses besoins et ses jeux de mots contre la solennité. Ce rapprochement n'autorise pas à prétendre que Hegel aurait interprété les vers 254–313 dans les mêmes termes. Il propose un instrument de lecture : le rite mis en scène peut être tenu à distance par la liberté du sujet qui refuse d'en adopter sans réserve le registre sérieux.
+
+### 57. Nietzsche : comment le rire déstabilise une prétention de savoir [P]
+
+Nietzsche, dans *La Naissance de la tragédie*, § 13 notamment, mobilise Aristophane pour réfléchir au rapport entre Socrate, Euripide et les formes de création grecque. Il serait illégitime de lui attribuer une thèse précise sur la couronne de Strepsiade sans texte à l'appui. Toutefois, son attention à la conflictualité entre rationalisation et art tragique fournit un contraste critique : ici la prétention au savoir n'est pas contredite par un traité rival, mais par le rythme d'une cérémonie qui se désagrège dans le rire. L'analogie éclaire le rapport de la comédie à la valeur des discours, non une ligne généalogique démontrée entre Aristophane et Nietzsche.
+
+### 58. Vernant : la cité, le rituel et les formes partagées de la pensée [P]
+
+Jean-Pierre Vernant a mis en relation l'élaboration de catégories intellectuelles et les transformations des pratiques sociales de la Grèce ancienne. La scène invite à une lecture analogue, strictement comparative : un rite prétend donner accès à un savoir, au sein d'une polis où les fêtes, les tribunaux et les débats offrent d'autres espaces de reconnaissance. Il serait pourtant réducteur de présenter le *Phrontistērion* comme un stade de l'histoire « du mythe à la raison ». Les nouvelles explications du monde et les formes religieuses ne se remplacent pas ici mécaniquement ; elles se croisent et se parodient.
+
+### 59. Detienne : rivalités entre maîtres de vérité [P]
+
+Marcel Detienne, dans *Les Maîtres de vérité dans la Grèce archaïque*, examine des modes de parole autorisés en relation avec poésie, divination et mémoire. On peut employer cette grille pour demander ce qui rend la parole du Socrate comique crédible : sa posture, sa faculté d'invoquer, les gestes d'initiation, la réputation du lieu et la réponse des Nuées. Mais les figures étudiées par Detienne ne coïncident pas purement avec ce maître de comédie. Le rapprochement est fécond s'il demeure une interrogation sur les techniques de légitimation, non la preuve que Socrate serait un héritier direct et identifié des devins archaïques.
+
+### 60. La *mêtis* de Detienne et Vernant : savoir rusé et piège de l'habileté [P]
+
+Les *Ruses de l'intelligence. La mètis des Grecs* (Detienne et Vernant) permettent de distinguer une intelligence adaptative de sa valorisation morale. Strepsiade cherche une technique pour retourner l'obligation de payer ; le maître prétend posséder l'accès à des puissances capables de modifier l'efficacité des mots. Le rire éclaire le caractère ambigu de la ruse : elle peut aider à se défendre comme permettre de nuire. Il ne faut ni assimiler toute intelligence non académique à une fraude ni sacraliser l'habileté sans considérer les torts causés aux autres. Le concept moderne d'analyse ne remplace pas le vocabulaire grec de chaque réplique.
+
+### 61. Les critiques modernes de l'expertise : analogie limitée [P/L]
+
+On peut reconnaître dans la scène un problème familier aux sociétés contemporaines : comment une expertise acquiert-elle de l'autorité, et quels contrôles empêchent qu'elle serve une clientèle particulière ? Cette analogie doit rester contrôlée. L'Athènes de la comédie ne connaît ni université moderne, ni organisme de certification, ni système de recherche scientifique comparable. Le théâtre antique montre des pratiques de démonstration et de parole situées dans la culture de sa cité. La comparaison permet de formuler un problème philosophique ; elle ne permet pas de transformer le Socrate caricatural en portrait d'un spécialiste contemporain.
+
+## VIII. Résultats historiques : religiosité civique et autorité de la parole
+
+### 62. La nouvelle science ne s'oppose pas mécaniquement aux rites anciens [A/I]
+
+La première surprise est que le maître qui semble récuser les dieux habituels mobilise les techniques de consécration et de prière ; la seconde est que le chœur de ses nouvelles divinités célèbre les cultes d'Athènes. Cette double inflexion interdit une lecture linéaire où les sciences naturelles élimineraient tout sacré. La satire vise aussi la facilité avec laquelle les nouveaux discours se donnent une autorité en empruntant à des registres qu'ils dévalorisent. Ce ne sont pas les gestes religieux en soi qui sont réfutés par la pièce, mais le type d'usage qu'un personnage en fait au service d'un apprentissage mal orienté.
+
+### 63. Les Nuées ne sont pas l'organe de propagande du maître [A/I]
+
+Les déesses répondent à l'invocation, mais le sens de leur présence dépasse le programme de Socrate. Elles apparaissent à la fois comme puissances atmosphériques, sujets lyriques, observatrices de la cité et agents du renversement final. La même image peut ainsi servir un discours de maîtrise et signaler les limites de ce discours. La pluralité des fonctions chorales explique la richesse du passage. Elle invite à analyser l'autorité non comme une substance possédée par le maître, mais comme une relation instable entre celui qui parle, les puissances qu'il prétend représenter et le public qui l'interprète.
+
+### 64. La technique initiatique n'enseigne pas ce qu'elle promet [I]
+
+S'asseoir, recevoir une couronne et prier sont des gestes susceptibles de marquer une transformation ; ils ne fournissent pas, par eux-mêmes, des connaissances sur la justice d'un contrat ou les causes de la pluie. La scène exploite l'écart entre changement de statut et acquisition de compétence. Elle oppose ainsi deux critères que l'on confond facilement : avoir été admis à une procédure exceptionnelle et avoir appris quelque chose de vrai ou d'utile. L'initiation fonctionne dramatiquement parce qu'elle fait croire que le premier critère produit nécessairement le second. Le dénouement prouve, dans la fiction, que cette promesse est au moins gravement mal comprise.
+
+### 65. Une critique de la confiance, non une apologie de la méfiance absolue [I]
+
+Strepsiade se trompe en croyant qu'une parole consacrée pourra faire disparaître ses dettes. Mais le refus de toute confiance envers les maîtres empêcherait aussi d'apprendre. La comédie ne démontre pas qu'il faudrait renoncer aux enseignants ; elle donne matière à distinguer la confiance accordée pour examiner des raisons de l'obéissance accordée à un prestige. Une institution de savoir peut légitimement demander de l'attention ; elle ne doit pas considérer l'attention comme la preuve anticipée de sa propre vérité. C'est l'une des leçons philosophiques les plus rigoureuses que l'on peut tirer de la représentation.
+
+### 66. L'humour corporel rend la révélation publiquement discutable [I]
+
+La terreur intestinale, le manteau mouillé, la farine et l'angoisse du sacrifice traversent l'appareil rituel. La fonction du corps comique n'est pas seulement de profaner ; elle empêche la disparition de l'expérience ordinaire derrière la majesté de celui qui parle. Les spectateurs peuvent reconnaître à la fois le registre de la prière et la disproportion de son emploi. Le rire réintroduit ainsi une possibilité d'évaluation au moment même où un personnage la suspend au nom de l'initiation. Cette pluralité de regards est politiquement signifiante, sans qu'on puisse en déduire un vote ou une opinion unanime du public.
+
+### 67. Une scène sur les formes du jugement [I]
+
+Les tribunaux et les créanciers sont le point de départ du désir de formation. Le rite serait utile si, en sortant, Strepsiade pouvait infléchir le jugement d'autrui. Mais le théâtre demande à son tour au public de juger la légitimité de cette promesse. Les deux exercices de jugement se répondent : l'un est recherché comme instrument privé ; l'autre est l'activité réflexive du spectateur face à la fiction. Cela ne convertit pas le concours comique en tribunal officiel. La parenté porte sur le problème commun de la crédibilité et de l'incertitude des raisons.
+
+### 68. Conclusion : le savoir sacralisé demeure exposé à sa propre épreuve [I]
+
+La couronne, le siège, la prière et l'apparition ne forment pas un jeu entièrement détaché de la politique. Ils construisent une autorité capable de proposer au citoyen une nouvelle manière de parler, de jurer et de résister à ses obligations. Cette autorité naît de la distance qu'elle installe entre un maître et un novice ; elle se fragilise lorsque le chœur révèle une mémoire religieuse et morale que le maître ne maîtrise pas, et lorsque le novice met en évidence la pauvreté de ses motivations. Le spectacle n'enseigne pas que la connaissance serait inutile. Il demande ce qui peut la rendre responsable devant une cité.
+
+L'apport propre de la monographie est de mettre au jour une **séquence d'habilitation** : aspiration au gain, promesse d'accès au divin, installation sur le lit, couronnement, peur sacrificielle, désignation comme initié, discipline du silence, invocation, venue du chœur, revendication de compétence, retour des intérêts privés, puis sanction dramatique. Chaque étape est attestée dans l'action représentée ; son appartenance à un culte réel reste soumise à une critique séparée. La controverse Bonnechere–Byl et la correction méthodologique d'Edmonds montrent que le comparatisme peut enrichir le commentaire sans donner au théâtre la fonction d'un procès-verbal religieux.
+
+---
+
+## IX. Appareil scientifique, textes contrôlés et bibliographie
+
+### 69. Édition du texte et passages grecs directement contrôlés
+
+**Texte de base :** Aristophane, *Nuées*, édition F. W. Hall et W. M. Geldart, *Aristophanis Comoediae*, Oxford, Clarendon Press, 1906. Accès numérique [Perseus, texte grec](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/) ; contrôle parallèle de la distribution en scènes : [Gadsden Classics — *Clouds*, parodos](https://classics.andrewgadsden.com/library/aristophanes/clouds/2).
+
+**Points lexicaux directement vérifiés :** 247–249 (*nomisma*, serments, dieux et monnaie) ; 250–253 (*ta theia pragmata*, relation aux Nuées) ; 254 (*hieros skimpous*) ; 255–258 (*stephanos*, Athamas, *teloumenoi*) ; 260–263 (*trimma*, *krotalon*, *paipalê*, *euphêmein*) ; 264–274 (invocation à l'Air, à l'Éther et aux Nuées) ; 275–290 (première strophe chorale et regard cosmique) ; 291–297 (crainte corporelle et contrôle de la parole) ; 298–313 (mystères, temples, sacrifices, printemps dionysiaque) ; 423–425 (Chaos, Nuées, Langue) ; 429–435 (éloquence civique et intérêt privé) ; 505–509 (gâteau au miel, comparaison avec Trophonios) ; fin de la pièce, destruction du *Phrontistērion*. La numérotation suit l'édition précitée ; les traductions libres présentes dans l'analyse ne sont pas mises entre guillemets comme des citations d'une édition française non consultée.
+
+### 70. Témoignages antiques et délimitation de leurs usages
+
+1. **Platon, *Apologie* 18b–19c** : référence directe aux vieilles accusations et au Socrate comique suspendu en l'air. [Centre for Hellenic Studies, traduction de consultation](https://www-current.chs.harvard.edu/primary-source/plato-the-apology-of-socrates-sb/) ; autre [texte grec et traduction](https://adfonteslibrary.org/work-plato-apology). Témoignage sur une représentation et sur sa mobilisation polémique, non attestation de l'existence d'une cérémonie socratique.
+2. **Aristophane, *Guêpes* 1043–1050** : allusions aux succès ou à l'incompréhension des innovations du poète. À confronter à la situation de concours ; la parole du chœur est une auto-présentation comique, non une notice indépendante et neutre.
+3. **Pausanias, *Description de la Grèce* IX, 39** : consultation de Trophonios dans la Béotie d'époque impériale. Référence pour comparer les rites décrits ; aucune contemporanéité avec la première représentation des *Nuées*.
+4. **Platon, *Phèdre* 244d–245a ; *Lois* VII, 790d–791a** : témoins de discours sur inspiration, mouvement et rites. Leur rapprochement avec une scène d'Aristophane est philosophique et documentaire, non une preuve de mise en scène reproduisant une procédure identique.
+
+### 71. Historiographie critique vérifiée sur des notices académiques
+
+1. **A. W. H. Adkins**, « Clouds, Mysteries, Socrates and Plato », *Antichthon* 4 (1970), p. 13–24, [DOI 10.1017/S006647740000397X](https://doi.org/10.1017/S006647740000397X). La notice accessible souligne le souci d'étudier l'effet possible de l'analogie avec les mystères sur un public antique. Il n'est pas prétendu ici que toutes les pages internes ont été examinées.
+2. **A. M. Bowie**, *Aristophanes: Myth, Ritual and Comedy*, Cambridge University Press, 1993, chapitre « Clouds », p. 102–133, [DOI 10.1017/CBO9780511518362.006](https://doi.org/10.1017/CBO9780511518362.006). La notice et le résumé consultés portent sur les renversements éphebiques, l'ordre civique et les cadres religieux.
+3. **Pierre Bonnechere**, « La scène d'initiation des *Nuées* d'Aristophane et Trophonios : nouvelles lumières sur le culte lébadéen », *Revue des Études Grecques* 111/2 (1998), p. 436–480, [DOI 10.3406/reg.1998.4335](https://doi.org/10.3406/reg.1998.4335) ; [notice et pages numérisées](https://www.persee.fr/doc/reg_0035-2039_1998_num_111_2_4335). Pour la formulation de la thèse, voir le résumé repris dans une [bibliographie académique de l'Université de Montréal](https://bibliographies.bib.umontreal.ca/histoire_udem/bibliography/?abstracts=1&page=74&sort=title_asc). Les comparaisons de détail requièrent la lecture intégrale de l'article ; l'étude présente sa position comme hypothèse partielle, non certitude imposée.
+4. **Simon Byl**, « Les *Nuées* d'Aristophane : parodie d'une initiation à Lébadée ? », *Revue belge de philologie et d'histoire* 78/1 (2000), p. 19–29, [DOI 10.3406/rbph.2000.4429](https://doi.org/10.3406/rbph.2000.4429). [Texte et ouverture consultables](https://www.persee.fr/doc/rbph_0035-0818_2000_num_78_1_4429). Point central : statut limité de l'allusion à Trophonios et critique de l'utilisation de témoignages postérieurs.
+5. **Radcliffe G. Edmonds III**, « To Sit in Solemn Silence? *Thronosis* in Ritual, Myth, and Iconography », *American Journal of Philology* 127/3 (2006), p. 347–366, [DOI 10.1353/ajp.2006.0037](https://doi.org/10.1353/ajp.2006.0037). [Notice institutionnelle de Bryn Mawr College](https://repository.brynmawr.edu/classics_pubs/80/), résumé consulté : distinction critique des rites éleusiniens et corybantiques.
+6. **Elena Langella**, « Guardare e apparire: la caratterizzazione delle Nuvole in Aristoph. *Nub.* 275–290 », *Aevum Antiquum* 23 (2023), p. 227–257, [DOI 10.26350/020747_000118](https://doi.org/10.26350/020747_000118). Résumé institutionnel consulté : mise en évidence de résonances épico-religieuses, du regard du ciel et d'un horizon de justice. L'interprétation politique des vers dans cette monographie demeure propre à MYTHOS.
+7. **Jeffrey Henderson**, « Aristophanes' Clouds », *Oxford Bibliographies in Classics*, état du 5 octobre 2026, [DOI 10.1093/obo/9780195389661-0305v1](https://doi.org/10.1093/obo/9780195389661-0305v1). Source bibliographique pour les faits de concours, la transmission des versions et les problèmes de l'identification du Socrate comique.
+
+### 72. Philosophie moderne et bibliographie complémentaire
+
+**G. W. F. Hegel**, *Leçons sur l'esthétique*, partie sur l'art dramatique et la comédie ; application interprétative non attribuée à un commentaire hégélien direct des vers 254–313.
+
+**Friedrich Nietzsche**, *La Naissance de la tragédie*, § 13 ; point de comparaison sur le Socrate de la représentation et le rôle d'Aristophane, non citation d'une analyse de la scène initiatique.
+
+**Jean-Pierre Vernant**, *Les Origines de la pensée grecque*, PUF, 1962 ; cadre critique de la relation entre vie civique, pensée et formes symboliques.
+
+**Marcel Detienne**, *Les Maîtres de vérité dans la Grèce archaïque*, Maspero, 1967 ; comparaison sur la légitimation des formes de parole.
+
+**Marcel Detienne et Jean-Pierre Vernant**, *Les Ruses de l'intelligence. La mètis des Grecs*, Flammarion, 1974 ; application prudente aux buts de la ruse et aux prétentions de l'habileté.
+
+**K. J. Dover**, *Aristophanes: Clouds*, Oxford, 1968, édition et commentaire. Référence de travail répertoriée dans la bibliographie d'Adkins ; ne pas attribuer une explication précise de page non consultée.
+
+**Michael Straus**, « Aristophanes' *Clouds* in its Ritual Setting », article sur le contexte rituel des Grandes Dionysies, signalé dans les bibliographies disponibles ; vérification de la publication définitive requise avant d'en reprendre la pagination.
+
+Les trois catégories doivent rester séparées : passages grecs contrôlés, positions de chercheurs vérifiées par leurs notices, et comparaisons philosophiques proposées par la présente monographie. Aucune bibliographie ne vaut preuve d'une lecture intégrale des ouvrages cités.
+
+### 73. Matrice des attestations, hypothèses et exclusions
+
+| Objet | Attestation | Interprétation possible | Limite |
+|---|---|---|---|
+| Représentation initiale en 423 | Tradition du concours et étude bibliographique | Un public juge une satire du savoir | Le texte conservé est révisé |
+| Siège sacré et couronne | *Nuées* 254–257 | Consécration parodique | Aucun mobilier cultuel précis établi |
+| Initiés, *teloumenoi* | *Nuées* 258 | Entrée dans une communauté de savoir | Pas de culte unique nommé |
+| Prière à Air, Éther et Nuées | *Nuées* 263–274 | Sacralisation de la cosmologie | Pas de doctrine historique de Socrate démontrée |
+| Chant des Nuées | *Nuées* 275–313 | Épiphanie et mémoire religieuse civique | Les intentions d'Aristophane ne sont pas accessibles sans médiation |
+| Trophonios | *Nuées* 505–509 | Parodie partielle possible du sanctuaire de Lébadée | Rites détaillés attestés surtout plus tard |
+| *Thronosis* | Étude critique d'Edmonds | Comparaison des formes d'assise initiatique | Distinction corybantique/éleusinienne obligatoire |
+| Procès de Socrate | Platon, *Apologie* 18b–19c | Mémoire polémique d'une figure comique | Pas de causalité unique démontrée |
+| Renversement final | Dénouement des *Nuées* | Critique d'un apprentissage recherché pour l'injustice | Pas d'apologie du feu contre les philosophes |
+
+### 74. Continuité universitaire MYTHOS et protection contre les doublons
+
+La présente étude possède un objet qui ne se confond avec aucune des monographies comparatives déjà vérifiées sur le même corpus. Le dossier CCXX (220) traite de la preuve atmosphérique, du serment et de la causalité ; CCLXVI (266) des deux Discours et de la violence familiale ; CCLXXXV (285) du calendrier et de la dette ; CCCXII (312) de la carte et de la géométrie ; CCIII (203) de la parabase politique. Leurs contenus ne sont ni reproduits ni révisés. L'analyse centrale porte sur le **rituel d'habilitation intellectuelle**, les niveaux de parole du chœur et la controverse historiographique sur l'initiation de Trophonios, d'Éleusis et des Corybantes.
+
+Les références aux numéros 203, 220, 266, 285 et 312 sont historiques et doivent rester littérales. Seules les variables CCCXX et 320 du titre du nouveau manuscrit sont destinées à l'attribution automatique. Aucun numéro canonique futur n'est réservé. La demande publique enregistrée doit demeurer intégrale et immuable après son attribution ; tout complément ultérieur sur ces mêmes vers devra s'annoncer comme tel et être relié au dossier existant, non redéposé sous un second identifiant.
+
+### 75. Résultat de la recherche
+
+L'initiation des *Nuées* n'est pas une anecdote intercalée entre deux exercices de météorologie. Elle interroge la façon dont un savoir se constitue en autorité par le siège, le silence, la couronne et l'apparition. Sa dramaturgie rend perceptible la différence entre **être autorisé à enseigner**, **être cru** et **avoir raison**. Elle rappelle aussi que les formes religieuses grecques ne sont ni unifiées ni remplaçables les unes par les autres sans examen philologique. L'hypothèse d'une parodie partielle du culte de Trophonios mérite considération, mais elle ne peut absorber les différences entre traditions, ni supplanter les mots de la comédie elle-même.
+
+L'étude est autonome parce qu'elle pose et résout, à l'échelle de son corpus, un problème propre : l'intelligence vendue comme privilège initiatique peut engendrer de la crédibilité sans instituer la responsabilité de celui qui s'en prévaut. Le rire, en exposant la contradiction entre la majesté des discours et les besoins du corps, rend cette crédibilité discutable. C'est sur cette frontière entre initiation, savoir et jugement public que s'achève la présente monographie.
+
+*Fin du manuscrit intégral. Aucun numéro canonique ni aucune URL publique n'est revendiqué avant réception et validation du reçu GitHub Actions.*

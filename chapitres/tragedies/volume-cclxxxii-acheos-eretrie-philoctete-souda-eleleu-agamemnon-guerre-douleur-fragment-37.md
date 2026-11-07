@@ -1,0 +1,435 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCLXXXII (282)
+
+# Achéos d’Érétrie, *Philoctète* (Φιλοκτήτης) : Agamemnon, le cri de guerre et l’éthique du héros abandonné
+
+**Monographie universitaire originale — sources primaires, philologie, fragment dramatique, mythologie troyenne, histoire militaire, philosophie du tragique et iconographie.**
+
+**Identification scientifique :** Achéos d’Érétrie (Ἀχαιὸς Ἐρετριεύς), *Φιλοκτήτης*. FragTrag.1, Achaeus I, titre 19, fragment 39 = *Tragicorum Graecorum Fragmenta* (*TrGF*) I, Achéos (20), F 37. Témoin antique principal : *Souda*, ε 786, entrée Ἐλελεῦ. Le titre survit, mais la pièce est perdue ; sa date précise, son genre particulier, son intrigue et son dénouement ne sont pas établis. Les références antiques demeurent littérales ; CCLXXXII et 282 ne désignent que la future attribution MYTHOS.
+
+**Convention des niveaux de preuve :** [A] document attesté ; [B] inférence fondée et révisable ; [C] possibilité dramaturgique ou hypothèse de réception non attestée. Aucun passage grec n’a été composé pour remplir les lacunes.
+
+## Résumé scientifique
+
+Les versions les plus célèbres du mythe de Philoctète situent l’attention sur un homme laissé à Lemnos à cause d’une blessure incurable, et dont les armes deviennent nécessaires à la prise de Troie. Le fragment conservé sous le titre *Philoctète* d’Achéos est toutefois d’une autre nature. Il provient d’un lexique byzantin qui veut expliquer un cri de guerre. Dans ce contexte, la *Souda* attribue expressément à Agamemnon une exhortation énergique aux Achéens : le roi annonce qu’il conduira lui-même l’action ; l’un doit saisir la poignée d’une épée, l’autre donner le signal à la trompette ; le passage se termine par l’acclamation ἐλελεῦ. Ce témoignage offre un fait rare dans les tragédies perdues : un locuteur identifié, une série de paroles grecques et une forme d’action collective. En revanche, le héros éponyme n’est pas nommé dans l’extrait cité.
+
+Le document exige de séparer le texte effectivement transmis du récit que la mémoire mythique invite à reconstituer. Homère atteste la blessure et l’abandon de Philoctète ; les résumés de la *Petite Iliade* connaissent son retour, sa guérison et la mort de Paris ; Dion Chrysostome compare les *Philoctète* d’Eschyle, d’Euripide et de Sophocle ; le *Philoctète* conservé de Sophocle représente le conflit entre la nécessité stratégique et la conscience de Néoptolème. Pourtant aucune de ces œuvres ne délivre le scénario perdu d’Achéos. Le fragment de la *Souda* suggère fortement un contexte de mobilisation guerrière, sans localiser la scène, déterminer ses personnages présents ou prouver la place exacte du héros blessé.
+
+La présente monographie restitue le dossier critique de manière vérifiable, étudie la langue de l’exhortation, le statut de l’autorité d’Agamemnon, les catégories de la souffrance et de l’exclusion, les possibles relations avec les récits de guérison, et les limites de la reconstruction scénique. Les lectures de Platon, Aristote, Hegel et Nietzsche sont traitées comme des comparaisons philosophiques, jamais comme des témoignages sur la pièce. Une céramique du Metropolitan Museum of Art sert de document iconographique sur le mythe, non de représentation d’une mise en scène d’Achéos.
+
+## I. Établissement du dossier documentaire
+
+### 1. Achéos d’Érétrie et les dramaturges non conservés
+
+Le théâtre grec classique ne se réduit pas au corpus manuscrit relativement bien conservé d’Eschyle, de Sophocle et d’Euripide. Achéos d’Érétrie appartient au groupe des auteurs dont les titres et quelques citations survivent principalement dans des compilations et des citations érudites. L’origine eubéenne du poète rappelle l’amplitude du milieu intellectuel lié aux concours athéniens. Les notices biographiques anciennes attribuent à Achéos des totaux divergents d’œuvres, des dates incertaines et une réputation particulièrement forte en matière de drame satyrique. Andrew Brown résume ces difficultés dans l’*Oxford Classical Dictionary* (2016).
+
+Le jugement de Ménédème rapporté par Diogène Laërce II, 133, sur le rang d’Achéos dans la poésie satyrique est un témoignage de réception, non une preuve que toutes ses pièces étaient des drames satyriques. Plusieurs titres portent explicitement une qualification « satyrique » ; *Φιλοκτήτης* ne la porte pas dans la liste critique de FragTrag.1. Le genre exact de cette œuvre ne doit donc pas être fixé par simple analogie avec d’autres titres de l’auteur.
+
+### 2. Ne pas confondre les *Philoctète*
+
+Eschyle et Euripide ont tous deux composé un *Philoctète* perdu ; Sophocle a laissé un *Philoctète* conservé et se voit attribuer un autre traitement des événements « à Troie ». Théodecte, Philoclès et des témoins anonymes appartiennent également à l’histoire de ce cycle dramatique. Une homonymie ne garantit ni la même distribution, ni le même lieu, ni la même temporalité, ni la même philosophie. Le *Philoctète* de Sophocle de 409 av. J.-C., qui a modelé la réception moderne, ne peut être imposé rétrospectivement à Achéos.
+
+Cette distinction vaut particulièrement pour la caverne de Lemnos, Ulysse, Néoptolème, l’arc d’Héraclès et l’intervention finale du dieu. Aucun de ces éléments ne figure dans la citation directe conservée d’Achéos. Ils appartiennent au patrimoine mythique et à d’autres pièces, et ne doivent entrer ici que comme éléments comparatifs.
+
+### 3. Concordance vérifiée et numérotation
+
+La table universitaire FragTrag.1 de l’Université de Patras classe *Πειρίθους* au titre 18, avec le fragment 38 = TrGF I F 36 ; puis *Φιλοκτήτης* au titre 19, avec le fragment 39 = TrGF I F 37 ; enfin *Φρίξος* au titre 20, avec le fragment 40 = TrGF I F 38. L’identification d’Achéos comme auteur n’autorise pas à substituer les références de Sophocle ou de Théodecte à celles de ce corpus. La concordance de l’Université de Patras est consultable à https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html.
+
+Les numéros 18, 19 et 20 correspondent à des rangs de titres, non à des numéros de production antique. De même, 39 et 37 appartiennent à deux instruments éditoriaux distincts. Ils ne sont pas des numéros de vers. Les chiffres romains et décimaux MYTHOS, confiés exclusivement à la file concurrente, appartiennent à un troisième ordre totalement indépendant.
+
+### 4. Continuation sans doublon dans MYTHOS
+
+Avant cette rédaction, les instructions de publication, le registre transactionnel, les demandes de la file et les manuscrits de la collection ont été confrontés. *Moirai* d’Achéos dispose d’un reçu canonique sous CCLXXVI (276). Les études sur *Mômos*, *Œdipe*, *Omphale satyrique* et *Peirithous* sont présentes dans la file de GitHub sous des UUID distincts, certaines avec variantes scientifiques déjà retenues pour collision éditoriale. Leurs éventuels reçus doivent être relus au moment de la construction et non déduits d’une ancienne conversation.
+
+Le présent sujet est différent : *Philoctète*, qui suit *Peirithous* dans la concordance critique. Aucune création directe de volume sous chapitres/tragedies ne doit servir à le numéroter. Le dépôt du texte intégral dans editorial/inbox précède toute attribution, et aucune annonce de numéro futur ne constitue une réservation.
+
+### 5. Un fragment cité pour éclairer une interjection
+
+La *Souda* est un vaste lexique byzantin, constitué à partir de matériaux grammaticaux et encyclopédiques antérieurs. À l’entrée ε 786, elle explique le cri ἐλελεῦ comme une acclamation guerrière. Elle note que ceux qui entraient en combat le proféraient en l’accompagnant d’un certain mouvement rythmique, puis cite Achéos d’Érétrie et son *Philoctète*. La fonction de la citation dans le lexique est donc précise : illustrer l’usage d’une interjection.
+
+Le compilateur n’a pas pour intention de résumer la pièce. Son intérêt sélectif conserve un passage qui pouvait être secondaire dans l’économie dramatique originale. L’absence d’informations sur Philoctète dans cette entrée n’autorise pas à conclure qu’il était absent du drame.
+
+### 6. La citation grecque attestée
+
+La *Souda* ε 786, d’après le texte grec contrôlé dans le Digital Suda, présente Achéos comme faisant donner des ordres par Agamemnon aux Achéens. La citation reproduite est :
+
+> ὥρα βοηθεῖν ἐστίν· ἐγὼ δ’ ἡγήσομαι.
+> προσλαβέτω τις χεῖρα φασγάνου λαβῆς,
+> σάλπιγγι δ’ ἄλλος ὡς τάχος σημαινέτω·
+> ὥρα ταχύνειν, ἐλελεῦ.
+
+**Traduction française de travail :** « Le moment est venu de porter secours ; je prendrai la tête. Que l’un mette la main à la poignée de son épée ; qu’un autre donne au plus vite le signal à la trompette. Il est temps de se hâter : éléléou ! »
+
+Cette transcription est contrôlée par les ressources numériques de l’édition d’Ada Adler. La **disposition en quatre lignes est un choix de présentation**, non une affirmation concernant le découpage métrique autographe ou une mise en page de manuscrit du Ve siècle. Les mots environnants de l’entrée sont des commentaires du lexicographe, pas des vers supplémentaires d’Achéos.
+
+Textes accessibles : https://www.lagl.org/tools/suda/works_catalog.php?what=urn%3Acts%3AgreekLit%3Atlg0309.suda002 et https://cts.perseids.org/read/greekLit/tlg9010/tlg001/1st1K-grc1/2.E.781-2.E.800.
+
+### 7. Qui parle réellement ?
+
+Le nom « Agamemnon » ne résulte pas d’une supposition moderne sur le vocabulaire de l’ordre militaire. Il est donné expressément par la *Souda* dans la formule qui introduit la citation d’Achéos. L’attribution du discours à Agamemnon est donc [A], au sens d’une **attribution du transmetteur ancien**. Cela ne nous permet pas d’identifier par déduction les autres personnages de la pièce, la distribution scénique ou la position du discours dans l’action.
+
+Le locuteur s’engage à conduire les autres en première personne : ἐγὼ δ’ ἡγήσομαι. Le futur n’est pas nécessairement une promesse solennelle couronnée de succès. L’éventuelle contradiction entre parole et action aurait pu créer un effet dramatique dont nous n’avons aucune trace. Ni admiration ni ironie ne peuvent être attribuées avec certitude au dramaturge.
+
+### 8. Comment séparer la glose de la citation ?
+
+La notice comporte trois couches : une définition générale de ἐλελεῦ ; une référence explicite au *Philoctète* d’Achéos et à la parole d’Agamemnon ; enfin des comparaisons et renvois qui mentionnent notamment Callimaque et Aristophane. Fusionner ces parties dans un prétendu discours d’Agamemnon produirait une falsification textuelle.
+
+Les scholies aux *Oiseaux* d’Aristophane conservent elles aussi une explication voisine du cri de guerre et de son emploi dans Achéos. La parenté de la formulation rend plausible une origine scolaire ou lexicographique commune. Elle n’établit pas que deux témoins indépendants aient lu directement un exemplaire de la pièce. Une tradition dérivée ne doit pas être comptée deux fois comme si elle fournissait deux scènes antiques.
+
+### 9. Les limites de l’établissement du texte
+
+La présente étude a contrôlé la citation grecque sur le Digital Suda, sa présentation dans une édition Adler en ligne, la concordance FragTrag.1 et les catalogues d’Achéos. Elle ne revendique pas une collation autoptique de tous les manuscrits de la *Souda*, une inspection intégrale de l’apparat de Snell–Kannicht, ni la restitution métrique de chaque segment. Le degré de certitude est celui des témoins consultés.
+
+La référence [A] ne transforme pas une citation byzantine en document scénique contemporain d’Achéos. Plusieurs siècles de sélection, de commentaire et de copie séparent le spectacle antique de la forme lexicographique conservée. Les détails perdus ne peuvent être recréés par une confiance excessive dans la ponctuation moderne.
+
+## II. Analyse de la parole d’Agamemnon
+
+### 10. Le verbe *boēthein* : aider sans objet identifié
+
+L’infinitif βοηθεῖν signifie porter secours, venir en aide, intervenir en soutien ; le contexte militaire peut lui donner la valeur de se porter au combat. La phrase ne précise pas **à qui** le secours doit être apporté. Un camp achéen menacé, un allié ou une position compromise seraient des possibilités cohérentes, non des faits.
+
+Il serait donc faux de traduire la phrase « Il est temps de sauver Philoctète » ou « Il est temps de reprendre Troie ». Ni Philoctète ni Troie n’est nommé dans le fragment. La rigueur lexicale impose de laisser indéterminé le bénéficiaire de l’aide et de ne pas remplacer le silence par la mémoire d’un autre récit.
+
+### 11. Le chef et le futur
+
+La formule ἐγὼ δ’ ἡγήσομαι fait coïncider le commandement et l’affirmation personnelle. Le personnage dit qu’il prendra la tête. Dans la tradition homérique, Agamemnon doit maintenir une coalition de rois et de guerriers indépendants ; le pouvoir d’ordonner ne se convertit pas automatiquement en obéissance. Sa parole peut être lue à l’horizon de cette difficulté.
+
+Mais nous ne savons pas si Achéos a représenté l’ordre comme inspirateur d’une attaque, manifestation d’un courage authentique ou tentative désespérée. Une lecture morale exige les réactions des autres personnages et les conséquences de la décision, aujourd’hui perdues. Le seul futur n’établit aucun verdict.
+
+### 12. La main et la poignée de l’épée
+
+Les mots χεῖρα, φασγάνου et λαβῆς installent une image corporelle : une main s’engage auprès de la poignée de l’arme. L’ordre distribue aux Achéens des gestes immédiatement réalisables. L’épée est à cet instant un signe d’engagement guerrier, indépendamment de son emploi effectif dans un combat représenté.
+
+Il ne faut pas transformer cette image verbale en preuve d’une épée brandie sur scène. Les dramaturges pouvaient susciter un paysage sonore et gestuel par la seule parole ; les récits de bataille étaient également rapportés. Aucun inventaire d’accessoires ni aucune didascalie ne nous renseigne sur la mise en scène du passage.
+
+### 13. La *salpinx* : faire signal
+
+La σάλπιγξ, trompette du vocabulaire militaire grec, sert à coordonner l’action. L’impératif σημαινέτω et l’expression ὡς τάχος insistent sur le signal à donner au plus vite. L’énoncé relie l’initiative du chef, l’action de l’homme armé et une communication qui doit atteindre le groupe.
+
+Un tel détail intéresse l’histoire des représentations de la guerre. Il ne suffit pas à restituer l’acoustique du théâtre ni à affirmer qu’une véritable trompette était utilisée dans la représentation. Le mot décrit une action, non un inventaire des moyens techniques de la production.
+
+### 14. L’interjection *eleleu*
+
+Le cri ἐλελεῦ, objet même de la notice de la *Souda*, peut exprimer l’élan guerrier. Sa valeur n’est pas celle d’une proposition logique, mais d’une expression vocale susceptible d’accompagner une action commune. Le lexicographe insiste sur la proximité entre la voix, la marche vers le combat et une forme de mouvement rythmé.
+
+L’existence d’un cri de guerre ne prouve pas un chœur. Un personnage seul peut le lancer ; des combattants peuvent répondre ; le public peut entendre une exclamation sans aucun déplacement spectaculaire. Aucune de ces possibilités ne devient certaine dans l’état conservé du drame.
+
+### 15. Les deux occurrences de « il est temps »
+
+L’ouverture et la clôture du passage répètent le motif de l’urgence : d’abord venir en aide, puis se hâter. Entre les deux, Agamemnon se déclare chef et distribue les fonctions. Le texte fait ainsi passer d’une nécessité déclarée aux instruments de son exécution. Le rythme rhétorique est perceptible sans qu’une scansion complète soit disponible.
+
+Une philosophie du pouvoir pourrait s’interroger sur le moment où un dirigeant décide qu’une action ne peut plus attendre. La phrase ne documente toutefois aucun débat antérieur et ne prouve pas que la décision était justifiée. L’urgence est un effet de parole attesté ; la légitimité en demeure une question ouverte.
+
+### 16. Le groupe des Achéens
+
+La *Souda* précise que les ordres sont adressés aux Achéens. Ce collectif peut renvoyer à des combattants, à des subordonnés ou, plus largement, aux membres de la coalition. Il est impossible de savoir combien de personnages étaient présents lors de l’énonciation ou s’il s’agissait d’une parole rapportée.
+
+Un chœur achéen semble concevable, mais le nom du chœur n’est pas transmis. Rien n’autorise non plus à attribuer la pièce au drame satyrique par la simple réputation de son auteur. Le destinataire collectif est un fait de la source ; la composition de l’orchestre est inconnue.
+
+### 17. Une parole guerrière dans un drame nommé *Philoctète*
+
+Le héros du titre est absent des mots conservés. Cette tension documentaire est la donnée capitale du dossier. Elle rappelle qu’une pièce peut accorder de l’espace à des forces politiques autres que le protagoniste éponyme. Agamemnon pouvait apparaître comme un acteur majeur ou comme une voix passagère dans le récit.
+
+Le texte ne dit pas s’il allait rencontrer Philoctète, le remercier, le commander, l’affronter ou simplement conduire une attaque à laquelle il aurait participé. Toute réplique de Philoctète à cette exhortation serait inventée. Il faut conserver la distinction entre ce qu’un personnage pourrait entendre dans une scène imaginable et ce qu’un document prouve.
+
+## III. Les horizons mythiques
+
+### 18. Homère : chef d’une flotte et héros abandonné
+
+L’*Iliade* II, 716–725 présente Philoctète, chef de sept navires et archer d’exception, souffrant à Lemnos d’une blessure causée par un serpent. Les Achéens l’ont laissé sur l’île, mais le récit annonce qu’ils se souviendront de lui. La coexistence entre exclusion physique et besoin futur appartient donc déjà à la tradition épique ancienne.
+
+L’*Iliade* ne raconte pas ici une scène de retour du héros ni le discours d’Agamemnon cité par la *Souda*. La familiarité du public avec cette tradition rend plausible un traitement théâtral des responsabilités de l’armée, mais ne permet pas de déterminer le choix d’Achéos.
+
+### 19. L’*Odyssée* : compétence et retour
+
+Dans l’*Odyssée* VIII, 219–220, Ulysse reconnaît à Philoctète une supériorité dans le tir à l’arc. Au chant III, 188–190, le retour du héros est mentionné dans les récits des survivants. Ces données appartiennent à l’image du guerrier dont la capacité spécialisée demeure précieuse malgré sa souffrance.
+
+Achéos ne mentionne pas l’arc dans la citation conservée. Il y parle d’épée et de trompette. Ce décalage empêche de réécrire le fragment comme une scène de récupération des flèches d’Héraclès. Le prestige de l’arc relève du mythe comparatif, non du détail attesté de l’extrait.
+
+### 20. Les *Chants cypriens* : blessure et abandon
+
+Les résumés du cycle épique associent la morsure du serpent à l’expédition vers Troie, puis à l’abandon du blessé sur Lemnos. Des sources postérieures donnent des détails différents concernant les lieux et les circonstances cultuelles. Il faut les conserver comme variantes, sans fabriquer un déroulement unique attribuable à tous les auteurs.
+
+La blessure n’atteste pas à elle seule une faute rituelle ; sa fonction peut être narrative, physique, politique ou religieuse selon les témoins. Il serait impropre d’attribuer à Achéos une scène de purification ou de punition divine sans vestige textuel correspondant.
+
+### 21. La *Petite Iliade* : retour, guérison, mort de Paris
+
+Le résumé ancien de la *Petite Iliade* rapporte la capture du devin Hélénos par Ulysse, la révélation de conditions nécessaires à la prise de Troie, le retour de Philoctète par Diomède, sa guérison par Machaon et son rôle dans la mort de Paris. Cette séquence montre que l’histoire du héros avait une phase guerrière ultérieure à l’abandon.
+
+Un tel contexte est compatible avec l’ordre d’Agamemnon, mais la compatibilité n’est pas une attribution. Le fragment ne nomme pas Hélénos, Diomède, Machaon ni Paris. Nous ne pouvons pas faire de leurs interventions une distribution authentique du drame d’Achéos.
+
+### 22. Guérir sans effacer l’exclusion
+
+La guérison du héros est parfois associée à Machaon, et certaines variantes mentionnent Podalire. La divergence interdit d’imposer un médecin déterminé à une pièce dont nous ne connaissons pas l’action. Le retour au combat implique, dans la tradition, une transformation du statut corporel et social du héros.
+
+Une lecture de la souffrance peut alors distinguer la guérison du corps, la réparation des relations et la restauration de l’honneur. Ces opérations ne coïncident pas nécessairement. Le fragment d’Achéos ne documente aucune d’elles. Il fournit seulement une parole militaire qui rend la question de la réintégration pertinente à titre comparatif.
+
+### 23. L’arc d’Héraclès et les limites de la puissance du groupe
+
+L’arc attribué à Héraclès puis à Philoctète représente un bien singulier dont la coalition dépend. La compétence individuelle peut alors s’opposer aux décisions du pouvoir collectif. Les drames conservés ou résumés exploitent le paradoxe : celui qu’on ne voulait plus supporter doit finalement être recherché.
+
+Ce rapprochement n’autorise pas à décrire l’Agamemnon d’Achéos ordonnant de s’emparer de l’arc. Il n’autorise pas davantage à le placer dans la caverne de Lemnos. La parole citée pourrait appartenir à une opération militaire plus tardive. Son lieu n’est pas nommé.
+
+### 24. Le héros de retour à Troie
+
+Seth L. Schein, dans l’introduction de son édition du *Philoctète* sophocléen, rapproche le *Philoctète* d’Achéos de la matière troyenne après le retour du héros dans la coalition. L’indication fournit une hypothèse savante importante et va dans le sens du passage où Agamemnon conduit les Achéens à l’action.
+
+La citation conservée ne contient cependant pas le toponyme Troie. La localisation de l’action reste une **inférence [B]**, non un élément [A]. Même si la recherche admet une orientation troyenne, elle ne permet pas de choisir entre guérison, bataille, meurtre de Paris ou autre étape comme sujet principal du drame.
+
+## IV. Comparaisons dramatiques et limites de la reconstruction
+
+### 25. Eschyle, *Philoctète*
+
+La pièce d’Eschyle est perdue, mais Dion Chrysostome, dans son discours 52, en discute plusieurs traits en la comparant aux versions de Sophocle et d’Euripide. Il considère le rôle d’Ulysse, la présentation du chœur et la vraisemblance des actions. Son texte témoigne de la variété des réponses dramaturgiques au même sujet mythique.
+
+Il ne constitue pas un résumé du drame d’Achéos. On ne peut importer dans celui-ci les Lemniens du chœur eschyléen, la reconnaissance d’Ulysse ou le stratagème d’un autre texte. La comparaison ne devient scientifique que si la provenance de chaque renseignement demeure explicite.
+
+### 26. Euripide, *Philoctète*
+
+Le *Philoctète* d’Euripide, étudié par Dion Chrysostome dans le discours 52 et paraphrasé partiellement dans le discours 59, fait une place à la négociation et à la ruse d’Ulysse. La relation entre nécessité militaire et persuasion individuelle devient ainsi un problème rhétorique visible dans les témoignages anciens.
+
+Le fragment d’Achéos relève plutôt, dans sa partie connue, de la rhétorique de l’ordre collectif. Ce contraste est descriptif, non exhaustif : un discours de commandement n’exclut pas qu’Achéos ait aussi développé des négociations. Il est illégitime de conclure à l’absence d’Ulysse dans sa pièce.
+
+### 27. Sophocle, *Philoctète* (409 av. J.-C.)
+
+La tragédie conservée met à l’épreuve les rapports entre Néoptolème, Ulysse et le héros blessé. La ruse proposée pour obtenir l’arc entre en conflit avec la conscience de l’homme chargé de l’exécuter. La douleur physique, la rancœur et la fidélité à la parole deviennent constitutives du drame.
+
+La comparaison est féconde pour l’histoire de la responsabilité, mais elle comporte un risque chronologique : nous ne connaissons pas assez précisément la date du *Philoctète* d’Achéos pour le qualifier de réaction à l’œuvre de Sophocle de 409. Les similitudes de matière ne fondent pas une relation d’emprunt entre les deux pièces.
+
+### 28. Le *Philoctète à Troie* attribué à Sophocle
+
+Un autre titre sophocléen, *Φιλοκτήτης ἐν Τροίᾳ*, indique que le théâtre pouvait traiter la phase troyenne du mythe. Son existence souligne l’impossibilité d’assimiler le nom « Philoctète » à la seule caverne de Lemnos. Le dossier fragmentaire de cette autre œuvre doit toutefois rester distinct.
+
+La citation d’Agamemnon chez Achéos semble convenir à un horizon d’armée organisée. Cela ne prouve ni la reprise des épisodes du drame de Sophocle « à Troie », ni l’existence d’une représentation de la mort de Paris. Les fragments ne doivent pas migrer d’un auteur à l’autre à cause d’une homonymie.
+
+### 29. Théodecte et la théorie antique de la douleur
+
+Dans l’*Éthique à Nicomaque* VII, 8, Aristote prend en compte l’exemple du Philoctète de Théodecte pour penser la limite de la résistance à la douleur. Des commentateurs ont conservé un détail d’une version où la blessure du héros est située autrement que dans le récit dominant. Le mythe est donc plastique jusque dans ses aspects corporels.
+
+Cet exemple concerne Théodecte, non Achéos. Il interdit de traiter « la blessure de Philoctète » comme un élément identique dans toutes les pièces et permet de poser des questions que notre fragment ne tranche pas.
+
+### 30. Dion Chrysostome n’écrit pas sur tous les *Philoctète*
+
+Le discours 52 compare les œuvres d’Eschyle, de Sophocle et d’Euripide ; il ne prétend pas reconstituer celle d’Achéos. Les informations sur les chœurs, Ulysse, la reconnaissance et les enjeux de la persuasion appartiennent aux pièces précisément nommées par Dion. Les transférer à Achéos produirait une fausse attestation.
+
+Le discours 59 aide à comprendre la réception du drame d’Euripide. Il ne fournit ni l’incipit ni le dénouement de celui d’Achéos. La tradition antique elle-même impose donc de maintenir l’individualité documentaire des auteurs.
+
+### 31. Scénario possible : mobilisation après le retour
+
+On peut envisager [C] que la guerre approche de son dénouement et qu’Agamemnon appelle une armée récemment renforcée par Philoctète à poursuivre le combat. Cette configuration relierait les épisodes cycliques au passage cité. Toutefois, aucun mot ne dit que l’archer est présent, revenu ou guéri lorsque le roi parle.
+
+Il serait donc trompeur de donner à cette hypothèse le titre « Acte III : Agamemnon accueille Philoctète » ou de composer une réponse en grec. La reconstruction reste une question adressée au dossier, pas un texte retrouvé.
+
+### 32. Scénario possible : secours au camp achéen
+
+Le verbe βοηθεῖν pourrait indiquer que des Achéens ont besoin d’aide lors d’un affrontement. Une parole d’Agamemnon serait alors compatible avec un combat en cours, une position menacée ou la nécessité de renforcer un contingent. Rien n’indique l’adversaire, le lieu précis ni l’issue.
+
+De plus, la mention d’une trompette ne signifie pas qu’une bataille était représentée physiquement devant le public. Le théâtre peut relater ou évoquer le combat. L’archéologie des armes ne remplace pas des didascalies absentes.
+
+### 33. Scénario possible : récit ou parole rapportée
+
+La citation pourrait avoir été dite par Agamemnon sur scène ou faire partie d’un récit où un personnage rapporte les ordres du chef. La formulation de la *Souda* favorise l’attribution au roi, mais ne précise pas le statut scénique de l’énoncé. Une parole citée n’implique pas nécessairement la présence de son auteur dans l’espace théâtral au moment de la citation.
+
+On ne peut donc établir ni l’ordre d’entrée des personnages, ni la composition du chœur, ni la scénographie. L’état fragmentaire impose une véritable suspension du jugement dramaturgique.
+
+### 34. Le dénouement demeure inconnu
+
+Le fragment n’atteste ni guérison, ni mort de Paris, ni destruction de Troie, ni départ de Philoctète. Il ne donne aucune information sur l’exodos et ne livre aucun chant final. Les dénouements disponibles dans d’autres traditions ne doivent pas être convertis en une fin certaine de la pièce.
+
+La qualité d’une reconstitution critique n’est pas proportionnelle à son degré de précision imaginée ; elle dépend de la proportion de ses propositions qui sont effectivement contraintes par une source. Ici, toute fin déterminée serait une invention.
+
+## V. Politique de l’armée, médecine et philosophie
+
+### 35. Le groupe qui abandonne et le groupe qui rappelle
+
+Les récits de Philoctète mettent en évidence une collectivité capable de rejeter un homme dont la douleur paraît insupportable, puis de chercher à récupérer sa compétence. Cette contradiction n’est pas exclusivement psychologique : elle interroge la manière dont une institution calcule l’utilité de ses membres. Le héros possède une valeur qui dépasse la capacité de marcher au même rythme que les autres.
+
+Le fragment d’Agamemnon ne prononce ni justification ni repentir à propos de l’abandon. La réflexion sur l’exclusion appartient [B] à la confrontation entre le texte attesté et les traditions mythiques ; elle ne doit pas être présentée comme la doctrine morale d’Achéos.
+
+### 36. La voix douloureuse et la voix guerrière
+
+Le mythe homérique attribue à la souffrance de Philoctète des effets corporels et sociaux. Le personnage peut être exclu parce que son état gêne l’armée. Dans le fragment d’Achéos, au contraire, le cri ἐλελεῦ exprime l’énergie de la mobilisation. Le contraste entre un cri qui repousse les compagnons et un cri qui les rassemble est intellectuellement stimulant.
+
+Aucune source ne prouve cependant qu’Achéos opposait directement ces deux cris sur scène. Il s’agit d’un rapprochement comparatif fondé sur deux traditions documentaires distinctes. L’hypothèse explique un enjeu possible du mythe ; elle n’établit pas une séquence dramatique.
+
+### 37. La blessure comme condition matérielle
+
+L’infirmité du héros ne doit pas être réduite à l’image abstraite d’une faute ou d’une impureté. L’épopée et la tragédie conservée décrivent une douleur qui entrave la mobilité et modifie le rapport aux autres. L’homme blessé peut avoir besoin de soins, d’aide ou d’un délai que la logique de l’armée ne lui accorde pas.
+
+L’existence de variantes de guérison ne permet pas de décider si Achéos avait représenté un médecin, un remède ou une intervention divine. Son unique fragment ne mentionne pas de soin ; une interprétation médicale doit donc rester contextualisée, non constituer une scène inventée.
+
+### 38. Agamemnon et la légitimité du commandement
+
+La phrase « je prendrai la tête » associe l’ordre à l’exemple. On peut y voir la promesse d’un chef de partager le risque qu’il impose. Mais une promesse isolée ne prouve ni le courage effectif ni la justice de l’action ordonnée. Pour juger l’autorité, il faudrait connaître les raisons du combat, les conséquences et les réponses des destinataires.
+
+Cette limite rappelle un principe de méthode : ne pas extraire d’une phrase une psychologie complète. Dans l’épopée et d’autres tragédies, Agamemnon peut être contesté ; cela ne détermine pas la valeur de son intervention dans cette œuvre perdue.
+
+### 39. Platon : justice, récit et discipline de l’armée
+
+Dans la *République* II–III, Platon examine la manière dont les récits forment les gardiens et leurs dispositions. Au livre X, il réfléchit à l’emprise des représentations poétiques sur les passions. L’acclamation guerrière du fragment permet, par comparaison philosophique, de se demander comment une voix collective transforme une nécessité militaire en action partagée.
+
+Platon n’a laissé aucun commentaire connu ici sur le *Philoctète* d’Achéos. L’analogie ne prouve pas que le poète ait voulu instruire des gardiens platoniciens. Une lecture platonicienne exige de distinguer l’avantage d’une action et sa justice, sans réduire les personnes à leurs fonctions dans une coalition.
+
+### 40. Aristote : le *pathos* et l’endurance
+
+La *Poétique* d’Aristote distingue les éléments de la structure dramatique et discute les situations susceptibles de susciter pitié et crainte. L’*Éthique à Nicomaque* VII, 8 évoque le Philoctète de Théodecte pour analyser la résistance aux douleurs extrêmes. Ces deux textes fournissent des catégories utiles pour la réception du héros.
+
+L’unique fragment d’Achéos ne contient aucun déroulement permettant de tester une péripétie, une reconnaissance ou une résolution. Nous ne devons pas lui prêter une construction conforme à une définition aristotélicienne de la tragédie. Les catégories de la douleur et du renversement servent à poser des questions, non à inventer des épisodes.
+
+### 41. Hegel : l’individu contre la nécessité collective
+
+Dans les *Leçons sur l’esthétique*, Hegel réfléchit à l’action dramatique et aux conflits entre puissances éthiques. Philoctète offre un horizon possible : d’un côté, la nécessité déclarée de sauver l’expédition ; de l’autre, l’exigence d’un individu abandonné de ne pas être traité seulement comme moyen. La tension entre universalité politique et singularité souffrante intéresse une lecture hégélienne du mythe.
+
+Le fragment d’Achéos ne livre ni la réponse du héros, ni la justification détaillée du pouvoir, ni une réconciliation. Une lecture philosophique honnête ne peut pas annoncer la « dialectique de la pièce » : le texte permettant d’en prouver le déploiement a disparu.
+
+### 42. Hegel : pourquoi la réconciliation reste indémontrable
+
+On pourrait imaginer qu’Agamemnon répare l’exclusion de Philoctète et que l’armée retrouve son unité. Mais rien dans l’ordre cité n’assure une telle résolution. Une interprétation hégélienne ne doit pas devenir une machine à fabriquer la fin absente d’une tragédie. Les conflits grecs ne sont pas automatiquement résolus par le retour du combattant.
+
+La véritable contribution du parallèle est méthodologique : il sépare les exigences de l’action commune des raisons de l’individu. L’existence d’un conflit dramatique particulier chez Achéos reste à démontrer.
+
+### 43. Nietzsche : le chant, le cri et la souffrance
+
+Dans *La Naissance de la tragédie*, Nietzsche étudie les rapports entre dimension apollinienne, expérience dionysiaque, chœur et souffrance. Le cri guerrier ἐλελεῦ peut inviter à réfléchir à la puissance émotionnelle d’une expression partagée. Mais il serait erroné de le classer comme cri dionysiaque par simple association. Le témoin antique lui donne d’abord une fonction guerrière.
+
+La réputation satyrique d’Achéos n’autorise pas davantage à faire entrer des satyres dans son *Philoctète*. Nietzsche fournit un cadre interprétatif moderne, non une source sur la représentation du drame.
+
+### 44. Une éthique de la non-instrumentalisation
+
+Philoctète a une compétence dont une armée peut dépendre, mais son corps souffrant ne se confond pas avec cette compétence. Le récit permet de poser un problème encore intelligible : que vaut la reconnaissance accordée à quelqu’un seulement lorsque son utilité redevient manifeste ? Une réintégration stratégique n’est pas nécessairement une réparation du tort subi.
+
+Nous ignorons si Achéos a posé cette question dans ces termes. Le fragment ne documente aucun dialogue du héros avec Agamemnon. La monographie distingue donc l’interprétation philosophique du mythe, possible, d’une interprétation du déroulement exact de la pièce, impossible dans l’état des sources.
+
+## VI. Comparaisons mythologiques et iconographie
+
+### 45. L’homme vulnérable et l’objet décisif
+
+Des récits d’autres traditions attribuent parfois à une personne vulnérable la possession d’un objet ou d’un savoir nécessaire au collectif. Cette ressemblance typologique n’établit pas une origine commune. Pour Philoctète, le dossier grec repose sur la guerre de Troie, les armes d’Héraclès et une tradition poétique particulière.
+
+Une analogie mésopotamienne, indienne ou iranienne ne peut être insérée dans les lacunes de la pièce d’Achéos. Toute étude comparée doit préciser les sources de chaque culture, la chronologie et les mécanismes de transmission possibles. Aucun mécanisme de ce type n’est attesté pour le fragment 37.
+
+### 46. La trompette et les cris collectifs
+
+Les instruments à vent et les cris de guerre peuvent contribuer à la coordination militaire dans des sociétés différentes, mais le rapprochement n’est pas une généalogie automatique. Dans le passage conservé, la *salpinx* et le cri ἐλελεῦ appartiennent explicitement à une représentation grecque des ordres d’Agamemnon.
+
+Les comparer à d’autres pratiques n’est utile que si chaque tradition est documentée indépendamment. Il serait injustifié de projeter des pratiques militaires plus tardives sur la scène antique ou d’affirmer une parenté linguistique à partir d’une ressemblance sonore.
+
+### 47. Le lécythe de Philoctète à Lemnos
+
+Le Metropolitan Museum of Art conserve un **lécythe aryballisque attique à figures rouges**, daté d’environ **420 av. J.-C.**, inv. **56.171.58**, représentant Philoctète sur Lemnos. Selon la notice institutionnelle, le héros, accablé, se tient auprès d’un arbre et de ses armes, le pied bandé. L’objet constitue un témoin majeur de la représentation visuelle de la blessure et de l’isolement au Ve siècle. Le musée signale la photographie du vase comme étant dans le domaine public.
+
+Source : https://www.metmuseum.org/art/collection/search/254917.
+
+Cette image **ne représente pas** une scène documentée d’Achéos. Le fragment conservé de celui-ci appartient au registre de la mobilisation achéenne ; le vase représente le héros sur l’île où il a été abandonné. Leur rapprochement porte sur l’extension du même mythe, non sur une identité d’épisode.
+
+### 48. L’iconographie n’est pas une didascalie
+
+Un vase fixe des gestes, des postures et des attributs ; il ne fournit pas les répliques d’une tragédie perdue. Le fait que le public classique connaissait le héros blessé peut enrichir la lecture des titres dramatiques, sans donner la preuve qu’un spectacle précis utilisait la même scénographie.
+
+Toute éventuelle illustration publiée dans MYTHOS devrait respecter une légende indépendante : « Philoctète à Lemnos, lécythe attique, Met 56.171.58 ». Une inscription « scène du *Philoctète* d’Achéos » serait trompeuse. Aucune reconstitution prétendument archéologique de la scène de la *Souda* n’est fournie ici.
+
+## VII. Historiographie et méthode des fragments
+
+### 49. La valeur de la transmission lexicographique
+
+Une entrée de dictionnaire peut sauver quelques vers parce qu’ils contiennent un mot rare ou illustrent un usage. L’historien de la littérature reçoit alors un échantillon sélectionné pour son intérêt lexical, non pour sa centralité dramaturgique. Ici, nous possédons une exhortation guerrière parce que le compilateur voulait expliquer **ἐλελεῦ**.
+
+Cette disproportion explique pourquoi un long commentaire ne doit pas se faire passer pour un texte antique long. Plus la source est fragmentaire, plus les catégories de preuve doivent être nettes. Le rôle de la critique est de restituer la provenance des mots, non de compenser la perte en écrivant la pièce à la place d’Achéos.
+
+### 50. La *Souda* et les scholies : attention aux dépendances
+
+La parenté entre la glose de la *Souda* et celle des scholies d’Aristophane peut renvoyer à une tradition documentaire partagée. Un lexicographe tardif peut compiler des remarques venues de textes beaucoup plus anciens sans avoir accès à la pièce complète. Il faut distinguer la citation, son attribution, les commentaires et l’histoire de la copie.
+
+Deux sources qui reprennent une même note ne sont pas deux témoins indépendants du spectacle. Le nombre de reprises ne doit jamais être confondu avec le nombre de vers conservés.
+
+### 51. Ce que le *TrGF* établit et ce qu’il n’établit pas
+
+La référence *TrGF* I, Achéos F 37 stabilise l’identification d’un fragment dans l’édition critique. La concordance FragTrag.1 permet de le retrouver sous fr. 39. Ces numéros ne prouvent ni une date, ni un genre, ni un locuteur autonome si le témoin ne le donnait pas, ni un ordre de scènes.
+
+Les éditions de Nauck et de Snell–Kannicht appartiennent à l’histoire de la constitution du corpus. L’apparat critique demeure l’outil décisif pour évaluer variantes et conjectures ; une référence de catalogue n’équivaut pas à une collation de tous les manuscrits.
+
+### 52. Le problème de l’esthétique d’Achéos
+
+Des témoignages anciens louent Achéos dans le domaine du drame satyrique ; d’autres portent des jugements stylistiques moins univoques. On ne peut pas transférer l’évaluation globale à une œuvre dont nous ne connaissons qu’une injonction. La qualité du rythme, de l’architecture, du chœur et des personnages ne peut être appréciée à partir d’un fragment isolé.
+
+Le silence sur le reste de la pièce est une limite réelle, non un défaut que l’historien doit effacer. Une œuvre littérairement importante a pu presque entièrement disparaître. Sa valeur ne se mesure pas à la chance de sa transmission.
+
+## VIII. Conclusion et dossier de vérification
+
+### 53. Résultats positifs établis
+
+[A] **Titre et auteur :** Achéos d’Érétrie, *Φιλοκτήτης*. **Témoin :** *Souda* ε 786. **Correspondance :** FragTrag.1, Achaeus I fr. 39 = *TrGF* I, Achéos F 37. **Locuteur cité :** Agamemnon selon le lexicographe. **Contenu conservé :** appel au secours militaire, promesse de conduire, poignée d’épée, ordre de signal à la trompette, exhortation à la vitesse et cri ἐλελεῦ.
+
+[B] **Interprétations raisonnables :** contexte de mobilisation militaire ; possibilité d’un traitement troyen postérieur au retour de Philoctète ; tension comparative entre l’exclusion du héros et la nécessité stratégique. Chacune demande une justification distincte et demeure révisable.
+
+[C] **Inconnues :** situation exacte, position de la citation dans l’action, chœur, interlocuteurs présents, répliques de Philoctète, rôle de l’arc, date de représentation, guérison, mort de Paris, dénouement.
+
+### 54. Conclusion philosophique
+
+La parole d’Agamemnon met en scène une autorité qui veut transformer l’urgence en action collective. Le nom de Philoctète, lui, évoque dans les traditions grecques un homme dont la souffrance conduit la communauté à le rejeter alors qu’elle a besoin de sa compétence. La rencontre de ces deux pôles est une question féconde sur le pouvoir, la guerre et la valeur des personnes.
+
+Mais une question féconde ne constitue pas une réponse d’Achéos. La méthode philologique oblige à conserver la frontière entre le cri de guerre attesté et les scènes que notre imagination rendrait plausibles. Cette frontière est le principal résultat du volume : une connaissance partielle, précisément établie, vaut mieux qu’une reconstruction complète mais fictive.
+
+---
+
+## Annexe A — Table de vérification des sources
+
+| Élément | Référence | Certitude |
+| --- | --- | --- |
+| Œuvre | Achéos, Φιλοκτήτης | Titre attesté |
+| Concordance | FragTrag.1 Achaeus I, titre 19, fr. 39 | Concordance critique |
+| Édition de référence | *TrGF* I, Achéos (20), F 37 | Fragment numéroté |
+| Source primaire | *Souda*, ε 786, Ἐλελεῦ | Citation et attribution |
+| Locuteur | Agamemnon, d’après la *Souda* | Attestation indirecte |
+| Gloses voisines | Scholies aux *Oiseaux* | Parenté de transmission |
+| Géographie dramatique | Probable horizon troyen | Inférence, sans toponyme |
+| Genre | Non précisé dans le titre transmis | Indéterminé |
+| Image de contexte | Met Museum 56.171.58 | Philoctète à Lemnos, pas une scène d’Achéos |
+
+## Annexe B — Sources primaires et références antiques
+
+- *Souda*, ε 786, Ἐλελεῦ, édition d’Ada Adler : [Digital Suda](https://www.lagl.org/tools/suda/works_catalog.php?what=urn%3Acts%3AgreekLit%3Atlg0309.suda002) ; [édition grecque Perseids](https://cts.perseids.org/read/greekLit/tlg9010/tlg001/1st1K-grc1/2.E.781-2.E.800).
+- Scholies aux *Oiseaux* d’Aristophane, note sur ἐλελελεῦ : [texte grec](https://eulogikon.org/works/aristophanes-scholia-birds-mlw-at).
+- Homère, *Iliade* II, 716–725 ; *Odyssée* III, 188–190 ; VIII, 219–220.
+- Résumés de Proclos des *Chants cypriens* et de la *Petite Iliade* : phases de la blessure, du retour, de la guérison et de la mort de Paris.
+- Pindare, *Pythiques* I, 50–56 : exemple du héros souffrant appelé à une action décisive.
+- Sophocle, *Philoctète*, représenté en 409 av. J.-C. : intrigue conservée, à ne pas confondre avec celle d’Achéos.
+- Dion Chrysostome, discours 52 et 59 : [discours 52](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dio_Chrysostom/Discourses/52%2A.html), [discours 59](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dio_Chrysostom/Discourses/59%2A.html).
+- Aristote, *Éthique à Nicomaque* VII, 8, 1150b : exemple du *Philoctète* de Théodecte ; *Poétique* 11–14 : catégories générales de l’action dramatique.
+- Diogène Laërce, *Vies et doctrines des philosophes illustres* II, 133 : jugement de Ménédème sur Achéos.
+
+## Annexe C — Bibliographie académique vérifiée
+
+**Éditions et instruments :**
+- Bruno Snell, *Tragicorum Graecorum Fragmenta*, vol. I, *Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum*, édition corrigée et augmentée par Richard Kannicht, Göttingen, Vandenhoeck & Ruprecht, 1986 ; Achéos (20), F 37.
+- Université de Patras, *FragTrag.1*, concordance Achaeus I, titre 19 et fr. 39 : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html.
+- August Nauck, *Tragicorum Graecorum Fragmenta*, 2e éd., Leipzig, Teubner, 1889, p. 746–759, *Philoktetes* p. 755 ; [catalogue Perseus](https://catalog.perseus.org/catalog/urn%3Acts%3AgreekLit%3Atlg0309.tlg001.opp-grc1).
+- Ada Adler (éd.), *Suidae Lexicon*, Leipzig, Teubner, 1928–1938, entrée ε 786.
+
+**Commentaire, théâtre et histoire du mythe :**
+- Seth L. Schein (éd.), *Sophocles: Philoctetes*, Cambridge Greek and Latin Classics, Cambridge University Press, 2013, introduction, en particulier pp. 1–4 sur les traitements dramatiques du sujet : [fiche de l’éditeur](https://books.google.com/books?id=54c3PQAACAAJ).
+- Christopher Collard et Patrick O’Sullivan (éd.), *Euripides: Cyclops and Major Fragments of Greek Satyric Drama*, Liverpool University Press, 2013, section « Achaeus I », pp. 426–439 : [édition](https://academic.oup.com/liverpool-scholarship-online/book/43659) ; [aperçu JSTOR](https://www.jstor.org/stable/j.ctv1198t0v.20).
+- Andrew Brown, « Achaeus (2), of Eretria, Athenian tragic poet », *Oxford Classical Dictionary*, 2016, DOI 10.1093/acrefore/9780199381135.013.25 : [notice](https://academic.oup.com/edited-volume/61673/chapter-abstract/548063271).
+- Konstantina Vasilopoulou, *The study of fragments of the tragic Achaeus from Eretria (5th c. B.C.)*, Université de Patras, 2017 : [notice institutionnelle](https://www.openarchives.gr/aggregator-openarchives/edm/nemertes/000009-10889_11798).
+
+**Iconographie :**
+- Metropolitan Museum of Art, New York, inv. 56.171.58, « Terracotta squat lekythos (oil flask) », vase attique à figures rouges, vers 420 av. J.-C. : [notice et photographie en domaine public](https://www.metmuseum.org/art/collection/search/254917). L’image documente le mythe à Lemnos, et non une représentation de la pièce d’Achéos.
+
+**Philosophie et réception :**
+- Platon, *République* II–III et X : formation morale, récit et critique des émotions poétiques.
+- Aristote, *Poétique* 11–14 et *Éthique à Nicomaque* VII, 8 : action, reconnaissance, souffrance.
+- G. W. F. Hegel, *Leçons sur l’esthétique*, analyses du drame, de l’action et des conflits éthiques.
+- Friedrich Nietzsche, *La Naissance de la tragédie* (1872), analyses du chœur et de la souffrance tragique.
+
+Ces références servent des fonctions différentes : **la *Souda* donne le fragment d’Achéos ; les autres textes permettent de le situer, non de le compléter par fiction**. Les bibliographies modernes et les URL sont des indications bibliographiques, pas des licences de reproduction de textes contemporains.
+
+## Annexe D — Hypothèses explicitement rejetées comme faits
+
+Ne sont pas attestés : un prologue à Lemnos ; un chœur d’Achéens ou de satyres ; une scène où Agamemnon secourt Philoctète ; une intervention d’Ulysse ou de Néoptolème dans la citation ; une trompette réellement jouée au théâtre ; une scène de guérison par Machaon ; une mort de Paris sur scène ; une représentation de la prise de Troie ; une date exacte de production ; une conclusion mettant Agamemnon en accord avec le héros. Le lécythe du Met ne constitue pas une photographie d’une mise en scène grecque et ne doit recevoir aucune légende trompeuse.
+
+**Aucune scène n’est reconstruite en dialogues et aucun fragment grec n’a été inventé.**
+
+## Annexe E — Intégrité de la file de publication
+
+Cette monographie publique relève de la collection tragedies. Le dépôt GitHub, branche main, constitue la source de publication de bobmythos.fr ; WordPress n’est qu’une archive historique à préserver. La demande doit être déposée une seule fois dans editorial/inbox sous un UUID stable et ne doit pas créer directement un fichier numéroté. Les mentions CCLXXXII et 282 ne concernent que l’identifiant du présent volume MYTHOS ; les identifiants TrGF I F 37, FragTrag.1 fr. 39, Souda ε 786 et toutes les dates restent littéraux. Aucune planification n’est à modifier. Le numéro ne peut être annoncé qu’après présence du reçu transactionnel, puis les sommaires et le domaine public doivent être vérifiés séparément.
+
+**Fin du manuscrit intégral.**

@@ -1,0 +1,345 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CXLI (141)
+
+## Alexis, *Linos* (Λῖνος) — Quand Héraclès choisit un livre de cuisine : école, bibliothèque, corps et pouvoir de la lecture dans la comédie moyenne
+
+**Monographie universitaire originale — 7 novembre 2026.** Histoire et philologie de la comédie grecque du IVe siècle avant notre ère ; fragments d’Alexis ; réception par Athénée ; culture du livre, éducation héroïque, gastronomie et pratique théâtrale ; interprétations philosophiques et comparatistes ; trois scènes dramatiques contemporaines entièrement originales.
+
+**Statut documentaire.** [A] = donnée antique attestée et correctement référencée, avec distinction entre témoignage, citation et tradition parallèle. [B] = hypothèse, contextualisation ou interprétation moderne : elle n'est jamais présentée comme une réplique conservée ni comme une intention certaine du poète. [C] = création dramatique intégralement nouvelle, écrite pour MYTHOS, sans prétention de restituer le texte perdu. Les citations grecques sont volontairement limitées à de courts mots contrôlés ; le contenu narratif du fragment est exposé en paraphrase française originale. Aucun numéro d'étude future n'est réservé.
+
+### 01. [A] Objet et méthode : un livre choisi dans une pièce disparue
+
+Le titre *Linos* est conservé parmi les œuvres d’Alexis, poète de comédie grecque actif principalement au IVe siècle avant notre ère et dont la carrière traverse la transition vers la comédie nouvelle. La pièce n’a pas été retrouvée. Le passage déterminant est cité par Athénée, *Deipnosophistes*, IV, 164b–d, et classé **Alexis, fragment 140 Kassel–Austin** (*Poetae Comici Graeci*, II). Il montre le maître Linos en présence d’Héraclès, invité à choisir un livre parmi plusieurs ouvrages. Le héros préfère un traité de cuisine. Ce choix déplace brusquement l’attente d’une initiation savante vers la culture alimentaire, mais le maître retourne l’étonnement par une remarque sur le cuisinier et acteur Simos.
+
+Une telle scène permet de poser une question historiographique précise : comment la comédie met-elle à l’épreuve les hiérarchies du savoir en confrontant l’acte de lire à l’appétit ? La réponse ne doit pas dépendre d’une intrigue inventée. Ni la durée de la pièce, ni son concours, ni sa date exacte, ni son dénouement ne sont fournis par le fragment. L'étude s'appuie sur les termes réellement conservés et sur le cadre citationnel, puis indique explicitement ce qu'il reste impossible de savoir.
+
+### 02. [A] Alexis et la difficulté d'une biographie stable
+
+Alexis fut un auteur majeur de la comédie dite moyenne, mais les catégories « ancienne », « moyenne » et « nouvelle » sont en partie des reconstructions de la critique ancienne et moderne, non des programmes esthétiques uniformément appliqués par les dramaturges. La *Souda*, sous le nom d’Alexis, transmet une notice biographique qui lui attribue une production considérable ; sa richesse numérique et ses détails personnels nécessitent une évaluation critique, non une acceptation automatique. Le témoignage sur sa longue vie ne fournit pas à lui seul la chronologie du *Linos*. Ce que la postérité transmet surtout, ce sont des vers détachés, des titres et des citations sélectionnées par des lecteurs tardifs.
+
+Le commentaire monumental de W. Geoffrey Arnott, *Alexis: The Fragments. A Commentary* (1996), est fondamental précisément parce qu’il replace les citations dans leur transmission et leur langue. L’édition de Kassel et Austin demeure la référence pour identifier les fragments, les titres et leurs attributions. À défaut de document de concours ou de didascalie sûre propre au *Linos*, toute date précise de représentation serait artificielle. Il est méthodologiquement préférable de situer la pièce dans le champ d’activité connu du poète, sans produire un faux millésime.
+
+### 03. [A] Athénée : un transmetteur qui a son propre programme
+
+Le *Banquet des savants* d’Athénée réunit, dans une fiction de sociabilité érudite composée à l’époque impériale, des conversations sur les aliments, les usages, les livres, les plaisirs et le savoir. La citation d’Alexis appartient à la séquence du livre IV dans laquelle des interlocuteurs se raillent mutuellement au sujet des philosophes, de leur régime et de leur prétendue maîtrise de soi. Le passage du *Linos* est mobilisé pour tourner en dérision ceux qui parlent de sagesse tout en désirant les dîners. Ce cadre tardif ne doit pas être projeté mécaniquement sur la situation dramatique originale.
+
+Athénée présente d’abord en prose la situation : Héraclès reçoit de Linos la possibilité de prendre un livre ; le choix tombe sur la cuisine. Puis il reproduit le dialogue comique. Deux niveaux doivent donc être distingués : l’indication narrative donnée par le citateur et les paroles conservées qu’il cite. Athénée peut présumer des gestes et du contexte qui étaient clairs dans le fragment ou dans une tradition de lecture aujourd’hui perdue. Sa citation n’est ni une copie intégrale de la pièce ni la mémoire d’une représentation vue par lui.
+
+### 04. [A] La scène conservée : succession des opérations
+
+Dans le passage transmis, Linos autorise son élève à s’approcher des ouvrages et à en examiner soigneusement les titres avant de lire. Il cite une série de noms et de genres littéraires : Orphée, Hésiode, des tragédies, Choérilos, Homère, Épicharme, ainsi que des écrits historiques variés. Le choix du lecteur doit manifester ses dispositions. Héraclès sélectionne un seul ouvrage ; interrogé, il répond qu'il s'agit d'un traité de préparation culinaire. Linos constate avec une ironie explicite l'écart entre l'ensemble proposé et ce choix, puis nomme Simos. Héraclès demande qui est ce Simos. Le maître explique le lien du personnage avec les métiers de la scène et de la cuisine. L'extrait finit sur une nouvelle allusion à la faim d'Héraclès et une réponse où le héros revendique celle-ci.
+
+Cet ordre est significatif : offre, examen, sélection, question, identification, retournement comique. Le fragment conserve une micro-action intelligible, mais pas les scènes précédentes ou suivantes. Le lecteur moderne ne doit pas substituer un synopsis complet à ce petit ensemble de paroles.
+
+### 05. [A] La bibliothèque comme assortiment, non comme inventaire archéologique
+
+Linos dispose d’un ensemble d’ouvrages que la scène traite comme une sélection consultable. Ce trait constitue un témoignage littéraire sur l’intelligibilité sociale du choix livresque : le spectateur peut saisir l’opposition entre une offre de lecture prestigieuse et un ouvrage orienté vers une technique pratique. Mais la liste ne prouve ni l’existence d’une bibliothèque d’école telle qu’une institution moderne, ni l’ordre matériel précis des rouleaux, ni une cote, ni le nombre d’exemplaires réellement possédés par tel maître athénien. L’expression « bibliothèque » est ici une commodité descriptive pour désigner des livres présents à portée du personnage, non le constat d’un bâtiment public.
+
+La distinction est essentielle pour l’histoire du livre. Les textes dramatiques offrent des usages et des imaginaires de l’écrit, pas toujours des photographies d’un mobilier. Les textes énumérés relèvent de temporalités et de genres différents ; leur juxtaposition met en scène une culture disponible, sans nécessairement documenter un catalogue réel de la seconde moitié du IVe siècle.
+
+### 06. [A] Lire les titres : une pédagogie du seuil
+
+Linos commence par faire porter l’attention sur les titres. Le livre est donc, avant son contenu, un objet doté d’une désignation susceptible d’orienter un choix. Cet élément du texte suffit pour analyser une dramaturgie du seuil : on reconnaît la promesse d’une lecture avant de commencer à lire. Il ne suffit pas pour établir que la pratique antique généralisait des couvertures semblables aux livres modernes. Un titre peut être identifié sur une étiquette, au début d’un rouleau, dans une présentation orale ou dans la fiction scénique ; le fragment ne décrit pas précisément le dispositif matériel.
+
+La scène repose aussi sur une pédagogie de la liberté surveillée. Le maître n’assigne pas un texte déterminé : il invite l’élève à choisir, tout en annonçant que le choix révélera ses inclinations. L’exercice est ainsi simultanément ouverture et examen. Le caractère public du test, dans une comédie, permet au spectateur de voir ce que le maître n’avait pas forcément prévu.
+
+### 07. [A] Un canon littéraire qui n'est pas un programme scolaire officiel
+
+Orphée représente une autorité poétique ancienne ou supposée ancienne ; Hésiode et Homère sont des repères de poésie épique ; les tragédies rappellent un répertoire dramatique ; Épicharme inscrit la tradition comique sicilienne parmi les œuvres proposées ; Choérilos demeure un nom dont l'identification exacte doit être discutée selon les possibilités de la transmission. Les « histoires » peuvent renvoyer à des récits ou écrits de genres divers : il serait anachronique d'y imposer toute l'acception moderne de la discipline historique.
+
+L'ensemble n'établit pas le contenu d'une éducation commune à tous les citoyens. Les différences de fortune, de genre et de statut juridique en Grèce ancienne rendaient l’accès à l’instruction très inégal. La pièce fabrique une concentration comique de possibilités savantes, capable d’être reconnue au théâtre. Elle ne décrit ni un cursus obligatoire ni l’éventuel apprentissage réel du jeune Héraclès.
+
+### 08. [A] Le mot du scandale : ὀψαρτυσία
+
+Le choix d'Héraclès est identifié par le terme **ὀψαρτυσία** : un art ou manuel de préparation des mets, habituellement rendu par « cuisine » ou « art culinaire ». Il est raisonnable d’y reconnaître le genre d’un ouvrage technique ou gastronomique, mais il faut éviter de reconstituer ses recettes. Aucun texte autonome de ce livre prétendument attribué à Simos n'est transmis ici. Le titre peut renvoyer à un écrit réel, à une plaisanterie sur un professionnel, à un livre dramatiquement vraisemblable ou à un objet partiellement fictif ; les vers ne permettent pas de trancher.
+
+L'intérêt philologique du terme tient à son orientation vers l'**ὄψον**, l'accompagnement alimentaire, spécialement la nourriture recherchée au-delà d'une base céréalière, et vers l'acte d'apprêter. On ne réduira donc pas le passage à l'opposition scolaire entre « grand auteur » et « livre insignifiant ». Dans une société où les repas mobilisent savoir-faire, dépenses et distinctions sociales, l'art de préparer les mets possède sa propre technicité.
+
+### 09. [A] Simos, cuisinier et acteur : une identité à deux compétences
+
+Lorsque Linos nomme Simos, le rire change de direction. Le maître ne se borne pas à reprocher un intérêt pour les repas : il caractérise Simos par une double relation au théâtre et à la cuisine. Le passage joue de la possibilité de comparer des aptitudes professionnelles qui ne relèvent pas des mêmes critères de jugement. Le résumé d'Athénée et le dialogue font comprendre que Simos est présenté comme un acteur capable de cuisiner et comme un cuisinier capable de jouer. La formule valorise et rabaisse simultanément, selon le point de vue adopté.
+
+Il serait excessif d'affirmer que Simos fut nécessairement un auteur connu d'un manuel historiquement attesté ou qu'il joua dans la représentation originale du *Linos*. Le nom peut correspondre à une personne désignée dans une plaisanterie d'actualité ; nos témoins ne procurent pas à eux seuls l'identification prosopographique requise. Ce qui reste sûr est la fonction du nom dans la scène : transformer une sélection de livres en satire des hiérarchies professionnelles.
+
+### 10. [A] Le compliment « philosophe » et sa valeur ironique
+
+Linos qualifie le choix de son élève dans des termes qui évoquent la philosophie, mais le contexte interdit de comprendre son propos comme un diplôme décerné à Héraclès. Le mot vaut par sa friction avec l’objet choisi et avec l'intérêt gastronomique du héros. Il fait entrer le registre noble de la recherche rationnelle dans une situation où le corps affamé semble gouverner la décision. Chez Athénée, ce retournement sert à railler certains convives savants ; chez Alexis, son effet exact dépendait des gestes, du masque, du jeu vocal et des scènes voisines, désormais perdus.
+
+Il est important de résister à deux simplifications contraires : « Héraclès serait un idiot qui refuse tout savoir » et « Héraclès serait un véritable philosophe du plaisir ». Le fragment autorise une plaisanterie sur ces modèles, non une doctrine établie de l’auteur.
+
+### 11. [A] Dernier échange : la faim n'est pas une théorie
+
+À la fin du passage, l'attention revient à la faim d'Héraclès. Le héros accepte ou revendique, en substance, sa situation corporelle. Cette réponse déjoue le langage du classement savant : elle ne prétend pas expliquer l’ensemble des disciplines et n’expose pas une éthique de l’alimentation. Sa puissance scénique provient de l’insistance physique d’un personnage mythologique connu pour sa force et, dans de nombreuses traditions comiques, pour son appétit.
+
+Le fragment ne dit pas si la scène aboutissait à un repas, à une dispute, à l'échec d'une leçon ou à une réconciliation. Il ne fournit aucun cuisinier entrant sur scène ni aucune recette exécutée devant le public. Ces possibilités ne peuvent figurer que comme hypothèses [B] ou inventions [C], jamais comme un compte rendu du texte antique.
+
+### 12. [A] Linos et Héraclès dans la tradition mythographique
+
+Le motif d'Héraclès élève de Linos appartient à un dossier mythique plus large. Le mythographe transmis sous le nom d'Apollodore, *Bibliothèque* II, 4, 9, rapporte l'apprentissage de la lyre auprès de Linos, puis sa mort violente causée par l'élève. Cette tradition donne au couple maître-disciple une tension dramatique que le public pouvait connaître. Elle ne prouve cependant pas que la comédie d'Alexis racontait effectivement la mort de Linos. Le fragment du livre de cuisine est indépendant de toute conclusion conservée sur ce point.
+
+L'opposition mérite d'être soulignée : le mythe fait de la lyre, instrument d'éducation, l'objet d'un désastre ; la comédie conservée met entre les mains du héros un livre qui désorganise l'échelle des valeurs savantes. La ressemblance structurelle peut enrichir une lecture, mais le récit de violence ne saurait être ajouté au dénouement perdu d'Alexis comme un fait.
+
+### 13. [A] Pausanias et la pluralité des Linos
+
+Pausanias, *Description de la Grèce* IX, 29, 8–9, présente différentes traditions thébaines liées à Linos et distingue notamment un Linos plus ancien d’un autre, enseignant la musique, que l’enfant Héraclès aurait tué. Ce témoignage tardif confirme la pluralité mythographique des figures et récits de Linos. Il interdit de dessiner une généalogie unique à partir du seul titre de la pièce. La pluralité des versions n’est pas une anomalie à « corriger » au moyen d’une synthèse imaginaire : elle appartient à la documentation.
+
+La scène d'Alexis n'identifie pas explicitement la filiation de son Linos. Les traits d'érudit et de pédagogue sont compatibles avec le personnage traditionnel, mais n'en fixent ni le père, ni la mère, ni le statut cultuel. À plus forte raison, toute présentation de la pièce comme un rituel documenté de linites ou de lamentation serait sans preuve.
+
+### 14. [A] Édition, numérotation et limites de la traduction
+
+Pour la collation du passage, on doit distinguer la référence dans l'œuvre citante, **Athénée IV, 164b–d**, de l'identifiant moderne, **Alexis fr. 140 K.–A.** Il ne s'agit pas d'un « vers 140 » d'une comédie entière. Cette numérotation permet seulement de retrouver l'unité éditée dans *Poetae Comici Graeci* II (1991), sous Alexis. Le commentaire d'Arnott (1996) analyse les attestations et les difficultés. Les éditions plus anciennes de Meineke et Kock sont des jalons d'histoire philologique, mais ne doivent pas être confondues avec la numérotation de référence.
+
+Cette étude choisit la **paraphrase analytique** plutôt qu'une pseudo-reconstitution métrique en français : la forme dialoguée et les retournements sont décrits, mais aucun vers français n'est présenté comme un fragment nouvellement retrouvé. La courte mention grecque ὀψαρτυσία est un repère lexical, non la preuve de l'existence matérielle du livre évoqué.
+
+### 15. [B] Problème central : une éducation qui se retourne contre le maître
+
+Une lecture possible du fragment consiste à y voir une crise de la pédagogie par le choix. Linos annonce implicitement que le bon lecteur choisira une autorité consacrée. Mais l'instruction formelle est respectée par Héraclès : il examine et sélectionne. Le désordre n’est donc pas celui de l’obéissance, mais celui de l'interprétation du critère. La liberté accordée devient embarrassante parce que le maître voulait peut-être qu'elle confirme ses valeurs.
+
+Il serait alors trop simple d'opposer l'école et la rébellion. Le corps du héros produit une lecture du monde, centrée sur l'utilité immédiate ; l'enseignant produit une lecture hiérarchisée, centrée sur l'autorité culturelle. La comédie peut mettre en scène la coexistence de ces deux rationalités sans élire définitivement l'une contre l'autre. Ce point explique pourquoi la scène garde son intérêt philosophique après disparition de l'intrigue.
+
+### 16. [B] Une théorie humoristique de l'épreuve du choix
+
+Linos semble traiter la sélection d'un ouvrage comme une opération diagnostique. Avant même la lecture, le choix révélerait les inclinations de l'élève. La situation n'est pas loin d'un test de caractère : donnez à quelqu'un une pluralité d'objets nobles, observez celui qu'il retient, puis classez sa disposition. Le problème est celui de la validité de ce diagnostic. Héraclès prend un livre de cuisine ; que peut-on vraiment en déduire sur ses capacités littéraires, morales ou intellectuelles ?
+
+Notre interprétation est que la comédie met en défaut le passage trop rapide de l'indice à l'essence. Préférer un écrit ne signifie pas ignorer tous les autres. Être affamé ne signifie pas être incapable d'apprendre. On peut donc lire ce gag comme un petit laboratoire de la classification sociale : le maître sait les titres, mais le résultat de son enquête lui échappe.
+
+### 17. [B] Héraclès, l'héroïsme désacralisé sans être effacé
+
+Héraclès apporte avec lui une stature mythique : force, exploits, déplacements, combats. La comédie le ramène à la condition très ordinaire de lecteur sollicité et de corps ayant faim. Ce déplacement n'abolit pas la tradition héroïque ; il en dépend. Si le public ne reconnaissait pas Héraclès comme un héros de puissance exceptionnelle, le contraste perdrait une partie de son efficacité.
+
+On peut y voir un effet de désublimation : la grandeur fabuleuse est traduite dans le quotidien. Cette notion ne doit toutefois pas être confondue avec une preuve de la psychologie de l'auteur. Le rire peut être à la fois admiratif et dépréciatif. L'appétit n'est pas ici une faute morale nécessaire, mais une intensité qui ramène le héros à la matérialité de l'existence. Le savoir écrit échoue à lui faire oublier ce qu'il éprouve dans son ventre.
+
+### 18. [B] Le livre comme objet dramatique et le corps comme contre-texte
+
+Un livre dans les mains du personnage modifie le langage des gestes. Il peut être pris, déplacé, exhibé, posé ou serré avec précaution. La prose introductive d’Athénée insiste sur la manière dont Héraclès tient l’ouvrage choisi. La pièce exploite ainsi une tension entre **ce que dit le titre** et **ce que montre le corps**. Héraclès peut paraître lecteur appliqué, mais l'application va vers l'aliment.
+
+Cela ne signifie pas que nous possédons une didascalie antique réglant la position de chaque main. Les formes exactes du livre représenté, sa taille, la qualité du support et la présence éventuelle de plusieurs accessoires demeurent inconnues. La dramaturgie contemporaine peut proposer des solutions scéniques [C], à condition d'avouer qu'elles n'appartiennent pas au dossier textuel conservé.
+
+### 19. [B] L’histoire du livre avant la grande bibliothèque alexandrine
+
+La coexistence de plusieurs auteurs dans une scène de comédie composée à l’époque classique tardive suggère un public capable de comprendre l'idée de collections privées ou pédagogiques. Mais le fait qu'un objet soit imaginable sur scène ne suffit pas à établir le niveau effectif de diffusion du livre dans toute l'Attique. La question réclame des données distinctes : iconographie des rouleaux, témoignages sur les libraires, lecture philosophique, inscriptions, papyrus et histoire des pratiques lettrées.
+
+Pour cette mise en contexte, le volume collectif dirigé par Jason König, Katerina Oikonomopoulou et Greg Woolf, *Ancient Libraries* (2013), notamment la contribution de Massimo Pinto sur les hommes et les livres dans l'Athènes du IVe siècle, fournit un horizon de recherche. On doit éviter de traiter la bibliothèque comique de Linos comme la préfiguration exacte de la bibliothèque royale d'Alexandrie : l'écart d'époque, de statut et d'échelle est trop important.
+
+### 20. [B] La cuisine est une technè, non le contraire absolu du savoir
+
+Une autre interprétation consiste à prendre au sérieux le mot « art ». Cuisiner suppose préparation, mesure, mémoire des procédés, apprentissage et jugement. L'ouvrage choisi ne relève donc pas simplement d'une absence de savoir : il désigne une pratique technique. On retrouve un problème grec général, celui de la relation entre **technè**, expérience et discernement. Le comique naît lorsque la compétence corporelle et pratique semble venir troubler la hiérarchie des disciplines prestigieuses.
+
+Cette lecture n'autorise pas à faire d'Alexis un théoricien de la valorisation moderne des métiers manuels. Les techniques de cuisine peuvent elles-mêmes s'inscrire dans des rapports de richesse, de domesticité et de dépendance. L'art culinaire n'est pas universellement démocratique : la cuisine raffinée mobilise des aliments et des spécialistes dont l'accès est socialement différencié. Le fragment laisse cette tension ouverte.
+
+### 21. [B] Le cuisinier-acteur : satire de la compétence transférable
+
+Le nom de Simos ouvre un second champ critique. Dans une société de concours poétiques, l'acteur est jugé sur la voix, le rythme, l'incarnation et le rapport au public. Le cuisinier est évalué sur la préparation et le service d'un repas. Qu'un même homme soit présenté selon les deux professions autorise des analogies ironiques : la bonne recette fait-elle un bon spectacle ? La représentation scénique exige-t-elle les mêmes talents que l'assaisonnement ?
+
+Le jeu ne prouve pas une identité effective de métier ; il montre que la scène est capable de fabriquer une réputation hybride. Il peut également signaler les rivalités de prestige entre professions de la performance et métiers de bouche. La formule transmise est trop condensée pour décider si elle ridiculise surtout Simos, Héraclès, Linos ou le public savant. En revanche, son ambiguïté en fait une réussite comique.
+
+### 22. [B] La typologie sociale du gourmand : caractère ou circonstance ?
+
+Le cliché d'Héraclès glouton circule largement dans la comédie, mais une typologie n'est jamais le portrait complet d'une personne. La scène du *Linos* donne à l'appétit une fonction de reconnaissance rapide : devant une bibliothèque, le personnage sera attiré par l'aliment. La plaisanterie peut être comprise sans long développement psychologique. Pourtant, le personnage n'est pas privé de décision ni de parole. Il répond à la question qui lui est posée, identifie son ouvrage et soutient son choix.
+
+Cette dynamique doit nous empêcher de réduire le héros à une caricature inerte. Le rire suppose un agent assez cohérent pour suivre une règle d'action et assez décalé pour contester un ordre de valeurs. La comédie peut faire de l'appétit un principe de caractérisation dramatique sans en faire une ontologie de l'homme fort.
+
+### 23. [B] Épicharme dans la liste : un hommage à la comédie parmi les savants ?
+
+La présence d'Épicharme dans les ouvrages proposés est particulièrement intéressante : une œuvre comique ou une autorité liée à la tradition sicilienne se trouve rangée parmi des poètes prestigieux et des écrits variés. Cela empêche de comprendre l'opposition comme un conflit simple entre « littérature sérieuse » et « comédie ». La comédie reconnaît ici, au sein de sa propre fiction, l'existence d'un passé littéraire comique auquel les personnages peuvent accéder par l'écrit.
+
+Il serait séduisant d'en inférer une thèse directe sur les filiations d'Alexis ou sur son admiration personnelle pour Épicharme. Rien ne permet une conclusion aussi ferme à partir d'une énumération. La liste reste à la fois une ressource dramaturgique et un indice du statut culturel attaché aux noms littéraires à l'époque de la pièce. Sa portée est réelle, mais moins biographique qu'intertextuelle.
+
+### 24. [B] Platon et Aristote comme instruments de comparaison, non témoins de la pièce
+
+Le théâtre et l'éducation ne sont pas étrangers aux dialogues de Platon, qui interrogent la formation du caractère, les images de la vertu et les effets de la poésie ; l'*Éthique à Nicomaque* d'Aristote discute les habitudes, les plaisirs, la prudence et les savoir-faire. Ces textes peuvent aider à formuler des questions sur le choix d'Héraclès : faut-il former le désir, le suivre ou le juger ? Quelle relation existe entre la compétence technique et la bonne vie ?
+
+Ces confrontations sont méthodologiques. Aucune réponse philosophique précise de Platon ou d'Aristote ne doit être mise dans la bouche du comique Alexis. Le fragment ne mentionne pas explicitement ces philosophes. Il ne contient ni théorie systématique de l'âme tripartite ni doctrine des vertus. Son efficacité vient d'une situation concrète, non d'un traité. On gagne à juxtaposer des problématiques ; on perdrait toute rigueur en faisant de Linos un porte-parole posthume d'une école.
+
+### 25. [B] Hegel : la comédie et la liberté relative du personnage
+
+Dans l'*Esthétique*, Hegel analyse la comédie à partir de rapports entre subjectivité, caractères et puissances de l'ordre représenté. Sans appliquer de façon mécanique ses catégories aux fragments du IVe siècle, on peut employer cette perspective pour comprendre le choix d'Héraclès comme une rupture de la dignité attendue. La hiérarchie des œuvres est exposée, puis un sujet singulier s'en empare à contre-emploi. L'instance qui classe le monde ne maîtrise plus complètement le mouvement de son élève.
+
+La limite de cette lecture tient à l'état du texte : nous ne savons pas si le personnage atteint dans la pièce une forme de liberté consciente, ni si la scène était centrale. En outre, le système esthétique hégélien est élaboré à une époque dont les conceptions de la Grèce antique sont historiquement situées. Il serait erroné d'attribuer à Alexis le projet philosophique de Hegel ; cette confrontation est celle d'un lecteur moderne devant un matériau antique.
+
+### 26. [B] Nietzsche : tension de la musique, du corps et de l'ordre
+
+La mythologie de Linos associe le maître à la musique, et la tradition fait d'Héraclès un élève problématique. Nietzsche, notamment dans *La Naissance de la tragédie*, offre un vocabulaire pour réfléchir au conflit entre mesure artistique, impulsion et corporéité. Il serait possible de lire le livre de cuisine comme la manifestation d'un désir qui déborde le rituel d'une sélection érudite. Une lecture nietzschéenne attentive soulignerait que le corps n'est pas une simple erreur commise contre la raison.
+
+Mais il faut maintenir une distance historique : l'opposition apollinien/dionysiaque ne figure pas dans le fragment, et le livre de cuisine n'est pas nommé « dionysiaque » par Alexis. Le faire serait réinjecter dans un texte lacunaire une grille philosophique postérieure. Le concept devient utile seulement lorsqu'il aide à poser un problème d'interprétation et qu'il ne se substitue pas aux paroles attestées.
+
+### 27. [B] Vernant : le mythe n'est ni une biographie ni un décor neutre
+
+Les travaux de Jean-Pierre Vernant invitent à situer les figures mythiques au croisement des pratiques, des représentations et des structures collectives de la pensée grecque. Héraclès n'est pas ici un individu dont on reconstituerait la psychologie infantile ; c'est une figure traditionnelle que le théâtre déplace dans une situation familière. La scène articule l'autorité d'un mythe et l'expérience ordinaire de choisir un texte.
+
+La pertinence de ce cadre réside dans l'attention aux transformations des récits selon leurs usages sociaux. Sa limite est de ne pas fournir, à lui seul, le contenu des actes perdus. La comparaison avec d'autres figures de pédagogues ou d'élèves mythologiques exige des témoins distincts. La lecture de Vernant est donc un instrument d'analyse des opérations de la comédie, non la preuve que Linos représentait une institution civique précisément déterminée.
+
+### 28. [B] Détienne : autorité de la parole et déplacement du prestige
+
+Marcel Détienne a étudié les formes d'autorité attachées à la parole dans la Grèce ancienne, notamment dans *Les Maîtres de vérité dans la Grèce archaïque*. Le fragment du *Linos* fournit un contrepoint instructif : le maître convoque une succession de noms culturels réputés, mais le choix d'un livre pratique révèle que leur autorité n'est pas automatiquement efficace. La liste peut être entendue comme une mise en scène de prestige à laquelle un élève répond par un besoin tangible.
+
+Il ne faut cependant pas identifier sans preuve Linos à un maître archaïque de vérité ni affirmer que la comédie traite d'une transition historique linéaire du mythe à la raison. Les régimes de savoir coexistent. Le motif dramatique est suffisamment riche sans être enfermé dans un schéma de remplacement des croyances par la rationalité.
+
+### 29. [B] Dumézil : pourquoi une grille séduisante serait fragile
+
+Le nom d'Héraclès peut conduire à comparer des héros de puissance dans plusieurs traditions indo-européennes, et les analyses de Georges Dumézil sur les fonctions idéologiques pourraient sembler immédiatement disponibles. Mais le fragment ne traite pas explicitement d'une triade de fonctions, d'une organisation sacerdotale, guerrière et productive ou d'un schème mythique comparable entre plusieurs langues et civilisations. Appliquer le tripartisme à la seule liste de livres d'Alexis serait un exercice arbitraire.
+
+Le comparatisme exige des ensembles documentaires indépendants et une méthode de confrontation stable. Notre choix est donc de ne pas déduire de système dumézilien du contraste entre professeur, héros et cuisinier. Dans le cadre présent, l'analyse structurale des fonctions serait moins démonstrative qu'une observation précise de la syntaxe dramatique et de la transmission textuelle.
+
+### 30. [B] Étudier l'aliment sans reconstruire une cuisine imaginaire
+
+L'art des repas constitue une source considérable de représentations dans la comédie grecque. À partir du seul *Linos*, on peut montrer le prestige comique de la nourriture et le potentiel satirique du professionnel culinaire. On ne peut cependant déterminer ni le contenu du traité de Simos, ni les menus connus des personnages, ni l'organisation domestique qui entourait le maître. Le texte ne fournit ni inventaire de denrées ni description d'une cuisine.
+
+Cette précision protège l'étude contre une illusion documentaire fréquente : multiplier les détails concrets donne une apparence de réalité à ce qui reste imaginé. Les scènes originales ci-dessous utilisent des rouleaux, une table et de faux catalogues pour créer un théâtre possible, mais elles n'ajoutent aucun témoignage antique. La reconstruction scénique et l'enquête historique ne répondent pas à la même obligation de preuve.
+
+### 31. [B] L’étrangeté d’un acteur qui cuisine : le spectacle se réfléchit lui-même
+
+En faisant parler de Simos à la fois comme cuisinier et comme interprète, la comédie paraît réfléchir au théâtre depuis l'intérieur de sa propre pratique. La notion de « représentation » ne se limite plus à un acteur qui joue un personnage : le chef « compose » un plat, ajuste un effet, s'adresse à un destinataire. Cette analogie peut prendre une coloration critique, car une performance de cuisine se vend et se consomme, tandis que le théâtre prétend offrir autre chose qu'un plaisir immédiat.
+
+Pourtant, la comparaison laisse place à la défense des habiletés manuelles : un mauvais acteur peut préparer un bon repas, un bon acteur peut échouer en cuisine. L'interchangeabilité est une fiction de langage. Dans cette instabilité, le comique montre que la réputation sociale simplifie souvent des talents incompatibles.
+
+### 32. [B] Intertextualité interne à MYTHOS : rapprocher sans confondre
+
+Le volume **133**, consacré à Axionikos, *Phileuripidēs*, explore le goût pour Euripide et la sociabilité de l'écoute ; il permet de comparer deux manières comiques de traiter le rapport entre culture et appétit. Le volume **137**, consacré à Antiphane, *Poiēsis*, examine la réflexion de la comédie sur ses propres moyens face à la tragédie. Le volume **140**, Timoclès, *Dionysiazousai*, conserve un plaidoyer dramatique pour les effets consolateurs des spectacles tragiques. Ces œuvres ne se répondent pas nécessairement historiquement ; leur rapprochement est un **parcours critique** proposé au lecteur.
+
+Une autre précaution concerne la tragédie satyrique perdue *Linos* d'Achéos d'Érétrie, étudiée dans la collection des tragédies MYTHOS, volume **274**. L'homonymie de titre ne signifie pas identité d'auteur, de genre, de fragment ou de scénario. Achéos est documenté à partir d'un autre témoin d'Athénée. Aucun transfert de vers d'une œuvre à l'autre n'est acceptable. Les anciennes étiquettes éditoriales XIII/XIV ne réservent aucun numéro à la présente étude.
+
+### 33. [B] Une scène de choix est-elle déjà une scène politique ?
+
+Une interprétation politique du fragment peut s'attacher au modèle de décision : Linos offre une pluralité d'objets, puis juge l'usage que son élève fait de cette faculté. Une liberté n'est-elle libre que lorsqu'elle aboutit au résultat espéré par celui qui l'accorde ? La pièce pourrait, dans ce microcosme, donner forme à une contradiction familière de toute autorité éducative ou domestique. Le maître ne peut prouver qu'il instruit en vérifiant seulement l'obéissance de l'élève.
+
+Il n'existe cependant aucune preuve, dans le passage cité, que cette scène fasse allusion à un décret athénien, à un homme politique, à un débat d'assemblée ou à une polémique scolaire déterminée. La portée civique se dégage du problème posé par l'interprète moderne ; elle ne peut devenir une allusion datée sans élément de contrôle. Les niveaux [A] et [B] doivent rester distincts.
+
+### 34. [B] Lecture dramaturgique minimale : quatre mouvements et une chute
+
+La micro-structure du dialogue permet de proposer, sans prétendre restaurer la pièce, une partition de lecture en quatre mouvements. D'abord l'ouverture d'un choix sous l'autorité du maître ; ensuite la découverte d'un ensemble de noms célèbres ; puis la sélection d'un objet inattendu ; enfin la réplique sur Simos, qui déplace la honte potentielle de l'élève vers les métiers du plaisir. Le retour à la faim produit un point de chute supplémentaire : aucune argumentation ne dissout l'appétit.
+
+Cette articulation est une analyse, non une didascalie d'Alexis. On ne sait pas si les acteurs portaient des livres réels, s'ils avaient une table, si le public voyait les rouleaux ou si le dialogue était encadré par d'autres personnages. Le théâtre inventé pour MYTHOS va maintenant rendre visible une possible mise en situation. Ce passage d'un régime de preuve à un régime de création est signalé sans ambiguïté.
+
+### 35. [C] Scène dramatique originale I — « Le choix public »
+
+*Création contemporaine ; aucun mot de cette scène n'est attribué à Alexis. Personnages imaginés : Linos, Héraclès, une Servante. Une table porte des rouleaux fermés. La pièce se situe dans une salle d'étude sans datation reconstituée.*
+
+**LINOS.** J'ai voulu t'offrir une seule tâche, Héraclès : choisir ce qui mérite d'être lu. Je n'exige pas de toi que tu répètes ma réponse. Je demande la tienne.
+
+**HÉRACLÈS.** Alors tu seras satisfait. Je connais déjà ma réponse.
+
+**LINOS.** Tu ne connais pas encore les ouvrages.
+
+**HÉRACLÈS.** Je connais ma faim.
+
+**LA SERVANTE.** Elle est arrivée avant toi et s'est déjà assise sur la première chaise.
+
+**LINOS.** Que le désir se taise un instant. Ici, l'esprit se forme à force de distinctions.
+
+**HÉRACLÈS.** Distingue donc : qu'est-ce qui nourrit un esprit vide lorsqu'un ventre vide le porte ?
+
+**LINOS.** Un poème peut donner une grandeur qu'aucun repas n'achète.
+
+**HÉRACLÈS.** Et un repas peut empêcher un élève de s'endormir avant le premier vers.
+
+**LA SERVANTE.** Le maître veut que l'élève choisisse librement. Il veut aussi pouvoir se féliciter du choix.
+
+**LINOS.** J'accepte la contradiction pourvu que l'on me laisse l'expliquer.
+
+**HÉRACLÈS.** Moi, je l'accepte pourvu que l'on me laisse manger.
+
+*La Servante retourne un rouleau sans l'ouvrir. Linos hésite entre lui retirer l'objet et poursuivre son exercice. La scène s'interrompt avant que le choix soit annoncé.*
+
+### 36. [C] Scène dramatique originale II — « Un titre suffit-il ? »
+
+*Création contemporaine ; second tableau. Le choix du livre de cuisine reprend seulement le motif attesté. Tous les échanges suivants sont nouveaux et ne constituent pas une traduction.*
+
+**LINOS.** Lis le titre avant d'ouvrir. Il te dira ce que l'auteur promet.
+
+**HÉRACLÈS.** Il promet davantage que ce qu'il contient peut-être. J'ai vu des hommes promettre une montagne et offrir une olive.
+
+**LINOS.** Une promesse se juge après l'épreuve.
+
+**HÉRACLÈS.** Alors je lirai d'abord la recette, puis je jugerai le repas.
+
+**LINOS.** Voilà une justice qui se laisse acheter au marché.
+
+**LA SERVANTE.** Le marché n'est pas un tribunal, maître. Pourtant un mauvais pain y perd sa réputation plus vite qu'un mauvais raisonnement.
+
+**LINOS.** Ce qui est vrai n'a pas besoin d'être délicieux.
+
+**HÉRACLÈS.** Et ce qui est délicieux n'a pas toujours besoin d'être vrai. Le poisson cuit ne prétend pas avoir écrit l'Iliade.
+
+**LINOS.** Tu confonds les ordres du monde.
+
+**HÉRACLÈS.** Je les distingue très bien : là-bas sont les chants, ici sont les plats ; nous n'avons encore touché ni les uns ni les autres.
+
+**LA SERVANTE.** Il manque un troisième livre : celui qui apprendrait au maître à reconnaître le moment de finir la leçon.
+
+*Linos regarde la table. Il voit que les livres sont restés fermés. Le désaccord a pourtant donné lieu à une conversation dont les deux interlocuteurs se souviendront.*
+
+### 37. [C] Scène dramatique originale III — « La profession de Simos »
+
+*Création contemporaine ; troisième tableau. Simos est ici un personnage imaginé pour la création moderne, non un rôle conservé du *Linos* antique.*
+
+**SIMOS.** On m'a dit que mon nom était devenu un livre. Je viens réclamer au moins le droit de voir sa couverture.
+
+**LINOS.** On te fait cuisinier quand il faut nourrir, acteur quand il faut rire. Qui es-tu exactement ?
+
+**SIMOS.** Celui que l'on paie pour travailler. Il arrive que les payeurs se disputent le nom de son talent.
+
+**HÉRACLÈS.** Sais-tu préparer un dîner ?
+
+**SIMOS.** Oui, si l'on me procure du temps et des ingrédients.
+
+**HÉRACLÈS.** Sais-tu jouer un roi ?
+
+**SIMOS.** Oui, si l'on me donne un public qui accepte d'imaginer une couronne.
+
+**LINOS.** Mais quelle activité exige le plus de vérité ?
+
+**SIMOS.** Dans la première, une soupe brûlée ne se laisse pas sauver par un beau discours. Dans la seconde, un roi cruel peut être joué par un homme doux. La vérité n'a pas partout le même costume.
+
+**LA SERVANTE.** Et si le public applaudit le dîner ?
+
+**SIMOS.** Il aura peut-être oublié qu'il jugeait une pièce.
+
+**HÉRACLÈS.** Moi, je n'oublie pas. Je demande seulement qu'on serve quelque chose entre les actes.
+
+**LINOS.** Tu n'auras pas transformé ma bibliothèque en cuisine.
+
+**HÉRACLÈS.** Non. J'ai seulement découvert que l'on peut y parler sans manger, mais qu'on ne peut pas toujours y penser sans avoir faim.
+
+*La Servante ouvre la porte. Aucun repas n'est montré. Linos, Simos et Héraclès restent face aux rouleaux. Fin du tableau original.*
+
+### 38. [B] Ce qu'une reconstitution responsable doit laisser dans l'ombre
+
+Ces trois tableaux doivent être lus comme des exercices de dramaturgie critique. Ils n'établissent ni une distribution antique ni un déroulement authentique. Ils rendent seulement visibles des hypothèses sur l'autorité pédagogique, la pluralité des savoirs et le savoir des métiers. La Servante et Simos parlant sur scène sont des inventions de MYTHOS. Dans le fragment d’Alexis, seuls les échanges authentiquement attestés entre Linos et Héraclès et la mention de Simos fournissent une base textuelle. La « salle d'étude » et les accessoires sont imaginés.
+
+Une reconstitution historienne doit pouvoir afficher ses vides. L'apparence du masque, les costumes, le genre et le nombre des personnages secondaires, la structure du chœur et l'issue du mythe n'ont pas été restitués. C'est en maintenant cette frontière que l'imagination dramatique peut faire œuvre sans détruire la lisibilité scientifique du dossier.
+
+### 39. [B] Conclusion : choisir un livre, révéler l'instabilité du classement
+
+Le *Linos* d'Alexis n'est pas le témoignage direct d'une école réellement fréquentée par Héraclès ; c'est une scène comique dont le ressort réside dans la rencontre de plusieurs ordres de valeur. La littérature expose sa richesse sous forme de titres ; la pédagogie attend de l'élève un choix significatif ; la faim oriente l'attention vers la cuisine ; l'habileté de Simos déplace les frontières entre métiers et représentation. Le fragment vaut ainsi pour l'histoire du livre, de l'éducation et du rire grec, à condition de refuser qu'il certifie à lui seul l'existence d'une bibliothèque précise ou d'une œuvre technique perdue de Simos.
+
+Le passage d'Athénée à Alexis nous laisse un double enseignement : l'Antiquité impériale a conservé un texte parce qu'elle pouvait le réutiliser dans une conversation gastronomique ; la comédie d'origine avait déjà fait de la sélection d'un livre une machine à exposer les désirs et les classements. Les analyses de Hegel, Nietzsche, Vernant et Détienne peuvent ouvrir des perspectives sur ce mécanisme, mais les paroles certaines demeurent celles du fragment édité, non celles des systèmes postérieurs. Les scènes [C] demeurent des créations, non des découvertes.
+
+### 40. [A] Sources primaires et repères de contrôle
+
+**Texte comique primaire.** Alexis, *Linos*, fr. **140 Kassel–Austin**, conservé par Athénée, *Deipnosophistes* IV, 164b–d. Le fragment doit être consulté dans : Rudolf Kassel et Colin Austin, *Poetae Comici Graeci*, vol. II, Berlin–New York, Walter de Gruyter, 1991. Les numéros d'Alexis et d'Athénée ne désignent pas la même chose.
+
+**Œuvre citante.** Athénée de Naucratis, *Deipnosophistes*, IV, 164b–d ; traduction ancienne anglaise de C. B. Gulick, *The Deipnosophists*, Loeb Classical Library, vol. II, 1928, consultable en ligne pour contrôler le contexte : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/4D*.html . Pour le repérage bibliographique des loci : **Digital Athenaeus**, index des auteurs et œuvres : https://www.digitalathenaeus.org/tools/MeinekeIndexScriptorum/superdigger.php?onoffswitch=on&what%5B%5D=Name%7CAlexis .
+
+**Traditions mythographiques indépendantes.** Pseudo-Apollodore, *Bibliothèque* II, 4, 9, sur l’enseignement de la lyre et la mort de Linos : https://www.theoi.com/Text/Apollodorus2.html . Pausanias, *Description de la Grèce* IX, 29, 8–9, sur la diversité des récits thébains de Linos : https://www.theoi.com/Text/Pausanias9B.html . Ces deux textes ne constituent pas des fragments d'Alexis et ne permettent pas de combler les actes perdus.
+
+### 41. [A] Bibliographie critique vérifiable
+
+Rudolf **Kassel** et Colin **Austin**, *Poetae Comici Graeci*, vol. II, Berlin–New York, de Gruyter, **1991** : édition de référence et numérotation des fragments d'Alexis.
+
+W. Geoffrey **Arnott**, *Alexis: The Fragments. A Commentary*, *Cambridge Classical Texts and Commentaries* 31, Cambridge, Cambridge University Press, **1996** : commentaire fondamental de la tradition et de la dramaturgie fragmentaire ; notice bibliographique : https://books.google.com/books/about/Alexis_The_Fragments.html?id=8JKsYD9nWGYC .
+
+Charles Burton **Gulick**, trad., *Athenaeus: The Deipnosophists*, vol. II, Cambridge (Mass.), Harvard University Press, **1928**, pour le contexte d'Athénée IV, avec le contrôle direct de la séquence d'énonciation.
+
+Jason **König**, Katerina **Oikonomopoulou** et Greg **Woolf** (dir.), *Ancient Libraries*, Cambridge, Cambridge University Press, **2013**, notamment Massimo Pinto, « Men and books in fourth-century BC Athens », pour l'histoire du livre et des milieux lettrés ; présentation : https://www.cambridge.org/core/books/ancient-libraries/ .
+
+G. W. F. **Hegel**, *Vorlesungen über die Ästhetik* (*Leçons sur l'esthétique*), édition posthume préparée par H. G. Hotho, 1835–1838 : comparaison conceptuelle, sans attribution antique.
+
+Friedrich **Nietzsche**, *Die Geburt der Tragödie aus dem Geiste der Musik* (*La Naissance de la tragédie*), **1872** : comparaison philosophique circonscrite aux limites exposées en section 26.
+
+Jean-Pierre **Vernant**, *Mythe et pensée chez les Grecs. Études de psychologie historique*, Paris, Maspero, **1965** : usage analytique des figures mythiques et de leurs contextes sociaux.
+
+Marcel **Détienne**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, Maspero, **1967** : comparaison des régimes d'autorité de la parole, sans identification de Linos à un type historique unique.
+
+Georges **Dumézil**, *Mythe et épopée*, trois volumes, Paris, Gallimard, **1968–1973** : mention critique de la méthode comparatiste, non application prétendument démontrée au fragment.
+
+**Contrôle de concordance.** Dans le catalogue MYTHOS, comparer sans transférer les fragments : comédies 133 (*Phileuripidēs*, Axionikos), 137 (*Poiēsis*, Antiphane), 140 (*Dionysiazousai*, Timoclès) ; tragédies 274 (*Linos* satyrique, Achéos). Les volumes antérieurs sont cités avec leurs numéros déjà attribués. Le numéro de **la présente étude** est exclusivement représenté par les variables CXLI et 141, à renseigner par le circuit transactionnel.

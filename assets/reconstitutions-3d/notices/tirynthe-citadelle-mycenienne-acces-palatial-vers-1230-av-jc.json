@@ -1,0 +1,69 @@
+{
+  "id": "TIR-CIT-001",
+  "slug": "tirynthe-citadelle-mycenienne-acces-palatial-vers-1230-av-jc",
+  "title": "Tirynthe (Argolide) — citadelle mycénienne, accès fortifié et ensemble palatial, vers 1230 av. J.-C.",
+  "period": "Helladique récent III B, seconde moitié du XIIIe siècle av. J.-C. ; évocation conventionnelle vers 1230 av. J.-C.",
+  "caption": "Évocation photoréaliste non métrique du cheminement vers le complexe palatial de Tirynthe, au-dessus des remparts cyclopéens, à la fin de l’âge du Bronze.",
+  "commentary": "Tirynthe occupe une crête basse dans la plaine d’Argolide, non loin du golfe Argolique. Les fouilles identifient sur la citadelle haute un ensemble palatial organisé autour de cours et de mégara, desservi par des passages monumentaux. Le spectaculaire appareil cyclopéen des enceintes est attesté : de très gros blocs de calcaire, des murs atteignant localement plusieurs mètres d’épaisseur, une rampe d’accès et des portes défensives. L’UNESCO décrit un périmètre fortifié d’environ 750 m, des murs pouvant atteindre 8 m d’épaisseur et 13 m de hauteur ; l’achèvement des fortifications est situé vers la fin du XIIIe siècle avant notre ère. Ces données portent sur le site dans son ensemble et ne justifient pas de considérer l’image comme un relevé à l’échelle. L’image montre une interprétation de la citadelle en activité à la fin de l’âge du Bronze. L’emploi du terme « palais » renvoie à une organisation monumentale et administrative déduite de l’architecture et du mobilier, non à une résidence royale dont l’occupation quotidienne serait précisément connue. Les cours, les murs puissants et la circulation sur une rampe sont fondés sur des vestiges ; la composition générale et les enchaînements de bâtiments sont simplifiés pour une lecture paysagère. Les toitures, la hauteur complète des façades, les détails des portes, les éléments peints, l’implantation exacte des magasins, les arbres, animaux et personnages ne peuvent pas être rétablis de manière assurée. Les frises, colonnes de bois et décors de façade sont une évocation générique de l’architecture mycénienne, pas un fac-similé certifié d’une peinture propre à Tirynthe. Le traitement des matériaux, la lumière et la végétation sont purement illustratifs. La datation « vers 1230 » est un choix de médiation à l’intérieur d’une phase d’activité de la fin du XIIIe siècle ; elle ne correspond ni à une année de construction démontrée pour tous les éléments ni à une journée archéologiquement reconstituable. Les campagnes de fouilles de la citadelle haute, notamment celles de Schliemann, Dörpfeld et des chercheurs modernes, ont précisé la séquence du grand et du petit mégaron, mais les élévations complètes ne sont pas conservées. Cette création photoréaliste est une synthèse visuelle hypothétique, sans géoréférencement, sans promesse d’exactitude métrique ni approbation institutionnelle.",
+  "certainty": "Élevé : présence du palais de la citadelle haute, remparts cyclopéens, rampe et passages fortifiés, implantation générale dans la plaine d’Argolide. Moyen : organisation de l’espace bâti, ordre de grandeur des masses et usage vraisemblable des cours. Faible : hauteur et aspect exacts des élévations, couvertures et décors, détails des ouvertures, matériaux de toiture, costumes, personnes, animaux et végétation.",
+  "source_url": "https://whc.unesco.org/fr/list/941/",
+  "secondary_sources": [
+    "https://www.argolisculture.gr/fr/liste-de-monuments/acropole-de-tirynthe/",
+    "https://www.oeaw.ac.at/oeai/forschung/praehistorie-wana-archaeologie/mediterrane-oekonomien/mittelhelladische-und-mykenische-keramik-aus-tiryns",
+    "https://visitworldheritage.com/en/eu/the-archaeological-site-of-tiryns/2413784a-f003-4bf6-a528-ab8b52c45d49"
+  ],
+  "src": "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-acces-palatial-vers-1230-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/tirynthe-citadelle-mycenienne-acces-palatial-vers-1230-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-07",
+  "type": "reconstitution 3D photoréaliste interprétative non métrique",
+  "provenance": "image numérique originale générée par IA pour MYTHOS, sans reproduction de reconstitution existante",
+  "sha256": "f84b43fe5e088c62c9e1d6c81e0faaf60e2fd108f2209afb142d80bdaf1f9197",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/tirynthe-citadelle-mycenienne-acces-palatial-vers-1230-av-jc.json",
+  "scientific_sources": [
+    {
+      "institution": "UNESCO — Centre du patrimoine mondial",
+      "title": "Sites archéologiques de Mycènes et de Tirynthe (bien 941)",
+      "url": "https://whc.unesco.org/fr/list/941/",
+      "scope": "chronologie du site, murailles, implantation, statut du patrimoine"
+    },
+    {
+      "institution": "Ministère grec de la Culture / Argolis Culture",
+      "title": "Acropole de Tirynthe",
+      "url": "https://www.argolisculture.gr/fr/liste-de-monuments/acropole-de-tirynthe/",
+      "scope": "occupation, citadelle, palais, périodes archéologiques"
+    },
+    {
+      "institution": "Österreichisches Archäologisches Institut (ÖAI) / Académie autrichienne des sciences",
+      "title": "Mittelhelladische und mykenische Keramik aus Tiryns",
+      "url": "https://www.oeaw.ac.at/oeai/forschung/praehistorie-wana-archaeologie/mediterrane-oekonomien/mittelhelladische-und-mykenische-keramik-aus-tiryns",
+      "scope": "fouilles modernes du grand et du petit mégaron et contexte palatial"
+    },
+    {
+      "institution": "Ministère hellénique de la Culture / World Heritage Journeys Europe",
+      "title": "The Archaeological Site of Tiryns",
+      "url": "https://visitworldheritage.com/en/eu/the-archaeological-site-of-tiryns/2413784a-f003-4bf6-a528-ab8b52c45d49",
+      "scope": "murs et site palatial, présentation institutionnelle"
+    }
+  ],
+  "methodology": "Aucune photogrammétrie, restitution cotée ou validation par les institutions n'est revendiquée. Les éléments non conservés sont conjecturaux.",
+  "publication_status": "main_source_committed_pending_https_verification",
+  "certainty_levels": {
+    "eleve": [
+      "site fortifié de Tirynthe et citadelle haute",
+      "murs cyclopéens et rampe d'accès",
+      "ensemble palatial et mégara"
+    ],
+    "moyen": [
+      "volumes bâtis généraux et séquences de circulation",
+      "usage probable des espaces ouverts"
+    ],
+    "faible": [
+      "toits, décor peint, élévations complètes",
+      "animaux, population, végétation et activité"
+    ]
+  },
+  "chronology_note": "Le repère vers 1230 av. J.-C. n'est pas un état archéologique définitivement daté.",
+  "image_sha256": "f84b43fe5e088c62c9e1d6c81e0faaf60e2fd108f2209afb142d80bdaf1f9197"
+}

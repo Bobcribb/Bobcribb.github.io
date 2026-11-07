@@ -1,0 +1,767 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCCXXI (321)
+
+## MC-114 — Les cendres du sacré : sacrifice, purification, résidus du feu et mémoire des morts, de l'Égypte à la Mésopotamie, de la Grèce à Rome et de l'Iran à l'Inde
+
+**Monographie universitaire originale et intégrale, 6 novembre 2026.**  
+**Collection :** MYTHOS — mythologie comparée (*comparatif*). **Identifiant documentaire historique : MC-114.** Ce numéro n'est pas le numéro canonique du volume, attribué exclusivement par GitHub Actions ; les variables CCCXXI et 321 sont conservées jusqu'au reçu officiel.  
+**Champs disciplinaires :** histoire des religions, philologie grecque, latine, hébraïque, sanskrite et pālie, assyriologie, égyptologie, iranologie, zooarchéologie, anthropologie des rites, philosophie de la transformation et étude critique des images.
+
+### Résumé scientifique
+
+Qu'advient-il d'une matière lorsque l'acte religieux qui la consume semble achevé ? La question n'appelle pas une réponse universelle. Pausanias décrit un autel olympien dont les cendres sacrificielles forment la structure et dont l'entretien relie le prytanée, l'eau de l'Alphée et les desservants de Zeus. Le mont Lycée présente des dépôts cendreux et des os qui demandent une enquête archéologique distincte des récits de sacrifices humains. Dans le Lévitique, le résidu de l'holocauste est déplacé suivant des règles de vêtement et de pureté ; dans les Nombres, des cendres spécifiquement préparées servent à régler l'impureté mortuaire. Ovide fait intervenir la *favilla* d'un veau dans les Parilia. La série mésopotamienne *Maqlû* brûle des figurines de sorcellerie présumée sans instituer nécessairement un culte de leur cendre. L'Égypte pharaonique connaît des instruments précis de combustion des résines, sans autoriser pour autant l'invention d'un « bain de cendre égyptien ». Le *Ṛgveda* adresse au feu funéraire une parole de transmission ; le *Pāśupatasūtra* prescrit l'application régulière de cendre sur le corps ; le *Mahāparinibbāna Sutta* distingue les reliques corporelles du Bouddha et les braises du bûcher. Enfin, les normes zoroastriennes rappellent qu'honorer le feu peut conduire à refuser la crémation des cadavres.
+
+**Thèse principale [I] :** la cendre est un indice de transformation, mais elle ne contient pas par elle-même une signification religieuse. Sa qualification dépend d'opérations sociales : sélectionner, brûler, recueillir, transporter, conserver, répandre, incorporer, ériger ou interdire. **Thèse philosophique [P] :** le résidu interroge la relation entre disparition et institution de la durée ; ce qui demeure après l'acte n'est pas nécessairement un déchet, mais ne devient un objet religieux qu'à travers une pratique contextualisée.
+
+**Protocole épistémique :** [A] donnée primaire textuelle, documentaire ou archéologique effectivement attestée ; [I] inférence contrôlée ; [H] hypothèse nécessitant une preuve complémentaire ; [P] lecture philosophique moderne explicitement seconde ; [N] limite de documentation, doute historiographique ou anachronisme à prévenir. Ce balisage s'applique à l'ensemble des sections.
+
+---
+
+# I. Le problème historique du reste brûlé
+
+### 01. Le mot « cendre » ne désigne pas un objet archéologique simple
+
+[A] Une couche issue d'un foyer peut comprendre des poussières minérales, des charbons, des os blanchis ou carbonisés, des matières organiques partiellement transformées, des fragments de céramique et des sédiments naturels remaniés. [N] Sa couleur grise n'en fait pas immédiatement une offrande, une dépouille ou une matière de purification.
+
+[I] L'étude comparative doit partir d'une distinction entre **cendre d'autel**, **cendre de combustion funéraire**, **matière lustrale préparée**, **résidu d'une destruction apotropaïque** et **motif littéraire de la poussière ou du deuil**. Confondre ces catégories produirait un faux invariant.
+
+### 02. Les quatre régimes de preuve
+
+[A] Un texte prescriptif dit ce que l'on devait faire selon son auteur ; une représentation figurée montre ce qu'une image voulait rendre visible ; des restes fouillés attestent des processus matériels ; un récit d'origine attribue un sens et un commencement. [I] Leur mise en relation peut renforcer une hypothèse si le contexte, la période et le lieu concordent.
+
+[N] Une prescription ne prouve pas que tout le monde obéissait. Une image de fumée ne permet pas d'identifier la résine brûlée. Un dépôt cendreux n'enregistre pas les paroles de l'officiant. Un commentaire tardif ne témoigne pas sans médiation des pratiques de siècles antérieurs.
+
+### 03. Cinq questions adressées à chaque corpus
+
+[I] L'enquête examine : **1. Quel corps ou matériau est brûlé ? 2. Qui contrôle le feu ? 3. Quel type de résidu est retenu ? 4. Quel parcours accomplit-il ensuite ? 5. Qui a autorité pour en déclarer la fonction ?** Ces questions empêchent de comparer des « éléments » désincarnés.
+
+[P] Elles constituent une grammaire des opérations du sacré : la relation entre matière et institution se découvre dans les séquences de gestes. Une cendre est encore brûlée, abandonnée, prélevée, marquée ou valorisée ; son sens se développe à travers des verbes.
+
+### 04. Le piège de la purification universelle
+
+[N] Le feu ne « purifie » pas toujours au sens moral, rituel ou sanitaire. Une flamme peut consommer une offrande, anéantir une figurine, transmettre un mort, chauffer un repas, contaminer un élément précieux ou générer un composé destiné à purifier ultérieurement. Les mécanismes physiques ne résument pas la norme religieuse.
+
+[I] Il faut distinguer l'**élimination d'un agent de souillure**, la **réparation d'un état rituel**, l'**envoi d'une offrande**, la **destruction d'une représentation menaçante** et la **commémoration d'un disparu**. Leurs rapprochements sont intéressants parce qu'ils ne sont pas identiques.
+
+### 05. Matière brûlée, institution durable
+
+[I] Une cendre peut prolonger la durée sociale d'un acte rapide. Les restes d'offrandes accumulés construisent un autel ; les cendres d'une vache rousse sont conservées pour une opération ultérieure ; les braises d'un bûcher deviennent le centre d'un monument dans un récit. [P] Le résidu n'est pas un témoin transparent du passé, mais un support de nouvelle activité.
+
+[N] La capacité de conserver ne prouve pas la continuité inchangée du rite. Un même sanctuaire peut connaître des modifications de participants, de calendriers, d'animaux offerts ou de significations.
+
+### 06. Comparaisons sans ancêtre commun imaginaire
+
+[H] Des ressemblances entre pratiques peuvent naître d'une transmission historique, de conditions matérielles proches ou de solutions indépendantes à des problèmes institutionnels analogues. Les voies de circulation et les chronologies doivent être documentées avant de parler de diffusion. [N] Rien ne permet de déduire de l'existence des cendres à Olympie et dans le *Pāśupatasūtra* une tradition sacrée indo-européenne continue.
+
+[I] Le comparatisme privilégie les opérations documentées, puis cherche des relations historiques lorsqu'elles sont argumentables. Il ne construit pas d'arbre généalogique sur une ressemblance superficielle.
+
+### 07. Distinguer rite, texte et théorie
+
+[N] Les noms de Hegel, Nietzsche, Mary Douglas ou Marcel Mauss interviennent ici comme **instruments modernes d'interprétation**. Ils ne fournissent ni des traductions attestées des mots antiques ni la preuve que leurs catégories étaient partagées par les participants aux rites. [I] La confrontation philosophique a pour valeur d'expliciter des problèmes, non de remplacer la philologie.
+
+[P] La destruction, la négativité, la pureté et la mémoire deviennent des axes de réflexion seulement après la restitution de chaque institution.
+
+---
+
+# II. Philologie comparée des cendres
+
+### 08. Le grec τέφρα : cendre et construction de l'autel
+
+[A] **τέφρα** (*téphra*) est le mot grec décisif chez Pausanias, *Description de la Grèce*, V, 13, 8–11. Le passage décrit un autel de Zeus formé des restes brûlés des cuisses des victimes. [N] Il ne suffit pas de traduire le substantif ; il faut examiner comment il s'articule aux verbes de mélange et d'enduit.
+
+[I] Une substance poudreuse acquiert une place architecturale. L'enjeu est moins le « culte de la cendre » que la construction d'un autel par répétition des sacrifices.
+
+### 09. Le grec σποδός et les sens voisins
+
+[A] **σποδός** (*spodós*) peut également désigner des cendres ou une poussière issue de combustion ; les usages dépendent de la date, du genre et de l'auteur. **κόνις** (*kónis*) désigne surtout poussière ou terre pulvérulente : il serait abusif de transcrire systématiquement les scènes de poussière de deuil en « cendre d'autel ».
+
+[N] Une version française peut gommer les distinctions de mots grecs. L'analyse vérifie chaque lexème au lieu de supposer qu'il désigne le même produit minéral.
+
+### 10. Βωμός, ἐσχάρα et la localisation du brûlage
+
+[A] **βωμός** (*bōmós*) est un autel ; **ἐσχάρα** (*eschára*) désigne notamment un foyer ou dispositif sacrificiel ; la **προθύσις** (*prothysis*) est, dans la description olympienne de Pausanias, la plateforme inférieure du monument. [I] Le vocabulaire ne dit pas seulement ce qui brûle mais où il brûle et qui peut intervenir.
+
+[N] Le contraste schématique « autel haut pour dieux célestes, autel bas pour divinités infernales » ne constitue pas une règle absolue de la religion grecque.
+
+### 11. Latin cinis et favilla
+
+[A] **cinis** (*cineris*) couvre des cendres de foyer ou de bûcher ; **favilla** désigne des restes fins du feu. Dans *Fastes* IV, 733, Ovide emploie **vitulique favilla**, la *favilla* du veau, élément d'une préparation rituelle pour les Parilia. [I] La précision linguistique est nécessaire : il ne s'agit pas des cendres de n'importe quel défunt, mais d'une matière liée à une cérémonie animale.
+
+[N] *Favilla* ne signifie pas automatiquement relique sacrée au sens médiéval ou chrétien.
+
+### 12. Latin suffimen : ce qui sert à la fumigation
+
+[A] Dans Ovide, *Fastes* IV, 731–734, **suffimen** renvoie à une substance de fumigation préparée. Le mélange fait intervenir un sang de cheval, des cendres de veau et de la matière sèche provenant de fèves. [I] Il relie plusieurs moments du calendrier et un contrôle de ressources par des institutions religieuses.
+
+[N] Traduire *suffimen* par « encens » ferait perdre la spécificité du composé. L'odeur n'est pas la seule donnée pertinente : la provenance, le calendrier et le mode d'application font partie du sens.
+
+### 13. Hébreu דֶּשֶׁן : résidu et richesse du feu d'autel
+
+[A] **דֶּשֶׁן** (*dešen*) désigne, dans le lexique sacrificiel, des restes gras ou cendreux d'une offrande consumée et appartient à une famille lexicale comprenant des valeurs de richesse ou de graisse selon l'emploi. Lévitique VI, 3–4 prescrit son prélèvement et son évacuation selon des gestes distincts.
+
+[N] Le traduire mécaniquement par « cendre pure » cacherait la composition possible du foyer : graisse, restes animaux, bois et autres matériaux calcinés.
+
+### 14. Hébreu אֵפֶר : la cendre de Nombres XIX
+
+[A] Le terme **אֵפֶר** (*ʾēfer*) figure dans **אֵפֶר הַפָּרָה** (*ʾēfer happārāh*), « cendre de la vache », en Nombres XIX, 9. Un homme rituellement pur doit la déposer hors du camp dans un lieu pur. [I] La conservation et les critères d'accès comptent autant que la combustion initiale.
+
+[N] Cette substance ne se réduit pas aux déchets d'entretien de l'autel lévitique ; les deux prescriptions sont matériellement et rituellement distinctes.
+
+### 15. Poussière עָפָר : distinguer le déchet du langage de la finitude
+
+[A] **עָפָר** (*ʿāfār*) signifie poussière ou terre ; la formule de Genèse XVIII, 27 associe poussière et cendre. Mais Genèse III, 19 se réfère à la poussière, non à un rite de distribution de cendres. [I] Le langage de l'humilité et la matière purificatrice constituent deux dossiers hétérogènes.
+
+[P] La cendre peut devenir métaphore de précarité ; ce sens ne rend pas toutes les cendres cultuelles des emblèmes de mortalité humaine.
+
+### 16. Sanskrit भस्मन्, भस्मना
+
+[A] **भस्मन्** (*bhasman*) est la cendre ; son instrumental **भस्मना** (*bhasmanā*) ouvre le précepte *bhasmanā triṣavaṇaṃ snāyīta*, *Pāśupatasūtra* I, 2. La forme grammaticale dit le moyen par lequel l'ascète accomplit un bain prescrit. [N] Ni la langue sanskrite ni le verbe du bain n'autorisent à assimiler l'opération à une ablution avec de l'eau.
+
+[I] Le texte montre comment une substance résultant d'un feu devient le moyen régulier d'une discipline corporelle.
+
+### 17. Akkadien Maqlû et pāli dhātu
+
+[A] **Maqlû**, « Brûlement », est le titre d'une série d'incantations mésopotamiennes contre la sorcellerie ; il met au premier plan l'acte, non le reste. Dans le récit bouddhique, les **dhātu**, reliques, doivent être distinguées des braises du bûcher reçues par les Moriyas de Pipphalivana.
+
+[N] Une traduction unique « restes sacrés » effacerait la différence entre une action rituelle de destruction et la distribution d'une mémoire funéraire. Le matériau n'est pas porteur d'une valeur lexicale stable d'une langue à l'autre.
+
+---
+
+# III. Grèce : Zeus, autels de cendres et documentation archéologique
+
+### 18. Pausanias V, 13, 8 : l'autel de Zeus à Olympie
+
+[A] Pausanias rapporte que l'autel de Zeus Olympien est constitué de cendres provenant des cuisses des animaux offerts au dieu. Il mentionne aussi un autel de cendres à Pergame et celui d'Héra à Samos. Texte : [Pausanias, livre V](https://www.theoi.com/Text/Pausanias5A.html). L'expression grecque **ἀπὸ τῆς τέφρας τῶν μηρῶν** spécifie l'origine sacrificielle de la matière.
+
+[I] Le monument est un produit de répétition. L'offrande consommée par le feu ne disparaît pas entièrement ; une fraction participe à la matérialisation du lieu où l'on offrira de nouveau.
+
+### 19. Pausanias V, 13, 9 : l'étage inférieur et le brûlage supérieur
+
+[A] Le voyageur décrit une plateforme inférieure où l'on immole et un étage supérieur où les cuisses sont brûlées. Il fournit des dimensions : environ 125 pieds de circonférence pour l'étage inférieur, 32 pour le supérieur et 22 pieds de hauteur totale. [N] Ces chiffres viennent d'un texte du IIe siècle de notre ère et ne constituent pas le relevé d'une fouille moderne.
+
+[I] L'autel est à la fois un espace d'exécution du sacrifice et l'empreinte matérielle de sacrifices antérieurs. Les restitutions doivent préciser leur part de conjecture géométrique.
+
+### 20. Pausanias V, 13, 10 : restrictions d'accès
+
+[A] Le texte autorise les femmes à accéder dans certaines conditions à la zone basse, mais réserve la montée à la partie supérieure aux hommes. [N] Ce règlement ne décrit pas toutes les pratiques féminines d'Olympie, encore moins toutes les femmes de la Grèce ancienne.
+
+[I] La cendre s'inscrit dans une topographie de privilèges cultuels. Le monument matérialise une distribution des rôles, des gestes et des limites corporelles, et non une pure communauté mystique universelle.
+
+### 21. Pausanias V, 13, 11 : le prytanée, l'Alphée et les devins
+
+[A] Le dix-neuvième jour du mois Élaphios, des devins apportent des cendres depuis le prytanée, les mélangent avec l'eau de l'Alphée et en enduisent l'autel. Le texte précise que cette eau doit être utilisée plutôt qu'une autre. [I] La procédure relie le foyer civique, le fleuve et le monument.
+
+[P] Un autel composé de résidus peut avoir besoin d'un travail continu pour demeurer identique à lui-même. La permanence religieuse se manifeste ici sous la forme d'un entretien institué.
+
+### 22. Pergame et Samos : comparer sans imaginer la diffusion
+
+[A] La présence d'autres autels cendreux chez Pausanias démontre que le phénomène n'est pas présenté comme entièrement unique à Olympie. [N] Le témoignage ne prouve pas une origine commune ni une dépendance historique des trois sanctuaires.
+
+[I] Un inventaire archéologique local serait indispensable pour connaître les dates, les compositions et les transformations propres à chaque lieu. L'analogie de matière sert à poser des questions, pas à conclure à une religion panhellénique immuable.
+
+### 23. Le mont Lycée : une description distincte
+
+[A] Pausanias VIII, 38, 7 décrit un monticule de terre au sommet du mont Lycée comme autel de Zeus Lykaios, près de deux colonnes anciennement ornées d'aigles dorés. Il choisit de ne pas détailler les sacrifices qu'il dit secrets. Source : [Pausanias VIII, 38, 7](https://pausanias.symmachus.org/translation/8/38/7.html).
+
+[N] Le silence de l'auteur ne doit pas être rempli par une reconstitution présentée comme observée. Le caractère secret d'un rite ne révèle pas à lui seul sa nature.
+
+### 24. Le mont Lycée : les dépôts de combustion
+
+[A] Le [Mount Lykaion Excavation and Survey Project](https://www.lykaionexcavation.org/records/ash-altar/) documente un autel de cendres sur le sommet méridional du site, d'environ trente mètres de diamètre, avec accumulation de produits de combustions répétées de victimes animales. La [présentation du site](https://www.lykaionexcavation.org/site/) mentionne os brûlés, tessons, métaux et ex-voto.
+
+[I] L'enquête archéologique établit un usage prolongé du sommet, mais les phases demandent datation et lecture contextuelle. La concentration de cendres ne décrit pas les paroles prononcées au cours d'un sacrifice.
+
+### 25. Sacrifice humain : distinguer rumeur et os identifié
+
+[N] Les traditions anciennes au sujet de Zeus Lykaios comportent des récits de sacrifice humain. L'archéologie ne peut transformer une rumeur en fait que par un faisceau de preuves spécifiques : détermination des espèces, contexte de dépôt, traces sur les os, datation, position stratigraphique. Le projet du mont Lycée appelle à la prudence.
+
+[I] La spectacularisation d'une découverte peut occulter l'accumulation ordinaire et répétée des sacrifices animaux. Un volume universitaire doit éviter le sensationnalisme, même lorsque le sujet est médiatiquement attirant.
+
+### 26. Hésiode, Théogonie 535–557 : le mythe et le rite
+
+[A] Hésiode raconte la ruse de Prométhée au partage d'un bœuf et l'affectation d'une part aux dieux. [N] Le passage ne donne pas le programme technique de l'autel olympien décrit par Pausanias. Une étiologie poétique ne remplace pas la description d'un rituel local.
+
+[I] Ce texte permet cependant de poser la question de la circulation des parts : que veut dire « donner au dieu » lorsque l'offrande est consumée et que les hommes peuvent recevoir d'autres morceaux ? La réponse dépend des traditions et des gestes.
+
+### 27. La cendre comme monument cumulatif
+
+[I] L'autel conserve des traces de cérémonies dans sa matière. Mais la pluie, le vent, le nettoyage et les remaniements perturbent les strates. [P] Un monument de cendres construit une temporalité paradoxale : il se maintient en enregistrant partiellement sa propre destruction.
+
+[N] Une hypothèse sur le nombre de sacrifices ne peut pas être déduite simplement du volume de l'autel ; les taux d'accumulation et d'érosion, la compaction et les changements d'usage doivent être envisagés.
+
+---
+
+# IV. Rome : Fordicidia, Parilia et la transmission de la matière rituelle
+
+### 28. Ovide n'est pas un témoin de la Rome royale
+
+[A] Le poème des *Fastes* date de l'époque augustéenne et organise des récits explicatifs autour du calendrier romain. [N] Une scène présentée comme très ancienne ne constitue pas automatiquement un enregistrement contemporain de la fondation de Rome.
+
+[I] Le texte informe sur la mémoire et les justifications religieuses disponibles à l'époque de son auteur ; il peut aussi transmettre des procédures réelles, mais demande une critique de genre et d'époque.
+
+### 29. Fordicidia : du veau brûlé à la matière disponible
+
+[A] *Fastes* IV, 629–672 décrit les Fordicidia, associées à la fertilité et à Tellus, et la combustion d'un veau non encore né. [I] Le devenir de ses restes est inséparable du calendrier pastoral.
+
+[N] Il serait trompeur d'assimiler ce sacrifice à une crémation funéraire humaine ou d'inventer une correspondance directe avec la vache rousse de Nombres XIX. L'animal, les officiants, l'institution et la finalité divergent.
+
+### 30. Les Parilia du 21 avril
+
+[A] Ovide, *Fastes* IV, 721–806, décrit les Parilia, consacrées à Pales et liées à la protection des troupeaux. La [notice de Mary Beard dans l'Oxford Classical Dictionary](https://academic.oup.com/edited-volume/61673/chapter-abstract/549685888) situe ce rite dans son histoire pastorale et civique. [I] Le calendrier rassemble purification, gestion des troupeaux et mémoire politique de la cité.
+
+[N] La signification de la fête n'a pas nécessairement été identique à toutes les époques.
+
+### 31. Ovide IV, 731–734 : trois ingrédients, non une cendre absolue
+
+[A] Ovide évoque le **suffimen** fourni dans le cadre de Vesta et nomme **sanguis equi**, **vitulique favilla**, ainsi qu'un produit desséché des fèves. Source : [*Fastes*, IV](https://www.greekmythology.com/sources/ovid/fasti/4-parilia). [I] La préparation associe des éléments obtenus dans des circonstances rituelles différentes.
+
+[N] L'efficacité présumée ne peut être attribuée exclusivement à la *favilla*. Les gestes ultérieurs de fumigation et d'aspersion sont également prescrits.
+
+### 32. Les Vestales comme gardiennes
+
+[A] Le poème place la distribution du composé dans le cadre de Vesta. [I] La préparation et la garde sont des fonctions sacerdotales décisives : une matière devient rituellement qualifiée par sa provenance et par les acteurs autorisés à la transmettre.
+
+[P] Cette fonction peut être pensée comme une administration de la transformation. Ce n'est ni la seule présence d'une substance ancienne ni sa rareté chimique qui suffisent à expliquer sa place dans un ordre civique.
+
+### 33. Ovide IV, 735–760 : purifier les troupeaux
+
+[A] Le rite décrit comprend eau, fumées, soufre, feu et matières végétales, ainsi que des prières à Pales et à d'autres puissances. [I] La cendre du veau participe d'un ensemble dynamique plutôt qu'à un geste isolé. Le troupeau, son berger et son espace pastoral sont mis en relation avec une fête civique.
+
+[N] « Purifier » ne doit pas être traduit seulement par « pardonner des péchés ». Les catégories latines et les objectifs pratiques n'obéissent pas à une conception morale unique.
+
+### 34. L'October Horse : une provenance discutée
+
+[A] Les commentaires antiques et modernes relient le sang de cheval utilisé dans les Parilia aux traditions de l'October Horse. [N] Ce rapport exige l'examen des sources spécifiques de la cérémonie d'octobre ; la seule mention d'Ovide ne livre pas son protocole entier.
+
+[I] Il demeure instructif qu'une fête puisse mobiliser le résultat matériel d'un rite plus ancien dans l'année. La cendre et le sang inscrivent une temporalité différée dans la pratique religieuse.
+
+### 35. Deuil romain et cinis
+
+[A] Le latin *cinis* peut désigner les restes d'un bûcher funéraire, conservés ou déposés selon les usages, tandis que les pratiques de crémation et d'inhumation ont une histoire diverse. [N] L'urne d'un mort n'a pas la même fonction que le composé pastoral des Parilia.
+
+[P] La comparaison interne à Rome est féconde précisément par sa divergence : le reste peut soutenir la mémoire familiale ou une procédure de protection des vivants.
+
+---
+
+# V. Bible hébraïque : deux régimes majeurs de cendres
+
+### 36. Lévitique VI : le feu ne s'arrête pas au matin
+
+[A] Le texte de [Lévitique VI](https://bible.usccb.org/bible/leviticus/6) prescrit que le feu de l'autel demeure entretenu et que les restes de l'holocauste soient recueillis. [I] Le processus comprend la combustion nocturne, l'intervention du prêtre au matin et la sortie réglée des résidus.
+
+[N] Les numérotations varient entre traditions hébraïques et chrétiennes. Il faut identifier l'édition citée avant de rapprocher des références.
+
+### 37. Le vêtement de lin puis le changement de vêtements
+
+[A] Lévitique VI, 3–4 dans une numérotation chrétienne courante prévoit une tenue sacerdotale pour prélever la matière et d'autres vêtements pour la transporter hors du camp. [I] Le geste distingue le service au voisinage de l'autel de l'évacuation vers un lieu qualifié de pur.
+
+[N] L'obligation vestimentaire ne prouve ni que le matériau serait sans valeur ni qu'il posséderait une magie autonome. Elle règle le déplacement de zones et de fonctions.
+
+### 38. Terumat ha-deshen et histoire des interprétations
+
+[A] La tradition rabbinique distingue le prélèvement d'une portion de résidu de l'enlèvement des accumulations plus importantes, notamment dans les interprétations de *Tamid* et les commentaires de Rachi. Source : [texte hébreu de Lévitique VI et commentaires](https://www.chabad.org/library/bible_cdo/aid/9907/jewish/Chapter-6.htm). [I] Ce développement enrichit la compréhension de la réception sacerdotale.
+
+[N] Les interprétations rabbiniques tardives doivent être datées comme interprétations ; elles ne sont pas, sans contrôle, une chronique des pratiques du premier Temple.
+
+### 39. Nombres XIX : la vache rousse
+
+[A] Nombres XIX, 1–10 prescrit le sacrifice et la combustion d'une vache rousse avec d'autres éléments employés dans la cérémonie. Un homme pur collecte ensuite les cendres destinées à une préparation rituelle. [I] Le système suppose une matière préparée et conservée, distincte des résidus ordinaires du feu d'autel.
+
+[N] La vache rousse n'est pas un emblème qu'on peut transférer à toutes les sociétés de pasteurs. Les exigences du texte et le statut de ses acteurs constituent un dispositif spécifique.
+
+### 40. Nombres XIX, 9 : le lieu pur hors du camp
+
+[A] La formulation hébraïque **אֵפֶר הַפָּרָה** est attestée en Nombres XIX, 9, où la cendre doit être déposée en un endroit pur en vue d'une eau de purification. [Texte hébreu et interlinéaire](https://fellowshipbook.org/en/numbers/19/9). [I] La localisation est constitutive du rite : on ne peut pas choisir arbitrairement où abandonner les restes.
+
+[N] Une analogie avec l'autel olympien serait incomplète : l'un accumule un monument cultuel, l'autre met une préparation en réserve pour un contact futur.
+
+### 41. Nombres XIX : impur et pur, un paradoxe réglé
+
+[A] Dans Nombres XIX, 7–10 et 11–22, des participants à la préparation sont soumis à des obligations de lavage ou à une impureté temporaire, alors que le composé sert à régler l'impureté liée au contact des morts. [I] La valeur d'un produit ne se transmet pas mécaniquement à tous ceux qui le manipulent.
+
+[P] Le paradoxe montre que la pureté est une relation ordonnée de statuts, de lieux, de corps et de temps, non une qualité physique qui traverserait uniformément les objets.
+
+### 42. L'eau de purification n'est pas « l'eau bénite » universelle
+
+[A] La formule **מֵי נִדָּה** (*mê niddāh*) appartient au vocabulaire technique de Nombres XIX. [N] La rendre sans explication par « eau bénite » importe des références chrétiennes postérieures. L'eau, la matière cendreuse, les gestes d'aspersion et les délais doivent être étudiés ensemble.
+
+[I] La comparaison ne doit pas s'arrêter à la présence d'eau ou de cendres : c'est une procédure de règlement d'une contamination déterminée.
+
+### 43. Genèse XVIII, 27 : poussière et cendre comme formule d'humilité
+
+[A] Abraham se désigne par une formule associant poussière et cendre dans son dialogue avec Dieu. [I] Il s'agit d'une prise de parole qui marque la disproportion entre l'interlocuteur humain et la divinité, non d'un sacrifice visible.
+
+[P] La cendre peut être le matériau d'une image de finitude. Cette fonction rhétorique n'est pas la même que le rôle de la cendre recueillie dans Nombres XIX.
+
+### 44. Jonas III, 6 et Esther IV, 1 : le deuil devenu public
+
+[A] Dans Jonas III, 6, le roi de Ninive revêt des signes d'humiliation et s'assied sur la cendre ; Esther IV, 1 associe sac et cendre à la détresse de Mardochée. [N] Ces scènes doivent être lues comme récits avec leurs objectifs littéraires, sans garantir l'historicité de chacune des cérémonies décrites.
+
+[I] Le symbole peut rendre visible une crise ou une transformation de position sociale. Rien n'indique qu'il s'agisse de la cendre préparée selon Nombres XIX.
+
+### 45. Job XLII, 6 : la précaution de traduction
+
+[A] Le verset final du discours de Job comporte une référence à la poussière et à la cendre, mais la nuance exacte des verbes voisins reste discutée dans la philologie biblique. [N] On ne peut en déduire un « rituel de repentir » uniformément codifié sans étudier les difficultés syntaxiques.
+
+[P] L'abaissement, la consolation ou la rétractation peuvent entrer dans les interprétations ; les options philologiques doivent être énoncées plutôt que fondues en morale évidente.
+
+### 46. Réception chrétienne : le mercredi des Cendres
+
+[A] Des pratiques d'imposition de cendres ont une histoire pénitentielle et liturgique chrétienne qui s'élabore progressivement, surtout dans l'Occident médiéval. [N] Il serait inexact de les décrire comme la continuation institutionnelle inchangée du rite de Nombres XIX ou de les attribuer directement à la communauté apostolique.
+
+[I] Un même matériau peut recevoir une nouvelle économie de sens à travers des prières, une année liturgique et une ecclésiologie différentes.
+
+---
+
+# VI. Mésopotamie : le brûlage des figurines dans Maqlû
+
+### 47. Définition du corpus
+
+[A] La série akkadienne *Maqlû* comprend huit tablettes d'incantations et une tablette de prescriptions rituelles. L'édition critique et la traduction de Tzvi Abusch sont essentielles, ainsi que le [Corpus of Mesopotamian Anti-witchcraft Rituals de Würzburg](https://www.phil.uni-wuerzburg.de/cmawro/magic-witchcraft/maqlu/). [I] Le dossier associe paroles, gestes, objets et moments d'une procédure de lutte contre la sorcellerie présumée.
+
+[N] Le texte reconstitué résulte d'une histoire manuscrite ; il ne faut pas le présenter comme une observation ethnographique directe.
+
+### 48. Brûler une représentation, pas nécessairement une personne
+
+[A] *Maqlû* prévoit le brûlage de figurines d'argile, de graisse ou d'autres matières représentant les auteurs présumés d'un maléfice. Dans la section VII, 183–203 commentée par le projet, les effets matériels de la flamme sont explicites. [N] Rien n'autorise à convertir les figurines en êtres humains effectivement condamnés au bûcher.
+
+[I] La substitution est un mécanisme rituel qui détruit le signe ou le support de l'adversaire. La comparaison avec un sacrifice animal ne vaut pas comme identité d'opération.
+
+### 49. La logique quasi judiciaire du rite
+
+[A] Le programme du *Maqlû* fait intervenir les puissances célestes et infernales et construit la défense d'un patient contre une attaque injuste. Les spécialistes ont souligné le langage de jugement et de réparation. [I] Le feu participe à une redistribution de positions : la victime présumée cherche à être déliée d'une accusation ou d'un sort.
+
+[P] Le rituel opère une transformation de relations sociales imaginées à travers la destruction matérielle d'un substitut.
+
+### 50. Le récipient et les étapes du feu
+
+[A] Le dispositif documenté comprend un foyer ou récipient central protégé, des figurines et des incantations prononcées selon une succession d'actes. [N] Le fait que certains objets fondent ou éclatent ne signifie pas que leur cendre ait toujours été récupérée pour être portée ou conservée comme talisman.
+
+[I] Le sujet du dossier est avant tout l'**acte de brûler**. Une comparaison des restes doit commencer par l'absence de prescription positive portant sur eux, lorsqu'elle est constatée.
+
+### 51. Destruction symbolique et pouvoir de la parole
+
+[I] La combustion n'agit pas seule : elle est accompagnée de paroles destinées à fixer la cible, la causalité attribuée au mal et la relation avec les dieux. [P] Le rite illustre comment une institution peut construire un objet pour pouvoir le défaire ; cette interprétation reste contemporaine, non une traduction akkadienne.
+
+[N] Employer le mot « magie » comme marque de sous-développement des sociétés mésopotamiennes serait un préjugé historiographique. L'enquête doit conserver la cohérence propre du dispositif savant et rituel.
+
+### 52. Maqlû et Olympie : le contraste central
+
+[I] Dans l'un des cas, le résidu participe à l'entretien d'un autel visible et durable ; dans l'autre, le brûlage défait un substitut dangereux. La ressemblance du feu masque des fonctions divergentes. [P] Il s'agit d'une leçon générale contre la fascination pour les éléments : les opérations possèdent des finalités, et les finalités ne se déduisent pas de la chimie.
+
+[N] On ne saurait prouver une tradition commune en opposant simplement ces deux textes.
+
+---
+
+# VII. Égypte : fumée, souveraineté et limite de la preuve cendreuse
+
+### 53. Le brûle-encens 41.2.2 du Metropolitan Museum
+
+[A] Le [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/546100) conserve un brûle-encens égyptien en bronze au plomb, numéro **41.2.2**, de la Basse Époque (525–343 avant notre ère). L'instrument prend la forme d'un bras et porte une figure royale agenouillée près du récipient pour l'encens. [I] Il documente une opération cultuelle où le roi est présenté comme officiant devant une divinité.
+
+[N] L'objet atteste la fumigation, non une prescription de bain ou de dépôt sacré des cendres produites.
+
+### 54. Bubastis : le brûle-encens ptolémaïque 07.228.183a–d
+
+[A] Le [Met, n° 07.228.183a–d](https://www.metmuseum.org/art/collection/search/548219), provient de Tell Basta et appartient à l'époque ptolémaïque ; il s'agit d'un objet d'argent avec couvercle perforé et chaîne. La conception permet à la fumée de se diffuser. [I] On peut l'étudier comme une technique de circulation odorante.
+
+[N] Son existence ne permet pas d'affirmer quel mélange fut effectivement brûlé lors de chacune de ses utilisations, ni que le contenu cendreux fut systématiquement consacré.
+
+### 55. Le roi et la médiation cultuelle
+
+[A] L'iconographie pharaonique présente souvent le roi comme l'officiant privilégié devant les dieux, même si le service concret de temples mobilisait d'autres personnels. Le brûle-encens 41.2.2 inscrit ce rôle dans l'objet. [I] L'agent qui présente et celui qui fabrique la matière peuvent être distingués institutionnellement.
+
+[P] La matérialité rituelle doit être étudiée avec l'idéologie du pouvoir : la capacité d'offrir n'est pas seulement une fonction technique.
+
+### 56. Ne pas fabriquer une cérémonie absente des sources
+
+[N] Le *kyphi*, les résines, les encensoirs et les scènes d'offrande documentent d'importantes pratiques égyptiennes. Ils ne fournissent pas, à eux seuls, la preuve d'une application rituelle des cendres correspondant au *Pāśupatasūtra* ou à Nombres XIX. [I] Un résultat négatif est préférable à une fausse symétrie.
+
+[P] L'Égypte contribue à la comparaison en montrant qu'un rituel du feu peut valoriser ce qui **s'élève** dans la fumée plutôt que ce qui **reste** au fond du vase.
+
+---
+
+# VIII. Veda et traditions śivaïtes : de la crémation à l'ascèse
+
+### 57. Ṛgveda X, 16 : parler au feu
+
+[A] Le *Ṛgveda* X, 16 est un hymne funéraire adressé à Agni. Le vers 1 demande au dieu de ne pas entièrement détruire le défunt ; les vers 3–5 évoquent les devenirs du souffle et d'autres composantes et l'accès aux ancêtres. [Texte et traduction du *Ṛgveda* X, 16](https://www.sacred-texts.com/hin/rigveda/rv10016.htm).
+
+[I] Agni n'est pas seulement la flamme comme processus chimique, mais un interlocuteur divin de la transformation du mort.
+
+### 58. Mā ... vi daha : contre la consommation totale
+
+[A] Le sanskrit **mā ... vi daha** au premier vers formule une requête négative contre la destruction excessive par le feu. [I] L'hymne demande une action réglée, non le refus pur et simple de la crémation.
+
+[N] Il serait fautif d'en déduire une pratique funéraire uniforme à l'échelle de toutes les sociétés védiques, a fortiori de l'Inde entière et de toutes ses périodes.
+
+### 59. Le corps transformé et la pluralité de ses devenirs
+
+[A] Le vers X, 16, 3 évoque notamment l'œil et le soleil, le souffle et le vent, ainsi que d'autres devenirs. [I] Le corps ne se réduit pas au reste minéral que le feu laisse derrière lui. La personne est pensée dans un réseau de relations cosmologiques et rituelles.
+
+[P] La lecture philosophique de la « dispersion » doit rester une lecture ; elle ne justifie pas l'importation d'une théorie moderne des éléments dans les catégories du poème.
+
+### 60. Le problème des feux distincts
+
+[N] Feu de sacrifice, foyer domestique et bûcher funéraire peuvent être reliés dans les traditions indiennes sans être confondus. Les prescriptions de leurs combustibles, officiants, positions et résultats doivent être documentées texte par texte.
+
+[I] Il serait incorrect de partir de la présence d'Agni pour attribuer à chaque cendre un statut de relique divine. Le sacré est organisé par les institutions et les actes, non transmis automatiquement par simple contact avec une flamme.
+
+### 61. Pāśupatasūtra I, 1 : un cadre ascétique postérieur
+
+[A] Le *Pāśupatasūtra* expose une discipline liée à Paśupati. Sa transmission, son attribution traditionnelle et ses commentaires demandent une chronologie critique. Source : [GRETIL, texte sanskrit](https://www.gretil.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pAzupatasUtra.htm). [N] La proximité linguistique avec les hymnes védiques n'abolit pas la différence de corpus et de contexte.
+
+[I] Cette discipline fait de la cendre un matériau régulier de pratique personnelle plutôt que seulement le produit de funérailles.
+
+### 62. Pāśupatasūtra I, 2 : bhasmanā triṣavaṇaṃ snāyīta
+
+[A] La prescription sanskrite **भस्मना त्रिषवणं स्नायीत** invite l'ascète à se baigner de cendre à trois moments de la journée. [Texte devanāgarī](https://sanskritdocuments.org/doc_shiva/pAshupatasUtram.html). [I] Le « bain » ne peut être réduit au lavage moderne à l'eau : le moyen du geste est la cendre.
+
+[P] Le paradoxe apparent « se purifier en se couvrant de poussière » met en évidence l'écart entre catégories sanitaires et discipline religieuse.
+
+### 63. Pāśupatasūtra I, 3 : bhasmani śayīta
+
+[A] Le texte poursuit : **भस्मनि शयीत**, « qu'il repose dans la cendre ». [I] Le matériau devient un espace et une temporalité de la discipline, non un simple talisman isolé.
+
+[N] Ce passage ne précise pas à lui seul que toute cendre doit provenir d'un bûcher funéraire. La provenance doit être étudiée à partir des prescriptions parallèles et des commentaires ; la généralisation des iconographies d'ascètes est inadmissible.
+
+### 64. Le tripuṇḍra et la chronologie des marques corporelles
+
+[A] Différentes traditions śivaïtes emploient des marques de cendres, notamment trois lignes sur le front ou le corps, souvent désignées par le terme *tripuṇḍra*. [N] Les attestations textuelles et iconographiques ne sont pas toutes contemporaines des premiers textes pāśupata.
+
+[I] Il faut restituer les étapes de la transmission : discipline ascétique spécifique, réemplois doctrinaux, pratiques locales et images postérieures. La cendre ne constitue pas une essence intemporelle de « l'hindouisme ».
+
+### 65. Entre mort, renoncement et appartenance
+
+[P] La cendre peut faire réfléchir à l'abandon d'un statut antérieur, à la mortalité et à la puissance de transformation d'un corps religieux. Cette interprétation ne devient pas une preuve historique sans passage précis qui l'énonce. [I] Les habitudes corporelles quotidiennes ont aussi une fonction de reconnaissance et de distinction communautaire.
+
+[N] La comparaison avec le mercredi des Cendres chrétien ne doit ni supposer contact historique ni effacer des conceptions très différentes de l'ascèse et du salut.
+
+---
+
+# IX. Bouddhisme : les braises du bûcher comme mémoire
+
+### 66. Mahāparinibbāna Sutta : texte et statut historique
+
+[A] La fin du [*Dīgha Nikāya* 16](https://buddhadust.net/dhamma-vinaya/pts/dn/dn.16.rhyt.pts.htm) présente la mort du Bouddha, sa crémation et le partage de ses restes. Les traditions textuelles possèdent des variantes de détail ; le récit doit être étudié comme transmission religieuse, non comme rapport d'enquête contemporain des événements.
+
+[I] La scène relie funérailles, autorité, mémoire et multiplicité des communautés dépositaires.
+
+### 67. Les huit parts corporelles
+
+[A] Le récit attribue huit portions de reliques corporelles à différents groupes après une négociation où intervient le brahmane Doṇa. [I] La division crée plusieurs lieux de commémoration légitimes ; elle ne représente pas un calcul de composition matérielle des cendres.
+
+[P] Le corps disparu est au centre d'une géographie mémorielle qui dépasse l'absence physique de la personne.
+
+### 68. Le récipient de Doṇa
+
+[A] Le brahmane Doṇa obtient le récipient utilisé pour partager les reliques, selon cette tradition. Le monument construit pour lui est distingué des monuments des huit parts corporelles. [I] Un contenant peut acquérir un rôle mémoriel propre, même sans être identique à l'objet auquel il a servi.
+
+[N] Le récit ne doit pas être transformé en identification archéologique certaine d'une urne effectivement conservée aujourd'hui.
+
+### 69. Les Moriyas de Pipphalivana : la dixième fondation
+
+[A] Les Moriyas arrivant après la distribution reçoivent les braises ou restes du bûcher ; la narration énumère huit stupas pour les reliques, un neuvième pour le récipient et un dixième pour les braises. [Source : fin de DN 16](https://www.vipassana.org/canon/digha/dn16a.html). [I] La commémoration ne suppose pas la possession d'une part corporelle de premier rang.
+
+[P] La différence de matériau n'abolit pas le droit d'ériger un monument et de produire un lieu de mémoire.
+
+### 70. Dhātu, ossements et braises : trois mots à distinguer
+
+[N] Une relique corporelle peut comprendre des fragments d'os calciné, tandis qu'une braise du combustible est un résidu distinct. Le français « cendres du Bouddha » brouille ce partage si l'on ne précise pas le référent. [I] Le texte, en mentionnant les catégories séparément, préserve un ordre de distribution et un récit de légitimation.
+
+[P] La mémoire cultuelle n'est pas une simple équivalence physico-chimique entre les restes.
+
+### 71. Stupa et archéologie : prudence iconographique
+
+[A] Des stupas historiquement datés peuvent être étudiés à partir des inscriptions, de la fouille et de leur architecture. [N] On ne doit pas identifier une photographie d'un stupa quelconque au tombeau des braises de Pipphalivana parce qu'il est d'aspect ancien.
+
+[I] Un site de culte devient pertinent grâce au récit, à l'entretien et à la communauté qui le reconnaît. La matière seule ne fonde pas un lien archéologique démontrable.
+
+---
+
+# X. Iran : la cendre, le feu pur et le refus de la contamination
+
+### 72. Pourquoi le zoroastrisme est un contre-exemple essentiel
+
+[A] Les traditions zoroastriennes accordent une place importante à la pureté du feu, de la terre et de l'eau. La présence d'un cadavre peut être comprise comme un risque de souillure. [*Encyclopaedia Iranica*, « Burial iii »](https://www.iranicaonline.org/articles/burial-iii/).
+
+[N] Les sociétés iraniennes anciennes connaissent une pluralité historique de pratiques funéraires. Les prescriptions sacerdotales ne peuvent être projetées sur toutes les régions et toutes les périodes de l'empire perse.
+
+### 73. La crémation comme menace plutôt que purification
+
+[A] La littérature normative zoroastrienne s'oppose à la crémation, interprétée comme une pollution du feu par la matière cadavérique. [I] Une religion qui valorise le feu ne valorise donc pas nécessairement la production de cendres humaines.
+
+[P] Cette inversion détruit le cliché d'un symbolisme de feu obligatoirement purificateur. La relation à l'élément est construite par les interdits, non déduite de sa chaleur.
+
+### 74. Vīdēvdād VIII : restaurer le feu
+
+[A] Les passages de *Vīdēvdād* VIII, 73–96, tels qu'analysés dans [« Cleansing i. In Zoroastrianism »](https://www.iranicaonline.org/articles/cleansing-i/), décrivent des procédures de purification de feux contaminés, impliquant une succession de foyers. [I] La pureté ne résulte pas d'un contact indifférencié avec n'importe quelle flamme.
+
+[N] Il faut distinguer normes textuelles, commentaires moyen-perses et témoignages de pratique moderne pour éviter une continuité reconstruite sans preuve.
+
+### 75. Cendres de bois et entretien des instruments
+
+[A] La même étude iranologique mentionne le nettoyage d'objets de service religieux avec des cendres de bois, suivi de lavage et d'autres opérations rituelles. [I] Ici, la cendre peut être un agent technique dans une chaîne de purification, sans constituer le centre du culte ni une relique funéraire.
+
+[N] Cet emploi ne démontre aucun emprunt aux prescriptions de Nombres XIX ou au śivaïsme. La similitude matérielle n'est pas un marqueur de parenté historique.
+
+---
+
+# XI. Comparaison transversale des opérations
+
+### 76. Un tableau de contrôle documentaire
+
+| Aire et dossier | Source primaire ou objet | Opération décisive | Ce qu'il ne faut pas en déduire |
+|---|---|---|---|
+| Olympie | Pausanias V, 13, 8–11 | Enduire et entretenir l'autel avec des cendres | Rite grec unique de purification |
+| Mont Lycée | Pausanias VIII, 38, 7 ; projet de fouilles | Accumuler des résidus sacrificiels | Preuve automatique de sacrifice humain |
+| Rome | Ovide, *Fastes* IV | Préparer la *favilla* pour un *suffimen* | Identité avec toute cendre funéraire |
+| Lévitique | Lv VI | Prélever et déplacer le résidu d'autel | Cendre commune à Nombres XIX |
+| Nombres | Nb XIX | Conserver une cendre d'animal pour asperger | Purification morale universelle |
+| Mésopotamie | *Maqlû* | Brûler des figurines de substitution | Mise au bûcher réelle de sorciers |
+| Égypte | Met 41.2.2 ; 07.228.183 | Présenter des matières odorantes au feu | Rite du bain de cendres démontré |
+| Veda | *Ṛgveda* X, 16 | Confier au feu la transformation du mort | Doctrine uniforme de la cendre |
+| Śivaïsme | *Pāśupatasūtra* I, 2–3 | Se baigner et reposer dans la cendre | Origine nécessairement funéraire de chaque cendre |
+| Bouddhisme | DN 16, fin | Répartir reliques et braises en monuments | Identité matérielle des deux catégories |
+| Iran | Vīdēvdād et traditions de pureté | Préserver le feu de souillure | Obligation religieuse de crémation |
+
+### 77. Architecture, préparation, vêtement, relique, rejet
+
+[I] Les grands régimes observés diffèrent par leur opération finale. À Olympie, le reste devient **architecture**. À Rome et en Nombres XIX, il devient **préparation différée**. Chez les Pāśupata, il entre dans le **milieu corporel**. Dans DN 16, il soutient une **mémoire monumentale**. Dans *Maqlû*, le fait de brûler vise surtout la **suppression d'un substitut menaçant**. Dans les normes zoroastriennes, on cherche à éviter certaines formes de combustion.
+
+[P] Cette typologie respecte les différences mieux qu'une liste de « symboles universels ».
+
+### 78. La temporalité des restes
+
+[I] On peut distinguer trois moments : **la production immédiate**, **la conservation intermédiaire** et **le réemploi à distance**. Une quatrième situation consiste en l'**absence de réemploi documenté**, qu'il faut nommer sans extrapolation. [P] Le reste rend le temps matériel : quelque chose d'une action précédente devient disponible, ou indisponible, pour la suivante.
+
+[N] Les rites antiques ne sont pas tous cycliques. Une crémation individuelle, une répétition quotidienne ascétique et un entretien annuel d'autel appartiennent à des régimes différents.
+
+### 79. Les agents et les gardiens
+
+[I] L'officiant d'un autel grec, le prêtre du Lévitique, la personne chargée de garder les cendres de Nombres XIX, la Vestale, l'exorciste mésopotamien, l'ascète pāśupata et les communautés du récit bouddhique ont des statuts distincts. Leur autorité relève de calendriers, de lois ou de traditions variées.
+
+[P] Le sacré se comprend ici comme une qualification distribuée : qui peut toucher, transporter, confier, recevoir ou montrer le reste ? Une substance ne « parle » pas sans relations de garde et d'interprétation.
+
+### 80. Effacement, production, conservation : trois rapports au feu
+
+[I] Brûler peut avoir pour finalité la disparition d'une représentation, la transformation d'une offrande ou la création d'un matériau destiné à durer. Ces finalités peuvent coexister, mais ne doivent pas être présupposées. [N] L'expression « sacrifice par le feu » est trop large pour recouvrir sans distinction *Maqlû*, la crémation du Bouddha et le brûlage des cuisses à Olympie.
+
+[P] Le comparatisme commence lorsque l'on explique **en quoi les gestes diffèrent** et pourquoi cette différence est historiquement signifiante.
+
+### 81. Le faux invariant du deuil
+
+[N] La cendre signale le deuil dans certains textes bibliques, mais les cendres de l'autel olympien, celles du *suffimen* et le bain pāśupata n'ont pas pour finalité attestée le deuil d'un individu. [I] La destruction matérielle peut susciter une analogie moderne avec la mort ; elle ne suffit pas à en faire l'intention du rite.
+
+[P] Une réflexion existentialiste sur la finitude est possible, mais elle doit être étiquetée comme interprétation, non comme donnée religieuse ancienne.
+
+### 82. La question de l'efficacité
+
+[I] Dans certains contextes, le texte attribue directement un effet à la cendre ou à la préparation qui la contient ; dans d'autres, il décrit simplement une manipulation ; ailleurs, la cendre demeure sans statut prescrit. [N] Il est impossible d'inférer partout une « énergie sacrée » au sens vague et transhistorique.
+
+[P] L'efficacité rituelle est à analyser dans des réseaux de catégories, d'officiants, de gestes, de lieux et de croyances, et non comme une propriété non testable attribuée arbitrairement à un matériau.
+
+---
+
+# XII. Philosophie critique : Hegel, Nietzsche, Mauss, Douglas
+
+### 83. Hegel : la négativité comme analogie, non comme origine
+
+[P] La pensée hégélienne de la négativité et de la médiation offre un vocabulaire pour considérer comment une transformation détruit un état antérieur tout en produisant un nouveau support d'activité. On peut lire l'autel olympien comme image de continuité à travers consommation, mais cette proposition est **une interprétation contemporaine**.
+
+[N] Les Grecs d'Olympie ne furent pas « hégéliens avant Hegel » ; il faut éviter de leur attribuer une dialectique qu'ils ne formulent pas dans les sources conservées.
+
+### 84. Nietzsche : résister à l'abstraction et au moralisme
+
+[P] Une lecture inspirée de Nietzsche rappelle que les valeurs ne tombent pas dans les objets : elles se forment dans des pratiques et des conflits d'interprétation. Appliquée au dossier, elle invite à examiner les corps qui recueillent, jettent, touchent ou refusent la cendre.
+
+[N] Nietzsche ne fournit pas une doctrine des Parilia ou des cendres pāśupata ; ses analyses de l'ascétisme dans *La Généalogie de la morale* sont un cadre possible, à ne jamais substituer aux textes anciens.
+
+### 85. Hubert et Mauss : le sacrifice comme suite d'actes
+
+[P] Dans l'*Essai sur la nature et la fonction du sacrifice* (1899), Hubert et Mauss analysent le passage entre états, l'entrée et la sortie du rite, et l'encadrement institutionnel. Ce modèle permet de se demander à quelle étape une cendre est produite puis séparée du geste premier.
+
+[N] Toute combustion rituelle n'est pas un sacrifice ; un exorcisme de figurine ou un rite de reliques ne se laisse pas ramener mécaniquement au sacrifice animal grec.
+
+### 86. Mary Douglas : pureté et ordre
+
+[P] *Purity and Danger* (1966) fournit une ressource pour interpréter les règles de pureté comme classifications sociales et symboliques, sans les réduire à de l'hygiène. Le statut paradoxal des cendres de la vache rousse en est un cas stimulant.
+
+[N] Une lecture exclusivement sociologique effacerait les conceptions religieuses propres aux textes et leurs interprétations internes. La théorie doit être mise à l'épreuve, non appliquée comme réponse automatique.
+
+### 87. Catherine Bell : différencier par le geste
+
+[P] Catherine Bell, *Ritual Theory, Ritual Practice* (1992), permet d'examiner la manière dont un acte ordinaire, comme nettoyer ou transporter, se différencie quand il est inséré dans une pratique ritualisée. [I] Changer de vêtements pour déplacer les restes de l'autel, enduire un monument avec de l'eau déterminée, ou appliquer régulièrement de la cendre sur son corps sont des opérations réglées.
+
+[N] La catégorie de ritualisation ne démontre pas à elle seule l'existence d'une origine commune aux traditions comparées.
+
+### 88. Le reste comme archive lacunaire
+
+[P] Une cendre conserve des indices de ce qui a brûlé, mais efface des formes, des couleurs et des paroles. L'archive matérielle est à la fois trace et perte. [I] Les méthodes archéologiques permettent parfois d'identifier une espèce animale, un type de combustion ou une phase d'occupation, mais non de retrouver sans médiation l'intention d'un officiant.
+
+[N] Il faut toujours distinguer la valeur heuristique d'une image philosophique et la portée probatoire d'un résultat de laboratoire.
+
+### 89. Le pouvoir de faire durer
+
+[P] Entretenir un autel, conserver une matière purificatrice ou bâtir un stupa sont des façons de convertir un événement fugace en relation durable. La durée est socialement produite : il faut des acteurs, des calendriers, des lieux et une mémoire.
+
+[I] Le pouvoir de qualifier les restes n'est cependant pas partout un pouvoir royal. Prêtres, ascètes, collectivités et auteurs de textes interviennent selon des institutions qui ne se ressemblent pas nécessairement.
+
+### 90. Contre une téléologie de la religion des éléments
+
+[N] Aucune chronologie ne permet d'affirmer que l'humanité serait passée d'un âge « archaïque » de la cendre à un âge « avancé » de la purification spirituelle. Le monde antique connaît des normes complexes, et les pratiques tardives peuvent réélaborer des matériaux anciens.
+
+[P] La question philosophique pertinente n'est pas « quelle religion est la plus développée ? », mais « comment les êtres humains donnent-ils forme à l'après-coup d'une transformation ? ».
+
+---
+
+# XIII. Programme iconographique sourcé
+
+### 91. Olympie : plan et restitution séparés
+
+[A] Le plan archéologique de l'Altis présenté par [Smarthistory](https://smarthistory.org/greek-sanctuaries-artistic-hubs/) situe les monuments majeurs. Pour une restitution de l'autel de Zeus, les proportions décrites par Pausanias V, 13, 9 peuvent servir de contrainte. [N] Une maquette ne doit pas être présentée comme photographie d'une structure encore intacte.
+
+**Légende proposée :** « Autel de cendres de Zeus à Olympie : localisation antique et hypothèse de volume fondée sur Pausanias ; forme exacte non intégralement conservée. »
+
+### 92. Mont Lycée : une photographie, une stratigraphie
+
+[A] Le [Mount Lykaion Excavation and Survey Project](https://www.lykaionexcavation.org/site/) offre des données institutionnelles permettant d'illustrer le sommet et les résultats du programme de fouilles. [I] Une coupe stratigraphique, accompagnée d'une carte, ferait comprendre la distinction entre dépôt attesté et récit littéraire.
+
+[N] Ne jamais légender une accumulation d'os « sacrifice humain » sans diagnostic scientifique indépendant. Vérifier l'autorisation de reproduction des photographies du projet.
+
+### 93. Égypte : le brûle-encens de la Basse Époque
+
+[A] L'objet [Met 41.2.2](https://www.metmuseum.org/art/collection/search/546100), bronze au plomb, 525–343 avant notre ère, représente une technologie de l'offrande d'encens avec une figure royale. [I] Son intérêt iconographique est de montrer le geste d'offrir la fumée, par contraste avec le stockage de cendres.
+
+[N] Le catalogue ne le qualifiera pas de « reliquaire de cendres d'Aton », identification dépourvue de preuve.
+
+### 94. Égypte : Bubastis à l'époque ptolémaïque
+
+[A] Le [Met 07.228.183a–d](https://www.metmuseum.org/art/collection/search/548219), brûle-encens en argent avec couvercle et chaîne, montre une autre solution technique. L'objet doit être accompagné d'un inventaire, de sa provenance et de sa datation.
+
+[N] Il ne documente pas nécessairement la nature exacte de la résine ou des cendres après chaque usage ; la notice ne doit pas affirmer plus que le musée.
+
+### 95. Rome : les trois composants des Parilia
+
+[I] Une figure éditoriale originale, **sans prétention de photographie historique**, peut présenter les trois ingrédients du *suffimen* décrit par Ovide IV, 731–734, et les relations calendaires avec les Fordicidia. La source textuelle doit figurer sous la légende : [*Fastes* IV](https://www.greekmythology.com/sources/ovid/fasti/4-parilia).
+
+[N] Ne pas utiliser de représentation photoréaliste sans signaler les hypothèses sur les costumes, les récipients et la scène.
+
+### 96. Bible hébraïque : un tableau philologique plutôt qu'une reconstruction arbitraire
+
+[I] Une planche comparant **דֶּשֶׁן**, **אֵפֶר** et **עָפָר** avec leurs passages peut être produite à partir d'éditions vérifiées. [N] Une peinture moderne de la vache rousse n'est pas une image documentaire de la cérémonie du désert.
+
+[A] L'étiquetage doit indiquer les livres, chapitres, versets et traductions utilisées.
+
+### 97. Inde : inscrire les deux sūtra pāśupata
+
+[A] Illustrer les deux formules **bhasmanā triṣavaṇaṃ snāyīta** et **bhasmani śayīta** avec leur transcription et leur traduction critique ; texte électronique : [GRETIL](https://www.gretil.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pAzupatasUtra.htm). [N] Une photographie actuelle d'un renonçant n'établit pas sa filiation pratique directe avec les prescriptions anciennes.
+
+[I] Un montage de texte et de photographie ne devra pas effacer les écarts chronologiques entre documents.
+
+### 98. Bouddhisme : carte du récit de partage des reliques
+
+[I] Une carte documentaire peut présenter les différents destinataires de DN 16 et distinguer les huit parts corporelles, le récipient de Doṇa et les braises des Moriyas. [N] Les localisations doivent conserver leur statut d'identification traditionnelle ou proposée.
+
+[A] Source narrative : [*Mahāparinibbāna Sutta*](https://www.vipassana.org/canon/digha/dn16a.html). Aucune photographie de stupa moderne ne doit être attribuée sans preuve au monument original de Pipphalivana.
+
+### 99. Iran : représenter les interdits sans les caricaturer
+
+[I] Une infographie originale peut opposer la purification normative du feu, la prohibition de sa contamination mortuaire et le nettoyage des objets de service. [A] Sources documentaires : [Iranica, *Cleansing*](https://www.iranicaonline.org/articles/cleansing-i/) et [*Burial*](https://www.iranicaonline.org/articles/burial-iii/).
+
+[N] Éviter toute image qui présenterait l'ensemble des traditions iraniennes de l'Antiquité comme matériellement identiques aux pratiques des communautés zoroastriennes contemporaines.
+
+---
+
+# XIV. Bibliographie scientifique et édition des sources
+
+### 100. Sources primaires grecques et latines
+
+- **Pausanias**, *Description de la Grèce*, V, 13, 8–11 ; VIII, 38, 7. [Texte anglais, livre V](https://www.theoi.com/Text/Pausanias5A.html) ; [livre VIII](https://www.theoi.com/Text/Pausanias8C.html) ; [texte grec segmenté](https://pausanias.symmachus.org/sentences/5_13.html). Confronter aux éditions critiques de référence.
+- **Hésiode**, *Théogonie* 535–557, sur la répartition prométhéenne du sacrifice.
+- **Ovide**, *Fastes* IV, 629–672, 721–806, spécialement 731–734. [Texte d'étude](https://www.greekmythology.com/sources/ovid/fasti/4-parilia).
+- **Auteurs et antiquaires romains**, à consulter dans leurs éditions critiques pour la réception des rites, sans fusionner les strates chronologiques.
+
+### 101. Sources primaires hébraïques et exégèse
+
+- **Lévitique** VI, 1–6 dans plusieurs éditions chrétiennes ; comparer la numérotation hébraïque. [Texte](https://bible.usccb.org/bible/leviticus/6).
+- **Nombres** XIX, 1–22 ; spécialement 9–10 et 11–19. [Texte hébreu interlinéaire de XIX, 9](https://fellowshipbook.org/en/numbers/19/9).
+- **Genèse** XVIII, 27 ; **Jonas** III, 6 ; **Esther** IV, 1 ; **Job** XLII, 6.
+- **Mishnah**, *Tamid* ; **Rachi**, commentaire sur Lévitique VI, comme témoins exégétiques plus tardifs, non témoignages directs de toutes les pratiques de la période biblique.
+
+### 102. Sources primaires mésopotamiennes et indiennes
+
+- **Maqlû**, série d'incantations et tablette rituelle ; en particulier VII, 183–203 dans la reconstruction savante. [Projet éditorial Würzburg](https://www.phil.uni-wuerzburg.de/cmawro/magic-witchcraft/maqlu/).
+- **Ṛgveda** X, 16, 1–5, avec contrôle des traductions anciennes et modernes.
+- **Pāśupatasūtra** I, 1–3, édition en ligne [GRETIL](https://www.gretil.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pAzupatasUtra.htm) et [sanskrit devanāgarī](https://sanskritdocuments.org/doc_shiva/pAshupatasUtram.html).
+- **Dīgha Nikāya** 16, fin du *Mahāparinibbāna Sutta*, sur la distribution des restes, du récipient et des braises.
+- **Vīdēvdād** VIII, 73–96, selon la numérotation et les interprétations de l'iranologie critique.
+
+### 103. Grec et romain : études secondaires
+
+- **Burkert, Walter**, *Greek Religion*, Cambridge, MA, Harvard University Press, 1985.
+- **Parker, Robert**, *Polytheism and Society at Athens*, Oxford University Press, 2005.
+- **Ekroth, Gunnel**, *The Sacrificial Rituals of Greek Hero-Cults in the Archaic to the Early Hellenistic Periods*, Liège, Kernos Supplément 12, 2002.
+- **Beard, Mary**, « Parilia », *Oxford Classical Dictionary*, 2016, DOI 10.1093/acrefore/9780199381135.013.4737.
+- **Beard, Mary ; North, John ; Price, Simon**, *Religions of Rome*, 2 vol., Cambridge University Press, 1998.
+- **Rüpke, Jörg**, *Religion of the Romans*, Polity, 2007.
+
+### 104. Bible, Mésopotamie et Égypte : études secondaires
+
+- **Milgrom, Jacob**, *Leviticus 1–16*, Anchor Bible 3, Doubleday, 1991.
+- **Levine, Baruch A.**, *Numbers 1–20*, Anchor Bible 4, Doubleday, 1993.
+- **Klawans, Jonathan**, *Purity, Sacrifice, and the Temple*, Oxford University Press, 2006.
+- **Abusch, Tzvi**, *The Witchcraft Series Maqlû*, Atlanta, SBL Press, 2015.
+- **Abusch, Tzvi ; Schwemer, Daniel**, « Das Ritual Maqlû », dans *Texte aus der Umwelt des Alten Testaments*, Neue Folge 4, 2008, p. 128–186.
+- **Teeter, Emily**, *Religion and Ritual in Ancient Egypt*, Cambridge University Press, 2011.
+- **Pinch, Geraldine**, *Magic in Ancient Egypt*, British Museum Press, 1994.
+
+### 105. Inde, bouddhisme et Iran : études secondaires
+
+- **Jamison, Stephanie W. ; Brereton, Joel P.**, *The Rigveda: The Earliest Religious Poetry of India*, 3 vol., Oxford University Press, 2014.
+- **Gonda, Jan**, *Vedic Ritual: The Non-Solemn Rites*, Brill, 1980.
+- **Sanderson, Alexis**, « The Śaiva Age: The Rise and Dominance of Śaivism during the Early Medieval Period », dans *Genesis and Development of Tantrism*, Tokyo, 2009.
+- **Lorenzen, David N.**, *The Kāpālikas and Kālāmukhas*, University of California Press, 1972.
+- **Strong, John S.**, *Relics of the Buddha*, Princeton University Press, 2004.
+- **Schopen, Gregory**, *Bones, Stones, and Buddhist Monks*, University of Hawai‘i Press, 1997.
+- **Boyce, Mary**, *Zoroastrians: Their Religious Beliefs and Practices*, Routledge & Kegan Paul, 1979.
+- **de Jong, Albert**, *Traditions of the Magi*, Brill, 1997.
+- **Encyclopaedia Iranica**, « Cleansing i. In Zoroastrianism » ; « Burial iii. In Zoroastrianism ».
+
+### 106. Outils théoriques et philosophie
+
+- **Hubert, Henri ; Mauss, Marcel**, *Essai sur la nature et la fonction du sacrifice*, 1899.
+- **Douglas, Mary**, *Purity and Danger*, Routledge & Kegan Paul, 1966.
+- **Bell, Catherine**, *Ritual Theory, Ritual Practice*, Oxford University Press, 1992.
+- **Turner, Victor**, *The Ritual Process*, Aldine, 1969.
+- **Hegel, G. W. F.**, *Phénoménologie de l'esprit* : lecture comparatiste de la négativité, non source sur les rites antiques.
+- **Nietzsche, Friedrich**, *La Généalogie de la morale* (1887) : réflexion sur valeurs et ascétisme, non preuve historique d'un rite de cendres.
+
+---
+
+# XV. Conclusions, limites et continuité MYTHOS
+
+### 107. Conclusion historique
+
+[A] Les textes et objets examinés attestent des usages divergents : monument sacrificiel de cendres, déplacement réglé des déchets d'autel, matière de purification, fumigation, destruction de figurines, offrande d'encens, accompagnement du mort, discipline ascétique, mémorial funéraire et protection de la pureté du feu. [I] Aucune de ces attestations ne démontre l'existence d'une religion unique de la cendre.
+
+[N] On ne peut conclure à une transmission interculturelle sans documenter les contacts, la chronologie et les mécanismes de circulation. La ressemblance matérielle est un point de départ, non une preuve généalogique.
+
+### 108. Conclusion philosophique
+
+[P] Le résidu n'est ni la pure absence ni une présence intacte. Il rend manifeste qu'une disparition peut laisser derrière elle une matière disponible pour une nouvelle institution, un nouveau rite ou une nouvelle mémoire. Mais cette disponibilité n'est pas universellement bénéfique : le reste peut être pur, impur, dangereux, indifférent, précieux ou à écarter selon le régime considéré.
+
+[I] La question comparatiste féconde n'est donc pas « que signifie la cendre partout ? » mais « par quels gestes, textes et autorités le reste brûlé change-t-il de statut ? ».
+
+### 109. Lacunes identifiées et programme scientifique
+
+[H] Des recherches complémentaires sont nécessaires sur la composition physico-chimique et les phases stratigraphiques des autels cendreux grecs ; la variabilité régionale des pratiques lévitiques ; l'histoire des manuscrits et des opérations de *Maqlû* ; les recettes réellement conservées dans les encensoirs égyptiens ; l'origine des cendres pāśupata selon les commentaires ; l'histoire matérielle de la distribution des reliques bouddhiques ; les écarts entre prescription zoroastrienne et pratiques funéraires archéologiquement documentées.
+
+[N] Ces lacunes ne peuvent être comblées par une image photoréaliste spéculative ou une hypothèse d'origine commune présentée comme une découverte.
+
+### 110. Contrôle éditorial et absence de réservation de numéro
+
+[A] Le dépôt **Bobcribb/Bobcribb.github.io**, branche **main**, a été relu avant création, ainsi que **AGENTS.md** et **docs/PUBLICATION_CONCURRENTE.md**. Le dernier reçu comparatif observé dans **editorial/numbering.json** portait le numéro **318**, attribué au dossier MC-109. **MC-112** est enregistré dans **editorial/inbox/e8126f70-9d18-4f67-90c0-202611062112.json**. Deux manuscrits distincts portent la cote historique **MC-113** : les plumes du divin et les arcs du divin. Une retenue conservatoire protège la demande des arcs dans **editorial/holds.json**. Le présent manuscrit choisit la nouvelle cote historique **MC-114** pour ne pas ajouter une troisième collision.
+
+[N] La publication publique n'est pas acquise par le dépôt d'un JSON en file. Seuls le reçu transactionnel, le fichier Markdown numéroté dans la collection, le workflow réussi et le contrôle HTTPS sur **bobmythos.fr** pourront démontrer la livraison complète. Aucun registre, aucune retenue, aucun manuscrit antérieur, aucun horaire, aucune série automatique ou galerie MYTHOS n'est modifié par cette demande. Les variables **CCCXXI** et **321** sont délibérément conservées.
+
+**Fin de la monographie universitaire intégrale MC-114.**

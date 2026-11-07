@@ -517,7 +517,9 @@ def apply(root):
             for inner_heading in main.select('h1'):
                 inner_heading.name = 'h2'
         add_scholarly_toc(doc, main, rel)
-        if url == '/mythologie-grecque/':
+        # Les quatre adresses du même corpus grec doivent recevoir les mêmes
+        # crédits scientifiques : sinon leur liste de liens diverge après habillage.
+        if portal_url in {'/mythologie-grecque/', '/grande-encyclopedie/'}:
             decorate_greek_archive_cards(doc, root)
         if rel.startswith('corpus/mythologie-grecque/archives/') and rel.endswith('.html'):
             add_greek_archive_return(doc, root)
