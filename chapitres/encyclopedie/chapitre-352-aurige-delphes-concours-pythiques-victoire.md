@@ -169,3 +169,9 @@ Les concours d'Olympie et de Delphes partagent un horizon panhellénique mais di
 **Entrées :** Aurige de Delphes ; Polyzalos ; Deinoménides ; Syracuse ; Géla ; bronze ; style sévère ; cire perdue ; Pythia ; Apollon ; courses de chars ; Pindare ; *Pythiques* ; Hiéron ; Arcésilas ; laurier ; stade ; gymnase ; *aretê* ; *kleos* ; offrande votive.  
 **Chemin :** `chapitres/encyclopedie/chapitre-352-aurige-delphes-concours-pythiques-victoire.md`.  
 **Prochain chapitre proposé :** 353, volume CXXXV — *Pindare et les odes pythiques : gloire aristocratique, mémoire mythique et pouvoir des cités*. Vérifier la progression effective avant toute création.
+
+### Annexe documentaire — revue scientifique du 7 novembre 2026 (lot 06)
+
+**Notice officielle [ministère grec de la Culture] :** [« The Charioteer »](https://delphi.culture.gr/the-charioteer/) : bronze daté **480–470 av. J.-C.**, découvert en **1896** lors des fouilles françaises, offert à la suite de la victoire de **Polyzalos** aux jeux pythiques. L'institution précise que la sculpture appartenait à un ensemble de quadrige, dont subsistent des éléments ; la restitution de personnages secondaires est conjecturale. **Référence française de cadrage [édition identifiée] :** Claude Rolley, *La Sculpture grecque. 1 : Des origines au milieu du Ve siècle*, Paris, Picard, **1994**, [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb357372542). **Limite :** la notice BnF garantit les métadonnées de l'ouvrage, non une attribution à Rolley d'une datation ou d'un auteur de l'Aurige ; ni le sculpteur ni la restitution complète du char ne sont établis par la page officielle.
+
+**Statut :** données ministérielles directement vérifiées ; numéro d'inventaire et chapitre de Rolley non vérifiés et donc non ajoutés.
