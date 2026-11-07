@@ -261,3 +261,13 @@ Cyrus et Darius ont laissé des monuments dont les formes matérielles divergent
 - Vernant, Jean-Pierre, et Marcel Detienne (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
 
 **Clôture critique.** Ce texte traite des tombeaux royaux en tant que monuments, textes et dispositifs de pouvoir ; il ne reproduit pas la monographie sur les rites de manipulation des cadavres du *Vidēvdād*. L'attribution éditoriale dépend exclusivement des variables 689 et DCLXXXIX lors de l'opération atomique de la file GitHub.
+
+---
+
+### Note éditoriale documentaire — Pierre Lecoq et les inscriptions des tombeaux achéménides (7 novembre 2026)
+
+**Édition française vérifiable.** Pierre Lecoq, *Les Inscriptions de la Perse achéménide*, Paris, Gallimard, « L'Aube des peuples », **1997**, 327 p. et planches ([catalogue de la BnF](https://catalogue.bnf.fr/ark:/12148/cb35863815n) ; [présentation Gallimard](https://www.cercle-enseignement.com/Ouvrages/Gallimard/L-aube-des-peuples/Les-Inscriptions-de-la-Perse-achemenide)). Le volume traduit et commente des inscriptions de souverains achéménides en **vieux perse, élamite, babylonien et araméen** ; il comprend le dossier de Bisotun/Behistun. La présentation éditoriale indique que les versions multilingues et leurs variantes doivent être prises en compte : ces textes ne sont pas trois copies nécessairement littérales.
+
+**Application spécifique à Naqš-e Rostam.** Les inscriptions **DNa** et **DNb** appartiennent au tombeau identifié à **Darius Ier**. L'[Encyclopaedia Iranica, notice « Naqš-e Rostam »](https://www.iranicaonline.org/articles/naqs-e-rostam/) identifie leur implantation et les versions cunéiformes. Elle précise que l'attribution nominative des **trois autres tombes rupestres** demeure moins assurée. Il faut donc distinguer l'inscription du monument, le témoignage archéologique et l'attribution moderne d'un souverain à une tombe particulière.
+
+**Limites et programme de contrôle.** La bibliographie Lecoq permet de préparer une confrontation des traductions de DNa et DNb avec les témoins et éditions d'épigraphie achéménide. Elle ne prouve ni l'identité des pratiques funéraires des Mages décrites par les auteurs grecs, ni l'exécution de tous les gestes funéraires suggérés par l'iconographie. Ne pas inventer de pagination ni de leçon philologique précise avant consultation intégrale du passage de Lecoq. Les notices BnF et Gallimard confirment l'ouvrage, **pas une validation de MYTHOS par Pierre Lecoq**.

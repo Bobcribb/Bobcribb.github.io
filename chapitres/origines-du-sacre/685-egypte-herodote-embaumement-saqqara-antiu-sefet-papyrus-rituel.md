@@ -308,3 +308,13 @@ L'étude de Saqqara montre que les progrès de l'archéométrie peuvent modifier
 - Girard, René, *La Violence et le Sacré*, 1972.
 
 *Statut et continuité : monographie autonome sur l'embaumement égyptien, ses témoins grecs, ses papyrus et la chimie des récipients de Saqqara ; elle ne réécrit pas les dossiers précédents sur le culte des morts, Nombres 19, Lévitique 21, le Vidēvdād, le deuil brahmanique ou les cinq grades chinois. Les seuls marqueurs d'attribution pour le présent chapitre sont 685 et DCLXXXV ; tous les autres numéros désignent des sources ou périodes attestées.*
+
+---
+
+### Note éditoriale documentaire — Jean-Claude Goyon et les papyrus du Louvre (7 novembre 2026)
+
+**Édition et traduction françaises identifiées.** Jean-Claude Goyon, *Rituels funéraires de l'ancienne Égypte : le rituel de l'embaumement, le rituel de l'ouverture de la bouche, les livres des respirations*, Paris, Éditions du Cerf, coll. « Littératures anciennes du Proche-Orient », vol. 4, **1972**, 357 p. L'identification de l'ouvrage et de ses trois ensembles textuels est confirmée par la [Wellcome Collection](https://wellcomecollection.org/works/qa9gh66b) et le [compte rendu savant de Josep Padró (*Revue de l'histoire des religions*, 1975, p. 97–99)](https://www.persee.fr/doc/rhr_0035-1423_1975_num_187_1_6186). C'est une **édition commentée et traduction de textes rituels**, pas une observation directe des ateliers de Saqqara.
+
+**Témoin matériel à distinguer.** Le musée du Louvre décrit les **fragments de papyrus E 5158** comme un rituel de l'embaumement en écriture hiératique, avec scènes de momies et de prêtres ; la datation donnée par le musée est **50–99 apr. J.-C.**, et la provenance thébaine est indiquée avec incertitude : [notice officielle](https://collections.louvre.fr/ark:/53355/cl010003510). Cet objet ne doit pas être confondu avec **E 32847**, « papyrus médical » ramesside et dossier Louvre-Carlsberg, dont le [catalogue du Louvre](https://collections.louvre.fr/ark:/53355/cl010241025) indique un statut, une datation et un contenu différents.
+
+**Limites de preuve.** Les textes traduits par Goyon renseignent sur des prescriptions rituelles et leurs commentaires ; ils ne démontrent pas à eux seuls la composition chimique exacte des récipients de Saqqara, ni l'application uniforme d'un rite sur trois millénaires. La conformité des phrases de Goyon aux manuscrits reste à examiner dans l'ouvrage lui-même avant toute citation littérale ou numéro de page. Cette note n'est ni un témoignage personnel de Goyon sur MYTHOS, ni une approbation du site par le Louvre.
