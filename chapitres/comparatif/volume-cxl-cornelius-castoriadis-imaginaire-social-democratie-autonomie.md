@@ -229,3 +229,8 @@ Castoriadis prolonge le problème arendtien de l'action en l'élargissant à l'i
 
 ## Continuité
 XC : Celan ; XCI : Benjamin ; CXXXIX : Arendt ; **CXL : Castoriadis**. Prochaine étude possible : CXLI, Claude Lefort, démocratie, division sociale et lieu vide du pouvoir.
+
+### Note de revue scientifique — 7 novembre 2026 — Philosophie de l'autonomie et histoire athénienne
+**Œuvres et dates :** Cornelius Castoriadis, *L'Institution imaginaire de la société*, Seuil, **1975**, [BnF](https://catalogue.bnf.fr/ark:/12148/cb345747395) ; *Ce qui fait la Grèce*, tomes I, II et III, publiés en **2004, 2008 et 2011** à partir de séminaires de **1982–1985**. Il faut séparer dates d'enseignement et d'édition.
+**Étude française consultée :** Christophe Pébarthe, « Faire l'histoire de la démocratie athénienne avec Cornelius Castoriadis », *Revue des Études Anciennes* **114/1** (2012), p. 139–157, DOI [10.3406/rea.2012.5776](https://doi.org/10.3406/rea.2012.5776), [article Persée](https://www.persee.fr/doc/rea_0035-2004_2012_num_114_1_5776). Pierre Vidal-Naquet, « Castoriadis and Ancient Greece », dans *The Greek Imaginary* (trad. 2023), [Cambridge University Press](https://www.cambridge.org/core/books/greek-imaginary/castoriadis-and-ancient-greece/6B5493224A39EE93C501DB4ACC22F847) : aperçu consulté, édition intégrale non collationnée.
+**Limite :** l'auto-institution est une proposition philosophique moderne, pas un fait directement cité d'une inscription attique. Confronter aux institutions, exclusions et conflits attestés de la cité ; aucun jugement personnel de chercheurs sur MYTHOS n'est suggéré.
