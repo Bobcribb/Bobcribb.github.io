@@ -458,3 +458,13 @@ Cette parenté structurale rend les différences plus visibles. Pour Télipinu, 
 **Renvois internes à maintenir :** MC-024 (réorganisation de la puissance solaire et royale dans l'Égypte d'Akhenaton), MC-025 (Maât/Isfet), MC-027 (parole rituelle et serments), MC-028 (crise collective et faute souveraine), MC-032 (ruse divine et vérité), volume CLXII (« Dieux mourants et vies divines transformées »), sections « Origines du sacré » consacrées à l'aube, la nuit, les rites et la fertilité. Ces renvois sont thématiques, pas des preuves d'une transmission.
 
 **Document fini et approuvé pour la file éditoriale MYTHOS. La confirmation d'un numéro canonique et d'une URL publique requiert un reçu du registre transactionnel, puis une vérification HTTPS.**
+
+---
+
+### Annexe scientifique documentaire — MC-033, retour de Déméter et statut des parallèles (7 novembre 2026) — MYTHOS-SCI-20261107-L25-MC-033
+
+**Source primaire vérifiée par passages :** *Hymne homérique à Déméter* (hymne II), **v. 305–313**, puis **v. 470–480**, dans la traduction annotée du [Center for Hellenic Studies, Harvard](https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/). Dans la première séquence, la déesse bloque les semences et la famine menace aussi les **parts sacrificielles reçues par les Olympiens** (v. 310–313) ; dans la seconde, la récolte reprend et Déméter transmet les rites aux personnages d'Éleusis (v. 470–480). L'hymne associe ainsi crise de subsistance, statut rituel des dieux et institution des mystères ; ces deux moments **ne prouvent pas** un culte commun gréco-hittite-japonais.
+
+**Cadrage français :** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, éd. La Découverte, **1990**, [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb35497256g). La référence situe une méthode de lecture des catégories grecques ; aucune page particulière de Vernant n'a été relue ou invoquée comme étude directe de Télipinu ou d'Amaterasu. Les recherches non françaises et les éditions spécifiques du *CTH 324* et du *Kojiki* restent indispensables.
+
+**Comparaison limitée :** **attestés** dans l'hymne grec : retrait de Déméter, menace de famine et rétablissement agricole avec transmission rituelle. **Interprétatif** : rapprocher ce schéma des récits du dieu hittite Télipinu et d'Amaterasu. **Non attesté par ces textes** : emprunt historique, contact entre les rédactions ou équivalence des rites ; ni la datation du *Kojiki* ni celle des tablettes hittites ne peuvent être déduites de l'hymne. Aucun chapitre parallèle, numéro ou source originelle n'est modifié.
