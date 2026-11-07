@@ -2488,6 +2488,12 @@
           "path": "chapitres/comedies/volume-138-antiphanes-sappho-enigme-lettre-parole-politique-athenee.md",
           "request_sha256": "3c6b8b68739485582b30cb1470b89347465274bbc196f08f06025146210429e3",
           "initial_source_sha256": "442d120230f443ee3e3c81323f82f497b3be6f832b3a845967a2db8b8c531983"
+        },
+        "e6a77c31-7b40-4a5a-8c3e-5261b8c00139": {
+          "number": 139,
+          "path": "chapitres/comedies/volume-139-anaxandrides-protesilaos-iphicrate-cotys-parfum-banquet-politique.md",
+          "request_sha256": "8e172acd2253ce22778e0ff1546fcfb1e646b3362209402e882e3eee234acbcd",
+          "initial_source_sha256": "484a8d9364393d48b5fc1eb61fdc59936406bba091f45b68340a1afba80df529"
         }
       }
     },
@@ -3100,6 +3106,12 @@
           "path": "chapitres/tragedies/volume-cclxxxv-ion-de-chios-alcmene-alkmene-identite-heracles-fragtrag-6-9.md",
           "request_sha256": "200e376301684da0373a31a060a295d43e509ed1839eeda910f0b61ef089cc9a",
           "initial_source_sha256": "613fbaf544451b03330655f80e2ae129f7d180902a7084db0b28fc523f6d8e88"
+        },
+        "bf14e5a2-9d38-40b6-b3ab-202611070420": {
+          "number": 286,
+          "path": "chapitres/tragedies/volume-cclxxxvi-ion-de-chios-argeioi-argiens-identite-collective-fragments-10-12.md",
+          "request_sha256": "1c263d23270022bae2b1410c47ad592194380f5a141618d9e8fdc7f54972f0b4",
+          "initial_source_sha256": "57d2c2618b1168e4d0606ebacd4514943da187cce14f5754142d0c429119686c"
         }
       }
     },
@@ -4261,6 +4273,12 @@
           "path": "chapitres/comparatif/volume-cccxxxiv-paix-esope-aigle-scarabee-pegase-machine-contestation-zeus-421.md",
           "request_sha256": "19753e6e6649ac3c87dcb0b4d5581cb0748b8fb3f1e3dffec7f518eacbccfa25",
           "initial_source_sha256": "92b3eaef9bedc938b1ddfbc44bf9129ba482732e649b80bbb7f75910bf9daf17"
+        },
+        "b723fc68-58e1-4d2c-9d3e-730e1a4cd729": {
+          "number": 335,
+          "path": "chapitres/comparatif/volume-cccxxxv-paix-mortier-guerre-pilons-absents-cleon-brasidas-cites-421.md",
+          "request_sha256": "cafeb325c4b19949aa0f2a064875a1235d5d96dbd70c157d40652ee0d7e6a007",
+          "initial_source_sha256": "b7f7c2de9835cbb071bef4f7cd318dbcf32f6525ff792a51d1bd01100b1d3cd2"
         }
       }
     }
