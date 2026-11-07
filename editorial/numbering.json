@@ -1173,6 +1173,12 @@
           "path": "chapitres/origines-du-sacre/767-fukuchani-zanzibar-premiers-habitats-depot-metatarses-perles-limites-rituel.md",
           "request_sha256": "b9a1cf961c8600bfc425db24fcbd7ecfecc6024e622d2f4bcc65ed919cacad6f",
           "initial_source_sha256": "b28dcf0ffaf3b5c4eacfff0af12bdeb5a87368f18d048838a85e8e84933ddbab"
+        },
+        "e84f2d9c-5d50-4e98-a5a1-6cdb4bd98247": {
+          "number": 768,
+          "path": "chapitres/origines-du-sacre/768-songo-mnara-mosquees-cimetieres-mafingo-monnaies-territoires-rituels.md",
+          "request_sha256": "6f5a111ded2f0bb757d12e776bcd69fb901f91d5f11e4cb4f0e4a64e06a9211d",
+          "initial_source_sha256": "895f2b5849d49d144bb9ba80d8ca8fabbbfd9713eef0c475e67bd49f7e009725"
         }
       }
     },
@@ -3070,6 +3076,12 @@
           "path": "chapitres/tragedies/volume-cclxxxiv-ion-de-chios-agamemnon-athenee-coupe-fragments-1-5-trgf.md",
           "request_sha256": "ce0f1c4491a2a7dfc06c183e85d4fa5da1670f6284684f5a4f1773f78f0f95f4",
           "initial_source_sha256": "569cc6c6a4961bd469b03e9be62031996b013dca2e3df5fff1861315327dccc6"
+        },
+        "ca628f31-735e-4df7-8cc2-202611070315": {
+          "number": 285,
+          "path": "chapitres/tragedies/volume-cclxxxv-ion-de-chios-alcmene-alkmene-identite-heracles-fragtrag-6-9.md",
+          "request_sha256": "200e376301684da0373a31a060a295d43e509ed1839eeda910f0b61ef089cc9a",
+          "initial_source_sha256": "613fbaf544451b03330655f80e2ae129f7d180902a7084db0b28fc523f6d8e88"
         }
       }
     },
@@ -4225,6 +4237,12 @@
           "path": "chapitres/comparatif/volume-cccxxxiii-guepes-parabase-autochtonie-veterans-perses-rameurs-triobole-422.md",
           "request_sha256": "e5e521b3f5df7e4d9dfacb98be6eb8df6a9a369be2c9a14ca74cb6b023794852",
           "initial_source_sha256": "d4cee0c4cf23a6e2f0d7fe2eccc8f5c50c52ac56e967685f269a30783472ed15"
+        },
+        "5f21e1b9-28de-47a2-aed3-f48c0280b583": {
+          "number": 334,
+          "path": "chapitres/comparatif/volume-cccxxxiv-paix-esope-aigle-scarabee-pegase-machine-contestation-zeus-421.md",
+          "request_sha256": "19753e6e6649ac3c87dcb0b4d5581cb0748b8fb3f1e3dffec7f518eacbccfa25",
+          "initial_source_sha256": "92b3eaef9bedc938b1ddfbc44bf9129ba482732e649b80bbb7f75910bf9daf17"
         }
       }
     }
