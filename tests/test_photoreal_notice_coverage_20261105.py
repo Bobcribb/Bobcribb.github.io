@@ -35,6 +35,9 @@ class PhotorealNoticeCoverageTests(unittest.TestCase):
         for entry in entries:
             with self.subTest(slug=entry['slug']):
                 file = NOTICE_DIR / (entry['slug'] + '.json')
+                expected_notice = ('/assets/reconstitutions-3d/notices/'
+                                   + entry['slug'] + '.json')
+                self.assertEqual(entry.get('scientific_notice'), expected_notice)
                 self.assertTrue(file.is_file(), 'Notice manquante : ' + str(file))
                 notice = json.loads(file.read_text(encoding='utf-8'))
                 self.assertIsInstance(notice, dict)

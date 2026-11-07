@@ -1,0 +1,322 @@
+# MYTHOS — Les Origines du sacré — Chapitre 802
+
+## Maitum et la grotte d'Ayub : visages de terre cuite, sépultures secondaires et mémoire des personnes dans le Mindanao ancien
+
+*Monographie universitaire originale — 7 novembre 2026. Archéologie funéraire des Philippines, étude des collections du National Museum, technologie céramique, anthropologie biologique, expressions humaines, réseaux maritimes, débats austronésiens et philosophie de la mémoire. Manuscrit public soumis sans numéro définitif au circuit éditorial MYTHOS.*
+
+### Résumé analytique
+
+En 1991, l'attention du Musée national des Philippines fut attirée sur des urnes funéraires anthropomorphes provenant de la grotte d'Ayub, à Pinol, dans la municipalité de Maitum, sur la côte sud du Mindanao. Des récipients de terre cuite, surmontés de couvercles en forme de têtes, étaient associés à des restes humains secondaires et à divers objets. La variété des visages, des expressions et des caractéristiques corporelles fait de cet ensemble un document exceptionnel sur les images des personnes, la mort et les relations entre arts plastiques et pratiques funéraires.
+
+Les campagnes conduites sous la responsabilité d'Eusebio Z. Dizon et de Rey A. Santiago, ainsi que leurs publications, ont constitué un corpus documenté malgré les perturbations initiales du terrain. La présentation de Purissima Benitez-Johannot dans l'*Encyclopedia of Philippine Art* rapporte vingt-neuf urnes secondaires en place au fil des investigations et des dates radiocarbone calibrées provenant de suie sur un petit pot associé : de 5 avant notre ère à 225 de notre ère et de 70 à 370 de notre ère. Ces intervalles portent sur les prélèvements et leurs associations ; ils ne datent pas directement le façonnage de chaque tête, ni une religion unifiée.
+
+L'interprétation sociale est débattue. L'article de A. V. Tabarev, A. E. Patrusheva et N. Cuevas, publié en 2019, propose d'y reconnaître une nécropole de personnes de rang élevé et une technologie de prestige. Cette lecture mérite examen, mais ne peut être transformée en certitude pour chaque défunt. Les caractères expressifs des visages ont été décrits comme des portraits individualisés, parfois associés à l'âge ou au sexe ; l'iconographie ne donne pourtant pas accès à des biographies nominatives ni à une attribution ostéologique certaine de chaque personnage représenté.
+
+**Thèse :** Maitum ouvre une réflexion singulière sur la représentation matérielle du mort. Alors que d'autres urnes soulignent la clôture, le dépôt ou le voyage, celles d'Ayub donnent parfois à la sépulture l'apparence d'un corps et d'un visage. Mais elles ne permettent pas de restituer un panthéon ni de prouver la présence de portraits individuels au sens contemporain. Leur intérêt repose sur la combinaison des contextes, des gestes de réinhumation et des choix plastiques.
+
+### I. Situer Ayub Cave dans le Sarangani
+
+La grotte d'Ayub se situe près de Pinol, dans la municipalité de Maitum, province de Sarangani, au sud de Mindanao. Elle appartient à un contexte de côtes, vallées et reliefs dont les ressources et les voies de déplacement ont pu contribuer au peuplement régional. Les frontières administratives actuelles ne constituent pas celles des communautés de l'Antiquité.
+
+Un site de grotte possède ses contraintes : accès limité, obscurité relative, humidité, remaniements et conservation sélective de matériaux. Ces caractéristiques favorisent certains dépôts sans prouver que toute la cavité possédait une fonction cultuelle permanente.
+
+Une carte scientifique doit donc distinguer le secteur de découverte, les zones excavées et l'environnement régional ; il serait abusif d'y inscrire un chemin de procession ou un autel que les fouilles n'ont pas identifié.
+
+### II. De la découverte photographique aux fouilles du musée
+
+Selon le Cultural Center of the Philippines, des photographies d'urnes anthropomorphes parvinrent au National Museum en 1991. L'originalité des formes donna lieu à des investigations dirigées par Eusebio Z. Dizon, puis à des fouilles poursuivies au début des années 1990.
+
+Les circonstances initiales sont décisives : une partie du gisement avait déjà subi des perturbations. Il faut donc distinguer les urnes documentées en place des objets dont la relation initiale aux fosses et aux autres dépôts est moins sûre.
+
+L'histoire des découvertes ne doit pas se transformer en récit de trésor. Les images spectaculaires attirent le regard, mais les plans, les restes de poterie ordinaire et les traces de dépôt constituent les sources principales pour comprendre l'usage ancien des urnes.
+
+### III. Eusebio Dizon et Rey Santiago : l'archive fondamentale
+
+L'ouvrage *Faces from Maitum: The Archaeological Excavation of Ayub Cave*, publié en 1996 par Eusebio Z. Dizon et Rey A. Santiago avec l'édition d'Esperanza Bunag Gatbonton, reste une référence de première importance. Le catalogue de la bibliothèque du Musée national des Philippines en donne les données éditoriales : 119 pages de texte, cartes, illustrations et planches.
+
+Une étude actuelle doit distinguer les observations des fouilleurs, les objets restaurés et les interprétations ultérieures. Le même récipient peut apparaître dans le rapport de terrain, un inventaire muséal et une encyclopédie : ces trois notices ne forment pas trois découvertes indépendantes.
+
+Les assertions détaillées concernant le nombre, l'âge et la disposition de certains défunts doivent, dans la mesure du possible, être vérifiées au niveau du rapport original. Les descriptions institutionnelles secondaires constituent un appui utile mais non un substitut à la consultation intégrale de chaque tableau.
+
+### IV. Le nombre des urnes : ne pas transformer un compte en totalité historique
+
+La synthèse de l'*Encyclopedia of Philippine Art* indique que vingt-neuf urnes funéraires secondaires furent excavées en place au cours des opérations de 1992 à 1995. D'autres travaux parlent d'investigations de 1991-1992 : il convient de distinguer mission initiale, campagnes ultérieures et dates de publication.
+
+Le nombre vingt-neuf décrit un corpus archéologique documenté, non nécessairement tous les récipients créés ou déposés sur le site. Les perturbations antérieures, l'érosion et les limites d'excavation réduisent l'image d'ensemble.
+
+Il serait fautif d'identifier vingt-neuf prêtres ou vingt-neuf chefs à partir des vingt-neuf urnes. Le nombre de contenants ne se confond pas avec le nombre de personnes inhumées ni avec le nombre de cérémonies.
+
+### V. La chronologie des sépultures : quels prélèvements furent datés ?
+
+Des échantillons de suie prélevés sur un petit pot trouvé à l'intérieur d'une urne ont produit deux intervalles calibrés, environ 5 avant notre ère–225 après notre ère et 70–370 après notre ère. Ces dates, rapportées par la synthèse de Benitez-Johannot, situent des activités dans une phase couvrant les derniers siècles avant et les premiers siècles de notre ère.
+
+Il faut préciser la nature des échantillons : dater du carbone déposé sur un récipient ne date pas directement la cuisson de toutes les urnes anthropomorphes. La suie peut être produite lors d'un usage antérieur à la sépulture, et les intervalles statistiques ne sont pas des dates exactes d'événement.
+
+L'article de 2019 propose pour le complexe une fourchette plus large, d'environ 500 avant à 500 après notre ère. On ne doit pas présenter cette estimation générale comme la somme exacte des mesures calibrées. La monographie conserve explicitement ces niveaux de précision différents.
+
+### VI. L'inhumation secondaire : définir le processus
+
+Dans une sépulture secondaire, des restes humains sont rassemblés ou transférés après un traitement antérieur du corps. La décomposition a pu avoir lieu ailleurs ou en plusieurs étapes, mais le détail doit être démontré par les relations anatomiques et les traces sur les os.
+
+Les urnes d'Ayub sont décrites comme des réceptacles de sépultures secondaires. La documentation de certains pots plus petits à l'intérieur d'une grande urne montre que le dépôt pouvait comporter plusieurs contenants et différentes matières.
+
+Le geste n'implique pas nécessairement une croyance en la réincarnation, un voyage de l'âme ou une relation d'échange avec un dieu. Il signale au minimum que la communauté traitait certains restes après la mort initiale, dans une temporalité qui mérite une analyse indépendante.
+
+### VII. Une urne, plusieurs contenants ?
+
+Le cas de l'urne no 21 montre que des récipients plus petits pouvaient se trouver dans une grande urne anthropomorphe. Les chercheurs y ont observé un petit pot décoré contenant des phalanges, des dents déciduales, des sédiments, des cailloux et des coquilles d'escargots terrestres.
+
+Cette organisation suggère une sélection corporelle et matérielle. Elle n'établit pas à elle seule que les os appartenaient tous à une même personne ni qu'un seul geste les avait rassemblés. Le contrôle du nombre minimal d'individus repose sur l'ostéologie, non sur la dimension du récipient.
+
+Les sédiments et coquilles peuvent être entrés dans le pot par différentes voies. Leur interprétation comme offrandes exige des arguments supplémentaires concernant la sélection et le dépôt, plutôt que le simple constat de présence.
+
+### VIII. Le couvercle en forme de tête humaine
+
+Les couvercles de Maitum représentent des visages avec des yeux, nez, bouche et autres détails plus ou moins élaborés. Leur fonction matérielle est liée à la fermeture ou à la présentation de l'urne, mais leur valeur figurative invite à une lecture des personnes et des apparences.
+
+Une tête modelée n'est pas nécessairement le portrait de l'individu dont le corps se trouve dans le pot. La ressemblance avec une personne précise ne peut être prouvée sans documents contemporains, et les artistes pouvaient travailler selon des types ou des conventions.
+
+Le caractère singulier de ces visages ne disparaît pas avec cette prudence. Les variations entre couvercles permettent une étude des choix de représentation et des distinctions visibles que les potiers jugeaient importantes.
+
+### IX. Le corps de la jarre : anatomie représentée et fonction de contenant
+
+Certaines urnes développent sur leur corps des éléments anatomiques : poitrine, bras, jambes, nombril et caractères sexuels modelés. Les ajouts de terre et les incisions fournissent une matérialité à ces formes. Le contenant funéraire peut ainsi être interprété comme un corps figuré qui reçoit des restes d'un autre corps.
+
+Cette proposition doit être maintenue au niveau iconographique. Elle ne démontre pas une croyance précise dans le transfert de l'âme d'une personne vers l'argile. Les travaux modernes montrent simplement que la forme évoque intentionnellement un humain.
+
+L'ambiguïté est philosophiquement féconde : où commence le corps de la personne lorsque ses os sont placés dans une image corporelle ? L'archéologie ne donne pas une réponse doctrinale, mais elle révèle un dispositif permettant de poser la question.
+
+### X. Les expressions : sourire, grimace, surprise, calme
+
+Les couvercles peuvent donner l'impression de différentes émotions. Des bouches ouvertes ou fermées, des sourcils incisés, des yeux et des lèvres accentués suscitent aujourd'hui des interprétations comme sourire, étonnement ou tristesse. La diversité est documentée, mais le vocabulaire psychologique moderne doit être utilisé avec précaution.
+
+Un visage expressif peut appartenir à une convention artistique ; il peut aussi renvoyer à un statut social, à une personne réelle ou à une narration que nous ignorons. La différence des formes ne prouve pas la reproduction exacte de l'expression du défunt au moment de sa mort.
+
+Une analyse iconographique rigoureuse décrit d'abord la morphologie. Elle compare ensuite les variantes et, seulement après, discute les identifications possibles, avec indication des alternatives.
+
+### XI. La jarre no 21 : étude de cas documentaire
+
+L'urne no 21 est l'un des exemplaires les mieux conservés et les mieux décrits par le Cultural Center of the Philippines. Sa notice donne les références d'inventaire du couvercle et du corps : XI-91-P2-130 et XI-91-P2-131. Elle interprète les caractéristiques représentées comme masculines et rapporte la lecture de Wilfredo Ronquillo qui y reconnaît un enfant.
+
+Ces attributions doivent être comprises comme des lectures du personnage figuré, et non comme des résultats assurés d'identification biologique du défunt. Une représentation de traits sexués n'établit pas le sexe génétique d'un individu dont les os seraient retrouvés dans le vase.
+
+L'étude de cet objet doit associer relevé des surfaces, restauration, mesure contrôlée et inventaire des matériaux à l'intérieur, au lieu d'en faire une image anonyme de « dieu de la mort ».
+
+### XII. Les cheveux, sourcils et dents : fabrication d'une singularité
+
+Les détails de l'urne no 21 comprennent des incisions et perforations associées à la représentation des cheveux, des yeux, des sourcils et des dents. Ces éléments rendent le visage très lisible pour les visiteurs modernes, mais leur exactitude anatomique n'est pas une donnée archéologique démontrable.
+
+Il faudrait comparer tous les couvercles enregistrés et déterminer la fréquence de chaque trait. Un détail rare peut correspondre à un choix plastique local, à une convention ou à une distinction sociale. Il ne peut être nommé sans autre preuve « marque d'initiation » ou « signe sacerdotal ».
+
+La répétition et la variation des attributs sont les données principales. Une seule tête spectaculaire ne suffit pas à constituer une classification des rites de la communauté entière.
+
+### XIII. Les caractéristiques sexuelles : représentations et identités
+
+Certaines urnes figurent des caractères masculins ou féminins et la notice institutionnelle évoque des personnages jeunes, âgés et parfois enceintes. L'iconographie peut donc suggérer une attention aux différences de genre, de sexe anatomique et d'âge social.
+
+Ces traits ne donnent pas directement l'âge ni le sexe biologique des os déposés. Une comparaison sérieuse demanderait un inventaire des représentations et, pour chaque urne, une analyse ostéologique indépendante, lorsque les restes sont suffisamment conservés et que les méthodes sont éthiquement autorisées.
+
+Confondre représentation et identité conduit à une histoire circulaire : on décide d'abord qu'une urne figure une femme, puis on attribue à cette femme les fonctions rituelles que l'on imagine. L'enquête doit conserver ses incertitudes.
+
+### XIV. L'hématite rouge et les couleurs du visage
+
+La synthèse muséale décrit des traces d'hématite rouge sur les lèvres de l'urne no 21, alors que les autres surfaces sont peu peintes. Le contraste entre relief modelé et pigment peut souligner certaines parties du visage. La composition et la mise en place des pigments appartiennent à l'étude technique.
+
+Le rouge possède dans de nombreuses traditions des associations à la vie, au corps ou à la puissance. Mais aucune de ces lectures générales ne démontre que les potiers d'Ayub voulaient représenter le sang ou une parole magique.
+
+L'interprétation doit d'abord chercher si les couleurs et leurs positions se répètent entre urnes. La présence de pigment ne suffit pas à prouver un rite de résurrection.
+
+### XV. La cuisson à relativement basse température
+
+Les urnes ont été décrites comme des productions en argile cuites à température relativement basse. Leur taille et leurs éléments anthropomorphes imposaient un contrôle du séchage, de la fixation des ajouts et de la chauffe. La réalisation témoigne d'un savoir-faire important, même si la technique ne requiert pas les installations des céramiques vitrifiées de périodes plus récentes.
+
+Les traces de montage, les inclusions et les différences de texture peuvent aider à distinguer ateliers ou groupes de producteurs. Mais une technique complexe n'implique pas automatiquement une classe héréditaire de potiers sacrés.
+
+L'hypothèse de « technologie de prestige » proposée par Tabarev et ses collègues doit être confrontée à la répartition des objets ordinaires et aux conditions de fabrication. Elle est un modèle social, non un fait inscrit sur l'urne.
+
+### XVI. Les formes des couvercles et les dispositifs de fermeture
+
+Une partie de l'efficacité matérielle de l'urne réside dans l'ajustement du couvercle au corps du vase. Les surfaces de contact, les traces d'usure et les réparations peuvent renseigner les conditions de fermeture et d'une éventuelle réouverture.
+
+Une tête de terre cuite fonctionne ici comme un dispositif de clôture tout en produisant un visage visible. Ce double statut distingue la jarre de certains simples monuments funéraires. Mais rien ne démontre que les urnes étaient rouvertes périodiquement pour des cérémonies d'ancêtres.
+
+La chronologie d'utilisation reste un problème archéologique : un dépôt secondaire peut être constitué en une fois ou à plusieurs moments, et la forme du récipient ne permet pas de décider seule entre ces scénarios.
+
+### XVII. Les objets en coquillage : parure ou dépôt
+
+La documentation d'Ayub mentionne des bracelets de coquillage, une cuiller en coquillage, un disque et un pendentif en *Conus*. Ces éléments attestent la sélection de matières marines et leur transformation technique, dans une région liée à des circulations côtières.
+
+La présence de coquillage dans une urne ou dans son voisinage ne prouve pas que tous les objets furent déposés comme offrandes à des puissances de la mer. Un bracelet peut avoir appartenu au défunt, être un signe social ou constituer un cadeau mortuaire.
+
+La forme et les traces d'usage doivent être étudiées avec la position exacte au moment de la fouille. Une cuiller peut servir à des pratiques ordinaires ou cérémonielles, mais elle n'est pas un « instrument de sacrifice » par sa seule présence.
+
+### XVIII. Métal et verre : circulations plus larges
+
+Des outils métalliques et des perles de verre sont rapportés dans les ensembles d'Ayub. Les matériaux importés peuvent témoigner d'échanges avec d'autres régions des Philippines et de l'Asie du Sud-Est. Il faudrait toutefois des analyses chimiques et typologiques précises pour identifier les provenances.
+
+Une perle manufacturée ailleurs peut circuler par plusieurs intermédiaires avant d'être déposée dans une tombe. Sa présence n'implique donc pas qu'un membre de la communauté se soit rendu dans le lieu de fabrication ni qu'il ait adopté une religion étrangère.
+
+L'intérêt historique tient au croisement entre funérailles et économie : certains biens suffisamment valorisés pour être enterrés pouvaient aussi contribuer à la distinction des personnes ou des groupes.
+
+### XIX. Rang social et nécropole d'élite : thèse discutée
+
+Dans l'article de 2019, Tabarev, Patrusheva et Cuevas proposent que la grotte d'Ayub ait accueilli des sépultures de personnes de statut élevé. La sophistication des urnes, le caractère remarquable des couvercles et les objets associés peuvent soutenir cette proposition.
+
+Elle n'est pas une conclusion nécessaire. Une production figurative élaborée peut relever d'une convention funéraire répandue, et la richesse visible d'une tombe dépend aussi de la conservation et des matières périssables. Les individus déposés peuvent avoir appartenu à plusieurs statuts ou périodes.
+
+Pour tester l'hypothèse d'élite, il faudrait comparer Ayub à des cimetières contemporains de la région, étudier la distribution des biens et disposer d'un échantillon suffisamment représentatif. La monographie conserve donc la qualification « hypothèse d'élite » plutôt qu'une affirmation de « tombeaux royaux ».
+
+### XX. L'individu représenté et l'individu inhumé
+
+Le rapport entre le visage du couvercle et les restes déposés est l'une des questions les plus délicates. Le couvercle pourrait représenter le mort, une figure protectrice, un modèle social ou un personnage dont l'identité n'est pas liée directement à un squelette précis.
+
+Sans association ostéologique et documentaire incontestable, il ne faut pas prétendre que l'urne no 21 est le portrait réel d'un enfant déterminé. Les expressions et les attributs biologiques figurés ne sont pas des étiquettes nominatives.
+
+La force de l'objet n'en est pas diminuée. Il invite à penser la mémoire des personnes à travers un assemblage où la forme du contenant est proche d'un corps humain et son couvercle proche d'un visage.
+
+### XXI. Le mort comme image : question philosophique
+
+Une urne anthropomorphe établit une relation matérielle inhabituelle entre les restes et leur enveloppe. Le contenant n'est pas seulement un récipient neutre ; il paraît représenter la forme du corps, parfois avec une expressivité accentuée. Cette analogie pourrait participer à la reconnaissance sociale du défunt, mais les motivations demeurent inconnues.
+
+Parler de « seconde peau » ou de « corps de substitution » est une proposition philosophique, non une expression ancienne attestée à Maitum. Il faut conserver cette différence, particulièrement lorsque les comparaisons incluent les effigies européennes ou les statues funéraires d'autres civilisations.
+
+Le sacré ne réside pas automatiquement dans l'anthropomorphisme. La transformation d'un objet en support de mémoire peut s'effectuer par des pratiques, des règles et des relations sociales que la seule figure ne restitue pas.
+
+### XXII. Comparaison avec Manunggul : le corps et le trajet
+
+La jarre de Manunggul, sur l'île de Palawan, possède un couvercle célèbre représentant deux personnes dans une embarcation. À Maitum, l'accent visuel porte davantage sur des visages et des corps figurés. Cette différence n'interdit pas des contacts régionaux, mais elle montre que les choix iconographiques peuvent diverger à l'intérieur de traditions d'inhumation secondaire.
+
+Le contexte géographique et la chronologie ne sont pas les mêmes ; une forme de couvercle ne prouve pas la transmission d'une mythologie. L'image de voyage de Manunggul, elle-même interprétée, ne peut être utilisée pour expliquer toutes les têtes d'Ayub.
+
+Une comparaison scientifique décrira donc les formes, les gestes de fermeture, les restes et les objets associés avant de rechercher d'éventuelles correspondances de croyances.
+
+### XXIII. Comparaison avec les vases de Sa Huỳnh
+
+Les nécropoles en jarres du Vietnam central livrent des récipients, des outils de fer, des parures de pierre et de verre associés à plusieurs horizons. Des recherches ont discuté la circulation de techniques et de modèles par voie maritime en Asie du Sud-Est.
+
+Cependant, les jarres de Sa Huỳnh ne se présentent pas majoritairement sous la forme de corps complets surmontés de têtes à expression individuelle. Le partage du dispositif funéraire ne prouve donc pas l'identité de l'iconographie, des institutions ni des langues.
+
+Il serait excessif d'attribuer au seul mouvement austronésien toutes les pratiques de réinhumation en contenant. Les innovations locales, échanges répétés et chronologies variées doivent être pris en compte.
+
+### XXIV. L'hypothèse austronésienne : circulation, non essence
+
+Tabarev, Patrusheva et Cuevas rapprochent les motifs anthropomorphes d'autres séries de l'archipel indo-malais et du Pacifique et envisagent une diffusion associée aux migrations austronésiennes. Cette proposition s'inscrit dans un débat plus large sur les langues, les personnes et les techniques.
+
+Les catégories « austronésien » et « urne anthropomorphe » ne sont pas équivalentes. Les langues peuvent se diffuser indépendamment de certains objets et les techniques peuvent être empruntées sans déplacement massif de population. Les ressemblances transrégionales imposent une chronologie et des comparaisons statistiques.
+
+Une telle hypothèse doit donc être présentée comme un modèle de relations possibles, et non comme un arbre unique reliant toutes les têtes de terre cuite du Pacifique à une même religion originelle.
+
+### XXV. Les parallèles avec Jōmon et Lapita
+
+L'article de 2019 évoque des comparaisons lointaines avec le Japon Jōmon, des traditions insulaires et certains ensembles du Pacifique. Elles peuvent être utiles pour discuter l'usage de formes humaines dans la poterie et les différentes manières de traiter la mort.
+
+Elles deviennent trompeuses lorsque la grande distance chronologique et géographique est effacée. Les figurines Jōmon, les céramiques Lapita et les urnes de Maitum n'ont pas les mêmes fonctions attestées et ne constituent pas les pièces interchangeables d'un système religieux commun.
+
+L'intérêt de l'analogie réside dans les questions posées à l'image, non dans une filiation déjà démontrée. Le comparatiste doit rechercher des médiations historiques indépendantes des formes.
+
+### XXVI. Le rapport aux communautés contemporaines
+
+La région de Mindanao possède une grande diversité de communautés linguistiques et historiques. On ne peut attribuer les urnes d'Ayub à une identité ethnolinguistique actuelle sans démontrer la continuité pertinente. Les changements démographiques et politiques au cours des deux derniers millénaires ont été considérables.
+
+Il est néanmoins essentiel que les institutions locales et les personnes concernées participent à la conservation et à la présentation des découvertes. La prudence historique ne signifie pas que les communautés contemporaines seraient étrangères à la valeur patrimoniale du site.
+
+Une politique de musée doit distinguer les données archéologiques, la mémoire locale, la protection des objets et les interprétations modernes, sans faire des habitants des figurants dans un récit de « civilisation mystérieuse ».
+
+### XXVII. Les premières perturbations et la perte de contexte
+
+Avant et pendant les fouilles institutionnelles, une partie des dépôts avait été remaniée. Il faut donc traiter avec précaution les ensembles dont la provenance est seulement « Ayub Cave » sans indication d'unité stratigraphique. Les associations entre urnes, accessoires et os peuvent avoir été altérées.
+
+Un couvercle séparé de son corps devient plus difficile à identifier. Des fragments de deux récipients peuvent être rapprochés sur des critères de forme, mais le remontage doit être documenté. La restauration est une opération scientifique avec ses degrés de certitude.
+
+La protection des sols de fouille est aussi importante que la conservation des objets spectaculaires. La connaissance d'un rite se perd parfois de manière irréversible lorsque le contexte est détruit.
+
+### XXVIII. Le musée, la photographie et la visibilité publique
+
+Le National Museum of the Philippines classe les urnes anthropomorphes de Maitum parmi ses trésors culturels nationaux. Le Cultural Center of the Philippines les documente dans une encyclopédie d'art. Ces statuts institutionnels rendent l'objet accessible à un public élargi.
+
+L'exposition de visages individualisés attire légitimement l'attention. Elle peut néanmoins conduire à négliger les restes osseux, les petits pots, les tessons et les plans de grotte qui fondent les interprétations. Une encyclopédie doit présenter simultanément le chef-d'œuvre et sa situation archéologique.
+
+Il serait injustifié d'ajouter une identité religieuse à chaque photographie sans source. Les titres scientifiques devraient privilégier « urne funéraire anthropomorphe, Ayub » plutôt que « dieu », « prêtre » ou « ancêtre certain ».
+
+### XXIX. Durkheim : formes des personnes et lieux de mémoire
+
+L'approche d'Émile Durkheim permet de penser les objets socialement séparés de l'usage ordinaire. Une urne modelée comme un visage et choisie pour les restes d'un défunt peut avoir été reconnue comme singulière dans la vie collective. Mais les prescriptions exactes associées à la tombe ne sont pas conservées.
+
+Le sacré ne se déduit donc pas de la beauté ou de la présence de la tête : il faudrait comprendre les gestes de dépôt, les éventuels retours, les obligations familiales et les distinctions sociales. Le concept durkheimien sert à formuler des hypothèses, pas à traduire le sens indigène.
+
+Une enquête comparative doit préserver les spécificités de l'archipel et refuser de traiter les populations préhistoriques comme les représentants immobiles d'un stade religieux universel.
+
+### XXX. Mauss : objets accompagnant les morts
+
+Les coquillages, parures, petits vases et métaux déposés dans les ensembles funéraires peuvent être analysés dans le cadre d'une histoire du don et du retrait des biens. Selon la perspective développée par Marcel Mauss, les objets n'existent pas indépendamment des relations qu'ils entretiennent entre personnes.
+
+Cependant, une parure trouvée dans une urne peut avoir été portée par le défunt ou ajoutée par un proche. Le dépôt ne constitue pas nécessairement une offrande à un esprit, encore moins un paiement pour entrer dans un au-delà.
+
+L'analyse doit donc documenter la vie probable de l'objet et les indices de sa sélection funéraire avant de discuter sa dimension relationnelle.
+
+### XXXI. Nietzsche : généalogie des usages et des représentations
+
+Le principe généalogique consiste ici à refuser qu'une forme ait un sens unique depuis son origine. Un contenant anthropomorphe peut répondre à plusieurs usages symboliques, évoluer dans le temps et réemployer des techniques d'objets ordinaires.
+
+Il serait infondé d'appliquer aux producteurs d'Ayub des catégories de ressentiment, de dette ou de punition sans aucun témoignage historique. Nietzsche offre une méthode de questionnement, non une archive des pensées préhistoriques philippines.
+
+La relation entre visage et mort peut ainsi être étudiée comme une construction sociale possible plutôt que comme une essence religieuse universelle de l'effigie.
+
+### XXXII. Hegel et la complexité artistique hors des temples
+
+La sophistication des urnes d'Ayub montre que des sociétés sans textes religieux conservés ni sanctuaire monumental reconnu pouvaient produire des œuvres figuratives extrêmement élaborées. L'image n'est pas la propriété exclusive des États à écriture ou des cultes dotés d'un appareil sacerdotal.
+
+Une philosophie de l'histoire qui confond l'absence de palais, l'absence de théologie écrite et l'absence de pensée symbolique est contredite par la richesse des pratiques matérielles. La comparaison avec Hegel doit rester historiographique, et non prétendre que ses cours contiennent une description de Maitum.
+
+Les œuvres permettent de poser des questions sur la personne et la représentation tout en conservant la diversité des formes politiques de l'Asie du Sud-Est.
+
+### XXXIII. Les questions ouvertes de l'anthropologie biologique
+
+Une réévaluation future des collections pourrait préciser, lorsque les conditions le permettent, le nombre minimal de personnes dans chaque urne, les classes d'âge, les traces de manipulation des os et certains liens biologiques. Ces travaux demanderaient une coopération institutionnelle et une réflexion éthique particulière.
+
+Il serait méthodologiquement erroné de préjuger de leurs résultats à partir du couvercle : une urne modelée avec un visage âgé pourrait ne pas contenir les restes d'une personne âgée. Les figures peuvent relever de conventions différentes des individus biologiques.
+
+La distinction entre personne représentée, personne inhumée et groupe déposant les restes est au centre du dossier. C'est aussi un programme de recherche susceptible de préciser, ou de contredire, les modèles actuels d'ancestralité et de prestige.
+
+### XXXIV. Programme iconographique et déontologie
+
+**Figure A — Carte de Mindanao et du site d'Ayub.** Localisation du Sarangani, de Maitum et de Pinol, à partir de données géographiques vérifiées. Ne pas inventer de routes rituelles.
+
+**Figure B — Urne 21.** Image d'institution avec cotes NMP XI-91-P2-130 et XI-91-P2-131, accompagnée d'une légende séparant les caractéristiques visibles de l'identification interprétative du personnage. Source : https://epa.culturalcenter.gov.ph/3/82/2224/ .
+
+**Figure C — Planche comparative des visages.** Série de couvercles documentés, avec traits morphologiques, matériaux et degrés de restauration ; éviter d'attribuer une émotion certaine à des incisions.
+
+**Figure D — Coupe d'une urne à pot interne.** Schéma fondé sur la documentation de la jarre 21, montrant les restes humains, les sédiments et l'association sans ajouter un geste cérémoniel non observé.
+
+**Figure E — Les biens associés.** Coquillages, métal, verre et éléments céramiques, à partir des inventaires du National Museum.
+
+**Figure F — Comparaison contrôlée Manunggul/Maitum.** Distinguer la scène de navigation de Palawan de la figuration corporelle d'Ayub ; ne pas représenter une croyance identique comme un fait.
+
+Les photographies ne sont pas reproduites ici. Toute image future exige contrôle des licences et crédit. Les scènes photoréalistes non documentées et les illustrations 2,5D sont exclues de MYTHOS.
+
+### XXXV. Bibliographie de référence et limites de consultation
+
+1. **Dizon, Eusebio Z. et Santiago, Rey A.**, *Faces from Maitum: The Archaeological Excavation of Ayub Cave*, édition et introduction d'Esperanza Bunag Gatbonton, Manila, National Museum of the Philippines, 1996. Catalogue officiel : https://library.nationalmuseum.gov.ph/cgi-bin/koha/opac-detail.pl?biblionumber=5 . Monographie primaire identifiée mais non intégralement collationnée pour ce dossier.
+2. **Dizon, Eusebio Z.**, « Anthropometric Pottery from Ayub Cave, Pinol, Maitum, Sarangani Province, Mindanao », dans John N. Miksic (dir.), *Earthenware in Southeast Asia*, National University of Singapore, 2003, p. 52-58. Référence documentée par le Cultural Center of the Philippines ; texte intégral non collationné ici.
+3. **Benitez-Johannot, Purissima**, « Maitum Jar No. 21 », *Encyclopedia of Philippine Art*, Cultural Center of the Philippines, édition numérique du 18 novembre 2020. https://epa.culturalcenter.gov.ph/3/82/2224/ . Source institutionnelle pour la description des formes, des objets associés et les dates radiocarbone rapportées.
+4. **Tabarev, A. V. ; Patrusheva, A. E. ; Cuevas, N.**, « Burials in Anthropomorphic Jars in the Philippines », *Archaeology, Ethnology & Anthropology of Eurasia*, 47/2, 2019, p. 40-47. DOI https://doi.org/10.17746/1563-0110.2019.47.2.040-047 . Résumé scientifique de l'Institut de Novossibirsk : https://archaeology.nsc.ru/en/publications/jr-aeae-en/19-47-2/annot-05/ . L'hypothèse d'une nécropole d'élite est attribuée aux auteurs.
+5. **National Museum of the Philippines**, « Burial Jars », catalogue institutionnel des traditions funéraires philippines, incluant Maitum et Manunggul comme trésors culturels nationaux. https://www.nationalmuseum.gov.ph/our-collections/archaeology/burial-jars/ .
+6. **Ronquillo, Wilfredo P.**, « Maitum Jar (No. 21) », dans Purissima Benitez-Johannot (dir.), *Paths of Origins: The Austronesian Heritage*, ArtPostAsia, 2011, p. 116-117. Notice référencée dans l'encyclopédie du Cultural Center.
+7. **Bulbeck, David**, « Traditions of Jars as Mortuary Containers in the Indo-Malaysian Archipelago », dans *New Perspectives in Southeast Asian and Pacific Prehistory*, ANU Press, chapitre 8 : https://press-files.anu.edu.au/downloads/press/n2320/html/ch08.xhtml . Comparaison des traditions de contenants funéraires.
+8. **Cultural Center of the Philippines**, *Encyclopedia of Philippine Art*, notices de la collection archéologique ; les interprétations artistiques ne sont pas des confirmations indépendantes du contexte de fouille.
+9. **Durkheim, Émile**, *Les Formes élémentaires de la vie religieuse*, 1912 ; outil comparatif, non source directe.
+10. **Mauss, Marcel**, *Essai sur le don*, 1925 ; analyse relationnelle des biens, non description de Maitum.
+11. **Nietzsche, Friedrich**, *Zur Genealogie der Moral*, 1887 ; question sur l'histoire des fonctions.
+12. **Hegel, G. W. F.**, leçons sur la philosophie de l'histoire, éditions posthumes ; critique historiographique, non témoignage sur Mindanao.
+
+### XXXVI. Conclusion et concordance de MYTHOS
+
+Maitum constitue un dossier exceptionnel parce que le traitement secondaire des morts y prend la forme de corps et de visages de céramique. Cette caractéristique invite à étudier la place de l'individu, la mémoire d'un groupe et les techniques qui transforment le contenant en image. Elle ne permet ni de connaître le nom du mort ni de reconstruire une religion complète de l'au-delà.
+
+Les dates, surtout celles associées à des résidus de suie sur un pot intérieur, doivent être exposées dans leur précision réelle. Les modèles de prestige et de diffusion austronésienne restent des interprétations débattues. Les contextes fouillés, la restauration et la responsabilité des institutions philippines demeurent le fondement de l'histoire du site.
+
+La présente étude complète les volumes consacrés à Manunggul–Tabon, Sa Huỳnh, aux grottes de Niah et à Ban Chiang sans reprendre leurs textes ni réserver un numéro déjà attribué. Les rapprochements concernent les traitements des corps, les images funéraires et les relations matérielles entre communautés. Ils ne démontrent aucune religion uniforme de l'Asie du Sud-Est.
+
+**Grille de certitude :** [A] urnes anthropomorphes, dépôts secondaires, poteries internes, matériaux associés et publications documentées ; [B] gestes de sélection et de fermeture ; [C] hypothèses de portraits mémoriels, de hiérarchie sociale et de réseaux de techniques ; [D] noms de dieux, cérémonies détaillées et continuité cosmologique non attestés.
+
+**Statut éditorial :** le manuscrit complet est proposé dans la collection \`origines-du-sacre\` avec l'emplacement \`802\`. Le système GitHub Actions attribuera seul un numéro canonique et son reçu, après validation du dernier \`main\`. La présence en file ne confirme pas la disponibilité publique sur bobmythos.fr. Aucun document ancien, reçu, média, réglage graphique ni automatisation horaire n'est modifié.
