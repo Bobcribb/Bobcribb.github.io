@@ -39,7 +39,9 @@ CONTINENTS = {
 AFRICAN = ("afrique","aksoum","carthage","zagwe","garamantes","grand-zimbabwe","ife-yoruba","swahili","mali-songhai","mapungubwe","nok-nigeria","koush","numidie","benin","makouria","kongo","egypte")
 EUROPEAN = ("daces","romain-orient","grece-antique","celtes-gaules","rome-antique","sardaigne","tartessos","thraces","etrusques","egee-bronze")
 AMERICAN = ("sonora","andes","cahokia","caral","chavin","chimu","el-tajin","mexicas","mixteques","mochicas","mayas","olmeques","pueblos","muisca","teotihuacan","tiwanaku","tolteques","uxmal","zapoteques")
-OCEANIAN = ("oceanie","rapa-nui")
+# Les territoires de Nouvelle-Guinée sont situés en Océanie ; conserver le jeton
+# composite pour ne pas déplacer « Sambor Prei Kuk » (Cambodge) hors d'Asie.
+OCEANIAN = ("oceanie","rapa-nui","kuk-papouasie")
 
 def esc(x): return html.escape(str(x),quote=True)
 def write(slug,content):
