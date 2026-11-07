@@ -204,3 +204,13 @@ Le caractère religieux de cette justice tient à la souveraineté légitimée p
 **Note de méthode.** Les affirmations sur les clauses précises reposent sur les éditions assyriologiques ; les formulations françaises de cette étude sont des reformulations et ne sont pas présentées comme des traductions littérales d'une tablette lacunaire. Aucune hypothèse ne doit être assimilée à un fait d'archive.
 
 **Renvoi interne.** Voir les études MYTHOS déjà enregistrées sur le prêt d'Artémis à Sardes, les arriérés délien et les sanctions d'Épidaure ; le présent texte traite des conditions de remise par intervention souveraine, non de la procédure générale de recouvrement.
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Publication académique identifiée.** Jacob J. Finkelstein, « Ammiṣaduqa's Edict and the Babylonian "Law Codes" », *Journal of Cuneiform Studies* **15/3**, **1er juin 1961**, p. **91–104**, DOI [10.2307/1359019](https://doi.org/10.2307/1359019), [éditeur](https://www.journals.uchicago.edu/doi/10.2307/1359019), [index CDLI](https://cdli.earth/publications/1706672). La notice, les métadonnées et le résumé accessible sont identifiés ; le texte intégral de l'article est **sous accès restreint**. Aucun paragraphe précis de l'édit n'est attribué sans contrôle philologique.
+
+**Chercheur français et preuve d'archive.** Dominique Charpin, « [L'avènement de Samsu-iluna](https://www.college-de-france.fr/fr/agenda/cours/la-mesopotamie-sous-les-successeurs-de-hammu-rabi/avenement-de-samsu-iluna) », cours du Collège de France du **22 octobre 2018** : le résumé institutionnel consulté relève l'annulation de certaines créances privées au début du règne de Samsu-iluna et la présence d'effets observables dans les archives, contre la réduction à la propagande royale. **Cette leçon concerne Samsu-iluna** et ne constitue pas une édition de l'édit d'Ammiṣaduqa. Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux* (1987), fournit un cadrage général, non une collation des clauses.
+
+**Limites de preuve.** Ne pas assimiler toute proclamation de *mīšarum* ou *andurārum* à l'abolition de toutes les dettes ni confondre inscription normative et pratique observée. Restent à identifier : les catégories juridiques couvertes, les exceptions, les supports cunéiformes et les variantes de traduction.

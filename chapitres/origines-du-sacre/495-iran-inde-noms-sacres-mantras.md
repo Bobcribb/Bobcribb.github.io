@@ -39,3 +39,14 @@ Le *Yašt* 1 et le *Viṣṇusahasranāma* mettent en scène des listes de noms 
 - https://www.iranicaonline.org/articles/ahura-mazda/
 
 **Transition :** la Chine permet de déplacer l'enquête vers les noms rituels, les titres célestes et les tabous politiques de dénomination.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Article scientifique consulté.** Almut Hintze, « [Yašts](https://www.iranicaonline.org/articles/yashts/) », *Encyclopaedia Iranica*, publié le **23 septembre 2014**, mis à jour le **9 novembre 2017**. L'article distingue la récitation cultuelle des noms divins et la fonction protectrice du **Yašt 1.1–19** (*Ohrmazd Yašt*). Renvois précis recensés : **Yt. 8.11, 23–25 ; 10.30–31, 54–56, 74** et **Yasna 1.3 et 2.3** pour la mention de la proclamation nominative. La formulation avestique exacte et ses variantes n'ont pas été collationnées dans cette note.
+
+**Témoins et datation.** Hintze identifie le manuscrit *Khorde Avesta* **Jm4 (1352 apr. J.-C.)** et le codex de Yašts **F1 (1591)** ; ce sont des dates de **manuscrits conservés**, non celles de composition des hymnes. Hérodote, *Histoires* **I, 132**, décrit les pratiques rituelles perses sous un regard grec ; ce passage n'est pas une copie d'un Yašt.
+
+**Référence française de contextualisation.** Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Fayard, **1996**, précise le contexte achéménide mais n'est pas une édition du *Yašt 1*. Conserver Jamison et Brereton, *The Rigveda* (2014), pour l'Inde, à confronter aux passages védiques exacts. **Ne pas confondre** parenté de langues, dates des témoins et continuité des rituels. Aucune caution de ces auteurs à MYTHOS n'est revendiquée.

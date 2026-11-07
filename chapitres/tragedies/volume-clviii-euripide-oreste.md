@@ -265,3 +265,16 @@ Des comparaisons avec des rites de purification d'autres civilisations doivent c
 L'œuvre ne condamne pas simplement la démocratie, la famille ou la religion. Elle interroge la fragilité de toutes les formes de légitimité lorsqu'elles prétendent transformer la souffrance en droit de nuire. L'écart entre commandement divin, jugement public et responsabilité humaine constitue son noyau tragique.
 
 **Protection éditoriale :** nouveau fichier autonome CLVIII, après CLVII ; aucun fichier existant modifié ; aucune intervention WordPress ; aucun document privé publié.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Source antique.** Euripide, *Oreste* (représenté en 408 av. J.-C.), scène du messager relatant le débat de l'assemblée d'Argos, approximativement **v. 866–956**. Il s'agit d'une scène tragique rapportée, et non du procès-verbal d'une assemblée athénienne ou argienne. Une traduction littérale nécessite la collation du grec.
+
+**Édition critique et recherche.** James Diggle, *The Textual Tradition of Euripides' Orestes*, Oxford University Press, 1990, DOI [10.1093/oso/9780198147664.001.0001](https://doi.org/10.1093/oso/9780198147664.001.0001), [notice OUP](https://academic.oup.com/book/47265) : métadonnées et résumé examinés ; livre non collationné intégralement. Alexandra Hardwick, « Collective Political Decision-Making in Tragedy », dans *Off-Stage Groups in Athenian Drama* (2024), DOI [10.1093/oso/9780198887225.003.0003](https://doi.org/10.1093/oso/9780198887225.003.0003), résumé éditorial consulté, chapitre intégral inaccessible. La recherche distingue les degrés d'idéalisation et de critique de la délibération collective.
+
+**Recherche française — contextualisation seulement.** Nicole Loraux, *Façons tragiques de tuer une femme* (1985), référence sur le théâtre et les représentations du féminin ; passage applicable à cette scène **non collationné**. Aucune position particulière de Loraux sur la décision argienne n'est inventée.
+
+**Limites.** Ne pas déduire la position personnelle d'Euripide sur la démocratie de l'unique issue dramatique. Pas d'avis, d'approbation ou de relecture externe revendiqués.

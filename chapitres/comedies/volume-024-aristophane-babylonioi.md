@@ -156,3 +156,14 @@ La méthode impose donc trois archives séparées : sources grecques sur la piè
 **Navigation :** [← Volume XXIII — *Anagyros*](volume-023-aristophane-anagyros.md) · [Volume XXV — *Polyidos* →](volume-025-aristophane-polyidos.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/).
 
 *MYTHOS — étude publique ; les lacunes documentaires demeurent explicites.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Corpus et témoignages.** Les *Babylōnioi* d'Aristophane ont été représentés aux Dionysies de **426 av. J.-C.** ; le dossier fragmentaire est répertorié aux **fr. 67–100 K.-A.**. Distinguer les fragments de l'œuvre perdue, les scholies aux *Acharniens* **378**, les passages rétrospectifs des *Acharniens* **630–642** et les traditions biographiques postérieures au sujet de Cléon. Une mise en cause judiciaire rapportée n'autorise pas l'invention d'un acte d'accusation ou d'un verdict.
+
+**Études contrôlées.** Maurizio Sonnino, « Babylonians (Aristophanes) », *The Encyclopedia of Greek Comedy*, vol. 1, **2019**, p. **124–125**, ISBN **9781118605042** : [notice et résumé dans l'archive de La Sapienza](https://iris.uniroma1.it/handle/11573/665848), texte éditorial non accessible intégralement. Helene P. Foley, « Tragedy and politics in Aristophanes' Acharnians », *Journal of Hellenic Studies* **108** (1988), p. **33–47**, DOI [10.2307/632629](https://doi.org/10.2307/632629) : résumé et bibliographie de l'éditeur examinés, [Cambridge](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/tragedy-and-politics-in-aristophanes-acharnians1/45BCCEA22A1FC8CFBFC4192DDB71ECF4), sans collation intégrale.
+
+**Référence française limitée.** Pierre Vidal-Naquet, *Le Chasseur noir* (1981) : cadre général pour les institutions civiques, non témoignage de cette comédie, **sans passage spécialisé collationné**. La représentation hypothétique d'alliés réduits en esclavage ne doit pas être assimilée à une scène intégralement conservée. Aucun commentaire personnel d'universitaire ou caution institutionnelle de MYTHOS n'est revendiqué.
