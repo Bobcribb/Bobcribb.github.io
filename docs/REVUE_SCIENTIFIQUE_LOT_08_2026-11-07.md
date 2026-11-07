@@ -57,3 +57,19 @@ Les notes ci-dessous sont ajoutées **en fin** des manuscrits existants et daté
 - Philosophie : une autre étude de Foucault existe au volume CXLIX. **Recoupement thématique à évaluer**, sans déplacer ni fusionner les volumes.
 - Pas de citation imaginaire de professeur ni de caution de la British Library, du Louvre, du Collège de France, d'Iranica, des musées grecs ou de la CDLI.
 - **Domaine public :** aucune publication MYTHOS nouvelle n'est revendiquée à partir d'une PR en brouillon ; aucun déploiement ni fusion autorisé.
+
+
+## Addendum critique — 7 novembre 2026, version 2 (PR brouillon)
+
+La relecture scientifique [consignée sur GitHub](https://github.com/Bobcribb/Bobcribb.github.io/pull/190#issuecomment-6705166813) a donné lieu à des précisions **dans les huit annotations de ce lot uniquement**. Les textes originaux restent des préfixes intacts ; aucune numérotation, référence d'image ou identité éditoriale n'est modifiée.
+
+- **Sophocle, *Niobé*** : distinction entre Papyrus 690 A (*Niobé*) et B (œuvre indéterminée), *hypothesis* antique de P.Oxy. LII 3653, reclassement Radt 446/451 signalé dans [Brandenburg 2026](https://bmcr.brynmawr.edu/2026/2026.08.20/). L'édition [Ozbek 2023](https://edizionicafoscari.it/en/edizioni4/libri/978-88-6969-738-8/) est en libre accès ; collation intégrale avec *TrGF* non achevée.
+- **Eupolis, *Dēmoi*** : même cote de collection JdE 43227 que des feuillets de Ménandre, sans identité garantie de codex ; réserve documentée par [Lucio Del Corso 2022](https://doi.org/10.1515/9783110751987-009) d'après Fournet 1999 ; publication papier Torello 2008, mise en ligne 2015. [Olson 2017](https://doi.org/10.11588/diglit.53729) à confronter à Storey et PCG V.
+- **Saqqara** : [Rageot et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9908542/) : 121 récipients inscrits, 31 analysés dans l'atelier (9 + 22), quatre échantillons de chambres funéraires en supplément ; échantillon local, pas recette universelle.
+- **JHU T061** : [Földi–Head 2014](https://cdli.earth/articles/cdlb/2014-4) : remboursement d'un prêt et obligation conditionnelle de briser le titre retrouvé, **non remise gracieuse**.
+- **Mihr Yašt** : [Hintze, *Iranica*](https://www.iranicaonline.org/articles/mihr-yasht/) : distribution exacte des strophes 1–3 et 17–24 ; édition critique linguistique non collationnée.
+- **Sceau d'Adda** : [CDLI P458063](https://cdli.earth/artifacts/458063) : références Collon et Pierre Amiet identifiées, passages non collationnés ; provenance incertaine.
+- **Apollon** : la [dragonne anonyme de l'*Hymne* 300–309](https://sites.exeter.ac.uk/ogdens-dragonsdens/the-classical-dragon/python/homeric-hymn-to-apollo/) n'est pas nommée Python dans ces vers.
+- **Foucault** : la [page du Collège de France](https://www.college-de-france.fr/fr/agenda/cours/le-gouvernement-de-soi-et-des-autres) reprend la quatrième de couverture du Seuil pour ses thèmes, non une collation des leçons.
+
+**Restrictions maintenues :** ne pas fusionner, publier, renuméroter ni déclarer une validation scientifique externe. PR brouillon. Les vérifications CI de la nouvelle tête et tout blocage de fusion doivent être contrôlés séparément.
