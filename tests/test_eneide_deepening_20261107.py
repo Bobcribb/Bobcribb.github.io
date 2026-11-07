@@ -127,6 +127,7 @@ class EneideDeepeningTest(unittest.TestCase):
             raw = (CORPUS / name).read_text(encoding="utf-8")
             section = chapters[idx]
             render = section.get_text(" ", strip=True)
+            render_paragraphs = [" ".join(p.get_text().split()) for p in section.select("p")]
             for label in signatures:
                 self.assertEqual(raw.count("## " + label), 1, name + " : " + label)
                 self.assertIn(label, render, name + " : " + label)
@@ -140,7 +141,7 @@ class EneideDeepeningTest(unittest.TestCase):
                 plain = re.sub(r"\[([^\]]+)\]\(https?://[^)]+\)", r"\1", paragraph)
                 plain = plain.replace("*", "").replace("\n", " ")
                 plain = unescape(plain)
-                self.assertIn(" ".join(plain.split()), " ".join(render.split()),
+                self.assertIn(" ".join(plain.split()), render_paragraphs,
                               name + " : paragraphe source absent du lecteur")
         refs = (CORPUS / "17-reperes-et-sources.md").read_text(encoding="utf-8")
         for doi in (
