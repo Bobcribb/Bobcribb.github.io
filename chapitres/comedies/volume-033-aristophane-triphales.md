@@ -155,3 +155,13 @@ La plupart des comédies perdues nous parviennent par des citations, des lexique
 
 
 **Suite du cycle :** [Volume XXXIV — *Les Saisons*](volume-034-aristophane-horai.md).
+
+---
+
+### Note éditoriale documentaire — corpus fragmentaire et corps satyrique (7 novembre 2026)
+
+**Distinction des corpus.** Le titre *Triphalēs* renvoie à une pièce perdue : ni une peinture de vase ni un témoignage général sur le phallus comique ne fournissent son argument ou la répartition de ses rôles. Pour toute citation attribuée à cette comédie, le contrôle requis est Rudolf Kassel et Colin Austin (éd.), *Poetae Comici Graeci*, III.2, *Aristophanes. Testimonia et fragmenta*, Berlin / New York, de Gruyter, 1984 ; les lectures et numéros de fragments précis restent à vérifier sur l'édition, non déduits du titre.
+
+**Chercheur français et publication identifiée.** François Lissarrague, *La Cité des satyres. Une anthropologie ludique (Athènes, VIe–Ve siècle avant J.-C.)*, Paris, Éditions de l'EHESS, 2013, ISBN 978-2-7132-2384-6 ; [notice INHA consultée](https://agorha.inha.fr/ark:/54721/cd2db663-fb6a-4b0d-bfb4-66a59b6237b0) et [compte rendu dans la *Revue philosophique de Louvain* 114 (2016), p. 180](https://www.persee.fr/doc/phlou_0035-3841_2016_num_114_1_8527_t1_0180_0000_2). Son corpus de représentation des satyres, notamment les vases, fournit un **parallèle iconographique**, non une source conservée de la pièce d'Aristophane.
+
+**Limites documentaires.** L'iconographie satyrique, le costume d'acteur et le dispositif scénique de cette comédie sont trois types de témoignages distincts. Aucune représentation, datation du concours ou phrase de la pièce n'est imputée à Lissarrague ; le livre intégral et les fragments de Kassel–Austin n'ont pas été collationnés au cours de cette note. Les scènes [C] du manuscrit demeurent explicitement fictives. **Statut :** références bibliographiques contrôlées ; attribution détaillée des fragments et iconographie directe à vérifier.
