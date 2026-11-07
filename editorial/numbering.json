@@ -2356,6 +2356,12 @@
           "path": "chapitres/encyclopedie/chapitre-490-thamyris-thamyras-muses-cithare-hybris-dorion-philammon-polygnotos.md",
           "request_sha256": "35f12c7af4426b95ef8cb6be05497bd9ddd3a672a63f0ee0d3b834c0a303c760",
           "initial_source_sha256": "c93ae2e6a39564b645e130c4cb739b22c494a1b1e95569b566c230c22e1e7021"
+        },
+        "5d719e62-8b04-4a2e-a68f-7da9bb9c04ec": {
+          "number": 491,
+          "path": "chapitres/encyclopedie/chapitre-491-hylas-nymphes-mysie-heracles-argonautes-kios-echo-cultes-poetique.md",
+          "request_sha256": "b650b69c284cf158cfbc4fcb743539e1b20c54ece9731684daa8fb0a8dbfd0e1",
+          "initial_source_sha256": "d3edc14f2c8e915af5720f00d1ec43b49134d7cda5cb452b6d9265d42a235bd3"
         }
       }
     },
@@ -4981,6 +4987,12 @@
           "path": "chapitres/comparatif/volume-ccclv-mc-128-peaux-marquees-gebelein-deir-el-medina-herodote-pazyryk-otzi.md",
           "request_sha256": "587c5662f57da2701a4a0d00e7b55d5eb8e53c30c7837db19f8095be8083272f",
           "initial_source_sha256": "12a007090a530de66a5d4b979cb92f44f2f0306f2fafd665013286114c5d3947"
+        },
+        "c129a5db-6f07-4c8d-9e2f-202611071550": {
+          "number": 356,
+          "path": "chapitres/comparatif/volume-ccclvi-mc-129-baiser-sacre-proskynesis-baal-heracles-paix-rituelle.md",
+          "request_sha256": "24968b6ab9a4a6d912f557f02e717abe5a151cc44e8b39a2d64500ad5ab663c3",
+          "initial_source_sha256": "a6279da1e08669376cfecf0d35d1723f9ad806006ac919413c49d822961bc2f4"
         }
       }
     }
