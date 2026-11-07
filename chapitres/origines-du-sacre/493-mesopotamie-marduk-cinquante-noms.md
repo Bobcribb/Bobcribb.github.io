@@ -36,3 +36,15 @@ Les épiclèses grecques peuvent identifier un dieu en fonction d'un lieu ou d'u
 - https://oi.uchicago.edu/sites/default/files/uploads/shared/docs/misc_genesis.pdf
 
 **Transition :** dans le récit égyptien d'Isis et de Rê, le nom ne sert plus principalement à proclamer une souveraineté, mais devient l'objet d'un secret et d'une transmission de puissance.
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Passage primaire à recollationner :** *Enūma eliš* **VI, 121 – VII, 144**, séquence des appellations de Marduk. W. G. Lambert, *Babylonian Creation Myths*, Eisenbrauns/Penn State University Press, **2013**, fournit translittérations et traductions des sept tablettes, DOI **10.5325/j.ctv18r6rfr** (présentation d'éditeur universitaire consultée) : https://www.jstor.org/stable/10.5325/j.ctv18r6rfr .
+
+**Point historiographique précis :** Eiko Matsushima, « On the Significance of “Fifty Names” of Marduk », *Orient* 51/1 (2008), p. **165–180**, DOI **10.5356/jorient.51.165**, note dans son **résumé public** que le décompte VI 123 – VII 136 donne **51 noms** malgré la désignation traditionnelle de « cinquante ». L'hypothèse de transfert de suprématie depuis Enlil doit rester présentée comme interprétation argumentée, non comme nombre arithmétique simple : https://www.jstage.jst.go.jp/article/jorient/51/1/51_165/_article/-char/en .
+
+**Bibliographie française authentifiée :** Jean Bottéro et Samuel Noah Kramer, *Lorsque les dieux faisaient l'homme. Mythologie mésopotamienne*, Gallimard, **1989**, notice BnF https://catalogue.bnf.fr/ark:/12148/cb350128499.public . Ce recueil sert d'orientation dans l'histoire des traductions : la notice BnF n'établit pas une prise de position personnelle de Bottéro sur le décompte 50/51. Ne pas effacer les références à Lambert, Foster ou Matsushima.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->
