@@ -13,3 +13,9 @@ La comparaison met en évidence un paradoxe : la fidélité formelle peut être 
 **Bibliographie :** Frits Staal, *Agni: The Vedic Ritual of the Fire Altar* (1983); Stephanie W. Jamison et Joel P. Brereton, *The Rigveda* (2014); Mary Boyce, *Zoroastrians: Their Religious Beliefs and Practices* (1979).
 
 **Statut :** traditions textuelles attestées; continuité des mélodies antiques non démontrée.
+
+### Annexe documentaire — revue scientifique du 7 novembre 2026 (lot 06)
+
+**Sources textuelles identifiées :** *Yasna* **28–34**, **43–46**, **47–50**, **51** et **53**, cinq groupes des *Gāthās* ; *Yasna* **35–41** est la prose du *Yasna Haptaŋhāiti* et **52** n'est pas gāthique. Vérification dans Helmut Humbach, « GATHAS i. TEXTS », *Encyclopaedia Iranica*, publié le **15 décembre 2000** ([texte consulté](https://www.iranicaonline.org/articles/gathas-i-texts/)) et William W. Malandra, « YASNA », publié le **15 août 2006**, actualisé le **7 avril 2017** ([texte consulté](https://www.iranicaonline.org/articles/yasna/)). Ces notices distinguent composition poétique, compilation liturgique et performance rituelle ; elles n'établissent pas la musique originelle de la préhistoire indo-iranienne. **Référence française de cadrage seulement :** Pierre Briant, *Histoire de l'Empire perse*, Fayard, 1996, [Collège de France](https://www.college-de-france.fr/fr/personne/pierre-briant), pour l'histoire achéménide, **sans assimiler l'Avesta ancien à une source directe de liturgie de cour achéménide**. **Limite :** le *Ṛgveda* I, 1 et les Gāthās ne sont pas un seul texte et ne prouvent pas une mélodie partagée.
+
+**Statut :** articles de référence consultés ; transcription, accentuation et métrique sans édition intégrale comparée.

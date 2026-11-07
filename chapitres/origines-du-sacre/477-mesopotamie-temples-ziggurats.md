@@ -35,3 +35,9 @@ Les villes possédaient leurs divinités tutélaires et leurs lieux de culte; de
 **Bibliographie :** Andrew R. George, *House Most High: The Temples of Ancient Mesopotamia* (1993); Mario Liverani, *The Ancient Near East: History, Society and Economy* (2014); Harriet Crawford, *Sumer and the Sumerians* (3e éd., 2013).
 
 **Référence institutionnelle consultable :** https://archeologie.culture.gouv.fr/orient-cuneiforme/en/architecture-ziggurat .
+
+### Annexe documentaire — revue scientifique du 7 novembre 2026 (lot 06)
+
+**Témoin matériel [musée et portail national] :** tablette mathématique dite « de l'Esagil », musée du Louvre **AO 6555**, copie rédigée à Uruk en **229 av. J.-C.**, [cartel du ministère français de la Culture](https://archeologie.culture.gouv.fr/orient-cuneiforme/en/cartel-0). Le texte fournit une géométrie idéale pour Etemenanki ; le [dossier architectural officiel](https://archeologie.culture.gouv.fr/orient-cuneiforme/fr/larchitecture-de-la-ziggurat) donne des côtés de **90 m** et souligne que les **90 m de hauteur théorique** ne sont pas une mesure archéologique de la construction réelle. **Référence française de cadrage :** Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux*, Gallimard, 1987, [BnF](https://catalogue.bnf.fr/ark:/12148/cb37506214w). **Limite :** le témoignage mathématique tardif d'Uruk ne documente pas directement les dimensions d'Ur ni une cosmologie universelle de toutes les ziggurats. Ne pas attribuer à Bottéro un commentaire précis d'AO 6555 sans passage et page collationnés.
+
+**Statut :** inventaire, date, lieu, distinction mesures idéales/réelles documentés ; édition cunéiforme du témoin à collationner.

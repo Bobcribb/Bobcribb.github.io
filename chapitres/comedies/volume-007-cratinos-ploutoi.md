@@ -260,3 +260,9 @@ Le meilleur hommage à une œuvre perdue n'est pas d'inventer sa totalité, mais
 **Suite de la série :** [Volume VIII — Cratinos, *Odysseis*](/chapitres/comedies/volume-008-cratinos-odysseis/) · **Navigation de la série :** [Volume VI — Cratinos, *Némésis*](/chapitres/comedies/volume-006-cratinos-nemesis/) · [Volume V — Eupolis, *Poleis*](/chapitres/comedies/volume-005-eupolis-poleis/) · [Portail Théâtre grec](/theatre/) · [Bibliothèque historique des comédies perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
 *Fin du volume VII. Les volumes I à VI, les dossiers historiques et les autres séries MYTHOS restent intacts.*
+
+### Annexe documentaire — revue scientifique du 7 novembre 2026 (lot 06)
+
+**Document philologique [publication effectivement consultée] :** Roger Goossens, « Les “Ploutoi” de Kratinos », *Revue des Études Anciennes* 37/4 (1935), p. 405–434, DOI [10.3406/rea.1935.2847](https://doi.org/10.3406/rea.1935.2847), [notice et article Persée](https://www.persee.fr/doc/rea_0035-2004_1935_num_37_4_2847). L'introduction expose la publication de plusieurs fragments papyrologiques d'un même rouleau par G. Vitelli, M. Norsa et P. Mazon. **Complément international [source académique] :** Emmanuela Bakola, *Cratinus and the Art of Comedy*, thèse, University of London, 2006, [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/1445304/) : résumé consulté, thèse non collationnée intégralement. **Limite :** les hypothèses de Goossens (1935) doivent être confrontées aux éditions et attributions postérieures, notamment Kassel–Austin ; le caractère mutilé du papyrus interdit de convertir une conjecture d'intrigue en fragment attesté. Les scènes contemporaines signalées [C] restent des créations MYTHOS.
+
+**Statut :** identification et contexte d'édition vérifiés ; numéros et lectures des fragments à contrôler sur édition critique.
