@@ -18,7 +18,8 @@
       "height": 887,
       "created_at": "2026-11-04",
       "type": "panorama numérique non métrique",
-      "sha256": "60d98c8eb4b12acf1bcb4816f5518085f839ae13b8a9d10096ddbcbfbebe6284"
+      "sha256": "60d98c8eb4b12acf1bcb4816f5518085f839ae13b8a9d10096ddbcbfbebe6284",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/delphes-apollon-panorama.json"
     },
     {
       "id": "ATH-001",
@@ -33,7 +34,8 @@
       "width": 1536,
       "height": 1024,
       "type": "image antérieure conservée",
-      "sha256": "35d63742ac7ddca8cd19954f29e3cb5b426ec16b0b20fef3b76d3c27cf0a0254"
+      "sha256": "35d63742ac7ddca8cd19954f29e3cb5b426ec16b0b20fef3b76d3c27cf0a0254",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/athenes-acropole.json"
     },
     {
       "id": "R3D-001",
@@ -50,7 +52,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "f356759adb416e244bc59d04e8c0b9e7d5d4576f8ab96f0bf9c2f9ff22130e2e"
+      "sha256": "f356759adb416e244bc59d04e8c0b9e7d5d4576f8ab96f0bf9c2f9ff22130e2e",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/delphes-sanctuaire-vue-ensemble.json"
     },
     {
       "id": "R3D-002",
@@ -67,7 +70,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "7525d63b66e98e7a92ba0caab957171f5cd732f28d7660227322b072d6c7137d"
+      "sha256": "7525d63b66e98e7a92ba0caab957171f5cd732f28d7660227322b072d6c7137d",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/nemee-temple-zeus-vue.json"
     },
     {
       "id": "R3D-003",
@@ -84,7 +88,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "e939305acfe9f9d28fc275a14cab38cb2a47ecc66ee70b6c2c2ecec5db1fc436"
+      "sha256": "e939305acfe9f9d28fc275a14cab38cb2a47ecc66ee70b6c2c2ecec5db1fc436",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/corinthe-temple-apollon-vue.json"
     },
     {
       "id": "R3D-004",
@@ -101,7 +106,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "b3b6c3809081c184bf75f9fc9d41df5631fe26f392d358e216f8a4fa4a820711"
+      "sha256": "b3b6c3809081c184bf75f9fc9d41df5631fe26f392d358e216f8a4fa4a820711",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/messene-asklepieion-vue.json"
     },
     {
       "id": "R3D-005",
@@ -118,7 +124,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "7a4bd5530debdb52ef09b0bb82618ef25302c15ac11132f82b87e44511a557c0"
+      "sha256": "7a4bd5530debdb52ef09b0bb82618ef25302c15ac11132f82b87e44511a557c0",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/sounion-poseidon-vue.json"
     },
     {
       "id": "R3D-006",
@@ -135,7 +142,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "f514cf92a7fac7f249b270b9da612f054765f19af30618ba2f44f41c047bd5ba"
+      "sha256": "f514cf92a7fac7f249b270b9da612f054765f19af30618ba2f44f41c047bd5ba",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/brauron-artemis-vue.json"
     },
     {
       "id": "R3D-007",
@@ -152,7 +160,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "c6f223aa583e622e21f2171cae2f03b111320cbee3d1f2432df2a9c1479f4c80"
+      "sha256": "c6f223aa583e622e21f2171cae2f03b111320cbee3d1f2432df2a9c1479f4c80",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/dodone-theatre-vue.json"
     },
     {
       "id": "R3D-008",
@@ -169,7 +178,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "d61f1ed8e507e64054ca34c183ba8cf9c37ec19abbd3819d1d300061248ff0ec"
+      "sha256": "d61f1ed8e507e64054ca34c183ba8cf9c37ec19abbd3819d1d300061248ff0ec",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/bassae-apollon-exterieur-vue.json"
     },
     {
       "id": "R3D-009",
@@ -186,7 +196,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "418e502f62c99fd7edf8b8b2f1cd5d795dea7b641df8af68d612168c4acf8651"
+      "sha256": "418e502f62c99fd7edf8b8b2f1cd5d795dea7b641df8af68d612168c4acf8651",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/nemee-stade-vue.json"
     },
     {
       "id": "R3D-010",
@@ -203,7 +214,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "7326882b28556b2d46e11821ac12d49ed2474fd6e7717d5b7e65ca92aa690bf9"
+      "sha256": "7326882b28556b2d46e11821ac12d49ed2474fd6e7717d5b7e65ca92aa690bf9",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/corinthe-pirene-vue.json"
     },
     {
       "id": "R3D-011",
@@ -220,7 +232,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "7a2d8f9074440ba44eb8f267ccab17587cfff0e8724b325b207f38fef86e5ae2"
+      "sha256": "7a2d8f9074440ba44eb8f267ccab17587cfff0e8724b325b207f38fef86e5ae2",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/messene-stade-vue.json"
     },
     {
       "id": "R3D-012",
@@ -237,7 +250,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "d7e33b1e14b279023283d56c65739c183784a574fee8d99234dbcbaaa282c2eb"
+      "sha256": "d7e33b1e14b279023283d56c65739c183784a574fee8d99234dbcbaaa282c2eb",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/sounion-athena-vue.json"
     },
     {
       "id": "R3D-013",
@@ -254,7 +268,8 @@
       "created_at": "2026-11-04",
       "type": "vue photographique cadrée de planche ancienne",
       "provenance": "Extrait cadré d’une image composite MYTHOS déjà créée, sans menu ni cartouche ; cette vue est une illustration numérique, non un relevé archéologique.",
-      "sha256": "1d6ec087fda3af11f6b374ba96849ca8fd2f68bb60821b570cd113c8b267e28d"
+      "sha256": "1d6ec087fda3af11f6b374ba96849ca8fd2f68bb60821b570cd113c8b267e28d",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/brauron-stoa-vue.json"
     },
     {
       "id": "DEL-THO-001",
@@ -313,7 +328,8 @@
       "created_at": "2026-11-04",
       "type": "Vue architecturale 3D photoréaliste non métrique",
       "provenance": "Reconstitution numérique contemporaine, générée séparément de la page. Le fichier image ne contient ni titre ni navigation.",
-      "sha256": "7aea86b45684cbcabd940999860a80e7ebb7ed7678acc92fa0c7b117b0e0c747"
+      "sha256": "7aea86b45684cbcabd940999860a80e7ebb7ed7678acc92fa0c7b117b0e0c747",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/samos-heraion-rhoikos-vue-architecturale.json"
     },
     {
       "id": "DLS-PAN-001",
