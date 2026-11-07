@@ -2332,6 +2332,12 @@
           "path": "chapitres/encyclopedie/chapitre-489-polybotes-poseidon-nisyros-gigantomachie-vases-geologie.md",
           "request_sha256": "2672b89105473f0c94bbd0f84282d2d04d58e123d67634a35dfe73e992aa6702",
           "initial_source_sha256": "61a0cba1751f0668416843711d5921dc63d548242475bbb58e19f1aaa35879e2"
+        },
+        "d6a02e73-0b19-43f2-961b-202611071456": {
+          "number": 490,
+          "path": "chapitres/encyclopedie/chapitre-490-thamyris-thamyras-muses-cithare-hybris-dorion-philammon-polygnotos.md",
+          "request_sha256": "35f12c7af4426b95ef8cb6be05497bd9ddd3a672a63f0ee0d3b834c0a303c760",
+          "initial_source_sha256": "c93ae2e6a39564b645e130c4cb739b22c494a1b1e95569b566c230c22e1e7021"
         }
       }
     },
