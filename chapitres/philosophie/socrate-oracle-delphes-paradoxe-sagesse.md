@@ -1400,3 +1400,15 @@ prétend pas restituer mot pour mot la version Word antérieure.
 Pour l'ancrage religieux et philologique, consulter [La Pythie de Delphes, parole inspirée](/chapitres/encyclopedie/chapitre-348-pythie-delphes-parole-inspiree/) et [Les maximes delphiques et la connaissance de soi](/chapitres/encyclopedie/chapitre-349-maximes-delphiques-connais-toi-toi-meme/). Voir également [Delphes, sanctuaire et oracle d'Apollon](/delphes-oracle-apollon-etude/) et la [bibliothèque de philosophie](/philosophie/).
 
 **Référence de conservation :** le PDF original du 30 octobre 2026 est joint à l'étude dans la bibliothèque publique ; la transcription ci-dessus ne substitue ni un résumé ni une nouvelle version synthétique aux textes, à la bibliographie et aux annexes du document source.
+
+---
+
+### Note éditoriale documentaire — l'oracle dans la *Défense* platonicienne (7 novembre 2026)
+
+**Texte antique localisé.** Platon, *Apologie de Socrate*, 21a–21e : Chéréphon questionne la Pythie ; selon le récit rapporté par Socrate, elle répond qu'aucun homme n'est plus sage. Socrate enquête ensuite sur les prétentions au savoir de ses concitoyens et, en 21d, distingue sa conscience de ne pas savoir de la certitude infondée d'autrui. [Édition et traduction anglaise de H. N. Fowler, 1914, passage 21 dans Perseus, Tufts](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0059.tlg002.perseus-eng2:21/). La pagination de Stephanus permet de vérifier le passage dans d'autres éditions ; la traduction anglaise est un accès de lecture, non une édition critique française du texte grec.
+
+**État de la preuve.** [A] *L'Apologie* atteste **ce que fait dire Platon à Socrate** au sujet de l'oracle ; [I] la démarche philosophique consistant à éprouver les opinions peut être analysée à partir de 21b–21e ; [H] les mots historiques prononcés à Delphes et l'identité de témoins de la consultation ne peuvent être établis indépendamment à partir du seul dialogue.
+
+**Historien français, confrontation historiographique.** Marcel Detienne, *Les Maîtres de vérité dans la Grèce archaïque* (1967) et la lecture critique de Jean-Pierre Vernant dans les *Archives de sociologie des religions* 28 (1969), p. 194–196, [compte rendu consulté](https://www.persee.fr/doc/assr_0003-9659_1969_num_28_1_1830_t1_0194_0000_3), servent à situer la place sociale de la parole du devin, non à réduire l'enquête socratique à une pure continuation de la parole oraculaire. La recension a été consultée, pas le livre intégral de Detienne.
+
+**Statut :** passage platonicien contrôlé ; réception, historicité et manuscrits à examiner dans une révision philologique distincte ; pas de prétention à validation académique de ce mémoire.
