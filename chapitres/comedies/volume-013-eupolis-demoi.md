@@ -347,3 +347,12 @@ Le dossier refuse deux raccourcis : transformer les revenants en sages infaillib
 **Catalogue général :** [MYTHOS — Index intégral](/rubriques/).
 
 *Fin du volume XIII. Ce fichier Markdown est destiné à la publication GitHub Pages. Les versions historiques, les autres volumes et les brouillons privés ne sont pas modifiés.*
+
+
+### Annotation documentaire — revue scientifique, lot 08 (7 novembre 2026)
+
+**Papyrus, fragments et transmission.** La scène des revenants des *Dēmoi* est partiellement connue par le **P.Cair. 43227**, papyrus daté de l'Antiquité tardive (IVe–Ve siècle apr. J.-C. selon l'étude consultée), distinct de la date de représentation de la comédie. Voir Giulia Torello, « The Resurrection of Aristeides, Miltiades, Solon and Perikles in Eupolis’ Demes », *Antichthon* **42 (2008), p. 40–55**, DOI [10.1017/S0066477400001830](https://doi.org/10.1017/S0066477400001830), [notice Cambridge et extrait](https://www.cambridge.org/core/journals/antichthon/article/abs/resurrection-of-aristeides-miltiades-solon-and-perikles-in-eupolis-demes/E62806EE8789BB195B4433419A36F51C). Torello confronte notamment **Platonios, *De differentia comoediarum* 13–14**, et **Aelius Aristide 3.365** ; ces deux descriptions de remontée des morts ne fixent pas à elles seules le dispositif de scène.
+
+**Édition de référence.** Ian C. Storey, *Eupolis, Poet of Old Comedy*, Oxford University Press, **2003**, DOI [10.1093/acprof:oso/9780199259922.001.0001](https://doi.org/10.1093/acprof:oso/9780199259922.001.0001) ; confronter l'édition **Kassel–Austin, *Poetae Comici Graeci* V, 1986** pour l'identification de chaque fragment. [Notice OUP](https://academic.oup.com/book/41053). **Limite de consultation :** la page Cambridge consultée donne le résumé et les références, non une collation intégrale de l'article ; le texte complet du livre OUP et celui de PCG V ne sont pas intégralement collationnés ici.
+
+**Histoire civique française :** Jean-Pierre Vernant, *Les Origines de la pensée grecque* (PUF, 1962), peut servir de cadrage sur la cité et ses institutions, **sans** constituer un commentaire attesté de la comédie d'Eupolis. **Statut :** existence du dossier papyrologique attestée ; date exacte de représentation, succession des scènes, noms des antagonistes et interprétation politique globale discutés.
