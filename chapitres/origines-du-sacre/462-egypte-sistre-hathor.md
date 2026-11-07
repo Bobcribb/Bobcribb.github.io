@@ -13,3 +13,13 @@ Les prêtresses et musiciennes occupent différentes positions; l'expression « 
 **Bibliographie :** Lise Manniche, *Music and Musicians in Ancient Egypt* (1991); Emily Teeter, *Religion and Ritual in Ancient Egypt* (2011).
 
 **Statut :** instruments et iconographie attestés; restitution des partitions et des sonorités largement hypothétique.
+
+---
+
+### Note éditoriale documentaire — Claude Traunecker et les cultes égyptiens (7 novembre 2026)
+
+**Référence française de cadrage :** Claude Traunecker, *Les Dieux de l'Égypte*, 2e édition corrigée, Paris, Presses universitaires de France, **1993** (collection « Que sais-je ? », n° 1194), [notice de la Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb355903118).
+
+**Application prudente.** L'ouvrage offre un cadre d'histoire des divinités égyptiennes et de leurs fonctions cultuelles, utile pour replacer Hathor dans la pluralité des traditions religieuses. Il ne constitue **pas** un enregistrement sonore du sistre ni une édition des inscriptions particulières de Dendéra et de Karnak.
+
+**Lacunes à traiter.** Le chapitre 462 doit encore identifier des instruments conservés (numéros d'inventaire et datations), des scènes précisément localisées et des traductions de textes rituels. Les fonctions des musiciennes et les usages d'Hathor et d'Isis doivent être distingués par période. Traunecker est cité comme bibliographie de contexte, non comme relecteur de MYTHOS.
