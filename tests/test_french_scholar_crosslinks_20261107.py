@@ -1,6 +1,6 @@
 """Contrôle des liens thématiques vers la bibliographie scientifique française MYTHOS.
 
-Contrôle uniquement les liens ajoutés : ne touche ni aux manuscrits canoniques
+Contrôle les 50 ancres scientifiques et les renvois thématiques ; aucun manuscrit canonique
 ni aux anciennes références.
 """
 from pathlib import Path
@@ -32,7 +32,7 @@ class FrenchScholarCrosslinksTests(unittest.TestCase):
     def test_index_lists_unique_targeted_studies(self):
         self.assertIsNotNone(self.index)
         links = self.index.select('a[href^="#"]')
-        self.assertEqual(len(links), 21)
+        self.assertEqual(len(links), 50)
         targets = [link["href"][1:] for link in links]
         self.assertEqual(len(targets), len(set(targets)))
         for target in targets:
