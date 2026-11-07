@@ -1,0 +1,61 @@
+{
+  "id": "LYK-DES-001",
+  "slug": "lycosoura-sanctuaire-despoina-temple-vers-150-av-jc",
+  "title": "Lycosoura (Arcadie) — sanctuaire de Despoina, façade du temple dorique, vers 150 av. J.-C.",
+  "period": "Grèce hellénistique, milieu du IIe siècle av. J.-C. ; datation de la façade, des aménagements et du groupe cultuel discutée.",
+  "caption": "Reconstitution numérique photoréaliste interprétative de l’approche du temple dorique prostyle de Despoina à Lycosoura, en Arcadie, avec colonnade de façade et paysage montagneux ; mobilier cultuel et détails conjecturaux.",
+  "commentary": "Le sanctuaire de Despoina, à Lycosoura (Lykosoura), dans l’Arcadie du sud-ouest, conserve les vestiges d’un temple dorique et d’aménagements cultuels installés dans un paysage montagneux. Despoina (« la Maîtresse ») est une divinité arcadienne dont les liens avec Déméter et Coré/Persephone sont complexes : l’identification sans réserve de Despoina à Perséphone ne fait pas consensus. Pausanias (VIII, 37), visitant le sanctuaire à l’époque impériale, rapporte l’existence du temple, de portiques, d’autels et de sculptures ; son témoignage est tardif par rapport à l’horizon hellénistique choisi pour l’image et ne prouve pas que tous les monuments décrits existaient déjà dans le même état vers 150 av. J.-C. Les recherches archéologiques sur la terrasse sacrée et le temple documentent une façade dorique à six colonnes, de type prostyle : ces colonnes se trouvent à l’avant du bâtiment et ne forment pas une colonnade périptère autour de la cella. Le bâtiment représenté adopte cette disposition générale et un soubassement de pierre, au pied d’une pente arborée ; il ne reproduit pas un plan coté ni une maquette métrique de l’édifice excavé. La polychromie suggérée sur l’entablement et les ornements de toiture, l’aspect des crépis, les parements supérieurs, l’écartement exact des colonnes, la hauteur du comble, l’état du bois et des tuiles sont des choix illustratifs, non des mesures attestées pour la phase de 150 av. J.-C. La vue secondaire d’une petite colonnade au fond de la composition évoque les dispositifs de portique décrits dans le sanctuaire ; son orientation, son état chronologique, son profil et sa distance au temple ne sont pas restitués de manière contrôlée. Le grand groupe cultuel attribué à Damophon de Messène — Déméter et Despoina assises, flanquées d’Artémis et d’Anytos — est connu grâce à Pausanias et aux fragments sculptés, dont plusieurs sont conservés au Musée archéologique national d’Athènes et au musée de Lycosoura. La chronologie de Damophon est débattue. Une étude épigraphique du décret des habitants de Lycosoura permet de situer son intervention approximativement vers 200–160 av. J.-C. ; la date vers 150 av. J.-C. retenue ici est donc un horizon narratif conventionnel plausible après cette intervention, et non une date de construction du temple établie par stratigraphie. Les personnes vêtues de manteaux grecs, les récipients et les fleurs présentés au premier plan expriment seulement une fréquentation cultuelle possible ; ils ne représentent aucun rituel des mystères de Despoina dont les contenus sont inconnus et ne doivent pas être inventés. La restitution adopte volontairement un cadrage architectural extérieur afin de ne pas reproduire arbitrairement le groupe sculpté original, ses détails iconographiques ou des cérémonies dont le déroulement est non documenté. Ce rendu original généré par intelligence artificielle est une image à apparence 3D photoréaliste pour la médiation du patrimoine, non un relevé photogrammétrique, un modèle scientifique mesuré, ni une reconstitution validée par les chercheurs, musées ou institutions cités. Il ne contient aucun menu, texte ou graphique 2,5D incrusté. Les notices et les sources sont placées hors des pixels.",
+  "certainty": "Élevé — localisation du sanctuaire de Despoina à Lycosoura ; existence d’un temple de tradition dorique et d’un groupe sculpté de Damophon documentés par les fouilles, les fragments et Pausanias ; usage d’une façade prostyle à six colonnes dans l’état architectural restituable. Moyen — restitution d’un temple en pierre avec toiture de tuiles dans le contexte topographique arcadien ; association de portiques et d’aménagements cultuels ; horizon de présentation au milieu du IIe siècle av. J.-C. sans prétendre isoler exactement une phase unique. Faible — hauteur et géométrie exacte du fronton, tonalités rouges et bleues, antéfixes, degré d’usure et enduits, disposition de la colonnade latérale, végétation et cheminements, offrandes, vases, vêtements, nombre de visiteurs et effets lumineux.",
+  "source_url": "https://www.persee.fr/doc/ktema_0221-5896_2008_num_33_1_1083",
+  "secondary_sources": [
+    "https://www.persee.fr/doc/ktema_0221-5896_2008_num_33_1_1083",
+    "https://www.persee.fr/doc/ktema_0221-5896_2008_num_33_1_1085",
+    "https://academic.oup.com/edited-volume/61673/chapter-abstract/549670711",
+    "https://museum.classics.cam.ac.uk/collections/casts/temple-despoina-lykosoura-head-artemis",
+    "https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c1c3/archaeological-museum-of-lykosoura",
+    "https://doi.org/10.4000/kernos.3890"
+  ],
+  "src": "/assets/reconstitutions-3d/lycosoura-sanctuaire-despoina-temple-vers-150-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/lycosoura-sanctuaire-despoina-temple-vers-150-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-07",
+  "type": "Reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Image originale générée par intelligence artificielle pour MYTHOS ; restitution d’artiste sans copie des reliefs du sanctuaire, sans texte ni menu intégrés ; non validée par les institutions citées.",
+  "sha256": "bc629afa11abfc280a53aca0db0da4bdbc36ab6f4afb87a38341808e57cda269",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/lycosoura-sanctuaire-despoina-temple-vers-150-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Pausanias, Description de la Grèce, VIII, 37, 1–9 (traduction Jones et Ormerod, Perseus/ABM Uppsala)",
+      "url": "https://periegesis.abm.uu.se/en/reports.php?reportid=261"
+    },
+    {
+      "label": "Madeleine Jost, « La vie religieuse à Lykosoura », Ktèma 33 (2008), p. 93–110",
+      "url": "https://www.persee.fr/doc/ktema_0221-5896_2008_num_33_1_1083"
+    },
+    {
+      "label": "Jean Marcadé, « À propos du groupe cultuel de Lykosoura », Ktèma 33 (2008), p. 111–116",
+      "url": "https://www.persee.fr/doc/ktema_0221-5896_2008_num_33_1_1085"
+    },
+    {
+      "label": "James Roy, « Lycosura », Oxford Classical Dictionary (2016)",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/549670711"
+    },
+    {
+      "label": "Museum of Classical Archaeology, University of Cambridge, « Temple of Despoina at Lykosoura, Head of Artemis »",
+      "url": "https://museum.classics.cam.ac.uk/collections/casts/temple-despoina-lykosoura-head-artemis"
+    },
+    {
+      "label": "Ministère hellénique de la Culture, Musée archéologique de Lykosoura (fiche officielle)",
+      "url": "https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c1c3/archaeological-museum-of-lykosoura"
+    },
+    {
+      "label": "Kernos, Epigraphic Bulletin for Greek Religion 2018, étude de A. P. Matthaiou sur le décret honorifique de Damophon",
+      "url": "https://doi.org/10.4000/kernos.3890"
+    }
+  ],
+  "primary_texts": [
+    "Pausanias, Périégèse VIII, 37.1–9 : témoignage littéraire d’époque impériale sur les monuments, les statues cultuelles et les usages du sanctuaire, non photographie d’un état du IIe siècle av. J.-C."
+  ],
+  "methodology": "Évocation extérieure inspirée du plan prostyle dorique, de la topographie, des sources archéologiques et des travaux sur le culte et Damophon ; distinction explicite entre faits attestés, rapprochements typologiques et hypothèses d’artiste."
+}
