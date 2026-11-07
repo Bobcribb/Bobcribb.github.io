@@ -1,0 +1,580 @@
+# MYTHOS — Cycle universitaire de MYTHOLOGIE COMPARÉE — Volume CCCLIX (359)
+
+## MC-132 — Le cheval du sacré : offrande, souveraineté, serment, guerre et voyage des morts de l’Inde védique à Rome, de la Grèce aux steppes et à la Chine ancienne
+
+*Monographie universitaire originale — histoire des religions, philologie indo-iranienne, études védiques, philologie grecque et latine, histoire de Rome, archéologie des steppes, sinologie, épigraphie et philosophie comparée. Texte intégral public préparé le 7 novembre 2026. Cote historique du dossier : MC-132.*
+
+**Convention éditoriale.** MC-132 est un identifiant historique de dossier, différent de son éventuel numéro de volume. Les seuls emplacements destinés à l'attribution transactionnelle sont CCCLIX et 359 dans le titre éditorial ; aucune valeur canonique n’est anticipée. Les références comme *Ṛgveda* I.162–163, Hérodote IV.71–72, Pausanias VIII.25 et les numéros d'inventaire des musées désignent des témoins antérieurs et ne doivent jamais être remplacées.
+
+**Résumé.** Le cheval ne possède pas une valeur « sacrée » uniforme. Il est animal prestigieux, véhicule du dieu, offrande personnelle, victime d'un sacrifice royal, enjeu de serment, auxiliaire du pouvoir militaire, compagnon de tombe ou image funéraire destinée à servir le défunt. Chaque contexte dispose de son vocabulaire, de ses procédures et de sa chronologie. Les hymnes védiques I.162–163 et les prescriptions du *Śatapatha Brāhmaṇa* XIII donnent une théorie sacrificielle élaborée ; les Romains connaissent une mise à mort singulière lors du rite du *cheval d'Octobre* ; les bronzes votifs de la Grèce géométrique documentent une relation d'offrande qui ne suppose pas nécessairement l'abattage d'animaux ; les récits d'Hérodote sur des chevaux scythes ensevelis auprès des rois ne sont ni des manuels liturgiques ni des rapports de fouille ; les figurines de cavaliers de tombes Han attestent une autre forme de présence équine parmi les morts. Le problème de cette étude est de comprendre comment un animal coûteux et mobile entre dans des dispositifs religieux qui produisent des valeurs politiques, temporelles et sociales différentes.
+
+**Légende de preuve.** **[A]** attestation matérielle, textuelle ou épigraphique datée ; **[I]** inférence contrôlée à partir de plusieurs attestations ; **[H]** hypothèse, tradition discutée ou reconstruction incertaine ; **[P]** lecture philosophique moderne ; **[N]** impossibilité d'inférer un fait à partir des données disponibles. Une image n'est pas une cérémonie filmée ; une prescription n'est pas la preuve d'une exécution effective ; une narration grecque d'un rite étranger ne constitue pas une observation neutre.
+
+---
+
+## I. PROBLÉMATIQUE, MÉTHODE ET LANGUES
+
+### 01. Un même animal, des opérations différentes [A/I]
+
+Il faut d'abord séparer le **cheval réel** de sa **représentation**. Un souverain peut offrir la dépouille d'un cheval, une figurine de bronze, un attelage cérémoniel ou une image placée dans une tombe. L'historien qui range toutes ces opérations sous « sacrifice du cheval » perd immédiatement les différences essentielles : tuer, figurer, déposer, conduire, atteler et raconter ne sont pas des équivalents. La comparaison exige d'identifier la matière, l'échelle, le lieu de dépôt, les gestes associés et le statut du témoin.
+
+Un vocabulaire critique doit également distinguer les termes « offrande », « sacrifice », « dédicace », « dépôt funéraire », « équipement militaire » et « représentation mythologique ». Ces catégories ne sont pas parfaitement exclusives, mais chacune suppose une preuve spécifique. Un mors trouvé dans une sépulture signale une relation avec la conduite équestre ; à lui seul il n'atteste pas que l'animal fut abattu à l'occasion des funérailles.
+
+### 02. Le coût d'un cheval et le risque d'un raisonnement économique [I]
+
+Dans de nombreuses sociétés antiques, entretenir un cheval exige terres, fourrage, eau, personnels, dressage et équipement. Cette dépense en fait un signe social puissant. Elle ne suffit pourtant pas à expliquer sa présence dans le rituel : un objet de prestige peut être offert sans qu'il soit intrinsèquement un symbole de royauté, et une offrande peut transformer le statut de l'animal au-delà de son prix. Les chevaux grecs de bronze, par exemple, ne sont pas tous des substituts de victimes animales : leur fonction votive peut être autonome.
+
+La valeur économique intervient dans la décision d'engager des ressources, non dans la détermination automatique d'une fonction théologique. Il faut donc examiner ensemble l’économie du cheval, la forme du don et les destinataires divins ou funéraires.
+
+### 03. Lexique sanskrit : *aśva*, *medha*, *vājin* [A]
+
+En sanskrit, **aśva** signifie cheval ; **aśvamedha** désigne un ensemble sacrificiel associé au cheval. La composante *medha* doit être lue à l'intérieur des emplois rituels sans lui imposer les définitions modernes de « méditation » ou de « force mentale ». **Vājin**, lié à la vigueur et à l'aptitude à courir, peut qualifier un coursier et participe au vocabulaire de l'excellence ; tous ses emplois ne sont pas des synonymes rituels d'*aśva*.
+
+Dans **Ṛgveda I.162**, le corps du cheval et les gestes des officiants sont décrits avec une densité qui oblige à prendre le rite matériel au sérieux. Dans **I.163**, l'animal est investi d'une généalogie cosmique. La distinction entre ces deux hymnes interdit de choisir arbitrairement le plus « mystique » en éliminant celui qui décrit une mise à mort.
+
+### 04. Lexique grec : *hippos*, *hippios* et le monde des épithètes [A]
+
+Le mot grec **ἵππος** (*híppos*) désigne le cheval ; le qualificatif **ἵππιος** (*híppios*) peut marquer une relation divine ou cultuelle, en particulier dans l'appellation **Ποσειδῶν Ἵππιος**, Poséidon Hippios. Le nom d'une divinité « hippique » n'implique pas que tous ses sanctuaires possédaient des chevaux, ni qu'elle recevait partout des victimes équines.
+
+Les récits d'Arcadie conservent des associations entre Poséidon, Déméter, la métamorphose chevaline et le cheval Aréion. Il importe de citer les lieux, les auteurs et les versions : une légende d'Arcadie n'est pas une preuve pour le culte de Poséidon dans toutes les cités grecques.
+
+### 05. Lexique latin : *equus*, *Equus October*, *biga* [A]
+
+Le latin **equus** désigne le cheval ; **Equus October** est une désignation rituelle spécifique du cheval d'Octobre, liée à une fête de Mars. **Biga** renvoie à un attelage de deux chevaux. Le fait que l'animal du rite soit choisi dans une course donne à la vitesse et à la victoire un rôle dans la procédure. Il ne s'agit pas d'une immolation indistincte d'un cheval quelconque.
+
+Des auteurs tardifs ou antiquaires rapportent et interprètent ce rite. Leurs témoignages doivent être ordonnés selon date et genre : un lexicographe qui conserve un terme ancien ne permet pas de dater la naissance du rite, et un philosophe impérial peut proposer plusieurs explications sans trancher leur validité historique.
+
+### 06. Le « cheval sacré » n'est pas une catégorie indigène universelle [N]
+
+Les textes emploient des appellations distinctes selon les traditions ; même le mot « sacré » décrit des statuts hétérogènes. Il peut signifier une offrande réservée, une marque de protection, une dédicace, un moyen de communication avec les dieux ou une présence mythique. Le qualificatif ne doit donc jamais être traité comme le nom d'une religion commune à l'Inde, aux Grecs et aux Scythes.
+
+Un corpus comparatif peut cependant retenir les chevaux comme unité descriptive, à condition de rendre visibles les limites de la catégorie. On comparera des **usages** et non des « essences du cheval ».
+
+### 07. La chronologie empêche une généalogie facile [A/I]
+
+Les hymnes du *Ṛgveda*, les rituels brahmaniques développés, les objets grecs du VIIIe siècle avant notre ère, les récits d'Hérodote au Ve siècle, les descriptions antiquaires latines et les figures de tombes Han appartiennent à des périodes et institutions différentes. Il serait incorrect de les placer sur une seule ligne comme étapes d'une évolution universelle depuis un sacrifice « primitif » jusqu'à un symbole « civilisé ».
+
+La diffusion de techniques d'attelage et de monte est étudiée historiquement et archéologiquement. Elle ne prouve pas automatiquement la diffusion d'un rite donné. Les transferts de pratiques doivent être distingués des transferts de représentations et des analogies fonctionnelles.
+
+### 08. Trois niveaux d'analyse [I/P]
+
+Le niveau **documentaire** établit qui parle et ce qui est attesté. Le niveau **comparatif** construit des variables : victime ou image, vivant ou mort, roi ou particulier, sanctuaire ou tombe, fête publique ou événement dynastique. Le niveau **philosophique** s'interroge sur l'autorité qui fait passer un animal de ressource économique à signe de légitimation, de danger ou de continuité.
+
+Cette progression limite la tentation d'expliquer la religion par une psychologie universelle de la vitesse, de la domestication ou de la mort. L'animal peut rendre visibles ces notions, mais leur rôle doit être démontré dans chaque cas.
+
+## II. INDE VÉDIQUE : SACRIFIER ET COSMISER LE CHEVAL
+
+### 09. Ṛgveda I.162 : un texte de gestes, non une allégorie pure [A]
+
+Le **Ṛgveda I.162** décrit l'avancée du cheval sacrificiel, ses accompagnants, ses officiants et des gestes de préparation et de découpe. Le vers **I.162.2** mentionne le bouc qui précède le cheval ; **I.162.18–20** développe l'attention au démembrement, à la chair et aux parties du corps ; **I.162.22** articule richesse, descendance et puissance. Les traductions de **Stephanie W. Jamison et Joel P. Brereton**, *The Rigveda*, Oxford University Press, 2014, doivent être privilégiées pour l'étude philologique et confrontées au texte sanskrit.
+
+Lire ce passage uniquement comme « sacrifice intérieur » détruirait l'information sur les corps et les gestes. À l'inverse, réduire l'hymne à une instruction bouchère omettrait l'adresse aux dieux et la réorganisation symbolique du cheval par la parole poétique.
+
+### 10. La mise à mort au centre d'un ordre verbal [A/I]
+
+Le rite décrit un animal préparé pour une action irréversible. La parole accompagne le déroulement de l'opération, ordonne les éléments du corps et fait du traitement de la dépouille un acte normé. Le vocabulaire rituel ne supprime pas la violence ; il construit les conditions sous lesquelles elle devient une action présentée comme valide. Les détails du découpage ne doivent pas être reconstruits à partir d'une seule traduction moderne.
+
+L'historien ne peut pas décider, sur la seule base d'un hymne, combien de fois une cérémonie complète fut exécutée. Il peut établir que des poètes ont articulé un projet sacrificiel précis. La distinction entre **norme** et **fréquence effective** est décisive pour éviter les faux recensements de pratiques.
+
+### 11. Ṛgveda I.163 : le cheval aux origines cosmiques [A]
+
+Le **Ṛgveda I.163.1–3** célèbre un cheval dont la naissance est située dans les eaux ou la mer, associé à des caractéristiques d'autres animaux et à des figures divines comme **Yama**, **Indra** et les **Vasu**. Le passage rend lisible une image cosmique du cheval sans invalider la dimension rituelle du chant voisin. Le coursier peut être à la fois animal visible et figure de relations entre puissances.
+
+L'hymne ne prouve pas qu'un cheval réellement ailé ait été représenté dans tous les sanctuaires védiques. Les ailes du faucon relèvent de la langue poétique de la naissance et de la vitesse ; il faut éviter de confondre métaphore, ornement matériel et espèce zoologique mythique.
+
+### 12. Yama, le cheval et la difficulté de traduire les identifications [A/I]
+
+Quand la voix poétique déclare que le cheval est Yama ou un Āditya, elle effectue une **identification liturgique** : des puissances sont réunies dans l'adresse à l'animal. Cette identification n'est ni une simple étiquette biologique ni une théorie systématique de la réincarnation que le vers exposerait dans son entier. La fonction de Yama doit être étudiée dans les hymnes qui le concernent et dans l'histoire des traditions funéraires.
+
+L'analyse gagne à maintenir la particularité de ce vers sans le convertir en preuve que tous les chevaux morts transportaient des âmes. La cosmologie du chant et la pratique funéraire matérielle sont deux ensembles qu'il faudrait relier par des preuves supplémentaires.
+
+### 13. Le passage du chant au Brāhmaṇa [A]
+
+Le **Śatapatha Brāhmaṇa**, livre **XIII**, organise l'**aśvamedha** dans un discours prescriptif beaucoup plus élaboré. **XIII.1.1.1** associe l'animal à Prajāpati et traite des actes préparatoires ; les autres sections du livre détaillent l'initiation, les offrandes, les parcours et les correspondances cosmologiques. Pour l'anglais historique, voir **Julius Eggeling**, *The Śatapatha-Brāhmaṇa*, Part V, *Sacred Books of the East* 44, Clarendon Press, 1900.
+
+Le décalage entre le corpus védique ancien et la rédaction des brāhmaṇa interdit de lire rétrospectivement tous les détails du livre XIII comme s'ils étaient déjà explicitement présents en I.162. Une continuité de tradition peut exister sans identité de formulation, de durée ni de fonction.
+
+### 14. Un rite royal, mais pas un recensement d'empires [A/I]
+
+L'*aśvamedha* est connu comme sacrifice lié à la souveraineté dans les traditions classiques. Son organisation coûteuse et la circulation symbolique du cheval peuvent mettre en scène la capacité du roi à assurer, par médiation sacerdotale, une domination légitime. Pourtant, prescrire cette procédure ne prouve pas l'étendue géographique du contrôle politique réel. Un rite peut revendiquer une autorité universelle et être accompli dans un espace historiquement limité.
+
+Il faut confronter les inscriptions royales, les récits épiques et les prescriptions liturgiques avant d'affirmer qu'un souverain déterminé a mené cette cérémonie. Les listes tardives de rois sacrifiants peuvent comprendre propagande ou réécriture.
+
+### 15. Le cheval qui circule : territoire et consentement politique [I]
+
+Dans les versions développées de l'*aśvamedha*, le déplacement du cheval et la possibilité pour des pouvoirs voisins de le retenir composent une géographie politique. Le parcours joue comme un opérateur de prétention territoriale : le corps mobile de l'animal relie des espaces que le souverain voudrait déclarer sous son autorité. Le mouvement est ainsi constitutif du sens du rituel.
+
+La portée de cette interprétation varie selon le texte utilisé. Il ne faut pas substituer l'image popularisée dans les épopées aux indications du *Śatapatha Brāhmaṇa*. Un commentaire responsable décrit chaque couche avant d'en proposer une synthèse.
+
+### 16. Le personnel rituel et le caractère collectif de la souveraineté [A/I]
+
+Le roi ne réalise pas seul l'ensemble des procédures. Officiants, assistants, entourage royal et femmes de la cour apparaissent dans les descriptions normatives selon des rôles différenciés. Leur présence rappelle que la puissance du souverain, présentée comme exceptionnelle, dépend d'une infrastructure humaine et rituelle. Le sacrifice n'est pas seulement une démonstration personnelle de force ; il mobilise un ordre social.
+
+La critique contemporaine ne doit pas effacer les aspects problématiques de certaines prescriptions en les traduisant par des métaphores inoffensives. Elle doit aussi distinguer la prescription textuelle d'une reconstruction imaginaire de scènes concrètes dont les témoins manquent.
+
+### 17. Offrir la vie, produire la légitimité ? [P]
+
+Une lecture philosophique peut décrire le rite comme transformation d'une ressource prestigieuse en **preuve publique d'autorité**. Le cheval qui pourrait servir au déplacement, à la reproduction ou à la guerre est retiré de ces usages ordinaires et intégré à une séquence où le pouvoir royal se présente devant les dieux. Le coût de l'offrande participe à la manifestation de puissance, mais la cosmologie donne au geste une signification supplémentaire.
+
+Cette proposition n'est pas une philosophie indienne unique imputable aux poètes anciens. C'est une analyse moderne des rapports entre sacrifice, redistribution, violence et légitimation, qu'il faut confronter aux textes sans en remplacer les catégories.
+
+### 18. Le « sacrifice indo-européen originel » : prudence [H/N]
+
+Les rapprochements entre *aśvamedha*, rites romains et récits irlandais ont alimenté de grandes théories comparatistes sur une souveraineté indo-européenne commune. L’existence de familles linguistiques et de possibles héritages mythiques n'établit pas à elle seule que chaque rite soit la conservation intacte d'une cérémonie unique. La documentation varie par date, fonction et genre ; certains témoignages sont beaucoup plus tardifs.
+
+La comparaison peut chercher des configurations structurales précises, mais elle doit séparer **parenté linguistique**, **analogie sociale**, **diffusion historique** et **reconstruction rituelle**. Leurs niveaux de certitude ne sont pas interchangeables.
+
+## III. ROME : L'EQUUS OCTOBER, LE CHEVAL GAGNANT ET MARS
+
+### 19. Un rituel exceptionnel au sein des sacrifices romains [A]
+
+Le **cheval d'Octobre** est associé au **15 octobre**, au **Champ de Mars** et à **Mars**. Les sources antiquaires rapportent que le cheval droit de l'attelage vainqueur d'une course était choisi pour le sacrifice. Le rite se distingue des offrandes habituelles de bovins, ovins et porcins dans la religion publique romaine. Pour le dossier ancien, voir **Festus**, *De verborum significatu*, entrée *October equus* (pagination variable selon l'édition ; consulter **W. M. Lindsay**, Leipzig, 1913).
+
+Cette procédure singulière ne prouve pas que tout cheval de course romain était sacré ni que les Romains pratiquaient régulièrement des sacrifices équins partout dans l'Empire. Le champ d'application du témoignage doit rester limité.
+
+### 20. Course, victoire et sélection de la victime [A/I]
+
+La victoire de la **biga** précède la sélection : l'animal victorieux est consacré à Mars. Une interprétation fonctionnelle peut y voir une relation entre excellence équestre, valeur martiale et attribution du succès au dieu. Mais le lien entre course hippique et guerre n'épuise pas les autres aspects du rite, dont les luttes de quartiers et le maniement des restes animaux.
+
+La cérémonie impose une chronologie : compétition, désignation, mise à mort, séparation de parties et usages différenciés. C'est cette séquence, non le seul motif « cheval sacrifié », qui doit être comparée à d'autres traditions.
+
+### 21. Le caput : une dispute publique pour la tête [A]
+
+Les descriptions rapportent une rivalité pour la **tête** du cheval entre groupes identifiés à la **Subure** et à la **Via Sacra**. La compétition interquartiers fait du corps de l'animal un enjeu d'affichage et de distinction urbaine. Les détails pratiques et la topographie demandent une lecture de Festus et des commentaires de Plutarque, non une reconstitution libre à partir de fêtes modernes.
+
+Cette dispute fournit un axe comparatif proprement romain : le rite articule le dieu, la victoire hippique et des communautés urbaines concurrentes. Elle ne correspond pas exactement au déploiement territorial de l'*aśvamedha*.
+
+### 22. La cauda : du Champ de Mars à la Regia [A/I]
+
+La **queue** du cheval est portée à la **Regia** ; les sources décrivent son usage en lien avec le sang et le foyer rituel. Il faut éviter de substituer une explication anatomique moderne à la terminologie antique : la signification du mot *cauda*, sa manipulation et l'interprétation du sang restent au cœur d'un débat savant. Le simple mot « fertilité » n'explique pas tous les gestes.
+
+La circulation de la partie corporelle depuis l'espace de la course vers la Regia est un mouvement institutionnel. Elle met en relation lieu de compétition, espace du pouvoir traditionnel et acte religieux. Cette topographie impose des contraintes à la comparaison avec les processus védiques de découpe.
+
+### 23. Plutarque, *Questions romaines* 97 : un savant qui hésite [A]
+
+Dans ses **Questions romaines**, **97**, Plutarque rapporte le sacrifice du cheval vainqueur, la queue portée à la Regia et la querelle pour la tête. Il propose plusieurs explications, parmi lesquelles une référence au cheval de Troie et la valeur guerrière de l'animal consacré à Mars. Son texte illustre une **tradition d'enquête antiquaire**, pas un procès-verbal du rite à son origine.
+
+Plutarque contient une difficulté calendaire dans la transmission de la question, faisant référence à « décembre » alors que le rite est celui d'octobre. Il faut noter cette anomalie au lieu de la reproduire comme une date liturgique certaine. Voir l'édition Loeb de **F. C. Babbitt**, *Moralia*, vol. IV, 1936.
+
+### 24. L'interprétation troyenne n'est pas une origine prouvée [H/N]
+
+Certains anciens expliquent le rite comme une vengeance symbolique liée au **cheval de Troie**. Ce récit est historiographiquement intéressant parce qu'il montre comment des auteurs ont cherché à rationaliser une cérémonie ancienne. Il ne démontre pas que le rite fut créé pour punir la ruse troyenne. La proposition peut être tardive, polémique ou étiologique.
+
+L'historien doit distinguer une **explication antique** d'une **cause historique démontrée**. Présenter l'hypothèse troyenne parmi les interprétations, et non comme la vérité de la cérémonie, conserve à la source son statut exact.
+
+### 25. Agriculture, guerre, Mars : plusieurs horizons rituels [I/H]
+
+La date d'octobre autorise à penser le rapport entre fin de saison agricole et fin des campagnes militaires, mais le rite ne se laisse pas réduire à un symbole automnal. Mars reçoit divers cultes romains dont les fonctions dépassent la figure du dieu « guerrier » au sens moderne. Le cheval coureur, le champ urbain et les parties du corps forment un ensemble difficile à expliquer par un seul principe.
+
+Les analyses de **C. Bennett Pascal**, « October Horse », *Harvard Studies in Classical Philology* 85, 1981, p. 261–291, sont à confronter aux sources latines. L'article atteste la persistance des débats plutôt qu'une explication définitivement acquise.
+
+### 26. À Rome, l'animal n'est pas un représentant de tout l'empire [I]
+
+L'*Equus October* appartient à une fête publique de la cité. Même si Rome étend sa domination sur des territoires immenses, on ne peut pas transformer ce cheval précis en équivalent direct d'un animal parcourant des frontières sous protection royale. Les dispositifs, les destinataires et les agents de la compétition sont distincts.
+
+La comparaison avec l'Inde gagne en rigueur si l'on retient une intersection limitée : le cheval associe **prestige et opération sacrificielle**, mais la souveraineté prend des formes rituelles différentes. La ressemblance de victime n'efface pas la différence de structure.
+
+## IV. GRÈCE : SANCTUAIRES, ÉPITHÈTES ET SERMENTS
+
+### 27. Les bronzes géométriques : chevaux offerts, non chevaux abattus [A]
+
+Le **Metropolitan Museum of Art** conserve un **cheval de bronze grec**, **69.61.2**, daté de **750–725 av. n. è.**, ainsi que d'autres exemples du VIIIe siècle. Les notices institutionnelles soulignent que des figurines équines ont été découvertes en grand nombre dans des sanctuaires, souvent comme offrandes votives. Ce dossier matériel est capital parce qu'il documente le don d'une **image** plutôt que le sacrifice animal proprement dit.
+
+Le contexte archéologique d'un objet précis reste à contrôler : une statuette conservée dans une collection moderne ne permet pas toujours d'identifier son sanctuaire de dépôt originel. Le cadre typologique du bronze votif ne doit pas être converti en provenance inventée.
+
+### 28. Statut aristocratique et dédicace [I]
+
+La maîtrise des chevaux et l'accès aux courses équestres étaient socialement marqués dans les communautés grecques archaïques. En dédiant un cheval de bronze, un particulier pouvait afficher un rapport au prestige équestre tout en établissant une relation avec la divinité. Mais le dédicant et son intention ne sont pas toujours identifiables sur une pièce sans inscription.
+
+Il faut ici conserver l'écart entre **hypothèse sociologique générale** et **identification du donateur**. Les sanctuaires accumulent des ex-voto divers ; les offrir ne revient pas nécessairement à rejouer en miniature la mise à mort d'une monture.
+
+### 29. Olympia : concentration de figurines et concours hippiques [A/I]
+
+Les grands sanctuaires panhelléniques, en particulier **Olympie**, ont livré un ensemble remarquable de petites figures équines en bronze. La présence simultanée de concours sportifs et d'offrandes peut suggérer des rapports entre réputation agonistique, remerciement et représentation du cheval. Elle ne permet pas de dater toutes les statuettes en fonction d'une victoire enregistrée.
+
+Les **catalogues archéologiques d'Olympie** et les contextes de fouille doivent guider l'attribution des pièces. Un bronze sans dédicace ou provenant du marché de l'art ne doit pas être affecté fictivement à une épreuve spécifique.
+
+### 30. Une base ajourée ne prouve pas un rite particulier [A/N]
+
+Le Met décrit des chevaux géométriques dotés de bases rectangulaires ajourées, parfois interprétées comme pouvant servir de sceau ou de tampon. La fonction exacte n'est pas automatiquement établie. Le **bronze 69.61.4**, daté du milieu du VIIIe siècle, offre un bon exemple de ce langage plastique à proportions stylisées et base travaillée.
+
+Les variations techniques de fonte, d'anatomie et de montage sont des indices de fabrication et d'usage. Elles ne doivent pas être traitées comme des hiéroglyphes symboliques univoques. Une étude des ateliers peut éclairer le réseau des offrandes sans reconstituer des cérémonies invisibles.
+
+### 31. Chypre : le cheval monté comme offrande à une divinité [A]
+
+Le **Met**, inv. **74.51.1778**, conserve un **cavalier à cheval en terre cuite** daté d'environ **600 av. n. è.**, rattaché à la production de **Kourion**. La notice institutionnelle rappelle la présence de nombreuses figures de ce type dans le sanctuaire d'**Apollon Hylatès**, et l'association de l'iconographie guerrière à une divinité masculine.
+
+Il ne faut pas conclure que chaque exemplaire du type provient automatiquement du même sanctuaire : la valeur de la notice est d'établir une famille artistique et cultuelle. La figurine est une offre imagée, qui se distingue matériellement des chevaux réels entraînés à la guerre.
+
+### 32. Poséidon Hippios : une épithète localisée [A]
+
+**Pausanias VIII.10.2–3** décrit un sanctuaire de **Poséidon Hippios** près de Mantinée et rappelle une tradition d'accès réglementé à l'ancien lieu sacré. Il signale une reconstruction à l'époque d'**Hadrien**, ce qui fait de son témoignage un document de mémoire cultuelle à plusieurs couches. Le qualificatif hippique ne dispense pas d'étudier l'architecture, les interdictions et la réception impériale.
+
+La présence d'un cheval dans le nom divin n'est pas une indication que des sacrifices de chevaux y étaient nécessairement pratiqués. L'épithète peut renvoyer aux pouvoirs, aux mythes et aux pratiques locales de la divinité.
+
+### 33. Déméter jument, Poséidon étalon, Aréion [A]
+
+À **Pausanias VIII.25.5–7**, dans le contexte arcadien de **Thelpousa**, Déméter se transforme en jument pour échapper à Poséidon, lui-même transformé en étalon ; la tradition mentionne **Aréion** et une fille divine dont le nom demeure réservé. Le récit contient une violence sexuelle divine que la comparaison ne doit ni occulter ni banaliser. Il s'agit d'une étiologie locale articulant métamorphose, colère, purification et nom divin.
+
+Le même texte donne un exemple de la manière dont le cheval fait partie d'une **généalogie mythique** plutôt que d'une victime sacrificielle. L'alliance par forme animale ne doit pas être assimilée à l'*aśvamedha*.
+
+### 34. Le cheval de serment de Tyndare : Pausanias III.20.9 [A]
+
+**Pausanias III.20.9** rapporte un lieu nommé **tombe du Cheval** sur la route de Sparte à l'Arcadie. Selon la tradition, **Tyndare** y aurait sacrifié un cheval et fait jurer les prétendants d'Hélène sur ses morceaux, avant d'enterrer l'animal. Le récit associe un cheval mis à mort, un **serment collectif** et une mémoire topographique. Il offre un contre-exemple à l'idée que les Grecs ne connaissaient jamais de sacrifice équin.
+
+Mais le témoignage est tardif et mythographique ; il ne documente pas une cérémonie observable du temps de Tyndare. Le texte établit qu'une tradition localisée faisait du cheval un support de garantie, non l'existence d'un rite panhellénique codifié.
+
+### 35. Morceler un corps, lier des hommes [I/P]
+
+Le rite narré par Pausanias articule parties du cheval et engagements des prétendants. Une lecture anthropologique peut y voir un mécanisme où la fragmentation d'un corps rend visible la gravité d'un lien collectif. Cela ne prouve pas que le serment grec ait universellement requis des morceaux d'animal ; d'autres formes de garanties rituelles existent.
+
+Le rapport au cheval d'Octobre romain est heuristique mais limité : les deux récits font intervenir des parties du corps, pourtant l'un conduit à un pacte matrimonial mythique, l'autre à une fête urbaine de Mars. Leur comparaison doit commencer par cette différence.
+
+### 36. La course, la guerre et le don [I]
+
+Le cheval grec se situe à l'intersection de trois registres : moyen de locomotion et de guerre, animal de compétition, motif votif et mythique. Une aristocratie peut transformer une excellence équestre en capital symbolique ; un sanctuaire reçoit alors une partie de cette réputation sous la forme d'une image ou d'une dédicace.
+
+Rien de cela n'autorise à considérer chaque représentation de cheval comme celle d'une divinité ni à déduire un sacrifice à partir d'une scène de course. L'action du dieu, celle du dédicant et celle du propriétaire de l'animal restent à distinguer.
+
+## V. EMPIRE ACHÉMÉNIDE ET SOURCES GRECQUES SUR LA PERSE
+
+### 37. Le cheval blanc de Cyrus : Hérodote I.189 [A]
+
+**Hérodote I.189** rapporte qu'en route vers Babylone, **Cyrus** perd un de ses **chevaux blancs sacrés** dans le fleuve Gyndès et réagit en ordonnant des travaux destinés à diminuer la force du cours d'eau. La scène met l'animal au cœur d'une crise où le pouvoir royal semble affronté à une puissance naturelle. Elle n'est pas un texte perse rédigé par le clergé achéménide.
+
+Il est donc essentiel de garder l'attribution : « selon Hérodote », non « les Perses croyaient unanimement ». Le récit documente une représentation grecque de la puissance et de l'excès royaux, tout en pouvant conserver des éléments d'usages processionnels de chevaux de prestige.
+
+### 38. L'indignation du roi est un motif narratif [I]
+
+La réaction de Cyrus à la noyade de l'animal fait partie de la construction des *Histoires*. Il ne suffit pas de qualifier le cheval de « sacré » pour expliquer le comportement royal : la colère contre le fleuve est aussi un épisode littéraire qui interroge l'arrogance du souverain. La vérification indépendante de l'événement n'est pas assurée par le texte seul.
+
+Une comparaison avec le cheval royal indien ne peut donc pas conclure que les deux animaux remplissaient la même fonction sacrée. L'un appartient à une narration de l'historien grec sur Cyrus, l'autre à un complexe liturgique sanskrit beaucoup plus normatif.
+
+### 39. Hérodote VII.55 : une procession à étudier séparément [A/I]
+
+Lorsqu'il décrit le déplacement de l'armée de **Xerxès**, Hérodote mentionne des chevaux de grande valeur et des éléments rituels de procession. Il convient de lire **VII.55** dans sa continuité et de vérifier la distinction entre animaux portant les chars, chevaux montés, montures du roi et chevaux associés aux puissances solaires. Une traduction qui rassemble tout en « chevaux sacrés du Soleil » peut dépasser les détails du récit.
+
+Le contexte est une représentation grecque d'une organisation impériale étrangère. Sa dimension ethnographique est précieuse, mais elle appelle une confrontation aux inscriptions achéménides et à l'archéologie de cour.
+
+### 40. L'Avesta et le danger des équivalences rapides [H/N]
+
+Des textes iraniens font intervenir chevaux, attelages, vitesse et puissance guerrière. Le fait que le lexique indo-iranien partage d'anciennes parentés ne démontre pas qu'un **aśvamedha zoroastrien** aurait existé dans une forme strictement identique à la prescription du *Śatapatha Brāhmaṇa*. Les religions iraniennes et védiques ont des trajectoires distinctes ; leurs textes ne sont pas les témoins interchangeables d'une religion primitive unique.
+
+L'historien doit s'abstenir de transposer un rituel indien à l'Iran sur la seule base de noms apparentés. Les corpus avestiques demandent leurs propres éditions et analyses.
+
+### 41. Guerre, mobilité et prestige : les limites du sacré [I]
+
+Le cheval impérial possède une force militaire, économique et cérémonielle. Ce cumul n'implique pas que chaque animal de l'armée soit un animal d'offrande. La valeur sacrée exige une attribution textuelle ou un contexte rituel explicite. Un harnachement somptueux peut signaler du rang ; il ne prouve pas une dédicace aux dieux.
+
+Cette limite est particulièrement importante pour les objets non inscrits du marché de l'art. Leur beauté n'est pas une preuve de cérémonie, et leur éventuelle provenance iranienne doit être examinée avec la même rigueur que toute autre donnée archéologique.
+
+## VI. STEPPE SCYTHE : CHEVAUX ENSEVELIS ET POUVOIR SUR LES MORTS
+
+### 42. Hérodote IV.71 : les funérailles des rois [A]
+
+**Hérodote IV.71** décrit, chez les Scythes royaux, une grande fosse, la circulation du corps du roi et la mise à mort de plusieurs personnes de son entourage. Il mentionne également l'inhumation de **chevaux** et de biens. La scène est caractérisée par le rang élevé du défunt et par la présentation d'un pouvoir poursuivi au-delà de sa mort.
+
+Il faut dire explicitement que ce récit inclut une violence contre des êtres humains et des animaux. La critique des sources ne transforme pas ces mises à mort en pittoresque « folklore funéraire ». Les modalités exactes de la pratique demandent la confrontation avec les kourganes fouillés.
+
+### 43. Hérodote IV.72 : l'anniversaire et l'exposition [A]
+
+**Hérodote IV.72** ajoute une cérémonie un an après les funérailles : cinquante serviteurs et cinquante chevaux seraient mis à mort, leurs corps préparés et exposés en une sorte de cortège monté autour du tumulus. Les nombres et la scénographie appartiennent au témoignage grec ; ils ne doivent pas être généralisés à toute la steppe ni à toute période.
+
+Même s'il existe des découvertes de chevaux funéraires, elles ne valident pas chaque détail de l'exposition racontée. Les relations entre récit littéraire et restes archéologiques sont partielles et doivent être évaluées élément par élément.
+
+### 44. Ce qu'une tombe peut montrer, et ne peut pas montrer [A/N]
+
+Un assemblage de squelettes équins peut attester la présence d'animaux déposés, leur nombre approximatif, leur disposition, leur âge et parfois des indices de mise à mort. La taphonomie, la datation radiocarbone, la stratigraphie et les analyses ostéologiques peuvent affiner ce tableau. Elles ne permettent pas à elles seules d'identifier un dogme sur le voyage de l'âme ni de reconstruire la parole prononcée lors du dépôt.
+
+Il faut vérifier s'il s'agit de tombes royales, de dépôts de prestige ou d'autres contextes. Les identifications de « chef » ou « prince » ne doivent pas dériver uniquement de la richesse d'un harnais.
+
+### 45. Les harnachements sont une documentation propre [A]
+
+Le Met conserve une **pièce de mors scythe en forme de tête de cheval et sabot**, inv. **58.131.2**, datée du **VIIe siècle av. n. è.**, et des pièces apparentées en forme d'oiseau ou de serpent, inv. **58.131.3** et **58.131.4**. Elles témoignent des techniques et de l'iconographie d'équipement. Ces pièces sont cataloguées comme provenant d'Iran, avec des conditions de provenance à apprécier individuellement.
+
+Un mors décoré n'atteste pas qu'il a appartenu au cheval d'un roi enseveli. Il peut néanmoins documenter la valeur esthétique et sociale accordée aux équipements équestres dans des groupes qualifiés de scythes.
+
+### 46. Le cheval qui accompagne : service ou représentation ? [I/H]
+
+Une interprétation fréquente est que le cheval déposé en tombe accompagne le mort pour un voyage dans l'au-delà. Elle peut être pertinente selon les contextes, mais elle ne doit pas être imposée à tous les dépôts. D'autres lectures sont possibles : continuation d'un rang social, exposition de la richesse, commémoration d'une puissance guerrière, transfert d'un bien précieux ou garantie de relations entre vivants.
+
+Il faut rechercher des attestations textuelles propres aux communautés concernées. Lorsque celles-ci manquent, la prudence est une condition de l'enquête, non son échec.
+
+### 47. Scythes et Perses : ne pas fusionner des ethnonymes [A/N]
+
+L'art des steppes présente des contacts avec des mondes iraniens, achéménides et grecs. Il ne s'ensuit pas que « Scythes », « Perses » et « Iraniens » désignent une seule société ou un rite unique. Un objet qualifié de « scythe » par un catalogue peut avoir été trouvé dans une région iranienne et conserver des caractéristiques typologiques propres.
+
+La proximité d'aires linguistiques ou de réseaux d'échanges ne remplace pas une enquête sur la provenance d'une pièce, le type funéraire et l'histoire du dépôt. Toute transmission hypothétique doit annoncer ses critères.
+
+### 48. Le cheval mort comme preuve politique [P]
+
+Les funérailles élitaires rendent visible une capacité à mobiliser et à retirer des ressources exceptionnelles. La présence de chevaux morts auprès du souverain peut manifester que son rang transcende la séparation ordinaire entre vivant et défunt. Une telle lecture montre l'importance de la mise en scène, mais elle ne suppose pas que les acteurs pensaient tous la mort comme une conquête impériale.
+
+En termes philosophiques, le rite peut naturaliser des rapports de domination en les inscrivant dans un ordre funéraire. L'observateur contemporain doit néanmoins conserver la distance entre sa critique politique et le vocabulaire effectivement attesté dans la communauté.
+
+## VII. CHINE ANCIENNE : CHEVAUX DE TERRE ET CAVALERIE POUR L'AU-DELÀ
+
+### 49. L'objet de tombe Han, une présence figurée [A]
+
+Le **Met** conserve **Horse and rider**, inv. **16.149.2**, figurine en terre cuite glaçurée des **Ier–IIe siècles de notre ère**, datée de la dynastie Han. La notice explique que de tels modèles accompagnaient souvent des officiers et personnages de rang élevé dans la tombe, comme partie d'une escorte destinée à accompagner le défunt. La forme matérielle est essentielle : il s'agit d'une image de cavalier, non d'un corps équin enseveli.
+
+On ne peut donc pas additionner sans distinction les chevaux de bronze offerts dans des sanctuaires grecs, les chevaux sacrifiés scythes et les modèles funéraires chinois. Dans les trois cas, le cheval participe au prestige ; dans chacun, la nature de l'acte diffère.
+
+### 50. Une cavalerie représentée, une institution militaire [A/I]
+
+Le **Met**, inv. **1994.605.110a, b**, présente un **cheval et cavalier Han** en terre cuite peinte, lié à l'histoire de la cavalerie et des contacts avec les peuples de la steppe. Les encoches du corps montrent que certaines parties en matériau périssable ont disparu. Cette caractéristique technique permet de restituer avec prudence l'assemblage d'un objet, non un rituel complet.
+
+La figurine peut être lue à la fois comme représentation d'une fonction militaire et comme équipement symbolique d'une tombe. Son efficacité dans l'au-delà appartient aux modèles de pensée funéraires que les sources chinoises permettent de discuter, et ne saurait être réduite à « imitation de sacrifice scythe ».
+
+### 51. Les chevaux célestes Han : puissance et imagination [A/I]
+
+Un **modèle de tête de cheval** Han, **Met 26.292.45**, est décrit par le musée en rapport avec les **chevaux de Bactriane** admirés à la cour, parfois célébrés comme des **« chevaux célestes »**. Il faut distinguer le discours de prestige impérial, les échanges transasiatiques et la classification zoologique d'un type de cheval. Les analogies avec le dragon relèvent de l'imagination et des traditions de cour.
+
+Le terme moderne « cheval céleste » ne doit pas être utilisé comme une étiquette universelle couvrant sans distinction le cheval védique sortant des eaux et les montures de Ferghana connues des Han.
+
+### 52. Une longue chronologie interdit d'écraser Han et Tang [A]
+
+Le Met conserve également **Horse and rider**, inv. **54.169**, pièce funéraire **Tang** du début du VIIIe siècle, réalisée avec glaçures *sancai*. L'animal y apparaît dans un univers politique et technique bien postérieur à la dynastie Han. La diffusion de l'image du cavalier sur plusieurs siècles ne signifie pas que les fonctions idéologiques ou les pratiques funéraires furent constantes.
+
+Introduire le dossier Tang permet précisément de contrôler les continuités supposées. Il faut comparer techniques, lieux de production, destinataires et rites documentés avant de parler d'une tradition « chinoise » immuable du cheval des morts.
+
+### 53. Les images de cheval ne sont pas des sacrifices sans sang [N]
+
+Qualifier la statuette de « substitution » à un sacrifice exige des preuves textuelles ou contextuelles. La fabrication de modèles funéraires peut répondre à un système autonome d'accompagnement figuré du mort. Il serait anachronique de dire que les Chinois ont « progressé » du sacrifice réel vers la reproduction en argile comme si une évolution linéaire de la violence vers la représentation était démontrée.
+
+La pluralité des formes funéraires contemporaines, leur coût et leur destination montrent plutôt des stratégies différenciées de mise à disposition de biens et de serviteurs figurés.
+
+### 54. Les limites du comparatisme sino-scythe [I/H]
+
+La coexistence de chevaux enterrés dans des sépultures des steppes et de cavaliers figurés dans des tombes chinoises peut susciter des questions sur les contacts transcontinentaux. Mais une transmission ne peut être reconstruite en se fondant sur la présence du même animal. Il faut dater les objets, documenter les routes, contrôler les innovations techniques et comparer des assemblages archéologiques précis.
+
+Le fait que des chevaux, des cavaliers et des équipements circulent sur les frontières de la Chine ancienne fournit un cadre d'enquête sérieux ; il n'autorise pas une généalogie directe de chaque rite funéraire.
+
+## VIII. COMPARAISON SCIENTIFIQUE : QUELLES VARIABLES SONT COMMUNES ?
+
+### 55. Tableau des attestations, fonctions et réserves [A/I/N]
+
+| Tradition | Témoin principal | Action attestée | Institution ou cadre | Limite d'interprétation |
+|---|---|---|---|---|
+| Inde védique | Ṛgveda I.162–163 | Poésie de sacrifice, préparation et cosmisation | Offrande aux dieux | Un hymne ne compte pas les sacrifices effectivement exécutés |
+| Inde brahmanique | Śatapatha Brāhmaṇa XIII | Prescriptions longues de l'aśvamedha | Souveraineté et officiants | Les prescriptions ne sont pas toutes contemporaines des hymnes |
+| Rome | Festus, *October equus* ; Plutarque, *Questions romaines* 97 | Course, sacrifice, séparation des parties | Mars, Champ de Mars, Regia et quartiers | La cause originelle du rite est discutée |
+| Grèce géométrique | Met 69.61.2 ; 69.61.4 | Dédicace de figurines équines | Sanctuaires et donateurs | Un bronze ne prouve pas la mise à mort d'un cheval |
+| Arcadie | Pausanias VIII.10 et VIII.25 | Épithète hippique et mythes de métamorphose | Cultes locaux de Poséidon et Déméter | Pas de rite panhellénique inférable |
+| Laconie | Pausanias III.20.9 | Récit de cheval sacrifié pour un serment | Mythologie des prétendants d'Hélène | Récit tardif, non observation de l'époque mythique |
+| Perse vue par Hérodote | Histoires I.189 | Cheval blanc sacré perdu dans un fleuve | Narration du pouvoir de Cyrus | Témoignage grec non équivalent à une liturgie perse |
+| Scythie vue par Hérodote | Histoires IV.71–72 | Chevaux ensevelis et exposés | Funérailles royales | Contrôles archéologiques et chronologiques nécessaires |
+| Chine Han | Met 16.149.2 ; 1994.605.110 | Cavaliers figurés déposés en tombe | Monde des morts et prestige militaire | Objet figuré, non cheval tué |
+| Chine Tang | Met 54.169 | Cheval et cavalier *sancai* funéraires | Élites des VIIe–VIIIe siècles | Ne pas traiter Tang comme simple répétition de Han |
+
+Ce tableau associe volontairement les **types de preuve** aux fonctions : les mêmes mots « souveraineté » et « cheval » ne suffisent pas à fabriquer un rapport génétique entre les rituels.
+
+### 56. Première variable : l'animal est-il vivant ? [I]
+
+Le cas védique et le rite romain imposent une mise à mort dans leurs prescriptions ou descriptions. Une statuette grecque ou un cavalier en céramique Han ne sont pas des organismes vivants : ce sont des biens fabriqués. Le dépôt funéraire scythe, tel que raconté par Hérodote, implique des animaux tués pour la cérémonie. Toute comparaison doit commencer par ce classement matériel.
+
+Le problème philosophique qui suit n'est pas de savoir si l'image « signifie la même chose » que la victime : il est de déterminer ce que les pratiques font au réel. L'acte peut retirer une vie, consacrer un objet, conserver un équipement ou exposer un statut.
+
+### 57. Deuxième variable : qui offre et à qui ? [I]
+
+Le roi védique, les officiants de Rome, le dédicant grec et le groupe funéraire scythe ne sont pas des acteurs interchangeables. Un sacrifice adressé à une divinité n'est pas un dépôt destiné à accompagner un défunt ; une course sélectionnant un cheval victorieux n'est pas une marche de conquête territoriale.
+
+La question « à qui ? » est souvent plus probante que l'identification zoologique. Les destinataires peuvent être dieu, ancêtre, mort de haut rang, cité ou institution de prestige. Selon les dossiers, plusieurs destinataires se superposent ; il faut les distinguer explicitement.
+
+### 58. Troisième variable : le territoire [I/P]
+
+Le déplacement du cheval dans les versions de l'*aśvamedha* constitue une action politique. Le cortège scythe décrit par Hérodote visite des groupes soumis au roi défunt. Le cheval romain relie le Champ de Mars à la Regia par le mouvement d'une partie corporelle. Ces trajets ne sont pas identiques, mais tous participent à une mise en ordre de l'espace.
+
+Le niveau comparatif permet de demander comment **circuler** et **placer** produisent de l'autorité. Cette question est légitime comme proposition moderne, non comme preuve d'un plan rituel commun à toutes les cultures.
+
+### 59. Quatrième variable : le temps [I]
+
+Un rite fixé au calendrier, un sacrifice royal occasionnel, une offrande de sanctuaire et des funérailles ont des temporalités différentes. Le **15 octobre** romain relève d'un calendrier civique ; l'*aśvamedha* est une séquence longue ; le dépôt de cheval auprès d'un mort appartient à une transformation irréversible de statut. Les figurines peuvent persister des générations dans un sanctuaire ou dans une tombe.
+
+Le temps rituel n'est donc pas seulement la durée d'une cérémonie. Il comprend récurrence, commémoration, passage et continuité matérielle, mais ces fonctions doivent toujours être rapportées à leur cadre attesté.
+
+### 60. Cinquième variable : la parole et l'expertise [I]
+
+Dans le rite védique, les poètes et officiants possèdent un langage spécialisé ; les antiquaires romains transmettent des récits d'interprétation ; Pausanias rapporte des traditions localisées ; Hérodote construit une enquête sur des peuples étrangers. Le statut du **médiateur du savoir** change donc d'un dossier à l'autre.
+
+Une comparaison qui ignore les genres des sources perd une partie de sa scientificité. Les textes sont des agents d'autorité : ils prescrivent, expliquent, mettent en scène ou réinterprètent les rites, et leurs objectifs ne sont pas nécessairement ceux des acteurs anciens.
+
+### 61. Sixième variable : le degré de restitution possible [A/N]
+
+Le bronze 69.61.2 du Met est un objet observable, mais sa cérémonie originelle n'est pas conservée. Le texte du *Śatapatha Brāhmaṇa* est un document prescriptif, mais ne livre pas l'archéologie d'une exécution déterminée. Hérodote raconte une cérémonie scythe sans fournir un assemblage funéraire numéroté. Les objets des tombes Han sont matériellement datables, mais les pensées individuelles des commanditaires demeurent inaccessibles.
+
+La qualité de la comparaison augmente quand ces asymétries restent visibles. L'histoire des religions ne gagne rien à décrire une source fragmentaire avec la certitude d'un témoin oculaire.
+
+## IX. HISTORIOGRAPHIE : DE DUMÉZIL AUX ARCHÉOLOGIES CONTEXTUELLES
+
+### 62. La comparaison indo-européenne : acquis et excès [I/H]
+
+**Georges Dumézil** a proposé de nombreux rapprochements entre institutions romaines et traditions indo-européennes, dans une perspective qui a profondément marqué le comparatisme du XXe siècle. Sa méthode permet de poser des questions de structure ; elle ne dispense jamais d'une confrontation détaillée des sources. Les rites liés au cheval ont été mobilisés dans des hypothèses de souveraineté trifonctionnelle parfois contestées.
+
+Ce chapitre ne prétend pas que toute ressemblance entre *Equus October* et *aśvamedha* constitue une survie directe d'un sacrifice commun. Les études linguistiques et l'archéologie peuvent corriger, nuancer ou invalider une reconstruction rituelle.
+
+### 63. La critique de l'origine unique [P]
+
+La question « quel peuple a inventé le cheval sacré ? » peut être mal posée. Les sociétés domestiquent, montent, attellent, représentent et valorisent des chevaux dans des conditions différentes ; les usages religieux réagencent ces possibilités. Même lorsqu'une technique ou un vocabulaire se diffuse, sa signification peut être recomposée localement.
+
+L'histoire n'est ni une succession de copies ni une série de mondes hermétiquement fermés. On recherche les contacts quand ils sont attestables et les convergences fonctionnelles quand les filiations sont incertaines.
+
+### 64. Les dangers de l'ethnographie impériale [A/I]
+
+Hérodote est indispensable pour certaines traditions scythes et perses, mais ses récits impliquent sélections, distances linguistiques, interlocuteurs et objectifs narratifs. De même, les textes rituels d'une élite ne décrivent pas l'ensemble des pratiques populaires. Ces biais ne rendent pas les sources inutiles : ils définissent les conditions de leur emploi.
+
+La bonne pratique consiste à formuler : « Hérodote rapporte… » ; « le texte prescrit… » ; « le musée conserve… » ; « la fouille permet de constater… ». Chacune de ces phrases comporte un degré différent de vérifiabilité.
+
+### 65. Le risque d'une histoire progressiste du rituel [H/N]
+
+On pourrait organiser artificiellement un récit où un sacrifice sanguinaire « primitif » cède la place à une image « évoluée ». Les documents ne permettent pas cette hiérarchie. Le bronze offert et l'animal sacrifié peuvent coexister dans des systèmes différents ou contemporains. Une figurine funéraire peut répondre à des exigences de statut sans avoir remplacé une mise à mort antérieure.
+
+Les transformations des pratiques doivent être documentées sur des séquences historiques réelles, non déduites d'une philosophie générale du progrès.
+
+### 66. L'approche des objets et le rôle des musées [I]
+
+Les musées fournissent photographies, dimensions, matériaux, numéros d'inventaire, datations et souvent indications de provenance. Ces données rendent l'étude vérifiable, mais les notices sont des synthèses susceptibles de révision. Une attribution géographique incertaine doit conserver son point d'interrogation, et un achat ancien ne vaut pas découverte archéologique contrôlée.
+
+Le chercheur doit aussi distinguer droit sur l'objet ancien, propriété matérielle du musée et droits sur le fichier photographique. Cette distinction détermine l'usage responsable des images dans une publication.
+
+### 67. Philosophie de la puissance : le cheval comme corps gouverné [P]
+
+Le cheval est un animal puissant dont la force demande entraînement et maîtrise. Dans les rituels étudiés, sa mobilité est tour à tour **déployée** (course, procession, déplacement territorial), **capturée** (attelage, bride, serment) et **arrêtée** (immolation, dépôt funéraire). Une philosophie du pouvoir peut identifier une tension entre autonomie du vivant et contrôle institutionnel.
+
+Cette proposition ne suppose pas que les textes antiques possédaient une théorie moderne du biopouvoir. Elle formule une question contemporaine à partir de différences matérielles observables.
+
+### 68. Hegel : reconnaissance, médiation, violence [P]
+
+On peut mobiliser certains instruments conceptuels de **Hegel** pour analyser la médiation entre pouvoir politique et reconnaissance sociale : la souveraineté n'existe pas seulement dans le vouloir individuel du roi, mais aussi dans les institutions capables de rendre ses gestes valides et publics. Le rituel du cheval royal met en scène ce passage par les officiants, les témoins et les déplacements.
+
+Il serait cependant incorrect d'affirmer que Hegel avait décrit le sens de l'*aśvamedha* ou de l'*Equus October*. La dialectique est ici un **outil de lecture explicitement extérieur aux corpus**. Elle ne justifie ni de classer les peuples dans un stade de développement ni de convertir la violence rituelle en étape nécessaire d'un progrès moral.
+
+### 69. Nietzsche : puissance, valeur et critique de la moralisation [P]
+
+Avec **Nietzsche**, la comparaison peut interroger comment un groupe transforme la puissance corporelle en signe de valeur, et comment une communauté confère à un geste coûteux le caractère d'un honneur ou d'une obligation. La généalogie des valeurs invite à ne pas prendre les jugements moraux du présent pour des catégories immédiatement disponibles dans les rituels anciens.
+
+Mais aucun rite ancien ne doit être proclamé « nietzschéen ». Les chevaux du *Ṛgveda*, de Rome ou des tombes chinoises n'illustrent pas une doctrine intemporelle de la volonté de puissance. La proposition philosophique doit rester critique et contrôlable, sans réécriture des sources.
+
+### 70. La question de la souffrance animale [P]
+
+Les témoignages de sacrifices posent aujourd'hui un problème éthique qui ne saurait être éludé. La description philologique ne constitue pas une approbation de la mise à mort ; elle évite également de substituer une condamnation contemporaine à l'analyse historique de ce que les acteurs affirmaient accomplir. La souffrance des animaux et des personnes tuées dans certains contextes funéraires doit être nommée sans sensationnalisme.
+
+La philosophie comparée peut distinguer la **compréhension historique d'une justification** et le **jugement moral porté aujourd'hui**. Les deux démarches sont compatibles si leurs statuts sont clairement annoncés.
+
+## X. BIBLIOGRAPHIE COMMENTÉE ET APPAREIL DE PREUVE
+
+### 71. Sources primaires : corpus védiques et grecs [A]
+
+1. **Ṛgveda**, **I.162** et **I.163**, texte sanskrit et traduction dans **Stephanie W. Jamison et Joel P. Brereton**, *The Rigveda: The Earliest Religious Poetry of India*, 3 vol., Oxford University Press, 2014. **Intérêt :** opposer sans les séparer description du geste sacrificiel et mise en correspondance cosmique du cheval. Notice éditoriale : https://academic.oup.com/book/33632. Les anciennes traductions de **Ralph T. H. Griffith** (1896) sont utiles pour l'histoire des lectures, mais doivent être revues contre une édition moderne.
+2. **Śatapatha Brāhmaṇa**, livre **XIII**, passages **XIII.1.1–XIII.5**, trad. **Julius Eggeling**, *The Śatapatha-Brāhmaṇa*, Part V, *Sacred Books of the East* 44, Clarendon, 1900 ; texte historique disponible : https://sacred-texts.com/hin/sbr/sbe44/sbe44074.htm. **Intérêt :** prescriptions et expansion brahmanique de l'*aśvamedha* ; distinguer norme et exécution réelle.
+3. **Pausanias**, *Description de la Grèce*, **III.20.9 ; VIII.10.2–3 ; VIII.25.5–7**, édition **F. Spiro**, *Pausaniae Graeciae Descriptio*, Teubner, 1903 ; traduction anglaise du passage arcadien : https://www.theoi.com/Text/Pausanias8B.html. **Intérêt :** serment sur un cheval sacrifié, Poséidon Hippios, transformation chevaline de Déméter.
+4. **Hérodote**, *Histoires*, **I.189**, **IV.71–72**, **VII.55** ; édition critique **H. B. Rosén**, *Herodoti Historiae*, Teubner, 1987–1997. Traductions de consultation : https://lexundria.com/hdt/1.189/mcly et https://lexundria.com/hdt/4.71/mcly. **Intérêt :** cheval blanc perse et funérailles scythes ; ne jamais confondre propos d'Hérodote et autodescription des peuples.
+5. **Plutarque**, *Moralia*, **Questions romaines**, question **97**, éd. et trad. **F. C. Babbitt**, Loeb Classical Library 305, 1936. Texte de consultation : https://www.greekmythology.com/sources/plutarch/roman-questions/questions-94-103. **Intérêt :** description de l'*Equus October* et pluralité des explications antiques, avec anomalie de mois dans la tradition.
+6. **Sextus Pompeius Festus**, *De verborum significatu*, entrée **October equus**, éd. **W. M. Lindsay**, Leipzig, 1913, passages indiqués selon le lemme et non une pagination flottante. **Intérêt :** vocabulaire et topographie de l'ancien rite romain.
+7. **M. Terentius Varro**, *De lingua Latina*, livres VI–VII, pour les fêtes du calendrier et la méthode antiquaire ; passages précis à contrôler avant toute affirmation sur l'*Equus October*. **Intérêt :** contexte de lexicographie et de calendrier, non témoignage suffisant à lui seul pour tous les gestes du 15 octobre.
+
+### 72. Études modernes : rites et histoire comparée [A/I]
+
+8. **Stephanie W. Jamison**, *The Ravenous Hyenas and the Wounded Sun: Myth and Ritual in Ancient India*, Cornell University Press, 1991. **Intérêt :** rapport entre poésie védique, rituel et formes narratives.
+9. **Frits Staal**, *Agni: The Vedic Ritual of the Fire Altar*, 2 vol., Asian Humanities Press, 1983. **Intérêt :** méthodologie de description du rituel ; ne pas assimiler *agnicayana* et *aśvamedha*.
+10. **J. C. Heesterman**, *The Inner Conflict of Tradition: Essays in Indian Ritual, Kingship, and Society*, University of Chicago Press, 1985. **Intérêt :** tensions entre rites, statut royal et formalisation.
+11. **C. Bennett Pascal**, « October Horse », *Harvard Studies in Classical Philology* **85** (1981), p. 261–291. **Intérêt :** point de départ sur le rite et ses controverses interprétatives.
+12. **John Scheid**, *An Introduction to Roman Religion*, trad. Janet Lloyd, Indiana University Press, 2003. **Intérêt :** replacer le rite particulier dans l'organisation générale de la pratique civique romaine ; ne pas prendre l'interprétation religieuse romaine pour un système de dogmes.
+13. **Mary Beard, John North, Simon Price**, *Religions of Rome*, 2 vol., Cambridge University Press, 1998. **Intérêt :** institutions, rituels et représentations religieuses romaines en contexte.
+14. **Georges Dumézil**, *La religion romaine archaïque*, 2e éd., Payot, 1974. **Intérêt :** histoire intellectuelle des reconstructions comparatistes, à confronter à la critique récente.
+15. **M. L. West**, *Indo-European Poetry and Myth*, Oxford University Press, 2007. **Intérêt :** comparaisons linguistiques et mythologiques ; distinguer proposition reconstructive et attestation rituelle.
+16. **Walter Burkert**, *Greek Religion: Archaic and Classical*, trad. John Raffan, Harvard University Press, 1985. **Intérêt :** offrandes, sanctuaires et cultes grecs, distincts des généralisations mythologiques.
+17. **Catherine Morgan**, *Athletes and Oracles: The Transformation of Olympia and Delphi in the Eighth Century BC*, Cambridge University Press, 1990. **Intérêt :** conditions sociales et archéologiques de l'émergence des grands sanctuaires, notamment les dépôts votifs.
+18. **Robin Osborne**, *Greece in the Making, 1200–479 BC*, Routledge, 1996, rééditions. **Intérêt :** relation entre aristocraties, chevaux, sanctuaires et culture matérielle.
+
+### 73. Études modernes : steppes, Perse et Chine [A/I]
+
+19. **Barry Cunliffe**, *The Scythians: Nomad Warriors of the Steppe*, Oxford University Press, 2019. **Intérêt :** mise en perspective archéologique des traditions attribuées aux Scythes ; comparer les régions plutôt qu'en faire un peuple immobile.
+20. **Renate Rolle**, *The World of the Scythians*, University of California Press, 1989. **Intérêt :** ensemble des kourganes et pratiques funéraires, sous réserve de mises à jour des découvertes.
+21. **T. F. Taylor**, travaux sur funérailles des steppes et archéologie scythe ; vérifier la référence bibliographique précise avant de citer un résultat ponctuel. **Intérêt :** illustration de la nécessité de confronter les récits antiques aux assemblages.
+22. **Pierre Briant**, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Fayard, 1996. **Intérêt :** confronter les représentations grecques du pouvoir achéménide aux institutions de l'empire.
+23. **Amélie Kuhrt**, *The Persian Empire: A Corpus of Sources from the Achaemenid Period*, 2 vol., Routledge, 2007. **Intérêt :** panorama des témoins perses et grecs, sans traiter Hérodote comme unique source.
+24. **Nicola Di Cosmo**, *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*, Cambridge University Press, 2002. **Intérêt :** réseaux de contacts, cavalerie et mondes des steppes dans l'histoire chinoise.
+25. **Lothar von Falkenhausen**, *Chinese Society in the Age of Confucius (1000–250 BC): The Archaeological Evidence*, Cotsen Institute, 2006. **Intérêt :** replacer objets et sépultures dans des institutions sociales datées.
+26. **Jessica Rawson**, *Chinese Ornament: The Lotus and the Dragon*, British Museum Press, 1984, et études ultérieures sur les tombes chinoises. **Intérêt :** analyse des formes et prudence dans l'identification iconographique ; ne pas attribuer à cet ouvrage une étude particulière sur tous les chevaux Han.
+
+### 74. Sources institutionnelles et objets identifiés [A]
+
+27. **Metropolitan Museum of Art**, bronze grec **69.61.2**, *Bronze horse*, **750–725 av. n. è.** : https://www.metmuseum.org/art/collection/search/255291. **Intérêt :** sculpture votive géométrique, animal de prestige.
+28. **Metropolitan Museum of Art**, bronze grec **69.61.4**, *Bronze horse*, **milieu du VIIIe siècle av. n. è.** : https://www.metmuseum.org/art/collection/search/255293. **Intérêt :** proportions géométriques et base ajourée.
+29. **Metropolitan Museum of Art**, bronze grec **21.88.24**, *Bronze horse*, **VIIIe siècle av. n. è.**, attribution corinthienne incertaine : https://www.metmuseum.org/art/collection/search/251050. **Intérêt :** objet de dédicace et statut de l'aristocratie.
+30. **Metropolitan Museum of Art**, figurine de cavalier chypriote **74.51.1778**, **v. 600 av. n. è.** : https://www.metmuseum.org/art/collection/search/241333. **Intérêt :** type d'offrande militaire dans l'espace cultuel de Kourion.
+31. **Metropolitan Museum of Art**, mors scythe **58.131.2**, **VIIe siècle av. n. è.** : https://www.metmuseum.org/art/collection/search/324818. **Intérêt :** harnachement et animaux figurés, non preuve directe de sacrifice.
+32. **Metropolitan Museum of Art**, mors scythe **58.131.3**, **VIIe siècle av. n. è.** : https://www.metmuseum.org/art/collection/search/324819. **Intérêt :** extrémité en tête d'oiseau dans le décor équestre.
+33. **Metropolitan Museum of Art**, mors scythe **58.131.4**, **VIIe siècle av. n. è.** : https://www.metmuseum.org/art/collection/search/324820. **Intérêt :** motif de serpent sur un équipement réel.
+34. **Metropolitan Museum of Art**, cavalier funéraire Han **16.149.2**, **Ier–IIe siècles** : https://www.metmuseum.org/art/collection/search/62843. **Intérêt :** escorte du défunt dans la tombe.
+35. **Metropolitan Museum of Art**, cheval et cavalier Han **1994.605.110a, b**, **206 av.–220 apr. n. è.** : https://www.metmuseum.org/art/collection/search/44410. **Intérêt :** cavalerie, fabrication composite et dépôt funéraire.
+36. **Metropolitan Museum of Art**, tête de cheval Han **26.292.45** : https://www.metmuseum.org/art/collection/search/51077. **Intérêt :** prestige des chevaux d'Asie centrale et discours des « chevaux célestes ».
+37. **Metropolitan Museum of Art**, cheval et cavalier Tang **54.169**, **début VIIIe siècle** : https://www.metmuseum.org/art/collection/search/44805. **Intérêt :** iconographie équestre dans une phase tardive distincte de Han.
+
+Les dates et identifications d'objets suivent les catalogues institutionnels mentionnés ; elles peuvent être révisées par les conservateurs. Les références historiographiques ci-dessus constituent un appareil de lecture et de contrôle, non une déclaration d'autopsie des pièces ou de collation intégrale de chaque édition.
+
+## XI. ICONOGRAPHIE RÉELLE : LÉGENDES, PROVENANCES, DROITS
+
+### 75. Choisir des pièces conservées, non des images narratives inventées [A]
+
+**Planche A : Cheval de bronze géométrique grec.** Met, **69.61.2**, 750–725 av. n. è. Légende recommandée : « Petite statuette équine votive, offerte dans le langage plastique de la Grèce géométrique ». L'image doit provenir du téléchargement Open Access exact, non d'un produit dérivé ou d'un site de commerce. Noter que la provenance archéologique précise de l'exemplaire doit être distinguée du type général des offrandes de sanctuaire.
+
+**Planche B : Cheval de bronze à base ajourée.** Met, **69.61.4**, milieu du VIIIe siècle av. n. è. Légende : « Offrande figurée de cheval, avec travail géométrique de la base ». La base n'est pas désignée comme sceau certain. Chaque photographie doit être rattachée au numéro d'inventaire et à l'autorisation d'utilisation indiquée par le musée.
+
+**Planche C : Cavalier chypriote.** Met, **74.51.1778**, vers 600 av. n. è., terre cuite. Légende : « Type votif de cavalier armé rapproché des productions de Kourion et du sanctuaire d'Apollon Hylatès ». Cette image ne doit pas être donnée comme photographie de l'immolation d'un cheval.
+
+### 76. Steppe, mors et prudence de provenance [A]
+
+**Planche D : Mors scythe à décor équestre.** Met, **58.131.2**, VIIe siècle av. n. è., os. Légende : « Pièce de mors décorée de tête et sabot de cheval, attribuée à une production scythe ». Mentionner la provenance géographique « Iran » indiquée dans la notice et ne pas attribuer fictivement la pièce à un kourgane précis.
+
+**Planche E : Mors scythe à motif de serpent.** Met, **58.131.4**, VIIe siècle av. n. è. Légende : « Harnachement équestre comportant un motif serpentin ». La proximité avec MC-127 sur les serpents ne doit pas transformer ce mors en témoignage direct d'un rite de protection magique.
+
+Ces images de pièces anciennes sont indiquées **Public Domain** dans les notices du Met : le musée fournit des fichiers Open Access. Vérifier le statut du fichier exact et conserver une mention scientifique complète (musée, numéro, date, matériau, URL) lors de l'intégration.
+
+### 77. Funéraire chinois : éviter la confusion entre vivant et figuré [A]
+
+**Planche F : Cavaliers de tombes Han.** Met **16.149.2**, terre glaçurée, Ier–IIe siècles. Légende : « Modèle de cavalier de l'époque Han, placé dans une tombe pour accompagner le défunt ». Ne pas représenter cette pièce comme un squelette de cheval.
+
+**Planche G : Cheval et cavalier composite Han.** Met **1994.605.110a, b**. Légende : « Cavalier et monture modelés en terre cuite ; les lacunes révèlent l'existence de parties en matériaux organiques aujourd'hui perdues ». La notice muséale signale ces éléments, qui ne doivent pas être reconstruits en peinture inventée sans documentation.
+
+**Planche H : Cheval de prestige dans les traditions Han.** Met **26.292.45**. Légende : « Tête de cheval en terre cuite, liée à l'admiration des chevaux d'Asie centrale ». La relation au « cheval céleste » doit être présentée comme contexte de cour et non comme identification certaine d'une divinité.
+
+**Planche I : Cavalier Tang.** Met **54.169**, début du VIIIe siècle. Légende : « Figurine funéraire équestre à glaçure *sancai* ». La différence de date avec les figurines Han doit apparaître dans la légende.
+
+Pour chacune, vérifier la présence de l'option **Public Domain / Open Access** dans le catalogue du Met avant téléchargement et ne pas substituer une photographie provenant d'un tiers dont les droits sont inconnus. L'inscription « domaine public » d'un objet antique ne vaut pas licence universelle pour toutes les photographies contemporaines.
+
+### 78. Témoignages sans photographie libre vérifiée [N]
+
+Les textes du *Ṛgveda*, les manuscrits du *Śatapatha Brāhmaṇa*, les traditions de l'*Equus October* et la description d'Hérodote ne sont pas illustrés par des « scènes authentiques » inventées. Des images de reconstruction peuvent être utiles en médiation, mais elles ne sauraient être présentées comme objets antiques. **Aucune illustration 2,5D** n'est admise ; aucune vignette artificielle ne remplacera la photographie d'une pièce attestée.
+
+Des cartes géographiques des sanctuaires et des régions de kourganes peuvent être établies ultérieurement à partir de données géoréférencées et de bases de fouilles reconnues. Une carte générique des migrations indo-européennes ne prouverait pas une transmission du sacrifice équin. La documentation archéologique prime sur la vraisemblance graphique.
+
+## XII. THÈSES, CONTRE-EXEMPLES ET CONTINUITÉ ÉDITORIALE
+
+### 79. Douze résultats vérifiables [A/I/H/P]
+
+1. **[A]** *Ṛgveda* I.162 décrit explicitement des préparatifs sacrificiels et un traitement du cheval réel ; I.163 élabore sa dimension cosmique.
+2. **[A]** Le *Śatapatha Brāhmaṇa* XIII témoigne d'un développement liturgique de l'*aśvamedha* qui doit être distingué des hymnes plus anciens.
+3. **[A]** Festus et Plutarque attestent un rite romain singulier à Mars, le cheval d'Octobre, lié à la course et au traitement différencié de parties de l'animal.
+4. **[H]** La généalogie troyenne du rite est une interprétation antique, non une origine historiquement prouvée.
+5. **[A]** Les petits chevaux de bronze grecs sont des objets votifs attestés ; ils ne prouvent pas à eux seuls des sacrifices de chevaux.
+6. **[A]** Pausanias conserve plusieurs traditions grecques distinctes : Poséidon Hippios, Déméter-jument et le serment des prétendants d'Hélène.
+7. **[A]** Hérodote I.189 décrit un cheval blanc sacré dans la narration sur Cyrus ; son statut de source grecque doit rester explicite.
+8. **[A]** Hérodote IV.71–72 décrit l'inhumation et l'exposition de chevaux lors des funérailles royales scythes, sans que tous les détails puissent être automatiquement transposés aux fouilles.
+9. **[A]** Les mors du Met documentent la technique et la valeur des harnachements scythes ; ils ne sont pas un registre direct des sacrifices.
+10. **[A]** Les figurines funéraires Han du Met démontrent une présence équestre **figurée** au sein des tombes ; elles ne constituent pas des dépouilles équines.
+11. **[N]** Aucune séquence « sacrifice indien → rite romain → statuette grecque → modèle chinois » n'est attestée comme évolution universelle.
+12. **[P]** Le thème comparatif le mieux établi est la **conversion de mobilité, prestige et force équine en dispositifs de souveraineté, de don et de mémoire** ; cette proposition ne doit pas être imputée comme doctrine commune aux anciens.
+
+### 80. Questions ouvertes et programme de collation [I/N]
+
+Une enquête suivante devrait comparer les leçons des deux hymnes védiques dans des éditions critiques, les prescriptions du livre XIII du *Śatapatha Brāhmaṇa*, les témoins latins du cheval d'Octobre et les variantes de Plutarque ; elle devrait ensuite rapprocher les petits bronzes grecs d'inventaires stratifiés de sanctuaires, les tombes scythes de rapports ostéologiques précisément datés et les figurines Han de contextes funéraires documentés. La présente étude ne prétend pas avoir accompli des autopsies d'objets ni des analyses de laboratoire.
+
+Les droits de reproduction photographique, la provenance des objets, la datation des témoins et le statut des citations grecques, latines et sanskrites devraient faire l'objet d'un contrôle final avant toute édition illustrée de grande diffusion.
+
+### 81. Continuité dans le cycle MYTHOS [I]
+
+La présente monographie ne duplique pas les dossiers **MC-084** (*Animaux divins*), **MC-098** (traversée de l'autre monde), **MC-113** (plumes divines), **MC-115** (roues et chars), **MC-119** (chiens du sacré), **MC-121** (poissons du sacré), **MC-124** (cornes), **MC-125** (gemmes), **MC-127** (serpents), **MC-130** (ailes) ni **MC-131** (grenades). Elle isole le **cheval** comme acteur matériel des procédures d'offrande, de déplacement, de souveraineté, de serment et de mort, sans revenir à une taxinomie exhaustive de tous les animaux religieux. Les renvois historiques restent à leurs identifiants MC, sans réclamer de numéros canoniques nouveaux.
+
+**Clause d'intégrité.** Le texte est un manuscrit public complet, pas un brouillon privé. Ne modifier ni les archives, ni les textes numérotés ni les reçus déjà attribués. L'attribution romaine et décimale ne doit intervenir qu'au cours de la transaction GitHub Actions. Le dépôt dans editorial/inbox/ ne confirme pas la publication sur bobmythos.fr ; seul un contrôle du rendu et de l'URL HTTPS autorisera cette mention.
