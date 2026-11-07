@@ -12,10 +12,10 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 BIBLIOGRAPHY = ROOT / "bibliographie" / "index.html"
 SOURCES = {
-    "hellenistes/index.html": 7,
-    "bibliotheque-mesopotamie/index.html": 3,
-    "bibliotheque-egypte-ancienne/index.html": 4,
-    "bibliotheque-perse-iran-ancien/index.html": 4,
+    "hellenistes/index.html": 20,
+    "bibliotheque-mesopotamie/index.html": 8,
+    "bibliotheque-egypte-ancienne/index.html": 12,
+    "bibliotheque-perse-iran-ancien/index.html": 11,
 }
 
 
