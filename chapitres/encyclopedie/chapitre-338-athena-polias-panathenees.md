@@ -102,3 +102,11 @@ Le Parthénon, les amphores, le péplos et la procession appartiennent à des su
 **Renvois :** chapitre 304 (frise du Parthénon) ; chapitre 336 (Érichthonios) ; chapitre 337 (Arrhéphories).  
 **À ne pas fusionner :** série tragédies ; comédies ; Origines du sacré ; mythologie comparée.  
 **Chemin canonique :** `chapitres/encyclopedie/chapitre-338-athena-polias-panathenees.md`.
+
+---
+
+### Note critique documentaire — LO03-EN-338 (7 novembre 2026)
+
+**Témoin et catalogue de musée consultés.** Acropolis Museum, Athènes, [frise est du Parthénon, bloc II](https://www.theacropolismuseum.gr/en/parthenon-east-frieze-block-2-ii), inventaire **Ακρ. 877**, marbre pentélique, atelier de Phidias, datation muséale **442–438 av. J.-C.** La fiche décrit les porteuses de phiales et situe la procession des Panathénées dans sa relation au sanctuaire d'Athéna Polias ; elle présente la scène centrale comme remise du péplos. Ce **programme sculpté**, exécuté au Ve siècle, n'est ni un film du rituel ni la preuve que tous ses détails correspondent à une procession unique. Le *xoanon* d'Athéna Polias est à distinguer de la statue chryséléphantine d'Athéna Parthénos.
+
+**Interprétation française contextualisée.** Nicole Loraux, *Les Enfants d'Athéna. Idées athéniennes sur la citoyenneté et la division des sexes* (Maspero, **1981**) : compte rendu de Maria Daraki ([*Annales*, 1982, p. 795–799](https://www.persee.fr/doc/ahess_0395-2649_1982_num_37_5_282902_t1_0795_0000_000)) sur le rapport entre mythes d'origine, citoyenneté et genre. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* (cadrage historiographique, [répertoire PR 159](https://github.com/Bobcribb/Bobcribb.github.io/blob/scientifique/notes-sources-20261107-01/docs/REFERENCES_CHERCHEURS_FRANCAIS_2026-11-07.md)). **Statut :** fiche d'objet consultée ; aucun commentaire particulier de Loraux ou Vernant sur ce bloc n'est fabriqué ; débats sur l'identification de la scène centrale à vérifier dans les études spécialisées.
