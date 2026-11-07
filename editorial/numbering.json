@@ -1473,6 +1473,12 @@
           "path": "chapitres/origines-du-sacre/817-jinsha-chengdu-meiyuan-offrandes-ivoire-oiseaux-soleil-or-shu.md",
           "request_sha256": "7fc7cd755295c848e3105c2666485a8a9e48a7035c264d2f993cab351af53cd4",
           "initial_source_sha256": "8f4ff4358091ae2af6f749054b9bdf29a59a9bdd80de5949b5678648ac974c23"
+        },
+        "bc20df45-0f63-4ab1-b168-2d83f16b429e": {
+          "number": 818,
+          "path": "chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant.md",
+          "request_sha256": "fb7594a8cea792f11f40138733bb907bcb8e5f4c81ac4fc5eb79269be0763408",
+          "initial_source_sha256": "6f292d0a2c48c63691988cbc3c117d8532e6041226626642c5f463da501cdb48"
         }
       }
     },
@@ -3646,6 +3652,12 @@
           "path": "chapitres/tragedies/volume-ccxcviii-iophon-achille-achilleus-colere-patrocle-mort-gloire-souda-tragedie-perdue.md",
           "request_sha256": "90da2d4c3de059b3cae2d96f51614d22ae92a1b812ed0a16a682b97126884fa9",
           "initial_source_sha256": "8ca5cfacbd143e00f17e1f2e7465b04f20e5cef1774d90af56f776d8d075a3dd"
+        },
+        "c967e338-09a3-42c8-a88e-72d66b56b2c1": {
+          "number": 299,
+          "path": "chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue.md",
+          "request_sha256": "c6ca2991ab88c0348f496a5bc9623455497565349d060034a1596867d9249aba",
+          "initial_source_sha256": "46f2f365ff4f69b268b299ca66bc8a6b123e0c6f494877c521c07d23827f4da9"
         }
       }
     },
@@ -4915,6 +4927,18 @@
           "path": "chapitres/comparatif/volume-ccclii-mc-124-cornes-du-sacre-mesopotamie-egypte-autels-shofar-delos-achelous.md",
           "request_sha256": "14cd6a41d4e5485a9a3d13cb0bbaf5196504cae599d04db0881b0184a9eef727",
           "initial_source_sha256": "52a925b2339f050c8da37c474e9088b9fc0bbcfdc3c973621944e6082ad89aa0"
+        },
+        "a8f1257b-1c6e-4c5b-b351-62ead8872f09": {
+          "number": 353,
+          "path": "chapitres/comparatif/volume-cccliii-mc-127-serpents-sacre-ningishzida-wadjet-illuyanka-asclepios-nehushtan-naga.md",
+          "request_sha256": "de4368c06b79260c7fdf1985a31fb7b9ec991b3fe7b755d0e57e8b69760766e7",
+          "initial_source_sha256": "ff1ce6e22bec76590855483fc93ae8e143a9827206a301789099b95a96e306f1"
+        },
+        "b126e014-81ba-4b3c-9ea5-202611071434": {
+          "number": 354,
+          "path": "chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing.md",
+          "request_sha256": "ec4dcae456404344082a14eb316db20fc514339e999c5f83d83cf0d251ded10c",
+          "initial_source_sha256": "19648e9b49182f3cc7e8716939447af9da47373884c754c2c0cd13314beced4e"
         }
       }
     }
