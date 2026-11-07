@@ -270,3 +270,14 @@ Aucune image n'est intégrée par la présente soumission. Conserver les études
 [P] Le pont, la barque et le gué présentent finalement trois figures de la limite : l'ouvrage qui paraît disponible mais peut juger son usager, le navire qui exige une médiation, et le fleuve qui reste dangereux même si l'on sait où il coule. L'être humain cherche moins à abolir la mort qu'à donner une forme intelligible à la question : **qu'est-ce qui permet de passer lorsque l'on ne dispose plus, en principe, des moyens de revenir ?**
 
 *Statut du présent fichier : manuscrit comparatif intégral approuvé, soumis sous identité historique **MC-098** ; le numéro canonique demeure 301 et son chiffre romain CCCI jusqu'au traitement atomique. Aucune preuve de déploiement public n'est impliquée par sa création dans la file éditoriale.*
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Iran — passages et stratigraphie des témoins :** Aḥmad Tafażżolī, « ČINWAD PUHL », *Encyclopaedia Iranica*, vol. V/6, p. 594–595, publication imprimée **1991**, dernière actualisation annoncée **28 janvier 2014** : https://www.iranicaonline.org/articles/cinwad-puhl-av/ . L'article cite **Yasna 46.10–11 ; 51.13** pour les attestations gāthiques et **Vidēvdād 19.29–30** pour d'autres développements. Il relève l'existence de lectures philologiques divergentes du sens de *činvat* (notamment autour de l'interprétation de Jean Kellens).
+
+**Référence complémentaire :** Philippe Gignoux, « Hell i. In Zoroastrianism », *Encyclopaedia Iranica*, publication imprimée **2003**, relève les degrés d'attestation de l'au-delà et le développement des traditions postérieures : https://www.iranicaonline.org/articles/hell-i/ .
+
+**Limite décisive :** la représentation du pont et du jugement change suivant les strates avestiques et moyen-perses ; les parallèles avec Charon, Gjallarbrú, ṣirāṭ ou Vaitaraṇī ne démontrent **ni filiation ni origine unique**. Les autres traditions comparées ne sont **pas recollationnées** dans cette note. La philologie iranienne française (Jean Kellens cité par Tafażżolī) est une discussion documentée, non un avis adressé à MYTHOS.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->

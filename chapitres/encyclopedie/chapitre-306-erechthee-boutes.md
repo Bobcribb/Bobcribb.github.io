@@ -320,3 +320,15 @@ L'Érechthéion donne à ces tensions une forme architecturale. Il ne résout pa
 | Chapitre suivant envisagé | 307 — Orithyie et Borée : enlèvement, vents et alliances mythiques de l'Attique |
 
 **Note de continuité et d'archivage :** ce document est un chapitre public destiné à MYTHOS. Il n'est pas une sauvegarde intégrale de la série. Les lacunes antérieures d'archivage doivent être comblées uniquement à partir des livraisons originales retrouvées, sans substituer de nouvelles rédactions à des textes non récupérés.
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Source primaire contrôlée :** Pausanias, *Description de la Grèce*, **I, 26, 5–6**, décrit dans l'Érechthéion un autel de Poséidon où Érechthée reçoit aussi des sacrifices, un autel de Boutès et un autel d'Héphaïstos. Traduction de travail du Center for Hellenic Studies (Harvard) : https://www-current.chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/ . Cette notice du IIe siècle de notre ère ne constitue pas une photographie de la situation cultuelle au Ve siècle avant notre ère.
+
+**Discussion française directement ciblée :** Claude Calame, « Myth and Performance on the Athenian Stage: Praxithea, Erechtheus, Their Daughters, and the Etiology of Autochthony », *Classical Philology* **106/1** (janvier 2011), p. **1–19**, DOI **10.1086/659107** : https://www.journals.uchicago.edu/doi/10.1086/659107 . Son analyse des performances et de l'étiologie peut éclairer les fragments d'Euripide sans combler automatiquement leurs lacunes.
+
+**Référence française de fond :** Nicole Loraux, *Les Enfants d'Athéna. Idées athéniennes sur la citoyenneté et la division des sexes*, Maspero, **1981**, compte rendu identifié dans les *Annales* 37 (1982), DOI **10.1017/S0395264900099522** : https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/abs/nicole-loraux-les-enfants-dathena-idees-atheniennes-sur-la-citoyennete-et-la-division-des-sexes-paris-f-maspero-textes-a-lappui-1981-287-p/B918DDBC556CEB9B5FAD146F1D628525 . La notice de compte rendu ne tient pas lieu d'édition des fragments tragiques. **Niveaux :** sanctuaires chez Pausanias = témoignage tardif ; histoire de l'autochtonie = construction interprétative à historiciser.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->

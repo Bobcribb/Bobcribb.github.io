@@ -188,3 +188,15 @@ Hannah Arendt Center, bibliographie : https://hac.bard.edu/about/hannaharendt/ ;
 
 
 **Suite proposée : volume CVI — conscience, résistance et obligation politique, de Thoreau à Martin Luther King.**
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Textes à comparer sans anachronisme :** Platon, *Apologie* **29c–30b** (refus de renoncer à l'enquête), *Criton* **49a–54d** (rapport aux Lois) ; John Rawls, *A Theory of Justice*, **§§55–59** (édition originale **1971**, pagination variable). Ces passages ne fondent pas une identité historique entre Socrate et la désobéissance civile constitutionnelle moderne.
+
+**Recherche contemporaine consultée :** Kimberley Brownlee et Chong-Ming Lim, « Civil Disobedience and Conscientious Refusal », *The Oxford Handbook of John Rawls*, publié en ligne **18 décembre 2025**, DOI **10.1093/oxfordhb/9780197754931.013.0054** : https://academic.oup.com/edited-volume/60677/chapter-abstract/544480043 . Leur résumé souligne les difficultés d'application du concept restrictif de Rawls aux cas historiques ; l'ouvrage complet n'a pas été collationné. Voir aussi *Stanford Encyclopedia of Philosophy*, « Civil Disobedience », révision de fond du **2 juin 2021** : https://plato.stanford.edu/entries/civil-disobedience/ .
+
+**Historiographie française :** Nicole Loraux, *La Cité divisée. L'oubli dans la mémoire d'Athènes*, Paris, Payot, **1997**, notice BnF : https://catalogue.bnf.fr/ark:/12148/cb36180775v . Cette étude de la mémoire politique, spécialement après 403 av. n. è., **ne doit pas** être confondue avec une interprétation explicite de Rawls par Loraux ni avec le procès de Socrate en 399.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->

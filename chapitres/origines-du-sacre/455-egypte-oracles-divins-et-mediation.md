@@ -22,3 +22,17 @@ Une barque figurée sur une stèle, une inscription de jugement et un texte litt
 **Faits attestés :** oracles processionnels et cultes royaux divinisés. **Controverses :** modalités exactes de l'interprétation des mouvements et répartition des décisions entre prêtres et participants. **Hypothèse :** le dispositif rituel transforme une action collective visible en décision attribuée à une puissance divine.
 
 **Sources primaires :** documentation oraculaire de Deir el-Médina ; stèles de cultes royaux d'Abydos et de Thèbes ; textes égyptiens des processions divines. **Études :** John Baines, travaux sur la religion et l'État égyptiens ; Emily Teeter, *Religion and Ritual in Ancient Egypt* (2011) ; Stephen Harvey, « King to God: The Divine Oracle of Ahmose at Abydos », conférence d'égyptologie (2021), https://fount.aucegypt.edu/exaltedspirits/4/ ; Jan Assmann, *The Search for God in Ancient Egypt* (2001).
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Deux témoins matériels vérifiés dans la base officielle du musée du Louvre :**
+- **E 27682**, ostracon calcaire de Deir el-Médina, quatre lignes hiératiques, **question à un oracle**, attribution ramesside vers 1295–1069 av. n. è. : https://collections.louvre.fr/ark:/53355/cl010002706 . Le catalogue cite Pierre Grandet (2008, p. 161–177, objet V) et Silvia Stubnova (*JARCE* 53, 2017, p. 279, cat. 120).
+- **N 697**, ostracon hiératique provenant de Deir el-Médina d'après les critères de provenance, époque de Ramsès II **incertaine**, nature du texte : oracle ; inventaire et bibliographie : https://collections.louvre.fr/ark:/53355/cl010378363 . La notice cite notamment Yvan Koenig, *Revue d'égyptologie* 42 (1991), p. 112–113, et Stubnova (2017, p. 280, cat. 153).
+
+Ces inventaires attestent des **questions oraculaires écrites**, sans prouver à eux seuls la mécanique d'un mouvement de barque pour chaque document, ni livrer une réponse complète. La lecture et traduction ligne à ligne des hiératiques restent **non collationnées**.
+
+**Chercheurs français :** Pierre Grandet et Yvan Koenig apportent ici des études d'objets identifiés. Nicolas Grimal, *Histoire de l'Égypte ancienne* (Fayard, **25 novembre 1988**), n'est mobilisé que comme synthèse chronologique : https://www.fayard.fr/livre/histoire-de-legypte-ancienne-9782213021911/ . Ne pas transférer automatiquement un modèle delphique à Deir el-Médina.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->

@@ -283,3 +283,15 @@ L'incertitude ne doit pas empêcher de tirer des conclusions, mais elle commande
 16. **Platon**, *Gorgias* et *République* I ; **G. W. F. Hegel**, *Phénoménologie de l'esprit* (1807) et *Leçons sur l'esthétique* ; **Friedrich Nietzsche**, *La Naissance de la tragédie* (1872). Références d'**interprétation** seulement, non témoignages sur le texte perdu.
 
 **Réserve finale.** Une notice universitaire sur une pièce presque intégralement disparue doit augmenter la précision de ce qui est connu, non le nombre de vers prétendument retrouvés. Le lecteur peut identifier ici les témoins, les propositions savantes et les questions philosophiques, sans les confondre.
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Témoignage antique contrôlé :** Dion Chrysostome, *Discours* 52, spécialement §§ 2, 14–17, compare les trois *Philoctète* d'Eschyle, Sophocle et Euripide ; *Discours* 59 présente une **paraphrase en prose** de l'ouverture euripidéenne et non le texte dramatique complet. Texte et présentation de l'édition Loeb (1946) consultables : https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dio_Chrysostom/Discourses/52*.html et https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dio_Chrysostom/Discourses/59*.html. **Niveau de preuve : attesté** pour l'existence du témoignage de Dion ; **interprétation** pour l'ordre détaillé des épisodes absents.
+
+**Édition critique à collationner :** R. Kannicht, *Tragicorum Graecorum Fragmenta*, vol. 5, *Euripides*, Göttingen, 2004, frr. 787–803 selon les références déjà portées par le manuscrit. La numérotation de tous les fragments n'a pas été recollationnée à partir de l'édition intégrale ; ne pas utiliser la paraphrase tardive de Dion comme transcription mot à mot du prologue perdu.
+
+**Historiographie française :** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* (1965), sert de **cadre méthodologique** pour la distinction entre narration mythique et enjeux de cité, sans prétendre commenter directement les fragments de cette tragédie. Vérifier toute inférence scénique ou politique avec Dion et l'édition Kannicht avant insertion dans l'argument principal.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->
