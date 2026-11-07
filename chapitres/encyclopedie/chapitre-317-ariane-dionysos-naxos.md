@@ -101,3 +101,14 @@ Ariane ne possède pas un destin unique. Chez Homère, elle meurt sur Dia ; chez
 
 ## XXVII. Index éditorial
 **Volume :** XCIX. **Chapitre :** 317. **Titre :** Ariane et Dionysos — L'abandon à Naxos, les noces divines et la transformation d'une héroïne. **Précédent :** 316 Thésée, Ariane et le Labyrinthe. **Suivant proposé :** 318 Égée et les voiles noires — la mort du roi et le retour de Thésée, après vérification des doublons. **Personnages :** Ariane, Dionysos, Thésée, Minos, Artémis, Zeus. **Lieux :** Crète, Dia, Naxos, Chypre, Athènes. **Thèmes :** abandon, mortalité, immortalité, culte, mariage, mémoire féminine, variantes mythiques. **Protection :** document public, aucune archive privée incluse ; ne constitue pas une sauvegarde intégrale de MYTHOS.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Passages primaires consultés.** Homère, *Odyssée* **XI, 321–325**, [traduction A. T. Murray](https://www.theoi.com/Text/HomerOdyssey11.html) : Ariane est vue parmi les mortes et tuée par Artémis à Dia dans un récit mentionnant Dionysos. Hésiode, *Théogonie* **947–949**, [traduction H. G. Evelyn-White](https://www.theoi.com/Text/HesiodTheogony.html) : Ariane, épouse de Dionysos, reçoit de Zeus la condition immortelle. **Ces témoignages divergent sur le devenir de la princesse.** Leur rapprochement ne doit pas produire un texte grec ancien unifié qui n'existe pas. Une traduction de la cause précise de la mort chez Homère demande de confronter le grec aux commentaires.
+
+**Recherche française directement pertinente.** Françoise Frontisi-Ducroux, *Ouvrages de dames : Ariane, Hélène, Pénélope...*, Seuil, **2009**, ISBN **9782020979085**, [notice éditoriale et métadonnées identifiées](https://www.decitre.fr/livres/ouvrages-de-dames-9782020979085.html). Ariane figure dans le titre ; l'ouvrage aborde les représentations des femmes et du fil. **Texte intégral et pages internes non consultés** : ne pas imputer à l'auteure une lecture spécifique de l'*Odyssée* XI sans collation. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, cadre méthodologique général, sans passage dédié vérifié.
+
+**Limites.** Les variantes mythographiques ne sont ni une chronologie de faits ni la preuve archéologique d'une cérémonie précise à Naxos. Aucune approbation scientifique personnelle n'est attribuée.
