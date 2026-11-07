@@ -7,10 +7,18 @@ ROOT = Path(__file__).resolve().parents[1]
 STUDY = ROOT / "philosophie-eneide.html"
 CORPUS = ROOT / "corpus/philosophie/eneide"
 SAMPLES = {
+    "02-chant-ii.md": "Lecture rapprochée : Priam, Pyrrhus et les droits du suppliant",
+    "03-chant-iii.md": "Polydore : quand le sol révèle le crime",
     "04-chant-iv.md": "Microlecture philologique : « coniugium » et « culpa »",
+    "05-chant-v.md": "Les jeux d’Anchise : l’honneur comme distribution contestable",
     "06-chant-vi.md": "Les impératifs d’Anchise",
+    "07-chant-vii.md": "« Acheronta movebo »",
     "08-chant-viii.md": "L’ekphrasis et la fabrication d’une mémoire politique",
+    "09-chant-ix.md": "« Dine hunc ardorem »",
+    "10-chant-x.md": "Lausus, miroir de la pietas du vainqueur",
+    "11-chant-xi.md": "La trêve des morts : un minimum commun entre ennemis",
     "12-chant-xii.md": "Une supplication exactement formulée",
+    "14-empire-memoire.md": "L’augustéisme de l’épopée",
     "17-reperes-et-sources.md": "Appareil critique complémentaire",
 }
 
@@ -33,6 +41,41 @@ class EneideDeepeningTest(unittest.TestCase):
                       (CORPUS / "17-reperes-et-sources.md").read_text(encoding="utf-8"))
         self.assertIn("vitaque cum gemitu fugit indignata sub umbras",
                       (CORPUS / "12-chant-xii.md").read_text(encoding="utf-8"))
+
+
+    def test_all_eighteen_sources_match_the_html_chapter_map(self):
+        """Ne jamais perdre une section ni casser les ancres lors d'un enrichissement."""
+        import re
+        doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
+        names = [
+            "00-introduction.md", "01-chant-i.md", "02-chant-ii.md",
+            "03-chant-iii.md", "04-chant-iv.md", "05-chant-v.md",
+            "06-chant-vi.md", "07-chant-vii.md", "08-chant-viii.md",
+            "09-chant-ix.md", "10-chant-x.md", "11-chant-xi.md",
+            "12-chant-xii.md", "13-pietas-destin.md",
+            "14-empire-memoire.md", "15-philosophies-comparaisons.md",
+            "16-poetique-conclusion.md", "17-reperes-et-sources.md",
+        ]
+        chapters = doc.select("section.philo-chapter")
+        self.assertEqual(len(chapters), len(names))
+        for i, name in enumerate(names):
+            text = (CORPUS / name).read_text(encoding="utf-8")
+            title = re.search(r"^# (.+)$", text, flags=re.M).group(1)
+            headings = re.findall(r"^## (.+)$", text, flags=re.M)
+            chapter = chapters[i]
+            heading = chapter.select_one(f'h2[id="eneide-{i:02}"]')
+            self.assertIsNotNone(heading, name)
+            self.assertEqual(heading.get_text(" ", strip=True), title, name)
+            anchors = chapter.select("h3[id]")
+            self.assertEqual(len(anchors), len(headings), name)
+            for j, expected in enumerate(headings):
+                subheading = chapter.select_one(f'h3[id="eneide-{i:02}-{j:02}"]')
+                self.assertIsNotNone(subheading, name + ": " + expected)
+                self.assertEqual(subheading.get_text(" ", strip=True), expected)
+        self.assertEqual(
+            len(doc.select("#eneide-manuscrits-originaux")),
+            0,  # Ce panneau est ajouté par le générateur dans _site, pas dans la source HTML
+        )
 
 if __name__ == "__main__":
     unittest.main()
