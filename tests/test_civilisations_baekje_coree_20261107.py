@@ -25,7 +25,7 @@ class BaekjeNavigationTests(unittest.TestCase):
         self.doc = page("bibliotheque-mythologies-du-monde/civilisations-baekje-ungjin-sabi-coree/index.html")
 
     def test_complete_monograph_and_source_apparatus(self):
-        self.assertEqual(len(self.doc.select("section.mythos-study-section > h2")), 16)
+        self.assertEqual(len(self.doc.select("section.mythos-study-section > h2")), 17)
         self.assertEqual(len(self.doc.select("#bibliographie li[id^='ref-']")), 13)
         article = self.doc.select_one("article")
         self.assertGreater(len(article.get_text(" ", strip=True).split()), 2200)
