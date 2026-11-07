@@ -332,6 +332,12 @@ def metadata(entry, doc):
 def add_reading(doc, url, entry):
     main=doc.main or doc.select_one('article')
     if not main: return
+    # Un nav de lecture explicitement titré dans l'article est un sommaire
+    # scientifique rédigé par l'auteur, pas un contrôle généré à remplacer.
+    # Les détails automatiques portent data-reading-owned ; on peut les refaire,
+    # mais retirer un nav d'auteur ferait perdre des titres/liens au manuscrit.
+    if doc.select_one('article.content nav.mythos-reading-toc[aria-label]'):
+        return
     for old in doc.select('[data-reading-owned], .mythos-reader, .mythos-reading-toc'): old.decompose()
     article=main.select_one('article.content') or main
     headings=[h for h in article.select('h2') if not h.find_parent(['nav','aside']) and not h.find_parent(class_='toc')]
