@@ -1431,6 +1431,54 @@
           "path": "chapitres/origines-du-sacre/810-apollo-11-huns-namibie-plaquettes-peintes-30000-ans-pigments-images.md",
           "request_sha256": "0df1ee1990122ba59f8ddcf283aa78151df7a8981660ed9863544471ae9f6496",
           "initial_source_sha256": "aac9ab01c8c53599efae847cc50b92d07aef12239a5e6a42946ea01a494db0e0"
+        },
+        "f50d7418-c4bd-4fb6-94a0-2b342acda6bb": {
+          "number": 811,
+          "path": "chapitres/origines-du-sacre/811-wonderwerk-kuruman-afrique-sud-gravures-holocene-feu-pleistocene-stratigraphie.md",
+          "request_sha256": "164043407e8c39ca7de9c8232748e3973165a70f6ceea6321ea63812cfe41caf",
+          "initial_source_sha256": "11cf10fb6dd257d0bc39968e481d895a8c0bd72c92d53b667ad69c2819f6763e"
+        },
+        "0c7e5f42-77ad-49b1-92c3-202611071421": {
+          "number": 812,
+          "path": "chapitres/origines-du-sacre/812-sanxingdui-sichuan-fosses-k1-k8-soie-ivoire-bronze-sacrifice-2026.md",
+          "request_sha256": "f9909daaff275a443925ddc4c21fc77e10a91c6e0d29c9d21999ed764a3feac7",
+          "initial_source_sha256": "9b3ecbdee4500da4fd59b0e43f2c15b89b95fd0192e09e98559caa96fbfd1ee4"
+        },
+        "12f9b614-14d6-4e63-9242-0a85d7e94f20": {
+          "number": 813,
+          "path": "chapitres/origines-du-sacre/813-makgabeng-limpopo-koma-initiation-maleboho-camel-archives-orales.md",
+          "request_sha256": "8b6c94cd4a4a483423c94201a23f3ddaa7913367c3ae2891f3f53f49d3362706",
+          "initial_source_sha256": "a2d857fbb55f8a17bb15f7262779760fab28c7078d5469b7c1332962f21a538e"
+        },
+        "26a30bcb-45b1-4aac-93f1-4f98a0d76c5e": {
+          "number": 814,
+          "path": "chapitres/origines-du-sacre/814-kakapel-kenya-peintures-kansyore-perles-ocre-agriculture-holocene.md",
+          "request_sha256": "d1a88575202ef19348b0bb8785f4e336413c253b260da3913bd8db229f55131a",
+          "initial_source_sha256": "bfc55d365e6c3cc7b6bb649bb0a05b9cdfc07e7b05f4e5391f6b34ce02dba65c"
+        },
+        "4e89ac26-c9b4-4b43-b90d-734197feff52": {
+          "number": 815,
+          "path": "chapitres/origines-du-sacre/815-makgabeng-initiation-koma-memoire-hananwa-peintures.md",
+          "request_sha256": "1650f8ea02297ce18e9d793f3e13e01c42700ab6b930bddc7c822fc509e936b6",
+          "initial_source_sha256": "4b2d2f1a7b84811a0f57d0d9702dc302703f3f1b77a51d1875cb8ea29d8f3bac"
+        },
+        "67afc802-41e0-4ed0-9ec8-8471d259a30b": {
+          "number": 816,
+          "path": "chapitres/origines-du-sacre/816-kakapel-kenya-peintures-palimpseste-bovins-adn-ancien.md",
+          "request_sha256": "9c9f7c847b339ed2b2e5aac4d3071ae8a7bf6f377fcc7a8adda79da1ba5d7567",
+          "initial_source_sha256": "cde8677aaacd871e71c50537c024157541d5fad232597c3b347ffa1f5ea107b7"
+        },
+        "e4bd2a70-17c9-44a8-9b3e-202611071423": {
+          "number": 817,
+          "path": "chapitres/origines-du-sacre/817-jinsha-chengdu-meiyuan-offrandes-ivoire-oiseaux-soleil-or-shu.md",
+          "request_sha256": "7fc7cd755295c848e3105c2666485a8a9e48a7035c264d2f993cab351af53cd4",
+          "initial_source_sha256": "8f4ff4358091ae2af6f749054b9bdf29a59a9bdd80de5949b5678648ac974c23"
+        },
+        "bc20df45-0f63-4ab1-b168-2d83f16b429e": {
+          "number": 818,
+          "path": "chapitres/origines-du-sacre/818-domboshava-zimbabwe-pluie-ancetres-peintures-patrimoine-vivant.md",
+          "request_sha256": "fb7594a8cea792f11f40138733bb907bcb8e5f4c81ac4fc5eb79269be0763408",
+          "initial_source_sha256": "6f292d0a2c48c63691988cbc3c117d8532e6041226626642c5f463da501cdb48"
         }
       }
     },
@@ -2272,6 +2320,18 @@
           "path": "chapitres/encyclopedie/chapitre-487-telchines-rhodes-magie-metallurgie-poseidon-lindos-callimaque-autochtonie.md",
           "request_sha256": "66c7dc82c1e112e3386836b8579745ee74717b2e6f2875d00b9f3292a71ebb3d",
           "initial_source_sha256": "8787c155847d211d5cf7dd774d34250418212a49fdf6265043a15cb326320688"
+        },
+        "54c8d8a5-27f6-4f6d-bd60-7d7cda9d4801": {
+          "number": 488,
+          "path": "chapitres/encyclopedie/chapitre-488-aloadai-otos-ephialtes-iphimedeia-naxos-helicon-muses-ares-gigantisme.md",
+          "request_sha256": "cf686cb887bb75c418298b32fc002a2273d297b9f380f5a729bacb68670fa5da",
+          "initial_source_sha256": "200825803cb20547fd58497a19ac94102a0c27634ebafba672f821902eb70c15"
+        },
+        "c3b97564-7175-4ecf-b09b-9efea1aee70a": {
+          "number": 489,
+          "path": "chapitres/encyclopedie/chapitre-489-polybotes-poseidon-nisyros-gigantomachie-vases-geologie.md",
+          "request_sha256": "2672b89105473f0c94bbd0f84282d2d04d58e123d67634a35dfe73e992aa6702",
+          "initial_source_sha256": "61a0cba1751f0668416843711d5921dc63d548242475bbb58e19f1aaa35879e2"
         }
       }
     },
@@ -2890,6 +2950,18 @@
           "path": "chapitres/comedies/volume-151-timokles-orestautokleides-eumenides-hetaires-parabyston-paratragedie.md",
           "request_sha256": "a3fe104858e451910395d393f48a4f86ec46a7e885187fe53e9baea35ee13f3c",
           "initial_source_sha256": "5d5d1b0b6b158632cd9c6604aea81810e1855e7784bf90f5267f60514313f2db"
+        },
+        "caacbe42-16c4-4be0-a80b-8ecabcc91b2e": {
+          "number": 152,
+          "path": "chapitres/comedies/volume-152-epicharme-hebas-gamos-noces-hebe-heracles-banquet-poetique-nourriture-mousai.md",
+          "request_sha256": "6ee257dd319137d19a275caa555b3797dfb2e3c0f7970392efbeb3ceaff27bd6",
+          "initial_source_sha256": "f8ce8b616833242e9382fbbe464a87962d5872bf5853ff7212473ea9bf63dc1d"
+        },
+        "e3c792f5-631e-4d97-9a25-71d450e6c83b": {
+          "number": 153,
+          "path": "chapitres/comedies/volume-153-euboulos-ankylion-kottabos-charisios-dekate-prix-navets-fete.md",
+          "request_sha256": "c6ae5917933269e18ac0e6f37ba1d046cd99c11d34c3c91d1b155beb61cd1dc5",
+          "initial_source_sha256": "ecc700ce7b97a1f9bf1631ba07532a625d92891cf78f59f099f87d991a43e85b"
         }
       }
     },
@@ -3580,6 +3652,12 @@
           "path": "chapitres/tragedies/volume-ccxcviii-iophon-achille-achilleus-colere-patrocle-mort-gloire-souda-tragedie-perdue.md",
           "request_sha256": "90da2d4c3de059b3cae2d96f51614d22ae92a1b812ed0a16a682b97126884fa9",
           "initial_source_sha256": "8ca5cfacbd143e00f17e1f2e7465b04f20e5cef1774d90af56f776d8d075a3dd"
+        },
+        "c967e338-09a3-42c8-a88e-72d66b56b2c1": {
+          "number": 299,
+          "path": "chapitres/tragedies/volume-ccxcix-iophon-bakchai-bacchantes-penthee-stobee-fragment-2-connaissance-divin-tragedie-perdue.md",
+          "request_sha256": "c6ca2991ab88c0348f496a5bc9623455497565349d060034a1596867d9249aba",
+          "initial_source_sha256": "46f2f365ff4f69b268b299ca66bc8a6b123e0c6f494877c521c07d23827f4da9"
         }
       }
     },
@@ -4837,6 +4915,30 @@
           "path": "chapitres/comparatif/volume-cccl-grenouilles-melopoiia-parodies-musicales-monodie-glyke-405.md",
           "request_sha256": "093265f2806d88068e15938aad7bcc88151117872312e96d61ea1514bf251c47",
           "initial_source_sha256": "e8ec577beb80d5fad9cdd1c2076ae371a6e991d7b4fb471cea4bf7e6658688ef"
+        },
+        "6d7cb125-7e3f-43ae-96b1-202611071425": {
+          "number": 351,
+          "path": "chapitres/comparatif/volume-cccli-mc-125-gemmes-sacre-lapis-turquoise-jade-egypte-sumer-maya.md",
+          "request_sha256": "fc3a69007b564f6f6fdfcca8b4be192c2bac12e2e172b1cf59171e69c2e8dc08",
+          "initial_source_sha256": "125261e4f99f2b6d1fd3eddb9dc939a10ecd4457d0a6b3c8e5a2e39d79f4c123"
+        },
+        "c1248e5d-9f73-4b60-84fe-202611071350": {
+          "number": 352,
+          "path": "chapitres/comparatif/volume-ccclii-mc-124-cornes-du-sacre-mesopotamie-egypte-autels-shofar-delos-achelous.md",
+          "request_sha256": "14cd6a41d4e5485a9a3d13cb0bbaf5196504cae599d04db0881b0184a9eef727",
+          "initial_source_sha256": "52a925b2339f050c8da37c474e9088b9fc0bbcfdc3c973621944e6082ad89aa0"
+        },
+        "a8f1257b-1c6e-4c5b-b351-62ead8872f09": {
+          "number": 353,
+          "path": "chapitres/comparatif/volume-cccliii-mc-127-serpents-sacre-ningishzida-wadjet-illuyanka-asclepios-nehushtan-naga.md",
+          "request_sha256": "de4368c06b79260c7fdf1985a31fb7b9ec991b3fe7b755d0e57e8b69760766e7",
+          "initial_source_sha256": "ff1ce6e22bec76590855483fc93ae8e143a9827206a301789099b95a96e306f1"
+        },
+        "b126e014-81ba-4b3c-9ea5-202611071434": {
+          "number": 354,
+          "path": "chapitres/comparatif/volume-cccliv-mc-126-tirage-sort-oracles-goral-kin-kleroterion-fortuna-yijing.md",
+          "request_sha256": "ec4dcae456404344082a14eb316db20fc514339e999c5f83d83cf0d251ded10c",
+          "initial_source_sha256": "19648e9b49182f3cc7e8716939447af9da47373884c754c2c0cd13314beced4e"
         }
       }
     }
