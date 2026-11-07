@@ -1,0 +1,57 @@
+{
+  "id": "OIN-NEO-001",
+  "slug": "oiniades-neoria-cales-navires-vers-320-av-jc",
+  "title": "Oiniades (Acarnanie) — néoria et hangars navals creusés dans le roc, vers 320 av. J.-C.",
+  "period": "Fin du IVe siècle av. J.-C., évocation vers 320 av. J.-C. ; premières installations situées au début du IVe siècle, avec usage prolongé pendant l’époque hellénistique.",
+  "caption": "Reconstitution visuelle photoréaliste des néoria d’Oiniades : rampes à navires creusées dans la falaise et anciens bassins portuaires. Toitures, bateaux et rivage restent hypothétiques.",
+  "commentary": "Les néoria (νεώρια) d’Oiniades sont situés près du port septentrional de cette cité grecque d’Acarnanie, dans la basse vallée de l’Achéloos. Ce complexe de hangars à navires est creusé dans le calcaire : des rampes longues et inclinées permettaient de tirer des bâtiments de guerre hors de l’eau pour les abriter, les réparer et les entretenir. Le ministère grec de la Culture décrit six neosoikoi et des parois rocheuses d’une hauteur atteignant approximativement onze mètres. Il situe les premières constructions au début du IVe siècle av. J.-C. La littérature archéologique mentionne aussi cinq rampes regroupées dans une chambre ; ce comptage différent peut dépendre du sens donné à « hangar », « abri » ou « cale » et des états de construction. La photographie des ruines ne permet pas de trancher cette question sans étude des plans. Les recherches de J. M. Sears (1904) et de Lazaros Kolonas documentent les structures, tandis que l’étude de la céramique par Vasiliki Tsantila atteste une activité jusqu’à la fin du IIe ou au début du Ier siècle av. J.-C. L’année 320 av. J.-C. est donc une **date d’évocation** au sein d’une longue période d’usage : ce n’est pas une datation stratigraphique propre à chaque toiture. L’image représente un port encore navigable avec des rampes rocheuses, une superstructure de poteaux et de toitures en tuiles, des ouvriers tirant une embarcation à rames et des outils de manutention. Les couvertures réelles, leur nombre, leur géométrie, leurs matériaux et les engins de halage ne sont pas conservés ; ces parties sont librement interprétées. Le navire n’est pas une épave documentée à Oiniades ; sa longueur, son étrave, sa peinture et ses équipements sont artistiques. La paléogéographie demande une vigilance supplémentaire : l’ensablement, l’évolution des bras de l’Achéloos et les environnements lagunaires ont profondément modifié les bassins. L’image représente une eau bleue dégagée pour rendre le fonctionnement du port intelligible ; elle ne vaut pas restitution de la salinité, des niveaux d’eau ni du dessin exact du littoral au IVe siècle. Les costumes, végétaux, outils et personnages sont interprétatifs. Aucune des institutions citées n’a conçu ni approuvé cette image. Il ne s’agit ni d’un relevé géoréférencé, ni d’une photographie, ni d’un modèle 3D archéométrique.",
+  "certainty": "Élevé : implantation à Oiniades en Acarnanie, usage naval, rampes rocheuses, abris taillés dans le calcaire et utilisation à l’époque classique puis hellénistique. Moyen : comptage de six abris (source ministérielle), organisation des rampes, chronologie des premières phases et connexion avec le bassin portuaire du IVe siècle. Faible : silhouette et couverture des hangars, architecture des charpentes et piliers, disposition exacte des abris, bateaux, poulies et gestes de halage, littoral antique, couleurs, objets, costumes, végétation et lumière.",
+  "source_url": "https://allofgreeceone.culture.gov.gr/en/venues/ancient-oeniadae/",
+  "secondary_sources": [
+    "https://doi.org/10.2307/496963",
+    "https://www.grissh.gr/article/54ad043fd36a36c46c00049b",
+    "https://www.didaktorika.gr/eadd/handle/10442/26322?locale=en",
+    "https://journals.openedition.org/geomorphologie/645?lang=en",
+    "https://www.ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/Blackman1982-AncientHarbours.pdf"
+  ],
+  "src": "/assets/reconstitutions-3d/oiniades-neoria-cales-navires-vers-320-av-jc.webp",
+  "image": "/assets/reconstitutions-3d/oiniades-neoria-cales-navires-vers-320-av-jc.webp",
+  "width": 1672,
+  "height": 941,
+  "created_at": "2026-11-07",
+  "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, interprétative et non métrique",
+  "provenance": "Création originale assistée par génération d'image pour MYTHOS ; sans interface, logo, légende ni schéma 2,5D dans les pixels. Sources scientifiques non cautionnantes.",
+  "sha256": "935b322ce24f1fdcf7924246655d7e36a2a264db27b793638cb37b95b75f97b4",
+  "scientific_notice": "/assets/reconstitutions-3d/notices/oiniades-neoria-cales-navires-vers-320-av-jc.json",
+  "scientific_sources": [
+    {
+      "label": "Ministère grec de la Culture — Néoria d’Oiniades : six abris à navires, datation et conservation",
+      "url": "https://allofgreeceone.culture.gov.gr/en/venues/ancient-oeniadae/"
+    },
+    {
+      "label": "J. M. Sears, « Oeniadae: VI. The Ship-Sheds », American Journal of Archaeology 8 (1904), 227–237",
+      "url": "https://doi.org/10.2307/496963"
+    },
+    {
+      "label": "L. Kolonas, « Excavations at Oiniadai: the shipsheds », Archaiognosia 6 (1989), 153–159",
+      "url": "https://www.grissh.gr/article/54ad043fd36a36c46c00049b"
+    },
+    {
+      "label": "V. Tsantila, étude des céramiques hellénistiques des néoria (thèse, 2012)",
+      "url": "https://www.didaktorika.gr/eadd/handle/10442/26322?locale=en"
+    },
+    {
+      "label": "Étude géoarchéologique — « Silting up Oiniadai’s harbours »",
+      "url": "https://journals.openedition.org/geomorphologie/645?lang=en"
+    },
+    {
+      "label": "D. J. Blackman, « Ancient Harbours in the Mediterranean », 1982",
+      "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/Blackman1982-AncientHarbours.pdf"
+    }
+  ],
+  "primary_texts": [
+    "Le rendu repose sur les vestiges archéologiques et des études géomorphologiques, non sur une description antique de l’élévation précise des néoria."
+  ],
+  "methodology": "Visualisation interprétative de synthèse. Ne pas inférer de métriques architecturales ou de paléogéographie à partir des pixels.",
+  "publication_status": "fichier_prepare_non_publie_deploiement_https_a_verifier"
+}
