@@ -75,6 +75,74 @@ class GalleryTOCAnchorTests(unittest.TestCase):
         self.assertEqual(len(doc.select('details.mythos-gallery-toc')), 1)
         self.assertEqual(len(doc.select('details.mythos-gallery-toc ol > li')), len(source_sections))
 
+
+    def test_reciprocal_gallery_links_are_accessible_and_idempotent(self):
+        """Un retour au sommaire par notice sans modifier les sources."""
+        import sys
+        sys.path.insert(0, str(ROOT / 'scripts'))
+        from improve_reading import add_reading
+
+        doc = BeautifulSoup(GALLERY.read_text(encoding='utf-8'), 'html.parser')
+        paragraphs_before = [
+            p.get_text(' ', strip=True)
+            for p in doc.select('article.r3d-card .r3d-science p')
+        ]
+        images_before = [
+            (im.get('src'), im.get('alt'))
+            for im in doc.select('article.r3d-card img')
+        ]
+        entry = {'words': 10000, 'minutes': 150}
+        add_reading(doc, '/reconstitutions-photorealistes.html', entry)
+        toc = doc.select_one('details#sommaire-reconstitutions.mythos-gallery-toc')
+        self.assertIsNotNone(toc)
+        eligible = [
+            card for card in doc.select('article.r3d-card')
+            if card.select_one('.r3d-science h2') is not None
+        ]
+        self.assertGreaterEqual(len(eligible), 82)
+        for card in eligible:
+            with self.subTest(card=card.get('id')):
+                links = card.select(
+                    '.mythos-gallery-backtoc[data-reading-owned="true"]'
+                    ' a[href="#sommaire-reconstitutions"]')
+                self.assertEqual(len(links), 1)
+                self.assertIn('Revenir au sommaire', links[0].get_text())
+        self.assertEqual(len(doc.select('.mythos-gallery-backtoc')), len(eligible))
+        self.assertEqual(
+            paragraphs_before,
+            [p.get_text(' ', strip=True)
+             for p in doc.select('article.r3d-card .r3d-science p')])
+        self.assertEqual(
+            images_before,
+            [(im.get('src'), im.get('alt'))
+             for im in doc.select('article.r3d-card img')])
+
+        # Même résultat après une deuxième passe : ni section ni renvoi doublés.
+        add_reading(doc, '/reconstitutions-photorealistes.html', entry)
+        self.assertEqual(len(doc.select('details#sommaire-reconstitutions')), 1)
+        self.assertEqual(len(doc.select('.mythos-gallery-backtoc')), len(eligible))
+        self.assertEqual(
+            [p.get_text(' ', strip=True)
+             for p in doc.select('article.r3d-card .r3d-science p')],
+            paragraphs_before)
+
+    def test_non_gallery_reader_has_no_reconstruction_backlinks(self):
+        import sys
+        sys.path.insert(0, str(ROOT / 'scripts'))
+        from improve_reading import add_reading
+
+        doc = BeautifulSoup(
+            '<html><body><main><article class="content">'
+            '<h2>Section A</h2><p>Texte intégral.</p>'
+            '<h2>Section B</h2><p>Notes philologiques.</p>'
+            '<h2>Section C</h2><p>Bibliographie.</p>'
+            '</article></main></body></html>', 'html.parser')
+        add_reading(doc, '/philosophie/etude-test/',
+                    {'words': 10000, 'minutes': 150})
+        self.assertFalse(doc.select('.mythos-gallery-backtoc'))
+        self.assertFalse(doc.select('#sommaire-reconstitutions'))
+        self.assertEqual(len(doc.select('.mythos-reading-toc')), 1)
+
     def test_final_reader_refuses_duplicate_scientific_anchors(self):
         import sys
         sys.path.insert(0, str(ROOT / 'scripts'))
