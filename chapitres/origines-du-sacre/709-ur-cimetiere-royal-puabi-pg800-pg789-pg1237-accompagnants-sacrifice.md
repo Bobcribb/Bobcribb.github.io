@@ -282,3 +282,13 @@ L'historien doit faire deux gestes à la fois : reconnaître la réalité possib
 - **Tableau de comparaison des contextes** : diagramme original à produire d'après les listes de Woolley, les inventaires Penn et Pollock (2007), indiquant les effectifs comme données de fouille et les relations chronologiques comme hypothèses.
 
 Respecter toutes les licences des photographies et des publications. Distinguer matériel antique, reconstitution photographique moderne, schéma analytique et production assistée par IA. Ne jamais présenter un dessin généré comme une pièce archéologique retrouvée.
+
+---
+
+### Note éditoriale documentaire — Francis Joannès et les inventaires d'Ur (7 novembre 2026)
+
+**Référence scientifique française (ouvrage collectif).** Francis Joannès (dir.), avec l'assistance de Cécile Michel, *Dictionnaire de la civilisation mésopotamienne*, Paris, Robert Laffont, coll. « Bouquins », 2001 (notice du [laboratoire ArScAn, CNRS/Université Paris-Nanterre](https://arscan.parisnanterre.fr/dictionnaire-de-la-civilisation-mesopotamienne/) ; [catalogue de la BnF](https://catalogue.bnf.fr/ark:/12148/cb37657040b.public)). Ce dictionnaire offre un cadrage historico-archéologique. Il ne faut pas en attribuer indistinctement tous les articles au directeur de publication : chaque entrée devrait être citée avec son auteur propre après consultation.
+
+**Données muséales localisées.** Le catalogue de l'exposition *Treasures from the Royal Tombs of Ur* de la [Morgan Library & Museum](https://www.themorgan.org/exhibitions/treasures-from-the-royal-tombs-of-ur), fondé sur des objets du Penn Museum, identifie précisément : la grande lyre de **PG 789**, inventaire **B17694 (U.10556)** ; une boîte à cosmétiques de **PG 800**, inventaire **B16744a,b (U.10436)** ; un objet dit *Ram Caught in a Thicket* de **PG 1237**, inventaire **30-12-702 (U.12357)**. Ces identifiants se rapportent à des objets distincts ; ils ne sont pas interchangeables avec les numéros de sépulture.
+
+**Portée critique.** Les inventaires confirment l'attribution de certains objets à des contextes de fouille, non les croyances personnelles des personnes inhumées, le caractère volontaire de leur mort ou le déroulement exact des gestes funéraires. Les études ostéologiques et les relevés anciens doivent être contrôlés séparément. Aucune caution de Joannès, du musée ou de ses conservateurs à MYTHOS n'est revendiquée.
