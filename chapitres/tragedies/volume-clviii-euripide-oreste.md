@@ -265,3 +265,10 @@ Des comparaisons avec des rites de purification d'autres civilisations doivent c
 L'œuvre ne condamne pas simplement la démocratie, la famille ou la religion. Elle interroge la fragilité de toutes les formes de légitimité lorsqu'elles prétendent transformer la souffrance en droit de nuire. L'écart entre commandement divin, jugement public et responsabilité humaine constitue son noyau tragique.
 
 **Protection éditoriale :** nouveau fichier autonome CLVIII, après CLVII ; aucun fichier existant modifié ; aucune intervention WordPress ; aucun document privé publié.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Source primaire :** Euripide, *Oreste*, v. **866–956**, récit du messager sur le débat de l'assemblée argienne après le matricide (texte et traduction : https://adfonteslibrary.org/work-euripides-orestes). Tragédie représentée en **408 av. J.-C.** L'assemblée fictive n'est pas un compte rendu historique d'une procédure argienne. **Édition scientifique :** James Diggle, *The Textual Tradition of Euripides’ Orestes*, Oxford University Press, **1990**, DOI **10.1093/oso/9780198147664.001.0001** (https://academic.oup.com/book/47265), métadonnées contrôlées, **texte intégral non collationné** : aucune variante de vers précis ne lui est attribuée. **Chercheuse française :** Nicole Loraux, *La Voix endeuillée. Essai sur la tragédie grecque*, Gallimard, **1999** ; bibliographie de cadrage sur le deuil dramatique, sans présumer un commentaire spécifique de ces vers. **Statut :** témoignage dramatique attesté, lecture politique interprétative, correspondance institutionnelle historique non démontrée.

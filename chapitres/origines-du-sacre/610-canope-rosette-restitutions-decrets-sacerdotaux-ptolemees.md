@@ -166,3 +166,10 @@ Nous ne devons conclure ni que toute concession est propagande vide ni que toute
 12. **Durkheim, Émile** (1912), *Les Formes élémentaires de la vie religieuse* ; **Hegel, G. W. F.** (1821), *Grundlinien der Philosophie des Rechts* ; **Nietzsche, Friedrich** (1887), *Zur Genealogie der Moral* ; **Girard, René** (1972), *La Violence et le Sacré* ; **Eliade, Mircea** (1957), *Le Sacré et le Profane* ; **Dumézil, Georges** (1958), *L’Idéologie tripartie des Indo-Européens*.
 
 *Iconographie institutionnelle pertinente : stèle du décret de Canope, musée égyptien du Caire ; pierre de Rosette, British Museum, EA 24. Légendes requises : date du décret, support, écriture et provenance ; ne pas identifier comme « statue rendue par Ptolémée III » une image sans chaîne de provenance documentée.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Objets distincts :** décret de **Canope, 238 av. J.-C.**, sous **Ptolémée III**, et décret de **Memphis, 196 av. J.-C.**, sous **Ptolémée V**. Le Musée égyptien du Caire décrit une stèle de Canope trilingue issue de **Kom el-Hisn**, exposée en **salle 49**, https://egyptianmuseumcairo.eg/artefacts/stela-with-canope-decree/ ; **49 est la salle, pas un inventaire d'objet** : l'inventaire n'a pas été vérifié. La pierre de Rosette, témoin du décret de Memphis, est **British Museum BM EA 24** ; Foy Scalf (Oriental Institute, University of Chicago), « The Rosetta Stone: Unlocking the Ancient Egyptian Language », https://arce.org/resource/rosetta-stone-unlocking-ancient-egyptian-language/, documente les trois écritures et sa découverte en **1799**. **Bibliographie française :** Nicolas Grimal, *Histoire de l'Égypte ancienne* (**1991**) ; Françoise Dunand et Christiane Zivie-Coche, *Hommes et dieux en Égypte* (édition **2006**) : références de contexte, **passages non collationnés**. Ne pas assimiler ces décrets ni inférer une restitution religieuse précise sans collation des clauses grecques et égyptiennes.

@@ -210,3 +210,10 @@ Le passage de Benjamin à Arendt déplace la question de la dette envers les vai
 
 ## Continuité éditoriale
 Volume XC : Paul Celan, poésie et témoignage. Volume XCI : Walter Benjamin, traduction et mémoire historique. **Volume CXXXIX : Hannah Arendt, totalitarisme et reconstruction de l'espace public.** Prochain volume proposé : CXL, Cornelius Castoriadis, imaginaire social, démocratie et autonomie. La succession n'implique pas une filiation doctrinale directe.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Œuvre de référence :** Hannah Arendt, *The Human Condition*, Chicago, University of Chicago Press, **1958**, BnF **cb348113415** (https://catalogue.bnf.fr/ark:/12148/cb348113415). Distinction du **travail**, de l'**œuvre** et de l'**action** ; **édition intégrale non collationnée**, donc aucune pagination de passage particulier n'est affirmée. **Chercheur français :** Étienne Tassin, *Le Trésor perdu. Hannah Arendt et l'intelligence de l'action politique*, Payot & Rivages, **1999**, ISBN **9782228892582** (https://www.mollat.com/livres/609202/etienne-tassin-le-tresor-perdu-hannah-arendt-et-l-intelligence-de-l-action-politique) ; notice et résumé vérifiés, **pas de lecture intégrale**. Nicole Loraux, *Les Enfants d'Athéna* (**1981**), peut aider à contextualiser historiquement les exclusions civiques athéniennes : **aucun passage spécifique collationné** ; ne pas lui attribuer une critique personnelle d'Arendt. La référence philosophique à la *polis* n'est pas une description complète des institutions athéniennes.

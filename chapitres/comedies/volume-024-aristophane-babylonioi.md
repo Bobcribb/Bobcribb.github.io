@@ -156,3 +156,10 @@ La méthode impose donc trois archives séparées : sources grecques sur la piè
 **Navigation :** [← Volume XXIII — *Anagyros*](volume-023-aristophane-anagyros.md) · [Volume XXV — *Polyidos* →](volume-025-aristophane-polyidos.md) · [Théâtre grec](/theatre/) · [Recherche](/recherche/).
 
 *MYTHOS — étude publique ; les lacunes documentaires demeurent explicites.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Témoignages :** Aristophane, *Acharniens*, v. **377–382** et **628–658**, références rétrospectives à une comédie perdue, *Babylōnioi*, représentée en **426 av. J.-C.** Elles ne restituent ni les dialogues ni le procès détaillé de Cléon ; la scène supposée des alliés assimilés à des esclaves demeure une **hypothèse**. **Étude :** J. E. Atkinson, « Curbing the Comedians: Cleon Versus Aristophanes and Syracosius' Decree », *Classical Quarterly* **42 (1992)**, p. **56–64**, DOI **10.1017/S0009838800042580** (https://doi.org/10.1017/S0009838800042580). Métadonnées et problématique identifiées ; article entier et fragments de Kassel–Austin, *Poetae Comici Graeci*, **non collationnés**. **Recherche française :** Pierre Vidal-Naquet, *Le Chasseur noir*, Maspero, **1981** (réédition 2005), cadre sociohistorique général, non une attestation du scénario perdu. Ne pas attribuer à Aristophane une reconstruction moderne.

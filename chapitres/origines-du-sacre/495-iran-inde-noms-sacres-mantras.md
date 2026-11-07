@@ -39,3 +39,10 @@ Le *Yašt* 1 et le *Viṣṇusahasranāma* mettent en scène des listes de noms 
 - https://www.iranicaonline.org/articles/ahura-mazda/
 
 **Transition :** la Chine permet de déplacer l'enquête vers les noms rituels, les titres célestes et les tabous politiques de dénomination.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Témoin primaire :** *Yasna* **27.13**, formule **Ahuna Vairya / Ahunwar** ; exégèse dans *Yasna* **19**. Christopher J. Brunner, « Ahunwar », *Encyclopaedia Iranica*, texte publié en **1984**, mis à jour en **2018** (https://www.iranicaonline.org/articles/ahunwar-middle-persian-form-of-avestan-ahuna-vairya-name-of-the-most-sacred-of-the-gathic-prayers-y/) : article consulté, sens global de la formule **débattu**. **Chercheur français :** Jean Kellens, cours du Collège de France sur les études avestiques et mazdéennes, https://www.college-de-france.fr/fr/agenda/cours/vingt-ans-etudes-avestiques-et-mazdeennes/consequences-de-la-nouvelle-representation-ii ; référence spécialisée de contexte rituel, **sans citation d'un passage non collationné**. Pierre Briant, *Histoire de l'Empire perse* (**1996**) est une référence historique, non une édition du *Yasna*. **Limite :** parenté de langues indo-iraniennes ≠ identité de fonction entre formule avestique et mantras védiques ou puraniques ; datations et traditions de récitation distinctes.
