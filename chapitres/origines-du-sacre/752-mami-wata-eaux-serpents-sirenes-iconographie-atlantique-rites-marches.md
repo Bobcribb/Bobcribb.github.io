@@ -1,0 +1,296 @@
+# MYTHOS — Les Origines du sacré — Chapitre 752 (volume DCCLII)
+
+## Mami Wata : eaux, serpents, sirènes, marchandises et passages atlantiques — fabrique historique d'une puissance religieuse plurielle
+
+*Monographie universitaire originale, 6 novembre 2026. Histoire matérielle des religions, anthropologie de l'Afrique et des diasporas, histoire des images imprimées, philologie des pidgins, muséologie, histoire économique, philosophie du comparatisme. Texte public approuvé pour la file de publication MYTHOS ; aucune attribution numérique anticipée.*
+
+### Résumé
+
+Sous les graphies **Mami Wata**, **Mami Water**, **Mammy Water**, **Mame Water** et d'autres formes locales, une pluralité de puissances associées à l'eau, aux serpents, à la beauté, au danger, aux échanges et à la prospérité apparaît dans des traditions religieuses d'Afrique occidentale et centrale et de l'Atlantique africain. La figure est fréquemment féminine, mais elle ne l'est ni partout ni toujours ; elle peut être rapprochée de sirènes et de charmeuses de serpents, sans se réduire à un type iconographique unique. Des objets d'autel, des coiffes de mascarade, des peintures, des imprimés, des récits oraux et des performances attestent des modalités d'existence différentes.
+
+**Problème historiographique.** Une figure religieuse peut-elle avoir une histoire ancienne de puissances aquatiques locales et, simultanément, un répertoire d'images profondément remodelé par des marchandises et des reproductions européennes des XIXe et XXe siècles ? Ce problème n'appelle ni une théorie de l'origine entièrement « étrangère » ni l'affirmation qu'une déesse uniforme aurait toujours été vénérée de la même façon de la Sierra Leone au Congo. La démonstration doit suivre les objets, leur date, les réseaux de circulation et les spécialistes rituels situés.
+
+**Thèse provisoire.** Mami Wata est mieux étudiée comme un **champ de relations religieuses mobiles** que comme une essence théologique stable. Ses images participent à l'élaboration de réponses au commerce, à l'inégalité, à la violence, à la sexualité, à la richesse incertaine et à l'expérience des eaux. Cette proposition est analytique ; elle n'est pas une croyance attribuée à tous les fidèles. Le dossier approfondit spécifiquement la documentation moderne que l'étude générale MYTHOS sur les mers et océans sacrés ne faisait qu'évoquer.
+
+### I. L'objet de recherche : le nom, les sociétés, les sources
+
+La désignation « Mami Wata » recouvre un ensemble de formes religieuses et artistiques plutôt qu'un panthéon unique et codifié. Dans certains lieux, elle nomme une puissance particulière ; ailleurs, elle peut fonctionner comme une catégorie englobant plusieurs êtres aquatiques. Elle apparaît dans des pratiques liées au Niger et à son delta, aux côtes de l'Afrique de l'Ouest, à des villes du Golfe de Guinée, à des espaces d'Afrique centrale et à des diasporas atlantiques, mais les généalogies locales doivent être étudiées séparément.
+
+Le **Fowler Museum** de l'Université de Californie à Los Angeles et le **National Museum of African Art** du Smithsonian ont présenté, à partir de 2008-2009, une importante exposition scientifique conçue autour de ce problème. L'exposition et ses catalogues rassemblent objets, images, performances, photographies et analyses de communautés distinctes. Leur existence atteste une riche documentation moderne ; elle ne constitue pas une preuve qu'un culte uniforme aurait existé dans l'ensemble de l'Afrique précoloniale.
+
+Le point de départ méthodologique est un protocole de tri documentaire : **[A] objets datés ou inventoriés**, **[B] descriptions de pratiques enregistrées avec leurs auteurs et dates**, **[C] récits transmis et contextualisés**, **[D] hypothèses d'origine ou de signification**. Les catégories ne sont pas interchangeables. Une affiche de 1887 permet de dater une image imprimée ; elle ne date pas un rite de fondation dont les pratiquants parlent au XXIe siècle.
+
+### II. Philologie : *Mami*, *Wata* et le risque des fausses étymologies
+
+Les orthographes transcrivent en particulier des usages de **pidgins anglophones** et de variétés linguistiques régionales. Dans un contexte anglophone, *water* renvoie à l'eau et *mami* évoque une appellation maternelle ou féminine. Le Fowler Museum présente le nom comme correspondant à « Mother Water » ou « Mistress Water » selon les usages. La traduction française « Mère Eau » est donc une **glose approximative**, non une traduction d'un texte sacré unifié.
+
+Le terme a circulé dans des milieux multilingues : échanges maritimes, villes, ports, missions, réseaux commerciaux, mobilités forcées et volontaires. Il serait incorrect d'en déduire une étymologie unique attestée dans toutes les langues africaines. **Mami Wata** ne se confond pas automatiquement avec des noms locaux d'esprits des rivières, et les formes **La Sirène**, **Lasirèn** ou **Yemanjá** ne sont pas de simples traductions transparentes.
+
+La philologie doit indiquer pour chaque cas la langue de l'enquête, la transcription retenue, l'identité ou la position du traducteur, le genre de discours (récit, prière, proverbe, confession, image d'atelier) et le moment de l'observation. Écrire « les Africains croient que Mami Wata... » gomme la diversité du matériau au moment même où l'on prétend le décrire.
+
+### III. Les archives primaires : objets, imprimés et performances
+
+Le corpus primaire est largement **matériel et documentaire**, non constitué d'inscriptions de temples anciens. Il comprend des figures sculptées, coiffes, assemblages d'autel, photographies de sanctuaires, peintures sur verre, publications religieuses, affiches commerciales, images populaires, textiles, archives de spectacles et descriptions de cérémonies. Chaque élément possède une provenance et une temporalité propres.
+
+La notice de l'exposition du **Fowler Museum** signale, entre autres, des figures de sirènes sculptées à partir d'images européennes et des œuvres dont la forme s'est transformée dans les ateliers africains. Ce type de preuve permet d'étudier une **circulation de modèle plastique** : il ne dit pas qu'un artisan aurait importé intégralement la religion de son commanditaire.
+
+Les fonds de photographies de **Henry John Drewal** et **Margaret Thompson Drewal** conservés par le Smithsonian, comprenant des images prises au Nigeria à la fin des années 1970, offrent une autre échelle : ce sont des documents primaires pour les objets, performances et situations effectivement photographiés à cette période. Ils ne fournissent pas, sans autre preuve, un témoignage visuel du XVIIIe siècle.
+
+Dans l'histoire des religions, une photo d'autel sans légende précise ne suffit pas pour identifier chaque substance comme offrande. L'inventaire scientifique doit préserver le nom du photographe, la date, le lieu, l'attribution donnée par les pratiquants, les conditions d'autorisation de la prise de vue et les déplacements ultérieurs des objets.
+
+### IV. L'image de la sirène : mer, commerce et traduction matérielle
+
+La sirène, souvent figurée avec queue de poisson, est l'un des motifs les plus visibles de l'iconographie de Mami Wata. Son succès s'inscrit dans une histoire plus vaste d'images maritimes traversant les frontières, notamment par la sculpture navale, la gravure et des marchandises. Le Fowler Museum rapporte ainsi des objets réalisés par des artisans africains à partir de modèles européens, sans effacer leur réinterprétation locale.
+
+Deux erreurs sont à éviter. La première serait d'expliquer toute figure de sirène africaine par une copie passive de l'Europe ; l'artisan choisit, transforme, combine et donne à l'image une efficacité sociale nouvelle. La seconde serait de considérer toute sirène européenne introduite en Afrique comme l'image originelle d'un dieu ancien précisément identifiable. **L'image a une biographie**, qui n'est pas celle de toute la religion.
+
+La queue de poisson permet une lecture de la puissance amphibie, entre plusieurs milieux, mais elle ne constitue pas partout un énoncé doctrinal. Un objet peut fonctionner comme enseigne, image dévotionnelle, décor d'une cérémonie, représentation de puissance, marchandise ou combinaison de ces usages. Le statut se vérifie par les lieux et les actes, non par le seul motif.
+
+### V. Maladamatjaute, vers 1887 : l'affiche qui voyage
+
+L'un des dossiers les mieux documentés concerne une **chromolithographie de charmeuse de serpents** publiée à Hambourg vers **1887**, représentant une artiste désignée dans les sources muséales comme **Maladamatjaute**, associée dans la notice du Fowler Museum au monde samoan. L'image circule ensuite en Afrique de l'Ouest par des voies difficiles à reconstituer de manière univoque. La notice muséale propose notamment les réseaux de marins et de marchands.
+
+Le Fowler Museum précise qu'en **1901**, ce modèle iconographique avait déjà été rapproché d'une puissance aquatique africaine et transposé dans un **élément sculpté de coiffure cérémonielle** provenant de la région du delta du Niger. Il s'agit d'une attestation décisive pour la réception rapide d'un imprimé ; elle ne prouve ni que l'imprimé fut la première source de toute iconographie ophidienne, ni que Mami Wata serait née en Allemagne en 1887.
+
+Le travail de l'historien consiste à relier trois objets différents : **l'affiche publiée**, **les reproductions réellement diffusées** et **les formes africaines qui l'interprètent**. Les différences de langue, de facture, d'attribution et d'usage entre eux sont une part du résultat. Une généalogie d'image est plus précise qu'une légende d'origine totale.
+
+### VI. Serpent, beauté et danger : limites de l'interprétation
+
+Le serpent accompagne fréquemment Mami Wata dans les images de charmeuses et dans certaines manifestations rituelles. L'association peut être comprise localement comme un signe de pouvoir, de maîtrise, de relation à l'eau ou de présence d'entités non humaines. Mais les sens ne peuvent être attribués en bloc à chaque territoire.
+
+L'iconographie muséale de la charmeuse et la présence de serpents dans des cultes africains sont des domaines de preuve distincts. Le fait qu'une image imprimée soit arrivée par les réseaux commerciaux n'implique pas que les traditions antérieures n'aient jamais associé eaux et serpents. Inversement, les récits de serpents ne suffisent pas à démontrer une généalogie ininterrompue remontant à une divinité égyptienne ou indienne.
+
+La dualité **séduction/danger**, souvent mentionnée dans les catalogues, doit être pensée comme une **grammaire de récits particuliers** et non comme une essence féminine. Les interprétations de la beauté, du risque, du commerce et de la sexualité sont historiquement construites ; elles ne peuvent être ramenées à un universel de « l'éternel féminin ».
+
+### VII. Sources sur le delta du Niger : eau, mobilité et savoirs locaux
+
+Le delta du Niger combine fleuves, bras d'eau, mangroves, navigations et réseaux d'échange. La vie des eaux y conditionne des circulations économiques, des droits territoriaux et des pratiques rituelles. Dans l'ouvrage collectif **Sacred Waters** (2008), **Martha G. Anderson** étudie des récits sur les esprits aquatiques du delta. L'existence d'un ensemble de témoignages contextualisés permet d'éviter de présenter la région comme simple lieu de réception d'une image de sirène.
+
+L'historien doit distinguer les modalités du transport d'une image, du déplacement de personnes et du passage d'une pratique. Des réseaux de commerce peuvent favoriser des contacts sans rendre chaque emprunt nécessaire. Deux villages proches peuvent entretenir des systèmes d'interdits et des formes de médiation très différents.
+
+La catégorie de « rivière dangereuse » ne désigne pas nécessairement un esprit malveillant. Elle peut renvoyer à des phénomènes hydrologiques, à des règles de navigation, à des lieux de mémoire, à la vulnérabilité économique et à l'interprétation de certains accidents. Toute explication d'un événement par une puissance aquatique doit être attribuée à la source qui la rapporte.
+
+### VIII. Sierra Leone : richesse minière et récit du pacte
+
+**Rosalind Shaw**, dans un chapitre de **Sacred Waters** consacré à Mami Wata et aux diamants de Sierra Leone, étudie des rêves, récits et rapports complexes entre promesse de richesse et dépendance économique. La montée et la chute des fortunes minières ne sont pas une simple illustration folklorique ; elles forment une expérience historique dans laquelle l'argent paraît parfois surgir soudainement et se retirer sans garantie.
+
+Un récit de pacte entre une personne et un esprit peut exprimer le désir d'une prospérité rapide et le prix social de son acquisition. Il ne faut pas traiter chaque rêve rapporté comme l'aveu d'une pratique religieuse universelle, ni confondre critique de l'économie du diamant avec explication surnaturelle des prix ou des guerres.
+
+Le sens social de ces récits varie avec le genre, le statut et l'âge des narrateurs. Le chercheur doit enregistrer si l'histoire est donnée comme expérience vécue, rumeur, avertissement, imagination morale ou performance. Le témoignage est une source primaire **sur l'usage du récit** et sur l'évaluation des risques ; il n'est pas une preuve empirique de l'existence d'un contrat invisible.
+
+### IX. Commerce, objets brillants et régimes de valeur
+
+Des représentations de Mami Wata associent parfois parures, miroirs, bijoux, étoffes, parfums ou biens de luxe. Ces éléments renvoient à des esthétiques locales de la présence et à des circulations marchandes internationales. Les musées décrivent des autels dont les objets témoignent de l'importance du visible, de la réflexion, de la nouveauté et de la richesse.
+
+Il serait historiquement naïf de conclure que « la religion africaine adore l'argent ». Les objets précieux peuvent manifester le respect, la gratitude, l'espoir, la distinction, la beauté ou le pouvoir d'un interlocuteur rituel. Les relations entre richesse et inquiétude sont parfois ambivalentes : un gain exceptionnel peut susciter des obligations redoutées.
+
+Le même miroir peut être vendu dans un marché, conservé dans une chambre, offert à un sanctuaire, porté lors d'une cérémonie et reproduit dans une affiche. L'objet ne possède donc pas une seule identité cultuelle. Sa **biographie sociale** constitue un moyen de construire un dossier scientifique falsifiable par les archives de provenance.
+
+### X. Les autels et les spécialistes rituels : enquête, non liturgie imaginaire
+
+Des photographies, entretiens et descriptions de sanctuaires associés à Mami Wata montrent des acteurs spécialisés qui organisent des consultations, des demandes, des offrandes ou des cérémonies, selon les contextes. Le volume **Sacred Waters** contient notamment des études de **Kofi Asare Opoku** et **Kathleen O'Brien Wicker** sur deux figures de prêtrises de l'eau en Côte d'Ivoire et au Ghana.
+
+Leurs dossiers ne doivent pas être uniformisés sous une liste de gestes obligatoires. Les tissus, récipients, parfums, images et instruments rencontrés dans un sanctuaire peuvent différer de ceux d'un autre. Certains usages sont liés à des maisons particulières, à des lignages, à des transformations contemporaines ou à des innovations matérielles.
+
+Une monographie universitaire ne peut publier une « procédure générale pour invoquer Mami Wata » sous couvert d'histoire. Elle doit décrire les sources, la place des spécialistes, les modalités d'autorisation et les interprétations des participants, sans inventer ni reproduire des éléments dont la diffusion serait interdite par les communautés.
+
+### XI. Genre, corps et relations de puissance
+
+Les images de femmes séduisantes ont attiré l'attention des musées et des chercheurs, mais elles ne suffisent pas à décrire les rôles de femmes et d'hommes dans les pratiques. Certaines traditions représentent Mami Wata avec des caractères masculins ou des identités multiples. D'autres mettent l'accent sur les spécialistes féminins, les soins, le commerce ou les rapports entre partenaires.
+
+Il est nécessaire de séparer **l'image d'une puissance féminine** de **la position sociale réelle des femmes** dans les communautés concernées. Une iconographie de beauté n'est pas une théorie de l'émancipation ; elle n'est pas non plus une preuve de soumission. Les actions, les droits, les savoirs rituels et les stratégies de reconnaissance doivent être étudiés dans chaque milieu.
+
+La recherche peut interroger la façon dont une puissance de l'eau autorise à penser les rapports entre désir et autonomie, prospérité et responsabilité, promesse et incertitude. Ces concepts, empruntés à l'analyse sociale, doivent être mis en rapport avec les catégories des participants.
+
+### XII. Peinture sur verre, photographie et reproductibilité
+
+La diffusion de reproductions a profondément modifié les conditions de la représentation religieuse. Une image imprimée peut être copiée, colorée, adaptée à une technique locale, agrandie ou incorporée à une coiffure. L'existence de versions multiples rend insuffisante la recherche d'un « original » théologique unique.
+
+Les peintures sur verre liées aux puissances aquatiques et les supports imprimés sont des objets historiquement datables par leurs techniques, ateliers, compositions et circuits de vente. L'iconographie peut conserver des traits empruntés à un support ancien tout en répondant à des besoins sociaux nouveaux.
+
+Le dossier de Maladamatjaute montre précisément qu'une image profane aux yeux de ses producteurs peut être interprétée religieusement dans un autre contexte. L'historien de l'art doit distinguer **intention de création**, **réception**, **réappropriation** et **usage cultuel**, sans hiérarchie automatique entre des sens « authentiques » et « secondaires ».
+
+### XIII. Les puissances aquatiques ne forment pas une seule famille de dieux
+
+Les publications regroupées autour de Mami Wata décrivent aussi des puissances de l'eau différentes, parfois intégrées à des systèmes locaux dans lesquels leur nom, leur rang et leurs interactions sont déterminés par d'autres histoires. Le titre du grand ouvrage collectif **Sacred Waters: Arts for Mami Wata and Other Divinities in Africa and the Diaspora** précise cette distinction en parlant de Mami Wata **et d'autres divinités**.
+
+Une iconographie ressemblante n'autorise pas à assimiler les puissances aquatiques yorùbá, les cultes vodun, les esprits du delta du Niger, les sirènes des Caraïbes et des images congolaises en une seule entité. La comparaison doit d'abord chercher les mots, les pratiques et les routes de transmission.
+
+Le site de **Ọ̀ṣun-Òṣogbo**, traité dans un autre manuscrit de MYTHOS, documente une tradition spécifique autour d'Ọ̀ṣun et d'un lieu déterminé. Mami Wata n'est pas une « nouvelle étiquette » d'Ọ̀ṣun. L'histoire des phénomènes religieux doit ménager la possibilité de rencontres, de dialogues et de rapprochements sans présumer une fusion automatique.
+
+### XIV. Afrique centrale : images de modernité et registres religieux
+
+Dans l'ouvrage collectif de Drewal, **Bogumil Jewsiewicki** étudie les appropriations congolaises de Mami Wata et leurs rapports à la modernité. Dans ces contextes, les images aquatiques peuvent susciter des réflexions sur l'argent, la consommation, les rapports de domination et la relation aux biens étrangers.
+
+Ces transformations historiques ne se réduisent pas à un « syncrétisme » vague. Chaque association doit être documentée par une image, un récit ou une pratique. La proximité graphique entre sirènes congolaises et figures de Mami Wata de l'Afrique de l'Ouest ne démontre pas que les acteurs leur attribuent les mêmes pouvoirs.
+
+L'existence de récits urbains et d'images commerciales impose de penser l'**innovation religieuse** comme un processus historique normal. Une puissance ne perd pas automatiquement sa valeur pour les fidèles parce que son iconographie utilise des matériaux modernes.
+
+### XV. Diasporas : traversées atlantiques et reconstructions
+
+La diffusion des traditions africaines dans les Amériques est liée à l'histoire de la traite esclavagiste, des migrations et des recompositions culturelles. Des répertoires visuels et rituels de l'eau peuvent circuler dans l'Atlantique africain, mais ils n'ont pas nécessairement suivi un trajet unique de l'Afrique vers l'Amérique à une date identifiable.
+
+Le catalogue **Mami Wata: Arts for Water Spirits in Africa and Its Diasporas** documente des manifestations au **Brésil**, dans les **Caraïbes** et aux **États-Unis** à côté d'œuvres africaines. Cela prouve la richesse des rapprochements analysés par l'exposition, non que chaque manifestation soit une forme inchangée de la même religion.
+
+Les traditions de **Lasirèn** en Haïti ou de **Yemanjá** au Brésil demandent des enquêtes autonomes sur leurs langues, rapports aux eaux, rites et histoires coloniales. Les parentés ou échanges doivent être démontrés par témoignages, objets, réseaux et chronologie. Le mot général de « diaspora » n'est pas une preuve suffisante de filiation cultuelle directe.
+
+### XVI. Sources et usages de l'archive coloniale
+
+Les documents produits pendant la domination coloniale ont souvent qualifié de « superstition », de « fétiche » ou de « paganisme » des pratiques qu'ils ne cherchaient pas à comprendre. Il faut les lire comme des sources sur des rapports de force et sur une perception particulière, et non comme des transcriptions transparentes de ce que les spécialistes rituels pensaient.
+
+La circulations des imprimés européens, les archives de compagnies commerciales et les photographies de voyageurs sont des matériaux historiques précieux à condition que leurs contextes soient contrôlés. Une affiche ne permet pas d'inférer sa réception dans chaque port ; un texte missionnaire peut décrire des rites en les interprétant selon ses propres objectifs.
+
+Le musée doit également préciser les conditions d'acquisition des figures, masques ou éléments de sanctuaire exposés : collecte sur le marché, échange consenti, achat, retrait dans un contexte colonial ou absence de documentation. Les objets dont la provenance est lacunaire ne doivent pas produire des certitudes supplémentaires par le seul prestige de leur vitrine.
+
+### XVII. Eau, richesse et danger : interprétation économique située
+
+Les récits de richesse aquatique peuvent être analysés comme des réponses aux risques d'une économie marquée par la mobilité et l'inégalité : navigations périlleuses, commerces fluctuants, fortunes minières, marchés urbains et dépendances politiques. Cette hypothèse n'affirme pas que les esprits seraient « causés » exclusivement par le capitalisme ou le commerce.
+
+L'exemple de Sierra Leone rappelle que les rêves et rumeurs constituent un **langage moral** permettant de réfléchir à la chance, à la dette et à l'enrichissement. Ils peuvent manifester des inquiétudes dont les chercheurs reconnaissent le contexte économique ; les participants peuvent leur attribuer des significations religieuses irréductibles à cette lecture.
+
+Les relations à Mami Wata se situent donc à l'intersection du désir et de l'obligation. L'étude doit tenir ensemble les deux perspectives, plutôt que décider à l'avance qu'il s'agit d'un esprit bon, mauvais ou exclusivement matérialiste.
+
+### XVIII. Comparaison grecque : Néréides, sirènes et limites des mots
+
+La Grèce antique offre des figures divines des eaux, notamment les **Néréides**, nommées par **Hésiode, Théogonie, vers 240-264**, et des **Sirènes** de l'**Odyssée XII**. Mais la Sirène homérique n'est pas initialement la figure à queue de poisson devenue dominante dans la réception moderne ; l'iconographie ancienne montre notamment des êtres mêlant corps féminin et oiseau.
+
+Assimiler Mami Wata à une « Sirène grecque » serait donc doublement imprécis : le modèle iconographique européen lui-même a changé, et les pratiques africaines ne s'expliquent pas par le seul imaginaire de la Méditerranée. Il est utile de comparer les transformations du rapport entre voix, désir et danger, non de confondre des généalogies textuelles distinctes.
+
+Le vocabulaire grec de **πότνια** (*pótnia*, maîtresse ou souveraine dans certains contextes) et des puissances aquatiques peut aider à discuter des traductions « mistress of water », mais il n'offre aucune étymologie du nom Mami Wata. Le mot grec ne fournit pas une preuve de migration religieuse.
+
+### XIX. Égypte et Mésopotamie : eaux originelles et eaux vécues
+
+Dans les cosmologies égyptiennes, **Noun** se rapporte aux eaux primordiales et **Hâpy** à la crue nourricière du Nil. Les sources textuelles et iconographiques permettent d'étudier des conceptualisations anciennes de l'eau. Ces figures ne doivent pas être présentées comme les ancêtres démontrés de Mami Wata : les distances chronologiques et les différences de systèmes religieux sont considérables.
+
+En Mésopotamie, les figures d'**Apsû**, de **Tiamat** et d'**Enki/Ea** apparaissent dans des corpus qui associent eau, création, savoir et pouvoir. L'**Enūma eliš**, dont les tablettes doivent être consultées en édition critique pour toute citation, est un récit de conflit et de formation du cosmos ; ce n'est pas une description de sanctuaire côtier ou de commerce atlantique.
+
+La comparaison fait apparaître plusieurs **régimes de présence aquatique** : le milieu originel, la rivière nourricière, la mer menaçante, le lieu de consultation et la puissance qui peut accorder prospérité. Ces régimes ne s'ordonnent pas en une évolution universelle des religions.
+
+### XX. Iran, Inde et Chine : femmes aquatiques, serpents et fausses généalogies
+
+Dans les textes avestiques, **Arədvī Sūrā Anāhitā** est célébrée notamment dans le **Yašt 5**. Le rapprochement entre puissance féminine et eaux est manifeste, mais ne permet aucune filiation iranienne avec les images africaines. Les textes et leur transmission ont une histoire à établir indépendamment.
+
+Les traditions de **Gaṅgā** et des **nāga** dans l'Inde hindoue et bouddhique connaissent des figures fluviales ou ophidiennes très diverses. Une affiche de charmeuse de serpents d'époque moderne peut évoquer aux spectateurs européens un répertoire « oriental », mais cette construction iconographique n'établit pas une importation de la doctrine indienne des nāga dans les pratiques de Mami Wata.
+
+En Chine, les récits et cultes de **dragons des eaux** et des puissances fluviales varient selon les époques et régions. Là encore, serpents, eaux et prospérité sont des **traits comparables**, non la preuve d'une religion mondiale unique. La distinction entre circulation d'objet et circulation de doctrine constitue le résultat central du dossier.
+
+### XXI. Afrique et Amériques : comparer des opérations et non des essences
+
+Une comparaison entre Mami Wata, Ọ̀ṣun, les esprits des cours d'eau du Niger et des traditions américaines peut se fonder sur des opérations : **faire une offrande**, **consulter un spécialiste**, **porter une image**, **demander protection**, **associer beauté et puissance**, **interpréter un rêve**. Chaque opération doit ensuite être reconstituée dans son contexte.
+
+Dans les Andes et en Mésoamérique, des divinités et offrandes liées aux eaux sont attestées par archéologie et textes de périodes différentes. Leurs systèmes religieux ne deviennent pas des variantes de Mami Wata simplement parce que des liquides, des serpents ou des bijoux y figurent. Le comparatisme exige une chronologie et des archives propres.
+
+Il faut aussi protéger les différences entre les sites africains de la série : le **Sika Dwa Kofi** asante, les sculptures d'Ilé-Ifẹ̀, les tertres du Komaland et les sanctuaires d'Òṣogbo traitent d'autres objets. Une grande collection peut organiser des renvois sans fusionner artificiellement les dossiers.
+
+### XXII. Durkheim : le collectif, les objets et leur changement de statut
+
+Émile **Durkheim**, *Les Formes élémentaires de la vie religieuse* (1912), permet de poser une question sur les distinctions collectives : quand une image, un miroir ou un vêtement ordinaire devient-il un objet traité selon des règles particulières ? Les sanctuaires et performances liés à Mami Wata offrent des exemples possibles de modifications de statut.
+
+Mais la théorie durkheimienne ne doit pas écraser les expériences des participants. Analyser une image comme signe de rapport collectif n'oblige pas à considérer ses significations religieuses comme illusoires. L'étude sociologique décrit des comportements, des règles et des institutions ; elle ne peut décider par méthode de la réalité ou de l'irréalité d'une puissance.
+
+La répétition et l'usage situé importent davantage que la matière : une peinture sur verre peut être à la fois objet de marché et image de sanctuaire. Ce déplacement d'usage fournit un cas précieux pour penser la sacralisation sans faire de l'or, du serpent ou du miroir une substance sacrée universelle.
+
+### XXIII. Eliade : manifestation, origine et l'histoire des images
+
+Mircea **Eliade**, *Le Sacré et le Profane* (1957), permet d'interroger la manière dont une puissance peut être reconnue à travers un objet ou un lieu. La notion de **hiérophanie** pourrait paraître adaptée à un récit où une image commerciale est reconnue comme représentation de puissance. Pourtant, elle ne suffit pas à expliquer **pourquoi cette image particulière**, produite dans une ville allemande vers 1887, a circulé et été réinterprétée dans le delta du Niger.
+
+Les sources d'histoire de l'art montrent donc les limites d'une phénoménologie de l'éternelle manifestation. L'image a une date, une technique et un réseau de distribution ; l'interprétation religieuse est une pratique historique. La puissance d'un objet ne peut être décrite sans prendre en compte les médiations sociales qui l'ont fait exister.
+
+L'enquête refuse deux réductionnismes : ramener le sacré à un éternel archétype de la mer, et le ramener à la simple manipulation coloniale d'imprimés. La religion se construit dans l'interaction entre des héritages locaux, des visions et des supports matériels nouveaux.
+
+### XXIV. Vernant et Detienne : fabriquer des ressemblances contrôlées
+
+**Jean-Pierre Vernant** a analysé, pour les Grecs, les manières dont une image participe d'un ordre de pratiques et de représentations. Sa méthode incite à ne pas isoler une figure de Mami Wata de l'autel, du porteur, de la performance ou de la cité dans laquelle elle agit. Une tête de sirène n'est pas la totalité d'une théologie.
+
+**Marcel Detienne**, *Comparer l'incomparable* (2000), propose une vigilance encore plus utile : les ressemblances doivent être **fabriquées comme questions** et non présupposées comme identités. On peut étudier la métamorphose d'une image de femme-serpent dans deux régions sans en déduire qu'elles connaissent un même rite.
+
+L'exemple de l'affiche de Maladamatjaute permet une comparaison précise : une image née dans un contexte de divertissement est transformée en représentation religieuse. La preuve de circulation est ici plus solide que l'argument d'un « symbole universel du serpent ».
+
+### XXV. Dumézil et les limites des généalogies indo-européennes
+
+Georges **Dumézil** a construit des comparaisons entre systèmes indo-européens à partir de langues et traditions apparentées. Il ne fournit pas un instrument démontrant que Mami Wata devrait représenter la « troisième fonction » en raison de sa relation à la richesse et à la fécondité. Une telle classification serait un schéma externe ne respectant ni les langues africaines ni leurs institutions.
+
+On pourrait néanmoins apprendre de la rigueur comparative dumézilienne, à condition de ne pas universaliser ses conclusions : préciser les sources, justifier les unités d'observation, documenter les variantes et examiner des contre-exemples. Les esprits aquatiques qui accordent prospérité et ceux qui sont liés au risque ne forment pas nécessairement deux faces d'une triade.
+
+La comparaison n'est pas un concours de reconnaissance de types. Elle doit rendre intelligibles **les formes de la différence**, même lorsque les objets ressemblent superficiellement à des images européennes.
+
+### XXVI. Girard : danger, offrande et absence de preuve victimaire
+
+René **Girard**, *La Violence et le sacré* (1972), propose un modèle des effets collectifs du sacrifice et de la violence. Certaines traditions relatives aux puissances aquatiques décrivent des relations dangereuses ou des engagements exigeants ; cela n'autorise nullement à construire un rite sacrificiel humain universel de Mami Wata.
+
+Pour soutenir une hypothèse girardienne, il faudrait disposer d'événements de violence collectivement reconnus, de procédures rituelles définies, de rôles de victime et de discours justifiant leur efficacité. Le dossier iconographique présenté ici ne fournit pas une telle démonstration.
+
+L'ethnographie des offrandes doit donc rester liée aux documents et à la parole des participants. **Un serpent peint n'est pas une preuve de mise à mort ; un miroir offert n'est pas une victime substitutive.** L'argumentation doit être proportionnée à la nature des traces.
+
+### XXVII. Hegel, Nietzsche et les catégories coloniales de « fétiche »
+
+Les classifications européennes des religions ont fréquemment opposé des « grandes religions » supposées doctrinales à des religions africaines présentées comme « fétichistes ». Les **Leçons sur la philosophie de l'histoire** de **Hegel**, transmises dans diverses éditions posthumes, participent d'un contexte intellectuel qu'il faut soumettre à la critique des sources. Une peinture moderne de Mami Wata ne démontre pas un déficit de pensée philosophique : elle documente au contraire des relations complexes à la richesse, à la représentation et à la mobilité.
+
+Le mot **fétiche** lui-même possède une histoire commerciale et coloniale. Utilisé sans précaution, il transforme une image ou un autel en preuve d'irrationalité. La bonne question est celle des usages, des normes et des significations localement argumentées, non celle du degré supposé d'évolution intellectuelle d'une culture.
+
+La philosophie de **Nietzsche**, notamment *La Naissance de la tragédie* (1872), peut inviter à réfléchir aux rapports entre forme, séduction et expérience rituelle, mais les catégories d'Apollon et Dionysos ne sont pas des noms de forces présentes dans un sanctuaire africain. Les reprendre sans qualification serait un acte d'appropriation conceptuelle, non un résultat philologique.
+
+### XXVIII. Protocole d'enquête : une histoire des objets sans fiction sur les rites
+
+Une recherche collective commencerait par un inventaire d'images **avec provenance** : titre d'origine, date de publication, auteur ou atelier, lieu de circulation connu, première mention locale, technique, transformations et contexte d'exposition ou de déposition. La chronologie de la chromolithographie de 1887 et des objets du delta attestés vers 1901 constitue un dossier exemplaire pour cette méthode.
+
+Un second corpus traiterait les sanctuaires et performances avec le consentement des participants : noms locaux, langues, photographies autorisées, étapes publiques des rites, usages des objets, relations à d'autres puissances et variantes. Aucune information rituelle ne doit être extraite ou publiée contre les restrictions d'une communauté sous prétexte de produire une encyclopédie ouverte.
+
+Un troisième volet porterait sur les archives économiques : routes maritimes, foires, merceries, changements de la consommation, industrie du diamant et circuits de peintures sur verre. Il pourrait tester l'hypothèse que certaines images de prospérité deviennent particulièrement visibles lors de transformations des économies locales.
+
+Enfin, la présentation muséale doit décrire les conditions coloniales de collecte et respecter les droits contemporains des détenteurs de savoirs. Un objet sans contexte doit être nommé comme tel, au lieu d'être rapproché arbitrairement d'une ville ou d'un peuple.
+
+### XXIX. Matrice des faits, controverses et hypothèses
+
+| Proposition | État de la preuve | Ce que l'on ne peut pas conclure |
+|---|---|---|
+| Mami Wata et des puissances aquatiques sont attestées dans des traditions contemporaines africaines et diasporiques | Objets, récits, photographies, études de terrain et catalogues | Une religion identique dans tous les pays et toutes les époques |
+| Le répertoire comprend sirènes et charmeuses de serpents | Images muséales et archives de reproduction | Une signification unique du serpent |
+| Une affiche de Maladamatjaute fut publiée à Hambourg vers 1887 | Notice Fowler Museum | La naissance du culte de l'eau en 1887 |
+| Un modèle de charmeuse était déjà transposé dans le delta du Niger vers 1901 | Documentation iconographique signalée par Fowler | L'identification de chaque praticien ou de toute cérémonie de cette époque |
+| Récits de richesse et de Mami Wata associés aux diamants en Sierra Leone | Enquête étudiée par Rosalind Shaw | Une origine exclusivement économique de la puissance |
+| Des autels et images apparaissent dans des espaces d'Afrique et des Amériques | Collections, photographies et enquête scientifique | Des rites identiques de l'Afrique à Cuba et au Brésil |
+| Des traditions locales de l'eau peuvent rencontrer de nouvelles images importées | Hypothèse étayée par certains cas d'appropriation | Un syncrétisme uniforme ou une transmission automatique |
+| Mami Wata descend directement d'Isis, Gaṅgā, Anāhitā ou des Sirènes grecques | **Non démontré** | Les ressemblances ne prouvent aucune filiation historique |
+
+### XXX. Conclusion
+
+Mami Wata propose une histoire des religions où l'**origine** n'est pas un événement unique. Les puissances aquatiques possèdent des passés locaux, les images traversent les mers, les objets deviennent des instruments de présence, et les récits enregistrent les dangers d'une richesse parfois aussi fascinante qu'incertaine. La circulation d'une chromolithographie à la fin du XIXe siècle a contribué à renouveler certains vocabulaires visuels ; elle ne saurait expliquer à elle seule la complexité des croyances antérieures et postérieures.
+
+L'anthropologie des objets rend ici un service décisif au comparatisme : elle impose de dire **de quel objet on parle**, dans quel lieu et à quelle date. Le mot « sirène » ne suffit pas à raconter la même histoire en Grèce archaïque, dans un atelier européen du XIXe siècle, sur une coiffe du delta du Niger ou dans un sanctuaire caribéen.
+
+Le sacré apparaît ainsi comme une relation entre matière, parole, économie et mémoire. Il n'a ni la fixité d'une essence ni la transparence d'un produit culturel fabriqué de toutes pièces. L'histoire doit étudier ses transformations avec les mêmes exigences de preuve que celles appliquées aux États, aux techniques et aux échanges.
+
+### XXXI. Sources primaires et institutions de référence
+
+1. **Fowler Museum at UCLA**, dossier d'exposition **« Mami Wata: Arts for Water Spirits in Africa and Its Diasporas »**, 2008, avec étude de la sirène sculptée, de l'imprimé de Maladamatjaute vers 1887 et de ses appropriations en Afrique de l'Ouest : https://fowler.ucla.edu/exhibitions/mami-wata-arts-for-water-spirits-in-africa-and-its-diasporas/.
+2. **Smithsonian, National Museum of African Art**, annonce d'exposition, **2 avril 2009**, avec chronologie, typologie des objets et description des régions représentées : https://www.si.edu/newsdesk/releases/water-spirit-focus-national-museum-african-art-exhibition.
+3. **Smithsonian**, « Mami Wata: Arts for Water Spirits in Africa and Its Diasporas », exposition du **1er avril au 26 juillet 2009** : https://www.si.edu/exhibitions/mami-wata-arts-water-spirits-africa-and-its-diasporas:event-exhib-2605.
+4. **Smithsonian Libraries**, notice du volume collectif **Sacred Waters**, comprenant la table des études de Rosalind Shaw, Martha G. Anderson, Misty L. Bastian, Bogumil Jewsiewicki et d'autres auteurs : https://www.si.edu/object/siris_sil_919684.
+5. **Smithsonian, Eliot Elisofon Photographic Archives**, fonds Henry et Margaret Drewal, **EEPA 1992-028**, photographies de terrain au Nigeria, dont des ensembles de **1978** ; consulter les cotes photographiques individuelles lors de toute reproduction.
+6. Affiches chromolithographiques de charmeuses de serpents, dont le modèle **Maladamatjaute** publié à Hambourg vers **1887** : source primaire iconographique dont l'identification et la transmission sont présentées dans le dossier du Fowler ; ne pas confondre date de l'affiche et date des pratiques qu'elle a influencées.
+
+### XXXII. Bibliographie universitaire et historiographie
+
+7. **Henry John Drewal**, *Mami Wata: Arts for Water Spirits in Africa and Its Diasporas*, Los Angeles, Fowler Museum at UCLA / University of Washington Press, **2008**, **227 p.** ; contributions de Marilyn Houlberg, Bogumil Jewsiewicki, Amy L. Noell, John W. Nunley et Jill Salmons ; notice : https://fowler.ucla.edu/product/mami-wata-arts-for-water-spirits-in-africa-and-its-diasporas/.
+8. **Henry John Drewal** (dir.), *Sacred Waters: Arts for Mami Wata and Other Divinities in Africa and the Diaspora*, **2008**, **681 p.**, avec contributions anthropologiques et historiques variées ; catalogue Smithsonian : https://www.si.edu/object/siris_sil_919684.
+9. **Rosalind Shaw**, « Mami Wata and the Sierra Leone Diamonds: Wealth and Enslavement in Men's Dreams and the State Economy », dans *Sacred Waters*, 2008 ; pagination à contrôler dans l'exemplaire édité.
+10. **Martha G. Anderson**, « Enchanted Rivers: True Stories about Water Spirits from the Niger Delta », dans *Sacred Waters*, 2008 ; pagination à contrôler.
+11. **Misty L. Bastian**, « Mami Wata, Mr. White, and the Sirens off Bar Beach: Spirits and Dangerous Consumption in the Nigerian Popular Press », dans *Sacred Waters*, 2008 ; pagination à contrôler.
+12. **Bogumil Jewsiewicki**, « Congolese Mami Wata: The Charm and Delusion of Modernity », dans *Sacred Waters*, 2008 ; pagination à contrôler.
+13. **Barbara Frank**, « Mami Wata, Wealth-Owning Spirits, and Changing Economic Morals in West Africa », dans *Sacred Waters*, 2008 ; pagination à contrôler.
+14. **Kofi Asare Opoku et Kathleen O'Brien Wicker**, « Abidjan Mamiwater and Aba Yaba: Two Profiles of Mami/Maame Water Priesthood in Ghana », dans *Sacred Waters*, 2008 ; pagination à contrôler.
+15. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs*, Paris, Maspero, **1965**.
+16. **Marcel Detienne**, *Comparer l'incomparable*, Paris, Seuil, **2000**.
+17. **Émile Durkheim**, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, **1912**.
+18. **Mircea Eliade**, *Das Heilige und das Profane*, **1957** ; traduction française *Le Sacré et le Profane*, Gallimard, **1965**.
+19. **René Girard**, *La Violence et le sacré*, Paris, Grasset, **1972**.
+20. **Georges Dumézil**, *Mythe et épopée*, tomes I-III, Paris, Gallimard, **1968-1973**.
+21. **Friedrich Nietzsche**, *Die Geburt der Tragödie aus dem Geiste der Musik*, Leipzig, **1872**.
+22. **G. W. F. Hegel**, *Vorlesungen über die Philosophie der Geschichte*, éditions posthumes à partir de **1837**, à confronter aux différents cycles de cours.
+23. **Hésiode**, *Théogonie*, **240-264**, figures des Néréides ; et **Homère**, *Odyssée* **XII**, épisode des Sirènes, sources primaires grecques utilisées comme comparaisons non généalogiques.
+24. **Avesta**, **Yašt 5**, Arədvī Sūrā Anāhitā ; **Enūma eliš**, tablettes I-IV ; comparaisons de dispositifs aquatiques, sans citation littérale ni filiation affirmée.
+
+**Avertissement scientifique.** Aucun passage ne reconstitue une formule rituelle ancienne non attestée ; aucune affirmation de parenté entre panthéons n'est déduite d'une image de serpent ou de sirène. Toutes les datations relèvent du document spécifique cité, et non d'une supposée naissance unique du culte.
+
+**Renvois internes à établir après attribution :** MYTHOS, chapitre existant 530, *Les mers et les océans sacrés* ; dossier autonome déposé sur Ọ̀ṣun-Òṣogbo. Leurs textes sont préservés sans réécriture.

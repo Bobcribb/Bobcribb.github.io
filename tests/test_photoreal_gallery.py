@@ -72,6 +72,59 @@ class TestPhotorealGalleryVerification(unittest.TestCase):
                 stale = verify_once(base, root, catalog, [entry])
                 self.assertTrue(any("différente" in v["error"] for v in stale["failures"]))
 
+    def test_legacy_notice_without_declared_url_is_verified_on_https(self):
+        """Les notices historiques sans champ scientific_notice ne sont pas ignorées."""
+        base = "https://bobmythos.fr"
+        slug = "delphes-legacy"
+        image = "/assets/reconstitutions-3d/" + slug + ".webp"
+        notice = "/assets/reconstitutions-3d/notices/" + slug + ".json"
+        entry = {"slug": slug, "src": image,
+                 "source_url": "https://museum.example/delphes"}
+        catalog = {"count": 1, "entries": [entry]}
+        markup = (
+            '<article id="' + slug + '"><figure><img src="' + image
+            + '" alt="Restitution hypothétique de Delphes">'
+            '<figcaption>Delphes, vue archéologique</figcaption></figure>'
+            '<div class="r3d-science"><p>Degré de certitude : faible pour les élévations.</p>'
+            '<a href="https://museum.example/delphes">Source archéologique</a>'
+            '</div></article>'
+        )
+        webp = b"RIFF\x04\x00\x00\x00WEBPtest"
+        original_notice = b'{"id":"DEL-OLD-001","title":"Delphes"}'
+        with TemporaryDirectory() as directory:
+            root = Path(directory)
+            for path, payload in ((image, webp), (notice, original_notice)):
+                local = root / path.lstrip("/")
+                local.parent.mkdir(parents=True, exist_ok=True)
+                local.write_bytes(payload)
+            responses = {
+                "/assets/reconstitutions-3d/catalogue-photorealiste.json":
+                    (200, json.dumps(catalog).encode("utf-8")),
+                "/reconstitutions-photorealistes.html":
+                    (200, markup.encode("utf-8")),
+                image: (200, webp),
+                notice: (200, original_notice),
+            }
+            with patch("scripts.verify_photoreal_gallery.request_bytes",
+                       side_effect=lambda url: responses[url.removeprefix(base)]):
+                valid = verify_once(base, root, catalog, [entry])
+                self.assertEqual(valid["expected_notices"], 1)
+                self.assertEqual(valid["verified_notices"], 1)
+                self.assertEqual(valid["failures"], [])
+                self.assertNotIn("scientific_notice", entry)
+
+                responses[notice] = (404, b"missing")
+                missing = verify_once(base, root, catalog, [entry])
+                self.assertEqual(missing["expected_notices"], 1)
+                self.assertEqual(missing["verified_notices"], 0)
+                self.assertTrue(any("HTTP 404" in failure["error"]
+                                    for failure in missing["failures"]))
+
+                responses[notice] = (200, b'{"id":"WRONG"}')
+                changed = verify_once(base, root, catalog, [entry])
+                self.assertTrue(any("différente" in failure["error"]
+                                    for failure in changed["failures"]))
+
     def test_webp_signature(self):
         self.assertTrue(is_webp(b"RIFF" + b"\x04\x00\x00\x00" + b"WEBP" + b"abc"))
         self.assertFalse(is_webp(b"<html>404 not found</html>"))

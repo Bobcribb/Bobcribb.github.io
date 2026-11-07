@@ -1,0 +1,280 @@
+# MYTHOS — Cycle comparatif universitaire — Volume CCCXXVIII (328)
+
+## Aristophane avant les *Nuées* : *Daitalês* (*Les Banqueteurs*, 427 av. J.-C.), l'éducation des fils, le repas d'Héraclès et la naissance d'une critique des savoirs démocratiques
+
+*Monographie universitaire originale. Comédie attique fragmentaire ; philologie des témoignages ; histoire de l'éducation et des pratiques conviviales ; philosophie politique de la transmission ; critique des reconstructions. Documentation examinée le 6 novembre 2026. La numérotation appartient exclusivement à l'attribution transactionnelle de MYTHOS.*
+
+### Résumé
+
+*Daitalês* — souvent traduit *Les Banqueteurs* ou *Les Convives* — est généralement considéré comme la première comédie représentée d'Aristophane, donnée en 427 av. J.-C. sous le nom du producteur Callistratos. La pièce est perdue. Les témoins conservés et, surtout, le retour du dramaturge sur son début de carrière dans les *Nuées* permettent néanmoins de reconnaître une confrontation entre deux manières de former les jeunes gens, figurées par le « sensé » et le « débauché » ou « effronté ». Une tradition savante associe le chœur à des convives voués à Héraclès. C'est assez pour formuler une question historique, mais trop peu pour reconstituer un spectacle entier : **comment la cité démocratique peut-elle transmettre des critères du juste à ceux qui apprennent, au même moment, à discuter ces critères ?**
+
+Ce dossier ne reprend ni l'intrigue des *Nuées*, ni le procès comique des *Guêpes*, ni les dispositifs d'achat de la faveur populaire des *Cavaliers*, déjà étudiés séparément dans MYTHOS. Il remonte à une comédie perdue antérieure à ces œuvres et examine l'articulation encore mal documentée entre *paideia* (formation), partage de la table, compétition des discours, générations et citoyenneté. Sa thèse est explicitement interprétative : le débat éducatif peut être lu comme une interrogation précoce sur la fabrique des futurs délibérants de la cité, sans transformer cette hypothèse en programme attesté d'Aristophane.
+
+### Protocole de preuve et limites
+
+**[A] Attestation** : passage antique conservé et localisable, ou donnée transmise par une notice identifiable. **[É] Établissement philologique** : sens lexical ou analyse d'une variante à confronter à l'édition critique. **[H] Hypothèse** : proposition explicative non directement documentée par la pièce. **[I] Interprétation** : argument philosophique ou dramaturgique de cette étude. **[C] Comparaison** : autre œuvre ou autre époque, sans filiation démontrée. **[L] Lacune** : information inaccessible faute de manuscrit intégral. Les comparaisons avec Hegel, Nietzsche, Jean-Pierre Vernant et Marcel Detienne n'ont jamais valeur de témoignages sur le Ve siècle avant notre ère.
+
+L'édition critique de référence pour les fragments est R. Kassel et C. Austin, *Poetae Comici Graeci* (PCG), III.2, *Aristophanes: Testimonia et Fragmenta*. L'étude d'Albio C. Cassio, *Aristofane. Banchettanti (ΔΑΙΤΑΛΗΣ): I frammenti* (Pise, 1997), et l'article de Karen Amaral Sacconi (2019) servent à contrôler la portée des reconstructions. En l'absence de consultation matérielle et de collation complète de chaque fragment dans PCG, aucun énoncé grec non vérifié n'est fabriqué ni assigné à un numéro de fragment supposé. Une citation de la comédie perdue ne sera jamais composée à partir d'une paraphrase moderne.
+
+## I. Une première pièce : date, attribution et histoire matérielle
+
+### 1. Le début de carrière en 427 [A]
+
+La tradition éditoriale situe *Daitalês* en 427 avant notre ère ; son exhibition est rattachée à Callistratos. Une étude spécialisée consacrée au chœur et à l'éducation, Karen Amaral Sacconi, rappelle cette attribution et la date, en s'appuyant sur l'histoire de la transmission. Cela ne prouve pas que chaque élément de la mise en scène soit connu : la donnée chronologique est plus ferme que la reconstruction de l'intrigue. Le classement d'une œuvre comme « première » dépend ici de la tradition dramatique et non d'un manuscrit autographe de jeunesse.
+
+La présence de Callistratos pose un problème institutionnel et littéraire. La production d'une comédie à un concours n'est pas identique à sa composition : le poète, celui qui obtient la représentation, les chorèges, les interprètes et les magistrats n'exercent pas des fonctions équivalentes. La notice de la pièce permet de parler d'une représentation **sous le nom de** Callistratos ; elle ne permet pas d'affirmer que la raison juridique en serait exclusivement la jeunesse du poète. F. S. Halliwell, dans « Aristophanes' Apprenticeship » (1980), a précisément insisté sur les difficultés de reconstituer l'apprentissage du dramaturge à partir d'indices tardifs. [A/L]
+
+### 2. Une pièce présente par son absence [A/L]
+
+Aucun livret continu des *Banqueteurs* ne subsiste. Les morceaux sont cités par des auteurs et compilateurs postérieurs ; Athénée de Naucratis, dans les *Deipnosophistes*, est un vecteur de conservation particulièrement important. Galien transmet lui aussi des passages valorisés par les philologues, souvent à propos d'usages lexicaux. La recherche de Sacconi recense cinquante-deux extraits dans la tradition qu'elle examine et signale treize citations chez Athénée : il s'agit d'un inventaire éditorial moderne, non d'un total immuable, car les limites entre « fragment », « témoignage » et mention varient selon les éditions.
+
+La conséquence méthodologique est décisive : un grammairien transmet parfois un **mot rare** et retranche ce qui permettait de comprendre son locuteur ; un érudit intéressé par l'alimentation conserve un nom de plat sans l'enchaînement dramatique. Le survivant n'est donc pas un échantillon aléatoire de l'œuvre. Une histoire de la pièce bâtie uniquement sur les thèmes de ses citations confondrait les préoccupations des compilateurs avec la distribution ancienne des scènes. [I]
+
+### 3. Quelle fête ? [A/L]
+
+L'année 427 est suffisamment assurée dans la présentation savante pour constituer le cadre du dossier. L'attribution exacte d'un classement au concours, la nature de tous les dispositifs choraux et la géographie scénique doivent cependant être vérifiées dans les *testimonia* et les didascalies. Les renseignements secondaires qui annoncent un « deuxième prix » ne doivent pas être convertis ici en preuve documentaire autonome sans référence à la notice grecque. Dans une publication scientifique, mieux vaut une lacune explicitée qu'une précision séduisante sans support.
+
+### 4. La guerre archidamienne : contexte et non déterminisme [A/I]
+
+La représentation se place pendant la guerre du Péloponnèse, commencée en 431. En 427, Thucydide rapporte les débats athéniens après la révolte de Mytilène (*Guerre du Péloponnèse* III, 36–50). La paire Cléon–Diodotos rend manifeste l'importance civique d'arguments concurrents : efficacité de la sanction, intérêt collectif, colère, calcul des conséquences. Nous ne possédons aucun témoignage permettant de faire des *Banqueteurs* une réponse à ces débats précis. Leur juxtaposition éclaire néanmoins un problème commun à l'Athènes de cette époque : on attend des citoyens qu'ils jugent des discours alors que la qualité morale du locuteur, sa compétence et sa capacité de persuasion ne coïncident pas nécessairement. [A pour Thucydide ; H pour l'articulation dramaturgique]
+
+## II. Le titre : manger ensemble, distribuer, se reconnaître
+
+### 5. *Daitalês* n'est pas simplement *Symposion* [É]
+
+Le titre transmis, ΔΑΙΤΑΛΗΣ dans la présentation de Cassio et sous la translittération *Daitalês* dans la recherche moderne, appartient au champ de la *dais*, du repas partagé et de ceux qui y prennent part. Traduire par « banqueteurs » donne une approximation utile, mais le français risque de suggérer un divertissement mondain. Le repas grec implique des questions de parts, d'hospitalité, de statut, de dieux et d'hommes. Il faut distinguer le banquet-repas (*dais*, *deipnon*) de la réunion de buveurs (*symposion*) : les deux activités peuvent se succéder, mais ne constituent pas un seul concept institutionnel.
+
+Cette nuance importe au projet comparatif de MYTHOS. La table n'est pas une assemblée politique au sens strict ; elle peut cependant rendre visibles des critères de préséance, de répartition et d'appartenance. Le convive autorisé à prendre place est déjà, dans l'espace de la fiction, quelqu'un dont l'inclusion a été reconnue. [É/I]
+
+### 6. Le chœur et le milieu d'Héraclès [A/H]
+
+L'article de Sacconi examine un chœur de convives lié au culte d'Héraclès, sans prétendre que tous les détails du rituel nous soient transmis. Dans le monde grec, Héraclès est un personnage plastique, héros éprouvé, objet de cultes, parfois associé à des cadres de repas collectifs. Il serait imprudent de donner une topographie cultuelle précise à la scène sans indices. Un sanctuaire possible n'est pas un décor conservé ; un banquet rituel possible n'est pas le compte rendu de la fête réellement jouée.
+
+**Hypothèse de travail** : la figure d'Héraclès rend particulièrement féconde la confrontation entre plaisir immédiat, effort, éducation du corps et reconnaissance publique. Mais elle ne prouve pas l'existence sur scène d'un choix moral allégorique explicite, ni la présence d'un personnage Prodicos. [H]
+
+### 7. Le repas comme image de la distribution civique [I]
+
+Dans la cité, le partage est rarement innocent : qui a fourni les ressources ? Qui décide des places ? Qui peut parler au nom des présents ? Le grec *dais* invite à penser un collectif qui consomme et juge. Le rapprochement avec les distributions comiques des *Cavaliers* ne cherche pas à annoncer un motif identique déjà attesté en 427 ; il mesure une transformation interprétative : plus tard, les dons faits à Dêmos deviennent le moyen visible d'acheter son écoute ; ici, le cadre des convives pourrait servir de laboratoire à la circulation de l'éducation. Le point de continuité est l'instabilité de l'association entre **recevoir**, **reconnaître** et **juger**. [C/I]
+
+## III. Deux frères, deux adjectifs : un texte grec réellement contrôlable
+
+### 8. Le témoignage des *Nuées*, vers 528–532 [A]
+
+Le passage le plus précieux pour comprendre comment Aristophane voulait présenter sa première production ne vient pas d'un fragment autonome des *Banqueteurs*. Il apparaît dans la parabase du texte conservé des *Nuées*, vers 528–532, lorsque le poète revient sur sa première aventure théâtrale. Les mots **ὁ σώφρων τε χὠ καταπύγων** sont lisibles au vers 529 dans le texte grec numérique reposant sur Hall et Geldart. L'orthographe contractée *χὠ* représente la coordination avec l'article : le sens général oppose « le modéré » et « le débauché/effronté ». Les deux étiquettes relèvent d'un jugement social, non d'une classification pédagogique objective.
+
+Le même passage décrit métaphoriquement la pièce de début comme une jeune fille confiée à d'autres soins. La métaphore de la maternité littéraire rend visible une manière dont l'auteur construit **rétrospectivement** son identité de poète. La prudence est double : [A] nous possédons le discours des *Nuées* ; [L] ce discours n'est ni le texte de la production de 427 ni un témoignage neutre. Le texte subsistant des *Nuées* est lui-même issu d'une révision après l'échec au concours de 423. Il ne faut pas le dater uniformément de la première représentation.
+
+### 9. *Sôphrôn*, le mot et la vertu [É]
+
+La racine de *sôphrôn* associe la sûreté ou l'intégrité de la pensée à la maîtrise de soi ; *sôphrosynê* désigne, selon les genres et les auteurs, la modération, le bon sens, la retenue ou une conduite socialement admissible. Aucune de ces traductions ne doit être absolutisée. Le personnage « sensé » peut être admiré dans un discours et tourné en ridicule dans un autre. L'ancienne éducation n'est pas une unité historique unique : elle rassemble des pratiques familiales, musicales, physiques, religieuses et littéraires différentes selon la fortune et le statut.
+
+En prenant *sôphrôn* comme une étiquette dramatique, le théâtre n'énonce pas seulement une vertu : il fabrique immédiatement une comparaison. Le spectateur a devant lui un adjectif qui prétend trancher avant qu'une conduite soit jugée. [É/I]
+
+### 10. *Katapygôn*, injure et risque d'anachronisme [É]
+
+L'autre qualification appartient au vocabulaire agressif et sexuellement dépréciatif de la comédie. Le rendre toujours par « pervers » ou « immoral » neutralise sa violence et transforme en concept moral général une insulte située. Il faut documenter sa coloration obscène et les normes masculines de statut et de sexualité qui l'entourent, sans présumer qu'une orientation sexuelle moderne serait désignée. Le texte atteste une opposition nominale ; il ne fournit pas une biographie ni un diagnostic psychologique de la figure injuriée. Le dispositif comique peut exploiter la honte de l'étiquette tout en exhibant l'énergie du personnage qui la porte. [É/I/L]
+
+### 11. Est-on certain de deux frères ? [A/H]
+
+La présentation savante des *Banqueteurs* parle de deux fils opposés au sein d'une famille ; l'étude de Sacconi les examine comme « frères » et renvoie à leur contraste éducatif. Cette reconstruction repose sur des témoignages, mais la continuité des scènes, le nombre des intervenants et les choix définitifs des personnages nous échappent. Une formule commode — « deux frères, deux éducations » — résume un problème, pas un scénario récupéré. Faire de l'un le vainqueur incontestable serait particulièrement aventureux : nous ignorons l'issue exacte et les éventuelles surprises comiques. [A/H/L]
+
+### 12. Un père sur scène n'est pas « la tradition » elle-même [I]
+
+Le père appartient à une relation dramatique de pouvoir. Il paie ou soutient les apprentissages, sanctionne, attend reconnaissance, peut craindre que ses propres valeurs ne soient discutées. La transmission passe donc par un conflit de dépendance : celui qui veut que ses enfants apprennent à raisonner peut être désavoué par un raisonnement que lui-même ne contrôle plus. Cela décrit une possibilité logique, non un dialogue restitué des *Banqueteurs*. Dans *Les Nuées*, ce paradoxe sera joué de manière explicite lorsque Phidippide retournera contre son père des compétences argumentatives acquises à son initiative : *Nuées* 1303–1475. [C/I]
+
+## IV. Le temps social de l'éducation à Athènes
+
+### 13. *Paideia* : formation, non système scolaire unifié [É]
+
+Employer *paideia* comme équivalent de « programme scolaire » introduirait une institutionnalisation excessive. À Athènes au Ve siècle, les familles mobilisent des enseignants et des pratiques variés, notamment lecture, musique, gymnastique, usages du langage et fréquentation des adultes. L'accès, les coûts, les trajectoires et les attentes ne sont pas les mêmes pour les familles riches, les travailleurs pauvres, les métèques et les personnes esclavisées. Dans une cité de citoyens mâles adultes, le droit de participer aux décisions ne signifie pas que tous les habitants reçoivent une formation identique.
+
+La satire des savoirs nouveaux ne prouve pas l'apparition soudaine d'une « école des sophistes » centralisée. Elle suppose plutôt que certains maîtres, certaines techniques oratoires et certains signes de distinction pouvaient être reconnus, caricaturés et discutés. [A pour le contexte général ; I pour la portée dramaturgique]
+
+### 14. Enseigner à parler et apprendre à se conduire [I]
+
+On peut distinguer trois compétences : **décrire** une situation, **défendre** une position et **orienter** une action commune. Une éducation peut renforcer l'une sans garantir les autres. Le problème n'est pas la maîtrise des mots en elle-même, mais le rapport entre compétence linguistique et responsabilité. Un fils capable de réfuter son père a-t-il appris à être injuste, ou a-t-il seulement acquis un pouvoir qui dévoile la faiblesse de la position paternelle ? Une telle question est philosophiquement féconde justement parce que la pièce est incomplète : il faut maintenir les deux lectures comme des hypothèses concurrentes, plutôt que faire du « mauvais fils » un porte-parole des sophistes historiques.
+
+### 15. Savoir ancien et savoir nouveau sont des catégories de combat [H/I]
+
+L'opposition « ancienne éducation » et « nouvelle éducation » est une grille critique commode. Elle ne correspond pas à deux collèges contemporains portant ces noms. Les débats étaient nécessairement plus diffus : coût des leçons, accentuation, techniques de discours, interprétation de la poésie, savoirs sur la nature, promesse d'ascension personnelle. Il est tentant d'ordonner tous les témoignages sur une ligne droite allant d'Homère à Socrate. Ce serait un anachronisme. Les « savoirs nouveaux » d'une génération deviennent rapidement l'héritage de la suivante ; ils ne forment pas une religion de la nouveauté.
+
+### 16. Les valeurs civiques et leurs bénéficiaires [I]
+
+La cité démocratique exige des décisions publiques, mais la formation de la jeunesse est largement une affaire privée et socialement différenciée. Ce décalage crée un problème institutionnel profond : **comment prétendre juger collectivement des arguments quand les ressources d'apprentissage sont inégalement réparties ?** La comédie ne fournit pas le programme d'une école publique égalitaire ; rien ne permet de lui prêter une réforme éducative déterminée. En revanche, les catégories de honte, d'habileté et de respect qui circulent entre générations rendent perceptible cette question. L'égalité des droits de décision des citoyens ne dissout pas les inégalités de leur socialisation.
+
+## V. Héraclès à la croisée des chemins : une comparaison contrôlée
+
+### 17. Ce que raconte exactement Xénophon [A]
+
+Dans *Mémorables* II, 1, 21–34, Xénophon fait rapporter à Socrate un récit attribué à Prodicos de Céos : au seuil de sa vie d'adulte, Héraclès rencontre deux figures féminines personnifiant des voies rivales de conduite. Le narrateur oppose les facilités offertes par le Vice aux efforts demandés par la Vertu. L'introduction en II, 1, 21 précise que Socrate restitue le propos **de mémoire** ; en II, 1, 34 il signale encore l'écart entre son résumé et le style de Prodicos. Il ne s'agit donc pas d'un rouleau autographe de Prodicos. Le texte grec peut être contrôlé dans l'édition de C. Hude reproduite par Bibliotheca Augustana.
+
+### 18. La tentation d'une source directe [H/L]
+
+Héraclès, l'opposition de conduites juvéniles et les deux voies de la formation créent une correspondance suggestive avec *Daitalês*. Sacconi discute précisément la relation possible entre les deux jeunes figures comiques et la parabole prodicéenne. La possibilité n'est pas une preuve. Nous ne possédons ni vers des *Banqueteurs* annonçant explicitement la « croisée des chemins », ni attestation que le récit de Prodicos était fixé en 427 sous la forme que donne Xénophon. Une étude du texte doit distinguer **affinité de motifs**, **circulation orale vraisemblable** et **dépendance littéraire démontrée** ; seule la première est établie par la confrontation des thèmes.
+
+### 19. Deux modèles d'identité morale [C/I]
+
+Dans le récit transmis par Xénophon, le héros choisit entre deux voies explicitement personnifiées. Le récit transforme un problème d'âge en décision exemplaire et en horizon d'efforts. Dans une comédie familiale, à l'inverse, des identités peuvent être imposées par les surnoms, corrigées par les actions ou défaites par le rire. Le « prudent » n'est pas nécessairement prudent dans toute scène ; le « dépravé » peut avoir une parole pertinente. **La fable tranche ; la comédie pourrait éprouver la solidité de la frontière.** Cette différence est une proposition de méthode, pas la restitution d'un dénouement perdu.
+
+### 20. Le héros cultuel ne se réduit pas au professeur de morale [I]
+
+Héraclès est également celui qui souffre, mange, combat, franchit des frontières et reçoit une hospitalité ambiguë. Dans une comédie de convives, l'utiliser seulement comme patron d'une sobriété exemplaire effacerait ses dimensions alimentaires et corporelles, abondantes dans la tradition grecque. Une hypothèse de dramaturgie doit donc compter avec l'excès autant qu'avec l'effort. Le fait qu'un héros puisse légitimer des manières de se conduire incompatibles constitue précisément l'intérêt du comparatisme : l'identification à une même figure mythique ne produit pas une éthique unique.
+
+## VI. Le piège de la transmission fragmentaire
+
+### 21. Athénée, lecteur des aliments et des mots [A/I]
+
+Les *Deipnosophistes* d'Athénée sont conçus sous la forme d'une conversation savante au repas. Le dialogue cite des œuvres plus anciennes pour expliquer des termes, des mets, des usages, des auteurs. L'édition numérique Digital Athenaeus, fondée sur le texte de Kaibel, permet de comprendre le mode de conservation et de situer les citations. L'historien moderne peut ainsi avoir accès à une scène ancienne parce qu'un érudit tardif voulait expliquer un aliment. Mais le motif du banquet se trouve alors **deux fois** dans la transmission : comme possible sujet du poème et comme dispositif du livre qui le cite. On ne doit pas confondre ces niveaux.
+
+### 22. Galien, lecteur des écarts de langue [A/L]
+
+Le médecin Galien a également contribué à préserver la comédie grecque, dans un horizon de réflexion sur les mots, les usages et la langue jugée correcte. Les deux longs passages des *Banqueteurs* identifiés par la philologie moderne comme particulièrement importants illustrent ce filtre. Une raillerie sur une expression nouvelle peut susciter un intérêt lexical qui n'était pas la raison principale de la représentation initiale. Il faut donc marquer l'origine de chaque citation : fragment comique, contexte d'emprunt, motif de la citation, éventuelles difficultés textuelles, avant d'en tirer une histoire des pratiques pédagogiques.
+
+### 23. La numérotation PCG n'est pas la numérotation scénique [É/L]
+
+Les fragments édités par Kassel et Austin sont ordonnés pour un lecteur moderne. Leur numéro sert à identifier un **document**, et non le vers correspondant de la comédie originelle. Le dossier secondaire relatif au sophiste Thrasymaque et au fragment *Daitalês* 205 PCG a suscité des interprétations divergentes, comme en témoigne l'étude d'Ian C. Storey, « Thrasymachos at Athens: Aristophanes fr. 205 (*Daitalēs*) » (*Phoenix* 42, 1988, 212–218). Sans le texte du fragment et sa transmission sous les yeux, l'identification d'une personne historique ou d'un événement serait prématurée. Cette étude ne lui attribue aucun dialogue reconstitué.
+
+### 24. Pourquoi refuser une intrigue complète ? [I]
+
+Les synopsis courants racontent parfois que les deux fils quittent un domaine, sont envoyés chez un sophiste, et suivent des destins opposés. Une partie de cette histoire peut refléter une reconstruction érudite respectable ; elle ne devient pas une **séquence attestée** parce qu'elle est répétée dans plusieurs notices. Quatre paramètres restent à prouver indépendamment : lieu scénique, rapports de parenté et de déplacement, nature de l'enseignement, issue de la rivalité. Le dossier conserve la distinction entre les étiquettes de caractères [A], la trame éducative généralement inférée [H], et le dialogue textuellement perdu [L].
+
+## VII. À quoi ressemble un conflit démocratique avant le vote ?
+
+### 25. La scène familiale ne vaut pas institution [I]
+
+Le père peut disposer d'un pouvoir domestique que la cité ne lui délègue pas pour ses décisions collectives. La comédie devient politiquement intéressante lorsque l'argumentation, technique nécessaire à l'espace civique, se retourne contre les hiérarchies qui l'ont transmise. Il ne faut pas imaginer les deux fils en députés modernes. Le théâtre n'a pas besoin de mettre en scène la Boulè ou l'Ecclésia pour problématiser le caractère public des compétences acquises au foyer.
+
+### 26. Thucydide III, 36–50 : argumenter, calculer, céder [C]
+
+Le débat mytilénien fournit une comparaison historique datée. Après la première résolution d'Athènes de punir durement Mytilène, une nouvelle discussion oppose des raisons de rigueur et d'utilité. Cléon dénonce l'instabilité d'une assemblée séduite par les paroles ; Diodotos fait valoir qu'une meilleure délibération n'est pas simplement le triomphe de l'éloquence, mais l'examen des conséquences. Ce récit est la construction historiographique de Thucydide et non une transcription sténographique. Il serait fallacieux de présenter « le mauvais fils » comme un double de Diodotos ou de Cléon. Le parallèle porte seulement sur une tension : la cité a besoin de discours puissants tout en redoutant leur autonomie par rapport au bon jugement.
+
+### 27. Distinguer le droit de parole et le crédit accordé à la parole [I]
+
+La démocratie ne se résume pas au droit de prendre la parole. Un argument, pour agir politiquement, doit être tenu pour crédible ; la crédibilité dépend en partie du corps qui le prononce, du statut social, de la réputation et des normes de pertinence. À l'intérieur de la maison, un fils peut avoir raison sans obtenir l'autorité de décider. Sur scène, un personnage étiqueté « débauché » peut parler avec efficacité sans être écouté comme honnête. La comédie met potentiellement à nu cette dissociation entre validité logique et légitimité sociale. Aucune scène précise des *Banqueteurs* n'est invoquée pour établir ce mécanisme : il s'agit de la thèse de lecture générale du présent dossier.
+
+### 28. Une démocratie sans démocratie pour tous [I]
+
+Les femmes, les esclaves et les métèques sont indispensables à l'économie de la polis et à de nombreuses pratiques cultuelles, sans bénéficier du même accès aux institutions de décision que les citoyens masculins adultes. La famille évoquée par une reconstruction des *Banqueteurs* n'est donc pas une cellule naturellement représentative de tous les habitants. Dans une étude sur l'éducation civique, il faut poser la question des absents plutôt que de traiter « la cité » comme un collectif homogène. Le repas lui-même peut inclure ou exclure selon des règles étrangères à l'idéal d'égalité politique.
+
+## VIII. De *Daitalês* aux *Nuées* : continuité sans téléologie
+
+### 29. Le point de comparaison véritable [A/C]
+
+Dans *Les Nuées* 1–132, Strepsiade ne dort pas, accablé de dettes liées notamment aux chevaux de son fils. Il cherche des techniques verbales pour échapper aux créanciers. Les scènes 889–1112 organisent l'affrontement des deux Arguments personnifiés ; 1303–1475 mettent en spectacle le retournement de l'enseignement contre le père. Ces passages sont conservés et vérifiables. On peut comparer **des structures** — générations, apprentissage, promesses du discours — sans décréter que les personnages de 427 sont les esquisses directes de ceux de 423.
+
+### 30. Le fils des *Nuées* est un sujet autrement situé [C]
+
+Phidippide n'est pas seulement un élève ; ses goûts, ses dettes et son rapport à l'aisance transforment le problème de l'éducation en affaire d'économie familiale. Strepsiade ne demande pas d'abord un enseignement désintéressé : il veut pouvoir échapper à ses créanciers. Le défaut ne vient donc pas exclusivement de l'élève ou d'un maître supposé corrupteur. Le père a formulé une demande malhonnête. Cette complication explicite dans *Les Nuées* empêche une lecture simplificatrice des *Banqueteurs* en « bonne tradition » contre « méchante nouveauté ». Le théâtre peut accuser **celui qui achète un savoir** autant que celui qui le vend.
+
+### 31. Les *Nuées* que nous lisons ne sont pas simplement les *Nuées* de 423 [A/L]
+
+Le texte survivant présente un état remanié de l'œuvre représentée en 423 et mal classée au concours. La parabase qui mentionne les premiers personnages s'insère dans cette histoire textuelle. Ainsi, même la comparaison interne à l'auteur est médiatisée par une intervention ultérieure ; elle nous renseigne aussi sur la manière dont Aristophane, après des expériences, voulait être lu. Parler d'une progression parfaitement linéaire de 427 vers 423 effacerait cette double temporalité : date de première représentation, date de réécriture.
+
+### 32. Autres chapitres MYTHOS : des mécanismes différents [C]
+
+Les dossiers déjà établis sur les *Cavaliers* isolent la lutte pour la faveur de Dêmos, les oracles, le pain et les distributions ; ceux des *Guêpes* examinent la jouissance du jugement et la dépendance judiciaire, puis le banquet et les manières sociales ; les dossiers des *Oiseaux* étudient la fondation d'une puissance, les oracles et les frontières ; ceux de l'*Assemblée des femmes* décrivent une nouvelle distribution des biens et ses contradictions ; les études des *Grenouilles* interrogent le choix de poètes éducateurs et le jugement de la cité. **Le sujet propre de la présente livraison est antérieur et distinct : qui forme l'aptitude du futur citoyen à juger, et comment une formation peut-elle dérégler la relation à celui qui l'a rendue possible ?** Les autres volumes sont des comparaisons et non des matériaux recyclés.
+
+## IX. Philosophie comparée : quatre éclairages, quatre avertissements
+
+### 33. Hegel : famille, société civile, comédie [C/I]
+
+Dans les *Principes de la philosophie du droit*, notamment §§ 158–181, Hegel distingue les relations éthiques de la famille et l'entrée des individus dans les médiations de la société civile. Ce schéma peut éclairer le moment où un fils devient capable de contredire les attentes paternelles. Toutefois, il ne faut pas projeter la bourgeoisie moderne ni le système hégélien sur Athènes en 427. Les *Leçons sur l'esthétique*, dans les passages consacrés à la comédie, offrent une autre comparaison : la subjectivité comique peut mettre à nu le caractère précaire des autorités auxquelles elle s'oppose. De telles catégories analysent l'œuvre perdue **à partir de notre situation de lecteurs**, elles n'en restituent pas la philosophie consciente. [C/L]
+
+### 34. Nietzsche : l'invention des étiquettes morales [C/I]
+
+La *Généalogie de la morale* invite à interroger la formation historique des valeurs et les pouvoirs attachés aux désignations. Appliquée avec retenue, elle aide à demander : qui a intérêt à baptiser un jeune homme « sensé » et l'autre « débauché » ? La réponse ne doit pas être déterminée avant l'examen de ce que faisait l'injure comique. Le philosophe du XIXe siècle ne fournit aucune donnée philologique sur le vers des *Nuées* ; il permet seulement de ne pas prendre une qualification polémique pour la nature intrinsèque d'un personnage. Une généalogie des valeurs ne doit jamais effacer la violence proprement sexuelle et sociale de l'insulte antique.
+
+### 35. Jean-Pierre Vernant : le sujet naît dans des pratiques [C/I]
+
+Les travaux de Vernant sur le monde grec invitent à situer catégories, rôles et représentations dans leurs institutions, et non dans une « psychologie éternelle » des Grecs. Pour lire *Daitalês*, cette orientation permet d'articuler le foyer, le repas, le culte d'Héraclès, la formation du jeune homme et la compétition chorale. Elle ne commande pas de traiter le mythe d'Héraclès comme le symbole universel d'une initiation uniforme. Le matériau perdu laisse ouvertes les formes concrètes de mise en scène.
+
+### 36. Marcel Detienne : la parole ne tire pas son autorité d'une seule source [C/I]
+
+*Les Maîtres de vérité dans la Grèce archaïque* étudie des configurations anciennes où poésie, mémoire, parole et autorité se répondent. La comparaison avec la comédie démocratique est utile **par contraste** : ce qui fait autorité dans une assemblée de citoyens, dans un banquet, dans un cadre cultuel et dans une maison ne relève pas d'un identique régime de vérité. Le jeune orateur peut faire circuler des compétences d'un espace dans l'autre, mais ne possède pas pour autant les mêmes droits dans tous. Il serait abusif d'attribuer directement à Detienne une interprétation des fragments non conservés de cette pièce.
+
+### 37. Aristote : le langage n'épuise pas la vertu [C]
+
+L'*Éthique à Nicomaque* II, 1–4 traite de l'acquisition des vertus par l'habitude et de la différence entre accomplir une action matériellement juste et agir en personne vertueuse. C'est une comparaison conceptuelle postérieure : Aristote écrit au IVe siècle, non pour expliquer une comédie de 427. Cette distinction aide pourtant à éviter une confusion : la capacité de formuler le discours du juste ne garantit pas l'habitude de choisir une conduite juste. La satire de l'habileté oratoire ne suffit pas à condamner toute formation intellectuelle, mais elle oblige à poser le problème de la finalité de l'apprentissage.
+
+## X. Deux lectures rivales et leur mise à l'épreuve
+
+### 38. Lecture conservatrice : le fils nouveau détruit l'ordre ancien [H]
+
+Une première hypothèse considère le contraste entre les jeunes personnages comme un avertissement contre l'éducation sophistique et l'érosion des valeurs ancestrales. Elle trouve un appui plausible dans le lexique dépréciatif et dans la tradition de lecture des *Nuées*. Son point faible est l'absence du dénouement et de la majorité des scènes : le rire a pu atteindre aussi le père et le « sensé ». Déduire l'idéologie globale d'une injure et d'une parabase ultérieure est insuffisant.
+
+### 39. Lecture autocritique : le père produit la crise qu'il redoute [H]
+
+Une seconde hypothèse voit la comédie examiner les contradictions des attentes paternelles : obtenir prestige, succès et arguments, sans accepter que le fils s'autonomise. Le contexte ultérieur des *Nuées* donne un terme de comparaison fort, puisque Strepsiade y déclenche la catastrophe qu'il dénonce. Mais ce schéma pourrait être étranger à *Daitalês*. Le lecteur doit résister à l'envie de remplir le vide documentaire avec un scénario plus tardif et mieux connu.
+
+### 40. Lecture institutionnelle : le théâtre expose la fabrique de la crédibilité [I]
+
+La proposition de cette monographie n'a pas besoin de choisir définitivement entre les deux lectures. Elle porte sur les conditions qui rendent un argument crédible dans des espaces hiérarchisés. Une formation produit simultanément des compétences et des capacités de contestation ; la famille exige à la fois autonomie future et obéissance présente ; le banquet associe égaux, invités et serviteurs sans les rendre politiquement identiques. La comédie constitue une forme adaptée à ces tensions parce qu'elle peut faire rire d'une autorité sans imposer une doctrine explicite. C'est une interprétation structurale, **non un savoir supplémentaire sur les répliques perdues**.
+
+### 41. Trois contre-arguments nécessaires [I/L]
+
+**Premier contre-argument** : il n'est pas prouvé que la démocratie ait été le sujet principal de la pièce. Réponse : l'étude parle d'un enjeu politique **indirect**, à partir de l'éducation civique, et non d'une action parlementaire.
+
+**Deuxième contre-argument** : la parabasis des *Nuées* pourrait reconstruire un succès d'auteur selon des besoins nouveaux. Réponse : c'est précisément pourquoi elle est traitée comme une auto-interprétation tardive, pas comme une source transparente.
+
+**Troisième contre-argument** : la figure d'Héraclès et la fable de Prodicos pourraient n'avoir en commun que des lieux communs de la culture grecque. Réponse : la dépendance est maintenue au rang d'hypothèse ; l'analogie est féconde même sans filiation établie, à condition de ne jamais attribuer à *Daitalês* un épisode non conservé.
+
+## XI. Tableau de vérification philologique et historique
+
+| Question | Base documentaire | Degré | Ce qui n'est pas établi |
+|---|---|---|---|
+| Une première comédie d'Aristophane en 427 | Tradition didascalique et discussion Halliwell, Sacconi | [A] avec médiation savante | Le détail complet de la représentation |
+| Callistratos associé à la production | Témoignages étudiés par l'érudition spécialisée | [A] | Le motif juridique unique de ce choix |
+| *Sôphrôn* et *katapygôn* | Aristophane, *Nuées* 528–532, spécialement 529 | [A/É] | Le dialogue original de 427 |
+| Deux frères ou fils contrastés | Reconstruction philologique de la pièce et présentation Sacconi | [A/H] | Leur enchaînement scénique intégral |
+| Chœur de convives lié à Héraclès | Dossier du titre et analyse de Sacconi | [A/H] | Un sanctuaire, un costume, une liturgie complets |
+| Prodicos et le choix du héros | Xénophon, *Mémorables* II, 1, 21–34 | [A] pour le texte de Xénophon | Une citation de cette fable dans *Daitalês* |
+| Comparaison avec *Les Nuées* | Pièce conservée 1–132, 528–532, 889–1112, 1303–1475 | [A/C] | Une identité entre intrigues |
+| Sens civique de l'éducation | Histoire de la démocratie et analyse argumentée | [I] | Une réforme proposée par le dramaturge |
+| Débat de Mytilène en 427 | Thucydide III, 36–50 | [A/C] | Une allusion directe dans la comédie perdue |
+| Comparaisons philosophiques | Hegel, Nietzsche, Vernant, Detienne, Aristote | [C] | Une influence sur Aristophane |
+
+## XII. Bibliographie sélective, sources et chemins de vérification
+
+### A. Sources antiques
+
+**Aristophane**, *Nuées*, notamment 1–132 ; 528–532 ; 889–1112 ; 1303–1475. Texte grec de F. W. Hall et W. M. Geldart, *Aristophanis Comoediae*, Oxford, Clarendon Press, 1906–1907, numérisé dans l'environnement Perseus ; transcription grecque contrôlable sur [Forage, *Clouds*](https://forage.com/aristophanes/clouds/) et [Furman Greek Reader, *Clouds*](https://folio.furman.edu/dramaturg/Aristophanes/Clouds/index.html). La version conservée comporte des révisions par rapport à la représentation de 423.
+
+**Xénophon**, *Mémorables* II, 1, 21–34 : récit de Prodicos sur le choix d'Héraclès. Texte grec de l'édition Hude (1935) accessible dans la [Bibliotheca Augustana](https://www.tha.de/homes/harsch/graeca/Chronologia/S_ante05/Prodikos/pro_hera.html) ; traduction de travail repérable sur [Ad Fontes](https://adfonteslibrary.org/work-presocratics-prodicus-heracles). Le récit est transmis par Xénophon et non par un manuscrit indépendant de Prodicos.
+
+**Thucydide**, *Guerre du Péloponnèse* III, 36–50 : seconde délibération athénienne au sujet de Mytilène en 427. Source contextuelle indépendante, non preuve de contenu scénique.
+
+**Athénée de Naucratis**, *Deipnosophistes*, loci citant *Daitalês* dans l'édition PCG ; pour vérifier les contextes de citation, [Digital Athenaeus](https://www.digitalathenaeus.org/tools/KaibelText/), projet d'édition numérique fondé notamment sur Kaibel. Les références exactes de chaque extrait doivent être collationnées avant toute édition diplomatique.
+
+**Aristote**, *Éthique à Nicomaque* II, 1–4 : distinction postérieure entre savoir, pratique répétée et vertu ; source comparative et non reconstruction des opinions du poète.
+
+### B. Éditions critiques et recherche moderne
+
+**Kassel, Rudolf, et Colin Austin**, *Poetae Comici Graeci*, vol. III, fasc. 2, *Aristophanes: Testimonia et Fragmenta*, Berlin/New York, de Gruyter, 1984. Outil critique de base pour les fragments et témoignages ; les numéros de fragments identifient une édition moderne, non les lignes d'un texte théâtral retrouvé.
+
+**Cassio, Albio C.**, *Aristofane. Banchettanti (ΔΑΙΤΑΛΗΣ): I frammenti*, Pise, Giardini, 1997. Édition et commentaire du dossier fragmentaire.
+
+**Sacconi, Karen Amaral**, « Convivas de Aristófanes: o coro devoto de Héracles e a educação do sensato e do pervertido », *Classica* 32/1, 2019, p. 23–42, [DOI : 10.24277/classica.v32i1.736](https://doi.org/10.24277/classica.v32i1.736). Étude spécialisée de la question des convives, d'Héraclès et de la parenté possible avec le récit de Prodicos ; cette parenté demeure discutée.
+
+**Halliwell, F. S.**, « Aristophanes' Apprenticeship », *The Classical Quarterly* 30/1, 1980, p. 33–45, [DOI : 10.1017/S0009838800041161](https://doi.org/10.1017/S0009838800041161). Discussion des débuts de carrière et de leurs témoignages.
+
+**Storey, Ian C.**, « Thrasymachos at Athens: Aristophanes fr. 205 (*Daitalēs*) », *Phoenix* 42/3, 1988, p. 212–218. Étude d'un fragment et de ses difficultés historiques ; la présente monographie n'en cite aucun vers non collationné.
+
+**Henderson, Jeffrey**, *Aristophanes, vol. V: Fragments*, Loeb Classical Library 502, Harvard University Press, 2007. Texte, traduction et contexte des fragments ; à consulter avec PCG pour le détail des attributions.
+
+**MacDowell, Douglas M.**, *Aristophanes and Athens: An Introduction to the Plays*, Oxford University Press, 1995/1996. Contexte dramatique et politique ; les éditions bibliographiques donnent parfois des années de diffusion différentes.
+
+**Major, Wilfred E.**, *The Court of Comedy: Aristophanes, Rhetoric, and Democracy in Fifth-Century Athens*, Ohio State University Press, 2013. Cadre général pour distinguer performance comique, capacité oratoire et démocratie.
+
+**Kerferd, G. B.**, *The Sophistic Movement*, Cambridge University Press, 1981. Histoire du mouvement sophistique, à ne pas utiliser comme catalogue d'enseignements attestés dans la pièce perdue.
+
+### C. Comparaisons philosophiques, non documents sur 427
+
+**Hegel**, *Principes de la philosophie du droit*, §§ 158–181 ; *Leçons sur l'esthétique*, sections consacrées à la comédie. **Nietzsche**, *La Généalogie de la morale*, principalement dissertation II, §§ 1–3, et la question des évaluations morales dans la dissertation I. **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* et travaux sur les représentations religieuses et sociales. **Marcel Detienne**, *Les Maîtres de vérité dans la Grèce archaïque*. Ces rapprochements sont des instruments de problématisation, sans chaîne de transmission démontrée.
+
+## XIII. Conclusion : la cité commence avant l'assemblée
+
+Le texte des *Banqueteurs* ne nous est pas revenu ; toute assurance sur sa scène finale serait une fiction. Il subsiste cependant un faisceau limité et solide : une première comédie de 427 connue par une tradition de représentation, le souvenir explicite des deux figures opposées dans les *Nuées* 528–532, le champ du repas partagé et le dossier savant autour d'Héraclès. Il subsiste aussi des filtres qui empêchent d'en faire une photographie de la démocratie : relecture de l'auteur après coup, choix de citations de grammairiens et de convives érudits, débats modernes sur le statut des fragments.
+
+La proposition propre de ce volume est donc mesurée. Avant que la comédie ne personnifie Dêmos, ne fasse trancher les jurés-guêpes ou ne réinvente une assemblée féminine, son auteur avait déjà travaillé une tension entre **apprendre à convaincre** et **apprendre à vivre avec ceux que l'on peut convaincre**. La cité libre a besoin d'individus capables de contester ; leur formation peut aussi désorganiser les autorités qui prétendent la transmettre. Le banquet, le culte et le foyer sont des lieux où cette contradiction s'éprouve sans devenir une loi. Voilà une continuité intellectuelle possible entre *Daitalês* et les œuvres conservées : non une doctrine antérieure retrouvée, mais un problème à maintenir ouvert.
+
+**Statut scientifique :** étude intégrale approuvée pour la file publique MYTHOS ; aucune lacune n'est comblée par des vers fictifs. Le numéro de volume n'est pas anticipé. Les titres des autres manuscrits et leurs numérotations restent inchangés.

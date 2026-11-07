@@ -30,6 +30,27 @@ class NumberingTests(unittest.TestCase):
         self.source('comparatif/volume-clxviii-auteur.md','# Volume CLXVIII (168)\n## Auteur')
         self.assertEqual(len(scan(self.root)),3)
 
+    def test_chapter_titles_do_not_repeat_their_canonical_number(self):
+        # The title belongs to the manuscript, but the index is numbered once.
+        self.source('encyclopedie/chapitre-433-athena-lindia.md',
+                    '# Chapitre 433 — Athéna Lindia : la Chronique de Lindos\n## Résumé')
+        self.source('encyclopedie/chapitre-438-athena-lindia.md',
+                    '# MYTHOS — Encyclopédie de la mythologie grecque — Chapitre 438\n'
+                    '## Athéna Lindia et la Chronique de Lindos')
+        self.source('origines-du-sacre/500-objets-sacres.md',
+                    '# Chapitre 500 : Objets sacrés et offrandes')
+        self.source('encyclopedie/chapitre-359-chiron.md',
+                    '# Chapitre 359\n## Chiron et l’éducation des héros')
+        records = scan(self.root)
+        titles = {e['number']: e['title'] for e in records['encyclopedie']}
+        self.assertEqual(titles[433],
+                         'Chapitre 433 — Athéna Lindia : la Chronique de Lindos')
+        self.assertEqual(titles[359], 'Chapitre 359 — Chiron et l’éducation des héros')
+        self.assertEqual(titles[438],
+                         'Chapitre 438 — Athéna Lindia et la Chronique de Lindos')
+        self.assertEqual(records['origines-du-sacre'][0]['title'],
+                         'Chapitre 500 — Objets sacrés et offrandes')
+
     def test_mismatched_title_is_rejected(self):
         self.source('tragedies/volume-clxviii-hypsipyle.md','# Volume CLXVII (167)\n## Hypsipyle')
         with self.assertRaisesRegex(ValueError,'titre'):scan(self.root)

@@ -158,10 +158,17 @@ def verify_once(base, root, catalog, entries):
         results = list(pool.map(check_image, entries))
     failures.extend([{"resource": x["src"], "error": x["error"]} for x in results if not x["ok"]])
 
-    # Some legacy records predate standalone JSON notices: preserve them.
-    # Every record that declares a scientific_notice must publish that exact
-    # JSON on HTTPS, not merely print the scientific text inside the gallery.
-    notices = [e for e in entries if e.get("scientific_notice")]
+    # Older catalogue rows omit the optional locator, but all entries have
+    # a matching, separately preserved JSON notice named after their slug.
+    # Check the actual HTTPS JSON for every image, without rewriting the
+    # historical catalogue or any scientific notice.
+    notices = [
+        {**entry, "scientific_notice": (
+            entry.get("scientific_notice")
+            or "/assets/reconstitutions-3d/notices/" + entry["slug"] + ".json"
+        )}
+        for entry in entries
+    ]
 
     def check_notice(entry):
         path = entry["scientific_notice"]

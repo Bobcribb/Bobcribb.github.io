@@ -1,0 +1,290 @@
+# MYTHOS — Les Origines du sacré — Chapitre 773
+
+# Tumbe, Pemba (vers 600–950) : économie domestique, perles de coquillage et limites de l'identification archéologique du sacré
+
+**Monographie universitaire de synthèse critique.** Archéologie de la côte swahilie, anthropologie des techniques, philologie historique, historiographie de l'islamisation, théorie comparative du religieux, méthodes d'inférence. **Lieu :** Tumbe, rive nord-orientale de la baie de Micheweni, île de Pemba, Tanzanie. **Chronologie principale :** VIIe–milieu du Xe siècle de notre ère. **Distinguer impérativement :** observations de fouille, interprétations argumentées et hypothèses non démontrées.
+
+## Résumé scientifique
+
+Tumbe représente l'un des dossiers décisifs pour rompre avec une histoire téléologique de la côte swahilie. Les fouilles étudiées par Jeffrey B. Fleisher et Adria LaViolette révèlent un établissement du premier millénaire engagé dans les circuits commerciaux de l'océan Indien et dans une fabrication intensive, probablement de perles de coquillage, tout en présentant une organisation largement domestique. Les études typologiques des céramiques, des petits objets métalliques et des meules rainurées permettent de retracer une économie de gestes, de maisons et d'échanges. Elles ne livrent pourtant ni sanctuaire identifié avec certitude, ni inscription théologique locale, ni rite sacrificiel démontré. C'est précisément cette asymétrie qui fait de Tumbe un dossier pour l'histoire des origines du sacré : comment écrire l'histoire des pratiques religieuses lorsque leurs formes architecturales ou textuelles ne sont pas directement conservées ? Les arguments doivent demeurer proportionnés à l'indice disponible. Le site ne saurait être présenté comme une « préhistoire obligée » des mosquées en pierre de Chwaka.
+
+## I. Une question fondamentale : le commerce produit-il nécessairement une religion visible ?
+
+Une interprétation historiographique courante assimile réseau lointain, prospérité et urbanisation monumentale. Elle en déduit presque automatiquement une élite politique et un sanctuaire. Tumbe déconstruit cette chaîne d'équivalences. Un lieu peut recevoir des objets des régions du golfe Persique, travailler le cuivre et fabriquer des biens destinés à circuler sans pour autant produire des maisons monumentales ou un pouvoir souverain archéologiquement repérable. Le constat est porté par les auteurs des fouilles dans *Antiquity* (2013, p. 1151–1168).
+
+La question du sacré se pose par conséquent au négatif : quelle valeur probante accorder à l'absence d'un monument cultuel ? La réponse méthodologique est double. L'absence observée limite les affirmations positives sur une institution ; elle ne démontre pas que les habitants n'avaient aucun rite, aucun langage religieux et aucune relation aux morts. On ne peut ni inventer un culte à partir d'un objet décoré ni décrire la communauté comme « irréligieuse » faute de temple conservé. L'histoire gagne à reconnaître explicitement ces bornes.
+
+## II. Historiographie : de la « ville swahilie » aux villages commerçants
+
+Une partie de l'ancienne historiographie privilégiait les ports tardifs en pierre, les grandes mosquées et les généalogies dites shirazies, faisant de leur monumentalité l'image normative d'une société swahilie. Les sites du premier millénaire étaient alors décrits comme une étape inachevée. Fleisher et LaViolette (2013) demandent au contraire d'étudier Tumbe pour ce qu'il fut, non comme un simple embryon de la ville médiévale qui lui succéderait.
+
+Cette correction n'efface pas les différences de richesse ni l'importance de l'islam dans les siècles suivants. Elle récuse l'idée que tous les échanges de l'océan Indien devaient entraîner les mêmes formes de gouvernement, de religion et de matérialité. Une causalité historique doit être vérifiée localement : quels individus et quelles familles contrôlaient les flux ? Quels lieux de réunion existaient ? Quelles transformations sont effectivement enregistrées ? Sans ces médiations, le mot « commerce » n'explique pas de lui-même un édifice, une loi ou une croyance.
+
+## III. Localisation : un lieu entre terre, baie et océan
+
+Tumbe est situé sur le littoral nord-oriental de Pemba, près de la baie de Micheweni. Les recherches rapportées dans *The Swahili World* situent l'occupation ancienne sur un espace étendu, proche d'une vingtaine d'hectares ou davantage selon les définitions de surface et la dispersion des vestiges. L'établissement participe d'un territoire insulaire accessible par mer, mais doté d'arrière-pays agricoles et de ressources locales indispensables.
+
+La géographie n'est pas une explication automatique de la religion. La proximité de la mer permet des échanges, la pêche et les déplacements ; elle ne prouve aucun culte marin. Les sols cultivables et les sites voisins assurent d'autres lignes de relation. L'analyse du sacré devra porter, si des données apparaissent, sur les contextes précis des dépôts, des espaces collectifs ou des sépultures, et non sur une association romantique entre rivage et spiritualité.
+
+## IV. La chronologie : une fourchette, pas une date de fondation
+
+Le titre même de Fleisher et LaViolette fixe la phase principale de Tumbe autour de 600–950 de notre ère. Une telle fourchette provient de convergences entre stratigraphies, céramiques et autres jalons archéologiques ; elle ne doit pas être confondue avec une chronique qui nommerait le fondateur et préciserait le mois de l'arrivée des habitants. Les variations entre sondages et secteurs doivent être prises en compte.
+
+La date finale d'un assemblage n'est pas nécessairement celle du départ du dernier habitant. Le déclin d'un site peut être progressif, spatialement différencié et lié à une redistribution des populations. Il faut se garder d'inventer une guerre, une épidémie ou un conflit religieux pour remplir les silences. Tumbe fut voisin de l'emplacement de Chwaka, mais les communautés et les monuments postérieurs ne peuvent être rabattus sur une seule continuité cultuelle présumée.
+
+## V. Les fouilles et les échelles d'observation
+
+L'article « The early Swahili trade village of Tumbe, Pemba Island, Tanzania, AD 600–950 », *Antiquity*, 87/338 (2013), p. 1151–1168, présente les sondages, les produits échangés et les traces de travail. Une fouille associe unités de terrain, niveaux stratigraphiques, prélèvements et descriptions d'objets. Son discours s'appuie sur un échantillonnage : il n'ouvre pas toutes les maisons simultanément ni toutes les périodes avec la même précision.
+
+Pour toute assertion sur la religion, trois vérifications sont nécessaires. Le contexte est-il primaire ou remanié ? Le dépôt résulte-t-il d'une sélection intentionnelle identifiable ? Existe-t-il des comparaisons contemporaines capables de réduire le nombre d'interprétations possibles ? Un objet précieux dans un remblai ne remplit pas ces conditions. La transparence du raisonnement vaut davantage qu'une identification spectaculaire.
+
+## VI. Le paysage des établissements ruraux
+
+Les prospections étudiées par Fleisher (2010) montrent que Tumbe s'inscrit au sein d'une constellation de petites occupations. Les villages proches n'étaient pas nécessairement des dépendances politiques soumises à un chef unique. Certaines de leurs activités pouvaient être largement autosuffisantes, tandis que les échanges avec l'établissement littoral connectaient davantage les productions et les informations.
+
+Ce dispositif rend possible une économie religieuse décentralisée, mais ne la prouve pas. Il faut distinguer une hypothèse anthropologique sur les réunions de parenté d'une institution archéologiquement constatée. La densité des habitats peut indiquer des réseaux sociaux étroits ; elle n'autorise pas à inférer une même divinité, une même initiation ou un calendrier rituel unifié. Les limites de la documentation sont ici le cœur de la démonstration.
+
+## VII. Les céramiques de la tradition Early Tana : objets, non ethnonymes
+
+Les poteries locales sont rapprochées de la tradition dite *Early Tana* (ETT), associée dans certains classements à l'early *triangular incised ware*. Leur décor incisé, ponctué ou en motifs géométriques et la variété des formes permettent des comparaisons sur la côte orientale africaine. Mais les catégories de poterie sont des constructions scientifiques fondées sur des ressemblances matérielles, non la preuve qu'un même peuple, une langue ou une religion aurait occupé tous ces sites.
+
+Le rapprochement avec les assemblages du Kenya, du Mozambique et de l'intérieur révèle des circulations de savoir-faire et des familles de techniques. Il peut aussi refléter des convergences de production. Pour établir des transmissions précises, il faudrait examiner les pâtes, dégraissants, séquences opératoires et lieux de fabrication. Un triangle décoratif ne constitue ni un symbole divin universel ni la signature d'une confession religieuse.
+
+## VIII. Les vases à col et leurs usages possibles
+
+Les assemblages de Tumbe comprennent des vases de formes différentes, notamment des jarres à col. Les traces de cuisson, les résidus, les fractures et la distribution spatiale déterminent, dans la mesure du possible, des usages domestiques et artisanaux. On ne peut déduire la fonction d'un vase de sa seule silhouette : les mêmes récipients peuvent servir à transporter, conserver, préparer ou présenter des aliments.
+
+Dans une anthropologie du sacré, les récipients deviennent pertinents lorsqu'ils accompagnent un contexte de dépôt délibéré, un espace cultuel reconnu ou une sépulture. L'ethnographie des objets rappelle que leur valeur évolue avec les lieux et les utilisateurs ; elle ne permet pas de baptiser « offrande » tout fragment exhumé. La première mission du catalogue est donc de décrire la matérialité sans prétendre lire une intention invisible.
+
+## IX. Importations et horizons sassanido-islamiques
+
+Des récipients importés relient Tumbe aux circuits de la région du golfe Persique. Dans la typologie, les désignations « sassanido-islamique » ou « de Siraf » renvoient à des familles d'objets et à des réseaux de diffusion, non à la croyance religieuse de leur dernier propriétaire. Un vase peut avoir circulé par plusieurs intermédiaires avant d'être utilisé puis abandonné sur Pemba.
+
+L'expression « sassanido-islamique » mérite une prudence chronologique : les transitions politiques en Iran et dans la région du golfe n'abolissent pas instantanément les savoir-faire et les formes matérielles. Les céramiques montrent des temporalités techniques différentes de celles des chroniques de conquête. Rien ne permet d'en conclure que les habitants de Tumbe furent « sassanides » ou qu'ils pratiquèrent des rites zoroastriens parce qu'une poterie était fabriquée dans une région où ces traditions existaient.
+
+## X. Les perles de coquillage : de l'hypothèse à la chaîne opératoire
+
+Le dossier le plus remarquable concerne les objets rainurés, dits *bead grinders*. Flexner, Fleisher et LaViolette (2008, p. 161–181) analysent une collection exceptionnellement abondante d'outils de meulage. Les rainures sont compatibles avec la fabrication ou la finition de petites perles discoïdales de coquillage. Cependant, les auteurs précisent que la relation fonctionnelle entre chaque outil et ce produit n'est pas l'objet d'une démonstration univoque.
+
+Il faut donc raisonner sur une chaîne opératoire hypothétique : collecte des coquillages, découpe, perforation, abrasion, tri, assemblage et circulation. Les conditions d'obtention des matières premières, l'identité des artisans et les lieux de vente demandent des données complémentaires. Une perle est potentiellement parure, objet de relation ou unité d'échange ; elle ne devient amulette religieuse que lorsque son contexte et une comparaison convaincante soutiennent cette qualification.
+
+## XI. Une mesure spectaculaire : 3 615 outils rainurés
+
+Fleisher et LaViolette (2013, notamment p. 1159) rapportent la découverte de **3 615** outils rainurés à Tumbe, nombre très supérieur à ceux relevés sur beaucoup d'autres sites côtiers de la même époque. Les objets sont principalement des fragments de céramique réutilisés, plus rarement des galets ou matériaux importés. Le chiffre témoigne d'une intensité d'activité ou de rejet. Il n'autorise pas à dénombrer directement les perles fabriquées.
+
+La moitié environ des outils provient d'une concentration littorale localisée selon les données de fouille ; le reste se distribue ailleurs dans le site. Une concentration ne coïncide pas nécessairement avec un atelier : un dépotoir peut réunir des objets utilisés dans plusieurs maisons. L'intérêt scientifique réside dans la mise en relation des quantités, de l'usure, du support et du contexte, non dans l'effet spectaculaire d'un nombre isolé.
+
+## XII. Standardisation, variation et production domestique
+
+L'étude spécialisée de Flexner, Fleisher et LaViolette (2008) examine un échantillon d'outils rainurés pour interroger l'organisation du travail. Les variations morphologiques conduisent les auteurs à privilégier l'image d'une production décentralisée et largement domestique, plutôt qu'un atelier contrôlé par des artisans à temps plein. La richesse des échanges ne se traduit donc pas nécessairement par une séparation rigide des tâches.
+
+Il ne s'ensuit pas que toutes les familles participaient de façon égale ni qu'aucune personne n'avait de compétence particulière. Des artisans habiles peuvent travailler chez eux ; une production décentralisée peut connaître des différences de statut et de rendement. Ce qui est réfuté est l'équivalence automatique entre quantité produite et pouvoir central. Le raisonnement demeure ouvert aux recherches nouvelles sur la distribution des outils.
+
+## XIII. Qui fabriquait ? Le problème des identités invisibles
+
+Ni les rainures ni les tessons ne nomment les personnes qui les ont utilisés. Il serait infondé de décider que ces tâches étaient exclusivement féminines ou masculines à partir d'analogies ethnographiques empruntées à une autre époque. L'organisation domestique n'exclut pas des artisans itinérants, des transmissions familiales, des apprentis ou de fortes inégalités internes. L'âge, le genre et le statut social des fabricants restent à établir.
+
+L'anthropologie des techniques peut néanmoins proposer des questions fécondes. La fabrication de petites perles demande des gestes répétitifs et une maîtrise progressive ; elle crée des occasions de formation et de coopération. Ces occasions constituent des faits généraux plausibles, pas des scènes de vie observées à Tumbe. La différence entre un modèle de travail et une preuve locale doit être rappelée dans toute restitution.
+
+## XIV. Circulation des perles et possibilités de dons
+
+Un objet manufacturé peut entrer dans plusieurs réseaux : paiement, parure, don, prestation matrimoniale, échange à longue distance, dépôt intentionnel. Sans contexte archéologique spécifique, aucune fonction ne saurait être imposée. Tumbe donne des indices d'une production destinée, au moins en partie, à circuler ; la destination finale de chaque lot demeure inconnue. Les échanges vers l'intérieur africain comme vers l'océan Indien sont envisagés dans l'analyse de 2013.
+
+Les théories anthropologiques du don montrent que les objets peuvent créer des obligations durables. Il serait néanmoins anachronique d'importer, sans démonstration, une institution rituelle précise depuis un autre continent. Les perles de Tumbe renseignent surtout des relations sociales et économiques que l'archéologie des contextes pourra progressivement préciser.
+
+## XV. Métaux : cuivre, plomb et techniques multiples
+
+Les fouilles révèlent des objets en cuivre et en alliages, notamment des éléments de parure et de petits équipements, ainsi que du plomb. Les pièces attestent l'accès à des matériaux ou à des produits transformés et invitent à rechercher les techniques de travail. La présence d'un métal ne permet pourtant pas d'établir un atelier local sans déchets de production, outils caractéristiques ou autres indices corrélés.
+
+Ces matières peuvent avoir des rôles très différents : assemblage d'objets, maintien de filets, ornement, circulation commerciale. Aucun de ces usages n'est « sacré » par définition. Une bague isolée, même précieuse, ne devient pas objet votif sans relation démontrable à une tombe ou à un sanctuaire. L'histoire du religieux doit résister à la fascination pour l'éclat des matières.
+
+## XVI. Verre importé : provenance et médiations
+
+La présence de perles de verre ou d'autres éléments d'origine lointaine indique des connexions. Les analyses chimiques, lorsqu'elles existent pour des corpus comparables, peuvent aider à distinguer des traditions de fabrication ; elles ne donnent pas nécessairement la biographie de l'objet individuel. Entre le four et l'habitat de Pemba, plusieurs transactions peuvent avoir eu lieu.
+
+Un verre issu d'une région historiquement islamisée ne transporte pas automatiquement un rite islamique. Le débat sur la diffusion culturelle a souvent négligé cette séparation entre matériau, technique, personne et doctrine. La prudence est symétrique : les importations n'établissent pas l'islam des propriétaires, mais elles montrent des conditions de contact qui ont pu rendre possibles des rencontres religieuses. Possibilité n'est pas attestation.
+
+## XVII. Nourriture, plantes et économie des maisonnées
+
+L'établissement vivait aussi de ressources agricoles, halieutiques et pastorales. Les recherches sur les premières communautés de Pemba invitent à combiner données botaniques, fauniques et récipients. Aucun port ne fonctionne uniquement grâce aux marchandises qu'il réexporte : les ménages doivent manger, conserver leurs stocks et entretenir des relations avec les terres cultivées.
+
+Cette quotidienneté importe pour la religion parce que les calendriers, les réunions familiales et les pratiques funéraires s'inscrivent dans des rythmes de travail. Mais aucun menu reconstitué ne suffit à identifier une prescription de jeûne ou un interdit alimentaire religieux. Les restes de repas décrivent des comportements de consommation dont les causes peuvent être écologiques, économiques, gustatives ou normatives. Il faut éviter de réduire ce pluralisme à une explication confessionnelle unique.
+
+## XVIII. Les ressources marines : alimentation, production et milieu
+
+La mer fournit des poissons, coquillages et autres ressources. Une même espèce peut avoir plusieurs usages, alimentaires ou artisanaux. Dans les études de Tumbe, le lien avec la fabrication de perles attire l'attention sur les coquillages comme matière première. Il serait cependant trompeur de ramener tout usage du coquillage à une symbolique protectrice ou à une divinité marine.
+
+L'histoire comparée connaît de nombreux emplois symboliques des coquilles ; leur analogie ne vaut pas preuve de diffusion. L'archéologie peut, en revanche, documenter l'accumulation de déchets, le déplacement de matière et les zones de production. Ces indices permettent une écologie historique des pratiques et de la consommation, sans qu'il soit nécessaire de surinterpréter la présence du vivant marin.
+
+## XIX. Qu'est-ce qu'un village commercial ?
+
+Le terme de « village » dans l'article de 2013 renvoie moins à une petite taille absolument fixée qu'à une organisation matérielle dans laquelle la production et les échanges restent fortement articulés aux maisons. Les vestiges n'obligent pas à imaginer un palais, un quartier marchand autonome ou une bureaucratie d'entrepôts. La forme d'un établissement ne se déduit pas du volume potentiel de ses échanges.
+
+La distinction entre village et ville est elle-même une catégorie analytique. Certaines communautés étendues peuvent fonctionner sans l'équipement monumental généralement utilisé pour qualifier une ville. Inversement, les édifices publics ne prouvent pas une vie urbaine au sens sociologique complet. Les chercheurs doivent préciser ce qu'ils mesurent : densité, spécialisation, architecture, autorité, espace civique ou hiérarchie de l'habitat.
+
+## XX. Hiérarchies sociales : ce qui n'est pas visible
+
+Les auteurs du dossier principal soulignent que les échanges intensifs ne semblent pas avoir produit à Tumbe les contrastes sociaux monumentaux et la stratification prononcée souvent attribués aux grandes villes swahilies tardives. C'est une conclusion relative aux matériaux identifiés, et non une proclamation d'égalité absolue. Des différences de richesse ou de prestige peuvent ne pas laisser de vestiges distinctifs facilement reconnus.
+
+On ne peut non plus confondre une relative dispersion des activités artisanales avec l'absence de pouvoir politique. Les réseaux de parenté, les alliances matrimoniales et les obligations communautaires échappent partiellement à la fouille. La conclusion robuste est négative : la documentation actuellement publiée ne justifie pas une image de centralisation politique comparable aux sultanats médiévaux de pierre.
+
+## XXI. Peut-on parler d'islamisation au VIIe–Xe siècle ?
+
+L'expansion des circulations islamiques dans l'océan Indien recoupe la chronologie de Tumbe. Cela rend des contacts religieux possibles, mais les objets importés ne suffisent pas à identifier un établissement musulman. Il faudrait des traces cohérentes de lieux de prière, des inscriptions, des sépultures précisément orientées et contextualisées, des textes contemporains ou des assemblages convergents. Aucun objet à lui seul ne garantit une identification.
+
+Il faut éviter la double erreur consistant à proclamer Tumbe « musulmane » parce qu'elle commerce avec des régions musulmanes, ou « non musulmane » faute de mosquée monumentale conservée. Les édifices de bois et de terre peuvent disparaître. L'absence ne prouve donc pas le contraire d'une institution ; elle impose une formulation bornée : à ce stade, le degré et la forme de l'islamisation sont indéterminés par les données mises ici à contribution.
+
+## XXII. Coran et contexte historique : un document normatif non local
+
+Le Coran, notamment 2:144 (orientation de la prière), 5:6 (purification) et 62:9 (assemblée du vendredi), fournit des données primaires sur les normes de la tradition islamique. Ces textes sont pertinents pour comparer les mosquées médiévales plus tardives de Pemba. Ils ne sont pas des archives des pratiques de Tumbe et ne démontrent aucunement qu'un individu précis de Tumbe les connaissait ou les appliquait.
+
+La distinction entre source primaire pour l'histoire de l'islam et témoignage primaire pour un site archéologique doit être maintenue. La confusion transforme une histoire culturelle de contacts en certitude biographique. Si l'on emploie les versets dans la réflexion comparative, il faut exposer clairement le statut de cette comparaison et résister au désir de trouver des signes coraniques dans une céramique décorée.
+
+## XXIII. Traditions funéraires : documenter l'absence de contexte direct
+
+Les rituels des morts peuvent laisser des tombes, dépôts ou réorganisations d'espace. Cependant, une synthèse sur Tumbe ne doit pas inventer un cimetière, une orientation commune ou des offrandes en l'absence d'éléments explicitement documentés dans les fouilles de référence. Des traditions funéraires ont pu exister avec des traces difficiles à identifier, notamment lorsque les matériaux ou les traitements corporels réduisent la visibilité archéologique.
+
+Une pratique non conservée n'est pas une pratique absente ; mais cette formule n'autorise pas à imaginer n'importe laquelle. Le raisonnement doit distinguer une possibilité anthropologique très générale des hypothèses spécifiques, lesquelles exigent des indices supplémentaires. Cette discipline s'impose particulièrement dans une collection sur les « origines » : les lacunes ne sont pas des invitations à recomposer une histoire sacrée perdue selon les préférences de l'auteur.
+
+## XXIV. Un dépôt inhabituel n'est pas nécessairement un sacrifice
+
+L'archéologie du rite emploie fréquemment la notion de dépôt intentionnel. Pour soutenir une interprétation cultuelle, il faut observer un ordre de mise en place, des répétitions, une séparation d'avec les rejets ordinaires, un rapport constant à un lieu particulier et, si possible, une continuité documentée. Les accumulations de tessons rainurés de Tumbe se prêtent à une explication artisanale plus parcimonieuse tant qu'aucun indice ne contraint à la dépasser.
+
+La question du sacrifice, chez René Girard ou dans les analyses grecques de Detienne et Vernant, ne peut suppléer l'absence de données. Il n'existe pas de motif pour transformer un dépotoir de fabrication en autel ou une perle en substitut sacrificiel. L'histoire scientifique du sacré doit pouvoir écarter des hypothèses séduisantes lorsque la preuve ne suit pas.
+
+## XXV. Tumbe et Chwaka : proximité spatiale, différence historique
+
+Chwaka se développe près de la région de Tumbe au cours du second millénaire, avec des mosquées et des monuments de pierre. L'analogie entre les deux établissements révèle le passage d'un paysage dense de villages et d'activités domestiques à des ensembles urbains au sein desquels les lieux de prière occupent une visibilité particulière. Fleisher (2010) décrit le phénomène d'agrégation des populations en termes de *synoecism*.
+
+La proximité spatiale ne suffit pas à établir une transmission de tout objet, de toute institution et de toute croyance. La disparition ou la réduction des occupations anciennes, le déplacement de populations et la construction de nouveaux édifices doivent être examinés comme des processus multiples. La monographie de Chwaka, publiée séparément dans MYTHOS, analyse ses mosquées ; celle-ci reste centrée sur les pratiques matérielles et la question méthodologique posée par le premier millénaire.
+
+## XXVI. Le problème du « synœcisme »
+
+Le terme *synoikismos* provient du vocabulaire grec de l'habiter-ensemble et du regroupement. Son emploi analytique par Fleisher ne doit pas être pris pour une affirmation de filiation avec la Grèce antique. Il permet de penser l'agrégation de communautés auparavant réparties dans de petits établissements. L'urbanisation peut ainsi résulter de migrations et de décisions sociales aussi bien que des revenus commerciaux.
+
+Le transfert de population peut favoriser de nouveaux besoins de prière publique, mais il ne présuppose pas l'identité religieuse des individus ni une conversion soudaine. Dans le monde grec, un synœcisme peut aussi s'accompagner de traditions civiques, de cultes et de conflits de souveraineté ; ces ressemblances de problèmes ne rendent pas les institutions identiques. La comparaison ne produit de connaissance qu'en maintenant les différences de langue, de théologie et de chronologie.
+
+## XXVII. Philologie : « swahili » n'est pas une inscription sur chaque tesson
+
+Le terme *Swahili*, lié à l'arabe *sawāḥil* (rivages), s'inscrit dans une histoire de contacts et de transformations linguistiques. Son usage comme étiquette moderne d'un ensemble de traditions archéologiques ne prouve pas que tous les habitants du VIIe siècle se désignaient de cette façon. La langue kiswahili, bantoue, possède son histoire propre, qui n'est pas entièrement lisible dans des assemblages céramiques.
+
+Le qualificatif « sassanido-islamique » appliqué à certains objets vient lui aussi de la classification archéologique : il n'énonce ni une citoyenneté ni une confession. Le vocabulaire savant est utile, mais il comporte un risque de réification. Chaque désignation doit être ramenée à son domaine : langue, style matériel, économie ou identité déclarée. Leur assimilation serait un anachronisme.
+
+## XXVIII. Comparer avec la Mésopotamie : le piège des parallèles institutionnels
+
+Des archives mésopotamiennes permettent parfois d'étudier la propriété, le travail et les institutions de sanctuaires, parce que les tablettes comptables conservent les noms et les transactions. Aucun corpus comparable n'est actuellement disponible pour l'économie des perles de Tumbe. Il serait donc abusif d'inventer une administration cultuelle des ateliers sur le modèle d'un temple de l'ancienne Mésopotamie.
+
+La comparaison est néanmoins utile pour formuler une question méthodologique : quelles preuves différencient une production contrôlée institutionnellement d'une production domestique ? En Mésopotamie, la présence d'archives et d'installations attribuables aide à répondre ; à Tumbe, les formes non standardisées des outils et leur dispersion favorisent une autre hypothèse. Les deux dossiers instruisent la même question, sans appartenir à la même évolution.
+
+## XXIX. Comparer avec l'Égypte : technique, rituel et contexte
+
+L'Égypte ancienne fournit de nombreux cas où des matériaux utilisés quotidiennement entrent aussi dans les rites, grâce à des inscriptions, des tombes et des contextes précis. Cette pluralité rappelle qu'une perle peut changer de statut. Elle ne permet pas d'affirmer que les perles de Tumbe étaient des amulettes au sens égyptien. Pour les qualifier ainsi, il faudrait des indices locaux absents du seul compte des meules.
+
+Les chaînes opératoires offrent une comparaison plus sûre : sélectionner une matière, travailler une petite forme, percer, polir, transmettre. Le parallèle concerne des gestes techniques généraux, non une identité de croyances. À Tumbe, c'est l'organisation familiale de l'artisanat et la circulation des produits qui sont documentées ; une cosmologie associée à l'objet reste à découvrir.
+
+## XXX. Iran et Inde : circulations matérielles, non conversions prouvées
+
+Les importations témoignent des liens entre le littoral africain et les zones commerciales de la mer d'Arabie et du golfe. On peut comparer les changements des techniques céramiques entre périodes sassanides et islamiques, mais l'histoire de leurs ateliers ne s'imprime pas directement dans l'appartenance religieuse des consommateurs. Les biens peuvent circuler plusieurs générations et traverser des frontières confessionnelles.
+
+La présence d'un objet fabriqué en Inde, ou dans une région iranienne, ne permet pas davantage de conclure à la diffusion locale d'une pratique hindoue, bouddhique ou zoroastrienne. L'historien doit réunir des témoignages plus discriminants, tels qu'une inscription ou un édifice cultuel, pour poser une identification positive. Les matières sont le terrain des échanges, pas un substitut aux croyances.
+
+## XXXI. Chine et longue distance : l'objet sans son contexte d'origine
+
+Les réseaux de l'océan Indien peuvent transporter des biens de production chinoise à travers plusieurs marchés, parfois sans relation directe entre les artisans et les habitants de la destination finale. Une poterie n'est pas un témoin de la présence d'un marchand chinois dans la maison où elle se trouve. Le problème concerne les étapes de circulation, les réemplois et les pratiques de consommation.
+
+La comparaison avec les monuments de Chwaka ou Kilwa, où des céramiques lointaines sont parfois exposées dans des contextes architecturaux, montre surtout que la signification d'un objet dépend de son usage local. À Tumbe, sans preuve de mise en scène rituelle, il faut s'en tenir aux données d'échange. La diversité matérielle ne doit pas être confondue avec un syncrétisme religieux automatiquement acquis.
+
+## XXXII. Amériques et Afrique : une comparaison de méthodes, non de filiations
+
+Les systèmes de fabrication de petites parures et les échanges de biens ont existé dans de nombreuses sociétés africaines et américaines. Il est possible de comparer la fragmentation du travail, les réseaux de dons et la répartition des objets au sein des ménages. Une ressemblance entre perles de coquillage de deux continents ne prouve ni contact direct ni même signification commune.
+
+La valeur de cette comparaison repose sur l'analyse des dispositifs : qui obtient les matières premières, qui façonne, qui échange, dans quels lieux les objets sont-ils abandonnés ? Les réponses doivent provenir de chaque contexte. Si une enquête mésoaméricaine permet de reconnaître des dépôts rituels, elle ne donne pas une licence pour qualifier rituellement la collection de Tumbe. Le comparatisme utile rend l'inférence plus exigeante.
+
+## XXXIII. Durkheim : solidarité matérielle sans rite observé
+
+Émile Durkheim relie, dans *Les Formes élémentaires de la vie religieuse* (1912), les pratiques collectives aux représentations sociales. À Tumbe, la production distribuée entre maisons et la participation aux échanges incitent à réfléchir aux formes de solidarité et de coopération. Mais il serait erroné de conclure qu'une activité coopérative est religieuse par essence.
+
+La théorie éclaire la manière dont des objets et des gestes peuvent stabiliser des groupes, sans fournir une explication des croyances locales. La cohésion sociale ne suffit pas à identifier le sacré. Elle peut résulter de parenté, d'obligations économiques ou de relations politiques. L'analyse durkheimienne devient féconde lorsqu'elle suggère des questions à tester, et non lorsqu'elle convertit toute assemblée humaine en cérémonie.
+
+## XXXIV. Eliade : l'absence de « hiérophanie » démontrable
+
+La phénoménologie du sacré de Mircea Eliade insiste sur les lieux orientés et les ruptures symboliques. Aucune donnée présentée ici ne permet d'identifier un centre cosmique de Tumbe. Associer spontanément un promontoire côtier à une « hiérophanie » reviendrait à introduire dans les vestiges une signification que rien ne confirme. L'absence d'une architecture religieuse conservée rend ces projections particulièrement fragiles.
+
+Le recours critique à Eliade aide toutefois à définir ce qu'il faudrait observer pour discuter d'un espace marqué : restrictions d'accès, répétitions de dépôts, orientation persistante, témoignages. Le modèle sert à expliciter les attentes du chercheur, non à compléter fictivement les lacunes archéologiques. Il faut pouvoir reconnaître que le site étudié ne répond pas encore à ces critères.
+
+## XXXV. Vernant et Detienne : la leçon de la contextualisation
+
+Jean-Pierre Vernant et Marcel Detienne ont montré, à propos des sociétés grecques, que les pratiques religieuses ne se comprennent qu'au sein d'institutions, de gestes et de formes de représentation déterminés. Leur approche s'oppose à une histoire qui collectionnerait les symboles hors contexte. Pour Tumbe, cette exigence conduit à conserver l'artisanat, les maisons et les circuits de circulation comme données premières, plutôt que d'attribuer une mythologie à des motifs céramiques.
+
+La cuisine sacrificielle grecque décrite par Detienne et Vernant n'a pas d'équivalent assuré à Tumbe. Les différences sont décisives : aucun autel, victime ou calendrier comparable n'est établi. L'application directe d'une théorie du sacrifice serait une confusion entre comparaison intellectuelle et reconstruction historique.
+
+## XXXVI. Dumézil, Nietzsche, Hegel et Girard : modèles à ne pas universaliser
+
+Les comparaisons trifonctionnelles de Georges Dumézil visent prioritairement des traditions indo-européennes ; elles ne fournissent pas une structure démontrée du travail de Tumbe. Hegel ne saurait être utilisé pour décrire l'établissement comme un stade « inférieur » destiné à devenir une ville de pierre. Nietzsche rappelle l'intérêt d'une critique des valeurs imposées aux sociétés anciennes, sans offrir une observation de leurs croyances.
+
+René Girard, enfin, propose une théorie du mécanisme victimaire qui ne peut être projetée sur des ateliers de perles. Ces cadres philosophiques ont une fonction essentiellement négative : mettre à nu la tentation de réduire les sociétés à un seul ressort, qu'il soit hiérarchique, religieux ou sacrificiel. Aucun d'eux ne se substitue à l'inventaire scientifique des vestiges.
+
+## XXXVII. Le danger d'une histoire des origines « à rebours »
+
+Lorsque l'on connaît les mosquées médiévales de Pemba, on peut être tenté d'en chercher nécessairement les prémices dans chaque site plus ancien. Une telle méthode change une conclusion en prémisse : parce que Chwaka fut islamisée, Tumbe aurait dû l'être déjà ; parce que Tumbe commerçait, l'islam serait déjà une institution publique ; parce que des objets venus du golfe sont présents, les fidèles seraient identifiables.
+
+L'histoire rigoureuse procède en sens inverse. Elle décrit d'abord les objets de Tumbe selon leur datation, leur forme et leur provenance. Elle évalue ensuite les indices d'institutions et leurs absences. Enfin, elle compare les évolutions ultérieures sans affirmer que celles-ci étaient contenues en germe dans les premières. Le passé n'est pas une simple préparation de l'avenir.
+
+## XXXVIII. L'hypothèse de la pluralité des traditions
+
+Les habitats du premier millénaire ont pu réunir des individus aux pratiques hétérogènes, mais cette pluralité n'est pas reconstituable à partir de seules céramiques. L'échange n'exige pas l'identité religieuse entre partenaires ; il peut aussi créer des relations entre personnes dont les pratiques diffèrent profondément. La proposition est anthropologiquement raisonnable, tout en restant non spécifique à Tumbe.
+
+Il serait également imprudent d'employer des catégories religieuses contemporaines pour classer les habitants sans sources locales. « Islam », « religion ancestrale » et « syncrétisme » peuvent être utiles dans des contextes où leurs référents sont établis ; à Tumbe, l'usage affirmatif de telles étiquettes dépasserait souvent la preuve. Le titre « Origines du sacré » désigne ici le problème historique de son identification, pas la découverte d'un culte nouveau.
+
+## XXXIX. Réévaluer le rôle du commerce dans la formation du religieux
+
+Le commerce transforme les paysages de possibilités : voyages, rencontres, acquisition de textes, circulation d'objets, enrichissement de certaines familles. Mais chaque conséquence demande une étude particulière. À Tumbe, les fouilles révèlent intensité et variété des échanges sans stratification monumentale prononcée. Les liens commerciaux peuvent donc être établis plus solidement que le système politique ou religieux.
+
+Cette dissociation constitue un résultat scientifique important. Les sociétés ne réagissent pas mécaniquement aux marchés ; elles incorporent les biens et les techniques selon leurs institutions propres. Le sacré peut demeurer peu visible matériellement, être pratiqué dans les maisons ou se transformer à des rythmes différents de ceux du commerce. Sans indices spécifiques, ces possibilités doivent rester au conditionnel.
+
+## XL. Conservation et éthique des restitutions
+
+L'archéologie de Tumbe dépend de la préservation des contextes, y compris ceux de matériaux banals : tessons usés, résidus, déchets de fabrication. Une mise en valeur uniquement monumentale ferait disparaître l'apport scientifique majeur du site. Les collections doivent conserver le numéro de contexte, les conditions de prélèvement et les données de distribution spatiale, faute de quoi une « belle perle » isolée perd beaucoup de sa valeur historique.
+
+Les restitutions destinées au public devraient distinguer les maisons attestées dans leurs principes matériels, les gestes de fabrication inférés et les scènes domestiques hypothétiques. Il ne faut pas inventer une mosquée, un chef sacré ou un sanctuaire pour compléter une image spectaculaire. Les communautés locales doivent participer à la définition des usages patrimoniaux et bénéficier des connaissances produites.
+
+## XLI. Programme de recherche : comment progresser sans affirmer trop tôt ?
+
+Trois familles d'enquêtes seraient particulièrement utiles. Les analyses tracéologiques et expérimentales des *bead grinders* pourraient préciser les matières effectivement travaillées. La pétrographie et les recherches de provenance pourraient affiner les circuits d'approvisionnement en céramiques et en métaux. Une nouvelle cartographie des structures, sépultures éventuelles et dépôts atypiques permettrait de tester la distribution des pratiques à l'échelle du site.
+
+Pour la question religieuse, il faudrait des critères préalablement définis : orientation répétée d'espaces, inscriptions stratigraphiquement datées, contextes funéraires documentés, séquences de dépôts clairement non domestiques. Les résultats négatifs doivent être publiés autant que les découvertes. Une hypothèse devient scientifique par les conditions de sa possible réfutation, non par la grandeur de la civilisation à laquelle on veut la rattacher.
+
+## XLII. Conclusion générale : la preuve négative comme progrès
+
+Tumbe contribue à l'histoire de la côte swahilie par un résultat positif considérable : un réseau commercial ancien peut coexister avec une économie de production principalement domestique et sans monuments révélant une forte centralisation. Il contribue à l'histoire du sacré par une leçon de prudence : ni une perle ni une poterie importée ni un paysage marin ne prouvent une institution religieuse. Les formes locales de croyance demeurent une question ouverte, non un vide à remplir par analogie.
+
+Le dossier appelle ainsi à renverser une hiérarchie des sources. L'absence de mosquées identifiées ne rend pas Tumbe insignifiant ; elle rappelle que l'expérience religieuse des populations anciennes n'est pas toujours monumentalisée, écrite ou conservée. Pour respecter les personnes du passé, l'historien doit distinguer ce qu'il peut établir, ce qu'il peut proposer et ce qu'il doit encore ignorer.
+
+## Sources primaires : matériel et textes cités
+
+1. **Tumbe, objets de terrain et plans de fouille** : publication primaire des observations par Jeffrey B. Fleisher et Adria LaViolette, « The early Swahili trade village of Tumbe, Pemba Island, Tanzania, AD 600–950 », *Antiquity* 87/338 (2013), p. 1151–1168 ; particulièrement les objets de cuivre, de plomb et les meules rainurées décrits vers p. 1158–1160. Les résultats sont cités comme données de fouille publiées, non comme textes religieux médiévaux.
+2. **Tumbe, série d'outils rainurés** : observations et mesures des rainures, variations et distribution dans James L. Flexner, Jeffrey B. Fleisher et Adria LaViolette (2008), p. 161–181. L'interprétation de leur usage pour les perles est une hypothèse technique argumentée.
+3. **Coran** 2:144 ; 5:6 ; 62:9 : textes normatifs islamiques employés exclusivement dans le cadre comparatif, non comme témoignages sur les individus de Tumbe. Consultables par référence de sourate et verset : https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/62/9.
+4. **Corpus matériel régional** : prospections de Pemba rapportées par Fleisher (2010) et LaViolette–Fleisher (2009). Ces publications établissent les données de peuplement, mais ne constituent pas un recensement religieux.
+
+## Bibliographie scientifique et théorique
+
+- Fleisher, Jeffrey B. et Adria LaViolette (2013), « The early Swahili trade village of Tumbe, Pemba Island, Tanzania, AD 600–950 », *Antiquity*, 87/338, p. 1151–1168. DOI : https://doi.org/10.1017/S0003598X00049929.
+- Flexner, James L., Jeffrey B. Fleisher et Adria LaViolette (2008), « Bead grinders and early Swahili household economy: Analysis of an assemblage from Tumbe, Pemba Island, Tanzania, 7th–10th centuries AD », *Journal of African Archaeology*, 6/2, p. 161–181. DOI : https://doi.org/10.3213/1612-1651-10110.
+- LaViolette, Adria et Jeffrey B. Fleisher (2009), « The Urban History of a Rural Place: Swahili Archaeology on Pemba Island, Tanzania, 700–1500 AD », *International Journal of African Historical Studies*, 42/3, p. 433–455. Notice : https://www.jstor.org/stable/40646777.
+- Fleisher, Jeffrey B. (2010), « Swahili Synoecism: Rural Settlements and Town Formation on the Central East African Coast, A.D. 750–1500 », *Journal of Field Archaeology*, 35/3, p. 265–282. DOI : https://doi.org/10.1179/009346910X12707321358919.
+- Fleisher, Jeffrey (2018), « Tumbe, Kimimba and Bandarikuu », dans Stephanie Wynne-Jones et Adria LaViolette (dir.), *The Swahili World*, Routledge, p. 163–168. Notice bibliographique : https://eurekamag.com/research/104/956/104956124.php.
+- Wynne-Jones, Stephanie et Adria LaViolette (dir.) (2018), *The Swahili World*, Routledge. Ouvrage de contextualisation régionale.
+- Nurse, Derek et Thomas Spear (1985), *The Swahili: Reconstructing the History and Language of an African Society, 800–1500*, University of Pennsylvania Press.
+- Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse* ; Eliade, Mircea (1957), *Le Sacré et le Profane* ; Nietzsche, Friedrich (1872), *La Naissance de la tragédie* ; Hegel, G. W. F., *Leçons sur la philosophie de l'histoire* ; Girard, René (1972), *La Violence et le sacré*. Références théoriques employées de façon critique.
+- Detienne, Marcel et Jean-Pierre Vernant (dir.) (1979), *La Cuisine du sacrifice en pays grec*, Gallimard ; Dumézil, Georges (1958), *L'Idéologie tripartie des Indo-Européens*, Latomus. Utilisations comparatives explicitement limitées.
+
+## Tableau des degrés de certitude
+
+**Attesté dans les sources de fouille publiées :** implantation médiévale ancienne de Tumbe ; matériaux importés ; objets de cuivre et de plomb ; très forte concentration d'outils rainurés ; distribution domestique importante de la production ; organisation des échanges sans monumentalité urbaine comparable à certains centres tardifs.
+
+**Interprétations étayées :** utilisation des outils pour la fabrication de perles discoïdales ; participation de la production domestique aux échanges à longue distance ; absence de centralisation artisanale forte dans les assemblages étudiés ; reconfiguration ultérieure des établissements de Pemba.
+
+**Indémontré sur la base du dossier présenté :** mosquée formellement identifiée à Tumbe ; conversion générale de la population ; sanctuaire dédié à une divinité nommée ; dépôt sacrificiel assuré ; institution hiérarchique unique contrôlant les perles ; continuité directe et sans rupture entre les habitants de Tumbe et les mosquées de Chwaka.
+
+**Concordance éditoriale.** L'étude est autonome : Chwaka fait l'objet d'une monographie sur les quatre mosquées (chapitre historique déjà attribué), et Mtambwe Mkuu d'une étude numismatique ; aucun de leurs développements n'est repris ici comme une nouvelle livraison.
