@@ -155,3 +155,13 @@ La plupart des comédies perdues nous parviennent par des citations, des lexique
 
 
 **Suite du cycle :** [Volume XXXIV — *Les Saisons*](volume-034-aristophane-horai.md).
+
+---
+
+### Note éditoriale documentaire — François Lissarrague et le corps comique (7 novembre 2026)
+
+**Référence :** François Lissarrague, *La Cité des satyres. Une anthropologie ludique (Athènes, VIe–Ve siècle avant J.-C.)*, Paris, Éditions de l'EHESS, **2013** ; [fiche de l'INHA](https://agorha.inha.fr/ark:/54721/cd2db663-fb6a-4b0d-bfb4-66a59b6237b0), [présentation éditoriale](https://www.lcdpu.fr/books/AF365136-CC7D-4D60-ABD7-6C434B0FF9FF).
+
+**Apport vérifié.** Lissarrague examine l'imagerie attique des satyres, les représentations des corps hybrides et l'écart iconographique entre comportements satyresques et normes de la cité. Cette approche éclaire des **codes visuels de l'excès corporel** susceptibles d'être comparés avec la culture comique grecque.
+
+**Distinction impérative.** Le drame satyrique, l'iconographie des vases et la comédie ancienne sont des corpus différents. Le livre de Lissarrague n'établit aucune scène, réplique ou représentation particulière de l'*Triphalēs* perdu. Ne pas assimiler une illustration de satyre à un accessoire scénique authentifié de la pièce. Ouvrage de contexte, sans caution personnelle de l'auteur.
