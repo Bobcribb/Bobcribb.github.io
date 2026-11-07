@@ -1227,6 +1227,18 @@
           "path": "chapitres/origines-du-sacre/776-kua-juani-mafia-mosquees-necropoles-urbanisme-chronologie-conservation.md",
           "request_sha256": "d8bf5d11e8db29226bcf8741fdcf07608782a0518b85b38ef2b19ce9c02b580d",
           "initial_source_sha256": "770c09237ee0b0657bef447adcb98626d9885ef0cb5dc74e813e94fd6c7c3b35"
+        },
+        "a0d46f3b-29bc-4a8e-964d-9e75a26b80ac": {
+          "number": 777,
+          "path": "chapitres/origines-du-sacre/777-tongoni-mtangata-mosquee-tombes-piliers-shirazi-memoire-maritime.md",
+          "request_sha256": "6fc7795657ba486a3bc1f5cd380c61b57bcba6449263b409b117ff014543f52c",
+          "initial_source_sha256": "116a3dfd05865caeef3b784e5d581ff54cad11bd56f2420bef9d13982fb07c8a"
+        },
+        "d713ce29-9a63-4f25-b751-f7c6ab928e21": {
+          "number": 778,
+          "path": "chapitres/origines-du-sacre/778-kunduchi-dar-es-salaam-mosquee-tombes-piliers-porcelaines-memoire.md",
+          "request_sha256": "9b9beaddc7507a304b168391d7e150b6cb84b4218eda03d2c5ced7b105494657",
+          "initial_source_sha256": "1ba2423e0433f94dfcdaa4860b6c348ad22503b140ded77ae979d90c70ca8b5e"
         }
       }
     },
@@ -2572,6 +2584,12 @@
           "path": "chapitres/comedies/volume-142-anaxandrides-gerontomania-vieillesse-desir-hetaires-rhadamanthe-palamedes-rhetorique.md",
           "request_sha256": "5a6fcb0c4145f59414a4b8c5cc3ba54b0f31189cd236aa3d7af52346646b82ad",
           "initial_source_sha256": "efa590630661dd5bc61b5e20303f1c5e82cac0d6678ca05a34ad284d2d073ada"
+        },
+        "c8b2e6f4-5d17-4b78-9d40-6071af2c93e1": {
+          "number": 143,
+          "path": "chapitres/comedies/volume-143-euboulos-semele-dionysos-trois-crateres-hybris-symposion-mesure.md",
+          "request_sha256": "973a8e69a20293c20fcea2e899fa9662680993ca14f2e54590d99efbd304482f",
+          "initial_source_sha256": "a82a46770b0e42eee2588d54a76cb02f7290e399c69a0b757bdcf889405d8299"
         }
       }
     },
@@ -4393,6 +4411,12 @@
           "path": "chapitres/comparatif/volume-cccxxxviii-paix-corde-traction-cites-grecques-georgoi-coordination-panhellenique-421.md",
           "request_sha256": "14aff4d44dec07569ea67d47a2558fabe23d16b12a368171f8d8b84f775df06b",
           "initial_source_sha256": "c0b1a6e24cade14e0ffaa219855279679f9850936a503446120a14f61a4ae5e0"
+        },
+        "c5898d64-125e-4c1d-98c1-0b2dfe70b4aa": {
+          "number": 339,
+          "path": "chapitres/comparatif/volume-cccxxxix-cavaliers-rajeunir-demos-marmite-marathon-propylees-souverainete-exodos-424.md",
+          "request_sha256": "ae63a8bb2b26564c53a217a44771f03894b74fc039d0dbfc94d713b2492a284e",
+          "initial_source_sha256": "71c79ed26b117da8324829c1c21d7e7717e151a5e9f3f6bfb0d31fed34d65bc2"
         }
       }
     }
