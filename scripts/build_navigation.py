@@ -15,18 +15,13 @@ OUT = Path("_site")
 GOLD="BIBLIOTHÈQUE UNIVERSITAIRE · MYTHOS"
 NAV = '''<nav class="site-nav" aria-label="Navigation principale">
 <a href="/mythologie-grecque/" class="nav-greece">Encyclopédie grecque</a>
-<a href="/dieux-et-deesses/">Dieux</a>
-<a href="/heros-et-heroines/">Héros</a>
-<a href="/recits-mythologiques/">Récits</a>
-<a href="/mythologies/">Mythologies</a>
+<a href="/theatre/">Théâtre grec</a>
 <a href="/mythologie-comparee/">Mythologie comparée</a>
-<a href="/theatre/">Théâtre</a>
-<a href="/reconstitutions-photorealistes.html">Reconstitutions 3D</a>
-<a href="/reconstitutions-antiquite/">Atlas des sites antiques</a>
 <a href="/origines-du-sacre/">Origines du sacré</a>
 <a href="/philosophie/">Philosophie</a>
 <a href="/civilisations/">Civilisations</a>
-<a href="/recherche/">Recherche</a>
+<a href="/reconstitutions-photorealistes.html">Reconstitutions 3D</a>
+<a href="/bibliotheque/">Bibliothèque</a>
 </nav>'''
 
 CONTINENTS = {

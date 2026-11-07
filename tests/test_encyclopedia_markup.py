@@ -37,8 +37,11 @@ class EncyclopediaMarkupTests(unittest.TestCase):
             self.assertEqual(len(toc.select(":scope > li")), 6)
             self.assertEqual(len(doc.select("section.portal-section[id^=collection-]")), 6)
             self.assertEqual(len(doc.select(".chapter-list > li[data-public-id]")), len(ENTRIES))
+            # L'en-tête peut relier une collection (notamment /bibliotheque/).
+            # L'unicité visée est celle des entrées du registre, pas de tous
+            # les liens de navigation pointant vers la même page.
             for entry in ENTRIES:
-                self.assertEqual(len(doc.select('a[href="' + entry["url"] + '"]')), 1)
+                self.assertEqual(len(doc.select('.chapter-list a[href="' + entry["url"] + '"]')), 1)
             ids = [x["data-public-id"] for x in doc.select(".chapter-list > li")]
             self.assertEqual(len(ids), len(set(ids)))
             self.assertTrue(all(identifier.startswith("RG-") for identifier in ids))

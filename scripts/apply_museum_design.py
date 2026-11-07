@@ -14,8 +14,33 @@ VERSION = '20261104'
 MEDIA = '/media/2026/10/'
 # One public entrance for the Greek encyclopedia. Historical readers remain
 # available, but must never become a second collection in either shared menu.
-NAV = [('/mythologie-grecque/','Encyclopédie grecque'),('/dieux-et-deesses/','Dieux'),('/heros-et-heroines/','Héros'),('/recits-mythologiques/','Récits'),('/theatre/','Théâtre'),('/origines-du-sacre/','Origines du sacré'),('/philosophie/','Philosophie'),('/reconstitutions-photorealistes.html','Reconstitutions 3D')]
-MORE = [('/','Accueil'),*NAV,('/parcours/','Parcours de lecture'),('/catalogue-integral/','Catalogue intégral'),('/methode-editoriale/','Sources et méthode'),('/mythologie-comparee/','Mythologie comparée'),('/mythologies/','Mythologies du monde'),('/civilisations/','Civilisations'),('/reconstitutions-antiquite/','Atlas des sites antiques'),('/rubriques/','Tous les dossiers'),('/recherche/','Recherche')]
+# Huit familles éditoriales de premier niveau ; les entrées Dieux, Héros et
+# Récits demeurent disponibles dans le menu développé et leurs portails.
+NAV = [
+ ('/mythologie-grecque/', 'Encyclopédie grecque'),
+ ('/theatre/', 'Théâtre grec'),
+ ('/mythologie-comparee/', 'Mythologie comparée'),
+ ('/origines-du-sacre/', 'Origines du sacré'),
+ ('/philosophie/', 'Philosophie'),
+ ('/civilisations/', 'Civilisations'),
+ ('/reconstitutions-photorealistes.html', 'Reconstitutions 3D'),
+ ('/bibliotheque/', 'Bibliothèque'),
+]
+MORE = [
+ ('/', 'Accueil'),
+ *NAV,
+ ('/dieux-et-deesses/', 'Dieux et déesses'),
+ ('/heros-et-heroines/', 'Héros et héroïnes'),
+ ('/recits-mythologiques/', 'Récits mythologiques'),
+ ('/mythologies/', 'Mythologies du monde'),
+ ('/bibliotheque-sciences-medecine-antiques/', 'Sciences antiques'),
+ ('/parcours/', 'Parcours de lecture'),
+ ('/catalogue-integral/', 'Catalogue intégral'),
+ ('/methode-editoriale/', 'Sources et méthode'),
+ ('/reconstitutions-antiquite/', 'Atlas des sites antiques'),
+ ('/rubriques/', 'Tous les dossiers'),
+ ('/recherche/', 'Recherche'),
+]
 PILLAR = '<svg viewBox="0 0 36 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 5h28M5 10h26M8 14h20M9 40h18M5 44h26M12 16v22M18 16v22M24 16v22M7 10C0 10 1 1 7 2h22c6-1 7 8 0 8M7 5c-3 0-3 3 0 3m22-3c3 0 3 3 0 3"/></svg>'
 SEARCH = '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></svg>'
 # Decorative collection covers are approved for these exact portals only.
