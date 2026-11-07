@@ -226,3 +226,14 @@ Le fragment culinaire, la question du chœur et le jugement de Platônios ne rec
 **Navigation de la série :** [Volume VII — Cratinos, *Ploutoi*](/chapitres/comedies/volume-007-cratinos-ploutoi/) · [Volume VI — Cratinos, *Némésis*](/chapitres/comedies/volume-006-cratinos-nemesis/) · [Portail Théâtre grec](/theatre/) · [Bibliothèque historique des comédies perdues](/comedie-grecque-aristophane-menandre-etudes/comedies-perdues-cratinos-eupolis-philemon-fragments/).
 
 *Fin du volume VIII. Les volumes I–VII, les pages historiques et les autres séries MYTHOS demeurent inchangés.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 11
+
+**Fragments et limites de restitution.** La comédie perdue de Cratinos, *Odysseis* (*Les Ulysse*), n'est connue que par des **fragments et témoignages**. Les numéros **fr. 147, 150 et 151** de la numérotation des fragments couramment citée dans la littérature récente sont à confronter à l'édition de **Rudolf Kassel et Colin Austin, *Poetae Comici Graeci* (PCG)**. Le **fr. 147** situe une rencontre insolite d'Ulysse à Paros ; le **fr. 150** évoque la cuisine monstrueuse du Cyclope ; le **fr. 151** sert à discuter l'identité du chœur. L'attribution de chaque réplique à Pénélope, Polyphème ou Ulysse est **conjecturale** si son contexte dramatique n'est pas conservé.
+
+**Travaux consultés ou recensés.** Emmanuela Bakola, *Cratinus and the Art of Comedy*, Oxford University Press, **2009**, DOI [10.1093/acprof:oso/9780199569359.001.0001](https://doi.org/10.1093/acprof:oso/9780199569359.001.0001), [résumé de l'éditeur consulté](https://academic.oup.com/book/284), **ouvrage non intégralement collationné**. Naomi Scott, « Metaphors and Jokes in the Fragments of Cratinus », *Arethusa* **52/3 (2019)**, p. **231–251**, DOI [10.1353/are.2019.0010](https://doi.org/10.1353/are.2019.0010), [notice de l'université de Bristol](https://research-information.bris.ac.uk/en/publications/metaphors-and-jokes-in-the-fragments-of-cratinus), **article non intégralement collationné**.
+
+**Contribution française directement pertinente.** Marie-Madeleine Mactoux, *Pénélope. Légende et mythe*, Besançon, Université de Franche-Comté, **1975**, *Annales littéraires* 175, DOI [10.3406/ista.1975.1784](https://doi.org/10.3406/ista.1975.1784), [texte et notice sur Persée](https://www.persee.fr/doc/ista_0000-0000_1975_mon_175_1). Son examen de la réception comique d'Ulysse rappelle que la présence de Pénélope dans une scène proposée pour *Odysseis* demeure **disputée** ; il ne donne pas un texte complet de la pièce. Toute scène [C] créée par MYTHOS est une composition contemporaine, jamais un fragment de Cratinos.

@@ -133,3 +133,14 @@ Le récit du vœu est attesté ; l'existence historique du vœu initial ne l'est
 **Entrées :** Apollon délien ; Délos ; Thésée ; théorie (*theôria*) ; *theôroi* ; couronnement de la poupe ; pureté (*kathareuein*) ; Socrate ; *Phédon* ; *Criton* ; vœu ; calendrier sacré ; Thucydide ; purification de Délos ; hymne homérique ; navire sacré ; identité du navire.  
 **Chemin :** `chapitres/encyclopedie/chapitre-344-navire-sacre-delos-theorie-athenienne-apollon.md`.  
 **Prochain chapitre proposé :** 345, volume CXXVII — *Apollon Délien, Léto et Artémis : la naissance divine, l'île sacrée et les hymnes homériques*. Vérifier la progression réelle avant création.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 11
+
+**Témoins littéraires localisés.** Platon, *Phédon* **58a–c**, [texte grec édité par John Burnet](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0059.tlg004.perseus-grc2:58/) et [traduction avec précisions lexicales du Center for Hellenic Studies de Harvard](https://chs.harvard.edu/primary-source/plato-phaedo-sb/) : les Athéniens envoient un navire sacré à **Délos** chaque année ; la *theōria* commence par le couronnement de la poupe, et aucune exécution publique n'a lieu avant son retour. Cette règle explique le délai dramatique entre le procès et la mort de Socrate dans le dialogue. Thucydide, *Guerre du Péloponnèse* **III, 104.1–4**, [texte et traduction dans Perseus](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.perseus-eng4/chapter:3.104/), rapporte une **purification de Délos** par Athènes, le transfert des sépultures vers **Rhénée** et une fête pentétérique dans le contexte de la guerre du Péloponnèse.
+
+**Différencier les sources et leurs temporalités.** **Plutarque, *Vie de Thésée* 23** (https://www.theoi.com/Text/PlutarchTheseus.html), écrit bien après l'époque classique sur un navire dont on remplaçait les planches : le texte offre une **tradition de réception et un exemple philosophique d'identité**, pas une mesure archéologique attestant la coque originelle de Thésée. Les récits de *theōria* annuelle, de fête délienne et de navire héroïque ont des fonctions et temporalités distinctes.
+
+**Méthode française.** François de Polignac, « Contextes rituels et interprétation des offrandes en Grèce ancienne », *Annuaire de l'EPHE*, **113 (2004)**, p. **203–205**, [notice et texte sur Persée](https://www.persee.fr/doc/ephe_0000-0002_2004_num_117_113_12347) : rappel méthodologique de la variété des pratiques de sanctuaire, **sans prétendre qu'il analyse spécifiquement le voyage du *Phédon***. Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, est une référence plus générale, non une preuve de l'existence de Thésée.
