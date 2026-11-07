@@ -292,3 +292,12 @@ L'apport de Foucault à MYTHOS ne consiste pas à déclarer que tous les mythes 
 ---
 
 **Continuité de la série :** prochain volume proposé, **LXXIII — Hannah Arendt : action, espace public, liberté et condition humaine**, à confirmer après inspection du dépôt. Les autres séries, WordPress, DNS et abonnements restent inchangés.
+
+
+### Annotation documentaire — revue scientifique, lot 08 (7 novembre 2026)
+
+**Source institutionnelle de première main pour l'histoire de l'enseignement.** Le Collège de France situe les cours de **Michel Foucault, *Le Gouvernement de soi et des autres*** du **5 janvier au 9 mars 1983** ; la présentation du Collège de France, qui **reproduit la quatrième de couverture de l'édition de 2008 avec l'accord du Seuil**, évoque la **parrêsia**, la citoyenneté grecque et la lecture de la **septième lettre de Platon**. [Programme et présentation officielle](https://www.college-de-france.fr/fr/agenda/cours/le-gouvernement-de-soi-et-des-autres). Publication du cours : *Le Gouvernement de soi et des autres. Cours au Collège de France (1982–1983)*, Seuil/Gallimard/EHESS, **24 janvier 2008**, ISBN **9782020658690** (données éditoriales concordantes). Les cours de **1983**, le livre édité en **2008** et le texte antique invoqué forment trois niveaux chronologiques distincts.
+
+**Précaution philosophique et philologique.** Il s'agit de l'analyse foucaldienne de la pratique du dire-vrai, non d'une preuve que les Athéniens de toutes époques partageaient un concept stable de liberté d'expression. L'authenticité de la *Lettre VII* attribuée à Platon est discutée ; l'évocation de cette lettre par le cours ne tranche pas sa paternité. Cette annotation vérifie le calendrier sur le site institutionnel et les sujets par le résumé éditorial reproduit sur ce site ; elle **ne prétend pas** avoir collationné chaque leçon ni sa pagination, et ne transforme pas le Collège de France en évaluateur de MYTHOS.
+
+**Statut :** calendrier de cours et métadonnées de publication contrôlés ; usage des notions antiques et interprétation philosophique soumis à discussion.

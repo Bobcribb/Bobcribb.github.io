@@ -178,3 +178,11 @@ L'application reste philosophique : Nietzsche n'étudie ni JHU T061 ni les papyr
 - **[R7] G. W. F. Hegel**, *Principes de la philosophie du droit*, 1821.
 
 **Continuité thématique :** après les remises royales, les créances sacrées et leurs garanties, ce dossier analyse le moment inverse : la disparition légitime du droit de réclamer.
+
+### Annotation documentaire — revue scientifique, lot 08 (7 novembre 2026)
+
+**Tablette et lignes vérifiées.** Zsombor J. Földi et Ronan J. Head, « Two Tablets from the Johns Hopkins University Collection », *Cuneiform Digital Library Bulletin* **2014:4**, **30 novembre 2014**, [édition avec translittération](https://cdli.earth/articles/cdlb/2014-4), analysent la tablette **JHU T061**, quittance de **10 gur d'orge** dressée à Larsa, sous Samsu-ilūna, **an 3, mois VI, jour 22**. Le recto, lignes 1–9, documente un prêt de dix *gur* d'orge au quai de Babylone puis son remboursement au quai de Larsa ; le **verso, lignes 1–3** contient **ka-ni-ik-šu / i-ma-ar-ma / i-ḫe-ep-pe₂**, soit l'engagement de briser le document scellé s'il réapparaît. Le verso, lignes 4–6, énumère des témoins. L'édition rapproche le formulaire de **TS 54**, qui prévoit également l'annulation d'un titre susceptible de réapparaître.
+
+**Portée juridique.** Le remboursement attesté dans cette quittance n'est pas une abolition générale du crédit ni une preuve que tous les contrats étaient matériellement brisés. Une quittance préserve précisément la possibilité de contester une réclamation ultérieure.
+
+**Assyriologie française.** Dominique Charpin, *Writing, Law, and Kingship in Old Babylonian Mesopotamia* (traduction anglaise par Jane Marie Todd), University of Chicago Press, **2010**, chapitre « Old Babylonian Law: Gesture, Speech, and Writing », DOI du volume [10.7208/chicago/9780226101590.001.0001](https://doi.org/10.7208/chicago/9780226101590.001.0001), [sommaire universitaire](https://academic.oup.com/chicago-scholarship-online/book/15948/chapter-abstract/170871434) : cadre de diplomatique, non commentaire de la tablette JHU T061. **Statut :** passage cunéiforme et formule de destruction conditionnelle du titre antérieur consultés ; variantes juridiques à collationner avec les corpus complets.

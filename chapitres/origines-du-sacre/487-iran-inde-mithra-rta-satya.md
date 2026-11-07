@@ -26,3 +26,12 @@ La question comparative n'est pas « les Iraniens et les Indiens avaient-ils le 
 **Attesté :** hymnes avestiques et védiques, représentations de la rupture des engagements, prescriptions textuelles tardives. **Débattu :** reconstruction des systèmes indo-iraniens et datation des strates. **Hypothèse :** dualité fonctionnelle de la souveraineté chez Dumézil.
 **Sources primaires :** *Mihr Yašt* (*Yašt* 10), 1-2 et 17-24; *Rig-Veda* III, 59, VII, 86 et VII, 89; *Manusmṛti* VIII.
 **Études :** [*Encyclopaedia Iranica*, « Mihr Yašt »](https://www.iranicaonline.org/articles/mihr-yasht/); Stephanie W. Jamison et Joel P. Brereton, *The Rigveda* (2014); Georges Dumézil, *Mitra-Varuna* (1940); Patrick Olivelle, *Manu's Code of Law* (2005).
+
+
+### Annotation documentaire — revue scientifique, lot 08 (7 novembre 2026)
+
+**Référence avestique contrôlée.** Almut Hintze, « Mihr Yašt », *Encyclopaedia Iranica*, publié le **1er octobre 2014**, actualisé le **24 août 2015**, [notice analytique et répartition en 35 *karde*](https://www.iranicaonline.org/articles/mihr-yasht/). Le *Mihr Yašt* (*Yašt* **10**) présente aux **strophes 1–3** la vénération de Miθra (1), l'interdiction de rompre un contrat même avec une personne trompeuse (2) et la récompense de la fidélité (3). Les **strophes 17–21** traitent des sanctions contre les trompeurs ; **22–24** associent protections des fidèles et peines des parjures, selon l'analyse de Hintze. Le rapprochement avec le **Rig-Veda III, 59**, hymne dédié à Mitra, est explicitement mentionné dans l'article, ainsi que la paire Mitra–Varuṇa. Le texte avestique et le texte védique ne sont **pas interchangeables** : ni vocabulaires, ni chronologies de transmission, ni dispositifs religieux n'y sont identiques.
+
+**Lecture française, deux niveaux.** Georges Dumézil, *Mitra-Varuna* (**1940**), propose un modèle comparatif de la souveraineté qui appelle discussion, pas une traduction des hymnes. Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Fayard, **1996**, est une synthèse d'histoire achéménide : elle ne prouve pas, à elle seule, l'identité des usages du serment chez les Perses impériaux et dans le *Mihr Yašt*. La page d'Iranica est consultée ; éditions critiques complètes des deux langues non collationnées.
+
+**Statut :** passages et thème contractuel documentés dans la notice ; rapprochements étymologiques à vérifier dans les éditions linguistiques ; reconstruction d'une doctrine indo-iranienne unique et continuité jusqu'aux institutions impériales hypothétiques.
