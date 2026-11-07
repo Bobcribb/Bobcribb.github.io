@@ -54,3 +54,15 @@ CLXXXIII distingue [D] document, [I] inférence, [H] hypothèse et [P] lecture p
 Les introductions originales qualifiant CLXXXVII d’« inédite » ou CLXXXIX d’« autonome », ainsi que les mentions anciennes d’une attribution ou d’une publication encore à venir, sont conservées comme traces de la rédaction initiale. **La notice présente fixe leur statut éditorial actuel : compléments de MC-025, numéros canoniques 187 et 189 inchangés.** Ces formulations anciennes ne valent plus annonce d’une nouvelle livraison indépendante. Aucun passage scientifique ni appareil bibliographique n’est supprimé.
 
 [Retour au portail de mythologie comparée](/mythologie-comparee/) · [Sommaire canonique du cycle](/collections-numerotees/#numerotation-comparatif) · [Dossier précédent MC-024 : Amon, Rê et Aton](/chapitres/comparatif/volume-clxxxi-amon-re-aton-akhenaton-unite-divine-pouvoir-royal/)
+
+---
+
+## Note bibliographique documentaire — Pascal Vernus et les sagesses égyptiennes (7 novembre 2026)
+
+Le dossier historique **MC-025** possède une référence principale (volume CLXXXIII, 183) et deux compléments (CLXXXVII/187 et CLXXXIX/189), dont les textes sont protégés et conservés sans réécriture. La présente note figure **dans la concordance éditoriale**, non dans les trois manuscrits.
+
+**Édition française de contrôle :** Pascal Vernus, *Sagesses de l'Égypte pharaonique*, Paris, Imprimerie nationale, **2001** ; édition revue et augmentée, Arles, Actes Sud, **2011**. Les données d'édition sont recensées dans la [bibliographie de l'École pratique des hautes études](https://prosopo.ephe.psl.eu/node/465) et la [notice de l'édition initiale](https://books.google.com/books?id=JTqrvKYicXYC). L'ouvrage s'appuie sur une démarche philologique et codicologique pour présenter les textes sapientiaux, notamment des traditions d'enseignements et préceptes moraux.
+
+**Emploi documentaire ciblé :** pour les sections de MC-025 consacrées à Ptahhotep, au papyrus Prisse et aux genres de la « sagesse », utiliser Vernus comme point de contrôle des **témoins, des traductions et des contextes littéraires**, après consultation des passages précis de son édition. La qualification d'un conseil comme « justice », « ordre », « norme sociale » ou « Maât » doit demeurer argumentée sur le texte égyptien et le contexte ; un catalogue bibliographique ne valide pas une lecture particulière.
+
+**Réserve :** ni les informations de l'EPHE ni le titre du livre ne permettent d'attribuer à Vernus une approbation de MYTHOS ou une interprétation précise des passages non collationnés. Les trois numéros canoniques et leurs archives restent intacts.
