@@ -70,6 +70,9 @@ HERO_HOME = {
     'orphee': ('heros', 'Orphée et les passages vers l’au-delà'),
 }
 CHAPTER_RULES = [
+    # Daphnis de Sicile : héros musical distinct de Daphné et du roman de Longus.
+    # Le numéro est exclusivement attribué par la file éditoriale GitHub Actions.
+    (r'^daphnis\b', 'heros', 'Daphnis — Sicile, Nymphes et chant bucolique'),
     # Dossier monographique de Polybotès : mythe de naissance de Nisyros,
     # sans numéro préassigné et sans confusion avec les autres Gigantomachies.
     (r'^polybotes\b', 'cosmogonies', 'Gigantomachie — Polybotès, Poséidon et Nisyros'),
