@@ -1,7 +1,7 @@
 """Contrôle des liens thématiques vers la bibliographie scientifique française MYTHOS.
 
-Contrôle uniquement les liens ajoutés : ne touche ni aux manuscrits canoniques
-ni aux anciennes références.
+Contrôle les 50 ancres scientifiques et les renvois thématiques sans modifier
+les manuscrits canoniques ni les références antérieures.
 """
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -12,10 +12,10 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 BIBLIOGRAPHY = ROOT / "bibliographie" / "index.html"
 SOURCES = {
-    "hellenistes/index.html": 7,
-    "bibliotheque-mesopotamie/index.html": 3,
-    "bibliotheque-egypte-ancienne/index.html": 4,
-    "bibliotheque-perse-iran-ancien/index.html": 4,
+    "hellenistes/index.html": 20,
+    "bibliotheque-mesopotamie/index.html": 8,
+    "bibliotheque-egypte-ancienne/index.html": 12,
+    "bibliotheque-perse-iran-ancien/index.html": 11,
 }
 
 
@@ -32,7 +32,7 @@ class FrenchScholarCrosslinksTests(unittest.TestCase):
     def test_index_lists_unique_targeted_studies(self):
         self.assertIsNotNone(self.index)
         links = self.index.select('a[href^="#"]')
-        self.assertEqual(len(links), 21)
+        self.assertEqual(len(links), 50)
         targets = [link["href"][1:] for link in links]
         self.assertEqual(len(targets), len(set(targets)))
         for target in targets:
