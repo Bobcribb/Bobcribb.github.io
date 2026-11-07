@@ -277,3 +277,12 @@ Pour les collections du Met, identifier individuellement les fichiers couverts p
 [P] Le sceau articule une présence et une distance : on agit au nom d'un pouvoir absent, à partir d'une marque dont le rôle est d'être reconnue. Mais reconnaître n'est pas croire, et authentifier n'est pas justifier. Le sacré commence, dans certaines configurations, quand la représentation d'un dieu, la protection attendue ou le choix divin s'ajoutent à la procédure ; il ne remplace jamais l'analyse de la procédure.
 
 **Dossier critique clos pour cette livraison.** La cote historique **MC-093** appartient à la série de mythologie comparée. Le numéro canonique 286 et le volume CCLXXXVI sont attribués exclusivement lors de la transaction éditoriale du dépôt, sans annonce préalable de leur publication publique.
+
+
+### Annotation documentaire — revue scientifique, lot 08 (7 novembre 2026)
+
+**Témoin matériel : le sceau d'Adda.** La Cuneiform Digital Library Initiative identifie le sceau-cylindre **CDLI P458063**, **S005353**, conservé au **British Museum, BM 089115** : roche verte, **39 × 25,5 mm**, période vieux-akkadienne (vers **2340–2200 av. J.-C.**). [Fiche, métadonnées et translittération CDLI](https://cdli.earth/artifacts/458063). Son inscription donne, sur la surface a, lignes **1–2**, **ad-da / dub-sar** (« Adda, scribe »). La provenance **Sippar-Yahrurum** est signalée **incertaine** dans la fiche ; la description de plusieurs divinités figurées n'en fait pas un document de théologie systématique.
+
+**Interprétation comparée.** Un même objet peut servir à identifier une personne, matérialiser une autorité et convoquer une iconographie divine ; il ne démontre ni une « religion du sceau » homogène, ni un transfert assuré vers toutes les marques d'autorité de Perse ou des textes bibliques. Pour le contexte documentaire, voir Dominique Charpin, *Writing, Law, and Kingship in Old Babylonian Mesopotamia* (**2010**), DOI [10.7208/chicago/9780226101590.001.0001](https://doi.org/10.7208/chicago/9780226101590.001.0001), et Jean Bottéro, *Mésopotamie : l'écriture, la raison et les dieux* (**1987**), **bibliographies de cadrage seulement**. Ne pas attribuer à Charpin ou Bottéro un commentaire spécifique du sceau sans passage.
+
+**Statut :** objet, inventaires et inscription contrôlés ; statut social d'Adda au-delà du titre de scribe, fonction juridique précise de ce sceau et chaînes de transmission comparée non établis. Aucun visuel du British Museum n'est reproduit.
