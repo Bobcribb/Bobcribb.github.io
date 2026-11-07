@@ -1203,6 +1203,12 @@
           "path": "chapitres/origines-du-sacre/772-nunge-bagamoyo-sel-plain-ware-echanges-interieur-pouvoir-sacre-limites.md",
           "request_sha256": "0912ce0d8045f70aee055b86201635bd1f593f046a74a02be6222850add7cac8",
           "initial_source_sha256": "6758c323df945e4bbd8e8e9ae831adcd0c33ce16dc4f71fddaa741aaa95d1bee"
+        },
+        "d1a6d895-246b-4c34-a654-3ab64dfdb065": {
+          "number": 773,
+          "path": "chapitres/origines-du-sacre/773-tumbe-pemba-village-commercial-perles-coquillages-sacralite-limites-archeologiques.md",
+          "request_sha256": "831365b4a20f5757035dc46eee9c9bf1ea5f874f02b7bd5a38cb10dec85c31cd",
+          "initial_source_sha256": "16d2d2fa019313786b81da61658a986eda298175a9b05734120192f6cf4d2db8"
         }
       }
     },
