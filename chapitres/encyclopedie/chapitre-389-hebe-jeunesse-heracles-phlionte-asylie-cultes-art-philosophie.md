@@ -291,3 +291,11 @@ La déesse Hébé révèle ainsi une contradiction productive de la pensée grec
 ---
 
 **Note éditoriale MYTHOS.** Cette étude appartient à la collection encyclopedie. Elle ne réserve aucun numéro par elle-même ; son identifiant final n'est reconnu qu'après reçu d'attribution GitHub Actions. Les autres collections conservent leurs séries propres. Les références scientifiques et les textes publics ne doivent pas être réduits lors de la génération du site.
+
+### Annotation scientifique documentaire — 7 novembre 2026 (lot 05)
+
+**Témoin antique précisément localisé [attesté pour le récit de Pausanias].** Pausanias, *Description de la Grèce* **II, 13, 3–4** : à **Phlionte**, le sanctuaire des cyprès vénère une déesse localement appelée anciennement **Ganymèda**, puis **Hébé** ; le récit précise l'accueil des suppliants, l'offrande de chaînes par des captifs libérés, la fête dite **« coupeurs de lierre »**, et l'**absence de statue cultuelle**, exposée ou secrète. [Texte grec transmis et traduction anglaise consultable](https://www.theoi.com/Text/Pausanias2A.html). Les pratiques sont **rapportées par un auteur du IIe siècle de notre ère** ; ce témoignage ne suffit pas à établir leur continuité exacte à l'époque classique.
+
+**Vérification négative [prudence iconographique].** On ne peut tirer de cette description une reconstitution figurée d'une statue d'Hébé **dans ce sanctuaire particulier** : Pausanias affirme précisément qu'il n'en connaît aucune. Une éventuelle scène de l'apothéose d'Héraclès ou un objet consacré à Hébé ailleurs ne sont pas automatiquement des témoins de Phlionte.
+
+**Cadre français [ouvrage à consulter plus finement].** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* (édition La Découverte, 1990), est une bibliographie de méthode sur les relations entre représentations, normes et institutions ; [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb35497256g). Sa notice éditoriale n'est pas une validation de l'analyse de la fête locale. Aucun chapitre précis de Vernant n'est ici invoqué pour établir une coutume phliasienne.
