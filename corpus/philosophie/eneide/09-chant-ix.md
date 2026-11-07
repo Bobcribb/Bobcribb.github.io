@@ -64,4 +64,25 @@ Turnus, entré dans le camp, déploie une puissance extraordinaire. Pourtant, so
 
 Le chant IX ne célèbre donc pas simplement la bravoure des absents d’Énée. Il étudie les relations entre initiative, loyauté, discipline et visibilité. L’amitié peut pousser au sacrifice ; l’honneur peut détourner de la mission ; la poésie peut rendre immortel sans réparer. Ces distinctions permettent d’aimer les personnages sans transformer leur beauté en absolution générale.
 
+
+## « Dine hunc ardorem » : l’amitié et la recherche d’un nom durable (IX, 176–313)
+
+La conversation entre Nisus et Euryale débute par une question qui suspend le jugement : les dieux inspirent-ils cette ardeur, ou chacun transforme-t-il son désir impérieux en puissance divine ? La formule de IX, 184–185 n’explique pas la conduite des jeunes hommes par une cause unique. Elle place au contraire l’impulsion à la frontière de la vocation, de l’ambition et de l’illusion. L’épisode ne peut être réduit à une histoire où des amis auraient reçu une mission surnaturelle dont la légitimité serait déjà acquise.
+
+Nisus veut profiter de l’absence d’Énée pour porter des nouvelles et chercher le chef. La nécessité militaire donne un objet au projet, mais les deux compagnons poursuivent aussi une gloire que la reconnaissance publique pourrait garantir. Euryale hésite à laisser son ami partir seul ; Nisus s’inquiète du sort de la mère d’Euryale. L’action se définit donc par trois fidélités qui ne convergent pas automatiquement : secours au groupe, attachement à l’ami, devoir envers les proches. Le langage de l’héroïsme rend ces obligations admirables ; il peut aussi masquer leur incompatibilité pratique.
+
+La délibération des chefs troyens autorise l’expédition et promet des récompenses. Cette approbation collective ne garantit pourtant ni sa prudence ni ses résultats. Virgile montre que la décision institutionnelle et l’énergie individuelle ne suffisent pas à faire d’un pari risqué une opération mesurée. La distinction rappelle celle du chant V : les prix décernés après une compétition et les faveurs promises avant une mission distribuent de l’honneur, mais ne résolvent pas la question de ce que valent les actes quand leurs conséquences dépassent l’intention.
+
+Une comparaison avec la Dolonie du chant X de l’Iliade aide à préciser l’écart. Ulysse et Diomède accomplissent une sortie nocturne où le renseignement et la mise à mort se mêlent ; Virgile concentre davantage le poids du récit sur la jeunesse, l’affection et la fragilité d’une renommée posthume. Il serait erroné de réduire Nisus et Euryale à des doubles passifs des héros homériques : leur histoire explore la capacité d’une amitié à se sacrifier elle-même lorsqu’elle cherche à devenir impérissable.
+
+## La mère d’Euryale et la limite morale de la gloire poétique (IX, 367–502)
+
+Les trophées prélevés pendant l’incursion nocturne compromettent la fuite. Le casque d’Euryale renvoie la lumière et expose les fugitifs aux cavaliers latins ; ce qui devait manifester la victoire devient indice permettant la poursuite. L’objet n’est pas un simple accessoire dramatique. Il matérialise le moment où le désir d’une renommée visible se retourne contre l’efficacité d’une mission. Nisus, qui peut un temps échapper à l’ennemi, revient au risque de sa vie lorsque son compagnon est capturé.
+
+Avant même que la mère d’Euryale paraisse, la défaite oppose l’extrême puissance de l’attachement à son incapacité de sauver. Nisus tente de déplacer sur lui la responsabilité de l’expédition, mais ses paroles ne suffisent pas à convaincre les adversaires. Le récit refuse l’idée que le courage moral ou l’amour d’un autre maîtriserait toutes les conséquences de la guerre. Les deux morts peuvent être admirés sans que l’on traite leur action comme une réussite stratégique.
+
+Le poète promet de conserver les noms des amis aussi longtemps que perdurera la puissance romaine (IX, 446–449). Cette immortalité littéraire affirme la valeur de leur relation dans le temps collectif, mais la plainte de la mère introduit aussitôt une objection irréductible : la gloire ne rend pas un fils à celle qui l’a perdu. Elle demande à parler du corps, du deuil et de l’impossibilité des derniers devoirs. La séquence fait passer le lecteur de la mémoire civique à une parole qui mesure ce que cette mémoire n’apaise pas.
+
+Ce contrepoint interdit de lire la scène comme une simple célébration du sacrifice militaire. La voix maternelle ne démontre pas que toute guerre serait illégitime, et la promesse du poète ne devient pas mensongère parce qu’elle ne console pas. Virgile laisse coexister deux vérités incommensurables : une existence peut recevoir une forme durable dans la mémoire de la cité, tandis que l’absence de l’être aimé demeure définitive pour un proche. Le poème n’autorise pas à échanger la seconde contre la première.
+
 Références : Énéide IX, 1–175 ; 176–313 ; 314–366 ; 367–449 ; 450–502 ; 590–671 ; 672–818. Passages centraux : IX, 184–185, origine de l’ardeur ; IX, 446–449, promesse de mémoire ; IX, 473–497, plainte de la mère. Comparaison : Iliade X, expédition nocturne de Diomède et d’Ulysse.
