@@ -75,7 +75,8 @@ class HatraCivilisationsTests(TestCase):
         self.assertNotIn(f'href="{URL}"', built["civilisations/asie"])
 
     def test_reference_links_are_specific(self):
-        hrefs = [node["href"] for node in self.soup.select("#sources-et-bibliographie a[href]")]
+        bibliographie = self.soup.select_one("#sources-et-bibliographie").find_parent("section")
+        hrefs = [node["href"] for node in bibliographie.select("a[href]")]
         self.assertGreaterEqual(len(hrefs), 12)
         self.assertTrue(any("persee.fr" in x for x in hrefs))
         self.assertTrue(any("whc.unesco.org" in x for x in hrefs))
