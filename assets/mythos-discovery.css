@@ -121,3 +121,53 @@ body.mythos-design .r3d-science h2[id^="lecture-section-"]:target {
     scroll-margin-top: 6.5rem;
   }
 }
+
+/* Navigation réciproque : retour au sommaire depuis chaque notice 3D.
+   Aucun menu ou texte incrusté dans les images. */
+body.mythos-design #sommaire-reconstitutions{
+  scroll-margin-top:clamp(5rem,12vh,7rem);
+}
+body.mythos-design #sommaire-reconstitutions:target{
+  outline:2px solid #e9c791;
+  outline-offset:3px;
+}
+body.mythos-design .r3d-card .mythos-gallery-backtoc{
+  display:flex;
+  justify-content:flex-end;
+  margin:.6rem 1.1rem 1.25rem;
+}
+body.mythos-design .r3d-card .mythos-gallery-backtoc a{
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
+  padding:.45rem .8rem;
+  border:1px solid #8f744b;
+  border-radius:3px;
+  color:#efd2a0!important;
+  background:#172123;
+  font:600 14px/1.5 system-ui,sans-serif;
+  text-decoration:none;
+  overflow-wrap:anywhere;
+}
+body.mythos-design .r3d-card .mythos-gallery-backtoc a:hover{
+  background:#283537;
+  border-color:#ddbb80;
+}
+body.mythos-design .r3d-card .mythos-gallery-backtoc a:focus-visible{
+  outline:3px solid #f0d096;
+  outline-offset:3px;
+}
+@media(max-width:700px){
+  body.mythos-design .r3d-card .mythos-gallery-backtoc{
+    justify-content:stretch;
+    margin:.4rem .9rem 1rem;
+  }
+  body.mythos-design .r3d-card .mythos-gallery-backtoc a{
+    width:100%;
+    justify-content:center;
+    text-align:center;
+  }
+}
+@media print{
+  body.mythos-design .r3d-card .mythos-gallery-backtoc{display:none!important}
+}
