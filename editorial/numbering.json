@@ -1497,6 +1497,12 @@
           "path": "chapitres/origines-du-sacre/821-pacopampa-cajamarca-tombes-elitaires-corps-pigments-pouvoir-rituel.md",
           "request_sha256": "afdc5917394904955aadb549059225229f429c866d218ad4bc8446b99afdb259",
           "initial_source_sha256": "aa89851dbcceed7713de31de7f2ceb97aa117adfc26f3c76f64f7516fd5c2176"
+        },
+        "e74fa6d3-6e3b-43c2-98af-202611071620": {
+          "number": 822,
+          "path": "chapitres/origines-du-sacre/822-kuntur-wasi-or-funeraire-reptiles-aquatiques-refondation-temple.md",
+          "request_sha256": "97b9956e92574e5bf2f8ccd7216e09aea38782426d67695679a0ad76bb47e865",
+          "initial_source_sha256": "c39c80ec21dba2d12a42d49433d81842ee13f2f9aa16bdc71a742429070d7d13"
         }
       }
     },
@@ -4993,6 +4999,12 @@
           "path": "chapitres/comparatif/volume-ccclvi-mc-129-baiser-sacre-proskynesis-baal-heracles-paix-rituelle.md",
           "request_sha256": "24968b6ab9a4a6d912f557f02e717abe5a151cc44e8b39a2d64500ad5ab663c3",
           "initial_source_sha256": "a6279da1e08669376cfecf0d35d1723f9ad806006ac919413c49d822961bc2f4"
+        },
+        "9b130a6f-7d26-4c9d-99c4-8baf7f4d0c6e": {
+          "number": 357,
+          "path": "chapitres/comparatif/volume-ccclvii-mc-130-ailes-sacre-disque-soleil-genies-cherubins-nike-ahuramazda-garuda.md",
+          "request_sha256": "6519e102d937e2a711197f6f2c9e119254f75d0fcceff7684533619843e9b4bd",
+          "initial_source_sha256": "dfe384fe9ac84645d42e1f741e50fe32ec09a48af83146def4e4e1796ac009da"
         }
       }
     }
