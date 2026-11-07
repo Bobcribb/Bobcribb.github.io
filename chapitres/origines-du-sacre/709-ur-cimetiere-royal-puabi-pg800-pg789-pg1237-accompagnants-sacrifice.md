@@ -282,3 +282,15 @@ L'historien doit faire deux gestes à la fois : reconnaître la réalité possib
 - **Tableau de comparaison des contextes** : diagramme original à produire d'après les listes de Woolley, les inventaires Penn et Pollock (2007), indiquant les effectifs comme données de fouille et les relations chronologiques comme hypothèses.
 
 Respecter toutes les licences des photographies et des publications. Distinguer matériel antique, reconstitution photographique moderne, schéma analytique et production assistée par IA. Ne jamais présenter un dessin généré comme une pièce archéologique retrouvée.
+
+---
+
+### Note éditoriale documentaire — Puabi, assemblages matériels et prudence funéraire (7 novembre 2026)
+
+**Corpus matériel contrôlé.** Le Penn Museum identifie dans la tombe **PG 800** de Puabi une [couronne de feuillage, objet B17711](https://pennmuseum.org/collections/object/108736) (or, coquillage, lapis-lazuli et cornaline ; Early Dynastic III ; 2600–2450 av. J.-C.) et un [peigne B16693](https://collections.penn.museum/collections/object/6667) (or et lapis-lazuli, même contexte funéraire). Les notices distinguent leurs identifiants de musée des numéros de terrain. La [présentation muséale de la coiffure de Puabi](https://pennmuseum.org/collections/highlights/neareast/puabi.php) explique que l'ancienne lecture « Shubad » de son nom a été remplacée par « Puabi » et que son sceau nomme la reine sans mention d'un époux.
+
+**Portée des observations.** Des bijoux de la tombe PG 800 attestent l'équipement funéraire, les provenances enregistrées et le haut statut du dépôt ; ils ne démontrent ni l'identité de toutes les personnes présentes dans les fosses PG 789 et PG 1237 ni leur mode de décès. Le terme « sacrifice des accompagnants » doit rester une **interprétation archéologique argumentée**, confrontée aux positions des squelettes, aux analyses de trauma et aux archives de fouille ; l'esthétique de la parure ne permet pas d'établir la cause de la mort.
+
+**Cadrage français — non assimilé à une expertise du site.** Francis Joannès (dir., avec Cécile Michel), *Dictionnaire de la civilisation mésopotamienne*, Paris, Robert Laffont, 2001 : référence collective de contexte [signalée par ArScAn](https://arscan.parisnanterre.fr/dictionnaire-de-la-civilisation-mesopotamienne/). Sans entrée et page précis vérifiés, aucune conclusion spécialisée sur PG 800 n'est attribuée au directeur de cet ouvrage. Les numéros d'objets et les descriptions qui précèdent reposent sur les notices **Penn Museum**, non sur une prétendue lecture intégrale du dictionnaire.
+
+**Statut :** sources matérielles et inventaires contrôlés ; hypothèses sur le traitement des accompagnants à recontrôler séparément dans les fouilles et la littérature taphonomique ; aucune caution muséale alléguée.
