@@ -344,7 +344,18 @@
     "791": "/chapitres/origines-du-sacre/791-chongoni-malawi-namzeze-peintures-chewa-chinamwali-nyau-memoire/",
     "792": "/chapitres/origines-du-sacre/792-jumba-la-mtwana-mosquees-puits-ablutions-eau-domestique-memoire/",
     "793": "/chapitres/origines-du-sacre/793-kitoka-takaungu-creek-mosquees-corail-tombes-inscriptions-kilifi/",
-    "794": "/chapitres/origines-du-sacre/794-kilepwa-kirepwe-mida-creek-gravures-navires-mosquee-tombes-votif/"
+    "794": "/chapitres/origines-du-sacre/794-kilepwa-kirepwe-mida-creek-gravures-navires-mosquee-tombes-votif/",
+    "795": "/chapitres/origines-du-sacre/795-lalibela-ethiopie-eglises-monolithes-qeyit-terara-jerusalem-liturgie-archeologie/",
+    "796": "/chapitres/origines-du-sacre/796-ban-chiang-thailande-rites-funeraires-ceramiques-bronze-chronologies/",
+    "797": "/chapitres/origines-du-sacre/797-matobo-zimbabwe-pomongwe-bambata-art-rupestre-njelele-mwari-pluie/",
+    "798": "/chapitres/origines-du-sacre/798-tsodilo-botswana-peintures-rouges-blanches-rhino-cave-metallurgie-ancetres/",
+    "799": "/chapitres/origines-du-sacre/799-ankaratra-madagascar-dimy-lahy-ancetres-tombeaux-pluie-foret-conservation/",
+    "800": "/chapitres/origines-du-sacre/800-twyfelfontein-ui-aes-namibie-gravures-girafes-eau-traces-patrimoine/",
+    "801": "/chapitres/origines-du-sacre/801-daureb-brandberg-namibie-white-lady-pager-dome-gorge-patrimoine/",
+    "802": "/chapitres/origines-du-sacre/802-maitum-ayub-cave-mindanao-urnes-anthropomorphes-sepultures-memoire/",
+    "803": "/chapitres/origines-du-sacre/803-shaka-point-mida-creek-mosquee-tombes-habitats-xve-mangroves/",
+    "804": "/chapitres/origines-du-sacre/804-maloti-drakensberg-afrique-australe-eland-game-pass-orp-en-pager-san/",
+    "805": "/chapitres/origines-du-sacre/805-chafisi-mida-creek-gedi-avant-port-mosquee-maisons-ceramiques/"
   },
   "historical_aliases": {
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": {
@@ -398,7 +409,7 @@
     "/chapitres/origines-du-sacre/576-payer-pour-passer-tarifs-bacs-offrandes/": "/chapitres/origines-du-sacre/annexe-576-payer-pour-passer-variante/",
     "/chapitres/origines-du-sacre/577-naufrages-secours-divins-survivants/": "/chapitres/origines-du-sacre/580-naufrages-secours-divins-survivants/"
   },
-  "last_numbered_chapter": 794,
+  "last_numbered_chapter": 805,
   "preserved_source_sha256": {
     "chapitres/origines-du-sacre/576-bacs-peages-offrandes-passage.md": "b6704b3484d0c9e0c2e80ea9bdb7e0efa7c6b9723b9b9134f3b7e09c8357e3b1",
     "chapitres/origines-du-sacre/577-monnaies-funeraires-charon-preuves-archeologiques.md": "b4a8e672fb28c90811f531e385cde4bd03aa9f8809613ca6cc8da44e78adf55b",
