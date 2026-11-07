@@ -35,3 +35,15 @@ L'étude d'un sanctuaire associe relevés des murs, stratigraphie des dépôts, 
 **Bibliographie vérifiée :** Jean-Marc Luce, « Délimiter l'espace sacré », *Pallas* 118 (2022), p. 19–74, DOI 10.4000/pallas.21999; Susan E. Alcock et Robin Osborne (dir.), *Placing the Gods: Sanctuaries and Sacred Space in Ancient Greece* (Oxford, 1994); Robert Parker, *Miasma: Pollution and Purification in Early Greek Religion* (Oxford, 1983).
 
 **Références consultables :** https://doi.org/10.4000/pallas.21999 ; https://academic.oup.com/book/54642 .
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Étude française directement pertinente :** Jean-Marc Luce, « Délimiter l'espace sacré », *Pallas* **118** (juillet 2022), p. **19–74**, DOI **10.4000/pallas.21999**. Le résumé scientifique indexé par le DOAJ traite séparément *horoi*, *periboloi*, *perirrhanteria* et cordages, ainsi que les questions de pureté et d'asylie : https://doaj.org/article/fa81c5458d9143b3908ebd8babb99b57 . DOI et pagination contrôlés ; il ne s'agit pas d'une lecture intégrale de l'article.
+
+**Contrôle conceptuel :** ne pas assimiler *témenos* (espace réservé), *naos* (bâtiment cultuel) et *hieron* (sanctuaire) ni conclure, sur la seule présence d'une borne, à une interdiction absolue d'accès. L'hypothèse de Luce concernant une spatialisation régulée au **VIIe siècle av. n. è.** est historiographique et doit être mise à l'épreuve des sites archéologiques concernés.
+
+**Cadre français complémentaire :** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* (1965) contextualise les catégories civiques et religieuses ; ne lui attribuer aucun relevé de borne non publié. Les inscriptions invoquées dans le chapitre demeurent à identifier **individuellement** avant toute citation mot à mot.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->
