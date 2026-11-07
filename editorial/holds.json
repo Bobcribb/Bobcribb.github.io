@@ -192,6 +192,14 @@
     "97fb51ab-21a3-4e80-afbb-67fdad46aecb": {
       "request_sha256": "4b3fdb9f058c8e585437eeea9d6302922944bbfce8966b2c86400718e3854815",
       "reason": "Recouvrement éditorial constaté le 7 novembre 2026 avec le chapitre canonique 781, Kondoa et les abris peints du Rift tanzanien (UUID b4b59c61-0d7e-4b1a-a67c-202611070936), déjà doté de son reçu dans editorial/numbering.json. La présente soumission distincte sur Kondoa/Kolo (97fb51ab-21a3-4e80-afbb-67fdad46aecb) conserve intégralement son manuscrit et son empreinte, sans nouvelle numérotation autonome. Comparer les deux études et, si la seconde apporte des analyses originales, préparer un complément non numéroté ou une nouvelle étude scientifiquement différente. Ne supprimer ni ne réécrire aucune étude ni aucun reçu."
+    },
+    "99ad9fd0-8a3c-40ae-b68b-202611071031": {
+      "request_sha256": "cd1babf0fae8661d38198f2cfb4cb822b5c40ed3015464ebe83c9e93be83f05d",
+      "reason": "Collision historique MC-119 diagnostiquée le 7 novembre 2026 sur main : la demande antérieure 4b3e1190-7c27-45db-9c6f-202611070119 (« Les chiens du sacré », 50 788 caractères ; commit a12ba03feff0341c29c0d4266dc9b4e929df311b à 09:44:16 UTC) a déjà revendiqué MC-119. La présente demande postérieure 99ad9fd0-8a3c-40ae-b68b-202611071031 (« Les tortues du sacré », 66 821 caractères ; commit a3f834d8e849204a74c72b238ca482e8960c5e39 à 09:44:30 UTC) porte un objet scientifique DISTINCT et ne doit pas être fusionnée avec les chiens. Conserver intégralement son JSON et son empreinte sans reçu ni volume tant que l'identifiant historique n'a pas été réconcilié selon la source de vérité. Ne pas modifier les manuscrits ni les autres séries, et ne pas attribuer arbitrairement MC-120."
+    },
+    "f2c86a17-34d4-47b7-9b91-c491c2fd48e9": {
+      "request_sha256": "6046c0e24f679ee8fbdd92e0b1fabd991c5947ae47d6e780aa68434232d103ec",
+      "reason": "Collision historique MC-119 diagnostiquée le 7 novembre 2026 sur main : la première demande 4b3e1190-7c27-45db-9c6f-202611070119 (« Les chiens du sacré », commit a12ba03feff0341c29c0d4266dc9b4e929df311b à 09:44:16 UTC) et une seconde demande 99ad9fd0-8a3c-40ae-b68b-202611071031 (« Les tortues du sacré », commit a3f834d8e849204a74c72b238ca482e8960c5e39 à 09:44:30 UTC) utilisent déjà la même cote. La présente demande  f2c86a17-34d4-47b7-9b91-c491c2fd48e9 (« La droite et la gauche du sacré », 70 379 caractères ; commit 4605ec5649cb669824bf4c1717534ad95448fb96 à 09:50:08 UTC) est postérieure et scientifiquement DISTINCTE. Conserver intégralement son JSON, ne produire ni reçu ni volume concurrent avant réconciliation explicite. Ne pas réémettre sous un autre UUID, ni préattribuer MC-120, ni modifier les manuscrits, registres d'attribution, séries ou planifications."
     }
   }
 }
