@@ -47,6 +47,55 @@ class EneideDeepeningTest(unittest.TestCase):
             self.assertIn(phrase, txt)
         self.assertIn("ne comprennent pas encore ces nouveaux développements", txt)
 
+    def test_intertexts_rites_and_gendered_mourning_in_sources_and_reader(self):
+        """Vérifier les nouveaux dossiers et l'absence de doublons d'ancres."""
+        import re
+        doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
+        chapters = doc.select("section.philo-chapter")
+        targets = {
+            5: ("05-chant-v.md", [
+                "Nisus, Salius et Euryale : la fidélité peut-elle justifier la fraude ?",
+                "Du tournoi funéraire à la guerre",
+            ]),
+            7: ("07-chant-vii.md", [
+                "Les portes de Janus : institution, refus royal",
+                "Lavinia, Amata et le coût politique",
+            ]),
+            9: ("09-chant-ix.md", [
+                "De la course du chant V à l'expédition nocturne",
+                "La mère d’Euryale et la protestation",
+            ]),
+            11: ("11-chant-xi.md", [
+                "Diane, Opis et l'honneur différé",
+                "Camille, Nisus et les morts prématurées",
+            ]),
+            14: ("14-empire-memoire.md", [
+                "Fidélité, fraude et récit public",
+            ]),
+            17: ("17-reperes-et-sources.md", [
+                "Dossier philologique vérifié — concours, Janus",
+            ]),
+        }
+        for idx, (file, headings) in targets.items():
+            source = (CORPUS / file).read_text(encoding="utf-8")
+            chapter = chapters[idx].get_text(" ", strip=True)
+            for heading in headings:
+                self.assertIn(heading, source, file)
+                self.assertIn(heading, chapter, file)
+                self.assertEqual(source.count("## " + heading), 1, file)
+            ids = [h["id"] for h in chapters[idx].select("h3[id]")]
+            self.assertEqual(len(ids), len(set(ids)), file)
+        sources = (CORPUS / "17-reperes-et-sources.md").read_text(encoding="utf-8")
+        for marker in (
+            "10.54563/eugesta.1117",
+            "10.11647/OBP.0158",
+            "Eurialo e Niso: fides e perfidia",
+            "Vie parallele: a proposito di Camilla e Niso",
+        ):
+            self.assertIn(marker, sources)
+        self.assertIn("ne comprennent pas encore ces nouveaux développements",
+                      doc.get_text(" ", strip=True))
+
     def test_references_et_titles_sont_uniques(self):
         doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
         ids = [node["id"] for node in doc.select("[id]")]

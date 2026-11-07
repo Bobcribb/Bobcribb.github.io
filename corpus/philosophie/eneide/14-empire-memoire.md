@@ -88,4 +88,17 @@ Les femmes et les vaincus occupent une place essentielle dans ce dispositif. Did
 
 Il serait tentant de tirer de cette série une condamnation totale de Rome ou, à l’inverse, une apologie selon laquelle toutes les douleurs sont les coûts nécessaires d’un ordre bénéfique. Les deux réductions échouent à rendre compte de la forme de l’Énéide. Le poème énonce des finalités collectives et conserve simultanément des scènes qui demandent au lecteur de répondre pour les pertes individuelles. La grandeur de sa construction réside dans cette coexistence tendue, non dans le silence de l’une des voix.
 
+
+## Fidélité, fraude et récit public : les contre-épreuves de la pietas (V, IX, XI)
+
+La pietas du poème ne se limite pas aux gestes par lesquels Énée porte son père ou obéit aux dieux. Le vocabulaire de la fidélité s'étend aux relations entre amis, aux demandes de sépulture et au deuil des proches. C'est cette extension qui rend possible une critique interne des violences de la fondation. Lorsque Nisus favorise Euryale aux dépens de Salius, la loyauté personnelle entre en conflit avec l'équité du concours. Lorsque les mêmes compagnons partent de nuit, l'engagement envers la défense commune cède progressivement le pas au risque de gloire et à l'obligation de sauver l'ami.
+
+Le poème propose aussi des institutions qui tentent de donner une forme publique à ces liens : jeux funèbres, promesses de récompenses, rites pour les morts, décisions militaires, célébrations de la mémoire. Ces institutions rendent la solidarité visible, mais elles ne suppriment pas les contradictions. Énée parvient à pacifier la querelle sportive sans rétablir pleinement la justice du classement ; Ascagne peut promettre de prendre soin de la mère d'Euryale sans lui rendre son fils ; Opis peut punir Arruns sans sauver Camille.
+
+Il faut distinguer rigoureusement réparation, compensation, consolation et commémoration. Le prix supplémentaire offert à un concurrent lésé compense un dommage matériel ou honorifique, mais il ne rend pas vraie une victoire entachée de fraude. La promesse faite à la mère du guerrier peut contribuer à sa subsistance, mais ne compense pas l'irremplaçable relation personnelle. L'immortalité littéraire relève encore d'un autre registre : elle promet un souvenir transmissible sans annuler la mort.
+
+Cette pluralité rejoint la règle d'Anchise sur l'épargne des soumis (VI, 853) et la dernière supplication de Turnus (XII, 930–952). Reconnaître un adversaire dans sa vulnérabilité ne consiste pas seulement à lui attribuer un rôle dans un ordre futur. Il s'agit de décider de ce qu'on lui doit avant qu'il ne disparaisse. La question de la clémence gagne ainsi à être préparée par les scènes apparemment secondaires des jeux, des amitiés et des funérailles.
+
+Une lecture de l'épopée qui ne verrait dans ces épisodes que des ornements héroïques manquerait la continuité de leur problème moral. Mais il serait également abusif d'en faire un manifeste moderne contre l'État ou la guerre. Virgile ne formule pas une théorie générale des droits individuels. Il distribue des scènes où les valeurs célébrées par la communauté rencontrent des personnes dont le sort ne peut être épuisé par la réussite de cette communauté. La force critique de l'épopée naît de la coexistence, et parfois de l'incompatibilité, de ces demandes.
+
 Références de synthèse : I, 254–296 et 418–493 ; II, 707–804 ; III, 294–505 et 588–691 ; IV, 296–392 ; V, 700–778 ; VII, 641–817 ; VIII, 626–731 ; XI, 59–75 ; XII, 819–842 et 930–952.
