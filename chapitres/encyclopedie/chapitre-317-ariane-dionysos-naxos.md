@@ -101,3 +101,10 @@ Ariane ne possède pas un destin unique. Chez Homère, elle meurt sur Dia ; chez
 
 ## XXVII. Index éditorial
 **Volume :** XCIX. **Chapitre :** 317. **Titre :** Ariane et Dionysos — L'abandon à Naxos, les noces divines et la transformation d'une héroïne. **Précédent :** 316 Thésée, Ariane et le Labyrinthe. **Suivant proposé :** 318 Égée et les voiles noires — la mort du roi et le retour de Thésée, après vérification des doublons. **Personnages :** Ariane, Dionysos, Thésée, Minos, Artémis, Zeus. **Lieux :** Crète, Dia, Naxos, Chypre, Athènes. **Thèmes :** abandon, mortalité, immortalité, culte, mariage, mémoire féminine, variantes mythiques. **Protection :** document public, aucune archive privée incluse ; ne constitue pas une sauvegarde intégrale de MYTHOS.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 10
+
+**Contradiction entre témoins :** Hésiode, *Théogonie* **947–949**, décrit le mariage d'Ariane avec Dionysos et l'**immortalité** accordée par Zeus ; Homère, *Odyssée* **XI, 321–325**, rappelle au contraire sa **mort par Artémis** sur Dia, en relation avec Dionysos. Les deux passages sont reproduits et localisés dans le dossier universitaire *Early Greek Myth* (Ian Gantz, sélection éditée par Elena Bianchelli, **2021**) : https://open.online.uga.edu/gantzmythsources/chapter/the-children-of-zeus-dionysos-page-115/. **Chercheuse française :** Françoise Frontisi-Ducroux, *Ouvrages de dames. Ariane, Hélène, Pénélope…*, Seuil, **2009**, ISBN **9782020979085**, BnF **cb41474070w** (https://catalogue.bnf.fr/ark:/12148/cb41474070w). Compte rendu de Pascale Hummel, *Revue des Études Grecques* **123/1 (2010)**, p. **443–444** (https://www.persee.fr/doc/reg_0035-2039_2010_num_123_1_8012_t11_0443_0000_1), consulté pour l'analyse du fil d'Ariane ; **livre non intégralement collationné**. Les traditions poétiques divergentes ne démontrent pas un état cultuel unique à Naxos.
