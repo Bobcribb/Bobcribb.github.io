@@ -58,4 +58,25 @@ L’Énéide invite ainsi à distinguer la nécessité de fonder et la tentation
 
 Le dernier coup d’Énée ne rend pas le poème muet. Il nous laisse au contraire devant une tâche de jugement. L’avenir romain est annoncé, mais le lecteur vient de voir une main hésiter, un objet réveiller la douleur et une vie s’enfuir. La pensée commence dans le refus de laisser l’un de ces éléments effacer les autres. La fondation reçoit sa grandeur de ce qu’elle rend possible ; elle reçoit sa mesure de ce qu’elle accepte encore d’entendre.
 
+
+## Récits enchâssés, récits de survivants et autorité de la voix
+
+Le récit de la chute de Troie et des voyages est prononcé par Énée devant Didon. Cette situation d’énonciation n’est pas un cadre sans effet : l’homme qui parle est un survivant qui connaît désormais le terme de certaines épreuves, mais qui raconte à une femme dont il dépend comme hôte. La catastrophe est donc organisée en une mémoire adressée. Ses choix de détail, ses retours en arrière et ses émotions ne doivent pas être ramenés à une opposition simpliste entre vérité du témoin et déformation intéressée. Le poème construit une parole située, dont la force tient autant à son engagement qu’à ses limites.
+
+Le dialogue avec la reine ajoute un second niveau de connaissance. Didon entend Énée raconter la disparition de Créuse, la mort d’Anchise et les dangers du voyage ; le lecteur sait que son propre destin sera bientôt incorporé aux pertes du héros. Cette avance du lecteur sur certains personnages produit une ironie narrative qui ne dépend pas d’un narrateur explicitement accusateur. La configuration des savoirs suffit à faire apparaître une vulnérabilité : celle qui recueille le récit du survivant risque de devenir elle-même un épisode douloureux de ce récit.
+
+Un troisième niveau est celui des prophéties. Hélénus annonce certains signes, Anchise révèle une lignée future et le bouclier présente des événements encore inconnus d’Énée. L’épopée fait ainsi varier le degré de certitude de ses locuteurs et de ses lecteurs. Le personnage qui interprète un oracle n’est pas dans la même situation que celui qui voit une peinture représentant son propre passé, et le public augustéen n’est pas dans celle du fondateur qui porte un avenir figuré sans le savoir.
+
+Il faut donc analyser la focalisation avec autant de soin que les épisodes. Qui prononce le jugement ? Qui voit ? Qu’est-ce qui lui demeure caché ? À quel moment le lecteur reçoit-il une information que le personnage ignore ? Ces questions donnent à l’étude philosophique une base textuelle solide. Elles évitent de traiter toutes les paroles comme l’expression directe de Virgile et de transformer les contradictions des personnages en contradictions artificiellement imposées à une doctrine unique.
+
+## Deux images de l'histoire : les peintures carthaginoises et le bouclier de Vulcain
+
+Les scènes peintes du temple de Junon au chant I et les images gravées sur le bouclier au chant VIII se répondent à distance, mais selon des régimes temporels inverses. À Carthage, Énée reconnaît un passé qu’il a subi. Son émotion vient de la présence visuelle de personnes et d’événements dont il conserve une expérience douloureuse. Le regard met en mouvement la mémoire. Sur le bouclier, il contemple avec émerveillement une suite d’événements que le lecteur romain peut identifier, mais dont lui-même ignore le contenu historique.
+
+La différence entre ces deux scènes ne se réduit pas à la succession du malheur et du triomphe. Les peintures carthaginoises peuvent rassurer Énée tout en laissant le sens de leur présence dépendre de la cité qui les expose ; le bouclier donne une orientation solennelle à l’histoire romaine tout en demeurant opaque à son porteur. Dans les deux cas, la représentation ne communique pas une connaissance complète. Le regardeur doit interpréter à partir de ses attentes, de son expérience et de la place qu’il occupe dans l’action.
+
+Le matériau artistique transforme aussi la durée. Un mur ou un objet métallique reçoit plusieurs moments distincts ; la description poétique les fait défiler par une succession de propositions. Ce procédé, l’ekphrasis, ne consiste pas seulement à imiter la peinture ou la sculpture. Il permet au récit de mettre en ordre des événements que la mémoire et la prophétie réunissent autrement que le temps vécu. Les épisodes sélectionnés deviennent une histoire possible, mais leur ordre ne se confond pas avec une histoire exhaustive.
+
+Ces deux œuvres représentées à l’intérieur de l’œuvre définissent une forme d’autoréflexion. L’Énéide elle-même raconte une histoire que ses personnages ne peuvent jamais posséder dans sa totalité. Le lecteur éprouve tour à tour la reconnaissance, l’ignorance, l’admiration et le doute. La puissance intellectuelle du poème réside dans ce déplacement continu : il ne suffit pas de voir pour savoir, pas plus qu’il ne suffit de connaître l’avenir pour justifier l’acte accompli au présent.
+
 Références : Énéide I, 1–11, 148–156 et 453–493 ; II, 199–249 ; IV, 68–73 ; VI, 450–476 ; VIII, 730–731 ; IX, 433–437 ; XI, 831 ; XII, 908–914 et 930–952.
