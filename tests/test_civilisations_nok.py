@@ -1,5 +1,6 @@
 """Tests de publication et de classement pour le dossier historique Nok."""
 from pathlib import Path
+from bs4 import BeautifulSoup
 import sys
 import unittest
 
@@ -23,7 +24,9 @@ class NokCivilisationsTests(unittest.TestCase):
 
     def test_nok_study_is_complete_and_crosslinked(self):
         article = NOK_PATH.read_text(encoding="utf-8")
-        self.assertIn('rel="canonical" href="https://bobmythos.fr' + NOK_URL + '"', article)
+        canonical = BeautifulSoup(article, "html.parser").select("head link[rel='canonical']")
+        self.assertEqual(len(canonical), 1, "Une seule URL canonique est attendue")
+        self.assertEqual(canonical[0].get("href"), "https://bobmythos.fr" + NOK_URL)
         self.assertEqual(article.count('class="mythos-study-section" aria-labelledby="nok-'), 12)
         self.assertIn('id="nok-sources"', article)
         self.assertIn("/civilisations/afrique/", article)
