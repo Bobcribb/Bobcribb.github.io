@@ -1,0 +1,422 @@
+# MYTHOS — Encyclopédie des tragédies grecques — Volume CCXCII (292)
+
+# Ion de Chios, *Teucros* (Τεῦκρος) : l’archer, les fidélités divisées et les limites d’une tragédie presque entièrement perdue
+
+**Monographie universitaire.** Philologie des fragments, histoire du mythe, dramaturgie comparée, philosophie tragique, histoire de la réception et critique de l’iconographie. État de la vérification documentaire : 7 novembre 2026.
+
+**Auteur :** Ion de Chios (Ἴων ὁ Χῖος), auteur dramatique et poète grec du Ve siècle avant notre ère.  
+**Œuvre :** *Teucros* (*Teukros*, Τεῦκρος), titre de tragédie perdue.  
+**Témoins directs conservés :** deux brèves traces lexicales transmises dans la tradition lexicographique, sans scène continue ni distribution des personnages.  
+**Concordance :** FragTrag.1 (Université de Patras), Ion, fr. 39–40 = *Tragicorum Graecorum Fragmenta* (TrGF I), Ion, F 34–35.  
+**Repère historique :** E. S. Köpke, *De Ionis Chii poetae vita et fragmentis* (1836), fr. 47–48.  
+**Genre :** pièce du répertoire tragique d’Ion ; il n’existe pas d’argument antique conservé permettant de restituer son action.  
+**Datation :** aucune année de représentation assurée.  
+**Règle de lecture :** ne jamais attribuer à Ion les dialogues, décisions, personnages secondaires ou dénouements connus uniquement par Homère, Sophocle, Euripide ou les mythographes.
+
+## Résumé scientifique
+
+Le nom de Teucros appartient à plusieurs imaginaires grecs. Dans l’*Iliade*, le fils de Télamon est un archer achéen qui combat à l’abri du grand bouclier de son demi-frère Ajax. Chez Sophocle, il défend le cadavre d’Ajax contre la décision des commandants grecs, alors même qu’il pressent la colère future de son père. Chez Euripide, dans *Hélène*, il traverse l’Égypte sur le chemin de son exil et d’une nouvelle Salamine chypriote. Ces attestations forment un puissant ensemble de comparaisons ; **elles ne constituent pas l’intrigue de la tragédie perdue d’Ion de Chios**.
+
+L’œuvre d’Ion ne nous atteint presque plus que par deux mots problématiques, conservés parce qu’ils intéressaient les érudits du vocabulaire grec. Le premier appartient au champ de l’absence de savoir ou d’expérience ; le second est transmis sous des formes qu’une confrontation éditoriale empêche d’aplanir. Il serait arbitraire de transformer ces mots en discours de Teucros, en accusation de Télamon ou en annonce d’une fondation coloniale. Pourtant, cette pauvreté des sources ne condamne pas l’étude à l’inutilité. Elle impose de penser la différence entre une tragédie documentée et un mythe généreusement attesté ailleurs, entre la biographie poétique d’un héros et l’histoire matérielle du texte.
+
+Cette monographie propose une lecture à plusieurs degrés. Les fragments et leurs numéros critiques sont établis en premier ; les témoignages concernant le fils de Télamon sont ensuite parcourus dans leur propre contexte ; trois familles de reconstructions possibles sont éprouvées, puis limitées ; des comparaisons philosophiques avec Platon, Hegel et Nietzsche sont offertes comme instruments de réflexion et non comme clés permettant de fabriquer une tragédie perdue. L’hypothèse directrice ne prétend donc pas reconstituer une pièce : le parcours traditionnel de Teucros permet d’interroger la tension entre **l’utilité militaire, l’appartenance familiale et le droit d’être reconnu**.
+
+## I. Protocole documentaire et continuité éditoriale
+
+### 1. Une œuvre distincte au terme d’un parcours réel
+
+L’encyclopédie MYTHOS a déjà attribué, pour Ion de Chios, des études autonomes à *Agamemnon*, *Alcmène*, *Les Argiens*, *Les Eurytides*, *Laërte*, *Le Grand Drame* et *Omphale satyrique*. Leur existence doit être établie par les manuscrits et les reçus effectivement présents sur la branche de publication, non par une promesse antérieure. Le titre *Teucros* suit *Omphale satyrique* dans l’ordre documentaire de la concordance FragTrag.1, immédiatement avant *Phénix ou Cénée*. Cet ordre est **bibliographique** ; il ne permet pas de dater les créations ni de proposer une tétralogie.
+
+Une autre monographie de MYTHOS est déjà consacrée à *Teucros* de **Sophocle**, œuvre tragique distincte. Son existence n’épuise pas la question du *Teucros* d’Ion. Les deux titres ne doivent ni fusionner leurs textes ni échanger leurs fragments : le corpus de Sophocle relève de *TrGF IV* et du travail de Stefan Radt ; celui d’Ion relève de *TrGF I*. La nouvelle étude s’attache uniquement à Ion ; les comparaisons sophocléennes demeurent signalées comme telles. Le présent volume recevra son numéro exclusivement du circuit transactionnel de la collection.
+
+### 2. Cinq catégories de preuve
+
+Les sigles utilisés dans la suite de l’étude empêchent une lecture indistincte des sources :
+
+**[D] Documentation directe.** Titre ou fragment antique explicitement attribué à Ion et à *Teucros*, conservé par transmission ancienne et repris dans une édition critique.
+
+**[P] Parallèle ancien.** Épisode d’une autre œuvre antique portant sur Teucros, Ajax, Télamon ou Salamine ; le parallèle n’atteste pas sa présence dans la pièce d’Ion.
+
+**[E] Établissement éditorial.** Attribution, variante, ponctuation, concordance ou correction proposée par les philologues et les éditions modernes.
+
+**[H] Hypothèse.** Proposition d’organisation dramatique, de personnage ou de fonction scénique, ne disposant pas de preuve directe.
+
+**[I] Interprétation.** Lecture philosophique, culturelle ou historique, utile à la compréhension du matériau mais non attribuable à l’intention de l’auteur.
+
+Cette classification porte sur **chaque proposition**, non sur l’autorité globale d’un livre. Une même source peut fournir une leçon textuelle sûre et laisser l’identité du locuteur entièrement indéterminée. Une reconstitution, même séduisante, reste [H].
+
+### 3. Ce qui manque
+
+[D] Aucun papyrus de *Teucros* d’Ion ne conserve aujourd’hui un épisode continu exploitable. Aucun prologue, chœur, exodos, didascalie, catalogue des interprètes ni liste sûre des personnages ne peut être déduit des deux traces reconnues. L’existence du titre ne fixe pas la date, le concours ou la ville de représentation. Nous ne savons pas si le Teucros de cette œuvre parlait sur scène, si son père y apparaissait, ni même si l’action se situait à Troie, à Salamine ou au cours d’un voyage.
+
+Le travail sur les pièces perdues commence ainsi par une opération négative : dresser l’inventaire de ce qui **n’est pas** transmis. Cette négativité n’est pas une démission de l’histoire littéraire ; elle protège la précision des connaissances qui demeurent.
+
+## II. Auteur, milieu et conditions de production
+
+### 4. Ion de Chios, une trajectoire hors de l’opposition simpliste entre centre et périphérie
+
+[P] Les témoignages antiques présentent Ion comme un écrivain originaire de Chios, actif dans plusieurs genres littéraires, dont la tragédie et la poésie lyrique, et connu dans les milieux athéniens. La *Souda* donne des renseignements biographiques et des nombres d’œuvres divergents selon les traditions ; ces nombres ne doivent pas devenir un décompte certain de tragédies intégralement représentées. Les fragments historiques et mémorialistes attribués à Ion documentent un profil culturel plus vaste que celui d’un dramaturge réduit à des intrigues héroïques.
+
+La circulation entre îles égéennes, grands concours athéniens et traditions mythiques diverses ne permet pas d’affirmer que *Teucros* exprimait un programme politique de Chios. Elle invite seulement à ne pas identifier mécaniquement le théâtre du Ve siècle à un discours homogène d’Athènes. Un auteur venu d’une île pouvait faire travailler une figure héroïque partagée par plusieurs cités.
+
+### 5. Le répertoire d’Ion et le piège des groupements rétrospectifs
+
+La liste conservée par la tradition contient des titres relevant des cycles troyen, héracléen et odysséen. L’éditeur moderne peut constituer des regroupements pratiques, mais il ne possède pas de liberté illimitée pour reconstruire des programmes originels de concours. *Agamemnon* et *Teucros* ne sont pas la preuve que deux pièces ont été représentées ensemble ; *Alcmène* et *Omphale* ne suffisent pas à définir une tétralogie héracléenne. Les regroupements éditoriaux servent ici à garantir l’exhaustivité, non à projeter une chronologie inexistante.
+
+### 6. Théâtre classique et mémoire des spectateurs
+
+[I] Un spectacle tragique pouvait jouer sur la connaissance préalable d’un mythe. Les spectateurs connaissaient vraisemblablement plusieurs récits au sujet d’Ajax et de Teucros ; la précision et l’uniformité de cette connaissance sont cependant indémontrables. La différence entre une figure célèbre et une intrigue particulière importe davantage que la familiarité supposée du public : l’auteur pouvait confirmer une tradition, la déplacer ou présenter des événements antérieurs aux scènes les plus connues. Nous ignorons quelle option Ion choisit.
+
+## III. Les deux fragments : établir sans compléter
+
+### 7. Concordance critique vérifiée
+
+La concordance en ligne **FragTrag.1**, Université de Patras, identifie la rubrique **8. Τεῦκρος** et donne exactement deux correspondances :
+
+| Dossier | Numéro FragTrag.1 | Numéro TrGF I, Ion |
+| :-- | :-- | :-- |
+| *Teucros*, fragment lexical 1 | **fr. 39** | **F 34** |
+| *Teucros*, fragment lexical 2 | **fr. 40** | **F 35** |
+
+Il s’agit de deux systèmes de référence d’éditions différentes. Ils ne correspondent pas à deux découvertes indépendantes et ne doivent pas être additionnés en quatre fragments. Les numéros de *Teucros* de Sophocle, notamment ceux de Radt (*TrGF IV*), ne se transfèrent pas ici. Source de contrôle : https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html .
+
+L’édition historique d’Ernst Siegfried Köpke, *De Ionis Chii poetae vita et fragmentis*, publiée en 1836, range deux gloses sous **ΤΕΥΚΡΟΣ**, aux numéros **K. 47–48**. Sa propre numérotation est distincte : citer « fr. 47 » sans nom d’éditeur serait gravement ambigu, puisque le fr. 47 de FragTrag désigne une autre unité du corpus. Reproduction consultable : https://el.wikisource.org/wiki/Αποσπάσματα_(Ίων_ο_Χίος) .
+
+### 8. Le premier témoin : la famille de l’ignorance
+
+[D/E] Le premier extrait apparaît sous une forme que les transcriptions et éditions rendent notamment par **αἰδροί**, **ἀίδριες** ou par le rapprochement avec **ἄϊδροι**. L’explication lexicographique renvoie au manque de connaissance, à l’inexpérience ou à la condition d’un sujet qui n’est pas informé. Cette glose n’identifie pas un acte de théâtre ; elle atteste un emploi rare ou notable du vocabulaire.
+
+Le rapprochement sémantique ne doit pas se transformer en citation supposée. On ne sait pas qui disait le mot, à propos de qui, et encore moins si le terme concernait les chefs grecs, la parenté de Teucros ou des marins. Un lecteur pourrait souhaiter y lire la défense d’un homme injustement accusé, ou la dénonciation d’un témoin ignorant ; **ce désir d’interprétation n’est pas une restitution de vers**. Le problème demeure grammatical et documentaire avant d’être psychologique.
+
+### 9. Le second témoin : une leçon à ne pas normaliser arbitrairement
+
+[D/E] La seconde trace est transmise sous des formes dont la confrontation mérite d’être affichée : une tradition lexicographique donne notamment **ἀμφιβῶτις**, associé à une explication par **περιβόητος**, tandis que la transcription de l’édition de Köpke reproduit **ἀμφισβώτης**. Les graphies et analyses ne sont pas interchangeables par une simple substitution typographique. La valeur du glossaire, ses manuscrits, les éditions et les corrections éventuelles doivent être vérifiés avant de construire une traduction arrêtée.
+
+La prudence exige trois gestes. D’abord reconnaître une **variation matérielle dans les formes consultables**. Ensuite présenter séparément la glose et l’interprétation moderne, sans attribuer à Ion une phrase complète introuvable. Enfin éviter de tirer d’un mot possiblement rattaché à la renommée le scénario d’un tribunal, d’une proclamation politique ou d’une victoire. L’image d’une réputation mise en péril peut être intellectuellement féconde ; elle ne sort pas directement du fragment.
+
+### 10. Ce que transmet un lexique
+
+Les lexiques antiques ne sont pas des anthologies conçues pour sauvegarder des tragédies. Ils citent un auteur et parfois un titre afin d’expliquer une forme rare, une signification ou un usage. Le passage à travers ces témoins produit une sélection très particulière : il privilégie ce qui était difficile à comprendre, non ce qui faisait avancer l’action. Les deux unités d’Ion peuvent donc être des mots exemplaires et non des moments dramatiques représentatifs.
+
+Ce filtrage explique pourquoi l’historien littéraire doit résister au sentiment d’un scénario caché. L’action a pu se concentrer sur le retour, l’exil, la gloire, une scène troyenne ou tout autre événement compatible avec le héros. Les glosses ne fournissent pas de test décisif pour éliminer toutes les options.
+
+### 11. Ordre des fragments et chronologie du drame
+
+[E] L’ordre numérique d’une édition est souvent celui des sources conservatrices, du catalogue établi ou de choix d’éditeurs ; il n’est pas automatiquement l’ordre où les paroles furent prononcées sur scène. On ne peut donc placer le premier mot dans le prologue et le second dans l’exodos. La succession 39–40 n’autorise ni ordre des actes ni progression des personnages. On ne dispose pas davantage d’un chœur identifié par son nom, d’un mètre continu permettant de reconnaître une ode, ou d’une voix attribuée à un acteur.
+
+### 12. Une édition diplomatique minimale vaut mieux qu’une scène inventée
+
+Le dossier textuel minimal adopté ici se résume donc à : **titre Τεῦκρος**, **FragTrag 39/TrGF I F 34** avec glose du domaine de l’inexpérience, **FragTrag 40/TrGF I F 35** avec forme lexicale sujette à discussion. Les graphies reproduites ci-dessus sont des **lemmes attestés dans des témoins ou éditions**, non des reconstitutions de dialogues. Aucune traduction continue, aucune didascalie et aucun personnage parlant ne leur est assigné. C’est la condition nécessaire pour utiliser ensuite les parallèles mythiques avec honnêteté.
+
+## IV. Un héros homérique : la protection et la guerre
+
+### 13. Teucros et Ajax dans l’Iliade
+
+[P] Homère, *Iliade* VIII, vers 266–334 environ, présente Teucros au combat. Archer efficace, il tire en se plaçant derrière le bouclier d’Ajax, se met à l’abri, ressort pour décocher une flèche et reprend sa protection. La scène ne décrit pas un guerrier inférieur qui usurperait une place, mais une coordination entre deux techniques guerrières : la puissance de défense d’un combattant lourdement armé et la précision offensive d’un tireur.
+
+Le dispositif homérique est particulièrement important pour une réflexion sur la dépendance et l’autonomie. L’archer est redoutable précisément parce qu’il peut compter sur autrui ; le porteur du bouclier participe au succès de tirs qu’il ne réalise pas lui-même. Le héros isolé de la représentation moderne n’épuise pas la pratique héroïque de l’*Iliade*. Toutefois, **rien ne prouve qu’Ion ait mis en scène le bouclier et l’arc**.
+
+### 14. Agamemnon, le mérite et la naissance
+
+[P] Dans le même chant VIII, Agamemnon félicite Teucros et promet une récompense en cas de victoire. La reconnaissance militaire peut coexister avec une hiérarchie des naissances : Teucros est fils de Télamon mais appartient, dans certaines traditions, à une lignée maternelle marquée par la prise de guerre. L’éloge d’un archer utile au collectif n’efface pas nécessairement la précarité du statut social.
+
+On peut lire ici un conflit entre **valeur accomplie** et **dignité héritée**. Cette interprétation concerne d’abord Homère et le mythe du personnage ; l’attribuer au *Teucros* d’Ion exige un chaînon documentaire aujourd’hui absent.
+
+### 15. L’arc, la distance et l’honneur héroïque
+
+L’arc est une arme frappante pour analyser la visibilité de l’exploit : la flèche atteint un adversaire à distance ; la protection du bouclier rend l’action possible ; l’honneur peut être attribué à celui qui tue comme à celui qui défend. D’autres passages homériques montrent les rivalités entre modalités du combat. Il serait pourtant anachronique de faire d’Ion le dramaturge d’une « critique de l’archer » seulement parce que son héros possède cette arme dans l’épopée.
+
+Le titre *Teucros* ne garantit pas la présence de l’arc comme accessoire scénique. L’objet appartient à l’imaginaire traditionnel, pas aux éléments matériels attestés pour la représentation perdue.
+
+## V. Une généalogie qui franchit les lignes ennemies
+
+### 16. Télamon, Hésione et la maison de Troie
+
+[P] Les récits mythographiques font de Teucros le fils de Télamon et d’Hésione, princesse troyenne de la famille de Laomédon. Télamon est associé à l’expédition d’Héraclès contre Troie, lors de laquelle Hésione est emmenée. Selon ces généalogies, Teucros combat ensuite du côté achéen contre des parents par sa mère.
+
+Une telle situation fournit à la tragédie potentielle un matériau de conflit exceptionnel : la frontière militaire n’est pas la frontière généalogique. Or la simple coexistence de deux appartenances n’implique pas que l’auteur dramatique les ait rendues incompatibles. Les Grecs construisaient fréquemment leurs récits héroïques avec des unions entre maisons rivales ; la parenté ne dicte pas automatiquement la loyauté dans chaque version.
+
+### 17. « Fils de la captive » : statut et violence des origines
+
+La situation d’Hésione rappelle la violence matrimoniale qui se trouve en amont de plusieurs lignées héroïques. Le fils hérite symboliquement d’une conquête : son identité associe une maison grecque, une famille troyenne et les conséquences d’une guerre antérieure. Le droit paternel peut prétendre déterminer toute la filiation alors que la mémoire maternelle rend visible l’origine étrangère.
+
+Cette lecture ne doit pas présumer qu’une actrice jouait Hésione dans *Teucros*, qu’un conflit de naissance était prononcé dans une scène ou que la pièce comportait une dénonciation des prises de guerre. Nous analysons ici **une structure du mythe**, non un témoignage scénique.
+
+### 18. Deux Teucros dans les traditions grecques
+
+Il faut distinguer **Teucros fils de Télamon**, archer grec de la guerre de Troie, d’un **Teucros éponyme ancien de la Troade**, lié à d’autres récits de peuplement et à des généalogies troyennes. Les notices géographiques et mythographiques peuvent employer le même nom ; cela n’autorise pas à fusionner les biographies. Le titre tragique d’Ion est habituellement rapporté au héros de la maison de Télamon dans l’étude moderne, mais la formulation du titre conservé, à elle seule, est moins informative qu’une intrigue entière. Cette distinction doit figurer dans tout index sérieux.
+
+## VI. Ajax mort : le droit des survivants
+
+### 19. Dans l’Ajax de Sophocle, Teucros prend la parole
+
+[P] Le second mouvement de l’*Ajax* conservé fait de Teucros un personnage essentiel de la querelle funéraire. Le corps de son frère se trouve pris entre les devoirs de la famille et les décisions des commandants. Teucros s’oppose à Ménélas puis à Agamemnon ; Ulysse finit par défendre la possibilité d’une sépulture malgré l’hostilité qui l’opposait au défunt. Le drame met en jeu le statut d’un mort réputé dangereux, la limite de l’autorité militaire et l’obligation de respecter des rites.
+
+Cette séquence offre un contrôle comparatif exceptionnel : elle montre ce que peut devenir le nom de Teucros dans une tragédie conservée. **Elle ne prouve pas que l’œuvre d’Ion racontait le même épisode.** Confondre les deux pièces reviendrait à effacer l’auteur précisément étudié.
+
+### 20. Eurysacès et la transmission d’un héritage
+
+[P] Dans l’*Ajax*, Teucros protège les intérêts d’Eurysacès, fils du héros mort et de Tecmesse. Le survivant doit défendre à la fois un cadavre et l’avenir d’un enfant. La maison ne se réduit pas au grand guerrier disparu : elle continue par des obligations que celui-ci ne peut plus accomplir. Le nom même d’Eurysacès évoque le vaste bouclier, traduisant matériellement la continuité d’une puissance guerrière dans une nouvelle génération.
+
+[H] Il serait séduisant de faire de l’enfant un personnage du *Teucros* d’Ion et de supposer un débat sur la tutelle. Aucun des fragments de l’auteur ne le confirme. L’hypothèse pourra être rappelée comme une possibilité, jamais devenir une rubrique « personnages » du drame disparu.
+
+### 21. La prévision de la colère paternelle
+
+[P] Dans l’*Ajax* de Sophocle, Teucros redoute ce que son père Télamon dira de son retour sans Ajax. Cette anticipation appartient au texte conservé et annonce un horizon mythique de bannissement. Elle donne une densité singulière au survivant : le devoir accompli sur le champ de bataille risque de n’être pas reconnu dans la maison.
+
+La logique du conflit se formule ainsi : *qui peut juger celui qui revient, lorsque l’objet du jugement est la survie même ?* Cette question n’est pas un vers d’Ion. Elle surgit de la confrontation de plusieurs traditions et permet de préciser ce qu’une tragédie portant le même héros **aurait pu** interroger.
+
+### 22. L’inhumation ne règle pas la mémoire
+
+La querelle autour du corps d’Ajax révèle un problème durable : la réparation rituelle n’abolit pas le jugement politique. Faire inhumer un mort selon les règles ne suffit pas à réconcilier toutes les interprétations de sa vie. Même si un consensus funéraire émerge, la famille, l’armée et la cité conservent des souvenirs concurrents.
+
+[I] Une lecture moderne peut en tirer une théorie du désaccord légitime : l’honneur civique n’est pas toujours l’expression unanime d’une communauté. Mais attribuer à Ion une telle thèse dépasserait radicalement les deux gloses transmises.
+
+## VII. Le voyage et la double Salamine
+
+### 23. Exil et fondation dans l’Hélène d’Euripide
+
+[P] Au début de l’*Hélène* conservée d’Euripide, Teucros arrive en Égypte. Il explique les conséquences de la mort d’Ajax, les griefs de Télamon et son exclusion ; il évoque aussi la destination chypriote de son voyage, une Salamine qui porte le nom de la patrie quittée. Dans cette pièce, la scène contribue surtout à installer le doute sur les apparences : Teucros croit reconnaître Hélène, alors que l’intrigue remet précisément en cause ce que l’on croit savoir de sa présence à Troie.
+
+Le passage relie donc la condition du héros exilé à un problème de connaissance. Celui qui a participé à la guerre apporte un récit de celle-ci ; le public apprend que ce récit peut reposer sur une apparence trompeuse. **Ce mécanisme appartient à Euripide et ne se transmet pas par contamination à Ion.**
+
+### 24. Une cité homonyme, une identité dédoublée
+
+La nouvelle Salamine de Chypre ouvre une possibilité de réflexion politique. Donner à une ville le nom d’une cité perdue peut rendre la rupture moins absolue : le lieu d’origine se déplace et devient un modèle. Mais l’opération n’est pas une simple duplication. Une fondation s’inscrit dans un territoire différent, avec d’autres communautés et d’autres rapports de pouvoir. Le mythe de Teucros permet ainsi de penser l’écart entre mémoire de l’origine et établissement d’un avenir.
+
+[P] La tradition de fondation apparaît chez plusieurs auteurs anciens, sous des formes et des dates différentes. Une cité chypriote réelle ne constitue pas, sans document intermédiaire, la preuve que la tragédie d’Ion montrait une fondation. [H] Un exodos annonçant la nouvelle Salamine serait dramaturgiquement imaginable, **mais absolument non attesté**.
+
+### 25. Risque d’anachronisme colonial
+
+Le vocabulaire moderne de « colonisation » peut servir à discuter les représentations anciennes de déplacement, de terre et de souveraineté. Il ne doit pas faire passer les récits héroïques pour des procès-verbaux du peuplement de Chypre. Les traditions de fondation peuvent légitimer après coup des liens culturels et dynastiques. La date d’une version littéraire, celle d’une communauté politique et celle des événements que la légende prétend représenter ne doivent pas se confondre.
+
+### 26. Archéologie et récit : deux preuves de nature différente
+
+Des inscriptions, monnaies et objets associés à Salamine de Chypre témoignent de pratiques et d’identités historiques ; ils ne documentent pas le livret tragique d’Ion. L’existence d’un culte, d’une statue de Teucros ou d’une image d’archer ne fixe pas un geste de représentation théâtrale. Il serait possible de conduire une recherche séparée sur les constructions politiques du fondateur dans la cité chypriote : ce serait un autre dossier, qu’il faudrait étayer par un inventaire matériel daté.
+
+## VIII. Reconstruire à condition d’exposer ses limites
+
+### 27. Modèle A : la crise au retour dans la maison de Télamon
+
+[H] Le scénario le plus tentant place le héros à Salamine après Troie. Télamon lui reprocherait d’être revenu sans Ajax ; Teucros pourrait chercher une justification et se trouver condamné à partir. Il bénéficie d’un fort parallèle mythique, surtout de l’anticipation sophocléenne et des traditions reprises dans l’*Hélène*.
+
+Pourtant, aucune glose d’Ion ne mentionne Télamon, un jugement paternel, un départ, un navire ou une cité. Aucun témoin ne livre un conflit dialogué entre le père et le fils. **Ce modèle est narrativement cohérent et philologiquement non démontré.** Le présenter comme « résumé de la pièce » reviendrait à fabriquer une œuvre.
+
+### 28. Modèle B : le conflit de loyautés pendant la guerre
+
+[H] Une deuxième proposition situerait l’action dans l’univers troyen, où l’ascendance maternelle d’Hésione offrirait matière à soupçon. Le protagoniste pourrait défendre son allégeance achéenne contre l’objection d’une parenté avec l’ennemi, ou choisir entre des obligations incompatibles.
+
+Ce modèle mobilise des données de généalogie et de guerre ; il rencontre pourtant la même absence de témoins. Les fragments ne parlent ni d’Hésione, ni de Priam, ni de trahison. Le thème des loyautés divisées peut servir de grille de lecture du mythe, non de preuve que le dramaturge en fit l’argument de sa tragédie.
+
+### 29. Modèle C : une scène de la défense d’Ajax ou de ses suites immédiates
+
+[H] Un troisième modèle présenterait Teucros au moment de la crise d’Ajax ou après sa mort, chargé de protéger le corps, la famille et la mémoire du frère. Sa principale force est la densité dramatique attestée du personnage dans le texte conservé de Sophocle ; sa principale faiblesse est précisément cette dépendance à **une autre pièce**. Un auteur pouvait traiter différemment la même matière, mais il n’est pas légitime de recopier les scènes de Sophocle sous le nom d’Ion.
+
+### 30. Absence de choix décisif
+
+Les trois hypothèses sont compatibles avec le simple titre ; aucune ne se déduit des deux mots transmis. Leurs avantages relèvent des possibilités dramaturgiques et de la richesse de la tradition comparative. L’état du dossier ne permet pas d’en désigner une comme « la véritable intrigue ». Nous ne connaissons ni la manière dont Ion ouvrait l’action, ni le point où il choisissait de s’arrêter, ni les positions éthiques finales du chœur. La reconstruction responsable **reste ouverte**.
+
+## IX. Dramaturgie : ce qu’un titre ne permet pas
+
+### 31. Le personnage éponyme n’est pas nécessairement narrateur de son propre destin
+
+Un titre portant le nom d’un héros peut annoncer son importance sans garantir qu’il parle en premier, qu’il occupe chaque scène ou qu’il survive au dénouement. Les œuvres conservées offrent diverses configurations de protagonistes, de messagers et de chœurs. Aucune règle simple ne peut transformer *Teucros* en monologue de Teucros.
+
+Cette remarque peut paraître élémentaire, mais la recherche sur les fragments souffre souvent d’une dramaturgie supposée avant même la lecture des témoins. Un lexicographe ne précise pas quel personnage a prononcé le mot prélevé ; l’attribution à une voix particulière serait ici arbitraire.
+
+### 32. Qu’aurait été le chœur ?
+
+[H] Des compagnons achéens, des hommes de Salamine, des femmes de la maison, des captifs troyens ou des marins pourraient tous convenir à des modèles d’intrigue différents. Aucune option ne dispose d’un fragment choral assuré. La méthode ne doit donc pas réserver un espace imaginaire à un chœur d’archers, de citoyens ou de femmes seulement pour rendre le tableau scénique plus vivant.
+
+### 33. Le temps dramatique
+
+La guerre de Troie, la mort d’Ajax, le retour dans l’île grecque et la fondation chypriote appartiennent à un parcours mythique étendu. Une tragédie classique n’aurait pas nécessairement montré toute cette biographie. Elle pouvait choisir une crise précise et renvoyer le reste aux récits d’un messager ou à l’attente du public. Cependant, attribuer un événement hors scène à un messager présumé serait déjà une invention. La notion aristotélicienne d’action unifiée aide à poser une question théorique, pas à décrire le plan d’Ion.
+
+### 34. Costumes et accessoires : l’archer absent des inventaires
+
+Les images d’archers antiques fournissent des comparaisons visuelles sur l’armement et les gestes. Elles ne prouvent pas qu’un acteur portait un arc, une cuirasse ou le bouclier d’Ajax dans *Teucros*. Aucun document de production, inventaire de théâtre ou image identifiée du spectacle d’Ion n’a été conservé. Pour une éventuelle reconstitution scénographique, chaque accessoire devrait être étiqueté **hypothétique**, et non « restitution fidèle ».
+
+## X. Platon : vérité, imitation et rôle de la cité
+
+### 35. Le philosophe n’a pas commenté le Teucros d’Ion
+
+[I] Platon, *République* II–III, notamment les analyses de l’éducation par les récits et les imitations, permet de réfléchir aux effets d’un héros présenté sous plusieurs visages. Le Teucros homérique est un combattant efficace ; chez Sophocle, il devient défenseur d’un mort ; chez Euripide, un exilé persuadé de connaître un événement dont la représentation est trompeuse. La diversité des représentations montrerait à Platon la nécessité d’examiner non seulement les personnages, mais la formation morale et cognitive du spectateur.
+
+Il est essentiel de ne pas inventer une polémique de Platon contre Ion. Il n’existe pas ici de preuve qu’il ait lu ou entendu cette tragédie précise. *Ion*, le dialogue platonicien, met en scène **un rhapsode nommé Ion** : il ne peut être invoqué comme témoignage sur le dramaturge de Chios par la seule identité du nom.
+
+### 36. Imitation et croyance
+
+[I] Dans *République* X, la critique de la mimèsis invite à distinguer une représentation touchante d’une connaissance sûre. La réception de Teucros illustre ce problème : l’image du survivant injustement rejeté pourrait produire une émotion immédiate ; le dossier documentaire oblige néanmoins à demander ce qui est prouvé. Une tragédie perdue présente ainsi, de façon presque expérimentale, l’écart entre **vérité philologique** et **vraisemblance affective**.
+
+### 37. L’étranger et le régime de reconnaissance
+
+Les récits d’Hésione et de Chypre autorisent une interrogation sur les frontières de la communauté. Que doit-elle à un guerrier issu d’une union marquée par la guerre ? Reconnaît-elle le service rendu ou exige-t-elle une pureté de filiation ? Platon offre des modèles de pensée sur la cité et son éducation ; il ne livre pas une théorie unique ou une solution automatiquement applicable à l’ancien héros. L’étude doit donc éviter aussi bien l’accusation anachronique d’un « racisme » platonicien prêt à l’emploi qu’une idéalisation sans nuances de la cité classique.
+
+## XI. Hegel : la reconnaissance sans symétrie complète
+
+### 38. Conflit tragique et prétentions légitimes
+
+[I] Dans les *Leçons sur l’esthétique*, Hegel considère les conflits tragiques comme des tensions entre puissances éthiques qui peuvent posséder chacune une part de légitimité, tout en devenant destructrices lorsqu’elles s’absolutisent. Une opposition **possible** entre Télamon et Teucros serait féconde pour cette grille. Le père pourrait exprimer une obligation de fidélité à la maison et au frère mort ; le fils, le devoir déjà accompli de sauver ce qui pouvait l’être et de revenir vivant. L’un ne saurait réduire la survivance à une trahison ; l’autre ne disposerait pas pour autant du pouvoir d’effacer la perte.
+
+Mais nous ne pouvons pas attribuer cette structure à la tragédie perdue. La dialectique n’est ici qu’une manière moderne de formuler l’intérêt du mythe, **conditionnellement** à l’existence d’un conflit dramatique de retour.
+
+### 39. Le héros sous le bouclier d’Ajax : dépendance et reconnaissance
+
+L’épisode homérique offre une image suggestive pour penser la reconnaissance. Le tireur bénéficie d’une protection indispensable, mais il agit par sa compétence propre ; il n’est ni totalement autonome ni simplement subordonné. On pourrait dire qu’une communauté juste devrait reconnaître simultanément le défenseur et l’archer. Ce serait pourtant une transposition philosophique moderne, non une référence à une doctrine formulée par Ion.
+
+La notion hégélienne de reconnaissance n’autorise pas à convertir l’arc ou le bouclier en symboles dont l’auteur antique aurait eu la pleine conscience conceptuelle. L’analogie vaut par sa capacité explicative actuelle, non par une identité historique.
+
+### 40. Le conflit n’est pas toujours réconcilié
+
+[I] La lecture hégélienne est parfois simplifiée en promesse d’une harmonie finale. Une tragédie peut au contraire montrer que des obligations ne se résolvent pas sans perte. Dans les traditions de Teucros, la nouvelle Salamine n’annule pas la mort d’Ajax ; l’installation chypriote n’efface pas l’exil de la première Salamine. La continuité du nom n’efface pas la discontinuité des lieux. Cette irréversibilité offre une limite utile aux récits de réconciliation qui absorberaient toutes les contradictions.
+
+## XII. Nietzsche : l’agon et le refus d’une téléologie consolatrice
+
+### 41. Souffrance et forme artistique
+
+[I] Dans *La Naissance de la tragédie*, Nietzsche analyse le tragique à partir de l’articulation des puissances apolliniennes de figuration et de l’expérience dionysiaque de la démesure et de la souffrance. Le sort traditionnel de Teucros offre de quoi éprouver cette interprétation : l’effort victorieux du combattant ne lui assure ni l’amour du père ni une patrie stable ; la grandeur héroïque n’abolit pas la perte.
+
+La pensée de Nietzsche permet de résister à une lecture où le héros devrait nécessairement être moralement récompensé pour sa compétence. Cependant, la pièce d’Ion ne conserve aucun dispositif choral ou musical permettant d’affirmer qu’elle matérialisait la dualité décrite par le philosophe.
+
+### 42. Le danger d’une lecture exclusivement « dionysiaque »
+
+Le défaut opposé serait de transformer la pauvreté documentaire en preuve d’une profondeur artistique cachée. Un mot isolé ne démontre pas un chœur extatique, une vision pessimiste du monde ou une victoire de Dionysos sur les formes de la cité. Nietzsche sert ici à poser une question : comment l’existence humaine continue-t-elle lorsque la valeur d’un acte ne garantit pas l’ordre de la vie ? La réponse du dramaturge demeure inconnue.
+
+### 43. Généalogie de la valeur héroïque
+
+[I] L’intérêt nietzschéen pour les valeurs permet une lecture critique des jugements portés sur le survivant. Si la famille exige la mort avec le frère pour prouver la fidélité, elle érige en valeur un sacrifice qui détruit ses propres possibilités d’avenir. Si elle méprise l’archer en dépit de ses exploits, elle privilégie le statut à l’efficacité. Ces tensions ne doivent toutefois pas être attribuées à une morale définie d’Ion. Il s’agit de problèmes que le corpus comparatif rend intelligibles.
+
+## XIII. Aristote et les problèmes de l’action
+
+### 44. L’ordonnancement ne peut être déduit du héros
+
+[I] Aristote, *Poétique*, notamment les chapitres 6–11, distingue l’action organisée et la seule succession d’épisodes. Le nom d’un héros ne fournit pas à lui seul un commencement, un milieu et une fin. L’historien des fragments ne doit donc pas remplacer l’ordonnance inconnue d’Ion par la chronologie encyclopédique de la vie de Teucros.
+
+Cette exigence fait partie des raisons pour lesquelles la présente monographie ne donne pas de « résumé de la tragédie » au sens où l’on résume *Antigone* ou *Médée*. Nous pouvons résumer **le dossier documentaire**, pas l’action perdue.
+
+### 45. Péripétie, reconnaissance, faute
+
+Les traditions de Teucros pourraient accueillir des situations aristotéliciennes : le combattant vainqueur devenu exilé, la reconnaissance familiale refusée, l’erreur de jugement d’un père ou d’un chef. Pourtant aucune de ces situations ne s’atteste comme péripétie, anagnorisis ou hamartia dans la pièce d’Ion. Il serait incorrect de placer automatiquement une « reconnaissance finale » sous prétexte que le mythe s’y prêterait.
+
+## XIV. Comparaisons mythologiques à échelle contrôlée
+
+### 46. Le survivant rejeté : comparaisons grecques
+
+La littérature grecque multiplie les figures de héros dont le retour pose une difficulté politique. Ulysse doit reconquérir sa maison ; Oreste revient dans une demeure rendue étrangère par le meurtre ; Agamemnon rentre sous le signe d’une confiance trompée. Ces parallèles concernent des **structures narratives** différentes. Teucros n’est pas Ulysse, n’est pas Oreste, et aucun fait ne démontre qu’Ion a composé sa pièce comme une réponse à ces tragédies.
+
+La comparaison précise ce qui serait distinctif dans les récits de Teucros : l’homme peut être blâmé non pour un acte criminel, mais pour l’absence du frère plus prestigieux et pour sa propre survie. Cette singularité demeure une propriété de certaines traditions conservées ailleurs, non un résumé du drame ionien.
+
+### 47. Héritage, terre et nouveau nom
+
+Les fondations héroïques de cités, comme plusieurs récits liés aux retours de Troie, mettent souvent en jeu l’idée qu’un héritage perdu peut être transporté par les noms et par les rites. L’hypothèse d’une nouvelle Salamine permet de demander si un déplacement fonde véritablement une identité renouvelée ou prolonge une dette impossible à régler. Mais on ne peut comparer deux fondations anciennes comme si elles procédaient nécessairement d’une unique institution ou d’un rite identique ; le contexte local et les dates des sources font varier leur fonction.
+
+### 48. Les figures étrangères ne sont pas interchangeables
+
+Hésione, issue de la maison troyenne, ne doit pas être comparée indistinctement aux femmes captives de toutes les mythologies, ni Teucros à tout héros culturel qui voyage. Les analogies structurelles n’apportent pas automatiquement de filiation historique. Une comparaison avec des récits mésopotamiens de retour royal ou des traditions égyptiennes de déplacement resterait, en l’absence de mécanismes précis de transmission et de correspondances textuelles, trop générale pour renforcer la reconstruction d’Ion. La présente étude s’abstient de cette extension gratuite.
+
+## XV. Iconographie : images contemporaines d’un héros, non images du drame
+
+### 49. Le fronton d’Aphaia à Égine
+
+[P] Les sculptures du **temple d’Aphaia à Égine**, conservées à la **Glyptothèque de Munich**, comprennent des figures d’archers appartenant à des compositions consacrées aux combats du cycle troyen. L’une des figures du fronton occidental est couramment désignée comme **Teucros**, avec des réserves d’identification qui doivent accompagner toute reproduction. La sculpture est généralement placée dans l’horizon des premières décennies du Ve siècle avant notre ère, antérieur ou proche du monde culturel d’Ion. Elle témoigne de la valeur iconographique du héros archer, mais **pas** de la scénographie de *Teucros*.
+
+Notice d’orientation et reproduction documentaire : https://commons.wikimedia.org/wiki/File:Aphaia_pediment_Teukros_W-IV_Glyptothek_Munich_77.jpg . Pour l’étude critique, vérifier également le catalogue institutionnel de la Glyptothèque et les notices archéologiques d’Aphaia ; une photographie en ligne ne supplée pas un inventaire d’objet.
+
+### 50. Le risque de reconnaître un personnage parce qu’on connaît son histoire
+
+Les identifications iconographiques reposent sur des positions, armes, relations entre figures et traditions d’ensemble. Un archer grec n’est pas automatiquement Teucros. Même lorsqu’une attribution est vraisemblable, elle peut rester débattue. L’historien doit éviter une boucle circulaire : identifier un personnage grâce à son mythe, puis se servir de cette identification pour prouver un détail de la pièce perdue.
+
+### 51. Trois niveaux iconographiques
+
+Il convient de séparer l’**iconographie du héros** (Teucros dans l’art grec), l’**iconographie de la tradition** (Ajax, la guerre, la fondation) et une hypothétique **iconographie de l’œuvre** (preuve qu’une image représente spécifiquement la mise en scène d’Ion). Les deux premiers domaines sont documentables ; le troisième ne l’est pas sur les sources actuellement retenues. Aucun rendu photoréaliste prétendument « fidèle » de la scène d’Ion ne saurait être validé scientifiquement sans avertissement.
+
+## XVI. Réception et critique des autorités
+
+### 52. Sophocle, Euripide et Ion : trois témoins d’un matériau partagé
+
+Ion appartient au monde culturel où circulent les traditions exploitées par les poètes dramatiques. Mais la comparaison entre trois auteurs n’autorise pas à supposer une relation simple de copie ou de correction. Nous ne connaissons pas l’ordre chronologique relatif de la pièce d’Ion et de toutes les formulations du mythe dans les autres drames. Il serait abusif d’écrire qu’Ion « annonce » Euripide ou « reprend » Sophocle en l’absence d’un indice daté et spécifique.
+
+### 53. La réception latine et les limites de la rétroprojection
+
+Les auteurs et poètes latins ont parfois développé les traditions de Teucros, les conflits de paternité et le souvenir d’Ajax. Ces témoins sont précieux pour une histoire diachronique du personnage. Ils ne reconstruisent pas automatiquement la tragédie d’Ion. La transmission postérieure peut conserver un motif ancien, mais elle peut aussi l’avoir recomposé ; l’ancienneté supposée doit se démontrer, non se présumer.
+
+### 54. Le piège des encyclopédies modernes
+
+Les résumés modernes de « Teucros » réunissent fréquemment en un seul récit l’archer homérique, le frère d’Ajax, le fils d’Hésione, l’exilé de Salamine et le fondateur chypriote. Ce récit composite est utile pour une première orientation ; il devient trompeur lorsqu’on le fait passer pour l’argument d’une pièce perdue. Dans une monographie universitaire, l’identité du narrateur antique, la date de chaque source et le niveau de certitude accompagnent toujours l’information.
+
+## XVII. Matrice critique des propositions
+
+| Proposition | Niveau | Justification |
+| :-- | :-- | :-- |
+| Ion de Chios a laissé une œuvre intitulée *Teucros* | [D] | Rubrique et attributions dans la tradition fragmentaire |
+| FragTrag.1 39–40 correspondent à TrGF I F 34–35 | [E], vérifié | Concordance numérique publiée par l’Université de Patras |
+| Köpke donne deux items sous *Teucros*, K. 47–48 | [E], vérifié | Édition de 1836 reproduite |
+| La forme du second item connaît des difficultés de transmission | [D/E] | Confrontation des gloses et des anciennes transcriptions |
+| Teucros combat sous le bouclier d’Ajax | [P] | Homère, *Iliade* VIII |
+| Teucros défend la sépulture d’Ajax | [P] | Sophocle, *Ajax* |
+| Teucros apparaît comme exilé en route vers Chypre | [P] | Euripide, *Hélène* |
+| Télamon était un personnage du *Teucros* d’Ion | [H] | Aucun témoin direct |
+| La pièce montrait un jugement puis une fondation | [H] | Construction narrative possible, non attestée |
+| Le chœur regroupait des marins ou des habitants de Salamine | [H] | Aucune indication textuelle |
+| Le fronton d’Aphaia représente la tragédie d’Ion | Non établi | Iconographie héroïque, absence de lien scénique |
+| La tension entre valeur guerrière et exclusion familiale est philosophique | [I] | Analyse comparative, non citation d’Ion |
+
+La matrice n’est pas une formalité : elle est le résultat essentiel de cette recherche sur un texte dont l’étendue originale et l’ordre des scènes sont perdus. Elle permet aux chercheurs suivants de compléter un point précis sans devoir démanteler un scénario fictif devenu tradition éditoriale.
+
+## XVIII. Bibliographie critique et pistes de contrôle
+
+### 55. Éditions et concordances
+
+**FragTrag.1**, Université de Patras, *Concordance des tragiques grecs fragmentaires*, rubrique Ion, *Τεῦκρος*, fr. 39–40, avec correspondances TrGF I F 34–35, consultation 7 novembre 2026. https://fragtrag1.upatras.gr/exist/apps/fragtrag/indexc.html . **Source de première importance pour les numéros ;** elle ne remplace pas à elle seule la consultation des apparats manuscrits.
+
+**Bruno Snell**, *Tragicorum Graecorum Fragmenta*, vol. I, *Didascaliae tragicae, catalogi tragicorum et tragoediarum, testimonia et fragmenta tragicorum minorum*, deuxième édition revue, Göttingen, Vandenhoeck & Ruprecht, 1986, avec corrections et supplément bibliographique associés à Richard Kannicht dans l’histoire éditoriale de la collection. **Référence critique de numérotation pour Ion.** Vérifier l’impression précise avant de reproduire un apparat complet.
+
+**August Nauck** (éd.), *Tragicorum Graecorum Fragmenta*, 2e édition, Leipzig, B. G. Teubner, 1889, p. 732–746 pour Ion ; l’entrée *Teukros* est donnée p. 738–739 dans le catalogue Perseus. Notice : https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0308.tlg001.opp-grc1 . **Édition historique, non équivalente à TrGF I.**
+
+**Ernst Siegfried Köpke**, *De Ionis Chii poetae vita et fragmentis*, 1836, texte historique en grec reproduit à https://el.wikisource.org/wiki/Αποσπάσματα_(Ίων_ο_Χίος) ; items K. 47–48 sous *ΤΕΥΚΡΟΣ*. **Lire comme témoin de l’histoire des éditions, avec vigilance sur les graphies.**
+
+**Hésychios d’Alexandrie**, *Lexicon*, gloses relatives aux formes associées à Ion et à *Teucros* ; la consultation du lexique exige un contrôle de l’édition et du lemme exact. **Témoin indirect principal, non livret dramatique.**
+
+### 56. Sources antiques de contexte, à ne pas citer comme fragments de la pièce
+
+**Homère**, *Iliade* VIII, 266–334 environ : Teucros, Ajax, l’arc, la défense et l’éloge guerrier. Lire l’édition grecque et le contexte du chant entier.
+
+**Sophocle**, *Ajax*, principalement 974–1039, 1047–1162 et 1223–1420 : deuil de Teucros, anticipation du blâme, querelle funéraire et défense de la sépulture. **Œuvre conservée distincte** ; *Teucros* de Sophocle est lui-même un dossier fragmentaire indépendant de celui d’Ion.
+
+**Euripide**, *Hélène*, ouverture et dialogue avec Teucros, approximativement 68–163 : exil, ignorance de la vérité sur Hélène, projet chypriote et seconde Salamine. Texte et traduction disponibles notamment auprès du Center for Hellenic Studies, Harvard. **Ne pas attribuer ces épisodes à Ion.**
+
+**Pseudo-Apollodore**, *Bibliothèque*, traditions des maisons d’Éaque et de Télamon, de la naissance de Teucros et des cycles de la guerre de Troie ; vérifier chaque localisation de section dans l’édition utilisée. **Mythographie postérieure, non source de scène.**
+
+**Aristote**, *Poétique* 1449b–1453b : action, intrigue, reconnaissance et péripétie. **Outil analytique, non témoin d’Ion.**
+
+**Platon**, *République* II–III et X : imitation, formation morale par les récits, vérité et apparence. **Lecture philosophique rétrospective.** Le dialogue *Ion* ne doit pas être confondu avec Ion de Chios.
+
+### 57. Études modernes et philosophie
+
+**G. W. F. Hegel**, *Cours d’esthétique* / *Leçons sur l’esthétique*, exposés concernant la tragédie, les forces éthiques et le conflit ; préciser traduction et édition lorsqu’un passage est cité littéralement. Dans cette monographie, il s’agit d’une **référence conceptuelle**, sans citation inventée.
+
+**Friedrich Nietzsche**, *La Naissance de la tragédie* (1872), notamment les développements sur l’apollinien, le dionysiaque et les formes du drame ; utiliser l’édition critique pour toute citation textuelle. **Aucun commentaire direct sur le *Teucros* d’Ion n’est allégué.**
+
+**A. von Blumenthal**, *Ion von Chios. Die Reste seiner Werke*, Stuttgart, 1939. Édition historique de la production littéraire variée d’Ion ; sa place dans la bibliographie est de favoriser la comparaison des genres et des traditions textuelles, non de certifier un déroulement dramatique.
+
+**E. Stewart**, « Ion of Chios: The Case of a Foreign Poet in Classical Sparta », *The Classical Quarterly* 68.2 (2018), p. 394–407, DOI : 10.1017/S0009838819000016. Étude sur la situation culturelle de l’auteur, **pas une reconstruction documentaire de *Teucros*.**
+
+**T. B. L. Webster**, « Sophocles and Ion of Chios », *Hermes* 71 (1936), p. 263–274, référence historique à vérifier pour les discussions de relations littéraires ; son titre ne suffit pas à conclure qu’Ion aurait imité une pièce particulière de Sophocle.
+
+**Théodore Reinach**, « Un fragment d’Ion de Chios », *Revue des Études Grecques* 14, no 56 (1901), p. 8–19, DOI : 10.3406/reg.1901.6033. Étude contrôlée bibliographiquement, consacrée à un **fragment musical distinct**, non aux deux fragments attribués à *Teucros*.
+
+### 58. Orientation pour la poursuite de l’enquête
+
+La recherche pourra utilement approfondir les leçons des manuscrits d’Hésychios et les raisons des différences entre la forme éditée par Köpke et les glosses consultables ; consulter une reproduction de l’apparat de TrGF I et les études spécialisées sur Ion ; examiner les témoignages relatifs aux fondations de Salamine de Chypre en distinguant leurs dates ; comparer les éditions de l’*Ajax* et de l’*Hélène* sur les questions d’exil et de mémoire ; enfin documenter chaque image du sanctuaire d’Aphaia par sa notice d’inventaire.
+
+Ces travaux pourraient améliorer le commentaire d’un fragment ou confirmer une variante. Ils ne garantissent pas la découverte d’une intrigue. Toute découverte future doit être intégrée au **même dossier d’œuvre**, sans créer de seconde monographie concurrente par simple variation de titre.
+
+## Conclusion générale : le droit d’ignorer ce qui n’a pas survécu
+
+Le *Teucros* d’Ion de Chios présente un paradoxe exemplaire pour l’histoire littéraire. Le héros est abondamment présent dans la mémoire grecque ; **sa tragédie particulière est presque absente**. L’historien dispose d’un titre, d’une rubrique philologique, de deux traces lexicales et d’un immense horizon mythique. Le danger n’est pas de manquer de matériaux : il est d’en avoir tant, mais provenant d’autres auteurs, qu’une pièce imaginée paraisse plus « complète » que les fragments véritables.
+
+La pensée philosophique révèle la fécondité de cette absence sans l’abolir. Platon invite à distinguer les pouvoirs de la représentation de la connaissance ; Hegel permet de réfléchir au conflit possible des devoirs familiaux et guerriers ; Nietzsche aide à penser une grandeur héroïque qui n’entraîne aucune garantie de bonheur. Mais aucun de ces penseurs n’autorise à faire parler Ion par procuration. Le même principe vaut pour les images d’Aphaia et les récits de la seconde Salamine.
+
+La rigueur philologique constitue donc une responsabilité envers l’œuvre perdue : ne pas effacer son absence sous la projection d’un récit célèbre. **Nous connaissons le titre et deux éléments de sa transmission ; nous ne connaissons pas l’action.** L’invention peut nourrir une création contemporaine inspirée du mythe, mais ne saurait se présenter comme le texte antique. C’est précisément parce que la pièce a presque entièrement disparu qu’elle réclame une monographie distincte, critique, sourcée et délibérément inachevée dans sa reconstitution.
+
+*Fin de la monographie. Les références à d’autres volumes sont historiques et ne réservent aucun numéro futur. L’attribution éditoriale du présent manuscrit est exclusivement celle du reçu transactionnel GitHub.*

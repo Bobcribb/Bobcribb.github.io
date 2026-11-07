@@ -1,0 +1,436 @@
+# MYTHOS — Encyclopédie universitaire de mythologie grecque — Chapitre 482
+
+## Damia et Auxésia : images divines, croissance, rivalités entre cités et voix féminines à Égine, Épidaure et Trézène
+
+*Étude universitaire originale de mythologie et d'histoire de la religion grecque. Philologie des noms cultuels, récit d'Hérodote, inscription d'inventaire d'Égine, rituels féminins, topographie des sanctuaires, conflit politique, anthropologie des objets et histoire des interprétations. Manuscrit intégral sans numéro canonique anticipé.*
+
+### Résumé scientifique
+
+**Damia (Δαμία) et Auxésia (Αὐξησία)** constituent l'une des associations divines les plus instructives du polythéisme grec. Elles sont invoquées dans une histoire de fertilité agricole, de détention d'images sacrées, de concurrence entre communautés et de rites où les femmes ont un rôle rituel explicitement mentionné. Leur dossier est particulièrement remarquable parce qu'il repose sur trois familles de preuves dont la combinaison n'est jamais immédiate : le récit construit par Hérodote (*Histoires* V, 82–89), la variante locale transmise par Pausanias (*Description de la Grèce* II, 32, 2) et un inventaire épigraphique de la fin du Ve siècle avant notre ère, **IG IV² 2, 787**, provenant d'Égine.
+
+La documentation ne raconte pas uniformément la vie de deux « déesses de la fécondité ». Hérodote fait partir son récit d'une crise de production à Épidaure, d'un oracle de Delphes, de deux images fabriquées avec du bois d'olivier attique, puis d'une appropriation par les Éginètes. Il en résulte des obligations cultuelles litigieuses, une expédition athénienne malheureuse, des versions contradictoires de la catastrophe et une explication du port des fibules. Pausanias rapporte à Trézène une histoire distincte : Damia et Auxésia seraient deux jeunes Crétoises lapidées dans une querelle civile, auxquelles une fête appelée *Lithobolia* rendait hommage. L'inscription d'Égine nomme quant à elle **Mnia** et **Auzésia** et enregistre des équipements concrets : images, objets métalliques, péploi, fibules, vases et, dans l'espace de Mnia, une image de Dionysos. Elle ne valide pas de façon mécanique toutes les péripéties du récit hérodotéen.
+
+Le problème général est celui de la **puissance située**. Pourquoi la présence d'une image en un lieu devient-elle affaire de souveraineté et de dettes publiques ? Comment une offrande féminine peut-elle être liée au souvenir d'une bataille ? Pourquoi un historien explique-t-il un usage vestimentaire à partir d'une expédition sanglante ? Et comment traiter les noms locaux sans réduire les deux puissances à des doubles interchangeables de Déméter et de Korè ? Cette monographie défend une lecture fondée sur la différence des sources et sur l'histoire matérielle des sanctuaires.
+
+**Légende de preuve.** [T] : texte ancien attestant ce qu'un auteur raconte ; [E] : inscription ou inventaire matériel directement édité ; [H] : hypothèse historique ou philologique, argumentée mais révisable ; [I] : lecture conceptuelle moderne. Cette typologie ne signifie pas qu'un récit antique est faux : elle indique ce que chaque document permet effectivement de conclure.
+
+---
+
+## I. Deux noms, une paire cultuelle, plusieurs identités locales
+
+### 1. Pourquoi une notice sur le duo et non deux biographies divines séparées ?
+
+[T] Les sources fondamentales présentent les deux puissances ensemble. Hérodote raconte la fabrication de leurs **deux images**, le transfert de leurs cultes et les chœurs féminins qui leur sont consacrés. Pausanias les unit également dans sa notice sur Trézène. La documentation épigraphique évoque deux espaces sacrés liés à Mnia et à Auzésia. Cette association est plus sûre que toute reconstruction de généalogies indépendantes.
+
+[I] Dans une religion polythéiste, la proximité de deux divinités ne veut pas dire qu'elles possèdent exactement les mêmes compétences. Les paires peuvent être mobilisées pour représenter un ensemble de processus — germination et maturation, continuité des familles, protection d'un territoire — sans constituer le simple dédoublement d'une déesse unique. Il faut donc étudier la **relation** entre les deux puissances, non inventer leur histoire familiale.
+
+### 2. Auxésia et la croissance : ce qui est linguistiquement plausible
+
+[H] Le nom Αὐξησία renvoie naturellement au champ de l'augmentation et de la croissance, que les verbes grecs *aúxō* et *auxánō* permettent de contextualiser. La forme épigraphique éginète **Αὐζησία** comporte une graphie locale qui doit être enregistrée, non corrigée silencieusement. L'étude linguistique d'Elena Langella (2025) insiste précisément sur la variété des formes divines et sur leurs relations avec croissance végétale, croissance humaine et devenir communautaire.
+
+Le sens apparent d'un nom n'autorise pas une description totale des attributions d'une déesse. « Croissance » peut caractériser l'effet attendu d'une puissance, mais ne fournit ni calendrier de fêtes, ni portrait iconographique assuré, ni preuve que l'ensemble du culte était strictement agricole.
+
+### 3. Damia, Mnia et la prudence étymologique
+
+[H/E] Hérodote nomme **Damiê/Damia** la première déesse ; l'inscription IG IV² 2, 787 comporte le nom **Mnia (Μνία)**. Les travaux récents discutent les variantes *Damia*, *Dmia* et *Mnia* comme des formes appartenant à une famille cultuelle. La présentation de Langella (2025) distingue les hypothèses étymologiques anciennes des analyses plus précises du nom. Il serait abusif d'annoncer une dérivation indiscutée de « Déméter », de « la terre mère » ou d'une racine prise isolément.
+
+Il faut distinguer **nom de tradition narrative**, **nom inscrit par une communauté dans une liste**, et **identification proposée par un exégète**. Le document d'Égine est une preuve de l'emploi de Mnia et d'Auzésia dans un contexte cultuel déterminé ; sa présence n'oblige pas tous les auteurs à utiliser la même forme.
+
+### 4. Déméter et Korè : comparaison de fonctions, non effacement de noms
+
+[H] Le lien entre la productivité des champs et les deux déesses rend intelligible leur comparaison avec Déméter et Perséphone/Korè. Nicholas J. Richardson l'enregistre comme un rapprochement de fonction. Irene Polinskaya consacre, dans son enquête sur Égine, une section au problème : **« Damia and Auxesia versus Demeter and Kore: Similar, but Different »**. La formulation elle-même appelle à ne pas confondre analogie et identité.
+
+Une notice encyclopédique doit donc refuser la simplification « Damia = Déméter ; Auxésia = Korè » sans contexte ni témoin précis. Le monde grec n'avait pas besoin d'un système théologique central imposant à toutes les cités des équivalences fixes entre puissances locales et grandes figures panhelléniques.
+
+---
+
+## II. Hérodote V, 82 : la terre stérile et la réponse de Delphes
+
+### 5. Le diagnostic narratif : la terre ne produit plus
+
+[T] Hérodote commence par un manque de récoltes à Épidaure. Les habitants interrogent l'oracle de Delphes, et la Pythie leur enjoint d'établir des images de Damia et d'Auxésia. La source ne donne ni série de températures, ni stratigraphie des sols, ni diagnostic précis des causes agronomiques : les générations postérieures ne doivent pas transformer cette ouverture en preuve d'une sécheresse datable.
+
+[I] Pour l'historien, cette scène fait de la défaillance productive un problème de la cité dans son ensemble. Les hommes cherchent à rétablir la relation entre le territoire, ses puissances et l'ordre institutionnel ; la réponse oraculaire débouche sur une décision de fondation cultuelle. La catastrophe donne un motif à la création d'une obligation collective.
+
+### 6. Pourquoi des images, et pourquoi du bois ?
+
+[T] Les Épidauriens demandent si les statues doivent être en pierre ou en bronze ; l'oracle écarte ces deux matériaux et prescrit du bois d'olivier **cultivé** (*hēmérē elaíē*). Le détail est capital. Les habitants ne peuvent satisfaire pleinement l'injonction sans obtenir le bois réputé sacré des Athéniens.
+
+L'exigence ne doit pas être expliquée au moyen d'une prétendue supériorité spirituelle générale du bois sur le métal. Hérodote raconte une consigne particulière, dans une histoire de relations inter-civiques. Il ne dit pas que toutes les statues de fertilité devaient être sculptées dans un olivier.
+
+### 7. L'olivier attique comme matière d'un pacte
+
+[T] Les Athéniens acceptent que les Épidauriens prélèvent le bois à condition que ces derniers apportent annuellement des offrandes à **Athéna Polias** et à **Érechthée**. Les images ne sont donc pas seulement des instruments de remède ; leur production engage des échanges religieux durables entre deux communautés.
+
+[I] Le matériau conserve une provenance politiquement significative. Lorsqu'une image conçue pour protéger une récolte dépend du don d'une autre cité, la puissance religieuse se trouve enveloppée d'une dette. À ce stade du récit, le bois relie la terre, le sacré et le droit de demander des offrandes, sans qu'il soit nécessaire d'inventer un titre juridique comparable à la propriété contemporaine.
+
+### 8. Le succès attribué au culte
+
+[T] Après l'installation des images, la terre d'Épidaure produit à nouveau et les obligations envers Athènes sont remplies. Le récit construit ainsi une séquence complète : pénurie, consultation, fabrication, installation, prospérité restaurée et fidélité au pacte.
+
+[H] Rien ne permet, à partir de cette seule séquence, de démontrer l'existence d'un changement climatique, l'efficacité agronomique d'un culte ou une date absolue pour la première implantation de Damia et d'Auxésia. Cette histoire explique la légitimité d'un état de relations ; elle n'est pas une série indépendante de données environnementales.
+
+---
+
+## III. Égine : l'enlèvement des images et la nouvelle autonomie
+
+### 9. De la dépendance judiciaire à la puissance maritime
+
+[T] Hérodote V, 83 indique que les Éginètes étaient auparavant dans une position subordonnée envers les Épidauriens, jusqu'à porter leurs litiges devant les tribunaux d'Épidaure. Puis leur développement maritime nourrit une rupture politique. Dans le conflit, ils enlèvent les images de Damia et d'Auxésia et les transfèrent à Égine.
+
+Le récit associe donc deux déplacements : une communauté s'affranchit d'une dépendance, des images quittent la juridiction de cette communauté antérieure. Il serait réducteur de raconter l'épisode comme un simple pillage sans effets institutionnels.
+
+### 10. Oia : un lieu d'installation, non le temple d'Aphaia
+
+[T] Les statues sont placées dans l'île à **Oia (Οἴη)**, qu'Hérodote situe à environ vingt stades de la cité. La localisation textuelle n'autorise pas une identification archéologique au mètre près. Elle impose surtout de ne pas confondre ce sanctuaire avec le **temple d'Aphaia**, près d'Agia Marina, étudié ailleurs dans MYTHOS.
+
+[H] Le dossier topographique éginète doit distinguer au moins le territoire de l'agglomération, ses sanctuaires internes et les autres lieux cultuels dispersés sur l'île. Une carte générale peut montrer ces espaces, mais aucune image de la façade d'Aphaia ne saurait servir de « photographie du temple de Damia et Auxésia » sans preuve.
+
+### 11. La possession des statues fait-elle posséder les déesses ?
+
+[I] Dans la logique du récit, la communauté qui détient les images peut instaurer les honneurs qui leur sont dus. Toutefois la déesse n'est pas strictement identique à son matériau ; l'image est un point de relation concrète avec elle. Cette tension est essentielle : l'objet peut être transporté, revendiqué, fixé dans un autre lieu, alors que la puissance qu'il rend présente excède la matière du support.
+
+La conquête d'un symbole n'est pas exactement une conquête de la divinité. Mais elle peut devenir la preuve visible d'une nouvelle capacité d'agir, puisque le culte suit les images et participe à la constitution d'un paysage sacré autonome.
+
+### 12. La dette change-t-elle de débiteur ?
+
+[T] Épidaure cesse les offrandes promises à Athènes ; interrogés, les Épidauriens répliquent qu'ils ne possèdent plus les statues, et renvoient les Athéniens vers Égine. La revendication athénienne est ainsi dirigée contre les nouveaux détenteurs, qui contestent l'existence d'une obligation envers Athènes.
+
+[H/I] L'extrait ne doit pas être anachroniquement traduit en traité international doté d'articles écrits. Hérodote met en scène un raisonnement de réciprocité : **qui bénéficie désormais des images doit-il assumer la charge attachée à leur origine ?** Ce conflit donne une forme religieuse aux tensions politiques entre cités.
+
+---
+
+## IV. Chœurs de femmes, insultes rituelles et financements masculins
+
+### 13. La *loidoria* rituelle : des paroles qui ne sont pas des ornements
+
+[T] Hérodote V, 83, 3 décrit à Égine des sacrifices et des chœurs féminins associés à une raillerie ritualisée, adressée non aux hommes mais aux femmes du pays. Il précise que **dix hommes** sont chargés de pourvoir à chaque chœur. Le texte ajoute que les Épidauriens pratiquaient des rites semblables et possédaient aussi des cérémonies réservées.
+
+Il faut éviter de remplacer ces indications concrètes par la formule vague « anciennes orgies mystérieuses ». La documentation mentionne des actrices rituelles, une forme de parole, un mode de financement, un lieu et une comparaison, mais ne livre ni le texte des chants ni leur déroulement complet.
+
+### 14. L'injure collective n'est pas un détail comique
+
+[I] Des paroles ordinairement offensantes peuvent prendre, dans certaines circonstances de fête, une place réglée et attendue. L'existence d'une telle inversion ne signifie pas disparition des hiérarchies de genre ; elle permet de demander comment la communauté autorise provisoirement des expressions qu'elle pourrait condamner ailleurs.
+
+Les travaux sur les fêtes grecques et les plaisanteries ritualisées éclairent le problème à titre comparatif. On doit néanmoins résister à deux identifications hâtives : tout chœur féminin n'est pas un culte de Déméter ; toute obscénité rituelle n'est pas une preuve immédiate d'un mécanisme universel de « magie de la fécondité ».
+
+### 15. Qui paie, qui parle, qui contrôle ?
+
+[T/I] Hérodote répartit explicitement les responsabilités : les femmes chantent et les hommes désignés financent. On ne peut déduire de cette mention que les femmes n'organisaient aucune autre dimension de la cérémonie, ni que tous les hommes étaient exclus. Le texte ne donne qu'une partie du dispositif.
+
+La distinction institutionnelle est importante pour l'histoire des voix féminines. Une communauté peut conférer à des groupes de femmes une autorité performative sur le langage rituel tout en maintenant des mécanismes masculins de financement et de validation. L'étude d'un rituel ne doit pas se limiter au nom du dieu qui reçoit les sacrifices.
+
+### 16. Des « rites secrets » dont le contenu manque
+
+[T] Hérodote signale que les Épidauriens possèdent également des rites non publics. L'adjectif employé ne constitue pas une autorisation pour restituer des scènes, des gestes sexuels, des formules ou des objets dont aucune source ne donne le détail. Il faut reconnaître le seuil documentaire.
+
+[H] Les comparaisons avec d'autres cultes féminins et céréaliers peuvent aider à formuler des hypothèses, mais elles ne remplacent pas la documentation locale. Un dossier universitaire doit être capable de dire « nous ne savons pas » au lieu de fournir une reconstitution séduisante dépourvue de preuve.
+
+---
+
+## V. Hérodote V, 85–86 : l'expédition contre les images et les récits concurrents
+
+### 17. La version athénienne : la volonté d'arracher les statues
+
+[T] Dans la version que l'historien attribue aux Athéniens, une expédition est envoyée à Égine pour récupérer les statues. Les hommes essaient de les dégager de leurs bases puis les tirent à l'aide de cordes. Tonnerre et tremblement de terre interrompent l'entreprise ; les assaillants, frappés d'égarement, s'entre-tuent et un seul survivant regagne l'Attique.
+
+Cette description attribue un rôle actif à la manifestation divine. Il ne faut ni convertir les prodiges en constat géologique indépendant ni affirmer que la tradition athénienne est seulement une chronique fiable de bataille. Elle raconte aussi une sanction de la tentative de déplacement.
+
+### 18. La version argienne et éginète : une destruction militaire
+
+[T] Hérodote rapporte une autre tradition, portée par les Éginètes et les Argiens : la catastrophe ne vient pas prioritairement d'un affrontement surnaturel au pied des statues ; elle s'inscrit dans une intervention armée et une défaite des Athéniens face à leurs adversaires. Les versions divergent non sur l'existence d'un récit de désastre, mais sur l'agent responsable de ce désastre.
+
+[H] Il n'est pas possible de décider entre ces deux récits par simple préférence pour le plus spectaculaire ou pour le plus « rationnel ». La divergence fournit une information de première importance : chaque communauté peut modeler le souvenir du conflit pour produire une explication acceptable de sa conduite et de ses pertes.
+
+### 19. Les déesses à genoux et l'origine narrative d'une posture
+
+[T] Hérodote évoque les images restées sur place malgré l'effort athénien. L'interprétation selon laquelle les statues se seraient mises à genoux à la suite de la tentative d'enlèvement explique une particularité de leur posture dans le récit. Richardson signale ce lien et la possibilité que cette position ait favorisé une lecture des déesses comme puissances de la naissance.
+
+[H] Le passage ne fournit aucune photographie ni aucune image matérielle conservée des xoana originels. Une statue véritablement découverte à Égine ne devrait pas être baptisée « Damia » sur le seul motif d'une posture agenouillée. L'identification iconographique requiert provenance, datation et, idéalement, inscription.
+
+### 20. Le récit historique comme montage de mémoires
+
+[I] Johannes Haubold a montré que la digression d'Hérodote sur Athènes et Égine juxtapose plusieurs façons de penser le passé. Le merveilleux, le récit des cités et l'étiologie du costume féminin composent une réflexion sur le changement historique, plutôt qu'une séquence univoque de faits bruts.
+
+Cette méthode de lecture ne consiste pas à écarter l'histoire politique ; elle exige de reconnaître que le texte d'Hérodote est lui-même un objet historique, produit d'une sélection et d'une mise en relation de témoignages à l'époque classique.
+
+---
+
+## VI. Hérodote V, 87–88 : les fibules et l'écriture politique du vêtement
+
+### 21. Le retour du seul survivant
+
+[T] Le rescapé revient à Athènes et annonce la défaite. Les femmes des combattants disparus lui demandent ce qu'il est advenu de leurs époux ; selon le récit, elles l'attaquent avec les fibules de leurs vêtements et provoquent sa mort. Les Athéniens considèrent cet acte comme particulièrement terrible.
+
+Il serait inadmissible d'interpréter cette scène comme le compte rendu transparent d'un mouvement féminin historiquement daté. Hérodote rapporte une mémoire étiologique qui associe pertes militaires, colère des épouses, violence avec un objet ordinaire et réaction masculine.
+
+### 22. La réforme vestimentaire attribuée aux Athéniens
+
+[T] Le récit explique ensuite le passage d'un vêtement nécessitant des fibules au costume dit ionien, à base de lin, qui n'exigerait pas ces mêmes attaches. Hérodote corrige cependant lui-même une simplification culturelle en signalant que le vêtement dit ionien ne vient pas originellement, selon lui, d'Ionie mais de Carie.
+
+[H] Les historiens et archéologues peuvent étudier indépendamment la chronologie du vêtement féminin, ses représentations et ses accessoires. La présence de vêtements différents à une époque donnée ne prouve pas que la scène du survivant explique réellement leur diffusion. La fonction du récit est d'offrir une origine intelligible à une transformation visible.
+
+### 23. Le mouvement contraire à Égine et à Argos
+
+[T] Hérodote ajoute que les femmes d'Égine et d'Argos consacrèrent des fibules particulièrement grandes aux deux déesses et que les communautés instaurèrent un usage de broches de taille accrue. Dans les sanctuaires, les vases attiques étaient prohibés au profit de récipients produits localement. Ces coutumes expriment, dans l'histoire d'Hérodote, une rivalité durable avec Athènes.
+
+La paire des déesses devient le foyer rituel d'un langage matériel de la différence : les femmes d'Athènes sont privées d'un certain dispositif de fixation, tandis que celles des cités ennemies multiplient précisément cet objet et le consacrent.
+
+### 24. Genre, violence et « affordance » des objets
+
+[I] Yael Young, dans « Pins, Pestles, and Women: A Material Approach to Female Violence in Ancient Greece » (*Greece & Rome*, 2023), examine comment des objets ordinaires deviennent instruments d'action violente dans les récits littéraires et les images. Le concept d'*affordance* permet de poser une question simple : que rend possible un objet par sa forme, son matériau et son usage familier ?
+
+L'application à Hérodote évite deux caricatures. Les femmes ne sont ni simplement passives ni des guerrières décrites hors de leur vie ordinaire ; la narration transforme en arme un accessoire quotidien. Cela reste une **analyse du regard construit dans les récits**, non une preuve sociologique de la fréquence de telles violences dans la Grèce réelle.
+
+### 25. Le politique jusque dans la vaisselle
+
+[I] La proscription des objets attiques dans le sanctuaire d'Égine révèle que le politique ne se limite pas au discours des magistrats ou des généraux. Le récipient de boisson et la fibule peuvent servir de signes d'appartenance. Hérodote construit un contraste où le sanctuaire devient un espace de contrôle du commerce symbolique et de l'identité communautaire.
+
+Ces normes sont rapportées par l'historien ; leur mise en pratique effective à chaque époque ne peut être prouvée sans confrontation avec les découvertes de terrain. On ne peut inférer du texte que toute céramique trouvée dans une zone d'Égine doit nécessairement être locale.
+
+---
+
+## VII. L'inscription d'Égine : IG IV² 2, 787 et la réalité des inventaires
+
+### 26. Le document et son statut
+
+[E] L'édition numérique des *Inscriptiones Graecae*, **IG IV² 2, 787**, présente une **stèle de marbre** provenant de la région urbaine d'Égine et datée, par l'éditeur, de **431–404 av. J.-C.** Elle est décrite comme un inventaire d'un sanctuaire de **Mnia et Auzésia**. Cette datation doit être citée comme celle de la documentation épigraphique, non comme la date de fondation originelle du culte.
+
+Le fait est décisif : contrairement au récit de transfert des statues chez Hérodote, nous disposons ici d'un document d'administration religieuse lié à l'existence matérielle d'équipements et d'offrandes. Les deux sources peuvent être interrogées ensemble sans être placées au même niveau de preuve.
+
+### 27. Deux espaces sacrés nommés
+
+[E] La liste distingue un ensemble désigné comme le lieu de **Mnia** et un autre associé à **Auzésia**. Ce sont les formulations de l'inscription, non une reconstruction arbitraire d'un architecte moderne. Il reste néanmoins à interpréter avec précaution ce que chacune de ces désignations recouvrait matériellement : bâtiment distinct, secteur d'un complexe ou subdivision administrative.
+
+La séparation dans un inventaire ne fournit pas à elle seule le plan de deux temples fouillés. Une restitution architecturale exige la convergence des listes, de la topographie, des vestiges et des découvertes d'objets en contexte.
+
+### 28. Les objets du domaine de Mnia
+
+[E] L'édition enregistre, dans le secteur de Mnia, des vases et équipements métalliques, un luminaire, un petit objet figuré de la déesse et d'autres biens. Elle mentionne notamment une **image de Dionysos** dans l'opisthodome, ainsi qu'un groupe de **cent vingt fibules de fer**. La liste distingue ensuite d'autres fibules et des fragments dans des emplacements particuliers.
+
+La présence de Dionysos ne démontre pas que toutes les fêtes de Mnia relevaient du culte dionysiaque ni que le récit des femmes chez Hérodote appartenait à un thiase de Dionysos. Elle établit plus sobrement qu'une image de ce dieu était comptée parmi les biens enregistrés dans le sanctuaire.
+
+### 29. Les objets du domaine d'Auzésia
+
+[E] Pour Auzésia, l'inventaire compte, entre autres, une image divine, un petit objet figuré, des vases et lampes, des supports de bois, un coffre et **cent quatre-vingts fibules de fer** ; d'autres attaches de fer sont mentionnées au voisinage du **péplos** de la déesse. L'énumération est suffisamment détaillée pour exclure l'idée que le rite se réduisait à la contemplation d'un couple de statues.
+
+Le témoignage épigraphique renouvelle la lecture d'Hérodote : les fibules ne sont pas seulement un motif narratif ; elles correspondent à une catégorie concrète d'objets inscrits dans une comptabilité sacrée. Il faut toutefois éviter l'inférence inverse : l'inscription **ne prouve pas** l'histoire du survivant athénien ni la raison exacte de chaque consécration.
+
+### 30. Les écarts entre l'histoire et la pierre
+
+[E/T] Hérodote appelle les déesses Damia et Auxésia ; la stèle nomme Mnia et Auzésia. Hérodote décrit la provenance oléicole de statues initiales ; l'inventaire enregistre plusieurs objets en bois, notamment une image mentionnée en **cyprès**, sans autoriser l'identification de cette image avec l'un des xoana fondateurs. Hérodote donne une étiologie des fibules ; le document épigraphique enregistre leur présence et certains nombres.
+
+La confrontation se doit d'être asymétrique : l'inscription permet de vérifier un état administratif et cultuel de la fin du Ve siècle, non de décider directement de la vérité des miracles du passé. Elle oblige surtout à remplacer les slogans (« les déesses d'Égine étaient exactement comme chez Hérodote ») par un raisonnement attentif aux **variantes de nom, aux catégories d'objets et aux temps historiques**.
+
+### 31. Le document comme photographie comptable, non comme fouille exhaustive
+
+[H] Un inventaire est daté, ordonné par les responsables d'une opération administrative et dépend de ses catégories. Il peut laisser de côté des objets absents, détruits ou non soumis au recensement. On ne saurait additionner mécaniquement tous les groupes d'objets de l'inscription comme s'ils formaient le total permanent des offrandes de toute l'histoire du sanctuaire.
+
+La datation et la provenance publiées dans les *Inscriptiones Graecae* constituent un point de départ vérifiable. Les gestes des fidèles, la circulation des accessoires et la matérialité précise des images réclament d'autres types de témoignages.
+
+---
+
+## VIII. Trézène : Pausanias II, 32, 2 et le mythe des deux jeunes Crétoises
+
+### 32. Des victimes humaines plutôt que des déesses fondées par oracle
+
+[T] Pausanias rapporte que les habitants de Trézène connaissent le culte de Damia et d'Auxésia, mais donnent une histoire différente de celle d'Épidaure et d'Égine. Les deux figures auraient été des jeunes filles **venues de Crète**, prises dans une *stasis* (conflit interne) et lapidées par le parti adverse.
+
+Ce témoignage ne décrit pas une migration historiquement démontrée. Il conserve une tradition locale qui explique la présence de deux figures honorées à partir de la mémoire d'une violence civique. Le fait que des jeunes filles puissent devenir objets d'un culte après leur mort ne règle pas la question ontologique de leur identité dans toutes les autres cités.
+
+### 33. La *Lithobolia* et la mémoire de la lapidation
+
+[T] Les Trézéniens, selon Pausanias, célèbrent une fête appelée **Lithobolia**, dont le nom renvoie au jet de pierres. Rien n'autorise à décrire sans autre document un rite où les participants auraient nécessairement lancé des pierres les uns sur les autres au moment où Pausanias écrit.
+
+[I] Le nom de la fête peut fonctionner comme un mémorial de l'origine racontée, et comme une façon de mettre en relation le présent cultuel avec un épisode de destruction. C'est exactement le type de dossier où l'historien distingue **nom du rituel**, **récit étiologique** et **gestes réellement exécutés**.
+
+### 34. Le problème des catégories : déesses ou héroïnes ?
+
+[H] L'Égine d'Hérodote traite la paire comme des puissances capables de rendre à la terre sa productivité et de protéger leurs propres images. À Trézène, Pausanias leur attribue une biographie humaine et une mort violente. Ces différences ne justifient pas une théorie de succession certaine où des héroïnes crétoises auraient été historiquement transformées en déesses agricoles.
+
+On peut les interpréter comme des modalités régionales distinctes de l'honneur rituel. La question « déesses ou héroïnes ? » doit rester liée au témoin étudié. L'ouvrage d'Irene Polinskaya consacre explicitement une section à cette alternative, sans qu'une réponse simplifiée soit imposée à tout le dossier.
+
+### 35. La Crète comme lieu d'autorité narrative
+
+[I] Une origine crétoise peut conférer ancienneté, étrangeté ou prestige dans l'imaginaire des Grecs. En contexte de légende locale, elle ne constitue pas une preuve directe d'une chaîne de transmission archéologique. Le motif de l'arrivée de deux étrangères puis de leur mort inscrit surtout la cité dans une histoire de violence et de fondation de mémoire.
+
+La comparaison avec les récits d'origine d'autres cultes permet d'interroger la manière dont les communautés se représentent leur passé. Elle ne doit jamais effacer la singularité de Trézène : ici l'étiologie repose sur des **jeunes filles lapidées**, non sur une pénurie réparée par deux statues de bois.
+
+---
+
+## IX. Circulation des noms, territoire et réseaux cultuels
+
+### 36. Trois cités ne forment pas nécessairement un culte institutionnel unique
+
+[H] Épidaure, Égine et Trézène occupent un espace régional parcouru par des liens maritimes, commerciaux, politiques et religieux. La présence de la paire divine dans plusieurs lieux constitue une circulation de noms et de pratiques. Elle ne prouve pas l'existence d'un sacerdoce central, d'une doctrine partagée ou d'une procession annuelle reliant nécessairement les trois cités.
+
+François de Polignac a montré l'importance du sanctuaire dans la formation des espaces civiques à l'époque archaïque ; ses propositions sont utiles comme **cadre comparatif**, et non comme preuve directe de l'emplacement ancien du sanctuaire des deux déesses.
+
+### 37. La croissance est un enjeu collectif
+
+[H/I] Les fonctions possibles de Damia et d'Auxésia ne concernent pas seulement la reproduction biologique : le dossier lie abondance agricole, stabilité des communautés, prestige politique et continuité des offrandes. Le champ sémantique de la croissance permet d'interroger ces plans sans les confondre.
+
+L'enjeu n'est pas de construire une « religion économique » où les déesses seraient des allégories de la prospérité. Les dieux grecs sont invoqués, honorés et représentés dans des pratiques ; leur efficacité est une notion indigène qui n'est pas réductible à une catégorie moderne de rendement ou de démographie.
+
+### 38. Mémoire locale et langue commune
+
+[T/H] Des noms partagés deviennent l'objet de récits différents. Pausanias met précisément en avant cette divergence lorsqu'il signale la version trézénienne. Hérodote, quant à lui, juxtapose les versions athénienne, éginète et argienne d'un même désastre. Le pluralisme religieux est donc aussi **pluralisme des mémoires**.
+
+La philologie des variantes locales, telle que l'entreprend Elena Langella, contribue à expliquer pourquoi les noms et les fonctions d'un couple divin circulent sans se cristalliser partout en une forme unique. L'étude des inscriptions est indispensable pour ne pas dépendre uniquement du vocabulaire littéraire le plus connu.
+
+---
+
+## X. Philosophie politique et anthropologie : trois lectures contrôlées
+
+### 39. La statue comme bien disputé et comme présence divine
+
+[I] À un niveau matériel, les images ont une provenance, un support, une place et des détenteurs. À un niveau rituel, elles matérialisent une relation avec une puissance dont l'existence n'est pas épuisée par l'objet. Les efforts pour les transporter deviennent donc un enjeu de droit, de prestige et d'autorité religieuse.
+
+Une lecture inspirée de l'anthropologie des objets, notamment des travaux d'Igor Kopytoff sur les biographies culturelles, peut décrire la séquence de fabrication, don de matériau, installation, enlèvement, nouvelle installation et revendication. Elle ne doit pas prétendre qu'Hérodote décrit lui-même une théorie anthropologique moderne. Les images ne « changent pas de propriétaire » comme un bien marchand ordinaire sans modification du sens de leur histoire.
+
+### 40. Le féminin : officiantes, donatrices et personnages étiologiques
+
+[I] Trois images des femmes doivent être distinguées. D'abord, des **officiantes** participent à des chœurs rituels. Ensuite, des **donatrices** consacrent des attaches métalliques. Enfin, dans l'étiologie athénienne, les **veuves de combattants** se livrent à une violence devenue l'explication d'une sanction vestimentaire. Elles ne sont pas trois « portraits sociologiques » interchangeables.
+
+Pierre Brulé, dans *La Fille d'Athènes* (1987), fournit une méthode d'examen de la place des filles et des femmes dans les pratiques de religion civique attique. L'ouvrage n'est pas ici invoqué comme source directe sur tous les rites de Damia et Auxésia. Sa contribution comparative tient à la nécessité de regarder les gestes féminins et leur organisation, et pas seulement les décisions des magistrats.
+
+### 41. Qui a le droit de raconter la catastrophe ?
+
+[I] La version athénienne attribue une destruction à une intervention surnaturelle, la version éginète et argienne à une victoire armée. L'historien qui transmet ces voix les nomme, les juxtapose et les ordonne. Cette pluralité forme une leçon de critique des sources : un événement raconté par plusieurs parties ne doit pas être réduit à une formule commune qui efface leurs intérêts divergents.
+
+Le propos rejoint une réflexion générale sur la connaissance historique. Les traditions publiques sont des documents de mémoire même lorsque leurs affirmations factuelles ne peuvent être corroborées. La tâche universitaire est de reconstruire la production de ces discours et d'évaluer leurs supports plutôt que de choisir arbitrairement la version la plus avantageuse.
+
+### 42. La frontière civique passe par les objets humbles
+
+[I] Dans cette histoire, un bois, un vêtement, une fibule et un gobelet deviennent des signes de souveraineté. La communauté ne se représente pas uniquement par ses murailles et ses institutions politiques explicites : elle se définit aussi dans des usages consacrés et la sélection d'objets permis ou interdits dans ses lieux saints.
+
+Ce constat invite à lire le sacré au plus près de la vie matérielle. Il ne requiert ni d'identifier les déesses à des concepts philosophiques abstraits ni de transformer la religion grecque en système symbolique dépourvu de fidèles. Il montre comment récit et pratique se rencontrent dans le gouvernement du quotidien.
+
+---
+
+## XI. Échelles de preuve, erreurs de méthode et controverses
+
+### 43. Une concordance ne fait pas une confirmation totale
+
+On peut confronter Hérodote V, 88 et IG IV² 2, 787 sur l'importance des **fibules** ; ce rapprochement est solide. Mais il serait logiquement incorrect de conclure que la découverte d'un inventaire de fibules démontre l'histoire du rescapé, la date précise d'une bataille ou les manifestations du tonnerre. Les documents éclairent une culture matérielle, non l'ensemble de la causalité narrative.
+
+### 44. L'inscription d'Auzésia n'atteste pas la même orthographe que le récit
+
+Le titre et le commentaire du chapitre retiennent « Damia et Auxésia » parce qu'il s'agit de la paire la plus familière dans les sources littéraires. L'inventaire emploie **Mnia** et **Auzésia**. La variation n'est pas une erreur typographique à effacer. Elle donne accès à une réalité cultuelle plus complexe que les nomenclatures modernes.
+
+### 45. La même catégorie de puissance ne signifie pas la même biographie
+
+Le modèle « deux déesses de la fertilité » peut aider à chercher des pratiques comparables, mais il ne doit pas abolir la version de Trézène ni les cérémonies propres à Égine et à Épidaure. De même, le culte féminin ne se déduit pas uniquement des récits masculins le plus souvent conservés. Les dédicaces et les inventaires sont des témoins autonomes.
+
+### 46. Ce que nous ne pouvons pas identifier
+
+Aucune des sources ici vérifiées n'autorise à identifier avec certitude les statues originelles décrites par Hérodote parmi des objets de musée actuels ; à reconstruire le plan complet du sanctuaire d'Oia ; à établir le calendrier précis des chœurs féminins ; à connaître les paroles des insultes rituelles ; ou à démontrer la chronologie exacte de l'origine de la paire divine. Les illustrations devront respecter ces incertitudes.
+
+### 47. Les risques des interprétations modernes
+
+Le dictionnaire de Daremberg et Saglio constitue un jalon historiographique utile mais propose des rapprochements étymologiques et des équivalences religieuses aujourd'hui à réexaminer. Le travail récent d'Elena Langella (2025) offre des analyses des variantes qui empêchent de présenter les interprétations anciennes comme consensus définitif. Une monographie universitaire doit enregistrer les propositions successives, leurs arguments et leurs limites.
+
+---
+
+## XII. Appareil synoptique et itinéraire documentaire
+
+### 48. Tableau de comparaison
+
+| Témoin | Lieu central | Donnée assurée comme témoignage | Limite |
+|---|---|---|---|
+| Hérodote V, 82 | Épidaure / Athènes | Oracle, bois d'olivier, offrandes à Athéna Polias et Érechthée | Récit de fondation, non preuve de date absolue |
+| Hérodote V, 83–84 | Égine / Épidaure | Statues enlevées, culte à Oia, chœurs féminins, obligations contestées | Topographie et gestes exacts non entièrement connus |
+| Hérodote V, 85–86 | Égine | Versions concurrentes de la catastrophe athénienne | Causes surnaturelles et militaires ne se confondent pas |
+| Hérodote V, 87–89 | Athènes / Égine / Argos | Fibules, costume féminin, interdiction d'objets attiques | Étiologie narrative des usages |
+| Pausanias II, 32, 2 | Trézène | Deux jeunes Crétoises, lapidation, Lithobolia | Autre récit, ne remplace pas les traditions d'Égine |
+| IG IV² 2, 787 | Égine | Inventaire de Mnia et Auzésia ; images, fibules et autres biens | Document épigraphique de la fin du Ve siècle, pas récit originel |
+
+### 49. Chronologie relative des sources
+
+Hérodote écrit au **Ve siècle av. J.-C.** ; l'inscription IG IV² 2, 787 est datée par son édition de **431–404 av. J.-C.** ; Pausanias écrit au **IIe siècle de notre ère**. Ces repères concernent les textes et l'objet épigraphique, **non** l'époque mythique d'un oracle fondateur ou d'une migration de deux jeunes Crétoises.
+
+L'historien peut poser la question des pratiques antérieures à ces témoignages ; il doit cependant éviter de transformer la datation d'un document en date de naissance du culte.
+
+### 50. Schéma critique de l'enquête
+
+Le dossier se comprend par cinq couches :
+1. **Nommer** : Damia, Auxésia, Mnia, Auzésia et autres variantes.
+2. **Raconter** : pénurie, oracle, statues, déplacement, conflit, catastrophe et origines de coutumes.
+3. **Administrer** : inventaires, objets, zones cultuelles et responsabilités.
+4. **Pratiquer** : sacrifices, chœurs, dédicaces de fibules et normes matérielles.
+5. **Interpréter** : débats modernes sur la fertilité, l'histoire politique, la position des femmes et l'identité religieuse.
+
+Confondre ces cinq plans produirait l'illusion d'un savoir complet. Les articuler permet de construire une histoire plus exigeante de la religion grecque.
+
+---
+
+## XIII. Bibliographie et références de contrôle
+
+### A. Sources anciennes et épigraphie
+
+1. **Hérodote**, *Histoires*, V, 82–89. Texte grec avec traduction : [Centre for the Greek Language, bibliothèque numérique](https://www.greek-language.gr/digitalResources/ancient_greek/library/browse.html?page=136&text_id=30) ; texte anglais et divisions : [Ad Fontes, *Herodotus — Histories*](https://adfonteslibrary.org/herodotus-2). Passages V, 82–88 consultés pour le fil principal. **À distinguer** : récit, versions antagonistes et explications des coutumes.
+2. **Pausanias**, *Description de la Grèce*, II, 32, 2. Texte et traduction, Center for Hellenic Studies de Harvard : [*A Pausanias Reader in Progress*](https://www-current.chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/) ; autre traduction : [Theoi, livre II](https://www.theoi.com/Text/Pausanias2C.html). **Point vérifié** : tradition trézénienne des jeunes Crétoises et fête de Lithobolia.
+3. **Inscriptiones Graecae**, **IG IV² 2, 787**, « Inventarliste des Heiligtums der Mnia und Auzesia », stèle de marbre, Égine, datation éditoriale 431–404 av. J.-C., traduction par Klaus Hallof : [Académie des sciences de Berlin-Brandebourg, édition numérique](https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20IV%C2%B2%202%2C%20787). Concordances éditées IG IV 1588 ; IG I³ 1455 ; SEG XXXIII 259, XLI 263, LXIII 224. **Point vérifié** : variantes Mnia/Auzésia, inventaire de fibules, mobilier, images et Dionysos.
+
+### B. Bibliographie universitaire récente et spécialisée
+
+4. **Nicholas J. Richardson**, « Damia and Auxesia », *Oxford Classical Dictionary*, 22 décembre 2015, DOI [10.1093/acrefore/9780199381135.013.2010](https://doi.org/10.1093/acrefore/9780199381135.013.2010). Résumé éditorial consulté ; texte intégral non collationné.
+5. **Irene Polinskaya**, *A Local History of Greek Polytheism: Gods, People, and the Land of Aigina, 800–400 BCE*, Brill, 2013, notamment chap. 7.10, « Damia and Auxesia (Mnia and Auzesia) », p. 269–283. [Sommaire de l'ouvrage](https://toc.library.ethz.ch/objects/pdf03/z01_978-90-04-23404-8_01.pdf). Le sommaire et la structure du chapitre ont été vérifiés ; **ne pas prétendre à une collation intégrale du texte**.
+6. **Elena Langella**, « The Cult of Damia and Auxesia (and Respective Variants): A Linguistic Approach », dans Thomas Galoppin et Sylvain Lebreton (dir.), *Divine Names on the Spot III: Naming and Agency in Ancient Greek and West Semitic Texts*, OBO 307, Peeters, Leuven, **2025**, p. 163–211. [Notice universitaire et résumé](https://publicatt.unicatt.it/handle/10807/327557). **Point vérifié** : pluralité des variantes, examen des étymologies et liens entre le nom et la communauté.
+7. **Johannes Haubold**, « Athens and Aegina (5.82–9) », dans Elizabeth Irwin et Emily Greenwood (dir.), *Reading Herodotus: A Study of the Logoi in Book 5 of Herodotus' Histories*, Cambridge University Press, 2007, p. 226–244, DOI [10.1017/CBO9780511482205.010](https://doi.org/10.1017/CBO9780511482205.010). Résumé éditorial contrôlé ; texte intégral non collationné.
+8. **Yael Young**, « Pins, Pestles, and Women: A Material Approach to Female Violence in Ancient Greece », *Greece & Rome* 70/1 (2023), DOI [10.1017/S0017383522000249](https://doi.org/10.1017/S0017383522000249). Article en libre accès ; l'analyse des fibules chez Hérodote doit être comprise comme une lecture de la représentation de la violence dans les sources.
+9. **Nicholas J. Richardson**, *The Homeric Hymn to Demeter*, Oxford University Press, 1974, commentaire, p. 216 et 246 (renvoi indiqué dans la notice de l'*Oxford Classical Dictionary*). Comparaison des rites de fertilité ; références de pages non recollationnées ici.
+
+### C. Auteurs français : méthodologie et histoire des interprétations
+
+10. **Pierre Brulé**, *La Fille d'Athènes : la religion des filles à Athènes à l'époque classique. Mythes, cultes et société*, Les Belles Lettres, 1987. Référence et texte consultables sur [Persée](https://doi.org/10.3406/ista.1987.1797), notice confirmée par la [Bibliothèque nationale de France](https://catalogue.bnf.fr/ark:/12148/cb370167912). **Apport méthodologique** : reconstruire les institutions et les pratiques féminines, sans en faire une autorité directe sur tous les rites d'Égine.
+11. **François de Polignac**, *La Naissance de la cité grecque : cultes, espace et société, VIIIe–VIIe siècles avant J.-C.*, La Découverte, 1984. [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb347702395). **Apport comparatif** : sanctuaires, territoire et formation des communautés civiques ; ne constitue pas une étude de terrain spécifique de Damia et Auxésia.
+12. **Daremberg et Saglio**, *Dictionnaire des antiquités grecques et romaines*, article « Damia » (état historiographique ancien), [édition numérique de l'Université Toulouse–Jean Jaurès](https://dagr.univ-tlse2.fr/consulter/1103/DAMIA/texte). **Usage** : retracer les lectures anciennes de la fécondité et des noms ; les étymologies doivent être réévaluées à la lumière des travaux récents.
+
+### D. Vigilance documentaire
+
+La présence d'un renvoi bibliographique ne signifie pas que tous les volumes savants ont été collationnés intégralement. Les preuves épigraphiques de la stèle d'Égine, le texte d'Hérodote, la notice de Pausanias, les sommaires et résumés académiques ont servi de points de contrôle explicites. Les hypothèses sur le détail des pratiques perdues, l'origine historique des déesses et l'emplacement des xoana fondateurs restent ouvertes.
+
+---
+
+## XIV. Iconographie, droits et reconstitution responsable
+
+### 51. Ce que l'on peut illustrer
+
+Une carte de la région montrant **Athènes, Épidaure, Égine et Trézène**, avec Oia comme *localisation textuelle à préciser*, permet de rendre lisibles les relations rapportées par Hérodote. La carte devra être établie à partir de données cartographiques réutilisables avec leur licence et ne pas attribuer au récit une précision géographique qu'il ne possède pas.
+
+Une photographie de la **stèle IG IV² 2, 787** peut être proposée seulement après identification d'un cliché institutionnel et de son régime de droits. À défaut, la transcription éditée et le lien vers l'édition numérique constituent des preuves plus fiables qu'une photographie non attribuée.
+
+Les fibules grecques conservées dans des collections de musée peuvent servir d'illustrations **typologiques** à condition d'en donner la date, la provenance, les dimensions, la notice et la licence. Il est interdit de présenter arbitrairement une fibule isolée comme provenant du sanctuaire d'Auzésia sans vérification d'inventaire.
+
+### 52. Ce qui ne doit pas être généré ou imputé au dossier
+
+Aucune reconstruction 2,5D ni aucune photographie du temple d'Aphaia n'est employée comme représentation du sanctuaire de Damia et Auxésia. Une éventuelle reconstitution 3D photoréaliste devrait être présentée explicitement comme **hypothétique**, avec plans et sources de comparaison, sans texte ni menus incrustés, et sans prétendre montrer les statues originales perdues.
+
+Il est impossible de restituer honnêtement les paroles des chœurs féminins, la physionomie des deux xoana ou la cérémonie de Lithobolia à partir des sources ici mobilisées. Une illustration artistique non critique ne doit pas prendre la place d'un témoignage.
+
+---
+
+## XV. Navigation interne MYTHOS et conclusion
+
+### 53. Dossier voisin : Aphaia, une autre puissance d'Égine
+
+[MYTHOS — chapitre 463 : Aphaia à Égine, sanctuaire de montagne et frontons troyens](/chapitres/encyclopedie/chapitre-463-aphaia-egine-temple-frontons-troie-terrasses-cultes-coroplastie/).
+
+Il s'agit d'un **autre sanctuaire**, d'une autre puissance et d'un autre dossier documentaire. L'étude d'Aphaia mentionne la rivalité des cités autour de Damia et Auxésia à titre de contexte politique ; la présente monographie développe directement l'histoire des **deux déesses, des noms épigraphiques, des offrandes et des rites** sans répéter la description architecturale du temple d'Aphaia.
+
+### 54. Lectures transversales
+
+[MYTHOS — volume CLXXII : Igor Kopytoff et la biographie culturelle des objets sacrés](/chapitres/comparatif/volume-clxxii-igor-kopytoff-biographie-culturelle-objets-sacres-singularisation/) ; [MYTHOS — volume CLXXVIII : Pierre Lemonnier et la communication non verbale des objets rituels](/chapitres/comparatif/volume-clxxviii-pierre-lemonnier-choix-techniques-objets-rituels-communication-non-verbale/) ; [MYTHOS — portail de mythologie grecque](/mythologie-grecque/) ; [MYTHOS — dossiers cultes et sanctuaires](/mythologie-grecque/dossiers/cultes-sanctuaires/).
+
+La complémentarité est explicite : les volumes comparatifs proposent des modèles anthropologiques ; ce chapitre examine le **corpus grec local**, son récit, son inscription et ses variantes.
+
+### 55. Conclusion générale : faire l'histoire du sacré à partir d'objets et de divergences
+
+Damia et Auxésia occupent un lieu discret mais central pour comprendre la religion grecque. Elles montrent que le polythéisme ne se réduit pas au panthéon littéraire des Olympiens et que l'histoire d'une puissance est inséparable des cités qui la nomment, des femmes qui lui consacrent des objets et des institutions qui tiennent ses comptes.
+
+Hérodote, Pausanias et l'inscription d'Égine n'expriment pas trois fois la même « vérité cachée ». Ils documentent trois activités différentes : **raconter** les origines d'une rivalité, **transmettre** une mémoire locale de violence, et **enregistrer** les objets appartenant à un domaine sacré. C'est précisément leur confrontation, sans effacement des divergences, qui permet une histoire critique des dieux grecs.
+
+Le dossier invite à une thèse plus générale : les communautés ne construisent pas seulement leur identité par des généalogies et des constitutions ; elles la pratiquent au moyen d'images transportées, de matériaux reçus, de fêtes chantées et de règles portant sur les choses les plus ordinaires. Les deux déesses de la croissance deviennent ainsi des témoins privilégiés des liens entre religion, économie rituelle, genre et souveraineté civique.
+
+*Statut : manuscrit scientifique soumis à la file éditoriale. Le numéro canonique et l'URL publique ne doivent être déterminés qu'après attribution atomique par GitHub Actions et vérification du déploiement HTTPS.*

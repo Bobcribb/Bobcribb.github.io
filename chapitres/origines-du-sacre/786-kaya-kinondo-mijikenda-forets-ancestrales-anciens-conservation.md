@@ -1,0 +1,315 @@
+# MYTHOS — Les Origines du sacré — Chapitre 786 (volume DCCLXXXVI)
+
+## Les forêts sacrées des Mijikenda et Kaya Kinondo : ancestralité, autorité des anciens, territoire et conservation bioculturelle au Kenya
+
+*Monographie universitaire originale, rédigée le 7 novembre 2026. Histoire et archéologie de la côte kenyane, anthropologie des institutions, philologie critique des catégories rituelles, écologie historique, droit patrimonial et philosophie comparée. Étude publique proposée à la file de numérotation MYTHOS sans numéro réservé.*
+
+### Résumé
+
+Le mot « forêt » masque ici un phénomène historique complexe. Les *kayas* de la côte kenyane ont d'abord été des lieux d'habitation et de protection, puis, suivant des rythmes variables, des lieux d'ancestralité et d'obligations collectives. L'histoire de Kaya Kinondo, associée aux Digo du groupe mijikenda, permet d'étudier les transformations d'un établissement fortifié et de son environnement en paysage investi de prescriptions sociales. Elle donne aussi un observatoire des tensions entre gardiens rituels, visiteurs, protection écologique, gouvernement national et organisations patrimoniales.
+
+La thèse de ce dossier est que la sacralité ne constitue ni une essence botanique attachée aux arbres ni une survivance immobile. Elle résulte d'une histoire de droits, d'interdits, de récits, de pratiques et d'autorités, qu'il faut documenter sans réduire les personnes vivantes à des vestiges d'une religion ancienne. La conservation de la biodiversité peut être un effet important de ces régulations, mais l'efficacité écologique ne suffit pas à expliquer leur signification religieuse.
+
+Le dossier traite séparément les données institutionnelles observables, les descriptions ethnographiques, les récits transmis dans des contextes situés et les hypothèses comparatives. Les sources principales sont les notices de l'UNESCO et des National Museums of Kenya, le travail de C. K. Nyamweru et E. Kimaru (2008), l'analyse d'Anthony Githitho (2016), l'étude de Janet McIntosh (2009), ainsi que les résultats publiés par Ruth Wanjiru Irungu et Fatma Twahir en juillet 2026.
+
+### I. Problème : quand un habitat devient-il un lieu ancestral ?
+
+Qualifier un kaya de « sanctuaire forestier » décrit surtout son régime d'utilisation actuel. Or la notice de l'UNESCO rappelle que les ensembles furent d'abord des villages fortifiés, progressivement délaissés comme habitats ordinaires. Il faut donc expliquer le passage entre deux formes d'occupation, non le supposer. Une forêt peut être à la fois un milieu productif, la trace d'une organisation politique antérieure, un lieu où l'on s'interdit certains gestes et un instrument contemporain de reconnaissance patrimoniale.
+
+Une telle transition ne signifie pas que tous les kayas ont été quittés la même année ni qu'un conseil de sages aurait inventé instantanément leur sacralité. Elle impose une histoire longue, avec plusieurs échelles : les occupations anciennes, les déplacements et alliances, les cultes et mémoires des ancêtres, les reconfigurations coloniales et les institutions de conservation.
+
+L'indice central est celui de la transformation du rapport au lieu. Une maison disparue peut devenir l'indice d'un lignage; une limite défensive, une frontière moralement gardée; un accès routinier, une permission soumise à des médiations. Mais la présence de murs ou d'arbres n'en fournit pas, à elle seule, la preuve. L'ethnographie et les archives du gouvernement doivent être confrontées aux vestiges plutôt que projetées rétrospectivement sur eux.
+
+### II. Une côte africaine plurielle, non une « tradition » isolée
+
+Les Mijikenda regroupent neuf communautés de langues bantoues apparentées, sur le littoral de l'actuel Kenya. La proximité des kayas avec les villes swahilies de l'océan Indien ne signifie ni homogénéité culturelle ni imperméabilité. Les réseaux côtiers ont relié pratiques agricoles, circulations marchandes, centres d'enseignement islamique et configurations politiques différentes. L'étude précédente sur Mtwapa s'intéresse à une ville et à ses mosquées; le présent texte s'interroge sur la mémoire de villages devenus lieux d'ancestralité.
+
+Janet McIntosh, dans *The Edge of Islam* (2009), montre pour la région de Malindi que l'appartenance Giriama et les rapports à l'islam participent d'une histoire d'inégalités, de langage et de frontière sociale. Ses observations ne doivent pas être transposées mécaniquement aux Digo de Kinondo. Elles invitent toutefois à éviter l'opposition simpliste entre une Afrique « traditionnelle » et une côte swahilie « étrangère ». Les pratiques et les manières de se nommer sont produites dans des relations historiques.
+
+La méthode exige de parler des Digo de Kinondo lorsqu'une source porte sur eux, des Mijikenda lorsqu'une institution évoque l'ensemble, et des Giriama uniquement lorsque la documentation les concerne effectivement.
+
+### III. Géographie de la série et différence entre un bien UNESCO et tous les kayas
+
+L'inscription au patrimoine mondial, datée de 2008 et enregistrée sous le numéro 1231rev, comprend dix sites forestiers distincts répartis sur environ 200 kilomètres de côte. L'UNESCO précise que ces dix parties représentent plus de trente kayas conservés; tous les lieux portant ce nom ne constituent donc pas automatiquement des unités inscrites, et la délimitation administrative d'un bien n'épuise pas le réseau culturel.
+
+Les superficies des sites concernés varient, selon la synthèse institutionnelle, d'environ trente à trois cents hectares. Le chiffre global de 1 538 hectares correspond au bien sériel, non à un seul kaya. La distinction entre composante classée, forêt communautaire plus vaste, village contemporain et espace visité doit être maintenue à chaque échelle d'analyse.
+
+Cette géographie dispersée contredit une vision monumentale limitée à un centre unique. Une série de lieux peut constituer un patrimoine par des parentés de mémoire et de pratiques plutôt que par une continuité topographique immédiate. Les similitudes n'annulent pas les particularités de chaque groupe et de chaque territoire.
+
+### IV. Kaya Kinondo : le cas Digo et ses limites documentaires
+
+Kaya Kinondo se trouve sur la côte méridionale du Kenya et est associé à la communauté Digo. L'étude de Nyamweru et Kimaru lui est spécialement consacrée. Elle décrit un projet d'écotourisme conçu à partir de 2001 pour contribuer à la protection d'une forêt d'importance religieuse et biologique. La question n'est pas seulement de savoir comment des visiteurs entrent dans un bois protégé, mais qui les y autorise, ce que leur présence transforme et à qui reviennent les bénéfices matériels.
+
+Le site ne doit pas être représenté comme un palais entièrement reconstituable ou comme un temple aux plans connus dans chaque détail. Les données consultées permettent d'établir l'existence d'un patrimoine d'ancien habitat et la persistance de pratiques, sans fournir ici un relevé stratigraphique complet ni une chronologie absolue propre à chaque aménagement de Kinondo.
+
+Les atteintes à l'intégrité du couvert forestier de Kaya Kinondo sont explicitement reconnues dans l'évaluation UNESCO. Il serait donc inexact de peindre un sanctuaire intemporel miraculeusement préservé de toute pression foncière.
+
+### V. Le vocabulaire : kaya, Mijikenda, kambi
+
+Le terme *kaya* désigne dans la littérature patrimoniale un établissement ancien fortifié et, par extension dans les usages décrits, un lieu ancestral investi de pratiques rituelles. Il ne faut pas en produire une étymologie séduisante sans démonstration linguistique. L'identité lexicale d'un mot n'implique ni unité politique immuable ni équivalence avec les termes grecs *alsos* ou *temenos*.
+
+*Mijikenda* nomme un collectif de neuf communautés. Il ne doit pas fonctionner comme un sujet unique auquel l'historien attribuerait sans preuve une cosmologie, une doctrine ou un rituel strictement uniforme. Les enquêtes exigent la vérification des langues, des personnes consultées et des situations d'énonciation.
+
+Le *kambi*, décrit par l'UNESCO du patrimoine immatériel comme conseil d'anciens, intervient dans la garde des kayas et des expressions qui leur sont associées. « Conseil » est ici une traduction fonctionnelle, non une preuve de constitution, de compétence juridique ou de composition identiques dans toutes les communautés. On distinguera la catégorie institutionnelle employée par l'UNESCO, les autorités effectivement reconnues localement et les discours de légitimation suscités par le classement.
+
+### VI. Archéologie d'un établissement fortifié : ce que le terrain autorise
+
+Les vestiges des villages fortifiés constituent un fait majeur, même lorsque le dossier public demeure insuffisant pour leur attribuer une séquence stratigraphique détaillée. Les reliefs, accès et traces d'anciens espaces habités sont à considérer comme des ensembles anthropisés. Les fonctions défensives évoquées par les descriptions historiques peuvent être confrontées aux formes des enceintes; elles ne doivent pas être déduites du seul vocabulaire de « fortification ».
+
+Une fouille convaincante devrait documenter les matériaux constitutifs, les phases de construction, les zones domestiques, la céramique, les restes botaniques et la distribution des circulations. Pour chaque élément, il faudrait distinguer datation directe, typologie et tradition orale. Aucun tesson générique ne date à lui seul l'établissement entier.
+
+L'intérêt archéologique réside précisément dans le fait que le lieu demeure socialement sensible. Une méthode de prospection adaptée, co-décidée avec les gardiens, peut être préférable à l'ouverture extensive de tranchées. La production de données scientifiques n'autorise pas à détruire une pratique vivante pour connaître un habitat ancien.
+
+### VII. Datations : « dès le XVIe siècle » n'est pas une date d'origine absolue
+
+La présentation UNESCO situe la création des kayas à partir du XVIe siècle et leur abandon résidentiel principalement au cours du premier XXe siècle, avec des formulations qui varient entre « début du siècle » et « jusqu'aux années 1940 ». Ces indications synthétiques portent sur un ensemble de sites, non sur une unique chronologie contrôlée au carbone 14.
+
+Une lecture universitaire ne transforme pas ces dates en séquence certaine pour chacun des dix lieux. Les descriptions patrimoniales condensent des recherches différentes; elles peuvent servir de cadre initial à une enquête, mais non remplacer un dossier de stratigraphie. La datation des occupations et celle de leur mise en mémoire ne se superposent pas automatiquement.
+
+Il faut notamment se garder d'affirmer qu'un usage rituel est né au moment exact où l'habitat permanent s'est déplacé. Le processus de sacralisation peut être antérieur, contemporain ou postérieur à la désaffectation d'un espace résidentiel; les indices consultés ne permettent pas d'en établir l'unicité.
+
+### VIII. Ancestralité : mémoire, lieu et temporalité non linéaire
+
+Les forêts sont tenues pour des demeures des ancêtres dans les notices officielles. Une telle attribution est un fait religieux et social documenté; elle n'est pas la démonstration empirique d'une présence surnaturelle. Elle produit cependant des obligations observables, des récits, des modes d'accès et des légitimités.
+
+La mémoire ancestrale doit être comprise comme une pratique du présent qui se réfère à un passé. Elle ne garantit pas la conservation exacte de chaque événement dans un récit oral. Les traditions peuvent organiser une généalogie des lieux, justifier la transmission d'un territoire, identifier des ruptures ou donner un sens à des déplacements mal documentés par l'écrit.
+
+L'analyse gagne à replacer ces mémoires dans leurs conflits éventuels. La revendication « ce lieu est celui de nos ancêtres » peut être un discours de continuité, mais aussi un argument juridique et politique face aux transformations foncières. La preuve historique de l'ancienneté d'une occupation et la reconnaissance actuelle d'une autorité ne sont pas de même nature.
+
+### IX. Conseils d'anciens et production de l'autorité
+
+L'UNESCO attribue aux *kambi* la garde des lieux et des traditions associées. Cette reconnaissance ne permet pas de décrire les conseils comme des organes administratifs universellement élus, ni comme les porte-parole incontestés de tous les membres d'une communauté. Les sociétés locales comprennent des différences d'âge, de genre, de résidence, de pratique religieuse et de rapport au patrimoine.
+
+Janet McIntosh, dans son article « Elders and ‘Frauds’ » (2009), étudie les débats sur le savoir rituel, la consécration et l'authenticité politique chez les Mijikenda. Les accusations publiques et les usages électoraux de bénédictions montrent qu'un savoir considéré comme hérité peut être soumis aux conflits contemporains de reconnaissance.
+
+Il serait inadmissible de déduire du seul titre d'ancien que chaque prise de parole dispose de l'assentiment général. L'enquête doit identifier les conditions d'apprentissage, les formes de sanction, les critères de compétence et la pluralité éventuelle des avis sans divulguer ce que les intéressés considèrent comme réservé.
+
+### X. L'interdit : droit d'usage ou signe métaphysique ?
+
+Les prescriptions portant sur l'accès aux forêts et la consommation de leurs ressources sont reconnues dans le dossier UNESCO. Certaines peuvent prendre la forme de restrictions rituelles, de seuils d'autorisation, de règles de respect ou d'interdictions d'extraction. Mais on ne peut dresser une liste de tabous propres à Kinondo sans source ethnographique précise.
+
+La question de l'interdit doit être formulée sous plusieurs angles : quelles personnes sont tenues par la norme ? Quel geste est empêché ? Qui peut autoriser une exception ? Quelles conséquences sont envisagées si elle est enfreinte ? Quel est le rapport entre une sanction sociale et une conséquence religieuse dans le langage des acteurs ?
+
+Ainsi comprise, une limite sacrée n'est pas réductible à une barrière physique. Elle repose sur une relation entre personnes, institutions et lieux. Elle peut aussi avoir des effets écologiques très concrets, qui ne doivent ni être niés ni devenir une explication fonctionnelle totale du culte.
+
+### XI. Prière, serment, initiation, funérailles : l'inventaire institutionnel
+
+La fiche UNESCO du patrimoine immatériel, inscription de 2009 sur la liste nécessitant une sauvegarde urgente, cite les prières, serments, rites funéraires, nominations, initiations, réconciliations, mariages et pratiques liées à l'autorité parmi les expressions associées aux kayas. C'est un inventaire institutionnel à l'échelle mijikenda.
+
+Il ne prouve pas que tous ces gestes se produisent au même lieu, à la même saison ou selon la même forme. Les rituels d'une naissance et ceux d'un deuil ont des destinataires, des temporalités et des participants différents. Le chercheur doit également respecter l'opposition entre pratiques destinées à être vues et savoirs limités à des personnes habilitées.
+
+Publier une monographie accessible ne signifie pas restituer des paroles secrètes, produire des scènes imaginées ou attribuer à des officiants des instructions qu'ils n'ont pas rendues publiques. Le refus d'inventer des détails est ici une exigence scientifique autant qu'une obligation éthique.
+
+### XII. Les morts et le territoire : sépulture, souvenir et imaginaire
+
+Le dossier UNESCO souligne la protection de tombes et de bosquets ancestraux. L'archéologie des morts pourrait, en principe, éclairer les techniques d'inhumation, les déplacements de populations et les transformations du paysage. Mais aucune base consultée pour cette monographie ne permet de reconstruire tombe par tombe la chronologie de Kaya Kinondo.
+
+Il faut donc distinguer trois propositions. Premièrement, les forêts sont socialement reconnues comme lieux ancestraux. Deuxièmement, la documentation institutionnelle associe la protection de lieux funéraires à la conservation des bois. Troisièmement, la forme exacte des sépultures, leur datation et leurs rapports avec les structures d'habitat restent à documenter site par site.
+
+La précaution est importante : un sanctuaire vivant ne se réduit pas à un cimetière fouillé. La possibilité de demander une permission d'entrée, l'expérience de la frontière et la récitation d'une histoire collective peuvent porter la mémoire indépendamment de l'accessibilité des restes humains.
+
+### XIII. Les arbres : assemblage écologique et archive sociale
+
+La forêt protège des sols, des microhabitats et des espèces; elle fournit également des plantes utiles et des repères mémoriels. L'UNESCO indique que la protection coutumière des kayas a contribué à maintenir des vestiges remarquables de la forêt côtière de basse altitude.
+
+Cette corrélation ne permet pas d'affirmer que toute espèce présente est « sacrée » ni qu'une espèce botanique serait universellement réservée aux ancêtres. Les usages de plantes médicinales, les pratiques de cueillette et les restrictions d'accès varient, et leur description exige des données botaniques et ethnographiques situées.
+
+Les relevés naturalistes éclairent l'évolution du milieu; ils ne remplacent ni les mémoires locales ni la cartographie des droits. Inversement, un récit d'origine de la forêt n'établit pas sa composition écologique ancienne. Croiser pollens, images, relevés de biodiversité, archives foncières et paroles des gardiens constitue une méthode plus robuste que traiter la forêt comme une illustration symbolique.
+
+### XIV. Les savoirs écologiques ne sont pas hors de l'histoire
+
+Ruth Wanjiru Irungu et Fatma Twahir ont publié en 2026 une étude qualitative sur les savoirs autochtones dans la conservation des Kayas. Elles identifient le rôle des restrictions rituelles, des normes et de connaissances adaptatives, tout en soulignant les mutations intergénérationnelles et les formes hybrides de coopération avec les acteurs de conservation.
+
+Leur enquête repose, selon la méthode annoncée, sur des questionnaires semi-directifs et des analyses de discours. Ses résultats ne doivent pas être présentés comme une mesure expérimentale de l'efficacité de chaque interdit sur chaque espèce, ni comme une vue exhaustive de Kinondo à elle seule.
+
+L'apport est néanmoins fondamental : l'authenticité ne doit pas être confondue avec la répétition parfaite du passé. La transmission peut se reformuler, donner davantage de place à des justifications écologiques, tout en restant investie d'une valeur collective. Un changement de langage n'est ni automatiquement une perte totale ni automatiquement la preuve d'une continuité intacte.
+
+### XV. La longue construction d'un patrimoine national
+
+Anthony Githitho a retracé en 2016 la préparation de l'inscription des kayas, depuis les protections nationales engagées en 1992 et l'inscription indicative de 1999 jusqu'au classement de 2008. Son étude, publiée dans le *Journal des africanistes*, est précieuse parce qu'elle documente les acteurs et la fabrique du dossier patrimonial.
+
+La reconnaissance ne constitue pas l'origine de la valeur locale des lieux. Des pratiques de protection existaient avant la procédure UNESCO. En revanche, l'inscription change la langue dans laquelle le patrimoine doit se présenter : intégrité, authenticité, périmètre, valeur universelle exceptionnelle, gestion et conservation.
+
+Ces termes permettent une coopération internationale, mais transforment aussi des relations sociales en catégories documentaires. Il importe de demander qui définit la limite officielle, qui conserve les archives du dossier et quelles voix locales sont considérées comme représentatives lorsque le site parle à travers un formulaire institutionnel.
+
+### XVI. Deux inscriptions différentes : matériel et immatériel
+
+La série des Sacred Mijikenda Kaya Forests a été inscrite au patrimoine mondial en 2008 selon les critères (iii), (v) et (vi). Les traditions et pratiques associées ont été inscrites séparément en 2009 sur la liste du patrimoine culturel immatériel nécessitant une sauvegarde urgente. Ces deux décisions ne désignent ni le même objet administratif ni la même procédure.
+
+La première valorise un ensemble de paysages et la relation historique entre formes d'établissement, forêts et ancestralité. La seconde attire l'attention sur l'existence et la transmission d'expressions culturelles, y compris leurs menaces. Le décalage d'un an ne représente pas une succession religieuse : il correspond au fonctionnement de deux instruments internationaux.
+
+Une gestion qui ne retiendrait que les arbres et l'architecture manquerait les savoirs, la possibilité de se réunir et les conditions sociales du rite. Une sauvegarde purement symbolique qui négligerait le foncier et les pressions matérielles rendrait de son côté la pratique fragile.
+
+### XVII. Ecotourisme à Kaya Kinondo : histoire d'un compromis
+
+Nyamweru et Kimaru ont consacré un article de 2008 au projet d'écotourisme de Kaya Kinondo. Ils situent son initiative en 2001 et évaluent, à partir des expériences et entretiens disponibles, ses résultats après plusieurs années. Leur conclusion est nuancée : le projet offre des bénéfices et des pistes de protection, mais sa réussite ne résout pas la pauvreté rurale ni les changements sociaux plus larges.
+
+Une notice communautaire conservée dans le registre ICCA précise des étapes d'organisation locale et mentionne un lancement de projet en 2003. Ces données peuvent être articulées sans contradiction forcée : une conception initiale, des études de faisabilité et une mise en activité ne correspondent pas nécessairement au même événement.
+
+L'intérêt historique du projet tient à son caractère d'expérience : un lieu dont l'entrée peut être soumise à une autorisation devient aussi support d'itinéraires expliqués et de revenus. L'hypothèse d'une conservation financée par les visites doit être éprouvée par les comptes, les effets sociaux et la capacité des gardiens à préserver des zones non ouvertes.
+
+### XVIII. Qui possède le récit quand une visite est payante ?
+
+L'écotourisme rend visible une tension : pour que des visiteurs comprennent l'importance d'un lieu, il faut parfois traduire certaines pratiques en récits publics. Mais la traduction peut simplifier les conflits, concentrer la rémunération sur quelques intermédiaires et créer une demande d'expériences dites « authentiques ».
+
+Le risque n'est pas seulement celui d'une profanation spectaculaire. Il est aussi celui d'une obligation permanente de représentation. Les personnes peuvent être incitées à exécuter, expliquer ou mettre en scène un geste parce qu'il devient attendu dans une économie touristique.
+
+Une analyse responsable distingue ce qui est montré avec consentement, ce qui est protégé de l'observation et ce qui appartient à la discussion politique locale. Les revenus des visites ne constituent pas, en eux-mêmes, la preuve de la justice de leur répartition. Nyamweru et Kimaru permettent de poser la question; un audit financier contemporain serait nécessaire pour la trancher aujourd'hui.
+
+### XIX. Les femmes, les jeunes et les délibérations absentes des notices
+
+Les notices officielles identifient souvent des « anciens » ou des conseils, ce qui peut donner une apparence d'unanimité. Or la transmission des valeurs religieuses, la collecte, le soin, le commerce et les associations touristiques peuvent associer des acteurs dont la participation n'est pas reflétée par cette catégorie.
+
+Le registre ICCA consacré à Kinondo mentionne notamment des groupes de femmes parmi les membres du projet. Cette indication ne doit pas être extrapolée en inventaire de fonctions sacerdotales féminines ni en preuve de répartition égalitaire des revenus. Elle rend visible un angle d'enquête : qui travaille, qui décide et qui représente publiquement le territoire ?
+
+L'anthropologue doit être attentif au fait qu'une prescription locale peut être discutée selon l'âge, le genre, l'affiliation religieuse ou la proximité économique du site. Il serait aussi caricatural d'idéaliser toute autorité coutumière que de la délégitimer a priori comme un archaïsme.
+
+### XX. Islam, christianisme, traditions locales : refus du récit d'extinction
+
+Les transformations religieuses de la côte kenyane sont complexes. L'étude de Janet McIntosh montre, pour les Giriama et leurs voisins swahilis, des formes d'emprunt, de distance, de conflit et de recomposition dans les relations à l'islam. Les notices UNESCO évoquent quant à elles la transformation des pratiques attachées aux kayas.
+
+Il ne faut donc pas raconter un simple remplacement des « anciennes croyances » par des religions mondiales. Les personnes peuvent distinguer appartenance confessionnelle, respect des ancêtres, autorité familiale et engagement patrimonial. Les catégories de « syncrétisme » et de « survivance » deviennent insuffisantes si elles gomment les refus, les hiérarchies et les changements de signification.
+
+Le présent dossier ne dispose d'aucune enquête religieuse actuelle exhaustive des ménages de Kinondo. Il n'attribue donc pas de croyance particulière à la totalité des résidents ni ne chiffre des conversions. Il constate une pluralité historique documentée sur la côte et en tire une règle de prudence.
+
+### XXI. Droit foncier et pression sur les fragments forestiers
+
+L'UNESCO mentionne l'urbanisation, les pressions sur les terres et l'affaiblissement de certains systèmes de transmission comme menaces. Le classement ne suffit pas à protéger un lieu si le territoire qui le relie aux communautés est morcelé, si l'accès devient impossible ou si le couvert arboré est dégradé.
+
+L'analyse foncière devrait articuler titres légaux, usages coutumiers, limites physiques, droits de cueillette, voies de passage, voisinages et projets d'infrastructure. Aucun de ces registres ne doit être substitué au reste. La « propriété » peut ne pas rendre compte de toutes les formes d'obligation et de responsabilité envers un lieu ancestral.
+
+L'archéologie gagnerait à documenter les anciennes entrées et les parcours, mais également les modifications récentes des chemins. Une limite patrimoniale tracée sur une carte ne restitue pas nécessairement les trajets d'une procession, les zones de mémoire ou les usages saisonniers.
+
+### XXII. Échelle scientifique et responsabilité de publication
+
+Une monographie publique peut situer un ensemble, identifier ses autorités documentaires, citer les travaux universitaires et discuter de ses usages. Elle n'a pas besoin de publier un itinéraire conduisant à des espaces de culte réservés ni de reproduire des secrets confiés sous condition.
+
+Les études de sites vivants soulèvent des questions de consentement et de circulation des connaissances. Les savoirs associés à des plantes médicinales, par exemple, ne sont pas des données librement extractibles parce qu'un lieu figure sur une liste internationale. La déontologie de recherche doit porter sur les conditions de collecte, de citation et de réutilisation.
+
+À l'opposé, le respect ne dispense pas de contrôle documentaire. Un argument religieux sur la valeur d'un lieu et une affirmation archéologique sur une couche datée ne demandent pas le même type de preuve. Les articuler sans les confondre est le cœur du travail universitaire.
+
+### XXIII. Comparaison grecque : le *temenos* et l'*alsos*
+
+Pausanias, *Description de la Grèce* II, 27, 1, décrit le bois sacré d'Asclépios à Épidaure comme entouré de bornes; il précise que la naissance et la mort n'y sont pas admises et que certaines offrandes doivent être consommées à l'intérieur. Ce témoignage, rédigé dans l'Empire romain, est une source littéraire localisée, non une règle universelle de la religion grecque.
+
+Le grec *alsos* désigne un bois consacré dans divers contextes; *temenos* renvoie à un espace réservé ou découpé. On peut comparer leur fonction de distinction territoriale aux restrictions documentées pour les kayas, mais non les déclarer identiques. À Épidaure, Pausanias décrit une organisation cultuelle et des prescriptions précises; à Kinondo, les références retenues documentent un régime ancestral de protection et de médiation.
+
+La comparaison utile est donc structurelle : comment une communauté rend-elle des frontières normatives lisibles dans le paysage ? La différence historique demeure essentielle : dieux, officiants, institutions et transmissions ne sont pas interchangeables.
+
+### XXIV. Comparaison africaine : Ọ̀ṣun-Òṣogbo et la diversité des bois consacrés
+
+Le paysage de Ọ̀ṣun-Òṣogbo au Nigeria est centré sur une rivière associée à la divinité Ọ̀ṣun, des sanctuaires et un ensemble de sculptures modernes; son statut UNESCO date de 2005. Le chapitre 756 de MYTHOS lui consacre une monographie particulière. Il ne doit pas être redoublé ici.
+
+L'analogie avec les kayas porte sur les protections coutumières, l'activité rituelle et les contradictions de la patrimonialisation. Les divergences sont profondes. Ọ̀ṣun-Òṣogbo réunit un grand espace de fête annuelle, un panthéon yorùbá et des œuvres sculptées dans l'histoire récente; les kayas documentent la mémoire de sites fortifiés et les institutions de groupes mijikenda.
+
+Une théorie qui rangerait ces deux ensembles sous l'étiquette vague de « culte africain des arbres » supprimerait les données les plus intéressantes. L'Afrique n'est pas ici un réservoir d'exemples interchangeables : chaque comparaison demande ses archives, ses langues et ses chronologies.
+
+### XXV. Comparaison orientale : territoire ancestral et statut des sources
+
+En Égypte ancienne, certains arbres et jardins sont liés au culte, mais leur interprétation dépend de textes et d'images précis; l'existence d'un arbre figuré auprès d'une divinité n'implique pas un régime de forêt territoriale comparable à Kinondo. En Mésopotamie, le récit de la forêt des Cèdres dans l'épopée de Gilgamesh traite d'une aventure héroïque et d'un gardien redoutable : il ne décrit pas l'administration d'un kaya.
+
+En Inde, les bois villageois protégés relèvent de traditions locales multiples; ils ne peuvent être ramenés à un seul « temple hindou ». En Chine, les cultes ancestraux et certains sites arborés posent d'autres questions de lignage et de statut territorial. En Amérique mésoaméricaine, l'association de grottes, montagnes et ancêtres présente encore des archives et des pouvoirs propres.
+
+Ces rapprochements sont heuristiques, non généalogiques. Aucune source consultée ne permet d'établir une filiation historique entre les institutions mijikenda et ces univers anciens. La valeur du parallèle réside dans les questions qu'il fait apparaître, non dans l'affirmation de leur identité.
+
+### XXVI. Durkheim : classer sans expliquer trop vite
+
+Dans *Les Formes élémentaires de la vie religieuse* (1912), Émile Durkheim place la différence entre sacré et profane au centre de son analyse. La notion aide à formuler la manière dont un lieu est distingué et soumis à des obligations. Mais la description des kayas montre que l'opposition ne se réduit pas à une coupure stable entre deux mondes.
+
+Un espace ancestral demeure lié aux ressources, aux conflits de terres, à l'autorité et à la transmission. Le réduire à une « représentation collective » sans observer la matérialité des limites et les inégalités politiques serait appauvrissant. À l'inverse, traduire les interdits en simple stratégie d'écologie oublie leur portée morale et religieuse.
+
+La démarche durkheimienne fonctionne ici comme une question : par quelles pratiques des distinctions sont-elles maintenues ? Elle ne doit pas devenir la prétendue explication unique de toutes les institutions locales.
+
+### XXVII. Eliade et la difficulté de l'« espace sacré »
+
+Mircea Eliade, dans *Le Sacré et le Profane* (1957), fait de la différence entre espace homogène et espace qualitativement marqué un problème central de phénoménologie religieuse. Une forêt ancestralement investie pourrait sembler illustrer cette opposition.
+
+Mais ce langage risque d'effacer le moment historique où l'ancien habitat, les usages de la terre et l'économie des visiteurs changent. L'événement de sacralisation n'est pas toujours une « manifestation » isolable; il peut s'agir d'un processus long et disputé. L'expression « hiérophanie » ne doit pas être donnée comme une catégorie mijikenda.
+
+La critique historique oblige à demander ce qui serait perdu si l'on remplaçait les acteurs, les archives et les conflits par une forme universelle du religieux. Le concept philosophique a sa valeur si sa portée est explicitement limitée.
+
+### XXVIII. Vernant, Detienne et la comparaison contrôlée
+
+Jean-Pierre Vernant a montré comment les catégories religieuses, politiques et sociales grecques doivent être rapportées à leurs institutions et à leur langage; Marcel Detienne a soumis les récits et les pratiques à un comparatisme qui évite de les traiter comme des équivalents automatiques. Leur usage pour le Kenya ne consiste pas à trouver une Grèce cachée dans les forêts.
+
+La question comparative doit être décomposée : que délimite-t-on ? Quels récits fondent la limite ? Qui peut parler au nom du groupe ? Quelles ressources sont soustraites à certains usages ? Quels changements se produisent quand le cadre politique se transforme ?
+
+Ces opérations sont transposables comme méthodes. Les réponses, elles, doivent être reconstruites à partir de l'histoire spécifique des Mijikenda. Aucun schéma tripartite de Georges Dumézil ne peut être présumé pertinent sans séries textuelles et institutionnelles comparables.
+
+### XXIX. Hegel, Nietzsche et la critique des récits évolutionnistes
+
+Une lecture qui opposerait une religiosité africaine « naturelle » à des religions philosophiques ou écrites reproduirait une hiérarchie évolutionniste. Les *Leçons sur la philosophie de la religion* de Hegel peuvent servir d'objet critique pour examiner de telles constructions historiques; elles ne doivent pas être appliquées comme taxonomie scientifique des sociétés contemporaines.
+
+Chez Nietzsche, la recherche des forces de création, de conflit et de réinterprétation peut attirer l'attention sur la fabrication des valeurs. Mais *La Naissance de la tragédie* n'est pas une enquête ethnographique sur les Digo, et aucune analogie dionysiaque ne remplace des sources locales.
+
+L'historien doit donc séparer comparaison de concepts et attribution de croyances. La philosophie n'ajoute pas des faits à un site; elle aide à expliciter les questions, les présupposés et les limites d'une narration du « sacré ».
+
+### XXX. Girard et les limites du modèle victimaire
+
+La théorie du sacrifice et de la violence élaborée par René Girard propose des rapprochements entre rites, crise et cohésion. Rien dans les dossiers institutionnels mobilisés ici ne justifie toutefois d'attribuer aux kayas un rituel fondateur de bouc émissaire ou une forme générale de sacrifice victimaire.
+
+Il serait méthodologiquement erroné de produire un mécanisme invisible à partir du seul fait que des serments, interdits et réconciliations existent. La comparaison avec Girard est donc principalement négative : elle rappelle le type d'affirmations qui demandent des données explicites et qu'aucune théorie ne peut fournir à la place des témoins.
+
+La valeur de ce refus est positive. Elle permet de traiter les rites comme des pratiques politiques et religieuses concrètes, au lieu de les instrumentaliser dans une démonstration philosophique décidée d'avance.
+
+### XXXI. Que signifie « authenticité » après l'entrée au patrimoine mondial ?
+
+L'UNESCO reconnaît l'authenticité des kayas tout en soulignant la vulnérabilité de plusieurs pratiques. Cette formulation montre l'ambivalence de la catégorie : un lieu peut conserver des relations religieuses vivantes malgré des transformations sociales importantes et ne pas conserver intactes toutes ses formes anciennes.
+
+Irungu et Twahir (2026) analysent les adaptations des savoirs écologiques et les traductions de valeurs religieuses en arguments de conservation. Ces ajustements invitent à penser une authenticité négociée plutôt qu'une pureté originelle objectivement mesurable.
+
+Il serait tout autant fautif de déclarer « authentique » n'importe quelle mise en scène lucrative que d'exiger qu'une communauté renonce à l'école, au commerce ou aux religions de son choix pour rester patrimonialement reconnaissable. La question universitaire porte sur la gouvernance des transformations, la qualité des preuves et la faculté des communautés à définir leurs propres continuités.
+
+### XXXII. Controverses et hypothèses à distinguer des faits
+
+**Établi par les sources consultées :** existence d'un ensemble de kayas historiquement associés à des villages fortifiés; valeur ancestrale reconnue; dix composantes inscrites en 2008; pratiques immatérielles inscrites en 2009; conseils de gardiens mentionnés; projet d'écotourisme de Kaya Kinondo étudié en 2008; tensions de conservation signalées; recherches récentes sur la transformation des savoirs.
+
+**Discuté :** calendrier détaillé de fondation et d'abandon de chaque kaya; proportion exacte des effets écologiques imputable aux interdits plutôt qu'à d'autres facteurs; représentativité des conseils; distribution actuelle des revenus et des pouvoirs; degré de continuité des pratiques selon les générations.
+
+**Hypothèses à tester :** la superposition des anciennes frontières de défense avec les limites actuelles des obligations religieuses; les transformations conjointes des usages de plantes et des formes d'apprentissage rituel; l'effet des différents régimes de visite sur les pratiques non publiques.
+
+Aucune hypothèse ne devient un fait parce qu'elle correspond à une théorie générale du sacré.
+
+### XXXIII. Programme de recherche pour une enquête future
+
+Une enquête scientifique supplémentaire demanderait un inventaire topographique non intrusif validé par les gardiens, une comparaison critique des relevés anciens, une étude des archives foncières et des protections publiques, ainsi que des entretiens consentis avec plusieurs catégories d'acteurs. Les données sensibles devraient être identifiées avant diffusion.
+
+Sur le plan écologique, la comparaison de fragments forestiers exige des protocoles botaniques reproductibles et des séries temporelles, plutôt que des impressions de visite. Sur le plan historique, il faudrait dater distinctement les occupations, les déplacements résidentiels et les formes attestées de patrimonialisation. Sur le plan anthropologique, l'étude des conflits de légitimité devrait reposer sur des sources explicites, non sur des suppositions générales concernant « la tradition ».
+
+Un tel programme éviterait de convertir la forêt en musée mort et de prendre la conservation comme une justification autorisant toute intrusion.
+
+### XXXIV. Conclusion : la forêt n'est pas un symbole sans société
+
+Le cas des kayas mijikenda montre comment un paysage peut porter plusieurs temporalités : trace d'habitat, protection du souvenir, territoire de prescriptions, ressource biologique et objet du droit international. Le passage de l'établissement au lieu ancestral n'est ni un miracle intemporel ni un phénomène qu'une cause utilitaire unique expliquerait.
+
+Kaya Kinondo ajoute un problème contemporain décisif : il faut conserver un lieu tout en discutant qui peut le montrer, le nommer, le visiter et tirer des ressources de cette présentation. L'histoire du sacré rejoint ici celle des institutions et de la justice patrimoniale.
+
+La comparaison avec Épidaure, Ọ̀ṣun-Òṣogbo et d'autres traditions permet de reformuler les questions sans homogénéiser les réponses. La démonstration repose finalement sur une discipline négative aussi importante que ses résultats positifs : ne pas confondre mémoire et stratigraphie, reconnaissance officielle et voix unanime, protection biologique et preuve d'une croyance, analogie et transmission historique.
+
+## Sources primaires, documents institutionnels et rapports
+
+1. UNESCO, Centre du patrimoine mondial, « Sacred Mijikenda Kaya Forests », bien 1231rev, inscription 2008, critères (iii), (v), (vi), texte de valeur universelle exceptionnelle et état d'intégrité : https://whc.unesco.org/en/list/1231.
+2. UNESCO, Patrimoine culturel immatériel, « Traditions and practices associated with the Kayas in the sacred forests of the Mijikenda », dossier 00313, décision 4.COM 14.06, inscription 2009 sur la Liste nécessitant une sauvegarde urgente : https://ich.unesco.org/en/RL/traditions-and-practices-associated-with-the-kayas-in-the-sacred-forests-of-the-mijikenda-00313.
+3. National Museums of Kenya, « Sacred Mijikenda Kaya Forests », notice institutionnelle : https://museums.or.ke/sacred-mijikenda-kaya-forests/.
+4. ICCA Registry, « Kaya Kinondo », notice communautaire de conservation et d'écotourisme. Témoignage de projet, non relevé de fouille ni audit contemporain indépendant : https://icca-registry.web-supported-staging.linode.unep-wcmc.org/en/explore/Kenya/kaya-kinondo.
+5. Pausanias, *Description de la Grèce*, II, 27, 1, bois sacré et bornes de l'Asclépiéion d'Épidaure. Traduction accessible au Center for Hellenic Studies, Harvard University : https://chs.harvard.edu/primary-source/a-pausanias-reader-in-progress-description-of-greece-scrolls-1-10/.
+6. UNESCO, Centre du patrimoine mondial, « Osun-Osogbo Sacred Grove », bien 1118, inscription 2005, pour la comparaison institutionnelle circonscrite : https://whc.unesco.org/en/list/1118.
+
+## Bibliographie universitaire vérifiée
+
+1. Nyamweru, C. K., et Kimaru, E., « The Contribution of Ecotourism to the Conservation of Natural Sacred Sites: A Case Study from Coastal Kenya », *Journal for the Study of Religion, Nature and Culture*, 2/3, 2008, p. 327–350. Notice bibliographique et résumé : https://www.africabib.org/rec.php?RID=K00002797.
+2. Githitho, Anthony, « Listing The Sacred Mijikenda ‘Kaya’ Forests as UNESCO World Heritage Sites: ‘The Long Journey’ », *Journal des africanistes*, 86/1, 2016, p. 198–217 : https://journals.openedition.org/africanistes/4971.
+3. Irungu, Ruth Wanjiru, et Twahir, Fatma, « Indigenous Knowledge in the Conservation of African Heritage Sites: Case Study of the Sacred Mijikenda Kaya Forests », dans George Okello Abungu et coll. (dir.), *Heritage Authenticity in Theory and Practice in Africa*, Springer, 2026, p. 205–218, DOI : https://doi.org/10.1007/978-981-92-2619-1_15.
+4. McIntosh, Janet, *The Edge of Islam: Power, Personhood, and Ethnoreligious Boundaries on the Kenya Coast*, Duke University Press, 2009, DOI : https://doi.org/10.1215/9780822390961. Référence utilisée pour l'histoire ethnoreligieuse régionale, non comme enquête exhaustive sur Kinondo.
+5. McIntosh, Janet, « Elders and ‘Frauds’: Commodified Expertise and Politicized Authenticity among Mijikenda », *Africa*, 79/1, 2009, p. 35–52. Notice et résumé : https://www.africabib.org/rec.php?DB=k&RID=K00002505.
+6. Ballarin, Marie-Pierre, « Sites sacrés, patrimoine et identités en Afrique de l'Est : le cas de Rabai, Kenya », *Journal des africanistes*, 86/1, 2016, référence du sommaire vérifiée : https://africanistes.org/revue/tome-86-fascicule-1-2016-revalorisation-patrimoniale-des-sites-naturels-sacres-kenya-ouganda-madagascar-enjeux-locaux-nationaux-et-internationaux.
+7. Adongo, Christin, « From sacred grove to cultural site: the role of socio-economic dynamics in the conservation of kaya Mudzi Muvya, Kenya », *Journal des africanistes*, 86/1, 2016, référence de sommaire vérifiée, utile comme comparaison interne aux kayas : même URL du numéro ci-dessus.
+8. Durkheim, Émile, *Les Formes élémentaires de la vie religieuse*, Paris, Alcan, 1912; ouvrage méthodologique comparé, non source ethnographique sur les Mijikenda.
+9. Eliade, Mircea, *Le Sacré et le Profane*, Gallimard, 1965 (ouvrage allemand original, 1957); usage conceptuel critique.
+10. Vernant, Jean-Pierre, *Mythe et pensée chez les Grecs*, Maspero, 1965; référence de méthode historique.
+11. Detienne, Marcel, *Comparer l'incomparable*, Seuil, 2000; référence de méthode comparative.
+12. Hegel, G. W. F., *Vorlesungen über die Philosophie der Religion*, éditions posthumes à partir de 1832; objet de critique des systèmes philosophiques, non témoignage africain.
+13. Nietzsche, Friedrich, *Die Geburt der Tragödie*, 1872; objet de comparaison philosophique limitée.
+14. Girard, René, *La Violence et le sacré*, Grasset, 1972; modèle discuté sans lui attribuer de confirmation ethnographique locale.
+
+*Statut scientifique : les sources institutionnelles et les métadonnées des travaux récents ont été vérifiées ; cette étude ne revendique ni fouille originale, ni entretiens nouveaux, ni consultation intégrale de toutes les monographies citées. Toute précision non documentée est laissée en réserve. Ce manuscrit reste sans numéro tant qu'aucun reçu transactionnel n'a été vérifié.*

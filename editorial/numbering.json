@@ -1245,6 +1245,96 @@
           "path": "chapitres/origines-du-sacre/779-muhembo-baie-pangani-mosquees-corail-continuite-zanjienne-rhapta.md",
           "request_sha256": "42c84d88786d597ec8a3d3783181d592607c4cefe1e43223e9e5f20e3c15cf55",
           "initial_source_sha256": "8d4db430761141824df8c2583970967bb4afd3f50c542dd6dfb066eff7a8533d"
+        },
+        "aef69347-2f5c-47bf-9c7a-d72a60369d18": {
+          "number": 780,
+          "path": "chapitres/origines-du-sacre/780-takwa-manda-lamu-mosquee-pilier-eau-tombes-memoire-swahilie.md",
+          "request_sha256": "391f4b835596eda7678e80a46f9db03933ff7befe97fbce42ae28d89b276e49f",
+          "initial_source_sha256": "69de21029ac76b1018a371ca268fe75c08f34d047f41db742391018ded823424"
+        },
+        "b4b59c61-0d7e-4b1a-a67c-202611070936": {
+          "number": 781,
+          "path": "chapitres/origines-du-sacre/781-kondoa-tanzanie-kolo-abris-peints-pluie-divination-traditions-conservation.md",
+          "request_sha256": "bec5019d1390f6a6f8d5868465b9e2b1062891ceecc08a041f30890a7e871820",
+          "initial_source_sha256": "6e1a3d6f8bd443fcb915680865e8c6ac5c22debba41f0666f0a081b7197e7554"
+        },
+        "d7b0316c-04c9-48f2-bbb1-52fb86069c64": {
+          "number": 782,
+          "path": "chapitres/origines-du-sacre/782-ngombezi-iles-pangani-zigua-habitats-caravanes-memoire-rituel-limites.md",
+          "request_sha256": "ac377f93dd11bcb0a07d8f44647771114d22acd3fd4bfcbb1385dfbbe19f1368",
+          "initial_source_sha256": "006fb6bd5d99500b0ae8b232d410617992eedfcc9871fb5deebd5fc0d6fef3c2"
+        },
+        "f6a4e0c1-d233-4d77-a9bb-bfe97ea39c57": {
+          "number": 783,
+          "path": "chapitres/origines-du-sacre/783-mtwapa-kenya-mosquee-vendredi-repas-funeraires-zooarcheologie-2026.md",
+          "request_sha256": "d99654b5209341337e063ef73eff6d0756c2545f956305ff042bdd3f6c16ab02",
+          "initial_source_sha256": "ed9674ad5a224fdb94d7a40f635e483b51f65d3a8b1fc3520a8e358658fcfecf"
+        },
+        "1a4e88b7-8d1c-4d0e-a32c-202611071031": {
+          "number": 784,
+          "path": "chapitres/origines-du-sacre/784-sa-huynh-vietnam-necropoles-jarres-jade-fer-reseaux-maritimes.md",
+          "request_sha256": "874a551165b1a86d32d301c3d2ac39ab066a2c7ea34c5e55bb21e4b056f041f5",
+          "initial_source_sha256": "3dee57b82587fb66ab978ecd6ab3e9339529f7a44ad490720d492a900753de7e"
+        },
+        "3b74e5a2-56a2-4b92-ace8-424eac8203ae": {
+          "number": 785,
+          "path": "chapitres/origines-du-sacre/785-jumba-la-mtwana-mosquees-dix-huit-puits-ablutions-purete-swahilie.md",
+          "request_sha256": "717b493445b9e9818baf21e26d0725450960c1806eef7da554f4387810f1c302",
+          "initial_source_sha256": "30b662bfffc4c70b4259dc8c86ed1a90206822409af356415bd4f2fe5afddf21"
+        },
+        "4c6e930a-b695-4b1a-9e19-202611071041": {
+          "number": 786,
+          "path": "chapitres/origines-du-sacre/786-kaya-kinondo-mijikenda-forets-ancestrales-anciens-conservation.md",
+          "request_sha256": "f4cd6e8bb1200e3ef63d949a914573a365f48b25dab01646339eb237fc96c8fa",
+          "initial_source_sha256": "77cfa0d2102d387893f1b12772f7d2e24aa9e6fbccc9b7bd91c55d63479110a0"
+        },
+        "5a74eae1-20d1-44f1-8f9d-202611071033": {
+          "number": 787,
+          "path": "chapitres/origines-du-sacre/787-manunggul-palawan-tabon-jarre-bateau-sepultures-secondaires-philippines.md",
+          "request_sha256": "2dc340bd4ea87d94fa763fcacf5333d0607c06b3e4f8f45d50db8e2c243c7119",
+          "initial_source_sha256": "544b2840ef8435f02c1260741d5161985e60e119673db4dad9463e5788295c95"
+        },
+        "5c3a9b5e-0ae5-4f41-8d6a-a6f0b709c617": {
+          "number": 788,
+          "path": "chapitres/origines-du-sacre/788-lamu-riyadha-maulidi-manuscrits-hadrami-enseignement-religieux.md",
+          "request_sha256": "cfa80a4d3dc36399a0dff59e87edb2af085ccdc7f5fdb20111af7dfb90b33780",
+          "initial_source_sha256": "5857fa69a48338291b06386be25d770d50576ed6eb967a5ed9eafbecc97c13a6"
+        },
+        "60e6bcb7-b702-49b8-a28f-41d24fc973ea": {
+          "number": 789,
+          "path": "chapitres/origines-du-sacre/789-mnarani-kilifi-mosquees-tombes-pilier-inscriptions-memoire-estuaire.md",
+          "request_sha256": "3ff3218e2e3d30d8c85a8fc0ab0f694de726bd87b3bb2c8d672d566fa9640712",
+          "initial_source_sha256": "300899fb08934e5ac5da8cbfa13dd953487784945985dde952e935344d2c037a"
+        },
+        "80c79a1f-3b14-47dc-9b27-202611071042": {
+          "number": 790,
+          "path": "chapitres/origines-du-sacre/790-kasubi-buganda-tombeaux-rois-ancetres-architecture-vegetale-restauration.md",
+          "request_sha256": "d82661240021676d929bb083c741fa0196263f267216f874c298f04f6aeb3da4",
+          "initial_source_sha256": "5389a6bcee415493cdf536de175c2ca84d97232d911740bf3e6e4adc0dc18f02"
+        },
+        "b8c9d07e-43af-4f76-b09a-202611071010": {
+          "number": 791,
+          "path": "chapitres/origines-du-sacre/791-chongoni-malawi-namzeze-peintures-chewa-chinamwali-nyau-memoire.md",
+          "request_sha256": "9120998871bae5c6a32d50e71d2806bf918ecb009b27b4b83d8ac720a2f9bc87",
+          "initial_source_sha256": "059ba6f8535078e2fe42c66a543ff4bc0bfd4f266a14d1c5b00e4a9feb165a5e"
+        },
+        "dbf32d91-2a95-4fab-b891-5e6a75cc82b9": {
+          "number": 792,
+          "path": "chapitres/origines-du-sacre/792-jumba-la-mtwana-mosquees-puits-ablutions-eau-domestique-memoire.md",
+          "request_sha256": "3a0238184d614459a4736c32d833b395ce8acbd3bb542fd90cf7861d636e2225",
+          "initial_source_sha256": "4db265c246007363b38a4b2f81fd769550e0890edf8ae8f73eb0cd4790f601a0"
+        },
+        "e13d5ac2-85f7-4cf8-9ba0-26e3016c47d2": {
+          "number": 793,
+          "path": "chapitres/origines-du-sacre/793-kitoka-takaungu-creek-mosquees-corail-tombes-inscriptions-kilifi.md",
+          "request_sha256": "98b2a3ca220bcf8e43bb2d1a6fd27f7082d16fbaa5ef0d96b64de1cf11312bba",
+          "initial_source_sha256": "60ea9173ded0005347a9211c9a443eaf602a90c4fe943ec65ce4f1d7fb61eddb"
+        },
+        "f8da2b2a-a5ef-49ec-9d39-08f14c271bc4": {
+          "number": 794,
+          "path": "chapitres/origines-du-sacre/794-kilepwa-kirepwe-mida-creek-gravures-navires-mosquee-tombes-votif.md",
+          "request_sha256": "fb0db0c79a7acca28df2dd084eb2835c89d45eb52a8dc0a1a1d0d4d164ffcd7b",
+          "initial_source_sha256": "7449596bd5b2c3bd19b6fda6a74bcbf38a8a1d09926d5e2979828aba73b77d79"
         }
       }
     },
@@ -2032,6 +2122,30 @@
           "path": "chapitres/encyclopedie/chapitre-478-apollon-maleatas-epidaure-kynortion-malos-isyllos-asclepios-sanctuaire.md",
           "request_sha256": "fb3c79154bd9c5f9e82ea276ffe5cbb0e13fb14f1d7a3fb74e97f6fd7c67c9d4",
           "initial_source_sha256": "21369d5056169b7930ca4d49a09013dfbb8f20ff2bd858b47e19cc768f1e5d0b"
+        },
+        "b6c60f47-8aa9-4d1b-919d-202611070945": {
+          "number": 479,
+          "path": "chapitres/encyclopedie/chapitre-479-demeter-kore-acrocorinthe-terrasses-banquets-likna-epigraphie.md",
+          "request_sha256": "98d72cacc05db8be7b13e03ea851493b829cace491ed41cb48be96cd05ff281c",
+          "initial_source_sha256": "7585051ff4b17569b8df05a26a60d909e28954c287b2c3a3cbc30ca0bace2712"
+        },
+        "c23d1b7e-6e54-4dd2-9b5a-202611070958": {
+          "number": 480,
+          "path": "chapitres/encyclopedie/chapitre-480-nymphes-grotte-vari-archedamos-thera-nympholepsie-pan-epigraphie.md",
+          "request_sha256": "1b1329a663000a23a4b35d89ae76acb415943781eb199025c895027811c9920b",
+          "initial_source_sha256": "ff66abbb9a02e962e2bad491d094a8468830c3909bf063ad2c9554ab610abca7"
+        },
+        "be650d8e-27ac-4d39-921b-9896620e2ec1": {
+          "number": 481,
+          "path": "chapitres/encyclopedie/chapitre-481-melampous-langage-animaux-mantique-purification-pouvoir.md",
+          "request_sha256": "2df0ca52a423839b23b0c50ce25ef5772225b28a88ca2f22e15c5b15480ff9ea",
+          "initial_source_sha256": "c5b891feb0b181c17854cc2985ff1519a30a49e0979d2f5fb2091c754577e18f"
+        },
+        "f0e6a6a9-8eb2-4d1d-93ab-3cbb8db8c21a": {
+          "number": 482,
+          "path": "chapitres/encyclopedie/chapitre-482-damia-auxesia-egine-epidaure-trezene-statues-rituels-fertilite.md",
+          "request_sha256": "555dacb42f7a7e8c1aa9f044841e61d89270b6423bf09267bcd9afdf7583635b",
+          "initial_source_sha256": "4813a336abdc0186ddab0d06bd0fd21930e4e93b32b6fd75ad96687a6ee4fcf6"
         }
       }
     },
@@ -2602,6 +2716,30 @@
           "path": "chapitres/comedies/volume-143-euboulos-semele-dionysos-trois-crateres-hybris-symposion-mesure.md",
           "request_sha256": "973a8e69a20293c20fcea2e899fa9662680993ca14f2e54590d99efbd304482f",
           "initial_source_sha256": "a82a46770b0e42eee2588d54a76cb02f7290e399c69a0b757bdcf889405d8299"
+        },
+        "a8d23c71-9e4b-4b25-8731-2e5fd7c92a10": {
+          "number": 144,
+          "path": "chapitres/comedies/volume-144-diphile-synoris-euripide-des-parasites-citation-fictive-revision-comedie.md",
+          "request_sha256": "82a967718d340ed1393ae32397f048b75873689f232b9ff4f471de6898101bed",
+          "initial_source_sha256": "73c56fc7ea84c1dd2d6f9a276764c47b3a2df9c2fea55e2080151f7d75382485"
+        },
+        "b23d7c41-1a90-4f65-b648-202611070922": {
+          "number": 145,
+          "path": "chapitres/comedies/volume-145-menandre-dyskolos-cnemon-pan-phyle-puits-pauvrete-philanthropie.md",
+          "request_sha256": "bc49fbbaf25ba7bea9efdcee28eac10a47ed5e974a33be6e8afc1592fbde74bc",
+          "initial_source_sha256": "f85bf5f9340c70ac08ceb6d4dfd1cde59c3b4b83ff76a5cac2fe1857e8307cd7"
+        },
+        "891be758-32c0-4f01-8750-941be5a36f33": {
+          "number": 146,
+          "path": "chapitres/comedies/volume-146-menandre-samia-chrysis-demeas-moschion-papyrus-caire-bodmer-fausse-filiation.md",
+          "request_sha256": "84020223a1b63bad7e84065b1dbd8dd33eb9ac21c1fd44534ccf48647c10104d",
+          "initial_source_sha256": "96fb81fd0d8e5f66f101e3deff6ebc46014d190c61480357bd3c3cb6cf75003f"
+        },
+        "a729e6c8-135f-4ada-8c68-5bf7a51c0de1": {
+          "number": 147,
+          "path": "chapitres/comedies/volume-147-cratinos-kleoboulinai-cleobuline-enigmes-voix-feminines-tradition-lexicographique.md",
+          "request_sha256": "f4030bed4941dc13fe8ba6603491d69b4c974480e4e191b7e1949bbb761d2c8f",
+          "initial_source_sha256": "129a48b146057ddcadada5b0265c3bf3d14e4881bef95eff07506743bbe74c02"
         }
       }
     },
@@ -3244,6 +3382,30 @@
           "path": "chapitres/tragedies/volume-ccxc-ion-de-chios-omphale-satyrique-heracles-lydie-servitude-inversion.md",
           "request_sha256": "fdb65ffc3ac439d8739e5ff75e57b85f1069222087775f9c57cbbe03d6022fdc",
           "initial_source_sha256": "82503230371f813c3b31fff5dc807b4ce60f4d385f933ac69ba7eda04ad4e11d"
+        },
+        "17f5fe8c-5111-4c07-a589-94f602817c8d": {
+          "number": 291,
+          "path": "chapitres/tragedies/volume-ccxci-ion-de-chios-phoinix-ou-kaineus-cenee-phenix-fragments-41-48-metamorphose.md",
+          "request_sha256": "c143748a400b9d6d0db9654968f7396fd18e2a65ffbe8fed95977e8e0c6ab262",
+          "initial_source_sha256": "c840b1c8e1c84f2d61354fade9c5e8ac678c36726e217bb009e71ddc16e99ae4"
+        },
+        "b16f2938-cc7e-4eab-91de-3ac57f62dc09": {
+          "number": 292,
+          "path": "chapitres/tragedies/volume-ccxcii-ion-de-chios-teucros-archer-ajax-hesione-salamine-fragments-34-35.md",
+          "request_sha256": "4e7d7cbf5cad0b3da722d4617d96276d559d0dd995b7942a52150068a5d49304",
+          "initial_source_sha256": "5a872fb4359b6e6058452ddb78d5c264fd15ca96e141fb39ee779c9af68d7135"
+        },
+        "11ce27d9-fc4b-4bc9-9d24-09e9c53440ab": {
+          "number": 293,
+          "path": "chapitres/tragedies/volume-ccxciii-ion-de-chios-second-phoinix-aulos-phrygien-timalphes.md",
+          "request_sha256": "030fa6265b8e57e4a809f3a6ef4a02faa742a23bcff428286f840947e321e72b",
+          "initial_source_sha256": "e676ec1128bc74d3cb9d8d846b183c059b37f323d0fb4210c151d2ae26e60057"
+        },
+        "2ea1b9df-7b32-45e1-8eb8-9a1b6c231a09": {
+          "number": 294,
+          "path": "chapitres/tragedies/volume-ccxciv-ion-de-chios-phrouroi-gardiens-helene-ulysse-troie-fragments-51-59.md",
+          "request_sha256": "a4b3f52a278802267f29c084a0e044abd88114cde51573b2952571dc432eda39",
+          "initial_source_sha256": "d7b67697a2d3f0c7dc6d09210fd86718305696e846883fc1e2ad887edeb8035c"
         }
       }
     },
@@ -4435,6 +4597,42 @@
           "path": "chapitres/comparatif/volume-cccxxxix-cavaliers-rajeunir-demos-marmite-marathon-propylees-souverainete-exodos-424.md",
           "request_sha256": "ae63a8bb2b26564c53a217a44771f03894b74fc039d0dbfc94d713b2492a284e",
           "initial_source_sha256": "71c79ed26b117da8324829c1c21d7e7717e151a5e9f3f6bfb0d31fed34d65bc2"
+        },
+        "4b0c173a-8f21-41a9-9db4-6026b54e8901": {
+          "number": 340,
+          "path": "chapitres/comparatif/volume-cccxl-lysistrata-desertions-casque-sacree-hirondelles-melanion-timon-discipline-411.md",
+          "request_sha256": "b5118956f1bebf849e25a2906fd3f1a9a0301420be9ee6de2c2484cd4c72c328",
+          "initial_source_sha256": "f6c459c05fc8b7903d6267995cb6c8afbdfe066a9b4e3db05eb5455ba92d0cf3"
+        },
+        "52e03cb4-44ec-47c7-9506-f3f88fc240d1": {
+          "number": 341,
+          "path": "chapitres/comparatif/volume-cccxli-mc-117-jumeaux-sacre-dioscures-asvins-romulus-remus-popol-wuj-ibeji.md",
+          "request_sha256": "33cb9b3a0b8302329873b046a2ca758ddf130d01149da71fb978b091ea34c156",
+          "initial_source_sha256": "6c02e25a2ece0fcefd9385a77aa1224279f110b25e288e39e41781952835f894"
+        },
+        "de61c74a-5fa2-4c2e-a6d3-63c3c8de91b2": {
+          "number": 342,
+          "path": "chapitres/comparatif/volume-cccxlii-grenouilles-lekythion-prologues-critique-ritournelle-405.md",
+          "request_sha256": "4e7609f62a8e499b36a87e87f5692c87747fa89ad9d871ede850943e1d614cde",
+          "initial_source_sha256": "8e2ffdc5de0db7e3713037a11a7508c7631ab747cd7e51eb353a3ef38fd194d0"
+        },
+        "e55c14b9-6c0b-4820-9d72-202611070958": {
+          "number": 343,
+          "path": "chapitres/comparatif/volume-cccxliii-mc-118-voix-conques-triton-sankha-maya-chavin-dung-dkar-acoustique.md",
+          "request_sha256": "afbde1ae1f8d9a0008946255c0f27f41799061c41f1dc1fa8de850f63035ae8d",
+          "initial_source_sha256": "76212504455c007e5759b54587c5efccd9f329396bf6be251d12a467285069d7"
+        },
+        "29d3e4c8-6ed1-4915-93a4-4c9b0b27c102": {
+          "number": 344,
+          "path": "chapitres/comparatif/volume-cccxliv-acharniens-phales-dionysies-rurales-procession-paix-famille-425.md",
+          "request_sha256": "966aabc017bc7c39c97f65e0cf8029eda28ba84ee8596fbac86fff40afac5148",
+          "initial_source_sha256": "5bed730e7e3f2eeaf3981e0335ee6ea21c2e6e168cd9f6c25218e08c8a6248d1"
+        },
+        "4b3e1190-7c27-45db-9c6f-202611070119": {
+          "number": 345,
+          "path": "chapitres/comparatif/volume-cccxlv-mc-119-chiens-sacre-gula-anubis-cerbere-yama-sagdid-xolotl.md",
+          "request_sha256": "c52a9b357a1a21eaad55dd91385bfa7e7272be1a1269a937aef5cd47e9fd8189",
+          "initial_source_sha256": "a91ac776ee978d1a9a4738cbdc174b6f1fdebcbd415339d770e87efb674262f7"
         }
       }
     }
