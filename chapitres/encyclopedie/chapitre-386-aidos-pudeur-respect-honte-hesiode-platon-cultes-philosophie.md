@@ -231,3 +231,13 @@ Aidôs occupe une place essentielle dans l'histoire morale grecque précisément
 La conclusion doit garder ensemble deux propositions. Sans réserve ni sens de la dignité d'autrui, la force tend à remplacer la relation morale. Mais lorsque la pudeur est définie uniquement par la peur d'un groupe ou par le prestige de ceux qui le dominent, elle peut protéger les injustices qu'elle aurait dû prévenir. **L'histoire d'Aidôs conduit donc à distinguer le respect authentique de la soumission au jugement social.**
 
 *Statut documentaire : étude destinée au circuit public d'attribution de MYTHOS. Aucun numéro n'est garanti par cette rédaction ; seule l'attribution atomique de GitHub Actions pourra le déterminer. Les publications existantes conservent leur texte et leur numérotation.*
+
+---
+
+### Note éditoriale documentaire — Louis Gernet et le *Protagoras* de Platon (7 novembre 2026)
+
+**Chercheur français :** Louis Gernet, *Anthropologie de la Grèce antique*, Paris, François Maspero, 1968, recueil préfacé par Jean-Pierre Vernant, identifié par la [notice de collection du Mucem](https://mucem.org/notice/b/oai%3APMB%3A26898/). Les textes de Gernet constituent une référence pour contextualiser les représentations grecques du droit, de la religion et des rapports sociaux ; ils ne doivent pas être cités comme un commentaire direct de ce chapitre sans localisation préalable d'un passage.
+
+**Témoin primaire contrôlé :** Platon, *Protagoras*, **322c–d**, [texte grec](https://openprotagoras.wikidot.com/pagex%3A322) (édition fondée sur l'Oxford Classical Text de Burnet, 1903). Dans le récit que **Platon fait prononcer à Protagoras**, Zeus charge Hermès de distribuer **αἰδώς** (*aidôs*) et **δίκη** (*dikê*) à tous les hommes, contrairement aux compétences techniques partagées entre spécialistes. L'argument narratif explique pourquoi la vie politique suppose des dispositions communes.
+
+**Précaution épistémique.** Le passage établit ce que **ce dialogue platonicien** fait dire au personnage de Protagoras ; il ne prouve ni que tous les Athéniens souscrivaient à ce modèle ni que le Protagoras historique l'enseignait sous cette forme exacte. Le concept d'*aidôs* ne se réduit pas à une « honte » contemporaine ; sa traduction dépend de la situation. La notice du Mucem ne vaut pas validation de MYTHOS par Gernet ou l'institution.

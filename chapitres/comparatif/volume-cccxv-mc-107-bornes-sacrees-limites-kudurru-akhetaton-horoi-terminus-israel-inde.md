@@ -556,3 +556,13 @@ Les sociétés anciennes ont conçu les limites au moyen de pratiques très diff
 **Lecture philosophique [P] :** une limite ne vaut pas seulement parce qu'elle arrête un mouvement. Elle crée aussi le voisinage, la responsabilité, la possibilité d'un passage réglé et la mémoire d'un accord ou d'un conflit. La pierre peut être sacrée, juridique ou publique ; elle reste dépendante des institutions capables de la lire et de la reconnaître. **Le sacré n'abolit pas les conflits de frontière : il donne à leur règlement certaines de ses formes historiques.**
 
 **FIN — MYTHOS MC-107.** Cette soumission ne modifie ni les registres d'attribution, ni les manuscrits protégés, ni les autres séries éditoriales, ni la charte visuelle noir et or, ni les planifications MYTHOS.
+
+---
+
+### Note éditoriale documentaire — Louvre, Meli-Shipak et Pierre Briant (7 novembre 2026)
+
+**Objet muséal précisément identifié.** Le [musée du Louvre, catalogue des collections](https://collections.louvre.fr/ark:/53355/cl010174452), décrit le kudurru de **Meli-Shipak II, inventaire SB 22** (autre numéro : AS 6068), stèle calcaire à inscription akkadienne et symboles divins, produite en Babylonie à l'époque kassite (règne indiqué dans la notice : **1186–1172 av. J.-C.**). Le texte commémore une **donation de terres du roi à son fils Marduk-apla-iddin**. L'objet a été découvert sur l'acropole de **Suse**, mais la notice précise son déplacement depuis la Babylonie comme butin de guerre au XIIe siècle av. J.-C. Sa localisation de découverte n'est donc **pas la limite territoriale d'origine de l'acte commémoré**.
+
+**Auteur français, cadrage historiographique distinct.** Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Paris, Fayard, **1996**, confirmé par l'[éditeur](https://www.fayard.fr/livre/histoire-de-lempire-perse-9782213596679/) et le [Collège de France](https://www.college-de-france.fr/fr/personne/pierre-briant). Cet ouvrage porte sur la souveraineté achéménide, bien postérieure à la stèle kassite. Une [bibliographie d'enseignement de l'université d'Oxford](https://www.cabinet.ox.ac.uk/week-2-darius-behistun) signale notamment les pages **97–138** de sa traduction anglaise *From Cyrus to Alexander* pour discuter l'accession au pouvoir de Darius et l'inscription de Behistun ; cette pagination ne doit pas être reportée sur l'édition Fayard sans contrôle.
+
+**Limite comparative.** L'objet SB 22 renseigne sur une donation et ses garanties divines ; Briant sert de cadre pour une autre histoire impériale, **sans démontrer une continuité institutionnelle** entre le *kudurru* kassite et les pratiques achéménides. Aucune validation du chapitre MYTHOS par le Louvre ou Briant n'est impliquée.
