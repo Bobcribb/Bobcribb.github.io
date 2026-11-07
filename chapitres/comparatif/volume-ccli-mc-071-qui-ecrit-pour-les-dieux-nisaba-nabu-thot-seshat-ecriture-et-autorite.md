@@ -395,3 +395,15 @@ Aucun visuel généré 2,5D, aucune photographie non autorisée et aucune légen
 L'histoire comparée des scribes et des dieux de l'écriture ne s'achève pas sur une origine unique de l'alphabet. Elle fait apparaître des autorités distinctes : patronage de la compétence, garantie d'une inscription, mise en mémoire d'une décision, droit révélé et critique du savoir externe. Les rapprochements avec MC-026, MC-034, MC-038 et les chapitres sur les noms sacrés doivent conserver leurs limites documentaires ; leurs textes existants ne sont ni remplacés ni résumés ici. Le manuscrit peut être publié comme étude autonome parce qu'il traite une question nouvelle sur le document comme instrument d'autorité, plutôt qu'une répétition des mythes du destin ou des étymologies divines.
 
 **Fin du dossier MC-071.** L'identifiant historique ne constitue pas une réservation de numéro canonique ; aucun volume suivant n'est annoncé.
+
+---
+
+### Note éditoriale scientifique — Jean-Jacques Glassner et l'origine du cunéiforme (7 novembre 2026)
+
+**Référence française :** Jean-Jacques Glassner, *Écrire à Sumer. L'invention du cunéiforme*, Paris, Éditions du Seuil, coll. « L'Univers historique », **2000**, **300 p.**, ISBN **978-2-02-038506-0** ([catalogue des médiathèques de Montpellier](https://mediatheques.montpellier3m.fr/ECOLOTHEQUE/doc/CAMO/597894/ecrire-a-sumer-l-invention-du-cuneiforme) ; [notice d'autorité et bibliographie Persée](https://www.persee.fr/authority/277657)). Les [Smithsonian Libraries and Archives](https://www.si.edu/object/invention-cuneiform-writing-sumer-jean-jacques-glassner-translated-and-edited-zainab-bahrani-and%3Asiris_sil_1145796) répertorient également sa traduction anglaise, éditée par Zainab Bahrani et Marc Van de Mieroop.
+
+**Question historiographique.** La présentation bibliographique de l'ouvrage distingue les premières écritures cunéiformes des modèles qui les réduisent à une simple pictographie ou à l'enregistrement comptable. Cette approche interroge les **conditions de constitution d'un système de signes**, ses supports, ses usages sociaux et ses relations avec les langues parlées. Elle doit être présentée comme une **thèse discutée dans l'histoire des recherches**, et non comme l'unique explication désormais admise de la naissance de l'écriture.
+
+**Application à MC-071.** Trois objets doivent rester séparés : (1) les **documents matériels** issus de contextes archéologiques datés ; (2) les **récits littéraires anciens** qui attribuent à des rois ou des divinités l'invention ou la maîtrise des signes ; (3) la **reconstruction savante contemporaine** des mécanismes d'émergence de l'écriture. Le récit d'Enmerkar ne constitue pas, sans autre argument, un procès-verbal de l'invention historique du cunéiforme ; les patronages de Nisaba et de Nabû n'attestent pas que l'écriture a été techniquement inventée par une divinité.
+
+**Limites :** bibliographie, plan et présentation de l'ouvrage vérifiés ; ses démonstrations ne sont pas déclarées collationnées page à page. Ne pas inventer de citations ni de pagination. Aucune expertise de MYTHOS n'est attribuée à Glassner, au Seuil ou au Smithsonian.
