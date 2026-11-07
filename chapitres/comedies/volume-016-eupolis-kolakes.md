@@ -346,3 +346,14 @@ Ce qui demeure des *Kolakes* n'est pas une comédie entière, mais un faisceau d
 
 
 **Suite du cycle :** [Volume XVII — Eupolis, *Noumêniai*](/chapitres/comedies/volume-017-eupolis-noumeniai/) — dossier sur les *Nouvelles Lunes* (425 av. J.-C.), témoignage didascalique unique, absence de fragments et trois scènes contemporaines explicitement fictives.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Témoins et date.** *Kolakes* (« Les Flatteurs ») est une comédie **perdue** d'Eupolis, **premier prix aux Grandes Dionysies de 421 av. J.-C.** selon les notices didascaliques. Les **fragments 157, 158 et 170 PCG** concernent notamment la caricature de **Protagoras** ; le fragment 157 est notamment transmis par **Diogène Laërce IX, 50**, et le 158 par **Plutarque, *Propos de table* 699a**. La présence scénique exacte du sophiste et le déroulement du banquet ne sont pas entièrement restituables.
+
+**Étude scientifique vérifiée en notice éditoriale, non intégralement lue :** Michele Corradi, « Protagora negli Adulatori di Eupoli », dans *Flatterie et flatteurs dans les sociétés antiques* (Classiques Garnier), mis en ligne le **24 décembre 2025**, p. **131–155**, DOI **10.48611/isbn.978-2-406-18960-2.p.0131**, https://classiques-garnier.com/flatterie-et-flatteurs-dans-les-societes-antiques-pratiques-acteurs-morales-protagora-negli-adulatori-di-eupoli-en.html. Kenneth Dover, entrée « Eupolis », *Oxford Classical Dictionary* (2016), DOI **10.1093/acrefore/9780199381135.013.2564**, https://academic.oup.com/edited-volume/61673/chapter-abstract/548946199 : chronologie générale et statut fragmentaire, non édition de la pièce.
+
+**Référence française de cadrage :** Pierre Vidal-Naquet, *Le Chasseur noir* (1981), sur les catégories de la cité ; n'établit pas la mise en scène exacte des sophistes. **Limites :** collation de Kassel–Austin, *Poetae Comici Graeci*, et des leçons grecques requise ; toute scène recomposée doit demeurer marquée comme moderne.

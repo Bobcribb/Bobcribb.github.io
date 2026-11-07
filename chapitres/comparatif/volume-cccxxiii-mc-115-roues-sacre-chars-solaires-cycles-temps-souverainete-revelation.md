@@ -238,3 +238,14 @@ La question philosophique finale n'est pas « toutes les religions possèdent-el
 ---
 
 *Notice de continuité : étude originale MC-115, distincte des MC-024 à MC-114 et des dossiers déjà consacrés aux calendriers, aux couronnes, aux trônes, aux bornes et aux clés du sacré. Le numéro canonique est attribué exclusivement à partir du registre de la branche main, sans réservation ni écrasement. Les séries, manuscrits et automatisations existants sont laissés inchangés.*
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Objet matériel officiellement identifié :** *Solvognen fra Trundholm* (« char solaire de Trundholm »), **Nationalmuseet, Danemark**, objet **B7703** (numéro de collection, distinct de l'asset photographique **DO-2613**). Notice et image institutionnelles : https://samlinger.natmus.dk/DO/asset/2613 ; documentation scientifique du musée : https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/the-sun-chariot/. Objet de l'âge du Bronze ancien, vers **1400 av. J.-C.**, découvert en **1902** à Trundholm Mose. Le musée distingue le disque solaire doré, le cheval et la présence des roues : il s'agit d'une matérialisation figurée du mouvement du soleil dans le contexte nordique.
+
+**Limites de l'iconographie.** Cette pièce ne peut servir, isolément, de preuve d'un emprunt aux représentations indo-iraniennes de chars solaires, aux généalogies d'Hélios ou à un prétendu système religieux universel du cycle. Différencier **objet**, **interprétation muséale**, **textes antiques d'autres cultures** et **hypothèse de diffusion**.
+
+**Référence française de méthode :** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs*, édition La Découverte (**1990**), cadre d'analyse des représentations symboliques dans leur système social ; **aucun passage sur le char de Trundholm n'est supposé**. Les éditions primaires védiques et les témoins iconographiques grecs et iraniens doivent être contrôlés chacun dans leurs propres contextes avant toute comparaison génétique.

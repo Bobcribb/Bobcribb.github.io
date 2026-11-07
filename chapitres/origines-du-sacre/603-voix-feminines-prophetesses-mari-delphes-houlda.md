@@ -126,3 +126,14 @@ La suite de cette enquête doit porter sur les modes de désignation et de contr
 - **[R6]** « Paul, Plutarch and the Gender Dynamics of Prophecy », *New Testament Studies*, 2019 ; [présentation académique](https://www.cambridge.org/core/journals/new-testament-studies/article/abs/paul-plutarch-and-the-gender-dynamics-of-prophecy/010C5933799D0757AAD949AB8497E3AF). L'article est mobilisé pour son problème de recherche, non comme preuve indépendante de chaque procédure de Delphes.
 
 **Renvois thématiques** : études sur l'oracle de Delphes, la transmission des prophéties, les archives de Mari et le contrôle des écritures rituelles déjà présentes dans MYTHOS. Aucun numéro futur n'est réservé dans ce manuscrit.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 12
+
+**Document précis :** la femme **Innibana** apparaît qualifiée de **āpiltum** dans **ARM 26 204:4**, selon l'étude scientifique identifiée ci-dessous. Les termes akkadiens *āpilum / āpiltum* ne doivent pas être traités comme synonymes automatiques de la Pythie grecque ou d'une prophétesse biblique : archives, procédures et contextes de transmission sont distincts.
+
+**Étude effectivement consultée :** José Andrés Sánchez Abarrio, « Prophecy in Clay: The Construction of Prophetic Identities in the Royal Archives of Mari », *Religions* **16/11 (2025)**, article **1400**, DOI **10.3390/rel16111400**, https://www.mdpi.com/2077-1444/16/11/1400. L'étude recense les occurrences du titre et signale notamment **ARM 26 204:4**. Les nombres d'occurrences dépendent des éditions et de la catégorisation employée.
+
+**Chercheur français et ressource institutionnelle contrôlée :** Dominique Charpin, cours « **Prêtres, prophètes et devins** », **10 mars 2025**, Collège de France, https://www.college-de-france.fr/fr/agenda/cours/la-haute-mesopotamie-au-xviiie-siecle-av-galerie-de-portraits/pretres-prophetes-et-devins. La notice précise qu'en l'absence d'archives des temples de Mari, le dossier dépend principalement des **archives palatiales**. C'est une annonce de contenu de cours, non une édition complète d'ARM 26 ni une validation de MYTHOS. **À compléter :** collation des originaux et édition ARM XXVI/2, confrontations au texte de 2 Rois 22 pour Houlda et aux témoignages delphiques indépendants.
