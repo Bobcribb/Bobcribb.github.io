@@ -1,0 +1,322 @@
+# MYTHOS — Comédies grecques et œuvres perdues — Volume CXLVII (147)
+
+## Cratinos, *Kleoboulinai* (Κλεοβουλῖναι) — Les énigmes de Cléobuline : voix féminines, savoir contesté et politique de la transmission dans une comédie perdue
+
+**Monographie universitaire originale destinée à la publication publique.** Comédie ancienne attique, philologie fragmentaire, histoire de la poésie féminine, pratiques de l’énigme, dramaturgie, histoire intellectuelle et comparaison philosophique. Le nom du poète est également translittéré Cratinus ; Cléobuline est la forme française du nom grec Κλεοβουλίνη. Toutes les restitutions hypothétiques sont explicitement signalées.
+
+**Protocole éditorial.** **[A]** : faits matériels, textes et témoignages antiques effectivement attestés, avec leur degré de médiation et leurs références. **[B]** : interprétations, hypothèses, traductions de travail, rapprochements historiques ou philosophiques, même lorsqu’ils sont plausibles. **[C]** : scènes dramatiques originales françaises, entièrement modernes. Jamais un [C] ne doit être réemployé comme fragment antique. La datation de la représentation, le nombre de personnages, le contenu de l’agôn et le dénouement restent inconnus.
+
+### Résumé
+
+[A] L’existence d’une comédie de Cratinos intitulée *Kleoboulinai* est confirmée par Diogène Laërce, I, 89, qui mentionne une Cléobuline réputée pour des énigmes hexamétriques et précise que le poète a donné son nom à une pièce sous une forme plurielle. Kassel et Austin regroupent pour cette comédie les fragments 91–101 dans le volume IV des *Poetae Comici Graeci*. Les témoins conservés sont discontinus et souvent lexicographiques. [B] L’étude part d’un constat négatif : ces fragments ne fournissent ni une suite d’énigmes déclamées sur scène, ni la composition certaine du chœur, ni une intrigue sur la fille du sage Cléoboulos. En confrontant les sources sur la figure de Cléobuline à celles qui concernent directement la comédie, elle explore la mémoire d’une intelligence féminine, le pluriel énigmatique du titre, la valeur civique et conviviale de la question, ainsi que les limites de l’exégèse politique. [C] Trois scènes nouvelles prolongent les problèmes — désigner des femmes par le nom d’une seule, distinguer une réponse d’une preuve et contester le monopole de la parole — sans se faire passer pour un Cratinos ressuscité.
+
+### I. [A] L’auteur : Cratinos dans le théâtre athénien du Ve siècle
+
+Cratinos appartient aux principaux poètes de l’ancienne comédie athénienne, aux côtés de Cratès et, plus tard, d’Aristophane et d’Eupolis. Les témoignages sur son activité dramatique et sa réputation ne se confondent pas avec les fragments de chaque pièce. Le dossier de *Kleoboulinai* se situe dans une œuvre où les titres peuvent désigner des figures mythiques, des groupes, des métiers, des peuples et des abstractions. Les *Archilochoi* font songer à Archiloque ; les *Cheirones* renvoient au nom de Chiron sous un pluriel ; les *Odyssēs* placent le nom d’Ulysse dans une construction plurielle. Ces comparaisons éclairent une procédure de titre sans établir à elles seules l’identité d’un chœur. La documentation n’autorise pas une année sûre pour *Kleoboulinai*. Toute chronologie fine doit être formulée comme une hypothèse appuyée sur des indices externes, et non comme un fait de représentation.
+
+### II. [A] Un témoin décisif : Diogène Laërce, I, 89
+
+Dans sa notice sur Cléoboulos de Lindos, figure rangée parmi les Sept Sages, Diogène Laërce écrit que ce personnage aurait eu une fille nommée Cléobuline, compositrice d’énigmes en hexamètres. Il ajoute que Cratinos la mentionnait dans une pièce portant son nom, mais **au pluriel**. Le passage établit avec certitude la présence de cette notice dans la biographie antique et l’attribution d’un titre à Cratinos ; il n’établit pas indépendamment l’historicité de la fille ni la véracité des aventures que la tradition lui prête. C’est un témoignage tardif sur des faits supposés beaucoup plus anciens. Il faut maintenir distincts la donnée dramaturgique relativement ferme — l’existence du titre — et le récit biographique, dont la valeur historique reste discutée.
+
+### III. [A/B] Ce que signifie le pluriel *Kleoboulinai*
+
+Le titre Κλεοβουλῖναι est un pluriel féminin. Il peut être rendu conventionnellement par « Les Cléobulines ». Son rapport à une seule Cléobuline est rendu explicite par Diogène Laërce. [B] Plusieurs lectures sont envisageables : un groupe de personnages portant ou empruntant son nom, une multiplication comique d’une figure exemplaire, un ensemble de femmes qui se proclameraient ses disciples, voire un chœur féminin. Aucune n’est imposée par le seul morphème pluriel. Dans l’ancienne comédie, un titre collectif coïncide parfois avec un chœur, mais la généralisation de cette pratique à chaque œuvre perdue est un saut interprétatif. L’édition doit conserver le titre transmis au lieu d’en déduire la distribution, la scénographie et les costumes. Une pluralisation peut aussi constituer la plaisanterie du titre, sans nécessiter autant de personnages parlant que le sens littéral semblerait le demander.
+
+### IV. [B] Pourquoi une poésie plurielle serait-elle comique ?
+
+Si le public connaissait la réputation d’une femme qui posait des énigmes, l’idée de plusieurs « Cléobulines » pouvait produire une inflation ludique de savoir. Une seule interlocutrice difficile à comprendre représente déjà un défi ; un groupe portant le même nom pourrait étendre la compétition à toute la cité. Mais cette proposition ne doit pas devenir un synopsis. Elle n’impose ni un concours, ni une victoire, ni un mariage, ni un magistrat vaincu par les femmes. Un titre agit aussi comme une promesse de jeu faite avant le spectacle. L’historien peut analyser cette promesse sans connaître la manière dont l’auteur l’a tenue. À ce niveau, nous parlons d’une potentialité formelle inscrite dans un nom, pas d’une scène documentée. La discipline critique consiste à préserver l’intérêt d’un indice sans prétendre qu’il révèle ce qui manque.
+
+### V. [A] Cléoboulos, Lindos et la généalogie des Sages
+
+Diogène présente Cléoboulos comme originaire de Lindos, à Rhodes, et lui rattache la figure de Cléobuline. D’autres traditions des Sept Sages ajoutent des anecdotes, apophtegmes et divergences biographiques. La cité de Lindos appartient au monde grec égéen ; elle ne doit pas être assimilée à Athènes, lieu d’activité de Cratinos. [B] Le déplacement d’un prestige sapiential d’un espace insulaire à la scène athénienne peut être une question pertinente, mais il n’est pas une preuve qu’une délégation rhodienne soit apparue dans la comédie. Le père attribué à Cléobuline sert au minimum à la situer dans une généalogie du savoir. Cette place généalogique peut renforcer l’autorité d’un nom, puis rendre son détournement comique. Elle ne nous livre aucun lien de parenté réel vérifiable par l’épigraphie.
+
+### VI. [A/B] La difficulté chronologique
+
+Le sage Cléoboulos est traditionnellement placé bien avant l’activité de Cratinos, qui relève du Ve siècle. Les traditions savantes ont cherché à situer Cléobuline à des dates dont la solidité reste discutée. Francesco Paolo Bianchi signale notamment les difficultés soulevées par des notices chronographiques qui la placent autour de 451/450 avant notre ère. Une date donnée à une poétesse n’est pas nécessairement celle d’une pièce portant son nom ; une chronographie tardive peut elle-même avoir été influencée par le souvenir du drame. [B] Nous refuserons donc de présenter 451/450 comme l’année de représentation. Une coïncidence entre la date traditionnelle d’une femme de lettres et la période d’un auteur comique n’équivaut ni à une preuve de collaboration ni à une biographie. L’écart temporel ouvre une enquête sur la mémoire culturelle, non un calendrier certain.
+
+### VII. [B] La question de l’historicité de Cléobuline
+
+Les chercheurs ne s’accordent pas tous sur la réalité biographique de Cléobuline. Une femme ayant composé des énigmes peut avoir existé ; un ensemble d’énigmes peut également avoir été regroupé sous une figure dont l’identité a été élaborée par la tradition. Les deux propositions restent ouvertes si elles ne sont pas étayées par des sources indépendantes. L’exégèse ne doit pas trancher par goût du pittoresque : rendre cette poétesse pleinement historique enrichirait la galerie des femmes savantes, mais une hypothèse séduisante ne devient pas un fait pour cette raison. À l’inverse, nier son existence par principe sous prétexte qu’il s’agit d’une femme serait tout aussi méthodologiquement défectueux. La solution critique consiste à étudier le statut de la **figure transmise** et la diversité des auteurs qui la mobilisent, sans réduire toute la tradition à un auteur ou à une invention unique.
+
+### VIII. [A] Les fragments 91–101 dans Kassel–Austin
+
+L’édition de référence classe les restes de *Kleoboulinai* sous les numéros **91 à 101 K.-A.** (*Poetae Comici Graeci*, IV, 1983, p. 167–171). Ce classement comprend des matériaux dont la taille et la fonction varient ; il ne correspond pas à onze scènes successives, ni même à onze morceaux de longueur comparable. Les excerptors citent volontiers ce qui leur paraît lexicalement rare, utile pour une liste d’objets ou précieux pour identifier une tournure. La perte du contexte transforme donc les fragments en pièces à conviction souvent minuscules. Un mot attesté peut appartenir à la pièce sans nous apprendre qui l’a prononcé, quelle personne en était l’objet et comment le public le comprenait. L’édition scientifique doit donner à ce « peu » toute sa valeur, sans inventer une continuité absente.
+
+### IX. [A/B] Une numérotation moderne, pas la mesure antique d’une œuvre
+
+L’ordre de Kassel–Austin résulte de la documentation disponible et de décisions éditoriales. Il ne reproduit pas l’ordre des actes de Cratinos. La numérotation ancienne de Theodor Kock, dans le premier volume des *Comicorum Atticorum Fragmenta* (1880), n’est pas identique à celle de Kassel–Austin. [B] Quand une notice historique annonce « fr. 93 », il faut savoir **de quelle édition** il est question : une concordance non contrôlée peut créer de faux renvois. Un chiffre isolé ne garantit ni une attribution définitive ni une citation complète. De même, le classement d’un terme dans une rubrique lexicographique n’est pas une preuve d’un sujet dramaturgique. Le principe de MYTHOS est ici simple : on donne l’édition, le numéro et le témoin citant, on marque les incertitudes, puis on analyse seulement ce que ce faisceau autorise.
+
+### X. [A] Le fragment 93 et sa double transmission chez Athénée
+
+Bianchi relève que le **fragment 93 K.-A.**, d’un seul vers selon son tableau de transmission, apparaît deux fois chez Athénée, dans des contextes portant sur des **récipients** et des **ustensiles domestiques ou culinaires** (sections VI, 86, et X, 105, dans la division Kaibel). Ce double emploi montre la capacité d’une citation comique à devenir une source de vocabulaire pour un antiquaire. Il ne démontre pas que la comédie se déroulait dans une cuisine, que son chœur manipulait des coupes ou que ses personnages résolvaient une énigme sur un vase. [B] La même expression, lue dans deux listes différentes, peut déplacer notre intuition sur la scène originelle. Le contexte de conservation n’est pas le contexte de production. Pour une citation transmise deux fois, il faut contrôler les variantes et la médiation de l’éditeur avant de construire un argument sémantique précis.
+
+### XI. [A] Le fragment 98 et le piège des attributions dans Pollux
+
+L’*Onomasticon* de Pollux, VII, 41, conserve un dossier autour d’une forme verbale proche de **ἰποῦμεν**, expliquée dans la tradition lexicographique par le champ de la pression. Bianchi signale un problème philologique remarquable : le voisinage d’une citation des *Cavaliers* d’Aristophane a produit des divergences d’attribution dans les manuscrits de Pollux. La forme rapportée aux *Kleoboulinai* relève de Cratinos selon l’analyse éditoriale ; il faut pourtant garder visible l’histoire de la leçon et des attributions concurrentes à proximité. [B] Cet épisode est exemplaire : la transmission n’égare pas uniquement les mots, elle peut faire glisser les **noms d’auteurs** d’un segment au suivant. Une notice responsable n’efface ni le nom d’Aristophane ni les problèmes de démarcation ; elle explique où s’arrête une citation et où commence l’autre.
+
+### XII. [B] Le mot perdu et la scène impossible à localiser
+
+Qu’un glossateur préserve une forme verbale ne nous autorise pas à dire qui presse quoi, quand et pourquoi. Une telle action pourrait s’appliquer à un corps, un objet, un effort ou une métaphore : seules les contraintes de la langue et du contexte transmis peuvent réduire ces options. Sans ce contexte, la précision d’un verbe ne justifie pas une précision scénique. Cette règle vaut pour les fragments 94, 96 et 100, que l’index de Bianchi discute à des titres divers sans que nous puissions reconstituer ici leur fonction dramatique à partir de ces seuls renvois. Une bonne monographie n’a pas à remplir toutes ses cases d’histoires possibles. Elle peut consacrer une section à la raison de son silence : le document n’offre pas ce que la curiosité voudrait en tirer.
+
+### XIII. [A/B] Trois séries à ne jamais fusionner
+
+Nous distinguons : premièrement, les **témoignages directs sur la pièce** de Cratinos et ses fragments 91–101 ; deuxièmement, les **énigmes attribuées à Cléobuline** dans d’autres textes grecs ; troisièmement, les **relectures modernes** de l’énigme, de l’éducation et des voix féminines. Ce classement évite une erreur majeure : l’existence d’une comédie au nom de Cléobuline n’implique pas que tous les vers attribués à la poétesse aient été prononcés sur sa scène. Inversement, un fragment lexical des *Kleoboulinai* ne doit pas être présenté comme une pièce du corpus d’énigmes de Cléobuline. Le lien entre les deux traditions est réel au niveau du titre et de la réputation ; le passage d’un texte à l’autre demande toujours une preuve supplémentaire. [B] Le corpus est intertextuel, mais l’intertextualité n’est pas une attestation de représentation.
+
+### XIV. [A] Athénée, X, 448b : la réputation des énigmes
+
+Au livre X des *Deipnosophistes*, Athénée évoque Cléobuline de Lindos dans un développement sur les énigmes. Ce passage confirme la persistance de son nom comme figure de l’intelligence énigmatique dans l’érudition de l’époque impériale. Mais Athénée écrit des siècles après Cratinos ; nous ne pouvons pas supposer qu’il cite une scène des *Kleoboulinai* chaque fois qu’il parle de cette femme. [B] La mise en regard des deux documents fait apparaître une circulation du prestige : le titre comique a pu exploiter une figure déjà reconnaissable, tandis que les auteurs plus tardifs pouvaient continuer de se souvenir du personnage indépendamment de la pièce. La direction exacte des influences reste ouverte. L’érudition antique transmet des images de l’archaïsme ; elle ne constitue pas un enregistrement audiovisuel des concours du Ve siècle.
+
+### XV. [A] Le banquet de Plutarque : Cléobuline appelée Eumétis
+
+Dans le *Banquet des Sept Sages* de Plutarque, la femme souvent connue comme Cléobuline apparaît dans un cadre littéraire où sa finesse d’esprit est discutée ; son père lui aurait donné le nom d’**Eumétis**, « celle qui a de bons conseils » ou « à l’intelligence avisée ». Plutarque décrit sa compétence pour les énigmes et lui prête une place dans les échanges des sages. Ce dialogue est une œuvre de Plutarque, non un fragment de Cratinos. [B] Le nom Eumétis permet d’examiner l’association entre intelligence, conseil, réputation familiale et identité féminine. Rien ne permet toutefois d’affirmer que ce nom servait de masque, de surnom scénique ou de mot d’ordre dans les *Kleoboulinai*. La source comparée donne une image culturelle, pas une seconde distribution d’acteurs. Le nom que donne un père n’est pas automatiquement le nom qu’une femme aurait choisi ou porté historiquement.
+
+### XVI. [B] Une femme savante au banquet : présence et contrôle
+
+Le texte de Plutarque offre une représentation littéraire d’une jeune femme évaluée par des hommes de savoir. L’éloge de sa sagacité est à la fois reconnaissance et encadrement : sa parole est présentée, commentée et partiellement médiatisée par les convives. [B] Il serait abusif de projeter sans examen cet agencement sur Athènes à l’époque de Cratinos ; il serait aussi réducteur d’en déduire que la tradition ne pouvait imaginer aucune capacité intellectuelle féminine. Le dossier permet d’étudier comment un nom féminin devient une **preuve de savoir** tout en restant associé à la parole d’autorités masculines. La comédie pourrait avoir déplacé ou ridiculisé ce dispositif, mais elle pourrait également l’avoir laissé à la marge. Nous savons qu’une tradition mettait en récit la compétence de Cléobuline ; nous ignorons quelle position dramatique Cratinos lui donnait.
+
+### XVII. [A] L’énigme de la ventouse médicale
+
+Une énigme célèbre met en jeu du bronze, du feu et un homme auquel le métal semble « adhérer ». La solution traditionnelle est la **ventouse** utilisée dans certains soins, dont l’application impliquait un phénomène décrit métaphoriquement comme un collage. Aristote discute cette image dans la *Poétique*, 1458a25–30, comme exemple de métaphore ; une version est également transmise dans la tradition de Plutarque et chez Athénée, X, 452b–c. L’attribution à Cléobuline appartient au dossier comparatif de cette figure, notamment chez Plutarque ; Aristote n’identifie pas ici une réplique provenant des *Kleoboulinai*. [B] Ce bref exemple montre comment un savoir technique peut devenir un jeu de langage sans perdre tout rapport à l’expérience. Le monde quotidien, avec ses instruments et ses gestes, fournit l’objet caché ; le poème en modifie la visibilité par la description.
+
+### XVIII. [B] Les trois niveaux d’une énigme technique
+
+La ventouse présente au moins trois niveaux : un phénomène matériel que l’on peut observer, une formulation surprenante qui semble désigner autre chose et une solution qui réordonne la perception. L’énigme ne demande pas nécessairement une connaissance savante ; elle requiert la capacité de reconnaître un objet sous une relation inhabituelle. Dans une représentation théâtrale hypothétique, cette opération pourrait être performative et gestuelle, mais le fragment du corpus de Cléobuline **n’atteste aucune scène**. Notre analyse se limite donc au fonctionnement de l’énoncé et à sa circulation. La métaphore n’est pas un ornement ajouté à une connaissance déjà faite : elle réorganise le rapport entre les mots et les corps. Le savoir de l’outil et le jeu poétique se rencontrent dans la nécessité de découvrir une relation qui n’était pas nommée directement.
+
+### XIX. [A/B] Aristote et la théorie de la métaphore
+
+Dans la *Poétique*, Aristote classe des usages du langage poétique et prend l’énigme de la ventouse pour illustrer un transfert métaphorique qui maintient une relation entre le terme littéral et ce qu’il fait voir. La *Rhétorique*, III, 1405a–b, rapproche également métaphore et énigme. [B] Il ne faut pas transformer ces analyses en la thèse qu’Aristote commentait *Kleoboulinai*. Sa théorie permet plutôt de comprendre comment l’énigme peut être **intelligible sans être transparente** : elle exige du récepteur un chemin, et non la simple identification d’un nom propre. Cette tension importe pour la comédie, théâtre où la compréhension doit souvent intervenir rapidement. Mais notre enquête demeure comparative. Aucune source conservée ne prouve que Cratinos ait fait entendre l’énigme de la ventouse, ni qu’il ait eu l’intention de produire la théorie qu’Aristote a formulée plus tard.
+
+### XX. [A] L’énigme de l’aulos : un autre objet, une autre tradition
+
+Plutarque, dans le *Banquet des Sept Sages* autour de 150d–f, fait circuler une énigme relative à un instrument de musique, souvent décrite par l’image déconcertante d’un âne mort qui frappe l’oreille. La solution repose sur la matière employée dans un instrument à vent et la sensation auditive qu’il produit. [B] Il serait trop simple d’en faire le programme musical des *Kleoboulinai*. La figure de Cléobuline est ici insérée dans une conversation savante où les objets familiers se révèlent sous des noms paradoxaux. Le corps animal, la fabrication et le son montrent l’épaisseur matérielle de la devinette. Ils invitent à rapprocher le registre des énigmes de la culture théâtrale, sans attribuer la scène musicale à Cratinos. La transmission de l’énigme en dehors d’une comédie garde une histoire autonome.
+
+### XXI. [A/B] L’énigme de l’année et les attributions concurrentes
+
+Une devinette célèbre imagine un père, douze enfants et, pour chacun, une alternance de descendants clairs et obscurs ; elle désigne l’année, ses mois et ses jours ou nuits. Diogène Laërce, I, 90, transmet un texte de cette famille dans la notice de **Cléoboulos**, le père supposé de Cléobuline. D’autres classements modernes de la tradition rapprochent l’énigme de Cléobuline. **Il faut donc signaler les attributions variables plutôt que d’en choisir une silencieusement.** [B] L’enjeu ne consiste pas à identifier une scène perdue, mais à observer la stabilité relative d’une forme de savoir à travers l’instabilité des signatures. Les nombres dans la devinette dépendent d’une représentation ordonnée du temps ; le langage de la parenté transforme le calendrier en énigme. Une telle métaphore n’établit aucune structure mythique de *Kleoboulinai*.
+
+### XXII. [B] L’énigme comme pédagogie sans maître assuré
+
+Un problème posé sous forme d’image peut distribuer provisoirement le pouvoir entre la personne qui connaît la réponse et celles qui cherchent. Il n’a besoin ni de tribunal ni d’oracle. L’écoute, l’essai, la honte possible et la reconnaissance du raisonnement sont des opérations sociales. Aurélien Berra a montré l’intérêt d’étudier les termes de l’énigme et leurs usages au lieu de réduire toutes les questions à un genre intemporel. Pour *Kleoboulinai*, cette perspective conduit à une question fertile mais non résolue : une comédie portant le nom d’une poétesse d’énigmes mettrait-elle en jeu la compétition des interprètes ? [B] Nous ne répondons pas par une intrigue inventée. Nous distinguons l’expérience documentée de la pratique énigmatique et le champ de possibles qu’elle ouvrait à une œuvre dont le texte demeure lacunaire.
+
+### XXIII. [A/B] Aínigma et grîphos : une famille de mots, pas une identité parfaite
+
+Le grec ancien dispose de termes tels que **αἴνιγμα** (*aínigma*) et **γρῖφος** (*grîphos*) pour des problèmes à résoudre, des énoncés indirects et des devinettes. Les usages varient selon les époques et les auteurs. [B] Un classement utile doit demander si le jeu repose sur une image contradictoire, un calembour, un objet dissimulé, une manipulation graphique ou une question de connaissance. Mais ce classement est établi à partir de la tradition générale, non par les fragments 91–101. Il peut servir de guide pour expliquer pourquoi la figure de Cléobuline s’est prêtée à une réputation littéraire. Il ne démontre pas que le chœur lançait des *grîphoi* au public. La prudence lexicale exige aussi de ne pas employer « oracle », « énigme » et « énigme religieuse » comme des synonymes sans justification.
+
+### XXIV. [B] Le jeu verbal et l’expérience du monde
+
+Le rire et le savoir ne s’excluent pas. Une énigme peut produire une forme d’embarras plaisant, suivie de la reconnaissance d’un objet. La mise en mots crée une expérience du monde où un instrument banal devient presque impossible à saisir, jusqu’à ce que la réponse rétablisse les relations ordinaires. Cette dynamique fait apparaître le rôle du public : sans participation active de celui qui écoute, l’effet s’éteint. Mais **rien n’atteste** que la pièce de Cratinos faisait prononcer les réponses par des spectateurs ou que les femmes du titre organisaient un concours. Toute restitution de cette sorte serait un scénario [C] ou une hypothèse [B], jamais un commentaire [A]. La force du corpus est de permettre la comparaison de mécanismes cognitifs sans inventer leurs circonstances dramatiques précises.
+
+### XXV. [A/B] Les pratiques symposiaques : comparaison externe contrôlée
+
+Athénée et la littérature du banquet transmettent des énigmes posées au cours des repas ; les échanges verbaux pouvaient y participer à la compétition entre convives. Simone Beta a souligné les différences possibles entre devinettes récréatives et questions à ambition philosophique. [B] La figure de Cléobuline peut être rapprochée de cette sociabilité, mais il serait abusif de dater la pièce en fonction d’une coutume tardive décrite par un compilateur ou d’y installer automatiquement une table et des buveurs. Le contexte de conservation des énigmes n’est pas la preuve du contexte scénique de *Kleoboulinai*. La question intéressante est plus générale : le banquet peut devenir un modèle d’agôn verbal où le prestige passe de celui qui possède des biens à celui qui comprend une parole. La comédie pouvait exploiter un tel contraste, sans que nous sachions si elle l’a fait.
+
+### XXVI. [B] L’énigme et la scène : la vitesse de compréhension
+
+Le théâtre exige une économie de réception différente de celle d’un traité de philosophie. Une difficulté trop longue risque de suspendre l’action ; une difficulté trop facile manque d’effet. Le dramaturge peut jouer sur l’attente d’une réponse, sur le malentendu ou sur la répartition des connaissances entre personnages et public. Ces possibilités sont attestées comme procédés dans l’histoire théâtrale, mais non sous une forme précise dans les *Kleoboulinai*. [B] Si une comédie ancienne faisait de l’énigme un ressort principal, la valeur dramaturgique pourrait résider moins dans la solution que dans l’identité des personnes autorisées à poser la question. Nous exprimons ici un modèle heuristique, non une découverte de texte. Un commentateur rigoureux conserve les autres modèles possibles, y compris une intrigue qui aurait joué essentiellement sur un nom, sans énigme prononcée.
+
+### XXVII. [A] Les femmes comme titres collectifs de l’ancienne comédie
+
+Des titres attestés chez Cratinos et d’autres comiques donnent place à des collectifs féminins ou à des figures de genre. La recherche sur les costumes et les rôles de femmes dans l’ancienne comédie rappelle que l’existence d’un titre féminin ne permet pas à elle seule de déduire les usages d’actrices ou la composition du chœur. La pratique théâtrale athénienne reposait généralement sur des rôles joués par des hommes masqués. [B] Les *Kleoboulinai* posent un problème particulièrement riche : le groupe pourrait porter une autorité fondée non sur la parenté civique ou le culte, mais sur une aptitude linguistique. Toutefois, tant que la présence effective de plusieurs personnages féminins sur scène n’est pas démontrée, cette idée ne doit pas devenir un fait de l’histoire de la représentation. Le titre ouvre la question ; il ne la clôt pas.
+
+### XXVIII. [B] La comédie et la fabrication d’une voix féminine
+
+Une voix féminine sur la scène comique du Ve siècle résulte d’une écriture, d’un costume, d’un corps de comédien et de conventions de jeu. Elle peut faire entendre des objections aux autorités masculines tout en demeurant construite par une institution théâtrale dont l’accès n’est pas identique pour tous. [B] Si l’on imagine des « Cléobulines » capables de piéger leurs interlocuteurs par le langage, on imagine une redistribution scénique du pouvoir d’interroger ; cela peut être fécond pour la création actuelle, mais ne doit pas être présenté comme la pensée authentique de Cratinos. L’analyse historique doit simultanément refuser deux illusions : considérer la figure comme la transcription de la voix d’une poétesse réelle et traiter toute figure féminine comique comme la pure ventriloquie sans signification sociale. La médiation théâtrale est précisément l’objet à étudier.
+
+### XXIX. [A/B] Cratinos et les personnes poétiques
+
+Les autres pièces de Cratinos montrent le goût de l’ancienne comédie pour les noms de poètes, les figures littéraires et les personnifications. La *Pytinē* ou « Bouteille », connue par la tradition du concours de 423 avant notre ère, donne un autre exemple de la manière dont les pratiques poétiques peuvent devenir matière comique. [B] Une lecture comparative des *Kleoboulinai* peut ainsi se demander si le nom d’une poétesse servait à mettre en question la réputation et la production d’énigmes. Mais nous ne connaissons ni une parabase du drame, ni une intervention de la Comédie personnifiée, ni un débat sur la nature de la poésie. Ces scènes ne doivent pas être importées des autres œuvres. Le recoupement révèle une tendance formelle de l’auteur ; il ne fournit pas une séquence dramatique perdue.
+
+### XXX. [B] Cléobuline et Sapphô : deux autorités distinctes
+
+Sapphô est une poétesse dont l’œuvre lyrique constitue un corpus antique propre ; Cléobuline appartient à une tradition de sagesse et d’énigmes dont l’historicité et les attributions sont discutées. Les deux noms ne doivent pas être fusionnés en une catégorie homogène de « femmes savantes ». Dans la collection MYTHOS, Antiphane, *Sapphô*, volume **CXXXVIII (138)**, étudie une autre pièce comique, plus tardive, et une autre utilisation d’un nom de poétesse. [B] La comparaison est pertinente au niveau du **nom féminin devenu titre de comédie** et de la manière dont le théâtre remanie des autorités. Elle ne prouve aucune filiation entre les deux spectacles. Elle doit également éviter l’idée que toute femme lettrée antique serait réduite à un même mécanisme d’exception ou de satire. Les langues, époques et genres de réception sont différents.
+
+### XXXI. [A/B] Ne pas confondre Cratinos et Alexis
+
+L’érudition signale aussi une comédie **Kleoboulinē** d’Alexis, avec un **titre singulier**. Cette occurrence distincte est discutée notamment dans la bibliographie sur les comédies et leurs titres. [B] La ressemblance ne constitue ni une nouvelle version assurée du drame de Cratinos, ni la preuve qu’Alexis lui a emprunté ses scènes. Elle interdit surtout de regrouper sans distinction toutes les références au nom de Cléobuline. Un sommaire scientifique doit écrire l’auteur et le titre à chaque renvoi. L’opposition singulier/pluriel peut intéresser la recherche sur les constructions de personnages, mais ne remplace pas l’examen des attestations spécifiques. Les deux œuvres, si elles sont étudiées dans des volumes distincts, ne sont pas pour autant un doublon : elles appartiennent à deux auteurs et à deux dossiers philologiques.
+
+### XXXII. [B] Enquête sur l’autorité : qui peut poser les questions ?
+
+L’énigme distribue une asymétrie fondamentale : celui qui la formule détient momentanément une connaissance que les autres n’ont pas. Cette supériorité dépend pourtant de la communauté des interprètes, puisqu’une question sans possibilité d’interprétation cesse d’être un jeu partagé. Lorsque cette position est attribuée à une figure féminine dans un récit de sages, elle peut déranger les hiérarchies convenues. Mais l’existence d’une poétesse reconnue par un texte tardif ne prouve pas une émancipation institutionnelle des Athéniennes au Ve siècle. La portée politique d’une telle figure exige une médiation historique. Une interprétation critique peut demander quels statuts sociaux rendent possible l’autorité intellectuelle, et lesquels la rendent fragile, à condition de garder visible ce qui relève de l’analyse contemporaine.
+
+### XXXIII. [B] L’énigme comme épreuve de reconnaissance plutôt que comme secret
+
+Une énigme n’est pas simplement une information cachée. Elle transforme le monde visible en une description qui demande un nouveau classement. Dans l’énigme de la ventouse, l’instrument demeure physiquement ordinaire ; c’est la phrase qui le rend paradoxal. Celui qui répond rétablit un réseau de relations. La compétition peut donc concerner le pouvoir de reconnaître un objet à partir de signes trompeurs. [B] Cette dynamique ouvre un dialogue avec les mécanismes de reconnaissance de la comédie nouvelle, mais elle ne signifie pas que *Kleoboulinai* racontait la reconnaissance d’un enfant ou d’une épouse. Il faut distinguer la reconnaissance intellectuelle, qui résout une question, et l’*anagnôrisis* d’une intrigue. Les deux formes peuvent être comparées analytiquement ; leur présence commune dans une pièce donnée doit être démontrée, non présupposée.
+
+### XXXIV. [B] Une prudence particulière envers le « politique »
+
+Cratinos est connu pour une comédie capable d’attaquer des figures publiques et d’exploiter les tensions de la cité. Il serait donc tentant de faire des *Kleoboulinai* une satire de magistrats incapables de comprendre les femmes. Aucune source conservée ne l’autorise explicitement. Le titre, les fragments lexicaux et les récits sur Cléobuline ne nomment pas un adversaire politique déterminé dans cette pièce. Nous pouvons analyser la politique de la parole en tant que problème de statut, sans inventer une loi, un vote ou une rivalité historique. La distinction est cruciale : « politique » peut désigner une question analytique sur le partage de l’autorité, mais ne doit pas devenir le prétexte d’un récit sur Périclès, la guerre ou un décret. Le contexte général de l’ancienne comédie n’est pas le contenu singulier d’une œuvre perdue.
+
+### XXXV. [B] Hegel : le particulier, l’universel et la comédie
+
+Dans sa réflexion esthétique sur le comique, Hegel permet d’interroger le moment où une prétention à la sagesse se confronte aux contradictions d’une existence particulière. La personne qui sait résoudre une énigme détient une supériorité locale ; si elle en tirait la prétention de tout gouverner, l’écart entre savoir et puissance pourrait devenir comique. **Cette conditionnelle est décisive.** Rien ne dit que Cratinos mettait en scène un tel gouvernement des savantes. Nous confrontons une question hégélienne aux contraintes du titre transmis, sans faire de Hegel un commentateur des fragments 91–101. L’intérêt de la comparaison réside dans la tension entre valeur intellectuelle d’une compétence et prétention à l’autorité générale. Une interprétation universitaire est d’autant plus précise qu’elle annonce clairement son statut philosophique externe.
+
+### XXXVI. [B] Nietzsche : le masque de la sagesse et les conditions du jeu
+
+Nietzsche ne peut pas être convoqué comme témoin historique de Cléobuline. Sa réflexion sur le tragique, la tension entre apparence et forme artistique et la critique des généalogies trop lisses fournit néanmoins une question : que se passe-t-il lorsqu’un nom de sagesse entre dans un espace de jeu, de masque et de contestation ? La scène comique peut rendre instable une distinction qui paraissait assurée hors du théâtre. Il ne s’agit pas de déclarer que Cratinos aurait combattu le rationalisme ou que l’énigme serait « dionysiaque » par essence. [B] Au contraire, cette confrontation invite à ne pas réduire la comédie à une thèse morale ou à une célébration spontanée du chaos. Les sources sur *Kleoboulinai* ne permettent pas de trancher le ton du spectacle ; les catégories nietzschéennes doivent rester des outils interrogatifs et non des réponses plaquées.
+
+### XXXVII. [B] Vernant : la pensée grecque dans ses situations
+
+L’œuvre de Jean-Pierre Vernant invite à étudier les pratiques intellectuelles dans leurs conditions sociales, rituelles et civiques. Le langage des énigmes ne doit donc pas être isolé d’une culture de la compétition, de la parole publique et de la transmission des savoirs. Cette orientation n’autorise pas à reconstituer automatiquement l’institution du banquet ou de l’école à partir d’une comédie dont nous avons surtout le titre et des mots. [B] Elle propose plutôt un programme : distinguer chaque type de source, identifier son contexte d’énonciation, examiner les médiations entre récit traditionnel, philosophie et scène. Le nom de Cléobuline devient le point de rencontre de traditions dispersées. La méthode de Vernant aide à poser la question de ce qu’une figure permet de penser, sans décider par avance ce que l’auteur comique voulait dire.
+
+### XXXVIII. [B] Détienne et la *mètis* : ruser sans fabriquer un fragment
+
+Marcel Détienne et Jean-Pierre Vernant ont étudié les formes d’intelligence souple, attentive à l’occasion et aux apparences, sous le nom de *mètis*. La résolution d’une énigme partage certains traits de cette mobilité : reconnaître un objet sous un signe trompeur, renverser une évidence et ajuster la réponse. Mais ce rapprochement ne signifie pas que le personnage de Cléobuline incarnait une déesse de la *mètis* ou qu’un texte comique perdu proposait une doctrine de la ruse. [B] La distinction entre compétence cognitive et statut mythique demeure essentielle. Le problème peut être formulé sans inventer : pourquoi une tradition donne-t-elle à une femme la réputation de maîtriser des questions qui déconcertent d’autres savants ? Le comparatisme aide à articuler la question ; seul un témoin direct pourrait préciser comment Cratinos y répondait.
+
+### XXXIX. [B] Dumézil : le refus d’une application mécanique
+
+Le pluriel du titre, la figure du père sage et les objets des énigmes pourraient encourager une recherche de fonctions mythiques. Cependant, rien dans les témoins disponibles ne fait apparaître une organisation tri-fonctionnelle comparable aux configurations indo-européennes étudiées par Georges Dumézil. Ni le nombre douze de l’énigme calendaire, ni la présence de trois objets dans des traditions ultérieures ne constituent une preuve de structure religieuse. Il faut donc refuser une répartition artificielle entre souveraineté, guerre et fécondité. La fonction méthodologique de Dumézil est ici de rappeler que la comparaison exige des ensembles cohérents et des correspondances argumentées, pas des analogies numériques isolées. **Aucune lecture dumézilienne positive des *Kleoboulinai* n’est proposée.**
+
+### XL. [B] Comparer sans fusionner : Homère, Sphinx, Cléobuline
+
+Les traditions grecques connaissent d’autres épreuves de paroles difficiles : la Sphinx est associée à une énigme dans la tradition thébaine, Homère est objet de récits biographiques où la capacité à résoudre une question peut être mise en échec, et les sages possèdent des sentences parfois volontairement obscures. Il est légitime d’étudier ces configurations à l’échelle du monde grec. Mais elles ne doivent pas devenir les actes d’une comédie de Cratinos. Une Sphinx n’apparaît pas dans les fragments 91–101 par le seul fait que Cléobuline pose des énigmes. La leçon historique est plus instructive : des questions de formes très diverses servent à distribuer savoir, honte, reconnaissance et prestige. Notre monographie compare ces usages comme un répertoire culturel, non comme une source cachée dont la pièce serait la reproduction fidèle.
+
+### XLI. [A/B] Tableau des preuves et degrés de certitude
+
+| Énoncé | Témoin ou instrument | Statut |
+| --- | --- | --- |
+| Cratinos a composé une pièce au titre pluriel *Kleoboulinai*. | Diogène Laërce, I, 89 ; PCG IV | [A] Attesté |
+| Une Cléobuline fille de Cléoboulos et auteure d’énigmes appartient à la tradition biographique. | Diogène Laërce, I, 89 | [A] Attesté **comme tradition** ; historicité indécise |
+| Les fragments sont classés 91–101 K.-A. | Kassel–Austin, PCG IV, p. 167–171 | [A] Attesté éditorialement |
+| Le fr. 93 est cité deux fois dans des contextes érudits d’Athénée. | Bianchi, FrC 3.1, p. 89 | [A] Attesté comme histoire de la transmission |
+| Pollux conserve un témoignage attribué à *Kleoboulinai*, avec une difficulté de voisinage avec Aristophane. | Pollux VII, 41 ; Bianchi, p. 89–90 | [A] Attesté et philologiquement discuté |
+| Plutarque représente une Cléobuline aussi appelée Eumétis. | *Banquet des Sept Sages* | [A] Attesté comme représentation **littéraire tardive** |
+| L’énigme de la ventouse était prononcée par des actrices ou acteurs de *Kleoboulinai*. | Aucun témoignage direct | [B] Non démontré |
+| Le chœur était constitué de disciples féminines de Cléobuline. | Le titre pluriel seulement | [B] Hypothèse, non prouvée |
+| Les *Kleoboulinai* furent représentées en 451/450. | Chronographie sur Cléobuline, non document de concours | [B] Non démontré |
+| La scène avait pour objet un procès contre un magistrat athénien. | Aucun témoin direct | [B] Fiction possible, non retenue comme histoire |
+| Les trois dialogues qui suivent sont des fragments antiques. | Création contemporaine | [C] **Non : scènes originales modernes** |
+
+### XLII. [B] Une reconstitution maximale que nous refusons
+
+Une restitution romanesque pourrait mettre Cléobuline à la tête d’un chœur de femmes, lui faire affronter un conseil de magistrats, soumettre les Athéniens à trois énigmes, démasquer un sophiste et conclure par un jugement de la cité. Rien, toutefois, ne transforme cet enchaînement en histoire littéraire. Il accumulerait des choix irréversibles à partir de possibilités ouvertes et reproduirait les attentes d’un lecteur moderne plutôt que les vestiges du dramaturge. Nous préférons une reconstruction **minimale et négative** : le titre associe un pluriel féminin à la mémoire d’une énigmatrice, tandis que les fragments 91–101 témoignent surtout de mots conservés hors de leur jeu. Ce noyau suffit à des analyses philologiques, historiques et philosophiques substantielles. Les créations [C] sont autorisées à inventer, mais elles doivent déclarer leurs inventions au lieu de les présenter comme patrimoine antique.
+
+### XLIII. [C] Scène originale I — Le nom au pluriel
+
+*Création dramatique française contemporaine. Une NARRATRICE, une APPRENTIE et une GREFFIÈRE. Ni ces rôles ni leurs répliques ne sont attestés dans la comédie antique.*
+
+**LA GREFFIÈRE.** Il faut une seule signature pour cette pensée. La cité ne sait compter que les noms.
+
+**L’APPRENTIE.** Alors écris le nom de celle qui a posé la question.
+
+**LA GREFFIÈRE.** Si elles sont nombreuses ?
+
+**LA NARRATRICE.** Écris le pluriel. Nous sommes fatiguées de devoir tenir dans une seule ligne.
+
+**LA GREFFIÈRE.** Le pluriel signifie-t-il que vous pensez toutes la même chose ?
+
+**L’APPRENTIE.** Non. Il signifie que tu n’as pas encore demandé qui pense quoi.
+
+**LA GREFFIÈRE.** C’est un problème de registre.
+
+**LA NARRATRICE.** Non, c’est un problème de question. Tu as commencé par nous compter avant de nous écouter.
+
+**LA GREFFIÈRE.** Et quelle réponse voulez-vous ?
+
+**L’APPRENTIE.** Aucune réponse commune. Donne-nous des espaces pour plusieurs voix.
+
+**LA NARRATRICE.** Voilà une énigme que le pluriel ne résout pas, mais qu’il empêche d’oublier.
+
+*La greffière ouvre un nouveau registre. Cette fois, chaque page commence par une question.*
+
+**Commentaire [B/C].** Le dialogue invente une réflexion sur le titre pluriel et les catégories archivistiques ; il ne prétend pas présenter le chœur de Cratinos. L’usage de la greffière, du registre et de la réplique finale est intégralement moderne.
+
+### XLIV. [C] Scène originale II — La réponse et sa preuve
+
+*Création contemporaine. Une SOIGNANTE, un SOPHISTE et un ENFANT examinent un instrument sans indication de période ni volonté de restituer un décor antique exact.*
+
+**LE SOPHISTE.** J’ai entendu dire qu’un objet métallique pouvait s’attacher à un corps comme si le feu l’avait soudé.
+
+**L’ENFANT.** C’est impossible.
+
+**LA SOIGNANTE.** Impossible selon les mots, ou impossible selon ce que tu connais ?
+
+**L’ENFANT.** Je vois ce que je connais. Pour le reste, je demande.
+
+**LE SOPHISTE.** Un savant répondrait avant même que tu poses la question.
+
+**LA SOIGNANTE.** Alors sa réponse serait trop rapide.
+
+**LE SOPHISTE.** Il faut pourtant deviner.
+
+**L’ENFANT.** Peut-on toucher l’objet ?
+
+**LA SOIGNANTE.** Oui, mais pas pendant un soin. Regarde plutôt comment je le prépare.
+
+**LE SOPHISTE.** Tu détruis l’énigme par une démonstration.
+
+**LA SOIGNANTE.** Non. Je distingue la beauté d’une question de la preuve d’une réponse.
+
+**L’ENFANT.** Dans ce cas je comprends mieux pourquoi on avait choisi des mots impossibles.
+
+*Le sophiste retourne l’objet. Personne ne l’élève au rang d’oracle.*
+
+**Commentaire [B/C].** La scène fait réfléchir à la ventouse citée par la tradition des énigmes, sans en reproduire les vers anciens. Elle n’est ni une scène de *Kleoboulinai* ni un témoignage sur l’état historique des pratiques médicales athéniennes.
+
+### XLV. [C] Scène originale III — Qui a le droit de poser l’énigme ?
+
+*Création contemporaine. Un MAGISTRAT IMAGINAIRE et une POÉTESSE IMAGINAIRE discutent sur une place vide. Cette place et ces rôles ne sont attribués à aucun drame perdu.*
+
+**LE MAGISTRAT.** Je suis chargé des réponses.
+
+**LA POÉTESSE.** Qui t’a chargé des questions ?
+
+**LE MAGISTRAT.** Celui qui répond gouverne.
+
+**LA POÉTESSE.** Celui qui choisit la question a déjà limité tes réponses.
+
+**LE MAGISTRAT.** Quelle question veux-tu poser ?
+
+**LA POÉTESSE.** Qu’est-ce qui appartient à tous quand personne ne le possède ?
+
+**LE MAGISTRAT.** La lumière ?
+
+**LA POÉTESSE.** Peut-être.
+
+**LE MAGISTRAT.** La parole ?
+
+**LA POÉTESSE.** C’est une autre proposition.
+
+**LE MAGISTRAT.** Tu refuses donc d’annoncer la solution.
+
+**LA POÉTESSE.** J’ai demandé si tu pouvais chercher sans exiger que je te couronne.
+
+**LE MAGISTRAT.** Tu prends la place du juge.
+
+**LA POÉTESSE.** Non. Je la laisse vide assez longtemps pour qu’une autre personne parle.
+
+*Un silence se fait. La place ne choisit pas de vainqueur.*
+
+**Commentaire [B/C].** L’échange expérimente la distribution du pouvoir de questionner, une interprétation contemporaine sans répondant dramatique assuré. Les paroles du magistrat et de la poétesse ne doivent jamais être publiées comme traduction ou fragments de Cratinos.
+
+### XLVI. [A] Sources primaires et instruments de consultation
+
+1. **Diogène Laërce**, *Vies et doctrines des philosophes illustres*, I, 89 : Cléoboulos, Cléobuline, les énigmes hexamétriques et le titre au pluriel attribué à Cratinos. Texte et traduction historique consultables dans la [LacusCurtius, section Cléoboulos](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/1/Cleobulus%2A.html). Le même ensemble transmet sous I, 90 la devinette calendaire attribuée dans ce contexte au père.
+2. **Athénée de Naucratis**, *Deipnosophistes*, X, 448b et 452b–c : tradition des énigmes de Cléobuline, indépendante de la restitution du drame ; autre dossier de citations de Cratinos étudié par Bianchi, notamment VI, 86 et X, 105 pour le fr. 93 K.-A. Les deux classements de références (Casaubon et Kaibel) doivent être distingués à l’occasion d’une édition exhaustive.
+3. **Pollux**, *Onomasticon*, VII, 41 : témoignage sur un emploi lexical attribué aux *Kleoboulinai*, dans un contexte manuscrit exigeant de distinguer Cratinos d’une citation voisine d’Aristophane, *Cavaliers* 923–924.
+4. **Plutarque**, *Banquet des Sept Sages*, notamment 148d, 150d–f et 153e–154c : Cléobuline/Eumétis, sa réputation intellectuelle et les énigmes. [Texte de la tradition traduite, LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Dinner_of_the_Seven%2A.html).
+5. **Aristote**, *Poétique*, 1458a25–30, et *Rhétorique*, III, 1405a–b, pour l’énigme de la ventouse et les rapports entre métaphore et énigme ; texte comparable accessible dans [Perseus, *Poétique* 22](https://beta.perseus.tufts.edu/urn%3Acts%3AgreekLit%3Atlg0086.tlg034.buckley1850-eng1/modern%3A22.4/). Aristote n’y atteste pas la représentation de la devinette chez Cratinos.
+6. **Diogène, Plutarque, Athénée et les lexicographes** ne sont pas des témoins équivalents d’un manuscrit de la pièce : la date et la fonction de chacun commandent le degré d’inférence.
+
+### XLVII. [A/B] Éditions critiques, bibliographie et limites de collation
+
+1. **Rudolf Kassel et Colin Austin** (éd.), *Poetae Comici Graeci*, IV, *Aristophon–Crobylus*, Berlin/New York, de Gruyter, **1983**, p. **167–171**, Cratinos, *Kleoboulinai*, frr. **91–101**. Bibliographie et délimitation confirmées par le [répertoire Theatrum de Cratinos](https://www.theatrum.de/2154.html). Le présent article n’affirme pas avoir collationné physiquement tous les manuscrits citants ou chaque variante de l’apparat imprimé.
+2. **Theodor Kock** (éd.), *Comicorum Atticorum Fragmenta*, I, *Antiquae Comoediae Fragmenta*, Leipzig, Teubner, **1880**, p. **39–41**, numérotation historique à utiliser avec concordance et non à substituer à K.-A. [Catalogue bibliographique](https://catalogue.nli.ie/Record/vtls000454163/TOC).
+3. **Francesco Paolo Bianchi**, *Cratino: Introduzione e testimonianze*, **Fragmenta Comica 3.1**, Heidelberg, **2017**, notamment p. **89–90** pour le problème du fr. 98, la circulation du fr. 93 chez Athénée et les particularités de la citation lexicographique. [Édition universitaire numérisée](https://digi.hadw-bw.de/view/frc3_1/0093). Il s’agit d’une introduction et d’un dossier de témoignages, non d’un remplacement intégral de l’édition K.-A.
+4. **Francesco Paolo Bianchi**, *Cratino: Archilochoi–Empipramenoi (frr. 1–68)*, *Fragmenta Comica* 3.2, Heidelberg, **2016**, pour les comparaisons de titres pluriels et la discussion de l’historicité de Cléobuline. [Notice et extrait](https://digi.hadw-bw.de/view/frc3_2/0014). Ce livre ne constitue pas le commentaire direct des frr. 91–101.
+5. **Edith Hall**, « Female Personifications of Poetry in Old Comedy », dans *The Theatrical Cast of Athens: Interactions between Ancient Greek Drama and Society*, Oxford, Oxford University Press, **2006**, chap. 6, p. **170–183**, sur les figures féminines de l’art et la distinction entre personnages, allégories et société. [Notice Oxford](https://academic.oup.com/book/8387/chapter-abstract/154096661).
+6. **Aurélien Berra**, *Théorie et pratique de l’énigme en Grèce ancienne*, thèse de doctorat, EHESS, **2008**, pour le champ lexical *ainigma/griphos* et les situations d’énonciation. [Notice HAL vérifiée](https://cv.hal.science/aurelien-berra) ; [texte intégral HAL](https://tel.archives-ouvertes.fr/tel-00674183).
+7. **Simone Beta**, « Riddling at table: trivial ainigmata vs. philosophical problemata », dans *Symposion and Philanthropia in Plutarch*, Coimbra, **2009**, p. **97–102**, pour l’hétérogénéité des jeux d’énigmes symposiaques ; [bibliographie académique de référence](https://revistas.ucm.es/index.php/RESF/en/article/view/75761).
+8. **Mariana Gardella et Victoria Juliá**, *El enigma de Cleobulina. Traducción de testimonios, estudio preliminar, notas y apéndice*, Buenos Aires, Teseo, **2018** ; pour la constitution prudente d’un dossier de femmes sages, distinguer témoignages et reconstructions. [Compte rendu dans *Nova Tellus*](https://www.scielo.org.mx/scielo.php?pid=S0185-30582022000100262&script=sci_arttext).
+9. **Mariana Gardella**, « Heráclito de Éfeso, Cleobulina de Lindos y los enigmas », étude sur le rapport entre énigme, connaissance et reconnaissance. [Notice et DOI](https://doi.org/10.5209/resf.75761). La comparaison avec Héraclite n’atteste aucune ligne de la comédie.
+10. **Mariana Gardella**, « Cleobulina di Rodi », **2025**, analyse du petit corpus d’énigmes attribuées à la figure. [Université de Trieste, notice](https://www.openstarts.units.it/handle/10077/37837).
+11. **G. W. F. Hegel**, *Esthétique*, sections sur la comédie ; **Friedrich Nietzsche**, *La Naissance de la tragédie* ; **Jean-Pierre Vernant**, *Mythe et pensée chez les Grecs* ; **Marcel Détienne et Jean-Pierre Vernant**, *Les Ruses de l’intelligence. La mètis des Grecs* (1974) ; **Georges Dumézil**, *Mythe et épopée*, I–III : ces références servent à poser des questions théoriques, jamais à attribuer une doctrine à Cratinos ou à Cléobuline.
+
+**Audit de fiabilité.** Les références exactes à Diogène Laërce I, 89, au corpus 91–101 K.-A., au fr. 93 chez Athénée et au problème de Pollux VII, 41 ont été vérifiées dans des éditions ou instruments académiques accessibles. La distinction entre le corpus dramatique et les énigmes de la tradition extra-dramatique est maintenue partout. Les textes grecs intégraux des fragments 91–101, leurs variantes et l’ensemble des manuscrits ne sont pas prétendus collationnés exhaustivement. Aucune traduction moderne n’est reproduite intégralement. Aucune date de représentation n’est inventée.
+
+### XLVIII. Continuité éditoriale, renvois et conclusion
+
+La nouvelle étude des *Kleoboulinai* de Cratinos constitue un dossier autonome. Elle ne réécrit pas les travaux préexistants sur Cratinos, *Archilochoi*, **XII (12)** ([manuscrit](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-012-cratinos-archilochoi.md)), ou *Pytinē*, **XI (11)** ([manuscrit](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-011-cratinos-pytine.md)). Elle dialogue avec Antiphane, *Sapphô*, **CXXXVIII (138)** ([manuscrit](https://github.com/Bobcribb/Bobcribb.github.io/blob/main/chapitres/comedies/volume-138-antiphanes-sappho-enigme-lettre-parole-politique-athenee.md)), dont la poétesse est une autre figure et une autre œuvre antique. Le statut transactionnel de Ménandre, *Samia*, demande UUID 891be758-32c0-4f01-8750-941be5a36f33, doit être vérifié par son reçu ; la présente étude n’anticipe pas son volume. Les homonymes d’Alexis ne sont pas fusionnés avec le titre de Cratinos.
+
+La connaissance la plus solide n’est pas un synopsis imaginé : c’est l’existence d’un nom féminin pluriel devenu titre de comédie, plus un ensemble de fragments transmis dans des conditions souvent lexicales. La figure savante de Cléobuline, telle que la représentent Diogène Laërce, Athénée, Plutarque et Aristote, constitue un **corpus de comparaison** qu’on ne doit pas verser sans preuve dans les fragments de Cratinos. Nous gagnons ainsi une lecture historique de la mémoire féminine, une enquête philologique sur la citation et une philosophie prudente de l’énigme, sans fabriquer des sources.
+
+**Numérotation propre à cette étude : volume CXLVII (147).** Les variables sont résolues uniquement par le processus de publication atomique de GitHub depuis l’état réel de main. Aucun manuscrit préexistant, reçu, registre, sommaire ou projet d’une autre collection ne doit être modifié pour obtenir une attribution. La publication sur bobmythos.fr ne peut être annoncée qu’après contrôle effectif de l’URL et de la reconstruction publique.

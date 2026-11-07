@@ -1,0 +1,304 @@
+# MYTHOS — Les Origines du sacré — Chapitre 793
+
+# Kitoka et Takaungu Creek : mosquées de corail, mémoire funéraire et formation des paysages religieux de Kilifi
+
+*Monographie universitaire originale — archéologie, anthropologie, philologie, histoire des institutions religieuses, philosophie et comparatisme.*
+
+**Champ chronologique :** occupation principalement médiévale tardive, notamment XIVe–XVIe siècles selon les synthèses disponibles ; héritage de conservation et transformations du paysage aux XIXe–XXIe siècles. **Lieu :** rive septentrionale de Takaungu Creek, comté de Kilifi, Kenya. **Prudence fondamentale :** les dénominations, le dénombrement des mosquées et la séquence des tombes varient selon les inventaires ; aucun récit d'origine ni aucune lecture d'inscription non vérifiée ne sera converti en fait établi.
+
+## Résumé
+
+Kitoka appartient à un ensemble de localités swahilies installées dans les estuaires de la côte kenyane. Les vestiges se situent sur la rive nord de Takaungu Creek, à distinguer de Mnarani sur Kilifi Creek, de la ville historique de Kilifi et de Takaungu, communauté dont la formation moderne relève de la première moitié du XIXe siècle. Les inventaires dérivés des relevés de Peter S. Garlake et des discussions de James S. Kirkman évoquent deux mosquées ruinées, des habitations et une zone d'environ 2,5 hectares ; des descriptions ultérieures signalent des fondations additionnelles, des tombeaux sculptés et des inscriptions arabes. Les chiffres doivent être rattachés aux campagnes d'enregistrement plutôt qu'additionnés comme s'il s'agissait d'une photographie simultanée. L'enquête confronte architecture cultuelle, tombeaux, voies de communication, économie de la pierre corallienne et menaces contemporaines sur les vestiges. Elle pose une question d'histoire comparée du sacré : comment un bâtiment où se réunissaient les vivants devient-il un indice partiel d'une communauté disparue, et pourquoi la visibilité des monuments de pierre ne saurait-elle effacer les pratiques dont les matériaux sont moins durables ?
+
+## I. Une microhistoire et non un « nouveau Kilifi »
+
+La côte des environs de Kilifi réunit plusieurs agglomérations séparées par des chenaux, des zones de mangrove, des passages terrestres et des histoires politiques distinctes. Les regrouper sous le nom d'une seule « cité-État » peut être commode pour décrire une sphère d'interactions ; cela ne démontre pas une administration identique, un même conseil ou une capitale fixe à chaque siècle. Kitoka doit être présenté comme un site précis, avec ses monuments et ses phases, plutôt que comme une copie de Mnarani ou de Gedi.
+
+Le dossier antérieur de MYTHOS consacré à Mnarani traite des deux mosquées et des tombeaux de Kilifi Creek. Kitoka, de son côté, est implanté sur Takaungu Creek et possède une autre histoire d'inventaire. Aucun numéro historique d'une étude voisine n'est réutilisé. Ce choix éditorial évite les doubles comptes : un même mihrab ne doit pas apparaître dans deux monographies comme s'il appartenait à deux ruines différentes.
+
+## II. La géographie de Takaungu Creek
+
+Takaungu Creek découpe la côte au nord de Mombasa, dans l'espace de Kilifi. Les mangroves, les marées et les criques ont pu fournir des ressources et protéger certaines embarcations. Cependant, leur configuration actuelle n'est pas une carte exacte des chenaux médiévaux : érosion, sédimentation et transformations des zones habitées modifient les lignes d'accès. La microtopographie du site exige donc un relevé actualisé et une géomorphologie historique.
+
+Le choix d'un rivage ne signifie pas que la ville aurait existé uniquement pour des marchands étrangers. Agriculture, pêche, fabrication d'objets, entretien des maisons et relations avec les établissements de l'intérieur contribuent à une économie diverse. La religion intervient dans ce réseau : une mosquée rassemble des personnes installées sur une côte habitée, elle ne crée pas ex nihilo toutes les relations humaines.
+
+## III. Pourquoi la distinction entre Kitoka et Takaungu est décisive
+
+Les synthèses locales font remonter l'installation moderne de Takaungu à la première moitié du XIXe siècle, dans un contexte de réorganisations politiques liées notamment aux Mazrui après les conflits autour de Mombasa. Kitoka appartient à un horizon archéologique plus ancien. Rapprocher les deux noms sans distinguer les phases conduirait à transférer vers les mosquées de Kitoka des conflits et des biographies dont les sources concernent une autre communauté.
+
+La continuité possible d'utilisation d'un secteur du rivage ne signifie pas identité des institutions. Un estuaire peut accueillir plusieurs établissements successifs, chacun nommant autrement ses lieux et administrant différemment ses ressources. Le vocabulaire « ancien », « moderne » et « colonial » doit être associé à des dates, non à un jugement sur la valeur d'une société.
+
+## IV. Les inventaires de Garlake : architecture et histoire du regard
+
+Peter S. Garlake publia en 1966 *The Early Islamic Architecture of the East African Coast*, mémoire du British Institute of History and Archaeology in East Africa. Son étude examine matériaux, techniques de construction, couvertures, éléments décoratifs et formes de mosquées. Des synthèses de Kitoka attribuent à ses relevés les plans de deux mosquées et les élévations de mihrabs. Cette attribution doit être vérifiée sur les planches dans toute reproduction scientifique nouvelle.
+
+La valeur de ce corpus est grande : il conserve des observations d'un moment où certaines élévations étaient encore reconnaissables. Ses catégories d'architecture « islamique » ne doivent cependant pas faire oublier les artisans africains, les réemplois locaux et la pluralité des traditions matérielles. Une forme commune n'est pas une identité ethnique ; une ressemblance de niche ne prouve pas la présence du même constructeur à deux sites.
+
+## V. Kirkman et la construction d'une géographie historique
+
+James S. Kirkman, dans *Men and Monuments on the East African Coast* (1964), examine plusieurs établissements kenyans de pierre et leur contexte politique. Les récits secondaires évoquent Kitoka avec Kilifi, Kilepwa et les transformations de la côte. Ces travaux appartiennent à une historiographie pionnière qui privilégiait parfois les monuments et les relations avec le monde arabe au détriment des habitats moins spectaculaires.
+
+Une critique historique ne consiste pas à écarter les anciens plans parce que leurs interprétations peuvent être datées. Elle distingue l'observation — murs, niche, tombe, céramique — de la proposition selon laquelle le monument prouverait l'origine étrangère de toute une population. Les traces bâties et les liens avec les cultures islamisées de l'océan Indien peuvent coexister avec une forte continuité africaine.
+
+## VI. L'étendue du site : environ 2,5 hectares, mais à quelle date ?
+
+Des inventaires reprenant Garlake donnent une superficie d'environ 2,5 hectares, soit à peu près six acres, pour les vestiges alors connus de Kitoka. Cette mesure doit être comprise comme l'étendue du secteur reconnu lors d'une enquête, non comme la superficie exacte de la ville médiévale. Les murs détruits, maisons en matériaux périssables et marges de circulation ont pu occuper des espaces supplémentaires.
+
+Une mesure actuelle de surface n'indique pas le nombre de personnes vivant en même temps dans l'agglomération. Elle dépend aussi de la visibilité des fondations et des choix de classement des archéologues. La cartographie exige de décrire les critères employés pour tracer les limites, puis de comparer ce périmètre aux distributions de céramiques et d'autres indices d'occupation.
+
+## VII. Deux mosquées attestées dans les premiers relevés
+
+Les descriptions anciennes évoquent deux mosquées ruinées et des habitations. Des comptes rendus ultérieurs font état de fondations d'un troisième édifice possible ; il ne faut donc pas présenter « deux » ou « trois » comme des vérités concurrentes qui s'excluent nécessairement. Les premiers chiffres peuvent compter les élévations conservées, les seconds les fondations reconnues après déblaiement. La date et la définition de chaque inventaire doivent être signalées.
+
+On peut affirmer qu'au moins deux ensembles de mosquées furent identifiés dans les relevés historiques. On ne peut dire que les trois bâtiments fonctionnaient simultanément, ni qu'ils accueillaient des groupes doctrinaux différents, sans stratigraphie et documentation indépendante. La pluralité d'édifices constitue une question de chronologie avant d'être une question de rivalité confessionnelle.
+
+## VIII. Le grand mihrab : forme et identification
+
+Les descriptions secondaires dérivées des relevés architecturaux signalent un mihrab important relativement bien conservé, possédant des arcs et des montants en retrait. Ces caractères appartiennent au vocabulaire construit des mosquées de la côte swahilie. Il serait prématuré d'attribuer à la niche une année de construction précise ou de décrire des inscriptions non transcrites : la validation exige le plan et la photographie du support.
+
+Un *miḥrāb* indique conventionnellement la direction de la prière ; sa morphologie varie dans l'histoire des architectures musulmanes. Stéphane Pradines, étudiant le mihrab swahili en 2003, démontre l'intérêt des profils, arcs, moulures et matériaux pour identifier des développements régionaux. Une niche ne prouve ni un degré de piété ni l'école juridique exacte des fidèles qui se tenaient devant elle.
+
+## IX. Le Coran 2:144 et la question de la qibla
+
+Le Coran 2:144 est une source primaire normative pour l'orientation de la prière vers la Mosquée sacrée de La Mecque. La *qibla* structure la disposition des corps dans les mosquées et contribue à identifier les espaces de prière lorsqu'une niche et un plan cohérent sont conservés. Elle ne doit pas être confondue avec le sens du rivage ou les axes des maisons.
+
+La topographie ne permet pas à elle seule de reconstituer la précision des calculs d'orientation. Les communautés utilisent des connaissances et techniques différentes selon les périodes ; une mesure moderne ne révèle pas forcément la méthode historique. Le rôle de l'archéologue est d'enregistrer l'orientation effective du mur, puis de l'interpréter avec les sources pertinentes.
+
+## X. Les autres parties de la salle : ce qui reste inconnu
+
+Lorsque les élévations ne se conservent qu'en partie, il faut distinguer les murs attestés, les piliers déduits de leurs bases et les couvertures reconstituées. Une mosquée peut posséder plusieurs accès, des espaces annexes ou une cour, mais chaque détail doit être documenté localement. Les comparaisons avec Mnarani ou Jumba la Mtwana ne remplacent pas le relevé de Kitoka.
+
+Les différences entre édifices peuvent signaler des phases de construction successives, des besoins communautaires variables ou une spécialisation des salles. Ce sont des hypothèses. Rien ne permet de dresser un règlement ancien d'accès des femmes, des jeunes gens ou des voyageurs à partir d'une ouverture aujourd'hui effondrée.
+
+## XI. Maçonnerie corallienne et compétences locales
+
+Le calcaire corallien et les mortiers constituent des matières centrales de l'architecture swahilie. Leur extraction, leur transport, la taille des encadrements et l'entretien des enduits mobilisent une organisation collective. Les matériaux d'un édifice religieux proviennent d'un environnement social et écologique, non d'une abstraction théologique. Les bâtiments de prière sont aussi des chantiers techniques.
+
+Le recours à la pierre n'exclut pas l'existence de maisons en terre ou en bois moins durables. Une grande visibilité archéologique des mosquées peut ainsi surestimer le poids matériel des élites et minimiser l'économie domestique. La recherche doit comparer les zones de maçonnerie aux dépôts moins spectaculaires de la ville.
+
+## XII. Le rapport à l'eau douce
+
+Une communauté installée dans un estuaire côtier doit se fournir en eau non salée. Les puits, récipients et systèmes de collecte éventuels font partie de son fonctionnement. L'existence d'une mosquée invite à étudier les pratiques de purification décrites dans le Coran 5:6, mais ne démontre pas que chaque ouvrage hydraulique trouvé sur la rive était rituel.
+
+L'inventaire précis des puits de Kitoka n'est pas établi par les sources synthétiques retenues ici. Aucun chiffre ne sera inventé. La comparaison avec les dix-huit puits de Jumba la Mtwana, documentés par Baumanová (2023), constitue un cadre de questions, non la preuve que Kitoka possédait une densité similaire d'installations.
+
+## XIII. La prière collective et l'absence de registre de fidèles
+
+Le Coran 62:9 donne un cadre scripturaire à la prière du vendredi. Une mosquée de congrégation offre une infrastructure pour réunir des personnes qui ne résident pas nécessairement dans la même maison. Mais les vestiges ne fournissent ni liste de prédicateurs, ni calendrier local complet, ni chiffre de fréquentation.
+
+La taille et l'emplacement des salles peuvent suggérer un rôle civique, commercial ou mémoriel. Cela ne doit pas effacer la dimension proprement religieuse des gestes accomplis. Les fidèles pouvaient prier pour des motifs multiples ; l'architecture conserve des possibilités de pratique, pas le contenu de chaque expérience intérieure.
+
+## XIV. Les fondations d'une troisième mosquée : une question ouverte
+
+Des synthèses locales mentionnent la reconnaissance ultérieure de fondations supplémentaires après l'inventaire de deux mosquées. Sans un relevé accessible précisant les joints, les relations de sols et les dépôts associés, la désignation d'un « troisième bâtiment » doit être présentée comme une information secondaire encore à contrôler. Une base murale peut appartenir à plusieurs états d'un même ensemble.
+
+Cette question est un bon exemple de prudence stratigraphique : les dénombrements architecturaux varient parfois parce que les chercheurs ne définissent pas de la même manière un édifice, une phase ou une salle annexe. Une étude comparative gagne à expliciter les critères de chaque inventaire plutôt qu'à cumuler tous les chiffres.
+
+## XV. Tombes à pilier et espaces funéraires
+
+Les notices dérivées des premiers travaux signalent des tombes coralliennes décorées dans le secteur de Kitoka. L'architecture funéraire de la côte swahilie comprend des piliers, panneaux sculptés, niches et, dans certains cas, des céramiques insérées. Monika Baumanová (2018) a étudié ces monuments comme des moyens de rendre certains morts visibles dans l'espace des villes.
+
+Il faut cependant distinguer la présence d'une tombe de la reconnaissance d'un culte de sainteté. Une architecture prestigieuse peut signaler une famille, un notable ou un religieux, mais l'identité exacte demande inscription ou tradition critique. La position de la sépulture dans la ville peut organiser des parcours de mémoire sans qu'on puisse reconstruire la liturgie qui s'y déroulait.
+
+## XVI. Inscriptions arabes : pourquoi ne pas les transcrire sans photographie ?
+
+Des sources secondaires évoquent des inscriptions arabes sur des monuments du secteur. L'historien ne doit pas fabriquer leurs noms, dates ou formules. Une édition épigraphique exige un relevé direct, une lecture des lettres, l'examen des lacunes, une traduction et le contrôle du support. Le fait qu'une inscription soit arabe indique une circulation d'écriture, non la langue maternelle de tous les habitants.
+
+La datation paléographique peut fournir une fourchette, mais elle ne se substitue pas à la chronologie stratigraphique. Une pierre déplacée peut avoir été gravée avant sa mise en place définitive. Le catalogue doit donc associer chaque texte à son bâtiment et signaler si la lecture vient d'une photographie moderne ou d'une copie ancienne.
+
+## XVII. La mémoire des défunts et les inégalités de visibilité
+
+Les tombeaux sculptés sont plus visibles pour l'archéologue que les sépultures simples ou détruites. Les défunts dont les familles pouvaient financer des monuments ont donc davantage de chances de laisser une trace durable. Il serait trompeur de décrire une société entière à partir de ces seuls individus. La pierre ne mesure pas l'importance spirituelle de chaque mort aux yeux de ses proches.
+
+L'étude du pouvoir funéraire exige une attention aux tombes non monumentales, à la distribution des sépultures et aux dépôts associés. Le monument peut produire un souvenir collectif, mais il peut également matérialiser une hiérarchie sociale. Les deux dimensions ne sont pas contradictoires.
+
+## XVIII. Le rôle des maisons et des cours
+
+Les anciens relevés mentionnent plusieurs maisons. Leur localisation par rapport aux mosquées permet de poser des questions sur les accès, les voisinages et les regroupements familiaux. Cependant, le nombre de maisons en pierre conservées ne fournit pas le nombre total de ménages, car les architectures périssables et les phases disparues peuvent avoir été importantes.
+
+Les cours domestiques pouvaient accueillir la cuisine, l'entretien des outils, des rencontres et des gestes de soin. Leur fonction religieuse ne saurait être présumée sans contexte. Une résidence dotée de pièces nombreuses ne prouve pas l'existence d'une école coranique ; une niche dans une salle ne suffit pas à décrire une pratique précise.
+
+## XIX. Le mobilier céramique et les échanges de l'océan Indien
+
+Les établissements de Kilifi entretenaient des relations avec des réseaux régionaux et transocéaniques. Une céramique importée peut être utile pour dater un dépôt et étudier la circulation des biens. Mais la provenance d'un vase n'est ni celle de son propriétaire final ni celle de sa religion. Les objets peuvent changer plusieurs fois de fonction avant d'être enfouis.
+
+Les données synthétiques disponibles pour Kitoka ne permettent pas d'énumérer ici une série complète de porcelaines datées et stratifiées. Aucune liste ne sera extrapolée depuis Mnarani, Gedi ou Jumba la Mtwana. La comparaison régionale sert à formuler un protocole de lecture, non à inventer des trouvailles.
+
+## XX. Les voisinages de Kilifi et les relations politiques
+
+Une histoire politique du littoral évoque les relations entre Kilifi, Mnarani, Kitoka et d'autres établissements autour des deux chenaux. Kirkman (1964) discute ces ensembles dans le cadre des transformations du XVIe siècle. Il faut éviter de transformer une expression de « cité-État » en administration unique attestée à chaque date : les configurations de patronage, conflit et commerce ont pu varier.
+
+L'intensification de la présence portugaise sur le littoral et les réorganisations militaires régionales constituent un contexte, pas une cause unique démontrée de la disparition de Kitoka. Pour identifier une destruction, il faut un niveau archéologique daté et un rapprochement documentaire solide.
+
+## XXI. Segeju, Malindi et les récits de victoire
+
+La littérature historique relie certaines recompositions du pouvoir régional à des campagnes menées avec l'appui de groupes segeju et au cheikh de Malindi à la fin du XVIe siècle. Les récapitulations évoquent notamment l'année 1589 dans ce contexte. Toutefois, la mention d'un épisode politique ne constitue pas une preuve de la destruction de chacune des mosquées de Kitoka.
+
+La critique exige d'identifier les sources primaires à partir desquelles Kirkman avait construit cette chronologie et de vérifier les noms des acteurs. Dans une monographie architecturale, on ne doit pas remplacer cette enquête par une scène de bataille imaginaire. Les changements d'autorité peuvent modifier les échanges sans provoquer nécessairement l'abandon simultané de tous les quartiers.
+
+## XXII. La ville et les littoraux : transport, pêche, agriculture
+
+L'accès à une crique peut favoriser la circulation des personnes, des produits de la mer et des marchandises venues du large. Les populations du littoral combinent aussi des ressources terrestres. Décrire Kitoka seulement comme un « port arabe » rendrait invisibles les cultivateurs, les pêcheurs et les artisans africains dont le travail soutenait les bâtiments de corail.
+
+La nature des embarcations et les points d'accostage médiévaux doivent être recherchés dans les vestiges maritimes et la géomorphologie. Un chenal navigable aujourd'hui n'est pas une preuve suffisante de l'accès d'un type précis de navire au XVe siècle. La géographie est une hypothèse à tester.
+
+## XXIII. La formule « ville arabe » et l'histoire coloniale des savoirs
+
+Certaines notices touristiques anciennes emploient l'expression « ancient Arab town ». Cette formule témoigne d'une histoire des représentations, mais elle ne constitue pas un résultat archéologique sur l'ascendance de la population. Les communautés swahilies sont africaines et participent à des réseaux de la mer Rouge, du golfe Persique et de l'Inde sans pouvoir être réduites à une migration fondatrice unique.
+
+Les conceptions historiographiques ont évolué : les recherches récentes mettent en avant la complexité des trajectoires locales, la langue bantoue swahilie et la diversité des interactions. L'origine supposée d'un bâtiment ne doit pas être déduite du lieu de fabrication d'un pot ou d'un mot arabe employé dans son inscription.
+
+## XXIV. Le terme *masjid* et le swahili *msikiti*
+
+Le terme arabe *masjid* est lié à la racine s-j-d, relative à la prosternation, et a contribué à la formation du mot swahili *msikiti*. Cette histoire lexicale montre comment un vocabulaire religieux se transforme dans une langue africaine. Elle ne prouve pas que les habitants de Kitoka parlaient tous arabe ni qu'ils étaient nés sur la péninsule Arabique.
+
+Un emprunt lexical peut être ancien, adapté phonétiquement et employé dans un contexte social nouveau. La philologie doit distinguer la forme d'un mot, sa chronologie documentaire et les pratiques architecturales qu'il décrit. Les langues ne sont pas des cartes immuables des appartenances.
+
+## XXV. *Qibla*, *miḥrāb*, *minbar* : trois notions distinctes
+
+La *qibla* désigne la direction de la prière, le *miḥrāb* la niche qui la marque dans de nombreuses mosquées et le *minbar* un dispositif associé à la prédication. Les termes ne sont pas interchangeables. Les chercheurs peuvent reconnaître un mihrab sur un plan, mais l'existence d'un minbar ne doit pas être affirmée à Kitoka sans vestige ou description spécifique.
+
+Cette distinction élémentaire évite de transformer une pierre isolée en mobilier liturgique reconstruit. Elle permet également de dialoguer avec les textes normatifs tout en respectant les limites du bâtiment conservé.
+
+## XXVI. La fonction du vendredi et la pluralité des mosquées
+
+Le Coran 62:9 évoque la réunion du vendredi. Une mosquée importante peut servir de lieu de congrégation, tandis que de plus petites constructions répondent à d'autres échelles de voisinage. Mais la présence de deux ou trois bâtiments sur une même zone ne prouve pas qu'ils étaient tous actifs simultanément.
+
+Pour répondre, il faudrait des datations d'usage des sols, des analyses de remaniements et des observations sur les accès. Des mosquées peuvent succéder l'une à l'autre. L'archéologie doit reconstruire les phases avant de dresser une sociologie confessionnelle.
+
+## XXVII. L'eau pour prier et l'eau pour vivre
+
+Le Coran 5:6 rappelle l'importance des gestes de purification. Sur le littoral, les ressources en eau douce et les bassins représentent des contraintes pratiques. Les travaux menés à Jumba la Mtwana montrent comment un inventaire hydraulique peut préciser les relations entre maisons et mosquées ; ils ne permettent pas d'attribuer à Kitoka un nombre de puits non documenté.
+
+Une recherche future devrait rechercher les points d'eau, les traces de conduits et les dispositifs d'ablution sur place. Sans résultats, il faut simplement dire que de telles installations étaient possibles et que leur identification demeure à établir.
+
+## XXVIII. La conservation face aux usages du sol
+
+Plusieurs comptes rendus locaux évoquent des menaces liées au défrichement, à la culture et à la transformation des terrains autour de Kitoka. Leur statut doit être précisé : ce sont des constats ou alertes rapportés par des synthèses récentes, non des mesures d'érosion produites ici. Les vestiges situés dans des espaces fonciers utilisés pour l'agriculture posent des questions de protection, d'accès et de documentation.
+
+Une politique patrimoniale efficace ne doit pas simplement interdire des usages sans dialogue. Elle peut associer relevés, concertation avec les occupants et inventaire des éléments menacés. Le fait qu'une mosquée soit en ruines ne la retire pas des enjeux sociaux de la terre contemporaine.
+
+## XXIX. Les objets humains et le risque de récits sensationnels
+
+Des reportages ont associé des restes humains découverts près des ruines à une hypothèse de communauté esclavagiste. En l'absence de publication ostéologique détaillant contexte, nombre minimal d'individus, datation et chaîne de prélèvement, cette suggestion ne doit pas être présentée comme un résultat. La présence de crânes ne suffit pas à établir le statut juridique des personnes inhumées ni les circonstances de leur mort.
+
+L'étude de l'esclavage ancien sur les côtes de l'océan Indien est légitime et nécessaire, mais elle exige des preuves adaptées. Les récits médiatiques, même lorsqu'ils citent un archéologue, doivent être confrontés à des rapports de fouille et à des analyses spécialisées avant de devenir une conclusion encyclopédique.
+
+## XXX. L'archéologie des morts n'est pas une histoire automatique du sacrifice
+
+Les sépultures constituent des contextes religieux possibles, mais elles ne prouvent pas un sacrifice humain. Une tombe peut résulter d'un décès ordinaire et recevoir un monument commémoratif. Un groupe de restes humains peut correspondre à plusieurs générations d'inhumation ou à des remaniements. Les conclusions sur la violence exigent des traumatismes identifiés, une datation et une argumentation taphonomique.
+
+Cette discipline de preuve est particulièrement importante pour une encyclopédie comparative : elle évite de transformer l'exotisme attribué à une société en explication archéologique. Les termes « sacrifice », « offrande » et « martyr » ont des contenus historiques distincts.
+
+## XXXI. L'analogie avec Mnarani : ce qu'elle permet
+
+Mnarani conserve des mosquées et des tombeaux sur un autre chenal près de Kilifi. Les plans, niches et traditions funéraires peuvent éclairer les possibles fonctions des vestiges de Kitoka. La comparaison doit toutefois maintenir les différences de topographie et de datation. Un pilier octogonal à Mnarani ne signifie pas que toute tombe voisine à Kitoka possédait la même forme et le même sens.
+
+La proximité géographique autorise des hypothèses de contacts entre communautés, non la copie intégrale d'une institution religieuse. Les villes peuvent partager des artisans et diverger dans leurs pratiques.
+
+## XXXII. L'analogie avec Gedi : puissance et limites du modèle
+
+Gedi est beaucoup mieux documentée et possède un grand ensemble de bâtiments et de sépultures. Il serait méthodologiquement dangereux d'utiliser cette richesse pour remplir les lacunes de Kitoka. On peut comparer la pierre corallienne, les principes d'orientation et les séquences de construction, mais les données de Gedi restent celles de Gedi.
+
+La différence de conservation est elle-même un résultat à étudier : certains sites disposent de plans détaillés, d'autres de ruines fragmentaires. Une absence de documentation ne représente pas un degré moindre de culture, mais une limite de l'archive disponible.
+
+## XXXIII. Durkheim : un groupe au lieu d'une essence sacrée
+
+Durkheim, dans *Les Formes élémentaires de la vie religieuse* (1912), analyse comment des rites produisent et entretiennent des représentations collectives. L'étude de Kitoka peut mobiliser cette perspective pour interroger la construction et la fréquentation des mosquées. Cependant, on ne possède aucun récit des émotions ou de l'intensité des assemblées.
+
+Les monuments attestent des investissements communs et des formes d'organisation, sans démontrer l'unanimité. Des familles pouvaient financer différemment des lieux de prière, et certains habitants ne disposent d'aucune trace monumentale. Une lecture sociologique doit préserver ces asymétries.
+
+## XXXIV. Eliade : pourquoi l'estuaire n'est pas une hiérophanie démontrée
+
+Mircea Eliade étudie la séparation des espaces religieux et les principes d'orientation. Une mosquée sur la rive d'un chenal peut inviter à une interprétation de seuil et de centre. Mais aucune source locale ne permet ici d'affirmer que Takaungu Creek était lui-même un fleuve sacré ou le lieu d'une manifestation divine reconnue par tous.
+
+La centralité doit être expliquée par les pratiques et les choix humains. L'eau peut fournir une défense, du poisson et un trajet tout en devenant importante pour des gestes rituels. Ces fonctions ne s'excluent pas, mais elles ne se démontrent pas par une formule universelle.
+
+## XXXV. Vernant et Detienne : comparer les institutions sans reproduire la cité grecque
+
+Jean-Pierre Vernant et Marcel Detienne ont montré que les pratiques religieuses grecques sont inséparables des configurations civiques qui les organisent. La question de la relation entre mosquée et collectivité à Kitoka peut leur emprunter une exigence méthodologique : étudier les gestes, les lieux et les structures sociales ensemble.
+
+Cependant, la prière musulmane n'est pas la *thysia* grecque, et la communauté swahilie ne constitue pas une *polis* transposée. La comparaison est structurale lorsqu'elle examine les rapports entre culte et espace public ; elle est abusive lorsqu'elle prétend démontrer une transmission rituelle sans sources.
+
+## XXXVI. Dumézil et les limites des grandes typologies
+
+La comparaison des fonctions religieuses, guerrières et productives chez Georges Dumézil concerne un corpus indo-européen historiquement situé. Il n'existe aucune raison de classer les habitants de Kitoka selon une idéologie trifonctionnelle universelle. L'existence de marchands, de responsables de prière et d'artisans ne suffit pas à démontrer une structure symbolique commune aux mythes de l'Inde ou de Rome.
+
+Une encyclopédie comparative gagne à signaler les analogies qu'elle refuse. La ressemblance d'une organisation sociale générale n'est pas l'identité d'un système religieux.
+
+## XXXVII. Hegel et Nietzsche : critique des récits civilisateurs
+
+Les philosophies de Hegel et de Nietzsche peuvent être sollicitées comme objets de réflexion sur l'histoire, la valeur et les récits de civilisation. Pour l'archéologie swahilie, le danger principal est de décrire la maçonnerie corallienne comme une « avancée » venue de l'extérieur, tandis que les architectures en terre seraient considérées comme naturellement inférieures. Rien ne justifie cette hiérarchie de croyances.
+
+Les matériaux répondent à des contraintes techniques et sociales. Une maison en terre peut accueillir des pratiques complexes, même si elle laisse moins de traces. Le regard philosophique doit aider à critiquer nos catégories plutôt qu'à inventer les croyances des bâtisseurs.
+
+## XXXVIII. Girard : l'absence de preuve de victime fondatrice
+
+René Girard propose une théorie de la violence et du sacrifice. Les récits de conflits littoraux n'autorisent pas à supposer la présence d'un mécanisme victimaire à Kitoka. Une tombe sculptée ne démontre ni une mise à mort fondatrice ni un bouc émissaire, et un ensemble de restes humains découvert sans publication détaillée ne peut être rangé arbitrairement dans une telle catégorie.
+
+La comparaison théorique est utile si elle oblige à demander comment une tradition explique une violence ; elle ne l'est plus lorsqu'elle fournit elle-même l'événement que les archives n'ont pas documenté.
+
+## XXXIX. Égypte et Mésopotamie : des archives de cultes différentes
+
+Les grands temples d'Égypte ou de Mésopotamie ont laissé parfois des textes de fondation, des listes de personnel et des comptes d'offrandes. Kitoka livre d'abord un dossier architectural et des notices d'inventaire. Comparer ces sociétés suppose de reconnaître une forte dissymétrie des sources. On peut demander comment les lieux de culte furent entretenus, mais non restituer à Kitoka une comptabilité sacerdotale par analogie.
+
+Aucune filiation historique directe n'est démontrée entre les édifices de Takaungu Creek et les sanctuaires du Nil ou du Tigre. Le comparatisme porte sur les méthodes de reconstruction et sur les relations possibles entre pouvoir et monument.
+
+## XL. Iran, Inde, Chine : les objets ne convertissent pas à eux seuls
+
+Les réseaux de l'océan Indien ont relié l'Afrique orientale à la péninsule Arabique, aux régions iraniennes, à l'Inde et aux espaces chinois. Une porcelaine importée peut indiquer une chaîne commerciale, mais elle ne prouve pas qu'un fidèle de Kitoka partageait la religion de son fabricant. L'origine de l'objet, celle de son propriétaire et celle de l'usage final doivent être distinguées.
+
+L'histoire des réseaux intellectuels musulmans demande des textes et des institutions, pas seulement des céramiques. Les comparaisons économiques et religieuses doivent rester parallèles tant qu'aucun document ne permet de les croiser.
+
+## XLI. Les Amériques et la comparaison des tombeaux
+
+Les sociétés américaines anciennes ont construit des monuments funéraires et des lieux de cérémonie dont la fouille peut éclairer des méthodes générales d'identification du rituel. Une analogie peut porter sur les procédures : stratigraphie, répétition des gestes, traitement du corps et place du monument dans la ville. Elle ne constitue pas une preuve d'influence ou de parenté entre les traditions.
+
+La comparaison devient scientifique lorsqu'elle explicite le degré de ressemblance et l'indépendance des contextes. Il serait infondé de supposer une religion mondiale unique des piliers funéraires.
+
+## XLII. Une conservation documentée au lieu du folklore
+
+Le site de Kitoka a fait l'objet de descriptions de menaces foncières et de dégradations. La priorité scientifique devrait être un relevé géoréférencé des murs encore visibles, une photographie systématique des mihrabs et un inventaire des pierres inscrites. Ces travaux doivent être menés avec les détenteurs de droits et les institutions kenyanes, et documenter les interventions de restauration éventuelles.
+
+Une publication responsable ne reconstitue pas un décor complet de mosquée avec des personnages et inscriptions inventés. Elle sépare les élévations mesurées, les parties déduites par comparaison et celles dont aucune trace ne subsiste.
+
+## XLIII. Les habitants actuels et la mémoire du rivage
+
+Les ruines ne sont pas situées dans un espace sans usagers contemporains. Les riverains peuvent cultiver les terrains, circuler vers la crique et posséder leurs propres récits sur les anciens bâtiments. La conservation du site suppose d'enregistrer ces usages et ces mémoires avec consentement et attribution, sans exiger qu'ils confirment une hypothèse archéologique préalable.
+
+Une tradition racontée aujourd'hui est une source de la mémoire actuelle. Elle peut renvoyer à un passé ancien, mais elle n'est pas automatiquement un acte de fondation médiéval. Une étude comparative du sacré gagne à préserver cette pluralité de temporalités.
+
+## XLIV. Contrôle des niveaux de certitude
+
+**Faits solidement documentés :** Kitoka se trouve sur la rive nord de Takaungu Creek ; les relevés et synthèses historiques reconnaissent deux mosquées ruinées ainsi que des maisons ; son ensemble a été étudié dans le cadre de l'archéologie architecturale du littoral swahili ; les ouvrages de Garlake (1966) et Kirkman (1964) constituent des références majeures pour le contexte régional.
+
+**Interprétations plausibles mais révisables :** surface d'environ 2,5 hectares pour le secteur alors reconnu ; phases supplémentaires de mosquées ; présence et classement précis des tombes sculptées ; relations politiques avec Kilifi et les transformations de la fin du XVIe siècle ; rôle d'un grand mihrab dans un édifice de congrégation.
+
+**Hypothèses non établies par le dossier vérifié :** nom du fondateur, date exacte de la première mosquée, école juridique de tous les fidèles, fonction de chaque tombe, présence d'un marché esclavagiste prouvée par des ossements, destruction lors d'une bataille déterminée, continuité institutionnelle sans rupture avec Takaungu au XIXe siècle.
+
+## XLV. Conclusion générale
+
+Kitoka est un paysage religieux swahili dont la documentation oblige à articuler modestie et profondeur. Deux mosquées et des habitations sont décrites dans les relevés ; d'autres fondations, tombes et inscriptions sont signalées par des sources secondaires qui demandent des vérifications directes. Les structures témoignent d'une communauté musulmane insérée dans l'économie et les politiques de la côte kenyane, sans que son origine puisse être réduite à un peuple étranger ni son histoire résumée à la destruction d'une cité.
+
+L'apport principal de ce chapitre est la séparation des archives : pierre observée, copie d'un ancien plan, tradition politique, enquête patrimoniale et hypothèse interprétative n'ont pas le même statut. Une histoire universitaire du sacré ne perd rien à reconnaître ce qu'elle ignore ; elle donne ainsi la priorité aux questions qui pourront être résolues par de nouvelles observations.
+
+## Sources primaires et corpus de terrain
+
+1. **Garlake, Peter S.**, plans et élévations d'édifices du littoral kenyan présentés dans *The Early Islamic Architecture of the East African Coast* (1966). Les figures spécifiques de Kitoka doivent être collationnées avant toute reproduction : https://books.google.com/books/about/The_Early_Islamic_Architecture_of_the_Ea.html?id=IRINAQAAIAAJ.
+2. **Kirkman, James S.**, descriptions de plusieurs villes de la côte et de leur histoire politique dans *Men and Monuments on the East African Coast* (1964), ouvrage attesté au catalogue du Royal Museum for Central Africa : https://library.africamuseum.be/bib/352418.
+3. **AbiriKenya**, « Kitoka Ruins », inventaire secondaire des restes, avec informations sur le nombre de mosquées et l'état de conservation : https://abirikenya.com/counties/kilifi-county/kitoka-ruins/. Ce site n'est pas une publication de fouille primaire.
+4. **AbiriKenya**, « Takaungu Creek », description moderne du chenal et de la communauté de Takaungu : https://abirikenya.com/counties/kilifi-county/takaungu-creek/.
+5. **Coran**, 2:144 (qibla), 5:6 (ablutions), 9:18 (mosquées), 62:9 (prière du vendredi) : texte primaire normatif, non chronique de Kitoka. Voir https://quran.com/2/144 ; https://quran.com/5/6 ; https://quran.com/9/18 ; https://quran.com/62/9.
+
+## Bibliographie universitaire et critique
+
+- Garlake, Peter S. (1966), *The Early Islamic Architecture of the East African Coast*, British Institute of History and Archaeology in East Africa, mémoire 1, 207 p. Catalogue Google Books : https://books.google.com/books/about/The_Early_Islamic_Architecture_of_the_Ea.html?id=IRINAQAAIAAJ.
+- Kirkman, James S. (1964), *Men and Monuments on the East African Coast*, Londres, Lutterworth Press. Catalogue : https://library.africamuseum.be/bib/352418.
+- Kirkman, James S. (1959), « Mnarani of Kilifi: The Mosques and Tombs », *Ars Orientalis*, 3, p. 95–112. Référence à un site voisin, non à Kitoka.
+- Pradines, Stéphane (2003), « Le mihrâb swahili : l'évolution d'une architecture islamique en Afrique subsaharienne », *Annales islamologiques*, 37, p. 355–381. DOI : https://doi.org/10.3406/anisl.2003.1332.
+- Baumanová, Monika (2018), « Pillar Tombs and the City: Creating a Sense of Shared Identity in Swahili Urban Space », *Archaeologies*, 14, p. 377–411. DOI : https://doi.org/10.1007/s11759-018-9338-x.
+- Baumanová, Monika (2022), « Survey and Analysis of the Architectural Heritage at Jumba La Mtwana and Mnarani, Precolonial Swahili Towns in Kenya », *Annals of the Náprstek Museum*, 43/1, p. 107–124. DOI : https://doi.org/10.37520/anpm.2022.007. Comparaison documentaire, et non relevé nouveau de Kitoka.
+- Bita, Caesar et Wes Forsythe (2023), « An Outport for Gedi?—Archaeological Survey in Mida Creek, Kenya », *Heritage*, 6/12, p. 7366–7380. DOI : https://doi.org/10.3390/heritage6120386. Étude d'une autre crique, utilisée seulement comme comparaison méthodologique.
+- Detienne, Marcel et Jean-Pierre Vernant (dir.) (1979), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard ; Durkheim, Émile (1912), *Les Formes élémentaires de la vie religieuse* ; Eliade, Mircea (1957), *Le Sacré et le Profane* ; Dumézil, Georges (1968–1973), *Mythe et épopée* ; Nietzsche, Friedrich (1872), *La Naissance de la tragédie* ; Girard, René (1972), *La Violence et le sacré* ; Hegel, G. W. F., leçons posthumes sur la philosophie de l'histoire. Références méthodologiques, sans valeur de témoignage sur Kitoka.
+
+**Publication et numérotation.** Ce texte intégral constitue une livraison autonome destinée à la file de publication MYTHOS. Son seul numéro propre est la variable 793. Les références historiques et paginations restent littérales. Aucune création directe dans les fichiers numérotés, aucune modification du registre ni des automatisations.
