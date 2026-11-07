@@ -24,10 +24,13 @@ class NokCivilisationsTests(unittest.TestCase):
 
     def test_nok_study_is_complete_and_crosslinked(self):
         article = NOK_PATH.read_text(encoding="utf-8")
-        canonical = BeautifulSoup(article, "html.parser").select("head link[rel='canonical']")
+        doc = BeautifulSoup(article, "html.parser")
+        canonical = doc.select("head link[rel='canonical']")
         self.assertEqual(len(canonical), 1, "Une seule URL canonique est attendue")
         self.assertEqual(canonical[0].get("href"), "https://bobmythos.fr" + NOK_URL)
-        self.assertEqual(article.count('class="mythos-study-section" aria-labelledby="nok-'), 12)
+        sections = doc.select("section.mythos-study-section[aria-labelledby^='nok-']")
+        self.assertEqual(len(sections), 12, "Les douze sections scientifiques doivent exister")
+        self.assertEqual({s["aria-labelledby"] for s in sections}, {f"nok-{i}" for i in range(1, 13)})
         self.assertIn('id="nok-sources"', article)
         self.assertIn("/civilisations/afrique/", article)
         self.assertIn("/chapitres/origines-du-sacre/736-nok-nigeria-", article)
