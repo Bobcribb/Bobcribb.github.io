@@ -157,3 +157,10 @@ Des combats de dieux contre des serpents ou monstres apparaissent dans plusieurs
 **Entrées :** Apollon Pythien ; Python ; dragonne ; Delphes ; Pythô ; Telphousa ; Gaïa ; Thémis ; Phoibé ; Typhon ; purification ; Tempé ; laurier ; Pythie ; trépied ; oracle ; Crésus ; Pythia ; Amphictionie ; omphalos ; aigles de Zeus ; Dionysos ; concours ; sanctuaire.  
 **Chemin :** `chapitres/encyclopedie/chapitre-347-apollon-python-delphes-oracle.md`.  
 **Suite proposée :** chapitre 348, volume CXXX — *La Pythie de Delphes : parole inspirée, rituels de consultation et autorité féminine*. Contrôler les fichiers existants avant toute création.
+
+
+### Annotation documentaire — revue scientifique, lot 08 (7 novembre 2026)
+
+**Contrôle du témoin poétique.** L'*Hymne homérique à Apollon* **v. 300–309 et 349–373** met en scène une **dragonne** vaincue par les flèches du dieu et rapporte l'étiologie de **Pythô** par la putréfaction ; consulter le texte grec des passages et les notes rassemblés par Daniel Ogden (University of Exeter, [texte grec et indications de vers](https://sites.exeter.ac.uk/ogdens-dragonsdens/the-classical-dragon/python/homeric-hymn-to-apollo/)). Une ancienne traduction disponible via le [Perseus/Scaife Atlas, *Hymne* 3](https://atlas.perseus.tufts.edu/library/urn:cts:greekLit:tlg0013.tlg003.perseus-eng2/) est celle de H. G. Evelyn-White (**1914**) ; elle ne remplace pas une édition critique des variantes manuscrites. Ce récit ne doit pas être fondu sans distinction avec le prologue des *Euménides* d'Eschyle, v. **1–8**, qui donne une autre généalogie de l'oracle.
+
+**Cadrage français.** Jean-Pierre Vernant, *Mythe et pensée chez les Grecs* (édition de référence identifiée dans le répertoire de la PR 159), constitue une ressource méthodologique pour l'articulation du mythe et des institutions civiques ; aucune exégèse littérale de ces vers par Vernant n'est prétendue. **Statut :** deux traditions textuelles distinctes attestées ; récit d'une conquête historique du sanctuaire, nom propre et topographie originelle non déductibles de l'hymne seul.
