@@ -199,5 +199,34 @@ class EneideDeepeningTest(unittest.TestCase):
                 len(shelf[0].select(".mythos-eneide-source-grid li a")), 18
             )
 
+    def test_eneide_hector_didon_treve_20261107(self):
+        """Contrôler les 3 études nouvelles et le catalogue critique."""
+        from bs4 import BeautifulSoup
+        doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
+        chapters = doc.select("section.philo-chapter")
+        self.assertEqual(len(chapters), 18)
+        titles = {
+            2: ("02-chant-ii.md", "Hector et les Pénates : sauver le culte lorsque les murailles tombent (II, 268–297)"),
+            4: ("04-chant-iv.md", "Une reine privée de sommeil : délibérer au bord de l'impossible (IV, 522–583)"),
+            11: ("11-chant-xi.md", "Le droit des morts : négociation, hospitalité ancienne et limite de la victoire (XI, 100–138)"),
+            17: ("17-reperes-et-sources.md", "Complément critique : Hector, la nuit de Didon et la trêve des morts (7 novembre 2026)"),
+        }
+        for index, (filename, heading) in titles.items():
+            raw = (CORPUS / filename).read_text(encoding="utf-8")
+            self.assertEqual(raw.count("## " + heading), 1)
+            self.assertEqual(
+                [h.get_text(" ", strip=True) for h in chapters[index].select("h3[id]")].count(heading), 1
+            )
+        for filename, marker in {
+            "02-chant-ii.md": "sacra suosque tibi commendat Troia penates",
+            "04-chant-iv.md": "ingeminant curae",
+            "11-chant-xi.md": "nullum cum victis certamen et aethere cassis",
+            "17-reperes-et-sources.md": "10.1017/9781108680226.003",
+        }.items():
+            self.assertIn(marker, (CORPUS / filename).read_text(encoding="utf-8"))
+            self.assertIn(marker, doc.get_text(" ", strip=True))
+        ids = [item["id"] for item in doc.select("[id]")]
+        self.assertEqual(len(ids), len(set(ids)))
+
 if __name__ == "__main__":
     unittest.main()
