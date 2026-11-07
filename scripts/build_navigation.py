@@ -1014,6 +1014,27 @@ def create_civilisations(entries, groups):
               ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Hudhud des Ifugao — Aliguyon et les chants du riz","Le texte intégral du volume historique XV, ses performances, ses variantes et ses sources.","TEXTE INTÉGRAL"),
               ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi : La Galigo","Autre épopée insulaire conservée et étudiée à partir des sources et des témoins manuscrits.","ÉTUDE ASSOCIÉE")
             ],"portal-grid-compact"))
+        if key == "oceanie":
+            # Parcours non redondant : montre uniquement les études réellement
+            # indexées. Une PR encore ouverte ne suffit pas à créer une carte.
+            available = {entry["url"] for entry in entries}
+            pacific_studies = [
+                ("/bibliotheque-mythologies-du-monde/civilisations-histoire-oceanie/",
+                 "Océanie : navigation et sociétés insulaires",
+                 "La synthèse régionale, les méthodes et les traditions.", "PANORAMA"),
+                ("/bibliotheque-mythologies-du-monde/civilisations-oceanie-nan-madol-pohnpei/",
+                 "Nan Madol et Pohnpei : monumentalité et pouvoir",
+                 "Monographie intégrale : Saudeleur, archéologie, datations concurrentes et mémoire vivante.", "MICRONÉSIE"),
+                ("/bibliotheque-mythologies-du-monde/civilisations-rapa-nui-moai/",
+                 "Rapa Nui : ancêtres, moai et transformations sociales",
+                 "Étude distincte de la Polynésie orientale, sans assimilation culturelle.", "POLYNÉSIE"),
+            ]
+            present = [study for study in pacific_studies if study[0] in available]
+            if present:
+                related += section(
+                    "Parcours insulaires du Pacifique",
+                    "Comparer des sociétés différentes, sans supposer de filiation entre leurs monuments.",
+                    cards(present, "portal-grid-compact"))
         write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+related+section("Poursuivre l’exploration","",hub_cards)))
 
 def renovate_catalog(total):
