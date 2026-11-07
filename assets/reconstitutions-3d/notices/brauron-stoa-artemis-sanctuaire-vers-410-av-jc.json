@@ -49,5 +49,5 @@
     "Aristophane, Lysistrata, v. 641–647 : référence théâtrale aux étapes rituelles des jeunes Athéniennes ; ne décrit pas la stoa."
   ],
   "methodology": "Restitution de médiation bâtie à partir de l’identification du site, de la chronologie générale et de la typologie architecturale documentées ; composition et volumes non géoréférencés, interprétations distinguées des attestations ; les ailes non achevées de la stoa ne sont pas présentées comme un péristyle complet. Aucun texte, menu ou élément 2,5D dans l’image.",
-  "publication_status": "asset_prepared_locally_not_yet_committed_or_verified_public"
+  "publication_status": "git_pr_pending_review_and_https_validation"
 }
