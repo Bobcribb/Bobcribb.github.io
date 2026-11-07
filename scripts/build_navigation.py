@@ -1014,6 +1014,26 @@ def create_civilisations(entries, groups):
               ("/bibliotheque-mythologies-du-monde/mythos-volume-15-philippines-ifugao-hudhud/","Hudhud des Ifugao — Aliguyon et les chants du riz","Le texte intégral du volume historique XV, ses performances, ses variantes et ses sources.","TEXTE INTÉGRAL"),
               ("/bibliotheque-mythologies-du-monde/mythos-volume-19-la-galigo-bugis-sawerigading/","Sulawesi : La Galigo","Autre épopée insulaire conservée et étudiée à partir des sources et des témoins manuscrits.","ÉTUDE ASSOCIÉE")
             ],"portal-grid-compact"))
+        # Parcours régional fondé uniquement sur les URL réellement indexées.
+        # Śrīvijaya, Borobudur et Majapahit ne constituent pas une succession
+        # linéaire ; leurs chronologies se chevauchent et leurs centres diffèrent.
+        if key == "asie":
+            archipel = [
+              ("/bibliotheque-mythologies-du-monde/civilisations-srivijaya-sumatra/",
+               "Śrīvijaya : Sumatra et réseaux maritimes", "VIIe–XIIIe siècles · échanges et monastères", "SUMATRA"),
+              ("/bibliotheque-mythologies-du-monde/civilisations-sailendra-borobudur-java/",
+               "Śailendra : Borobudur et Java central", "VIIIe–IXe siècles · inscriptions, reliefs et bouddhisme", "JAVA CENTRAL"),
+              ("/bibliotheque-mythologies-du-monde/civilisations-majapahit-trowulan-java/",
+               "Majapahit : Trowulan et Java oriental", "XIIIe–XVIe siècles · institutions et héritages", "JAVA ORIENTAL"),
+            ]
+            indexed = {entry["url"] for entry in entries}
+            archipel = [entry for entry in archipel if entry[0] in indexed]
+            if archipel:
+                related += section(
+                  "Archipel indonésien : trois contextes historiques distincts",
+                  "Parcours de lecture contextualisé : les périodes se chevauchent et les royaumes ne forment pas une succession linéaire.",
+                  '<nav aria-label="Parcours historique de l’archipel indonésien">' +
+                  cards(archipel, "portal-grid-compact") + "</nav>")
         write("civilisations/"+key,shell(f"Civilisations — {name}",text_intro+section("Dossiers de ce continent",f"{len(docs)} études, classées par titre.",section_body)+related+section("Poursuivre l’exploration","",hub_cards)))
 
 def renovate_catalog(total):
