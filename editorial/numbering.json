@@ -1209,6 +1209,12 @@
           "path": "chapitres/origines-du-sacre/773-tumbe-pemba-village-commercial-perles-coquillages-sacralite-limites-archeologiques.md",
           "request_sha256": "831365b4a20f5757035dc46eee9c9bf1ea5f874f02b7bd5a38cb10dec85c31cd",
           "initial_source_sha256": "16d2d2fa019313786b81da61658a986eda298175a9b05734120192f6cf4d2db8"
+        },
+        "19cd5d83-6055-4f72-b1c0-79d5131dbde7": {
+          "number": 774,
+          "path": "chapitres/origines-du-sacre/774-kilwa-kisiwani-grande-mosquee-chroniques-souverainete-monnaies-patrimoine.md",
+          "request_sha256": "34337387dbc7435c7b28a550b457f90fd3067990a36fa42753b298a1c9a1e1a4",
+          "initial_source_sha256": "d64db1f977b3a0bbb46c8577cde35c939ab30dcbfa8fbc8b24f42f1a3f2678f0"
         }
       }
     },
@@ -2530,6 +2536,12 @@
           "path": "chapitres/comedies/volume-140-timokles-dionysiazousai-tragedie-consolation-athenee-stobee.md",
           "request_sha256": "6f0d578a7c49b132b84e7820328d0f4e61fb51a778945493bfa68ac0d838cd38",
           "initial_source_sha256": "1c93ccd59776d078b18bf5ad2d373bbfad8174320e6b77d28651f8afc5174429"
+        },
+        "0b3e0afd-7a1b-41c4-9e28-202611070621": {
+          "number": 141,
+          "path": "chapitres/comedies/volume-141-alexis-linos-heracles-bibliotheque-livres-cuisine-simos-paideia.md",
+          "request_sha256": "cac5d3356f9612b3e3f1b4f18262471e5f98d3678efd56ccd9ebaa762a7df5cd",
+          "initial_source_sha256": "6db19f35bf594a8e27f25d8521c2b68b861d287b28d2331a617a2925bc769952"
         }
       }
     },
@@ -3154,6 +3166,12 @@
           "path": "chapitres/tragedies/volume-cclxxxvii-ion-de-chios-eurytidai-fils-eurytos-iphitos-iole-oechalie.md",
           "request_sha256": "482263011ac7bcf71e0931722d0e97cee777d0c9c7290eed3f3291e881573907",
           "initial_source_sha256": "eaeff9582dcf36cc31dc697c98278ff41d21b9cd2595c14df2238b3bcef0c7a6"
+        },
+        "e2b8b549-17cd-4fe5-9bd6-202611070621": {
+          "number": 288,
+          "path": "chapitres/tragedies/volume-cclxxxviii-ion-de-chios-laertes-oikos-esclavage-portes-reconnaissance.md",
+          "request_sha256": "e8d0ac54dee6dc37aae1dc39dbcdf6995dd5da6d4dc241993d65e540544ef0b4",
+          "initial_source_sha256": "8c5d4725322358afd8117fe78dd0dd6a2e2e9c7cb6ce5d2dce50292f1ac3d327"
         }
       }
     },
@@ -4327,6 +4345,12 @@
           "path": "chapitres/comparatif/volume-cccxxxvi-paix-theoria-boule-prytanes-fete-corps-rite-421.md",
           "request_sha256": "4958f4742644e9fd27ae5b371496fdabf1c521ebc12cd9190dfc9638086a64fa",
           "initial_source_sha256": "ba544426c61a2be3cf54e435abd2cc415dd151a703fdd04c3f68bba3ef34427b"
+        },
+        "3bc7e8a2-51f0-4d9a-a4c5-8e7d2fa10436": {
+          "number": 337,
+          "path": "chapitres/comparatif/volume-cccxxxvii-paix-hierocles-bacis-oracles-sacrifice-autorite-publique-421.md",
+          "request_sha256": "530098507f57b23eac965b353d2eb89e29cc04812745d8b7978033fa6eb8ee42",
+          "initial_source_sha256": "1ac1703d09f85c31b3190cd7b5a102d086b94a5d2db0f63ec2637630e6e39828"
         }
       }
     }
