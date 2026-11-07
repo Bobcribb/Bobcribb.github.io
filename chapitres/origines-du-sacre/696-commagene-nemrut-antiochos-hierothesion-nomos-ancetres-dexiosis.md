@@ -193,3 +193,14 @@ Le sacré ne désigne pas ici une émotion immémoriale : il est le résultat pr
 ### Note d'intégrité éditoriale
 
 Le présent texte est autonome, à source primaire identifiable et à pagination historique non fabriquée. Les références de l'inscription **OGIS 383**, du site **UNESCO 448** et les dates anciennes sont fixes et ne doivent jamais être substituées par des marqueurs de numérotation éditoriale. Les mentions `696` et `DCXCVI` désignent uniquement la place que le système de publication attribuera à cette étude. Aucun nouveau chapitre numéroté n'est créé manuellement.
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 11
+
+**Monument et inscription.** [UNESCO, Nemrut Dağ, bien **448**, inscrit en **1987**](https://whc.unesco.org/fr/list/448/) : tumulus funéraire d'**Antiochos Ier de Commagène** (roi, **69–34 av. J.-C.**), terrasses avec statues colossales, reliefs de **dexiosis** (poignée de main entre roi et dieu) et galeries de généalogies paternelles perses / maternelles macédoniennes. Les dieux figurés associent **Zeus-Oromasdès** et **Héraclès-Artagnès** ; ces identifications relèvent du programme idéologique du sanctuaire et ne prouvent pas une généalogie royale biologique jusqu'à Darius ou Alexandre.
+
+**Texte épigraphique.** **OGIS 383**, texte grec du *nomos* cultuel, [transcription et repère dans la base Attalus](https://www.attalus.org/docs/ogis/s383.html) ; la section **lignes 24–34** sur les traditions perse et grecque est repérée par Rolf Strootman, « The heroic company of my forebears », dans *Seleukid Royal Women* (**2016**), p. **209–230**, et les **lignes 45–53** concernent les images divines et les ascendants représentés. **La collation des variantes entre les inscriptions des terrasses Est et Ouest est encore nécessaire** ; une édition anglaise de synthèse ne remplace pas un fac-similé grec.
+
+**Études internationales et française.** Philippa Adrych et al., « Syncretisms: Apollo-Mithras in Commagene », *Images of Mithra*, Oxford University Press, **2017**, p. **128–157**, DOI [10.1093/oso/9780198792536.003.0007](https://doi.org/10.1093/oso/9780198792536.003.0007), [résumé universitaire](https://academic.oup.com/book/6192/chapter-abstract/149796226) ; ouvrage non intégralement collationné. Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre* (Fayard, **1996**), **cadrage achéménide antérieur** au royaume de Commagène, **pas une monographie sur Antiochos**. Jacques Duchesne-Guillemin, « Iran and Greece in Commagene », *Études mithriaques* (**1978**), p. **187–199**, [référence universitaire](https://ub35.uni-tuebingen.de/Record/KEI00071638) : texte intégral non collationné. **UNESCO et éditeurs cités comme sources, sans caution institutionnelle de MYTHOS**.

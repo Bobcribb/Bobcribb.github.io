@@ -316,3 +316,14 @@ Levinas place la responsabilité envers autrui avant la souveraineté du sujet e
 
 
 **Suite proposée : volume XC — Paul Celan : poésie, témoignage, mémoire et altérité.**
+
+
+---
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 11
+
+**Édition originale et organisation de l'œuvre.** Emmanuel Levinas, *Totalité et Infini. Essai sur l'extériorité*, La Haye, **Martinus Nijhoff, 1961** ; [référence d'œuvre de la BnF](https://data.bnf.fr/fr/ark:/12148/cb162574098). La réflexion sur **le visage**, **l'altérité**, **l'éthique** et la responsabilité est une thèse philosophique de Levinas, non une description historique directe des visages peints ou des obligations juridiques de la Grèce ancienne. **Le texte entier de l'édition de 1961 et les paginations des passages internes n'ont pas été collationnés**.
+
+**Lecture française effectivement consultée.** Colette Sirat, compte rendu de *Totalité et Infini*, *Revue des études juives* **121/3–4 (1962)**, p. **468–469**, [notice et texte sur Persée](https://www.persee.fr/doc/rjuiv_0484-8616_1962_num_121_3_1431_t1_0468_0000_2). La recension identifie la succession thématique **« Le Même et l'Autre »**, **« Intériorité et Économie »**, **« Le visage et l'extériorité »** et **« Au-delà du visage »**. **Ces intitulés sont observés dans la recension, non reconstruits de mémoire**.
+
+**Protocole de comparaison.** La confrontation d'une éthique contemporaine avec les normes grecques d'hospitalité, de supplication ou de justice doit identifier séparément les sources antiques, leurs institutions et les analyses modernes. Nicole Loraux, *Les Enfants d'Athéna* (**1981**), peut servir de cadrage pour l'idéologie civique athénienne, **sans être présentée comme une réponse personnelle à Levinas**. Aucun avis d'un professeur ni approbation de MYTHOS ne sont prétendus.
