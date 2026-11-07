@@ -214,3 +214,13 @@ La question finale n'est pas de savoir qui a gagné Troie, mais qui doit vivre a
 - Catalogue bibliographique WorldCat : https://search.worldcat.org/
 
 **Index :** Théâtre grec > Tragédies > Euripide > *Andromaque*. **Renvois :** *Troyennes*, *Hécube*, Hector, Achille, Néoptolème, Hermione, Oreste, captivité, maternité, justice et vengeance. **Numéro propre à cette série : CLX (160).**
+
+---
+
+### Annexe scientifique documentaire — *Andromaque*, témoin dramatique et histoire du deuil (7 novembre 2026) — MYTHOS-SCI-20261107-L25-TRAG-ANDR
+
+**Témoin primaire contrôlé :** Euripide, *Andromaque* **v. 1–55**, particulièrement **v. 7–15** (mort d'Hector et d'Astyanax, captivité d'Andromaque et attribution à Néoptolème comme butin), puis **v. 24–25** (naissance d'un fils du maître). Texte grec édité par Gilbert Murray, *Euripidis Fabulae* (Oxford, 1902), version numérique de Perseus avec traduction anglaise d'E. P. Coleridge (1891), [présentation bilingue du passage et crédits de l'édition](https://www.greekmythology.com/sources/euripides/andromache/prologue-andromache). La localisation des vers est vérifiée ; aucune collation du manuscrit ou de l'apparat de Diggle n'a été effectuée ici.
+
+**Référence française de contextualisation :** Nicole Loraux, *Les Mères en deuil*, Paris, Seuil, **1990**, [notice bibliographique de la BnF](https://catalogue.bnf.fr/ark:/12148/cb353263813). L'ouvrage fournit un **cadre de recherche** sur la représentation tragique des mères et du deuil : la notice consultée atteste son existence et son champ, **non** une prise de position de l'historienne sur ces vers précis.
+
+**Évaluation des preuves :** **attesté dans le texte dramatique** : le récit autobiographique du personnage, sa servitude et la scène de refuge. **Non démontré par cette source** : le statut juridique réel et uniforme des captives troyennes, l'historicité d'Astyanax ou l'existence d'un autel correspondant à la géographie mythique de Phthie. La confrontation avec la *Troyenne* et l'*Iliade* doit tenir compte des variantes propres à chaque œuvre. Le texte intégral et les repères de vers antérieurs sont conservés ; cette annexe n'est ni un avis sollicité auprès de Loraux ni une expertise philologique externe.
