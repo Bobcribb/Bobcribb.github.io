@@ -1930,6 +1930,12 @@
           "path": "chapitres/encyclopedie/chapitre-472-apollon-aktios-actium-nicopolis-jeux-actia-trophee-auguste-sanctuaire.md",
           "request_sha256": "96cafd4854c686435dcee8d2117f184e16bc3aaae94acd184eb5a2eeefdb508c",
           "initial_source_sha256": "61f7d1553b01861c3b55a16bcaf03602403fb124400a46441a09af1f9cd1ef56"
+        },
+        "7aa3c930-6e17-4c61-9b7b-202611070331": {
+          "number": 473,
+          "path": "chapitres/encyclopedie/chapitre-473-aphrodite-erycine-eryx-sicile-elymes-astarte-venus-sanctuaire-guerres-puniques.md",
+          "request_sha256": "773e64b46d1094aa1492c990c0aed945159af749739202b10e17f12f5e4070c5",
+          "initial_source_sha256": "2810c8e77c4d01c8cd5495903d3e7487257997d37b3f61ad69f33eb08f8dbc9e"
         }
       }
     },
