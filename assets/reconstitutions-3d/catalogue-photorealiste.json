@@ -2,7 +2,7 @@
   "generated_at": "2026-11-07",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 95,
+  "count": 96,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -3175,6 +3175,53 @@
       ],
       "methodology": "Visuel numérique original généré avec une assistance par IA. Restitution de synthèse non métrique, non photogrammétrique et non validée par une institution scientifique. Aucun élément architectural inventé ne doit être exploité comme donnée d'archéologie du bâti. Absence de menus, titres, étiquettes, filigranes et schémas 2,5D dans les pixels.",
       "publication_status": "fichier_GitHub_en_attente_deploiement_public_https"
+    },
+    {
+      "id": "PAE-ATH-001",
+      "slug": "paestum-poseidonia-temple-athena-vers-500-av-jc",
+      "title": "Poseidonia–Paestum (Grande-Grèce) — temple d’Athéna, sanctuaire septentrional, vers 500 av. J.-C.",
+      "period": "Fin du VIe siècle av. J.-C., vers 500 av. J.-C. ; état monumental postérieur au premier édifice cultuel, vers 580 av. J.-C.",
+      "caption": "Vue numérique photoréaliste interprétative du temple d’Athéna sur la hauteur du sanctuaire nord de Poseidonia : péristyle dorique, pronaos ionique et scène votive hypothétique ; image non métrique.",
+      "commentary": "La cité grecque de Poseidonia, fondée en Italie méridionale vers 600 av. J.-C., aménagea son sanctuaire septentrional sur une légère hauteur artificielle. Le monument appelé « temple de Cérès » dans une tradition antiquaire est identifié aujourd’hui comme temple d’Athéna par le parc archéologique de Paestum et Velia. Le temple visible remonte à la fin du VIe siècle av. J.-C., vers 500, et succède à un édifice cultuel plus ancien, daté vers 580 av. J.-C., dont on conserve des fondations et des terres cuites architecturales. L’édifice se dresse sur un soubassement à trois degrés et possède un péristyle dorique de six colonnes sur les petits côtés et treize sur les côtés longs. Il présente un architrave lisse, une frise de triglyphes et de métopes, une corniche ou geison décorée et des éléments de sima ornés de palmettes, lotus et gargouilles à têtes de lion. Les éléments conservés révèlent un décor enduit et vivement polychrome. Une colonnade à chapiteaux ioniques précédait le pronaos, tandis que la cella était surélevée d’environ un mètre. Un autel associé au sanctuaire se trouvait à l’est. Des recherches de l’Université de Salerne, synthétisées par la région Campanie, précisent les phases anciennes du sanctuaire. L’image propose une évocation d’un temple achevé aux environs de 500 av. J.-C. ; elle ne confond pas ce bâtiment avec les deux temples d’Héra également conservés à Paestum. Elle ne reproduit pas un plan archéologique à l’échelle : le dessin figuré du fronton, les motifs des métopes, la hauteur de la toiture, les couleurs exactes, les costumes, les objets et le rite représenté à l’autel sont hypothétiques. Le rendu est une illustration contemporaine à apparence 3D, non un modèle géométrique validé, une photographie ancienne ou un relevé photogrammétrique. Les institutions citées documentent les vestiges et ne certifient pas cette image.",
+      "certainty": "ÉLEVÉ — localisation et culte d’Athéna ; temple d’environ 500 av. J.-C. succédant à une phase archaïque antérieure ; soubassement à trois marches ; péristyle dorique 6 × 13 ; présence d’éléments ioniques dans le pronaos ; traces de polychromie architecturale ; autel du sanctuaire. MOYEN — détails de la chronologie des réfections, restitution de l’accès, volumétrie de la couverture et relation exacte des structures secondaires. FAIBLE — figurations du fronton, décor sculpté des métopes, teintes précises, emplacement et forme de l’autel dans la scène, gestes rituels, personnages, végétation, paysage et lumière.",
+      "source_url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/",
+      "secondary_sources": [
+        "https://comune.capaccio.sa.it/vivere-il-comune/luoghi/il-tempio-di-atena/",
+        "https://cultura.regione.campania.it/en/web/archeologia/approfondimento?id=263930",
+        "https://parchipaestumvelia.cultura.gov.it/en/the-story-of-paestum/"
+      ],
+      "src": "/assets/reconstitutions-3d/paestum-poseidonia-temple-athena-vers-500-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/paestum-poseidonia-temple-athena-vers-500-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution visuelle numérique photoréaliste à apparence 3D, non métrique",
+      "provenance": "Création originale pour MYTHOS ; image WebP réelle, sans menu, texte, incrustation ni schéma 2,5D. Aucune validation institutionnelle revendiquée.",
+      "sha256": "b49b638af63fdd12409dd3708557e87974e5e48ba065f797a775ece5a8e8e556",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/paestum-poseidonia-temple-athena-vers-500-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parchi archeologici di Paestum e Velia — temple d’Athéna, datation, élévation et décor",
+          "url": "https://parchipaestumvelia.cultura.gov.it/en/scopri-i-parchi/archeological-area-of-paestum/"
+        },
+        {
+          "label": "Comune di Capaccio Paestum — Il Tempio di Atena, architecture et pronaos",
+          "url": "https://comune.capaccio.sa.it/vivere-il-comune/luoghi/il-tempio-di-atena/"
+        },
+        {
+          "label": "Regione Campania — recherches du sanctuaire septentrional et stratigraphie",
+          "url": "https://cultura.regione.campania.it/en/web/archeologia/approfondimento?id=263930"
+        },
+        {
+          "label": "Parchi archeologici di Paestum e Velia — histoire de Poseidonia et sanctuaire",
+          "url": "https://parchipaestumvelia.cultura.gov.it/en/the-story-of-paestum/"
+        }
+      ],
+      "primary_texts": [
+        "Le temple et le sanctuaire sont ici documentés par les vestiges et la stratigraphie ; aucun témoignage ancien direct n’est invoqué comme preuve de son décor."
+      ],
+      "methodology": "Image à vocation illustrative et non métrique : les éléments sculptés, rituels, couleurs et paysages non attestés sont signalés comme hypothétiques.",
+      "publication_status": "fichier_depose_sur_branche_GitHub_deploiement_https_non_verifie"
     }
   ]
 }
