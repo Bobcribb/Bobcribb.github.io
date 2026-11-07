@@ -145,3 +145,12 @@ Après Delphes et Verrès, ce dossier déplace la perspective de la plainte vers
 13. **Durkheim, Émile** (1912), *Les Formes élémentaires de la vie religieuse* ; **Nietzsche, Friedrich** (1887), *Zur Genealogie der Moral*, II ; **Hegel, G. W. F.** (1821), *Grundlinien der Philosophie des Rechts* ; **Girard, René** (1972), *La Violence et le Sacré* ; **Eliade, Mircea** (1957), *Le Sacré et le Profane*.
 
 *Références archéologiques proposées pour l'iconographie : cylindre de Cyrus, British Museum, inventaire 90920 ; cartes de la Babylonie achéménide fondées sur atlas historiques universitaires ; documents textuels sur fond neutre. Aucun objet ne doit être présenté comme un vase restitué de Jérusalem en l'absence d'identification archéologique.*
+
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Objet vérifié :** cylindre de Cyrus, British Museum **90920**, inscription royale akkadienne produite après la prise de Babylone en **539 av. J.-C.**, présentée par le [Metropolitan Museum of Art, exposition du 20 juin au 4 août 2013](https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder). Le Met identifie sa fonction de dépôt de fondation, la restauration de sanctuaires et le retour d'images divines ; **Jérusalem n'est pas nommée dans le cylindre**. Ne pas assimiler cet objet à une charte moderne des droits humains.
+
+**Textes à confronter :** cylindre de Cyrus, env. l. 30–33 (renvoi à collationner sur édition akkadienne) ; *Esdras* 1,7–11 (liste biblique des objets du Temple, relevant d'un autre corpus et d'une transmission différente). Le rapprochement est historique et critique, **pas** une vérification archéologique directe de chaque restitution biblique.
+
+**Recherche française :** Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre* (Fayard, 1996), contexte achéménide (ouvrage non consulté intégralement) ; Dominique Charpin pour la critique des pratiques documentaires mésopotamiennes (référence de cadrage). Le [Met, notice des œuvres exposées](https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder/works-on-view) distingue le cylindre 90920 des fragments de tablette BM 47134 et BM 47176.
