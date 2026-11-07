@@ -1966,6 +1966,12 @@
           "path": "chapitres/encyclopedie/chapitre-474-artemis-alpheiaia-letrinoi-alpheios-arethuse-olympie-peintures-cleanthe.md",
           "request_sha256": "5e9978f17d3eb99120a35f5ba8f715df83709508ad8faf0ff1b29fddb140b135",
           "initial_source_sha256": "c84abf6a35d75b4f2912d4ed3c668b8a8ce7b6eed57bb5967146303692a55e5c"
+        },
+        "8e4b732a-7c51-49fe-a970-08da9e43cd56": {
+          "number": 475,
+          "path": "chapitres/encyclopedie/chapitre-475-hera-argiva-foce-sele-poseidonia-jason-argonautes-metopes-votifs-frontiere.md",
+          "request_sha256": "4c92fa951489f0b153218d6773888f9ddc87abd384b4291bd219be628df9c872",
+          "initial_source_sha256": "0ff5bf3e618ea974ede6fbd63946ea147315df5791f06af05ba1ea1b4bea5bbd"
         }
       }
     },
