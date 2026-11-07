@@ -2,6 +2,8 @@
 
 ## MC-100 — Les mains du divin : créer, saisir, écrire, guérir et protéger, de l’Égypte d’Aton à l’Inde bouddhique
 
+**Concordance scientifique — étude complémentaire.** Voir [MC-134 — *Les mains du sacré*, volume CCCLXI (361)](/chapitres/comparatif/volume-ccclxi-mc-134-mains-du-sacre-gestes-priere-investiture-dexiosis-mudra-kotosh/) pour les **gestes humains et leurs images** : prière, *dexiosis* funéraire, concorde civique, investiture sassanide, *mudrā* et mains croisées de Kotosh. La présente étude **MC-100** porte d'abord sur **l'action attribuée aux divinités** : rayons maniformes de l'Aton, maladie imputée à une « main » divine, intervention d'Athéna et récits de guérison. Les deux dossiers recoupent l'iconographie amarnienne et certains gestes bouddhiques, sans être des doublons intégraux. [Concordance de relecture MYTHOS](https://github.com/Bobcribb/Bobcribb.github.io/issues/260).
+
 *Monographie universitaire de religions comparées, philologie, archéologie des images, histoire de la médecine et philosophie de l’action. Corpus principal : Égypte du Nouvel Empire ; Mésopotamie savante du Ier millénaire avant notre ère ; Bible hébraïque ; poésie homérique et sanctuaire d’Asclépios à Épidaure ; hymnes védiques et iconographie bouddhique. État du dossier : 6 novembre 2026.*
 
 ### Résumé et proposition
