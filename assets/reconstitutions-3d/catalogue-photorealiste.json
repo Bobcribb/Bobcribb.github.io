@@ -2,7 +2,7 @@
   "generated_at": "2026-11-06",
   "site": "bobmythos.fr",
   "method": "Illustrations photoréalistes interprétatives, textes et sources hors des pixels.",
-  "count": 88,
+  "count": 89,
   "entries": [
     {
       "id": "DEL-PAN-001",
@@ -2809,6 +2809,58 @@
       ],
       "methodology": "Évocation archéologique argumentée à partir des plateformes et de la rampe attestées ; aucun relevé métrique ni reconstitution validée ; restitution hypothétique d’un petit édifice sommital.",
       "publication_status": "branch_committed_pending_https_verification"
+    },
+    {
+      "id": "HER-MIN-THE-001",
+      "slug": "sicile-heraclea-minoa-theatre-hellenistique-vers-320-av-jc",
+      "title": "Héracléa Minoa (Sicile grecque) — théâtre hellénistique du Capo Bianco, vers 320 av. J.-C.",
+      "period": "Fin de l’époque classique / début de l’époque hellénistique, IVe siècle av. J.-C. ; évocation conventionnelle vers 320 av. J.-C.",
+      "caption": "Évocation 3D photoréaliste non métrique du théâtre grec d’Héracléa Minoa, de son koilon et de son orchestra, avec un dispositif de scène en bois purement hypothétique.",
+      "commentary": "Le théâtre d’Héracléa Minoa (Ἡράκλεια Μινῴα, Eraclea Minoa), cité grecque de la côte sud-ouest de la Sicile, s’inscrit dans une dépression de terrain à proximité du promontoire calcaire du Capo Bianco, dominant la Méditerranée. L’organisme régional chargé du parc archéologique de la Vallée des Temples le date du IVe siècle avant notre ère ; les études architecturales proposent un horizon autour de 320 av. J.-C. pour sa construction. Cette date constitue un repère scientifique pour une évocation, non la preuve que l’édifice représenté avait exactement cette apparence en 320. La cavea (κοῖλον, espace des spectateurs) prend appui sur une colline naturelle et se développe en forme de demi-cercle légèrement prolongé. Les descriptions des vestiges mentionnent neuf secteurs (κερκίδες, kerkides) séparés par des escaliers rayonnants, une partie inférieure avec dix rangées de sièges et une largeur totale du gradinage d’environ 50,6 m. L’orchestra, espace du chœur, mesure environ 16,7 m ; un canal de drainage ou euripos courait autour de son bord. Les premières places, identifiées à la proédrie, étaient traitées pour les spectateurs privilégiés. Ces indications concernent les parties étudiées et conservées ; on ne peut déduire des seules ruines une jauge précise, ni l’intégralité d’éventuelles installations disparues. Les blocs de la cavea sont en marne locale, matériau clair mais vulnérable à l’érosion : la pierre géologique représentée sur l’image est une approximation visuelle et non le rendu de l’état minéralogique d’un bloc relevé. La pente, la proximité de la mer et l’ouverture du monument vers le paysage sont documentées. Les photographies des vestiges sont toutefois celles d’un édifice érodé, partiellement fouillé, protégé à l’époque contemporaine contre la pluie et le vent ; aucune toiture moderne de protection ne doit apparaître dans une image située dans l’Antiquité. Le bâtiment de scène (σκηνή, skènè) ne subsiste pas en élévation. Dix cavités ou trous de poteau ont été associés par la recherche à une possible structure de scène en bois. Le petit dispositif provisoire en bois et étoffes montré ici propose une solution de visualisation ; ni ses dimensions, ni sa couverture, ni ses rideaux, ni sa localisation précise ne sont archéologiquement démontrés. Les sources ne permettent pas d’affirmer que ces accessoires ou cette scénographie étaient effectivement en place lors d’une représentation spécifique. Le nombre de personnages, leurs vêtements, l’activité figurée et la végétation sont fictifs. Cette image ne constitue pas une maquette cotée du théâtre. La répartition des gradins qu’on y voit est stylisée : elle ne doit notamment pas être prise pour un comptage exact des dix rangées documentées dans la cavea inférieure, ni pour une restitution de l’ensemble des neuf kerkides. Le photoréalisme restitue un effet de présence, non la certitude archéologique. Une représentation théâtrale est choisie pour expliquer la relation fonctionnelle entre koilon, orchestra et bâtiment de scène ; elle ne documente aucun spectacle précis ni aucune tradition scénique propre à Héracléa Minoa. Le parc archéologique précise que l’emplacement de la scène a été occupé par des constructions domestiques au IIe siècle av. J.-C., lorsque le théâtre était probablement déjà abandonné. La vue sélectionne donc intentionnellement une phase antérieure à cette occupation tardive et ne juxtapose pas les aménagements de périodes différentes. Le relevé archéologique publié, notamment les études d’Ernesto De Miro sur le théâtre (1966), demeure la référence pour toute restitution quantitative. La présente production est une création numérique originale générée par IA pour la médiation savante de MYTHOS, sans copie d’une maquette existante et sans validation de l’autorité patrimoniale. Les références et les incertitudes figurent dans la notice et non dans l’image ; aucun texte, menu ni schéma 2,5D n’est incrusté.",
+      "certainty": "Élevé — existence du théâtre grec à Héracléa Minoa, situation sur un versant côtier, datation générale au IVe siècle av. J.-C., gradins en marne, division des parties conservées en neuf kerkides, orchestra et drainage périphérique, places de proédrie. Moyen — chronologie située autour de 320 av. J.-C. selon les études du théâtre ; disposition générale du théâtre par rapport à la pente, présence possible d’un dispositif de scène en bois inférée des trous de poteau. Faible — nombre visuellement figuré de gradins, géométrie métrique du dessin numérique, dimensions et élévation de la scène, charpente et rideaux, détails de l’orchestra, places des spectateurs, costumes, arbre au premier plan, atmosphère, coloris et occupation d’un jour particulier.",
+      "source_url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/en/siti-archeologici/area-archeologica-antiquarium-e-teatro-eraclea-minoa/",
+      "secondary_sources": [
+        "https://www.theatrum.de/1072.html",
+        "https://altair4multimedia.it/modelli/teatro-di-heraclea-minoa/",
+        "https://ancienttheatrearchive.com/theatre/heraclea-minoa-modern-eraclea-minoa/",
+        "https://parchiarcheologici.regione.sicilia.it/musei/mume/en/nuova-copertura-per-il-teatro-di-eraclea-minoa/"
+      ],
+      "src": "/assets/reconstitutions-3d/sicile-heraclea-minoa-theatre-hellenistique-vers-320-av-jc.webp",
+      "image": "/assets/reconstitutions-3d/sicile-heraclea-minoa-theatre-hellenistique-vers-320-av-jc.webp",
+      "width": 1672,
+      "height": 941,
+      "created_at": "2026-11-07",
+      "type": "reconstitution numérique 3D photoréaliste interprétative, non métrique",
+      "provenance": "Image originale générée par IA pour MYTHOS ; sans copie de relevé, sans validation institutionnelle, sans texte ni menu incrusté.",
+      "sha256": "b72ab10fa44fc1eef07fec5f7a649c583720083b16b606de8fb2549df771cac0",
+      "scientific_notice": "/assets/reconstitutions-3d/notices/sicile-heraclea-minoa-theatre-hellenistique-vers-320-av-jc.json",
+      "scientific_sources": [
+        {
+          "label": "Parc archéologique de la Vallée des Temples — présentation institutionnelle du théâtre d’Eraclea Minoa",
+          "url": "https://parchiarcheologici.regione.sicilia.it/valle-templi/en/siti-archeologici/area-archeologica-antiquarium-e-teatro-eraclea-minoa/"
+        },
+        {
+          "label": "Theatrum — HERAKLEIA MINOA : relevés et bibliographie du théâtre grec",
+          "url": "https://www.theatrum.de/1072.html"
+        },
+        {
+          "label": "Ernesto De Miro, Il teatro di Eraclea Minoa, Rendiconti dell’Accademia dei Lincei, XXI (1966) — référence bibliographique décrite par Altair4",
+          "url": "https://altair4multimedia.it/modelli/teatro-di-heraclea-minoa/"
+        },
+        {
+          "label": "The Ancient Theatre Archive — Heraclea Minoa, fiche descriptive, dimensions et chronologie",
+          "url": "https://ancienttheatrearchive.com/theatre/heraclea-minoa-modern-eraclea-minoa/"
+        },
+        {
+          "label": "Parc archéologique de la Vallée des Temples — préservation de la structure, choix de protection contre l’érosion",
+          "url": "https://parchiarcheologici.regione.sicilia.it/musei/mume/en/nuova-copertura-per-il-teatro-di-eraclea-minoa/"
+        }
+      ],
+      "primary_texts": [
+        "Aucun témoignage antique connu ne décrit avec précision l’élévation du bâtiment de scène de cette phase. L’attribution et la géométrie reposent sur l’archéologie, non sur une source littéraire décrivant cette image.",
+        "Vitruve, De architectura V : traité romain postérieur pour comparaison typologique, non preuve de la forme du théâtre en 320 av. J.-C."
+      ],
+      "methodology": "Inférence archéologique qualitative à partir des vestiges et publications ; distinction de l’attesté, du plausible et du fictif. Aucun modèle coté ni plan géoréférencé n’a été utilisé ; image non adaptée à la recherche dimensionnelle."
     }
   ]
 }
