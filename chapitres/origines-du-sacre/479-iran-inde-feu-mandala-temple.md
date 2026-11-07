@@ -35,3 +35,15 @@ Iran et Inde montrent des manières distinctes de rendre un lieu apte au rite : 
 **Bibliographie vérifiée :** Mary Boyce, « On the Sacred Fires of the Zoroastrians », *Bulletin of the School of Oriental and African Studies* 31/1 (1968), p. 52–68, DOI 10.1017/S0041977X00112789; Stella Kramrisch, *The Hindu Temple* (1946); Michael W. Meister, « Maṇḍala and Practice in Nāgara Architecture in North India », *Journal of the American Oriental Society* 99/2 (1979); George Michell, *The Hindu Temple: An Introduction to Its Meaning and Forms* (1977).
 
 **Référence consultable :** https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/on-the-sacred-fires-of-the-zoroastrians/CA61E5A45737E3AD571BBEF8925FDC58 .
+
+
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_DEBUT -->
+### Note documentaire vérifiée — 7 novembre 2026, lot 07
+**Iran :** l'article « Ātaš » de l'*Encyclopaedia Iranica* (Mary Boyce) distingue les feux domestiques, les catégories rituelles ultérieures et les limites de la documentation achéménide : il indique explicitement que **les catégories de feux sacrés ne sont pas documentées directement pour la période achéménide**. Source consultée : https://www.iranicaonline.org/articles/atas-fire/ . Complément critique : Mary Boyce, « On the Sacred Fires of the Zoroastrians », *BSOAS* 31/1 (1968), p. 52–68, DOI **10.1017/S0041977X00112789** ; article identifié, texte intégral non collationné.
+
+**Histoire politique française :** Pierre Briant, *Histoire de l'Empire perse : de Cyrus à Alexandre*, Fayard, **12 juin 1996**, notice d'éditeur : https://www.fayard.fr/livre/histoire-de-lempire-perse-9782213596679/ . Il fournit le cadre de l'empire achéménide, **non** une preuve qu'un temple du feu sassanide aurait déjà la même forme au VIe siècle av. n. è.
+
+**Inde :** les traités architecturaux cités dans le chapitre exigent chacun une datation et une édition sans présumer une transmission irano-indienne de la géométrie des sanctuaires. **Niveaux :** attesté = textes zoroastriens et notices bibliographiques ; inféré = chronologie architecturale ; hypothétique = origine commune de plans de temples.
+
+**Statut :** annotation en PR brouillon ; aucune collation intégrale des ouvrages sous accès restreint, aucune expertise externe ni publication publique attestée. Cette bibliographie n'implique aucune approbation de MYTHOS par les auteurs ou institutions cités.
+<!-- MYTHOS_REVUE_SCIENTIFIQUE_LOT07_2026-11-07_FIN -->
