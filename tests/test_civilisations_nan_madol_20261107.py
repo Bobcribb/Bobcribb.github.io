@@ -23,6 +23,7 @@ class NanMadolTests(TestCase):
         self.assertGreaterEqual(len(article.select("ol.source-list > li")), 12)
         self.assertEqual(len(article.select('nav[aria-label="Fil d\'Ariane"]')), 1)
         self.assertTrue(article.select_one('a.mythos-skip[href="#contenu"]'))
+        self.assertTrue(article.select_one('details.mythos-menu nav[aria-label="Rubriques sur mobile"]'))
         self.assertTrue(article.select_one('link[rel="canonical"]'))
         self.assertTrue(article.select_one('img[alt][loading="lazy"]'))
         credits = article.select_one("figure figcaption").get_text(" ", strip=True)
