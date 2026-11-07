@@ -245,3 +245,11 @@ La question ranciérienne n'est pas seulement de savoir qui gouverne, mais comme
 - Présentation secondaire des concepts de Rancière : https://philopedia.org/thinkers/jacques-ranciere/ (à confronter aux ouvrages originaux).
 
 **Note de rigueur :** les renvois anciens indiquent des lieux textuels identifiables, mais les interprétations philosophiques ne sont pas attribuées aux auteurs anciens. Les références modernes sont bibliographiques et ne constituent pas des citations verbatim.
+
+### Annexe critique datée — 7 novembre 2026 — revue scientifique MYTHOS, lot 09
+
+**Bibliographie française contrôlée :** Jacques Rancière, *La Mésentente. Politique et philosophie*, Paris, Galilée, **1995**, 187 p., [BnF, notice cb35773051b](https://catalogue.bnf.fr/ark:/12148/cb35773051b). Ne pas confondre cette première édition avec la **réédition La Fabrique du 22 août 2025**, ISBN **9782358723039**, enrichie d'une postface inédite de l'auteur, [notice de l'éditeur](https://lafabrique.fr/la-mesentente/). Descriptions et métadonnées ont été consultées ; **aucun numéro de page intérieur n'est imputé à l'œuvre sans collation**.
+
+**Texte antique vérifié :** Aristote, *Politique* I, 2, **1253a 9–18** environ : distinction entre la voix (*phōnē*) et la parole (*logos*) et association politique, dans le [texte traduit Perseus, 1252a–1254a](https://atlas.perseus.tufts.edu/library/passage/urn:cts:greekLit:tlg0086.tlg035.perseus-eng2:1.1252a-1.1254a/). La conceptualisation de la « part des sans-part » est une intervention philosophique de Rancière, non le contenu littéral d'Aristote.
+
+**Limite historiographique :** la comparaison avec les exclusions de la citoyenneté grecque ne doit pas effacer les statuts historiques différenciés. Nicole Loraux, *Les Enfants d'Athéna* (1981), reste une référence générale sur les fictions civiques athéniennes, **passages précis non collationnés**. Aucune caution personnelle de Rancière ou Loraux n'est revendiquée.
