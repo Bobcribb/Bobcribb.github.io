@@ -1,0 +1,56 @@
+{
+  "id": "ATH-LYS-001",
+  "slug": "athenes-monument-choregique-lysicrate-vers-334-av-jc",
+  "title": "Athènes — monument chorégique de Lysicrate, rue des Trépieds, 335/334 av. J.-C.",
+  "period": "Athènes classique, 335/334 av. J.-C., sous l'archontat d'Euainétos ; monument de victoire chorégique du dithyrambe des garçons.",
+  "image": "/assets/reconstitutions-3d/athenes-monument-choregique-lysicrate-vers-334-av-jc.webp",
+  "caption": "Vue photoréaliste contemporaine du monument de Lysicrate : socle quadrangulaire, cylindre à six colonnes corinthiennes et trépied de bronze restitué. Environnement urbain et couronnement hypothétiques.",
+  "commentary": "Sur la voie athénienne des Trépieds (hodòs Tripódōn), qui desservait le quartier méridional de l'Acropole et conduisait vers le théâtre de Dionysos, le monument dit de Lysicrate constitue un rare exemple préservé d'architecture chorégique classique. Il commémore une victoire au concours de dithyrambe des garçons, lors des Grandes Dionysies, sous l'archontat d'Euainétos, en 335/334 av. J.-C. La datation ne résulte pas d'un style reconstruit au hasard : elle est appuyée par l'inscription dédicatoire conservée sur l'architrave (IG II³ 4, 460), où figurent notamment Lysicrate du dème de Kikynna, la tribu Akamantis, l'aulète Théon et l'instructeur de chœur Lysiade. Il ne faut donc pas attribuer l'édifice à la victoire d'une tragédie précise ou à un poète dramatique non attesté.\n\nLa chorégie faisait supporter à un citoyen fortuné une partie des frais de recrutement, d'entraînement et de présentation du chœur dans les concours civiques. Le prix remis au chorège victorieux était un trépied, fréquemment consacré sur une base le long de cette voie. À la différence d'un temple dédié à Dionysos, le monument de Lysicrate est un support commémoratif de trépied ; sa proximité avec le théâtre et son programme figuré le lient à la culture civique des fêtes dionysiaques. Le commentaire d'Attic Inscriptions Online et l'étude d'Amandry documentent ce mécanisme de dépense liturgique, de dédicace publique et de visibilité des élites dans la cité.\n\nL'édifice est composé d'un haut socle quadrangulaire en pierre, surmonté d'une partie circulaire en marbre scandée par six colonnes corinthiennes engagées, avec des panneaux entre les fûts. Les recherches y identifient une des premières attestations majeures d'emploi extérieur de l'ordre corinthien dans l'architecture grecque conservée. Les marbres clairs et gris appartiennent au monument actuel, mais la colorimétrie antique de la maçonnerie, le traitement des joints, les enduits éventuels et la vivacité originelle de certains détails ne peuvent être déduits de cette illustration. Une frise sculptée se développe au-dessus du fût cylindrique, tandis qu'un couronnement ornementé de feuilles d'acanthe servait de support au trépied de bronze perdu.\n\nLa frise raconte l'affrontement de Dionysos avec des pirates tyrrhéniens, associés au motif de leur métamorphose en dauphins, selon une iconographie adaptée au langage d'un monument de victoire musicale. Les moulages, conservés et étudiés à Cambridge, donnent accès à des détails de relief qui ne sont plus également lisibles sur toutes les surfaces exposées depuis l'Antiquité. L'image produite pour MYTHOS évoque une bande narrative mais n'est pas une restitution pierre par pierre des figures, de leurs costumes, de leur nombre ni de leur disposition ; une partie de la scène y est volontairement simplifiée et agrandie à l'échelle visuelle. La concordance exacte du sujet du dithyrambe victorieux avec toutes les scènes figurées reste une question d'interprétation plutôt qu'une transcription du texte joué, aujourd'hui perdu.\n\nLe trépied installé au sommet est connu comme l'objet de la dédicace, mais l'original n'est pas conservé. Sa hauteur, les courbures de ses pieds, le diamètre de sa vasque et son système d'ancrage ne sont pas établis par le rendu. La scène choisit une silhouette en bronze plausible afin d'exprimer la fonction chorégique, sans affirmer retrouver une pièce archéologique précise. De même, la masse des maisons, la pente de la voie, les clôtures, les jardins, le réseau des rues et la vue simultanée de l'Acropole relèvent d'une composition artistique ; aucun de ces détails ne doit servir à reconstituer le cadastre de l'Athènes de 334 av. J.-C.\n\nAprès l'Antiquité, le monument a traversé des usages et interventions qui expliquent en partie son exceptionnel état de conservation. Les relevés et moulages des XVIIIe et XIXe siècles ont joué un rôle majeur dans sa connaissance et dans la réception moderne de l'ordre corinthien. Ce temps long distingue radicalement la construction de 335/334 av. J.-C., les surfaces visibles aujourd'hui et la présente restitution numérique : les figures et les éléments décoratifs observables ne sont pas tous dans un état identique à leur finition antique.\n\nMéthode : les éléments assurés (implantation générale, dédicace épigraphique, socle, cylindre à six colonnes corinthiennes et frise dionysiaque) fournissent un noyau documentaire. Les volumes et matériaux du monument s'appuient sur les vestiges et les études citées. Toute la scène urbaine, l'apparence du trépied disparu, les finitions, les figurines, l'angle de vue et la lumière ont été inventés à des fins d'évocation. Le visuel est une image photoréaliste générée numériquement, non un modèle 3D métrique, non une hypothèse validée par le ministère grec ou par les chercheurs cités. Les sources documentent le monument, pas les pixels.",
+  "certainty": {
+    "high": "Dédicace de Lysicrate sous l'archontat d'Euainétos en 335/334 av. J.-C. (IG II³ 4, 460) ; victoire chorégique au dithyrambe des garçons, tribu Akamantis ; monument circulaire sur base quadrangulaire ; six colonnes corinthiennes engagées ; programme sculpté relatif à Dionysos et aux pirates tyrrhéniens ; existence originelle du trépied de récompense.",
+    "medium": "Morphologie restituée du couronnement, gabarit d'ensemble, aspect général des surfaces marbrières à l'état neuf et interprétation précise de certains détails de la frise ; position relative du monument dans la rue des Trépieds et lien avec les autres dédicaces.",
+    "low": "Dimensions et forme exactes du trépied de bronze aujourd'hui disparu ; polychromie originelle, fidélité de la frise générée, largeur réelle de la rue, façades et couvertures voisines, végétation, costumes, personnages, perspective et lumière du jour figurés."
+  },
+  "sources": [
+    {
+      "label": "Ministère hellénique de la Culture, portail Ancient Theater — Χορηγικό μνημείο του Λυσικράτη (date, six colonnes, inscription et relief)",
+      "url": "https://ancienttheater.culture.gr/el/mouseia-ekthemata-tekmiria/anazitisi-ekthematwn/item/278-xorigiko-mnimeio-lusikrati"
+    },
+    {
+      "label": "Attic Inscriptions Online — IG II³ 4, 460 : inscription du monument de Lysicrate, 335/4 av. J.-C. et commentaire épigraphique",
+      "url": "https://www.atticinscriptions.com/inscription/IGII34/460"
+    },
+    {
+      "label": "Museum of Classical Archaeology, University of Cambridge — Choregic Monument of Lysikrates, Frieze",
+      "url": "https://museum.classics.cam.ac.uk/collections/casts/choregic-monumuent-lysikrates-frieze"
+    },
+    {
+      "label": "P. Amandry, « Trépieds d'Athènes : I. Dionysies », Bulletin de correspondance hellénique 100, 1976, Persée",
+      "url": "https://www.persee.fr/doc/bch_0007-4217_1976_num_100_1_2033"
+    },
+    {
+      "label": "University of Notre Dame, Marble — Choragic Monument of Lysikrates, documentation architecturale",
+      "url": "https://marble.nd.edu/item/aac3c5b2-667f-4fe4-9f5a-8befe0d6f064"
+    }
+  ],
+  "source_url": "https://ancienttheater.culture.gr/el/mouseia-ekthemata-tekmiria/anazitisi-ekthematwn/item/278-xorigiko-mnimeio-lusikrati",
+  "secondary_sources": [
+    "https://www.atticinscriptions.com/inscription/IGII34/460",
+    "https://museum.classics.cam.ac.uk/collections/casts/choregic-monumuent-lysikrates-frieze",
+    "https://www.persee.fr/doc/bch_0007-4217_1976_num_100_1_2033",
+    "https://marble.nd.edu/item/aac3c5b2-667f-4fe4-9f5a-8befe0d6f064"
+  ],
+  "primary_texts": [
+    "Inscription attique IG II³ 4, 460 (texte et commentaire épigraphique) : commémoration d'une victoire chorégique en 335/334 av. J.-C.",
+    "Pausanias, Description de la Grèce I, 20, 1 : témoignage postérieur sur la rue des Trépieds d'Athènes, à ne pas confondre avec une description de la restitution."
+  ],
+  "methodology": "Modélisation d'ambiance visuelle assistée par génération d'image, non relevée métriquement. Ne pas utiliser pour déduire des dimensions, des rapports de distance ni le dessin exact du trépied ou des reliefs. Aucune institution citée n'a réalisé ou approuvé l'image.",
+  "rights_and_method": "Création visuelle originale pour MYTHOS ; aucun photomontage de ruines, texte ni schéma 2,5D ; restitution interprétative non métrique et non validée institutionnellement.",
+  "publication_status": "source_deposee_sur_branche_GitHub; verification_publique_en_attente",
+  "width": 1672,
+  "height": 941,
+  "sha256": "a9f53042fe9527e814b4357cee70f6fff077df419ccccf596f78ba568b0bf593",
+  "created_at": "2026-11-07",
+  "type": "reconstitution numérique photoréaliste interprétative à apparence 3D, non métrique",
+  "provenance": "Image originale MYTHOS générée et convertie en vrai WebP ; aucune inscription, menu ni texte incrusté dans les pixels ; les sources n'approuvent pas le rendu."
+}
