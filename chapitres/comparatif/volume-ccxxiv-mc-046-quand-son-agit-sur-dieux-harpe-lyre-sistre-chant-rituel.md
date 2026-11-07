@@ -518,3 +518,13 @@ L'analogie la plus robuste est donc modeste : **un son accompli selon une règle
 | La musique est une opération de présence sociale et d'adresse | P | proposition interprétative, non fait universel antique |
 
 *Fin de la monographie MC-046. Le numéro canonique reste soumis à la procédure concurrente d'attribution. Manuscrit complet, public et original ; aucune version 2,5D ni illustration générée n'a été intégrée.*
+
+---
+
+### Note éditoriale documentaire — Sylvie Cauville, Dendara et la musique des sistres (7 novembre 2026)
+
+**Publication épigraphique française.** Sylvie Cauville, *Dendara. La Porte d'Hathor*, collection « Temples Dendara », **15.5**, Le Caire, Institut français d'archéologie orientale (**Ifao**), **2021**, 136 p., ISBN **9782724707762** ([catalogue officiel de l'Ifao](https://www.ifao.egnet.net/publications/catalogue/9782724707762/)). L'ouvrage présente l'édition des inscriptions hiéroglyphiques et la documentation photographique de la porte d'Hathor à Dendara, édifiée sous Domitien et Trajan (81–117 apr. J.-C.). Le catalogue signale, parmi les rites associés, un **apaisement par la musique des sistres**. L'Ifao publie également le volume complémentaire **15.6**, *Dendara. La Porte d'Hathor. Commentaire – Traduction*, ISBN 9782724708394 ([notice de l'Ifao](https://www.ifao.egnet.net/publications/catalogue/9782724708394/)).
+
+**Application à MC-046.** Il existe ici un dossier **localisé, daté et inscrit** de pratique sonore religieuse ; il permet de rattacher un rite au domaine d'Hathor, plutôt que d'affirmer abstraitement que toutes les religions égyptiennes attribuaient au sistre une fonction identique. L'information relative à la porte concerne la **période impériale romaine**, et ne saurait être projetée sans argument sur les rites de l'Ancien ou du Nouvel Empire. L'étude doit distinguer description des scènes, libellés hiéroglyphiques, instruments conservés et reconstitution sonore.
+
+**Réserve :** la mention d'un rituel d'apaisement ne donne ni le rythme exact, ni la durée, ni les paramètres acoustiques précis de la performance. Une comparaison avec les lyres d'Ur ou les hymnes grecs est une construction analytique qui ne prouve pas une tradition musicale commune. Les références de l'Ifao établissent l'existence des éditions et des inscriptions, **pas une validation de MYTHOS par Sylvie Cauville ou l'institut**.
