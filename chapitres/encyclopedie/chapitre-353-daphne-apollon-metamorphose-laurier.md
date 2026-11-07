@@ -166,3 +166,15 @@ La beauté de Daphné déclenche chez Apollon un désir dont le récit montre le
 **Index :** Daphné ; Apollon ; Cupidon ; Éros ; Pénée ; Leucippos ; Pausanias ; Ovide ; *Métamorphoses* ; laurier ; *daphnê* ; nymphe ; Artémis ; virginité ; poursuite ; consentement ; métamorphose ; Syrinx ; Pan ; Hyacinthe ; Pythia ; Delphes ; Bernin ; iconographie.  
 **Chemin unique :** `chapitres/encyclopedie/chapitre-353-daphne-apollon-metamorphose-laurier.md`.  
 **Suite proposée :** chapitre 354, volume CXXXVI — *Hyacinthe et Apollon : mort du jeune héros, fleur mémorielle et cultes d'Amyclées*. Vérifier le dernier fichier réel avant création.
+
+---
+
+### Note éditoriale documentaire — deux récits antiques de Daphné (7 novembre 2026)
+
+**Passages consultés.** Ovide, *Métamorphoses*, I, v. 452–566, raconte les deux flèches de Cupidon, la poursuite de Daphné, la transformation végétale et la consécration du laurier par Apollon ; il inscrit aussi l'arbre dans le langage de la Rome augustéenne (v. 553–566). [Texte de référence avec traduction anglaise de Brookes More (1922)](https://www.theoi.com/Text/OvidMetamorphoses1.html). Pausanias, *Description de la Grèce*, VIII, 20, 2–4, conserve une autre tradition : Leucippos approche Daphné déguisé en jeune fille, avant d'être découvert et mis à mort ; l'auteur précise qu'il rapporte une version arcadienne et éléenne. [Passage consulté](https://www.theoi.com/Text/Pausanias8B.html).
+
+**Résultat critique.** Le récit de Leucippos dans Pausanias ne doit être ni fondu dans le dispositif des flèches d'Ovide ni présenté comme une preuve historique du culte du laurier. Dans l'étiologie ovidienne, l'allusion aux honneurs romains et aux portes augustéennes relève de l'écriture d'époque impériale ; elle ne documente pas directement un rite grec archaïque.
+
+**Référence lexicographique française.** Pierre Chantraine, *Dictionnaire étymologique de la langue grecque. Histoire des mots*, version recomposée, Paris, Klincksieck, 2009, EAN 9782252036815 ([notice de l'éditeur consultée](https://www.klincksieck.com/livre/9782252036815/dictionnaire-etymologique-de-la-langue-grecque)). Pour discuter la forme δάφνη et son histoire, **l'entrée doit encore être lue** : la fiche commerciale établit le livre et non une étymologie précise. Ne pas attribuer à Chantraine une dérivation non constatée.
+
+**Statut :** références antiques de l'épisode contrôlées ; détail philologique à vérifier dans le dictionnaire ; distinction [S] tradition littéraire / [I] interprétation historique préservée.

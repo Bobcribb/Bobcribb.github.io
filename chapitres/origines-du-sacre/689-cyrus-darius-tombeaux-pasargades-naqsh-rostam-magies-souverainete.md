@@ -261,3 +261,15 @@ Cyrus et Darius ont laissé des monuments dont les formes matérielles divergent
 - Vernant, Jean-Pierre, et Marcel Detienne (dir.), *La Cuisine du sacrifice en pays grec*, Paris, Gallimard, 1979.
 
 **Clôture critique.** Ce texte traite des tombeaux royaux en tant que monuments, textes et dispositifs de pouvoir ; il ne reproduit pas la monographie sur les rites de manipulation des cadavres du *Vidēvdād*. L'attribution éditoriale dépend exclusivement des variables 689 et DCLXXXIX lors de l'opération atomique de la file GitHub.
+
+---
+
+### Note éditoriale documentaire — monument, inscription royale et récit dynastique (7 novembre 2026)
+
+**Source patrimoniale consultée.** L'UNESCO, [Pasargades, bien 1106](https://whc.unesco.org/fr/list/1106), inscrit au patrimoine mondial en **2004**, documente le tombeau attribué à Cyrus II, l'ensemble de palais, les jardins et le Tall-e Takht. Le tombeau est un vestige conservé sur le site de Pasargades ; ce dossier UNESCO **ne concerne pas** une inscription de Darius à Naqš-e Rostam ni la reconstruction des rites funéraires des deux souverains.
+
+**Inscription contrôlée.** Naqš-e Rostam, **DNa**, registre supérieur de la tombe de Darius Ier : [transcription du vieux-perse et traduction commentée sur Livius](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/dna/). DNa invoque Ahuramazda, énonce la titulature royale et nomme les peuples du domaine impérial ; l'inscrip­tion renvoie explicitement au décor des porteurs du trône pour manifester l'étendue du pouvoir. Ce texte est une **auto-représentation monarchique**, pas un inventaire neutre des administrations ni un récit de la mort du roi. DNb est une inscription distincte.
+
+**Historiographie française.** Pierre Briant, *Histoire de l'Empire perse. De Cyrus à Alexandre* (Fayard, 1996), et *Sur les traces de l'empire des Grands Rois. Enquête historiographique (1931–2023)* (Les Belles Lettres, **4 avril 2025**, EAN 9782251456706) ; références et présentation de l'approche par la pluralité documentaire vérifiées dans la [notice du Collège de France publiée le 15 mai 2025](https://www.college-de-france.fr/fr/actualites/parution-sur-les-traces-de-empire-des-grands-rois). Cette présentation n'est **pas** une consultation du contenu intégral des deux volumes ni un avis de Briant sur MYTHOS.
+
+**Échelle de preuve :** [A] existence, localisation et morphologie du monument UNESCO ; [A] texte et position de DNa au monument (édition de lecture en ligne) ; [I] mise en scène de la souveraineté ; [H] détails des cérémonies, psychologie des souverains et assimilation des rites de Pasargades et Naqš-e Rostam. Aucune approbation de l'UNESCO ou du Collège de France n'est revendiquée.

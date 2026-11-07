@@ -177,3 +177,15 @@ Le silence du héros est donc un acte dramatique et politique. La parole du deui
 **Thèse interprétative du volume C :** le pouvoir implique une responsabilité qui ne disparaît pas lorsque celui qui le détient refuse d'agir.
 
 **Suite :** volume CI — Eschyle, *Les Néréides* (Νηρηΐδες), consacré à Thétis, aux Néréides, à la nouvelle armure d'Achille et au passage du deuil à la vengeance.
+
+---
+
+### Note éditoriale documentaire — *Myrmidons*, silence scénique et réceptions (7 novembre 2026)
+
+**Témoignages antiques distincts.** Aristophane, *Grenouilles*, v. 911–913, donne par la satire comique l'image d'un Achille silencieux et voilé, rapproché de Niobé. Platon, *Banquet*, 179e–180a, fait discuter par Phèdre le rôle érotique d'Achille et de Patrocle dans une lecture attribuée à Eschyle. Ces deux références attestent **des réceptions antiques de la tragédie perdue**, pas le texte complet ni l'ordre de ses scènes ; la voix de Phèdre dans le dialogue de Platon n'est pas une position directement formulée par l'auteur du présent chapitre. [Texte ancien et traduction accessibles, *Banquet* 180a](https://bookstacks.org/en/authors/plato/symposium/section-180).
+
+**Édition de référence.** Stefan Radt (éd.), *Tragicorum Graecorum Fragmenta* III : *Aeschylus*, Göttingen, Vandenhoeck & Ruprecht, 1985, ISBN 3-525-25745-7 ; métadonnées et discussion de la méthode éditoriale vérifiées dans le [compte rendu d'Herman Van Looy, *L'Antiquité classique* 56 (1987), p. 310–312](https://www.persee.fr/doc/antiq_0770-2817_1987_num_56_1_2222_t1_0310_0000_2). Les fragments 131–142 Radt cités dans le dossier exigent une collation fragment par fragment avant d'en faire une preuve d'une scène.
+
+**Méthode philologique française.** Pierre Judet de La Combe, *L'Agamemnon d'Eschyle. Commentaire des dialogues* (Presses universitaires du Septentrion, édition imprimée 2001 ; [notice de l'éditeur](https://www.septentrion.com/fr/book/?GCOI=27574100833650)). Cet ouvrage porte sur l'*Agamemnon*, **pas** sur les *Myrmidons* ; il sert uniquement de comparaison méthodologique sur l'analyse d'une parole dramatique conservée. Aucune thèse personnelle relative à Achille ne lui est attribuée ici.
+
+**Statut :** témoignages littéraires et références bibliographiques contrôlés ; composition perdue et numérotation papyrologique à expertiser ; aucune restitution de réplique présentée comme vers découvert.
