@@ -64,4 +64,25 @@ La formule qui concentre le salut de plusieurs dans la mort d’un seul ne doit 
 
 Le chant V articule ainsi deux mouvements. Il montre la capacité des vivants à organiser la mémoire, à corriger des injustices et à différencier les parcours. Il montre aussi qu’un ordre relativement pacifié peut reposer sur une disparition mal comprise. La construction communautaire progresse, mais elle ne devient jamais entièrement transparente à elle-même.
 
+
+## Les jeux d’Anchise : l’honneur comme distribution contestable (V, 104–484)
+
+Les compétitions funéraires ne forment pas une parenthèse sportive sans portée politique. Elles traduisent la relation aux morts dans des institutions publiques où chacun peut voir comment sont répartis honneur, mérite, risque et récompense. La course navale confronte une capacité de commandement collectif à des incidents qui introduisent la contingence dans le classement. La course à pied rend encore plus visible la tension entre vitesse, loyauté et favoritisme. Une communauté se découvre à travers sa façon d’arbitrer ce qui vient d’arriver.
+
+Dans la course d’Euryale, Nisus intervient au profit de son ami après avoir perdu ses propres chances. Le résultat des concurrents dépend alors d’une action qui déplace l’inégalité plutôt que de la supprimer. Énée cherche une distribution de prix capable de calmer la contestation sans prétendre que l’épisode était régulier. Cette solution n’est pas le prototype d’une justice sportive moderne ; elle montre une autorité soucieuse de préserver une coexistence malgré une issue disputée. La générosité du chef et la rigueur de la règle demeurent partiellement en tension.
+
+Le combat d’Entelle et de Darès révèle un autre problème. Il faut reconnaître la puissance de la vieillesse sans permettre qu’une démonstration d’excellence se change en destruction d’un adversaire. Énée met fin au combat lorsque la proportion entre les forces et l’ardeur n’est plus tenable. La maîtrise de la violence devient un signe de légitimité plus précieux qu’une victoire sans limite. Le poème prépare de cette manière, dans un espace apparemment pacifié, la question des limites qui reviendra à la fin du duel contre Turnus.
+
+L’écho de l’Iliade XXIII est central : les jeux de Patrocle permettaient déjà d’articuler deuil, compétition et hiérarchie héroïque. Virgile conserve ce modèle en le déplaçant vers une collectivité en migration. Il ne s’agit plus seulement de rendre hommage au compagnon d’un héros, mais d’inventer des habitudes de coexistence capables de survivre au désastre de Troie. Le lecteur peut ainsi considérer les jeux comme un laboratoire de la justice communautaire, et non comme une simple pause dans la quête de l’Italie.
+
+## L’incendie des navires : le projet collectif et ceux qui n’en peuvent plus (V, 604–778)
+
+L’action de Junon, relayée par Iris, joue sur une lassitude réelle des Troyennes. Les navires représentent pour les chefs la possibilité d’atteindre enfin la destinée promise ; pour celles qui les incendient, ils incarnent la répétition de dangers et de départs sans terme assuré. Il serait injustifié de réduire cette révolte à une erreur irrationnelle des femmes. Le dispositif divin manipule un désir d’établissement que le récit a rendu compréhensible par les pertes accumulées au cours de la traversée.
+
+Énée se trouve devant une difficulté de gouvernement : imposer à tous les survivants un destin annoncé au chef, ou reconnaître des capacités inégales à endurer une nouvelle étape. Le conseil de Nautès et l’installation en Sicile d’une partie du groupe permettent une différenciation des parcours. Le récit distingue le maintien d’une mission collective de l’obligation pour chaque individu de la suivre matériellement jusqu’au bout. Cette décision ne constitue pas une démocratie au sens moderne, mais elle introduit un traitement politique de la fatigue, de l’âge et des aspirations à demeurer.
+
+Cette division de la communauté ne rompt pas nécessairement la fidélité troyenne. Les habitants qui restent conserveront une mémoire et des liens tandis que les autres poursuivent la navigation. La continuité ne dépend donc plus de l’unité géographique absolue. Le constat préfigure l’impossibilité de fonder Rome par la reproduction d’un groupe initial intact : les pertes, les alliances et les établissements successifs transforment continuellement la communauté. L’identité n’est pas un objet qu’on transporte sans changement.
+
+Le passage offre aussi un contrepoint aux déclarations prophétiques. Savoir que l’Italie est promise ne dit pas quelles personnes doivent supporter l’intégralité des sacrifices nécessaires à son acquisition. Énée devient chef lorsqu’il peut distinguer l’horizon commun de la route singulière. La question qui restera ouverte dans les chants de guerre est de savoir si ce pouvoir de différenciation s’étend également aux ennemis, aux vaincus et à ceux qui demandent la fin du conflit.
+
 Références : Énéide V, 1–103 ; 104–285 ; 286–361 ; 362–484 ; 545–603 ; 604–699 ; 700–778 ; 779–871. Renvoi : VI, 337–383, parole de Palinure. Comparaison : Iliade XXIII, jeux funèbres de Patrocle.
