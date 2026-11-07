@@ -79,4 +79,15 @@ Le matériau artistique transforme aussi la durée. Un mur ou un objet métalliq
 
 Ces deux œuvres représentées à l’intérieur de l’œuvre définissent une forme d’autoréflexion. L’Énéide elle-même raconte une histoire que ses personnages ne peuvent jamais posséder dans sa totalité. Le lecteur éprouve tour à tour la reconnaissance, l’ignorance, l’admiration et le doute. La puissance intellectuelle du poème réside dans ce déplacement continu : il ne suffit pas de voir pour savoir, pas plus qu’il ne suffit de connaître l’avenir pour justifier l’acte accompli au présent.
 
+
+## Le chant VI comme dispositif de visions : espaces, limites et incertitude
+
+Le chant VI ne propose pas une topographie des Enfers comparable à un itinéraire vérifiable. Les espaces y apparaissent selon la progression d'un voyageur guidé et selon les rencontres qui sont nécessaires à la compréhension du récit. La traversée, les zones de souffrance, la séparation du Tartare et de l'Élysée, puis l'approche du Léthé forment une composition morale autant que spatiale. Le mouvement de la lecture construit une carte qui donne des orientations sans prétendre rendre exhaustivement compte de toutes les conceptions antiques de l'au-delà.
+
+La distribution des personnages modifie constamment le statut de ce qui est vu. Palinure demande reconnaissance et sépulture ; Didon oppose un silence à la parole d’Énée ; Déiphobe porte les marques de la destruction de Troie ; Anchise présente des âmes destinées à des vies futures. La visite ne progresse donc pas par accumulation de connaissances neutres. Elle oblige le vivant à rencontrer les conséquences de ses propres décisions et les pertes qu'une histoire collective aurait tendance à subsumer. Le savoir est traversé par l'affect.
+
+Le récit juxtapose par ailleurs des traditions cosmologiques et des attentes religieuses dont la cohérence doctrinale n’est pas entièrement imposée. Dans l’analyse de Jeffrey Brodd, l’expérience des Enfers gagne à être abordée comme celle d'un rêve capable d'accueillir plusieurs niveaux de signification. On ne doit pas transformer cette proposition en preuve que le programme politique d'Anchise serait faux. Elle invite à tenir compte des médiations du récit : seuils, images, discours rapportés et limites de la perception.
+
+Une lecture rigoureuse de la porte d’ivoire prendra donc en considération sa position terminale après la révélation de l'avenir. L'image ne constitue pas un commentaire explicite du narrateur sur la légitimité d'Auguste. Elle rappelle qu'Énée quitte l'invisible par un dispositif associé aux songes trompeurs, sans que le poème fournisse une explication qui départagerait toutes les hypothèses. Cette réserve est poétiquement cohérente avec l'écart maintenu tout au long de l’épopée entre accomplissement d'un destin et maîtrise des moyens par lesquels il s'accomplit.
+
 Références : Énéide I, 1–11, 148–156 et 453–493 ; II, 199–249 ; IV, 68–73 ; VI, 450–476 ; VIII, 730–731 ; IX, 433–437 ; XI, 831 ; XII, 908–914 et 930–952.
