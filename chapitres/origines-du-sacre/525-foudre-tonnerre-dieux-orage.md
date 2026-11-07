@@ -179,3 +179,20 @@ La foudre sacrée est un révélateur des relations entre nature, violence et so
 **Iconographie suggérée, sous réserve des droits et métadonnées :** stèle d'Adad d'Arslan Tash ; figurations de Zeus brandissant le foudre ; reliefs hittites du dieu de l'orage ; représentations de Thor et amulettes Mjöllnir ; iconographie de Tláloc et Chaac. Aucune image non vérifiée n'est incorporée dans ce fichier.
 
 *Note éditoriale : les faits naturels et les interprétations religieuses sont distingués. Aucun événement météorologique n'est présenté comme la preuve empirique d'une intervention divine.*
+
+
+### 525.25. Complément : lieux foudroyés, présages et interprétation philosophique
+
+**Philologie.** Le grec *brontḗ* (βροντή) désigne le tonnerre, *astrapḗ* (ἀστραπή) l'éclair, et *keraunós* (κεραυνός) le trait foudroyant ; ces champs sémantiques se recoupent selon les contextes. En latin, *fulgur*, *fulmen* et *tonitrus* permettent également de distinguer manifestation lumineuse, impact et grondement. La comparaison de ces vocabulaires n'autorise pas à postuler une doctrine météorologique unique dans toutes les cités.
+
+**Le lieu frappé.** Dans les traditions religieuses romaines, la foudre pouvait entraîner un traitement rituel de l'espace atteint. Les termes *fulguritum* et *bidental* demandent une lecture précise des témoignages antiquaires : ils ne prouvent pas que tous les impacts étaient traités selon un protocole identique. Les spécialistes étrusques de l'interprétation des foudres, connus principalement à travers des sources romaines, rapprochent la météorologie de la divination sans se confondre avec les traditions scribales mésopotamiennes.
+
+**Théophanie et justice.** Exode 19,16–20 et le Psaume 29 associent tonnerre, éclairs et manifestation de YHWH ; la « voix » (*qôl*) divine du Psaume 29 constitue une image poétique, non une affirmation que chaque orage sanctionne une faute. La distinction entre signe, arme et jugement doit être conservée pour Zeus, Jupiter et les traditions proche-orientales.
+
+**Philosophie naturelle.** Aristote, *Météorologiques*, II, 9, propose des causes physiques dans le cadre de sa théorie des exhalaisons. Épicure, *Lettre à Pythoclès* (Diogène Laërce, X), admet plusieurs explications naturelles et cherche à dissiper la crainte des interventions divines. Lucrèce, *De rerum natura*, VI, critique l'idée d'une distribution moralement cohérente des foudres par Jupiter. À l'inverse, des auteurs stoïciens peuvent intégrer les causes naturelles à une conception providentielle du cosmos. Les analyses de Nietzsche et de Hegel peuvent servir de lectures philosophiques modernes de la puissance et de sa représentation, mais non de sources sur les cultes archaïques.
+
+**Bibliographie complémentaire.** Walter Burkert, *The Orientalizing Revolution*, Harvard University Press, 1992 ; M. L. West, *The East Face of Helicon*, Oxford University Press, 1997 ; A. A. Long et D. N. Sedley, *The Hellenistic Philosophers*, Cambridge University Press, 1987 ; Harry A. Hoffner Jr., *Hittite Myths*, 2e éd., Society of Biblical Literature, 1998.
+
+**Iconographie à documenter avant publication.** Stèle de Baal au foudre, Ras Shamra, Louvre AO 15775 (https://collections.louvre.fr/ark:/53355/cl010140542) ; relief d'İvriz, Tarḫunzas et Warpalawas ; représentations d'Adad avec taureau et éclairs. Chaque reproduction exige une vérification de provenance, datation, inventaire, crédit et droits. Aucune image non vérifiée n'est ajoutée.
+
+*Complément au chapitre canonique 525. Le chapitre 512 sur les musées et les objets sacrés demeure inchangé.*
