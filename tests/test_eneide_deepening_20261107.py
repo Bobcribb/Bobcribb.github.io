@@ -37,6 +37,15 @@ class EneideDeepeningTest(unittest.TestCase):
             self.assertIn(signature, raw)
             self.assertIn(signature, txt)
         self.assertIn("Le PDF de 84 pages", txt)
+        for target, phrase in {
+            "04-chant-iv.md": "Mariage contesté et dramaturgie des signes",
+            "12-chant-xii.md": "Le baudrier tragique : objet, trophée",
+            "14-empire-memoire.md": "Trois systèmes de reconnaissance",
+            "17-reperes-et-sources.md": "Dossier critique vérifié — mariage de Didon",
+        }.items():
+            self.assertIn(phrase, (CORPUS / target).read_text(encoding="utf-8"))
+            self.assertIn(phrase, txt)
+        self.assertIn("ne comprennent pas encore ces nouveaux développements", txt)
 
     def test_references_et_titles_sont_uniques(self):
         doc = BeautifulSoup(STUDY.read_text(encoding="utf-8"), "html.parser")
