@@ -1,0 +1,48 @@
+{
+  "id": "EPH-ART-001",
+  "slug": "ephese-artemision-second-temple-vers-250-av-jc",
+  "title": "Éphèse (Ionie) — Artémision, grand temple ionique, vers 250 av. J.-C.",
+  "period": "Évocation hellénistique vers 250 av. J.-C. du grand temple reconstruit après l’incendie de 356 av. J.-C. ; les aménagements successifs du téménos ne sont pas tous contemporains.",
+  "image": "/assets/reconstitutions-3d/ephese-artemision-second-temple-vers-250-av-jc.webp",
+  "caption": "Panorama photoréaliste interprétatif du grand Artémision d’Éphèse : double péristyle ionique, façade occidentale et autel monumental ; image numérique non métrique.",
+  "commentary": "Dans la plaine du Caystre en Ionie, le sanctuaire d’Artémis d’Éphèse était distinct des implantations successives de la cité. Sa longue histoire cultuelle et architecturale remonte bien avant la période hellénistique. L’Artémis éphésienne avait une identité locale complexe, nourrie de traditions anatoliennes et grecques ; il serait inexact de réduire ses images cultuelles à l’iconographie grecque ordinaire de la déesse chasseresse. Le site d’Éphèse est inscrit au patrimoine mondial de l’UNESCO, qui souligne l’importance du sanctuaire et le fait que très peu de son architecture monumentale est aujourd’hui visible.\n\nLe grand temple du VIe siècle av. J.-C., attribué dans les témoignages anciens au mécénat de Crésus, constituait une étape majeure de l’architecture ionique monumentale. Hérodote (I, 92) mentionne des dédicaces du roi lydien, témoignage qui concerne cet état archaïque et non le temple restitué sur la présente image. Après l’incendie de 356 av. J.-C., un nouveau temple monumental fut édifié au même emplacement. L’image adopte, à titre de convention, un état de la phase hellénistique vers 250 av. J.-C. ; la date ne fixe ni la fin exacte du chantier ni la réalisation de tous les décors.\n\nLe grand édifice était de type ionique diptère : les rangées de colonnes ménageaient autour du noyau sacré une monumentalité très différente de celle des périptères doriques. L’orientation occidentale de l’entrée et la présence de colonnes à parties sculptées sont documentées par les vestiges, les sources littéraires et les recherches sur les deux grands temples successifs. Le dossier de nomination de l’UNESCO donne pour l’édifice hellénistique environ 125 mètres sur 72 mètres et rapporte la tradition des 127 colonnes, dont 36 sculptées. Ces chiffres ne sont ni vérifiables dans ce panorama ni suffisamment assurés pour imposer une restitution colonne par colonne. L’organisation du sékos (espace intérieur sacré, parfois restitué à ciel ouvert), les rangs, les hauteurs et le couvrement des espaces doivent être discutés séparément.\n\nL’autel monumental situé en avant du temple appartenait au fonctionnement rituel du sanctuaire. Ses fondations, retrouvées au XXe siècle, et des éléments décoratifs conservés à l’Ephesos Museum de Vienne constituent des points d’appui archéologiques ; ils ne démontrent toutefois pas que le petit autel à frise figurée ici soit fidèle dans ses dimensions, ses reliefs ou sa position. Les rites représentés par la fumée, les offrandes et les personnages sont de simples évocations de pratiques sacrificielles, non la restitution d’une cérémonie datée.\n\nLes recherches de l’Institut archéologique autrichien montrent que le téménos ne se résumait pas au seul temple. Un péristoon dorique développé sur au moins trois côtés a été étudié dans son environnement, avec une datation généralement proposée autour de 200 av. J.-C. : la présente vue, située conventionnellement vers 250 av. J.-C., n’en fait donc pas un élément certain de son paysage. Les bâtiments secondaires, chemins, arbres, collines et milieux humides ne reproduisent pas un relevé géoarchéologique du IIIe siècle. Le déplacement de la ligne de côte et la sédimentation de la plaine ont profondément transformé les paysages éphésiens.\n\nLa restitution numérique privilégie l’échelle sensible du monument, la répétition du péristyle, les marches du soubassement et l’espace dégagé devant l’édifice. La façade frontonale, les statues des acrotères, les têtes figurées et les reliefs des fûts de colonnes visibles sur l’image, les teintes rouge et or, le nombre apparent de colonnes, les dimensions des marches et les ornements de l’autel sont des inventions iconographiques. Ils ne reproduisent ni les sculptures du British Museum ni un plan de conservation institutionnel. Le visuel n’est pas une maquette 3D métrique, ne permet aucune mesure archéologique, et aucune institution citée n’a approuvé la géométrie ou l’apparence de cette création.\n\nL’Artémision matérialisait tout à la fois le rayonnement d’une cité, des pratiques cultuelles régionales, des circuits d’offrandes et des enjeux de prestige. L’image peut servir d’outil de médiation et d’hypothèse de perception architecturale, mais non de preuve de l’état effectif du sanctuaire à une date unique.",
+  "certainty": {
+    "high": "Existence du sanctuaire d’Artémis en Ionie, succession de temples, reconstruction postérieure à l’incendie de 356 av. J.-C., caractère monumental de l’architecture ionique, emplacement extra-urbain et présence d’un autel ; présence de fragments sculptés dans les collections archéologiques.",
+    "medium": "Restitution de l’édifice hellénistique de type diptère, orientation occidentale, grandes dimensions rapportées par le dossier UNESCO, nombre total et distribution des colonnes transmis par les sources, datation choisie vers 250 av. J.-C. et organisation du sékos.",
+    "low": "Fronton figuré, sculptures individualisées des colonnes et des acrotères, polychromie, forme complète de la toiture, dessin exact de l’autel et de ses reliefs, aménagements de la place, processions, costumes, paysage, végétation, situation et distance de la mer, direction de lumière."
+  },
+  "sources": [
+    {
+      "label": "UNESCO — Éphèse, patrimoine mondial n° 1018 : contexte du sanctuaire et de la ville",
+      "url": "https://whc.unesco.org/fr/list/1018"
+    },
+    {
+      "label": "UNESCO — dossier de nomination d’Éphèse, section « Artemision » : succession des temples et données monumentales",
+      "url": "https://whc.unesco.org/uploads/nominations/1018rev.pdf"
+    },
+    {
+      "label": "Académie autrichienne des sciences / ÖAI — campagne d’Éphèse 2022 : péristoon et topographie du téménos",
+      "url": "https://www.oeaw.ac.at/projekt/art-te/research/ephesos-2022"
+    },
+    {
+      "label": "Fonds autrichien de la recherche FWF — projet Lilli Zabrana : histoire du téménos et portique dorique",
+      "url": "https://www.fwf.ac.at/en/research-radar/10.55776/ZK48"
+    },
+    {
+      "label": "Kunsthistorisches Museum, Vienne — autel de l’Artémision d’Éphèse, fragments et restitution",
+      "url": "https://www.khm.at/en/artworks/altar-1440326"
+    }
+  ],
+  "primary_texts": [
+    "Hérodote, Histoires, I, 92 : dons de Crésus à l’Artémision archaïque ; ne documente pas l’édifice reconstruit après 356 av. J.-C.",
+    "Strabon, Géographie, XIV, 1, 22 : tradition sur l’incendie et la reconstruction du temple ; témoignage tardif à confronter à l’archéologie.",
+    "Pline l’Ancien, Histoire naturelle, XXXVI : tradition littéraire sur les colonnes et la monumentalité de l’Artémision ; détails débattus."
+  ],
+  "methodology": "Reconstitution numérique photoréaliste originale assistée par IA, non métrique, non photogrammétrique et sans validation institutionnelle. Le rendu pictural peut suggérer une toiture continue là où la structure du sékos reste discutée. Les chiffres des auteurs anciens et les volumes restitués ne sont pas mesurables dans l’image.",
+  "rights_and_method": "Création originale MYTHOS, sans emprunt photographique, sans planche archéologique réutilisée, sans interface, texte, menu, numéro, logo, filigrane ou procédé 2,5D intégrés aux pixels. Sources archéologiques fournies comme documentation, non comme approbation du rendu.",
+  "publication_status": "fichier_sur_branche_GitHub_non_publie_deploiement_https_a_verifier",
+  "width": 1672,
+  "height": 941,
+  "sha256": "7e3c43a4e13d14b35f443ebb9abf9f1a1dfe1927d1ec9a0c2a9302ba5b6acb17",
+  "created_at": "2026-11-07"
+}
