@@ -22,3 +22,13 @@ Dans les *Euménides* d'Eschyle (1–33), la Pythie ouvre la tragédie par une p
 **Faits attestés :** temple, consultations, Pythie et témoignages littéraires. **Controverses :** état mental précis, rédaction des réponses, hypothèse des gaz. **Limite :** aucune méthode ne permet de mesurer rétrospectivement la conscience d'une Pythie particulière.
 
 **Sources primaires :** Hérodote I, 46–56 ; Eschyle, *Euménides* 1–33 ; Plutarque, *De Pythiae oraculis* et *De defectu oraculorum*. **Études :** Joseph Fontenrose, *The Delphic Oracle* (1978) ; Robert Flacelière, « Plutarque et la Pythie », *REG* 56 (1943), 72–111, DOI 10.3406/reg.1943.2970 ; Aleš Chalupa, « Pythiai and Inspired Divination in the Delphic Oracle », *Journal of Cognitive Historiography* 1 (2014), DOI 10.1558/jch.v1i1.24 ; H. A. Spiller, J. R. Hale, J. Z. de Boer, « The Delphic Oracle: A Multidisciplinary Defense of the Gaseous Vent Theory » (2002), DOI 10.1081/CLT-120004410.
+
+---
+
+### Note éditoriale documentaire — Robert Flacelière et Marcel Detienne (7 novembre 2026)
+
+**Robert Flacelière** a publié « Plutarque et la Pythie », *Revue des Études Grecques*, **56** (1943), p. 72–111, DOI [10.3406/reg.1943.2970](https://doi.org/10.3406/reg.1943.2970), [texte sur Persée](https://www.persee.fr/doc/reg_0035-2039_1943_num_56_264_2970). Cette étude confronte les dialogues pythiques de Plutarque (*De Pythiae oraculis*, *De E apud Delphos*, *De defectu oraculorum*) et le contexte delphique de l'auteur. Pour le chapitre 452, elle fournit une étude ciblée de la **représentation de la parole inspirée chez Plutarque**. Les dialogues de l'époque impériale ne donnent pas accès directement à la physiologie d'une Pythie de l'époque archaïque.
+
+**Marcel Detienne**, *Les Maîtres de vérité dans la Grèce archaïque*, Paris, François Maspero, 1967, [bibliographie de l'EPHE](https://prosopo.ephe.psl.eu/marcel-detienne), constitue un cadre historique de comparaison sur le statut social de la parole réputée vraie chez les devins, poètes et figures d'autorité. Il ne faut pas en déduire que tous les oracles obéissent à un modèle unique de discours véridique.
+
+**Limites et provenance.** Ces deux références sont une étude publiée et un ouvrage de méthode, et non des opinions adressées à MYTHOS. Une citation de Plutarque doit mentionner le traité et la section ; aucune explication physico-chimique certaine de l'inspiration ne découle de ces ouvrages.

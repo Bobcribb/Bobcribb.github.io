@@ -181,3 +181,11 @@ Richard Kannicht (éd.), *Tragicorum Graecorum Fragmenta* 5, *Euripides*, 2004 ;
 - Collard, Cropp et Lee, dossier *Erectheus* : https://doi.org/10.3828/liverpool/9780856686191.003.0007
 
 **Protection éditoriale :** fichier nouveau ; aucune suppression, aucun écrasement, aucune modification des planifications automatiques ; déploiement du site non vérifié.
+
+---
+
+### Note éditoriale documentaire — Nicole Loraux et l'autochtonie (7 novembre 2026)
+
+**Référence française :** Nicole Loraux, *Les Enfants d'Athéna. Idées athéniennes sur la citoyenneté et la division des sexes*, Paris, François Maspero, 1981 ; voir [le compte rendu publié dans *L'Antiquité classique*](https://www.persee.fr/doc/antiq_0770-2817_1986_num_55_1_2194_t1_0520_0000_2). La chercheuse examine l'ancrage civique de l'autochtonie athénienne et la place des femmes dans la représentation de l'identité politique.
+
+**Application critique à *Érechthée*.** Cette historiographie aide à poser la question des tensions entre cité, généalogie autochtone et sacrifice des filles. Elle ne dispense pas de revenir aux fragments d'Euripide, à la parole de Praxithéa et aux problèmes de transmission. **On ne déduit pas de ce livre le texte ni la mise en scène perdus.** Le rapprochement est une piste analytique à vérifier contre les éditions des fragments ; il ne vaut ni approbation de MYTHOS ni avis personnel de Nicole Loraux.

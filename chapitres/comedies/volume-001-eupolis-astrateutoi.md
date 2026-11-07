@@ -248,3 +248,13 @@ Le rire d'Eupolis — tel que nous pouvons seulement l'entrevoir — rend visibl
 ### Suite de la série — navigation vérifiée
 
 - [Volume II — Eupolis, *Chrysoun genos*](../volume-002-eupolis-chrysoun-genos/).
+
+---
+
+### Note éditoriale documentaire — Pierre Vidal-Naquet et les marges civiques (7 novembre 2026)
+
+**Référence :** Pierre Vidal-Naquet, *Le Chasseur noir. Formes de pensée et formes de société dans le monde grec*, Paris, François Maspero, **1981** ; [présentation de l'éditeur La Découverte](https://www.editionsladecouverte.fr/le_chasseur_noir-9782707178886), [compte rendu contemporain dans *L'Antiquité classique*](https://www.persee.fr/doc/antiq_0770-2817_1983_num_52_1_2106_t1_0456_0000_2).
+
+**Intérêt pour *Astrateutoi*.** Vidal-Naquet étudie notamment la jeunesse, les marges de la cité, les formes de guerre et les relations entre représentations et institutions. Ce cadre aide à poser des questions sur l'exclusion civique et les représentations de ceux qui ne combattent pas, mais **ne reconstitue pas le contenu perdu de la comédie d'Eupolis**.
+
+**Limite de preuve.** Le titre *Astrateutoi* et les fragments doivent être analysés dans les éditions de la comédie ancienne ; un modèle historiographique ne prouve ni la présence d'un personnage donné ni une satire spécifique de l'éphébie. Cette annotation est une référence bibliographique critique, non une relecture de MYTHOS par l'historien.

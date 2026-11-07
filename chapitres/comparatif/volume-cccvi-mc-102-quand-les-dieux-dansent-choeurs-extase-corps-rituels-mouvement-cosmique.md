@@ -507,3 +507,15 @@ Vérifier les variantes et la métrique grecque des passages choisis ; collation
 **Traçabilité et garantie éditoriale.** MC-102 est une cote historique autonome. Son attribution au volume CCCVI (306) est attestée par le reçu transactionnel du registre `editorial/numbering.json` ; sa publication HTTPS a été contrôlée le 6 novembre 2026. Le dossier ne modifie ni le manuscrit MC-069 en quarantaine, ni les compléments MC-025, ni aucun volume déjà publié. Il ne supprime aucune archive, ne réserve aucun volume futur et ne touche à aucune automatisation.
 
 **Note de réconciliation documentaire (6 novembre 2026).** Ce dossier MC-102 reprend intégralement le manuscrit conservé dans `editorial/inbox/6d8a1f2b-5c4e-4b90-8a27-202611060101.json`, mis en attente pour collision de cote historique avec MC-101. Aucune étude supplémentaire n'est créée sur le fond : les trois mentions de sa cote propre ont seules été corrigées, sans changement de ses analyses, références, tableaux ou bibliographie. L'original et son empreinte restent protégés par `editorial/holds.json` ; la première demande MC-101 est attribuée au volume CCCIII (303). Le reçu transactionnel atteste désormais le volume CCCVI (306) ; la publication du dossier sur bobmythos.fr a été vérifiée en HTTPS le 6 novembre 2026.
+
+---
+
+### Note éditoriale documentaire — Metropolitan Museum of Art, Śiva Naṭarāja (7 novembre 2026)
+
+**Nature :** note construite à partir d'un catalogue d'objet muséal ; elle n'est pas une validation de MYTHOS par le Metropolitan Museum of Art.
+
+**Objet contrôlé.** *Shiva as Lord of Dance (Nataraja)*, Inde (Tamil Nadu), époque **chola**, datation approximative **fin du XIe siècle**, alliage cuivreux, **inventaire 1987.80.1**, Metropolitan Museum of Art : https://www.metmuseum.org/art/collection/search/39328. Le musée décrit la posture dansante du dieu et les attributs iconographiques qui organisent la scène.
+
+**Portée critique.** Cette sculpture atteste l'existence d'un type iconographique précis dans son contexte historique et artistique. Elle ne constitue pas une preuve de l'origine de toutes les traditions indiennes de danse divine, de leur mise en œuvre scénique concrète ni d'une parenté génétique avec les chœurs dionysiaques grecs. Ne pas confondre la date de l'objet, celle de traditions textuelles comparées et celle des pratiques rituelles contemporaines.
+
+**État :** notice d'inventaire consultée le 7 novembre 2026 ; aucun avis du musée sur les rapprochements interculturels de MC-102 n'est revendiqué.

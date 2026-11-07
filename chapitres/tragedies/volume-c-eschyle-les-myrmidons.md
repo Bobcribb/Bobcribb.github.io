@@ -177,3 +177,13 @@ Le silence du héros est donc un acte dramatique et politique. La parole du deui
 **Thèse interprétative du volume C :** le pouvoir implique une responsabilité qui ne disparaît pas lorsque celui qui le détient refuse d'agir.
 
 **Suite :** volume CI — Eschyle, *Les Néréides* (Νηρηΐδες), consacré à Thétis, aux Néréides, à la nouvelle armure d'Achille et au passage du deuil à la vengeance.
+
+---
+
+### Note éditoriale documentaire — Pierre Judet de La Combe et la méthode dramatique (7 novembre 2026)
+
+**Référence française de méthode :** Pierre Judet de La Combe, *L'Agamemnon d'Eschyle. Commentaire des dialogues*, 2 vol., Presses universitaires du Septentrion, **2001** ; [compte rendu académique dans *L'Antiquité classique*](https://www.persee.fr/doc/antiq_0770-2817_2003_num_72_1_2530_t1_0325_0000_3), [analyse du *Bryn Mawr Classical Review*](https://bmcr.brynmawr.edu/2003/2003.04.20/).
+
+**Intérêt méthodologique.** Ce commentaire s'attache notamment à l'interprétation philologique des dialogues de l'*Agamemnon*. Il rappelle l'importance d'examiner le rôle des paroles, leur contexte dramatique et leurs difficultés textuelles avant de les convertir en concepts philosophiques.
+
+**Limite décisive.** Il s'agit d'un commentaire de l'*Agamemnon*, **pas d'une édition des fragments des *Myrmidons***. Il ne permet donc pas de reconstituer les dialogues perdus d'Achille ni de conclure à la durée exacte de son silence. Pour établir le dossier des *Myrmidons*, consulter d'abord les fragments attribués, le témoignage d'Aristophane et les éditions critiques correspondantes. Référence d'approche, sans expertise du volume MYTHOS par l'auteur.

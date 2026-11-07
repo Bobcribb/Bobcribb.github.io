@@ -65,3 +65,13 @@ Une lecture hégélienne de l'architecture comme objectivation d'un ordre spirit
 6. Jan Assmann, *The Search for God in Ancient Egypt*, Cornell University Press, 2001 ; Richard H. Wilkinson, *The Complete Temples of Ancient Egypt*, Thames & Hudson, 2000.
 
 **Continuité :** chapitre 502 — Inde, installation des images, *pratiṣṭhā* et statut rituel de la présence divine.
+
+---
+
+### Note éditoriale documentaire — égyptologues français et cadrage historique (7 novembre 2026)
+
+**Nicolas Grimal**, *Histoire de l'Égypte ancienne*, édition Fayard, 1991 ([BnF](https://catalogue.bnf.fr/ark:/12148/cb37359690h) ; [Collège de France](https://www.college-de-france.fr/fr/personne/nicolas-grimal)) : synthèse de référence à utiliser pour distinguer les périodes de l'histoire pharaonique avant toute comparaison entre scènes de fondation.
+
+**Françoise Dunand et Christiane Zivie-Coche**, *Hommes et dieux en Égypte. 3000 a.C.–395 p.C. : anthropologie religieuse*, édition enrichie, Paris, Cybèle, 2006 ([BnF](https://catalogue.bnf.fr/ark:/12148/cb409647187)) : ouvrage de cadrage sur l'évolution des relations entre cultes, institutions et représentations divines.
+
+**Réserve de preuve.** Ces références bibliographiques générales ne remplacent pas les textes et relevés archéologiques du rite d'étirement du cordeau ni les travaux spécifiques de Corinna Rossi. On ne leur attribue pas une conclusion sur une scène particulière d'Edfou ou de Dendéra sans citer précisément un passage de leur livre. Ce sont des **lectures de contextualisation**, pas des expertises du chapitre 501 ni une validation du site par leurs auteurs.

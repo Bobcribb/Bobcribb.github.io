@@ -310,3 +310,17 @@ La prochaine étape de l'histoire comparée des origines du sacré consiste à �
 - **Ensemble de Meretneith et mobilier de vin**, Université de Vienne (2023), photos du projet avec crédits : « Sépulture féminine de très haut rang ; statut politique exact objet de débats. »
 
 Ne pas fabriquer d'illustration pseudo-archéologique présentée comme une photographie, de légende affirmant une scène d'exécution imaginaire, ni de numéro définitif. Les droits, auteurs et licences des images seront vérifiés avant leur intégration effective au site.
+
+---
+
+### Note éditoriale documentaire — recherche bioarchéologique de Roselyn A. Campbell (7 novembre 2026)
+
+**Nature :** note de lecture d'un article académique signé ; elle ne constitue ni une évaluation de MYTHOS par l'autrice ni une approbation de Purdue University.
+
+**Publication contrôlée.** Roselyn A. Campbell, **Department of Anthropology, Purdue University**, « New data from old bones: using bioarchaeology and forensics to reassess legacy data from ancient Abydos, Egypt », *Frontiers in Environmental Archaeology*, 5 octobre 2026, DOI **10.3389/fearc.2026.1858940** : https://www.frontiersin.org/journals/environmental-archaeology/articles/10.3389/fearc.2026.1858940/full.
+
+**Résultat précisément circonscrit.** L'étude porte notamment sur **46 crânes conservés** provenant des sépultures subsidiaires des enclos funéraires de Djer, Djet et Meretneith, dans la collection Duckworth à Cambridge. Des traumatismes crâniens périmortels **potentiellement mortels** sont identifiés sur **18 crânes (39 % de l'échantillon analysé)**. L'article précise que les restes disponibles représentent seulement **5 à 15 %** des populations funéraires de chacun des enclos et que l'absence des éléments postcrâniens réduit considérablement les inférences.
+
+**Portée critique.** Les 39 % ne sont pas une estimation de la proportion de victimes pour toutes les tombes de la Ire dynastie. Le traumatisme ne révèle ni un consentement, ni la totalité de la chaîne des gestes funéraires. Il faut distinguer l'identification anatomique, l'hypothèse de mise à mort et l'interprétation religieuse du sacrifice d'accompagnement. Les données de Campbell ne doivent pas être étendues sans justification aux tombeaux royaux d'Umm el-Qaab ou à toutes les populations anciennes d'Abydos.
+
+**État :** publication et passages de résultats/limites consultés le 7 novembre 2026 ; aucune expertise personnelle de l'autrice sur MYTHOS n'est supposée.

@@ -69,3 +69,17 @@ Le chantier est aussi une articulation entre travail humain et ordre cosmique : 
 6. Irene J. Winter, travaux sur l'image royale et les monuments mésopotamiens, notamment les études réunies dans *On Art in the Ancient Near East*, Brill, 2010.
 
 **Continuité :** chapitre 501 — Égypte, Séchat, étirement du cordeau et dépôts de fondation.
+
+---
+
+### Note éditoriale documentaire — ORACC et Musée du Louvre (7 novembre 2026)
+
+**Nature :** référence à une édition scientifique et à des notices de collection ; cette note ne constitue pas une expertise ou une approbation de MYTHOS par l'université ou le musée.
+
+**Édition primaire contrôlée.** L'Electronic Text Corpus of Sumerian Royal Inscriptions (ETCSRI/ORACC) classe les cylindres A et B de Gudéa sous **Q000377**, *The building of Ningirsu's temple*. Le texte est présenté par colonnes avec translittération et traduction, ce qui permet de rattacher précisément la décision divine, la mobilisation de matériaux et le chantier de l'E-ninnu à leurs passages : https://oracc.museum.upenn.edu/etcsri/Q000377/html.
+
+**Musée du Louvre : identification des objets.** La notice du **cylindre A**, inventaire **MNB 1512**, indique un document commémoratif sumérien sur terre cuite, trouvé à Tello et daté vers **2120–2110 av. J.-C.** : https://collections.louvre.fr/ark:/53355/cl010124631. Celle du **cylindre B**, inventaire **MNB 1511**, donne la même période et provenance, en précisant sa fonction dans la consécration du sanctuaire : https://collections.louvre.fr/ark:/53355/cl010124630.
+
+**Portée critique.** Les inscriptions attribuent au monde divin la décision de construire le temple et présentent l'approvisionnement comme une réalisation exemplaire de Gudéa. Elles sont des témoins directs de **la représentation royale du chantier**, mais ne suffisent pas à vérifier matériellement toutes les provenances de ressources ni la chronologie de chaque phase de construction. Pour toute correction du chapitre, citer la colonne et les lignes de Q000377 plutôt qu'une simple paraphrase globale. Le catalogue du Louvre établit l'identité des objets conservés, non une validation du récit historique par les conservateurs.
+
+**État :** notices et édition consultées le 7 novembre 2026 ; aucune collation indépendante de l'ensemble des lignes sumériennes revendiquée.

@@ -395,3 +395,13 @@ Aucun visuel généré 2,5D, aucune photographie non autorisée et aucune légen
 L'histoire comparée des scribes et des dieux de l'écriture ne s'achève pas sur une origine unique de l'alphabet. Elle fait apparaître des autorités distinctes : patronage de la compétence, garantie d'une inscription, mise en mémoire d'une décision, droit révélé et critique du savoir externe. Les rapprochements avec MC-026, MC-034, MC-038 et les chapitres sur les noms sacrés doivent conserver leurs limites documentaires ; leurs textes existants ne sont ni remplacés ni résumés ici. Le manuscrit peut être publié comme étude autonome parce qu'il traite une question nouvelle sur le document comme instrument d'autorité, plutôt qu'une répétition des mythes du destin ou des étymologies divines.
 
 **Fin du dossier MC-071.** L'identifiant historique ne constitue pas une réservation de numéro canonique ; aucun volume suivant n'est annoncé.
+
+---
+
+### Note éditoriale documentaire — Cécile Michel et Clarisse Herrenschmidt (7 novembre 2026)
+
+**Cécile Michel**, *Correspondance des marchands de Kanish au début du IIe millénaire avant J.-C.*, Paris, Cerf, **2001**, [notice de l'éditeur](https://www.editionsducerf.fr/librairie/correspondance-des-marchands-de-kanish-au-debut-du-iie-millenaire-avant-j-c/). Le volume donne accès à un choix de **400 lettres** commerciales et familiales du milieu paléo-assyrien ; il comprend notamment de la correspondance féminine. Ce dossier permet de vérifier, sur des textes administratifs et privés, la façon dont l'écriture matérialise des obligations, des décisions et des relations sociales.
+
+**Clarisse Herrenschmidt**, *Les Trois Écritures. Langue, nombre, code*, Paris, Gallimard, **2007**, [notice de la BnF](https://catalogue.bnf.fr/ark:/12148/cb41028697t). Cette étude d'histoire comparée des systèmes graphiques fournit un cadre de réflexion sur les fonctions des écritures et des notations.
+
+**Portée de la confrontation.** Les lettres de marchands ne sont **pas des textes de culte de Nisaba ou Nabû**, et une histoire générale des systèmes d'écriture ne fournit pas l'étymologie d'un nom divin. Utiliser ces travaux comme **contrepoints documentaires** pour distinguer la présence historique de l'écrit dans les échanges humains de l'affirmation mythique que les dieux écrivent ou décident sur tablette. Toute citation précise doit être rapprochée du numéro de lettre ou de la page de l'ouvrage concerné. Aucun aval des autrices à MYTHOS n'est revendiqué.

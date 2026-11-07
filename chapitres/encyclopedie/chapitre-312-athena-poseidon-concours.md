@@ -90,3 +90,13 @@ La victoire d'Athéna sur Poséidon ne constitue pas une exclusion du dieu marin
 
 ## XXIII. Index éditorial
 **Série :** MYTHOS, Grande encyclopédie universitaire ; **volume XCIV ; chapitre 312**. **Précédent :** 311 Arès, Alcippe et l'Aréopage. **Suivant proposé :** 313 à déterminer après vérification des thèmes déjà couverts. **Personnages :** Athéna, Poséidon, Cécrops, Érechthée, Pandrosos. **Lieux :** Acropole, Érechthéion, Pandroséion, Parthénon. **Sources :** Pseudo-Apollodore, Hérodote, Pausanias. **Statut :** étude publique destinée à GitHub ; ne constitue pas une sauvegarde intégrale de MYTHOS.
+
+---
+
+### Note éditoriale documentaire — historiographie française du mythe civique (7 novembre 2026)
+
+**Jean-Pierre Vernant.** *Les Origines de la pensée grecque* (PUF, 1962) et *Mythe et pensée chez les Grecs* (édition La Découverte, 1990) constituent des références historiographiques pour analyser les relations entre représentations religieuses, catégories sociales et développement de la cité. Identifications : [Collège de France](https://www.college-de-france.fr/fr/chaire/jean-pierre-vernant-etude-comparee-des-religions-antiques-chaire-statutaire/biography) ; [BnF](https://catalogue.bnf.fr/ark:/12148/cb35497256g).
+
+**Nicole Loraux.** *Les Enfants d'Athéna. Idées athéniennes sur la citoyenneté et la division des sexes* (Maspero, 1981), étudié dans [ce compte rendu universitaire](https://www.persee.fr/doc/antiq_0770-2817_1986_num_55_1_2194_t1_0520_0000_2), constitue un contrepoint sur les récits athéniens d'autochtonie et l'organisation symbolique de la citoyenneté.
+
+**Portée scientifique.** Ces références offrent un **cadre historiographique** pour examiner les usages civiques d'un récit religieux ; elles ne sont ni des témoignages antiques du concours ni des commentaires de ces auteurs consacrés nécessairement à chaque détail du chapitre. L'analyse historique du concours reste fondée prioritairement sur Hérodote VIII, 55, les traditions mythographiques, les monuments et leurs chronologies. Les notices bibliographiques vérifient l'existence des œuvres, non leur approbation du dossier MYTHOS.
