@@ -166,3 +166,13 @@ La beauté de Daphné déclenche chez Apollon un désir dont le récit montre le
 **Index :** Daphné ; Apollon ; Cupidon ; Éros ; Pénée ; Leucippos ; Pausanias ; Ovide ; *Métamorphoses* ; laurier ; *daphnê* ; nymphe ; Artémis ; virginité ; poursuite ; consentement ; métamorphose ; Syrinx ; Pan ; Hyacinthe ; Pythia ; Delphes ; Bernin ; iconographie.  
 **Chemin unique :** `chapitres/encyclopedie/chapitre-353-daphne-apollon-metamorphose-laurier.md`.  
 **Suite proposée :** chapitre 354, volume CXXXVI — *Hyacinthe et Apollon : mort du jeune héros, fleur mémorielle et cultes d'Amyclées*. Vérifier le dernier fichier réel avant création.
+
+---
+
+### Note éditoriale documentaire — Pierre Chantraine et la philologie du laurier (7 novembre 2026)
+
+**Instrument de référence :** Pierre Chantraine, *Dictionnaire étymologique de la langue grecque. Histoire des mots*, nouvelle composition Klincksieck, **2009** ; [notice de l'éditeur](https://www.klincksieck.com/livre/9782252036815/dictionnaire-etymologique-de-la-langue-grecque), [catalogue de la BnF](https://catalogue.bnf.fr/ark:/12148/cb428017814.public). L'édition est achevée par Jean Taillardat, Olivier Masson et Jean-Louis Perpillou.
+
+**Application.** Le mot grec **δάφνη** (*dáphnē*, laurier) et le nom mythologique de Daphné invitent à une enquête lexicale : emplois, attestations littéraires, dérivés et rapport éventuel entre nom propre et nom de plante. Le dictionnaire est un outil pour contrôler une étymologie ; le simple voisinage entre les deux formes ne démontre pas l'origine historique d'un mythe.
+
+**Limites.** La notice bibliographique ne remplace pas la consultation de l'entrée exacte de Chantraine. Aucune étymologie contestée n'est ici présentée comme certaine ; pour l'analyse mythographique, les témoignages de Pausanias, Ovide et autres auteurs sont à confronter séparément selon leur date et leur genre. La référence est documentaire et ne représente pas une évaluation de MYTHOS par les auteurs.
