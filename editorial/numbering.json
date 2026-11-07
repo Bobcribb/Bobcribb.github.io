@@ -1527,6 +1527,12 @@
           "path": "chapitres/origines-du-sacre/826-huaca-de-los-reyes-caballo-muerto-reliefs-argile-pouvoir-ceremoniel.md",
           "request_sha256": "844b81eff7539341bb12f23d3c80255542529be320a81abd401881ad48318486",
           "initial_source_sha256": "f34fe9a4e472d0bce7bf3b7f3ad5a5b878174cb250c0915b0fe3b35ac46ca50b"
+        },
+        "c8a5d1e9-2f7e-4b95-9c46-202611071718": {
+          "number": 827,
+          "path": "chapitres/origines-du-sacre/827-la-galgada-chambres-niches-foyers-tombes-textiles-memoire.md",
+          "request_sha256": "1ac2f4877687b711b63f86d3ced1ffc038a71454348b33fe4f1495924a9e95c4",
+          "initial_source_sha256": "c45e2ccdbe8a3e5ef409250dec6a13486a7ad46c7433d637c8dd30354419fe74"
         }
       }
     },
@@ -3754,6 +3760,12 @@
           "path": "chapitres/tragedies/volume-ccci-iophon-iliou-persis-prise-troie-cheval-priam-cassandre-astyanax-tragedie-perdue.md",
           "request_sha256": "a11aca17b4afdd66040fc01c74f2d2f3dff5726fc53b162bf656239675d5c84f",
           "initial_source_sha256": "6544adac09a892ef20f6bb7f7642ef811db118f9218efba398f6d252bd0072d8"
+        },
+        "a9b68b2a-5a37-461f-8b7f-97d1ac6ce31b": {
+          "number": 302,
+          "path": "chapitres/tragedies/volume-cccii-iophon-telephe-telephos-auge-mysie-achille-guerison-oracle-tragedie-perdue.md",
+          "request_sha256": "f11991930507b713e318afa048f00a3fb4cfbb1d21a3c42a5dd94f56024eeffb",
+          "initial_source_sha256": "a343e8095fc007a890b2cb3b45dc50a434340a05fb0666414f2f576e83d19895"
         }
       }
     },
